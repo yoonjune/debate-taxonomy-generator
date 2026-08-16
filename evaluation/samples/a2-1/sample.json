@@ -1,0 +1,87 @@
+{
+  "schema_version": "0.1",
+  "mode": "event-window",
+  "sample_id": "a2-1_b7da09a4_a2-1-02",
+  "motion": "Governments should fund permanent research stations on the Moon.",
+  "participants": {
+    "MOD": {"name": "Adrian"},
+    "PRO": {"name": "Sofia"},
+    "CON": {"name": "Malik"}
+  },
+  "target_taxonomies": ["A2-1"],
+  "assignment": {
+    "mode": "event-window",
+    "motion": "Governments should fund permanent research stations on the Moon.",
+    "participants": {"MOD": "Adrian", "PRO": "Sofia", "CON": "Malik"},
+    "target_taxonomies": ["A2-1"],
+    "duration_profile": "late-barge-in event window",
+    "source_locator": "synthetic-forward/forward-all-20260816/a2-1/event-window"
+  },
+  "variation": {
+    "taxonomy": "A2-1",
+    "variation_id": "b7da09a4-a2-1-02",
+    "seed": "forward-all-20260816",
+    "domain": "science",
+    "motion_family": "research-and-exploration-policy",
+    "trigger_subtype": "overrun-to-opponent",
+    "role_pattern": "PRO_to_CON",
+    "moderator_style": "explicit-transition",
+    "timing_profile": "late-barge-in",
+    "participant_set": "set-07",
+    "participants": {"MOD": "Adrian", "PRO": "Sofia", "CON": "Malik"}
+  },
+  "turns": [
+    {
+      "turn_id": "t001",
+      "phase": 1,
+      "speaker": "MOD",
+      "text": "The motion is: Governments should fund permanent research stations on the Moon. Sofia, you have thirty seconds. Begin.",
+      "start_sec": 0.0,
+      "end_sec": 4.2,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t002",
+      "phase": 1,
+      "speaker": "PRO",
+      "text": "Permanent lunar stations would give scientists a stable platform for observing space weather, testing closed-loop life-support systems, and preparing for longer missions. The investment would also support international engineering partnerships instead of repeating short, disconnected visits. We can set strict milestones and publish the results, so the program is accountable. The most important point is that a permanent presence turns each mission into a foundation for the next, rather than a single demonstration that ends when the crew leaves.",
+      "start_sec": 4.2,
+      "end_sec": 39.0,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t003",
+      "phase": 1,
+      "speaker": "MOD",
+      "text": "I have to stop you there, Sofia. Malik, your response.",
+      "start_sec": 34.5,
+      "end_sec": 37.2,
+      "taxonomy": ["A2-1"]
+    },
+    {
+      "turn_id": "t004",
+      "phase": 1,
+      "speaker": "CON",
+      "text": "A permanent station is an expensive commitment before we know whether those experiments need a lunar base. Governments should first fund smaller, shared missions and compare their results. That approach tests the same technologies while leaving room to redirect money if the evidence changes.",
+      "start_sec": 37.3,
+      "end_sec": 50.1,
+      "taxonomy": []
+    }
+  ],
+  "events": [
+    {
+      "taxonomy": "A2-1",
+      "moderator_turn_id": "t003",
+      "trigger_turn_ids": ["t002"],
+      "floor_holder": "PRO",
+      "deadline_sec": 34.2,
+      "next_speaker": "CON"
+    }
+  ],
+  "translations_ko": {
+    "t001": "논제는 다음과 같습니다. 정부는 달에 영구 연구 기지를 건설하는 데 자금을 지원해야 합니다. 소피아, 발언 시간은 30초입니다. 시작하세요.",
+    "t002": "영구적인 달 기지는 우주 기상을 관측하고, 폐쇄형 생명 유지 시스템을 시험하며, 더 긴 임무를 준비할 안정적인 기반을 과학자들에게 제공할 것입니다. 또한 단발성 방문을 반복하는 대신 국제적인 공학 협력을 뒷받침할 수 있습니다. 엄격한 이정표를 설정하고 결과를 공개하면 이 계획은 책임성을 갖출 수 있습니다. 가장 중요한 점은 영구적인 주둔이 각 임무를 승무원이 떠나면 끝나는 단일 시연이 아니라 다음 임무의 토대로 바꾼다는 것입니다.",
+    "t003": "소피아, 여기서 멈춰야겠습니다. 말리크, 답변해 주세요.",
+    "t004": "실험에 달 기지가 필요한지 알기도 전에 영구 기지를 약속하는 것은 큰 비용이 듭니다. 정부는 먼저 더 작고 공동으로 운영하는 임무에 자금을 지원하고 그 결과를 비교해야 합니다. 그러면 같은 기술을 시험하면서도 증거가 달라질 경우 자금을 전환할 여지를 남길 수 있습니다."
+  }
+}

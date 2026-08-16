@@ -1,0 +1,46 @@
+{
+  "valid": true,
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "sample_count": 1,
+    "taxonomy_count": 1,
+    "unique_motion_count": 1,
+    "unique_domain_count": 1,
+    "unique_motion_family_count": 1,
+    "unique_moderator_style_count": 1,
+    "unique_participant_set_count": 1,
+    "max_domain_reuse": 1,
+    "max_moderator_action_jaccard": 0.3333
+  },
+  "individual": [
+    {
+      "path": "evaluation/full_debate_smoke/sample.json",
+      "sample_id": "video_games_smarter_short_v0_1",
+      "automatic_valid": true,
+      "errors": [],
+      "warnings": [],
+      "metrics": {
+        "total_duration_sec": 215.05,
+        "phase_duration_sec": {
+          "1": 74.975,
+          "2": 68.798,
+          "3": 71.278
+        },
+        "speech_duration_by_role_sec": {
+          "MOD": 21.161,
+          "PRO": 85.658,
+          "CON": 97.531
+        },
+        "words_by_role": {
+          "MOD": 64,
+          "PRO": 240,
+          "CON": 279
+        },
+        "pro_con_duration_ratio": 1.1386,
+        "moderator_word_share": 0.1098
+      },
+      "validator_type": "full-debate-voice-wpm"
+    }
+  ]
+}

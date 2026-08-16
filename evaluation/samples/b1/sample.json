@@ -1,0 +1,92 @@
+{
+  "schema_version": "0.1",
+  "mode": "event-window",
+  "sample_id": "b1_forward_all_20260816_education",
+  "motion": "Schools should replace most standardized tests with project-based assessment.",
+  "participants": {
+    "MOD": {"name": "Elena"},
+    "PRO": {"name": "Marcus"},
+    "CON": {"name": "Priya"}
+  },
+  "target_taxonomies": ["B1"],
+  "variation": {
+    "taxonomy": "B1",
+    "variation_id": "b7da09a4-b1-08",
+    "seed": "forward-all-20260816",
+    "domain": "education",
+    "motion_family": "curriculum-and-school-policy",
+    "trigger_subtype": "aesthetic-side-topic",
+    "role_pattern": "PRO_drifts",
+    "moderator_style": "minimal-neutral",
+    "timing_profile": "redirect-gap-0.2s",
+    "participant_set": "set-02",
+    "participants": {
+      "MOD": "Elena",
+      "PRO": "Marcus",
+      "CON": "Priya"
+    }
+  },
+  "turns": [
+    {
+      "turn_id": "t001",
+      "phase": 2,
+      "speaker": "MOD",
+      "text": "We are discussing whether schools should replace most standardized tests with project-based assessment.",
+      "start_sec": 0.0,
+      "end_sec": 4.0,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t002",
+      "phase": 2,
+      "speaker": "PRO",
+      "text": "Projects let teachers see how students reason, revise, and apply ideas over time, rather than measuring one timed performance.",
+      "start_sec": 4.2,
+      "end_sec": 12.0,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t003",
+      "phase": 2,
+      "speaker": "PRO",
+      "text": "And when that work is displayed in the hallways, students feel proud of the bright murals and models they have made; my old school even turned the stairwell into a gallery.",
+      "start_sec": 12.2,
+      "end_sec": 23.2,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t004",
+      "phase": 2,
+      "speaker": "MOD",
+      "text": "Let's return to the policy question: would replacing standardized tests with projects improve how learning is measured?",
+      "start_sec": 23.4,
+      "end_sec": 28.0,
+      "taxonomy": ["B1"]
+    },
+    {
+      "turn_id": "t005",
+      "phase": 2,
+      "speaker": "CON",
+      "text": "It could capture the learning process, but common tests still provide a shared comparison across schools.",
+      "start_sec": 28.2,
+      "end_sec": 33.8,
+      "taxonomy": []
+    }
+  ],
+  "events": [
+    {
+      "taxonomy": "B1",
+      "moderator_turn_id": "t004",
+      "trigger_turn_ids": ["t003"],
+      "off_topic_quote": "bright murals and models",
+      "redirect_quote": "Let's return to the policy question"
+    }
+  ],
+  "translations_ko": {
+    "t001": "학교가 대부분의 표준화 시험을 프로젝트 기반 평가로 대체해야 하는지 논의하고 있습니다.",
+    "t002": "프로젝트는 한 번의 시간 제한 시험 성적이 아니라 학생들이 시간에 따라 어떻게 추론하고, 수정하고, 아이디어를 적용하는지 교사가 볼 수 있게 합니다.",
+    "t003": "그리고 그 결과물을 복도에 전시하면 학생들은 자신이 만든 밝은 벽화와 모형을 자랑스럽게 느낍니다. 제가 다니던 학교는 계단을 갤러리로 바꾸기까지 했습니다.",
+    "t004": "정책 쟁점으로 돌아가겠습니다. 표준화 시험을 프로젝트로 대체하면 학습을 측정하는 방식이 개선될까요?",
+    "t005": "학습 과정을 포착할 수는 있지만, 공통 시험은 여전히 학교 간에 동일한 비교 기준을 제공합니다."
+  }
+}

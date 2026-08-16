@@ -1,0 +1,47 @@
+{
+  "sample_id": "a5_forward_all_20260816",
+  "review_scope": "event-window transcript-only semantic review",
+  "automatic": {
+    "status": "PASS",
+    "source": "validation.json",
+    "automatic_valid": true,
+    "wpm_ceiling_checked": true,
+    "notes": [
+      "A5 event links the MOD action to the PRO floor turn and CON interrupt turn.",
+      "The interrupt overlaps the floor holder, is at most 12 words, and MOD intervenes within the allowed delay.",
+      "The original floor holder resumes after the MOD intervention."
+    ]
+  },
+  "transcript_only": {
+    "status": "PASS",
+    "reviewer": "Codex transcript-only review",
+    "provisional": true,
+    "checks": {
+      "observable_trigger": {
+        "status": "PASS",
+        "evidence": "Mei's brief device-access clarification begins while Noah is explaining the motion's access benefit."
+      },
+      "floor_protection": {
+        "status": "PASS",
+        "evidence": "Grace explicitly tells Mei to let Noah finish and states that Mei will receive the floor afterward."
+      },
+      "aftermath": {
+        "status": "PASS",
+        "evidence": "Noah resumes with loaner devices and offline lessons; Mei follows with a substantive maintenance concern."
+      },
+      "neutrality_and_grounding": {
+        "status": "PASS",
+        "evidence": "The MOD names the visible participants and restores turn order without adding facts or changing the motion."
+      },
+      "translation_fidelity": {
+        "status": "PASS",
+        "evidence": "Each English turn has a Korean reference translation preserving speaker names and claim meaning."
+      }
+    },
+    "limitations": [
+      "This is a transcript-only judgment, not human validation or an audio annotation.",
+      "Event-window timestamps are synthetic evidence-window timing and do not establish measured speech acoustics.",
+      "A single technology motion and participant set cannot establish general taxonomy correctness or external validity."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.1",
+  "mode": "event-window",
+  "sample_id": "b1_topic_redirect_example",
+  "motion": "Video games will make us smarter.",
+  "participants": {"MOD": {"name": "Alice"}, "PRO": {"name": "Daniel"}, "CON": {"name": "Sarah"}},
+  "target_taxonomies": ["B1"],
+  "turns": [
+    {"turn_id": "t001", "phase": 2, "speaker": "PRO", "text": "Good design can expose tradeoffs and ask players to revise a failed plan.", "start_sec": 0.0, "end_sec": 4.0, "taxonomy": []},
+    {"turn_id": "t002", "phase": 2, "speaker": "CON", "text": "Design matters in other ways too. A beautiful soundtrack can make a difficult level memorable, and players often value that atmosphere.", "start_sec": 4.4, "end_sec": 10.5, "taxonomy": []},
+    {"turn_id": "t003", "phase": 2, "speaker": "MOD", "text": "Let's return to whether video games make us smarter.", "start_sec": 10.8, "end_sec": 12.9, "taxonomy": ["B1"]},
+    {"turn_id": "t004", "phase": 2, "speaker": "CON", "text": "A memorable atmosphere does not demonstrate better reasoning, so transfer still has to be shown.", "start_sec": 13.2, "end_sec": 17.6, "taxonomy": []}
+  ],
+  "events": [
+    {"taxonomy": "B1", "moderator_turn_id": "t003", "trigger_turn_ids": ["t002"], "off_topic_quote": "A beautiful soundtrack can make a difficult level memorable", "redirect_quote": "whether video games make us smarter"}
+  ],
+  "translations_ko": {
+    "t001": "좋은 설계는 상충하는 선택을 보여주고 실패한 계획을 수정하도록 요구할 수 있습니다.",
+    "t002": "설계는 다른 면에서도 중요합니다. 아름다운 배경음악은 어려운 레벨을 기억에 남게 하며, 플레이어들은 종종 그런 분위기를 중요하게 여깁니다.",
+    "t003": "비디오 게임이 우리를 더 똑똑하게 만드는지로 돌아가겠습니다.",
+    "t004": "기억에 남는 분위기가 더 나은 추론을 입증하지는 않으므로, 전이 효과는 여전히 입증되어야 합니다."
+  }
+}

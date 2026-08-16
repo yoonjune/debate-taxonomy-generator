@@ -1,0 +1,17 @@
+{
+  "valid": true,
+  "checks": {
+    "same_seed_reproducible": true,
+    "different_seed_changes_plan": true,
+    "all_taxonomies_covered_once": true,
+    "unique_variation_ids": true,
+    "unique_domains_in_nine_card_plan": true,
+    "unique_styles_in_nine_card_plan": true,
+    "unique_participant_sets_in_nine_card_plan": true,
+    "repeated_a4_changes_domain": true,
+    "repeated_a4_changes_role_pattern": true,
+    "repeated_a4_changes_trigger_subtype": true,
+    "a4_trigger_and_timing_stay_aligned": true
+  },
+  "command": "python3 skills/generate-debate-taxonomy/scripts/test_variation.py"
+}

@@ -1,0 +1,181 @@
+{
+  "valid": true,
+  "positive_fixture_count": 9,
+  "negative_regression_count": 11,
+  "results": [
+    {
+      "case": "a1.json",
+      "expected": "PASS",
+      "actual": "PASS",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "case": "a2-1.json",
+      "expected": "PASS",
+      "actual": "PASS",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "case": "a2-2.json",
+      "expected": "PASS",
+      "actual": "PASS",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "case": "a3-1.json",
+      "expected": "PASS",
+      "actual": "PASS",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "case": "a3-2.json",
+      "expected": "PASS",
+      "actual": "PASS",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "case": "a4.json",
+      "expected": "PASS",
+      "actual": "PASS",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "case": "a5.json",
+      "expected": "PASS",
+      "actual": "PASS",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "case": "b1.json",
+      "expected": "PASS",
+      "actual": "PASS",
+      "errors": [],
+      "warnings": [
+        "B1 requires transcript-only semantic review for genuine topic drift"
+      ]
+    },
+    {
+      "case": "b2.json",
+      "expected": "PASS",
+      "actual": "PASS",
+      "errors": [],
+      "warnings": [
+        "B2 requires transcript-only semantic review for logical incompatibility"
+      ]
+    },
+    {
+      "case": "negative_a1_before_deadline",
+      "expected": "FAIL",
+      "actual": "FAIL",
+      "regression_caught": true,
+      "errors": [
+        "t002: speech rate 300.0 WPM exceeds 260 WPM ceiling",
+        "A1: MOD cannot act before deadline"
+      ]
+    },
+    {
+      "case": "negative_a2_1_same_speaker",
+      "expected": "FAIL",
+      "actual": "FAIL",
+      "regression_caught": true,
+      "errors": [
+        "A2-1 requires the opposite next_speaker",
+        "A2-1 next substantive turn must belong to next_speaker"
+      ]
+    },
+    {
+      "case": "negative_a2_2_overlap",
+      "expected": "FAIL",
+      "actual": "FAIL",
+      "regression_caught": true,
+      "errors": [
+        "t002: speech rate 280.0 WPM exceeds 260 WPM ceiling",
+        "A2-2 must occur after a non-overlapping completed turn"
+      ]
+    },
+    {
+      "case": "negative_a3_1_missing_con_opening",
+      "expected": "FAIL",
+      "actual": "FAIL",
+      "regression_caught": true,
+      "errors": [
+        "A3-1 requires both PRO and CON openings"
+      ]
+    },
+    {
+      "case": "negative_a3_2_con_first",
+      "expected": "FAIL",
+      "actual": "FAIL",
+      "regression_caught": true,
+      "errors": [
+        "A3-2 requires PRO closing before CON closing"
+      ]
+    },
+    {
+      "case": "negative_a4_no_overlap",
+      "expected": "FAIL",
+      "actual": "FAIL",
+      "regression_caught": true,
+      "errors": [
+        "turns must be sorted by start_sec",
+        "A4 MOD notice must overlap the current floor holder",
+        "A4 remaining time -5.00s is outside 8..12s",
+        "A4 remaining_sec must match the timeline",
+        "A4 floor holder must continue after the time notice"
+      ]
+    },
+    {
+      "case": "negative_global_same_speaker_overlap",
+      "expected": "FAIL",
+      "actual": "FAIL",
+      "regression_caught": true,
+      "errors": [
+        "same speaker turns must not overlap: t001 and t004"
+      ]
+    },
+    {
+      "case": "negative_global_implausible_speech_rate",
+      "expected": "FAIL",
+      "actual": "FAIL",
+      "regression_caught": true,
+      "errors": [
+        "t002: speech rate 900.0 WPM exceeds 260 WPM ceiling"
+      ]
+    },
+    {
+      "case": "negative_a5_long_interrupt",
+      "expected": "FAIL",
+      "actual": "FAIL",
+      "regression_caught": true,
+      "errors": [
+        "t002: speech rate 814.3 WPM exceeds 260 WPM ceiling",
+        "A5 interrupt exceeds 12 words"
+      ]
+    },
+    {
+      "case": "negative_b1_ungrounded_quote",
+      "expected": "FAIL",
+      "actual": "FAIL",
+      "regression_caught": true,
+      "errors": [
+        "B1 off_topic_quote is not grounded in its linked turn text"
+      ]
+    },
+    {
+      "case": "negative_b2_mixed_speaker",
+      "expected": "FAIL",
+      "actual": "FAIL",
+      "regression_caught": true,
+      "errors": [
+        "B2 claims must be spoken by the same debater"
+      ]
+    }
+  ]
+}

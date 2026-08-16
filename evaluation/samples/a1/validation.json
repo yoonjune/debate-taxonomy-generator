@@ -1,0 +1,16 @@
+{
+  "sample_id": "a1_energy_final-example-overrun_20260816",
+  "automatic_valid": true,
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "mode": "event-window",
+    "duration_sec": 22.2,
+    "turn_count": 4,
+    "target_taxonomies": [
+      "A1"
+    ],
+    "max_turn_wpm": 247.059,
+    "max_turn_wpm_turn_id": "t003"
+  }
+}

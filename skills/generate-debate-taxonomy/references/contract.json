@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.1",
+  "roles": ["MOD", "PRO", "CON"],
+  "taxonomies": ["A1", "A2-1", "A2-2", "A3-1", "A3-2", "A4", "A5", "B1", "B2"],
+  "timing": {"max_turn_wpm": 260},
+  "event_rules": {
+    "A1": {"requires_deadline": true, "requires_overlap": true, "calls_next_speaker": false},
+    "A2-1": {"requires_deadline": true, "requires_overlap": true, "calls_next_speaker": true},
+    "A2-2": {"requires_deadline": false, "requires_overlap": false, "calls_next_speaker": true},
+    "A3-1": {"phase": 2, "requires_openings": true},
+    "A3-2": {"phase": 3, "first_debater": "PRO"},
+    "A4": {"remaining_sec_min": 8, "remaining_sec_max": 12, "max_mod_words": 10},
+    "A5": {"max_interrupt_words": 12, "max_mod_delay_sec": 0.5},
+    "B1": {"requires_semantic_review": true},
+    "B2": {"min_claims": 2, "same_speaker": true, "requires_semantic_review": true}
+  }
+}

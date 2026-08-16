@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1",
+  "mode": "event-window",
+  "sample_id": "a4_ten_second_notice_example",
+  "motion": "Public libraries should eliminate late fees.",
+  "participants": {"MOD": {"name": "Alice"}, "PRO": {"name": "Daniel"}, "CON": {"name": "Sarah"}},
+  "target_taxonomies": ["A4"],
+  "turns": [
+    {"turn_id": "t001", "phase": 1, "speaker": "PRO", "text": "Late fees can discourage people who most need library access, while reminders and temporary borrowing limits can still encourage returns without creating debt.", "start_sec": 0.0, "end_sec": 15.0, "taxonomy": []},
+    {"turn_id": "t002", "phase": 1, "speaker": "MOD", "text": "Ten seconds, Daniel.", "start_sec": 5.0, "end_sec": 5.8, "taxonomy": ["A4"]},
+    {"turn_id": "t003", "phase": 1, "speaker": "CON", "text": "Libraries still need a fair way to keep shared materials circulating.", "start_sec": 15.4, "end_sec": 19.0, "taxonomy": []}
+  ],
+  "events": [
+    {"taxonomy": "A4", "moderator_turn_id": "t002", "trigger_turn_ids": ["t001"], "floor_holder": "PRO", "remaining_sec": 10.0}
+  ],
+  "translations_ko": {
+    "t001": "연체료는 도서관 접근이 가장 필요한 사람들의 이용을 막을 수 있으며, 알림과 일시적인 대출 제한만으로도 빚을 만들지 않고 반납을 유도할 수 있습니다.",
+    "t002": "Daniel, 10초 남았습니다.",
+    "t003": "도서관에는 공유 자료가 계속 순환하도록 만드는 공정한 방법이 여전히 필요합니다."
+  }
+}

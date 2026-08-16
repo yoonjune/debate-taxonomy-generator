@@ -1,0 +1,18 @@
+{
+  "sample_id": "b2_b7da09a4_001",
+  "automatic_valid": true,
+  "errors": [],
+  "warnings": [
+    "B2 requires transcript-only semantic review for logical incompatibility"
+  ],
+  "metrics": {
+    "mode": "event-window",
+    "duration_sec": 29.4,
+    "turn_count": 7,
+    "target_taxonomies": [
+      "B2"
+    ],
+    "max_turn_wpm": 260.0,
+    "max_turn_wpm_turn_id": "t003"
+  }
+}

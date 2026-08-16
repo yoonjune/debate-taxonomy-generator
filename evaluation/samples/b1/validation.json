@@ -1,0 +1,18 @@
+{
+  "sample_id": "b1_forward_all_20260816_education",
+  "automatic_valid": true,
+  "errors": [],
+  "warnings": [
+    "B1 requires transcript-only semantic review for genuine topic drift"
+  ],
+  "metrics": {
+    "mode": "event-window",
+    "duration_sec": 33.8,
+    "turn_count": 5,
+    "target_taxonomies": [
+      "B1"
+    ],
+    "max_turn_wpm": 221.739,
+    "max_turn_wpm_turn_id": "t004"
+  }
+}

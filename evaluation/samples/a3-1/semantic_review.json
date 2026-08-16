@@ -1,0 +1,32 @@
+{
+  "sample_id": "a3-1_b7da09a4-a3-1-04",
+  "automatic": {
+    "status": "PASS",
+    "source": "validation.json",
+    "checks": {
+      "schema_and_roles": "PASS",
+      "a3_1_linkage_and_phase_order": "PASS",
+      "opening_presence": "PASS",
+      "direct_debate_after_transition": "PASS",
+      "translation_coverage": "PASS",
+      "max_turn_wpm_ceiling": "PASS (210.0 <= 260.0)"
+    }
+  },
+  "transcript_only": {
+    "status": "PASS_PROVISIONAL",
+    "reviewer": "Codex transcript-only semantic review",
+    "human_validated": false,
+    "checks": {
+      "a3_1_trigger_is_grounded": "PASS: both PRO and CON opening statements precede the transition",
+      "direct_response_is_present": "PASS: Ethan asks Camila a motion-relevant question immediately after the transition",
+      "variation_fit": "PASS: environmental waste-policy motion, courteous-direct MOD wording, and PRO-first direct question are represented",
+      "neutral_moderation": "PASS: Nora opens direct debate without adding substantive claims",
+      "bilingual_meaning_preserved": "PASS"
+    },
+    "limitations": [
+      "This is transcript-only semantic review, not independent human/external validity.",
+      "The event-window does not test full-debate voice timing or end-to-end audio behavior.",
+      "A3-1 semantic review checks observable phase transition and direct response; it does not establish benchmark correctness."
+    ]
+  }
+}

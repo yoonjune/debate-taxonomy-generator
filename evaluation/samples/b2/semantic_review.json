@@ -1,0 +1,44 @@
+{
+  "sample_id": "b2_b7da09a4_001",
+  "automatic": {
+    "status": "PASS",
+    "source": "validation.json",
+    "errors": [],
+    "warnings": [
+      "B2 requires transcript-only semantic review for logical incompatibility"
+    ],
+    "metrics": {
+      "turn_count": 7,
+      "duration_sec": 29.4,
+      "max_turn_wpm": 260.0,
+      "mechanical_repair_count": 2,
+      "semantic_repair_count": 1
+    }
+  },
+  "transcript_only": {
+    "status": "PASS",
+    "review_type": "provisional transcript-only semantic judgment; not human validation",
+    "judgments": {
+      "logical_incompatibility": {
+        "status": "PASS",
+        "evidence": "In t004 Sarah states that the four-day schedule is necessary for retention, including that retention cannot improve without it. In t005 she says retention can improve without the schedule and explicitly denies that it is necessary. The second claim directly negates the necessity asserted in the first; this is not a qualification, scope change, or should-versus-need distinction."
+      },
+      "same_speaker_claim_pair": {
+        "status": "PASS",
+        "evidence": "Both claims are substantive turns by CON/Sarah and occur before the MOD action in t006."
+      },
+      "moderator_grounding_and_neutrality": {
+        "status": "PASS",
+        "evidence": "Maya contrasts the visible necessary and not-necessary claims and does not add facts, motives, or an unshown policy condition."
+      },
+      "aftermath": {
+        "status": "PASS",
+        "evidence": "Daniel's following turn acknowledges the distinction and makes the necessary-versus-possible-route question explicit, showing the intervention took effect."
+      }
+    },
+    "limitations": [
+      "This is a transcript-only semantic judgment by the generation agent, not independent human or external validity evidence.",
+      "The event window demonstrates local logical incompatibility; it does not establish correctness of the underlying workplace policy claim."
+    ]
+  }
+}

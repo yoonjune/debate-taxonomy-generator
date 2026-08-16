@@ -1,0 +1,16 @@
+{
+  "sample_id": "a5_forward_all_20260816",
+  "automatic_valid": true,
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "mode": "event-window",
+    "duration_sec": 28.2,
+    "turn_count": 6,
+    "target_taxonomies": [
+      "A5"
+    ],
+    "max_turn_wpm": 245.455,
+    "max_turn_wpm_turn_id": "t003"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "schema_version": "0.1",
+  "variation_seed": "forward-all-20260816",
+  "cards": [
+    {
+      "taxonomy": "A1",
+      "variation_id": "b7da09a4-a1-01",
+      "seed": "forward-all-20260816",
+      "domain": "energy",
+      "motion_family": "power-generation-and-grid-policy",
+      "trigger_subtype": "final-example-overrun",
+      "role_pattern": "PRO_floor",
+      "moderator_style": "measured-firm",
+      "timing_profile": "deadline-plus-1.4s",
+      "participant_set": "set-03",
+      "participants": {
+        "MOD": "Jonah",
+        "PRO": "Leah",
+        "CON": "Omar"
+      }
+    },
+    {
+      "taxonomy": "A2-1",
+      "variation_id": "b7da09a4-a2-1-02",
+      "seed": "forward-all-20260816",
+      "domain": "science",
+      "motion_family": "research-and-exploration-policy",
+      "trigger_subtype": "overrun-to-opponent",
+      "role_pattern": "PRO_to_CON",
+      "moderator_style": "explicit-transition",
+      "timing_profile": "late-barge-in",
+      "participant_set": "set-07",
+      "participants": {
+        "MOD": "Adrian",
+        "PRO": "Sofia",
+        "CON": "Malik"
+      }
+    },
+    {
+      "taxonomy": "A2-2",
+      "variation_id": "b7da09a4-a2-2-03",
+      "seed": "forward-all-20260816",
+      "domain": "culture",
+      "motion_family": "arts-media-and-public-funding",
+      "trigger_subtype": "completed-answer",
+      "role_pattern": "CON_to_PRO",
+      "moderator_style": "broadcast-neutral",
+      "timing_profile": "gap-0.8s",
+      "participant_set": "set-09",
+      "participants": {
+        "MOD": "Samuel",
+        "PRO": "Rina",
+        "CON": "Gabriel"
+      }
+    },
+    {
+      "taxonomy": "A3-1",
+      "variation_id": "b7da09a4-a3-1-04",
+      "seed": "forward-all-20260816",
+      "domain": "environment",
+      "motion_family": "waste-and-conservation-policy",
+      "trigger_subtype": "PRO-direct-question-first",
+      "role_pattern": "PRO_first_direct",
+      "moderator_style": "courteous-direct",
+      "timing_profile": "transition-gap-0.3s",
+      "participant_set": "set-04",
+      "participants": {
+        "MOD": "Nora",
+        "PRO": "Ethan",
+        "CON": "Camila"
+      }
+    },
+    {
+      "taxonomy": "A3-2",
+      "variation_id": "b7da09a4-a3-2-05",
+      "seed": "forward-all-20260816",
+      "domain": "food",
+      "motion_family": "agriculture-and-consumer-choice",
+      "trigger_subtype": "hard-time-boundary",
+      "role_pattern": "PRO_closing_first",
+      "moderator_style": "firm-concise",
+      "timing_profile": "transition-gap-0.6s",
+      "participant_set": "set-05",
+      "participants": {
+        "MOD": "Victor",
+        "PRO": "Aisha",
+        "CON": "Lucas"
+      }
+    },
+    {
+      "taxonomy": "A4",
+      "variation_id": "b7da09a4-a4-06",
+      "seed": "forward-all-20260816",
+      "domain": "housing",
+      "motion_family": "rent-supply-and-neighborhood-policy",
+      "trigger_subtype": "remaining-8s",
+      "role_pattern": "CON_floor",
+      "moderator_style": "formal-procedural",
+      "timing_profile": "remaining-8s",
+      "participant_set": "set-08",
+      "participants": {
+        "MOD": "Iris",
+        "PRO": "Theo",
+        "CON": "Hana"
+      }
+    },
+    {
+      "taxonomy": "A5",
+      "variation_id": "b7da09a4-a5-07",
+      "seed": "forward-all-20260816",
+      "domain": "technology",
+      "motion_family": "automation-and-digital-access",
+      "trigger_subtype": "clarification-interrupt",
+      "role_pattern": "CON_interrupts_PRO",
+      "moderator_style": "plain-language",
+      "timing_profile": "MOD-during-interrupt",
+      "participant_set": "set-06",
+      "participants": {
+        "MOD": "Grace",
+        "PRO": "Noah",
+        "CON": "Mei"
+      }
+    },
+    {
+      "taxonomy": "B1",
+      "variation_id": "b7da09a4-b1-08",
+      "seed": "forward-all-20260816",
+      "domain": "education",
+      "motion_family": "curriculum-and-school-policy",
+      "trigger_subtype": "aesthetic-side-topic",
+      "role_pattern": "PRO_drifts",
+      "moderator_style": "minimal-neutral",
+      "timing_profile": "redirect-gap-0.2s",
+      "participant_set": "set-02",
+      "participants": {
+        "MOD": "Elena",
+        "PRO": "Marcus",
+        "CON": "Priya"
+      }
+    },
+    {
+      "taxonomy": "B2",
+      "variation_id": "b7da09a4-b2-09",
+      "seed": "forward-all-20260816",
+      "domain": "workplace",
+      "motion_family": "work-schedule-and-employment-policy",
+      "trigger_subtype": "necessary-vs-sufficient",
+      "role_pattern": "CON_claims",
+      "moderator_style": "calm-conversational",
+      "timing_profile": "contrast-gap-0.5s",
+      "participant_set": "set-01",
+      "participants": {
+        "MOD": "Maya",
+        "PRO": "Daniel",
+        "CON": "Sarah"
+      }
+    }
+  ]
+}

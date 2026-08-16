@@ -1,0 +1,94 @@
+{
+  "schema_version": "0.1",
+  "mode": "event-window",
+  "sample_id": "a4_forward_all_20260816",
+  "motion": "Cities should permit mid-rise housing near transit even when neighborhood councils object.",
+  "participants": {
+    "MOD": {"name": "Iris"},
+    "PRO": {"name": "Theo"},
+    "CON": {"name": "Hana"}
+  },
+  "target_taxonomies": ["A4"],
+  "assignment": {
+    "mode": "event-window",
+    "target_taxonomy": "A4",
+    "duration_profile": "remaining-8s",
+    "source": {"dataset": "synthetic-forward-generation", "locator": "forward-all-20260816/a4"}
+  },
+  "variation": {
+    "taxonomy": "A4",
+    "variation_id": "b7da09a4-a4-06",
+    "seed": "forward-all-20260816",
+    "domain": "housing",
+    "motion_family": "rent-supply-and-neighborhood-policy",
+    "trigger_subtype": "remaining-8s",
+    "role_pattern": "CON_floor",
+    "moderator_style": "formal-procedural",
+    "timing_profile": "remaining-8s",
+    "participant_set": "set-08",
+    "participants": {"MOD": "Iris", "PRO": "Theo", "CON": "Hana"}
+  },
+  "turns": [
+    {
+      "turn_id": "t001",
+      "phase": 1,
+      "speaker": "MOD",
+      "text": "The motion is whether cities should permit mid-rise housing near transit despite neighborhood objections.",
+      "start_sec": 0.0,
+      "end_sec": 5.0,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t002",
+      "phase": 1,
+      "speaker": "PRO",
+      "text": "Allowing more homes near transit can ease rent pressure and reduce long commutes, provided projects include public services.",
+      "start_sec": 5.0,
+      "end_sec": 12.0,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t003",
+      "phase": 1,
+      "speaker": "CON",
+      "text": "I understand the urgency, but neighborhoods cannot absorb taller buildings without services. A better policy is to permit moderate infill only when cities fund schools, transit, and drainage first. That keeps rent growth under control while respecting residents who already live there.",
+      "start_sec": 12.0,
+      "end_sec": 32.0,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t004",
+      "phase": 1,
+      "speaker": "MOD",
+      "text": "Eight seconds, Hana.",
+      "start_sec": 24.0,
+      "end_sec": 25.0,
+      "taxonomy": ["A4"]
+    },
+    {
+      "turn_id": "t005",
+      "phase": 1,
+      "speaker": "PRO",
+      "text": "I would still require safeguards, but the permit should not depend on every council approving the same design.",
+      "start_sec": 32.2,
+      "end_sec": 39.0,
+      "taxonomy": []
+    }
+  ],
+  "events": [
+    {
+      "taxonomy": "A4",
+      "moderator_turn_id": "t004",
+      "trigger_turn_ids": ["t003"],
+      "floor_holder": "CON",
+      "remaining_sec": 8.0
+    }
+  ],
+  "translations_ko": {
+    "t001": "논제는 지역 주민 협의회의 반대가 있더라도 도시가 대중교통 인근의 중층 주택을 허가해야 하는지 여부입니다.",
+    "t002": "대중교통 인근에 주택을 더 공급하면 공공서비스를 포함한다는 조건 아래 임대료 압박과 긴 통근을 줄일 수 있습니다.",
+    "t003": "시급성은 이해하지만, 지역은 기반시설 없이 더 높은 건물을 감당할 수 없습니다. 더 나은 정책은 도시가 학교와 대중교통, 배수시설을 먼저 지원할 때에만 중간 규모의 빈 땅 개발을 허가하는 것입니다. 그러면 이미 살고 있는 주민들을 존중하면서 임대료 상승을 억제할 수 있습니다.",
+    "t004": "하나, 8초 남았습니다.",
+    "t005": "저도 안전장치를 요구하겠지만, 허가는 모든 협의회가 같은 설계를 승인하는 데 달려 있어서는 안 됩니다."
+  }
+}

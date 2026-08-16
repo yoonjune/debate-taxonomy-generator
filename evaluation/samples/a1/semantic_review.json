@@ -1,0 +1,55 @@
+{
+  "sample_id": "a1_energy_final-example-overrun_20260816",
+  "repair_count": 1,
+  "repair_log": [
+    {
+      "repair_type": "bounded-local-timing-repair",
+      "before_automatic_errors": [
+        "t001: speech rate 266.7 WPM exceeds 260 WPM ceiling",
+        "t003: speech rate 525.0 WPM exceeds 260 WPM ceiling"
+      ],
+      "changes": [
+        "Extended t001 from 0.0–1.8s to 0.0–2.0s and moved t002 start to 2.0s.",
+        "Extended t003 from 15.4–16.2s to 15.4–17.1s, preserving the 14.0s deadline and 15.4s MOD start.",
+        "Moved t004 from 16.4–21.3s to 17.3–22.2s to avoid non-taxonomy overlap."
+      ],
+      "preserved": [
+        "A1 taxonomy, motion, participant roles, and exact variation card",
+        "PRO floor holder and A1 overlap with the over-time floor turn",
+        "deadline_sec=14.0 and deadline-plus-1.4s MOD start",
+        "no explicit next-speaker handoff"
+      ],
+      "after_automatic_status": "PASS"
+    }
+  ],
+  "automatic": {
+    "status": "PASS",
+    "validator": "skills/generate-debate-taxonomy/scripts/validate_sample.py",
+    "validation_artifact": "validation.json",
+    "errors": [],
+    "warnings": [],
+    "max_turn_wpm": 247.059,
+    "max_turn_wpm_turn_id": "t003"
+  },
+  "transcript_only": {
+    "status": "PASS",
+    "reviewer": "Codex transcript-only review",
+    "provisional": true,
+    "checks": {
+      "deadline_is_explicit": "PASS: the assignment uses a 14.0s deadline and Leah continues through 16.0s",
+      "trigger_is_observable": "PASS: Leah is still delivering the final winter-evening-peak example when the deadline has passed",
+      "moderator_action_is_a1": "PASS: Jonah terminates Leah's speech without naming or calling the next speaker",
+      "action_is_grounded_and_neutral": "PASS: the action is a measured time enforcement and does not add facts or change the motion",
+      "aftermath_shows_effect": "PASS: Leah's floor ends and Omar begins only after the termination",
+      "translation_fidelity": "PASS: all four Korean references preserve speaker names, claims, and the termination action"
+    },
+    "notes": [
+      "The semantic review is transcript-only and is not independent human validation.",
+      "The A1 event is intentionally kept distinct from A2-1 because the MOD does not explicitly hand the floor to Omar."
+    ]
+  },
+  "limitations": [
+    "This is a synthetic event-window example, not evidence of deployment performance or taxonomy prevalence.",
+    "No external human or inter-annotator validity review was performed in this artifact."
+  ]
+}

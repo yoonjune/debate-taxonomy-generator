@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1",
+  "mode": "event-window",
+  "sample_id": "a2_2_natural_handoff_example",
+  "motion": "Remote work should be the default for office jobs.",
+  "participants": {"MOD": {"name": "Alice"}, "PRO": {"name": "Daniel"}, "CON": {"name": "Sarah"}},
+  "target_taxonomies": ["A2-2"],
+  "turns": [
+    {"turn_id": "t001", "phase": 1, "speaker": "PRO", "text": "Remote work saves commuting time and lets employees organize focused work around clear goals. That is my central reason for supporting the motion.", "start_sec": 0.0, "end_sec": 7.0, "taxonomy": []},
+    {"turn_id": "t002", "phase": 1, "speaker": "MOD", "text": "Thank you, Daniel. Sarah, your opening statement.", "start_sec": 7.3, "end_sec": 8.95, "taxonomy": ["A2-2"]},
+    {"turn_id": "t003", "phase": 1, "speaker": "CON", "text": "A default must work for new employees and collaborative teams, not only for experienced workers with quiet homes.", "start_sec": 9.0, "end_sec": 14.5, "taxonomy": []}
+  ],
+  "events": [
+    {"taxonomy": "A2-2", "moderator_turn_id": "t002", "trigger_turn_ids": ["t001"], "floor_holder": "PRO", "next_speaker": "CON"}
+  ],
+  "translations_ko": {
+    "t001": "원격 근무는 통근 시간을 절약하고 직원들이 명확한 목표에 맞춰 집중 업무를 구성하게 해줍니다. 이것이 제가 논제에 찬성하는 핵심 이유입니다.",
+    "t002": "Daniel, 고맙습니다. Sarah, 최초 발언을 해주세요.",
+    "t003": "기본 원칙이라면 조용한 집이 있는 숙련 직원뿐 아니라 신입 직원과 협업 팀에도 효과가 있어야 합니다."
+  }
+}

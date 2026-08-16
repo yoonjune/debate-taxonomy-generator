@@ -1,0 +1,188 @@
+{
+  "sample_id": "video_games_smarter_short_v0_1",
+  "contract_version": "0.1",
+  "assignment_pair_id": "video_games_smarter_v0_1",
+  "duration_profile": "short",
+  "motion": "Video games will make us smarter.",
+  "participants": {
+    "MOD": {"name": "Alice", "voice_id": "MSP-PODCAST_0537_440"},
+    "PRO": {"name": "Daniel", "voice_id": "MSP-PODCAST_0177_72"},
+    "CON": {"name": "Sarah", "voice_id": "MSP-PODCAST_0941_297"}
+  },
+  "target_taxonomies": ["A3-1", "A3-2", "A5"],
+  "turns": [
+    {
+      "turn_id": "p1_t001",
+      "phase": 1,
+      "speaker": "MOD",
+      "text": "Today we consider whether video games will make us smarter. Daniel will speak for the motion, and Sarah will respond.",
+      "taxonomy": [],
+      "gap_after_sec": 0.8,
+      "overlap_sec": 0.0,
+      "overlap_with": null
+    },
+    {
+      "turn_id": "p1_t002",
+      "phase": 1,
+      "speaker": "PRO",
+      "text": "Video games can make us smarter because they ask players to solve problems, notice patterns, and adapt quickly. A strategy game makes you plan several moves ahead, while a cooperative game teaches communication and shared decision making. These habits are not magic, and games do not replace reading or practice. But regular, purposeful play can strengthen flexible thinking and persistence. The important question is what a player does with the challenge, not whether the challenge appears on a screen. These choices can support better decisions when challenges change and no game supplies the next move.",
+      "taxonomy": [],
+      "gap_after_sec": 0.8,
+      "overlap_sec": 0.0,
+      "overlap_with": null
+    },
+    {
+      "turn_id": "p1_t003",
+      "phase": 1,
+      "speaker": "CON",
+      "text": "Games can exercise useful skills, but that does not mean they will make people smarter in general. Players may become very good at the narrow tasks a game rewards while neglecting sleep, study, or patient attention. A fast reaction is not the same as careful reasoning, and a virtual reward is not evidence of learning outside the game. Some games encourage planning, yet the result depends on the design, the player, and the time spent. We should value games as entertainment with possible benefits, not promise a broad intellectual upgrade.",
+      "taxonomy": [],
+      "gap_after_sec": 1.2,
+      "overlap_sec": 0.0,
+      "overlap_with": null
+    },
+    {
+      "turn_id": "p2_t001",
+      "phase": 2,
+      "speaker": "MOD",
+      "text": "And that concludes round one. Now we move on to round two. In round two, the debaters address one another directly.",
+      "taxonomy": ["A3-1"],
+      "gap_after_sec": 0.8,
+      "overlap_sec": 0.0,
+      "overlap_with": null
+    },
+    {
+      "turn_id": "p2_t002",
+      "phase": 2,
+      "speaker": "PRO",
+      "text": "Sarah, planning and feedback are useful beyond one game. Comparing options, testing a strategy, and changing it after failure is a real reasoning habit.",
+      "taxonomy": [],
+      "gap_after_sec": 0.8,
+      "overlap_sec": 0.0,
+      "overlap_with": null
+    },
+    {
+      "turn_id": "p2_t003",
+      "phase": 2,
+      "speaker": "CON",
+      "text": "The habit is not guaranteed to transfer. A player can optimize a score without explaining why a choice worked. The motion needs a reliable effect, not a possibility.",
+      "taxonomy": [],
+      "gap_after_sec": 0.8,
+      "overlap_sec": 0.0,
+      "overlap_with": null
+    },
+    {
+      "turn_id": "p2_t004",
+      "phase": 2,
+      "speaker": "PRO",
+      "text": "Games, like demanding books, can build analysis through feedback, increasing difficulty, and a reason to revise a plan.",
+      "taxonomy": [],
+      "gap_after_sec": 0.7,
+      "overlap_sec": 0.0,
+      "overlap_with": null
+    },
+    {
+      "turn_id": "p2_t005",
+      "phase": 2,
+      "speaker": "CON",
+      "text": "Time spent chasing rewards can crowd out conversation or concentration. A player may learn only to repeat a profitable move.",
+      "taxonomy": [],
+      "gap_after_sec": 0.7,
+      "overlap_sec": 0.0,
+      "overlap_with": null
+    },
+    {
+      "turn_id": "p2_t006",
+      "phase": 2,
+      "speaker": "PRO",
+      "text": "But deliberate play can teach reasoning.",
+      "taxonomy": [],
+      "gap_after_sec": 0.2,
+      "overlap_sec": 0.8,
+      "overlap_with": "p2_t005"
+    },
+    {
+      "turn_id": "p2_t007",
+      "phase": 2,
+      "speaker": "MOD",
+      "text": "Let Sarah finish, please.",
+      "taxonomy": ["A5"],
+      "gap_after_sec": 0.6,
+      "overlap_sec": 0.0,
+      "overlap_with": null
+    },
+    {
+      "turn_id": "p2_t008",
+      "phase": 2,
+      "speaker": "CON",
+      "text": "Thank you. My point is that deliberate choice is doing the educational work here. Games can be a useful tool when paired with reflection, but the motion credits the game itself. Without that support, the same activity can train persistence on trivial goals rather than judgment. Reflection must connect the game's challenge to choices made outside the game, or the benefit remains narrowly local.",
+      "taxonomy": [],
+      "gap_after_sec": 0.8,
+      "overlap_sec": 0.0,
+      "overlap_with": null
+    },
+    {
+      "turn_id": "p3_t001",
+      "phase": 3,
+      "speaker": "MOD",
+      "text": "And now we move on to round three. Here making his closing statement in support of the motion, Daniel.",
+      "taxonomy": ["A3-2"],
+      "gap_after_sec": 0.8,
+      "overlap_sec": 0.0,
+      "overlap_with": null
+    },
+    {
+      "turn_id": "p3_t002",
+      "phase": 3,
+      "speaker": "PRO",
+      "text": "The motion is about what games can do, not what every game or every player does. Games present goals, feedback, uncertainty, and consequences; those features invite planning and adaptation. They can also make practice engaging enough to continue. Sarah is right that context matters, which is why purposeful selection and reflection improve the result. That qualification does not erase the central effect: games can cultivate flexible problem solving and collaboration, making players smarter in meaningful ways. A player who learns to test an idea, notice a consequence, and revise a plan is practicing a transferable intellectual habit.",
+      "taxonomy": [],
+      "gap_after_sec": 1.2,
+      "overlap_sec": 0.0,
+      "overlap_with": null
+    },
+    {
+      "turn_id": "p3_t003",
+      "phase": 3,
+      "speaker": "CON",
+      "text": "The possibility is not the promise. Games may sharpen a task-specific skill, but intelligence is broader than speed, scores, or persistence inside a designed system. The benefits depend on content, time, and reflection, while costs can displace sleep and real relationships. We should enjoy good games and use them carefully, but we should not claim that games as a category will make us smarter. The evidence in this discussion supports a conditional tool, not a general guarantee.",
+      "taxonomy": [],
+      "gap_after_sec": 1.3,
+      "overlap_sec": 0.0,
+      "overlap_with": null
+    }
+  ],
+  "events": [
+    {
+      "taxonomy": "A3-1",
+      "moderator_turn_id": "p2_t001",
+      "trigger_turn_ids": ["p1_t003"],
+      "realization_note": "The moderator closes the opening statements and starts direct debate."
+    },
+    {
+      "taxonomy": "A5",
+      "moderator_turn_id": "p2_t007",
+      "trigger_turn_ids": ["p2_t005", "p2_t006"],
+      "realization_note": "PRO interrupts while CON holds the floor; MOD protects CON's turn."
+    },
+    {
+      "taxonomy": "A3-2",
+      "moderator_turn_id": "p3_t001",
+      "trigger_turn_ids": ["p2_t008"],
+      "realization_note": "The moderator ends direct debate and calls PRO first for closing."
+    }
+  ],
+  "variation": {
+    "taxonomy": "A5",
+    "variation_id": "full-short-a5-test",
+    "seed": "full-diversity-regression",
+    "domain": "technology",
+    "motion_family": "automation-and-digital-access",
+    "trigger_subtype": "brief-denial",
+    "role_pattern": "PRO_interrupts_CON",
+    "moderator_style": "formal-procedural",
+    "timing_profile": "MOD-during-interrupt",
+    "participant_set": "prototype-01",
+    "participants": {"MOD": "Alice", "PRO": "Daniel", "CON": "Sarah"}
+  }
+}

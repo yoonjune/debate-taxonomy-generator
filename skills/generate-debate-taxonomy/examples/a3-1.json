@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.1",
+  "mode": "event-window",
+  "sample_id": "a3_1_round_two_start_example",
+  "motion": "Video games will make us smarter.",
+  "participants": {"MOD": {"name": "Alice"}, "PRO": {"name": "Daniel"}, "CON": {"name": "Sarah"}},
+  "target_taxonomies": ["A3-1"],
+  "turns": [
+    {"turn_id": "t001", "phase": 1, "speaker": "PRO", "text": "Games can strengthen planning because players repeatedly test choices, receive feedback, and revise strategies.", "start_sec": 0.0, "end_sec": 5.0, "taxonomy": []},
+    {"turn_id": "t002", "phase": 1, "speaker": "CON", "text": "Skill inside one game does not necessarily transfer to careful reasoning outside that designed system.", "start_sec": 5.4, "end_sec": 10.4, "taxonomy": []},
+    {"turn_id": "t003", "phase": 2, "speaker": "MOD", "text": "That concludes round one. We now move to round two, where the debaters address one another directly.", "start_sec": 10.8, "end_sec": 14.8, "taxonomy": ["A3-1"]},
+    {"turn_id": "t004", "phase": 2, "speaker": "PRO", "text": "Sarah, why should feedback-driven planning stop being useful when the screen is gone?", "start_sec": 15.1, "end_sec": 19.6, "taxonomy": []},
+    {"turn_id": "t005", "phase": 2, "speaker": "CON", "text": "Because transfer requires recognizing the same structure in a new context, and a score does not prove that recognition.", "start_sec": 19.9, "end_sec": 25.6, "taxonomy": []}
+  ],
+  "events": [
+    {"taxonomy": "A3-1", "moderator_turn_id": "t003", "trigger_turn_ids": ["t001", "t002"]}
+  ],
+  "translations_ko": {
+    "t001": "게임은 플레이어가 선택을 반복해서 시험하고 피드백을 받아 전략을 수정하게 하므로 계획 능력을 강화할 수 있습니다.",
+    "t002": "한 게임 안의 능력이 그 설계된 체계 밖의 신중한 추론으로 반드시 전이되는 것은 아닙니다.",
+    "t003": "이것으로 1라운드를 마칩니다. 이제 토론자들이 서로에게 직접 답하는 2라운드로 넘어가겠습니다.",
+    "t004": "Sarah, 화면이 사라지면 피드백에 기반한 계획 능력이 왜 더 이상 유용하지 않다고 보십니까?",
+    "t005": "전이되려면 새로운 맥락에서 같은 구조를 알아봐야 하는데, 점수만으로는 그런 인식을 입증할 수 없기 때문입니다."
+  }
+}

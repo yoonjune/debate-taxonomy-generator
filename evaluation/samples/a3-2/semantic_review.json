@@ -1,0 +1,48 @@
+{
+  "sample_id": "a3-2_b7da09a4",
+  "automatic_validation": {
+    "status": "PASS",
+    "report_file": "validation.json",
+    "errors": [],
+    "wpm_ceiling_checked": true,
+    "max_turn_wpm": 260.0,
+    "repair_count": 1
+  },
+  "transcript_only_semantic_review": {
+    "status": "PASS",
+    "review_scope": "A3-2 event-window transcript and frozen variation card",
+    "reviewer_type": "Codex transcript-only review",
+    "human_validated": false,
+    "checks": {
+      "hard_time_boundary": {
+        "status": "PASS",
+        "evidence": "The moderator ends direct debate explicitly at t006 after the CON response, then begins closing statements."
+      },
+      "phase_transition": {
+        "status": "PASS",
+        "evidence": "Phase 2 contains direct responses at t004-t005; t006 is the first Phase 3 turn."
+      },
+      "pro_first_closing": {
+        "status": "PASS",
+        "evidence": "Aisha takes the first closing turn at t007, followed by Lucas at t008."
+      },
+      "motion_grounding_and_balance": {
+        "status": "PASS",
+        "evidence": "Both sides address a minimum local-food share, with concrete benefits and cost, supply, and flexibility objections."
+      },
+      "variation_realization": {
+        "status": "PASS",
+        "evidence": "Food/agriculture motion, firm-concise MOD wording, PRO_closing_first role pattern, and 0.6-second transition gap are represented in the transcript."
+      },
+      "moderator_neutrality": {
+        "status": "PASS",
+        "evidence": "Victor sets the floor transition and speaker order without adding substantive claims or inventing facts."
+      }
+    },
+    "limitations": [
+      "This is transcript-only semantic judgment, not independent human or external validity.",
+      "The event-window is not a full-length debate and does not establish real-world speaking-time behavior.",
+      "Automatic validation does not prove that the motion arguments are factually correct."
+    ]
+  }
+}

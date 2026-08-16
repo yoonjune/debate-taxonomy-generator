@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.1",
+  "mode": "event-window",
+  "sample_id": "a3_2_closing_start_example",
+  "motion": "Schools should start later in the morning.",
+  "participants": {"MOD": {"name": "Alice"}, "PRO": {"name": "Daniel"}, "CON": {"name": "Sarah"}},
+  "target_taxonomies": ["A3-2"],
+  "turns": [
+    {"turn_id": "t001", "phase": 2, "speaker": "PRO", "text": "A later start gives students a schedule that better supports attention during first-period classes.", "start_sec": 0.0, "end_sec": 5.0, "taxonomy": []},
+    {"turn_id": "t002", "phase": 2, "speaker": "CON", "text": "It can also shift transportation, sports, and family schedules in ways schools cannot ignore.", "start_sec": 5.4, "end_sec": 10.2, "taxonomy": []},
+    {"turn_id": "t003", "phase": 3, "speaker": "MOD", "text": "That concludes round two. Daniel, please give the closing statement for the motion.", "start_sec": 10.6, "end_sec": 13.6, "taxonomy": ["A3-2"]},
+    {"turn_id": "t004", "phase": 3, "speaker": "PRO", "text": "Schools exist for learning, so schedules should put student alertness at the center of the decision.", "start_sec": 13.9, "end_sec": 18.9, "taxonomy": []},
+    {"turn_id": "t005", "phase": 3, "speaker": "CON", "text": "A uniform later start can create new burdens, so local schools need flexibility rather than a blanket rule.", "start_sec": 19.3, "end_sec": 24.9, "taxonomy": []}
+  ],
+  "events": [
+    {"taxonomy": "A3-2", "moderator_turn_id": "t003", "trigger_turn_ids": ["t001", "t002"]}
+  ],
+  "translations_ko": {
+    "t001": "등교 시간을 늦추면 학생들이 1교시 수업에 더 집중할 수 있는 일정을 만들 수 있습니다.",
+    "t002": "그러나 교통, 운동 활동, 가족 일정도 뒤로 밀릴 수 있으며 학교는 이를 무시할 수 없습니다.",
+    "t003": "이것으로 2라운드를 마칩니다. Daniel, 논제에 찬성하는 마무리 발언을 해주세요.",
+    "t004": "학교는 학습을 위해 존재하므로 일정 결정의 중심에는 학생들의 각성 상태가 있어야 합니다.",
+    "t005": "일률적으로 늦게 시작하면 새로운 부담이 생길 수 있으므로 포괄적인 규칙보다 지역 학교의 유연성이 필요합니다."
+  }
+}

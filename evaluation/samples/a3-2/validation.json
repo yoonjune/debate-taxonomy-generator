@@ -1,0 +1,16 @@
+{
+  "sample_id": "a3-2_b7da09a4",
+  "automatic_valid": true,
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "mode": "event-window",
+    "duration_sec": 64.0,
+    "turn_count": 8,
+    "target_taxonomies": [
+      "A3-2"
+    ],
+    "max_turn_wpm": 260.0,
+    "max_turn_wpm_turn_id": "t004"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.1",
+  "mode": "event-window",
+  "sample_id": "b2_self_contradiction_example",
+  "motion": "Video games will make us smarter.",
+  "participants": {"MOD": {"name": "Alice"}, "PRO": {"name": "Daniel"}, "CON": {"name": "Sarah"}},
+  "target_taxonomies": ["B2"],
+  "turns": [
+    {"turn_id": "t001", "phase": 2, "speaker": "CON", "text": "Games can improve people's planning and communication beyond play, even if the amount of transfer varies.", "start_sec": 0.0, "end_sec": 5.0, "taxonomy": []},
+    {"turn_id": "t002", "phase": 2, "speaker": "PRO", "text": "Then you accept that at least some game-based practice can make people better reasoners.", "start_sec": 5.4, "end_sec": 9.5, "taxonomy": []},
+    {"turn_id": "t003", "phase": 2, "speaker": "CON", "text": "Games do not improve people's planning or communication at all; those skills are only exercised inside the game.", "start_sec": 9.9, "end_sec": 15.0, "taxonomy": []},
+    {"turn_id": "t004", "phase": 2, "speaker": "MOD", "text": "You said games improve those skills beyond play, but now you say they do not improve them at all. Which is it?", "start_sec": 15.3, "end_sec": 20.4, "taxonomy": ["B2"]},
+    {"turn_id": "t005", "phase": 2, "speaker": "CON", "text": "I need to revise my first claim: games may exercise those skills, but transfer beyond play is not established.", "start_sec": 20.7, "end_sec": 25.9, "taxonomy": []}
+  ],
+  "events": [
+    {"taxonomy": "B2", "moderator_turn_id": "t004", "trigger_turn_ids": ["t001", "t003"], "claim_a_quote": "Games can improve people's planning and communication beyond play", "claim_b_quote": "Games do not improve people's planning or communication at all", "contrast_quote": "improve those skills beyond play"}
+  ],
+  "translations_ko": {
+    "t001": "전이 정도에는 차이가 있더라도 게임은 게임 밖에서 사람들의 계획 능력과 의사소통 능력을 향상시킬 수 있습니다.",
+    "t002": "그렇다면 적어도 일부 게임 기반 연습이 사람들을 더 나은 추론자로 만들 수 있다는 점은 인정하는군요.",
+    "t003": "게임은 사람들의 계획 능력이나 의사소통 능력을 전혀 향상시키지 않습니다. 그런 능력은 게임 안에서 연습될 뿐입니다.",
+    "t004": "게임이 그런 능력을 게임 밖에서도 향상시킨다고 했는데, 이제는 전혀 향상시키지 않는다고 말하고 있습니다. 어느 쪽입니까?",
+    "t005": "첫 주장을 수정해야겠습니다. 게임이 그런 능력을 연습시킬 수는 있지만, 게임 밖으로의 전이는 입증되지 않았습니다."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "sample_id": "a2-2_forward-all-20260816_b7da09a4",
+  "automatic": {
+    "status": "PASS",
+    "validation_artifact": "validation.json",
+    "errors": [],
+    "warnings": []
+  },
+  "transcript_only": {
+    "status": "PASS",
+    "reviewer": "Codex",
+    "provisional": true,
+    "checks": {
+      "completed_answer_before_handoff": "PASS",
+      "non_overlapping_handoff": "PASS",
+      "explicit_opponent_call": "PASS",
+      "next_speaker_takes_floor": "PASS",
+      "motion_coherence": "PASS",
+      "moderator_neutrality": "PASS",
+      "variation_card_realized": "PASS"
+    },
+    "notes": [
+      "Gabriel's answer reaches a semantic endpoint before Samuel's handoff.",
+      "Samuel waits 0.8 seconds after the completed CON turn, then calls Rina; Rina is the next substantive speaker.",
+      "The arts-and-public-funding motion and broadcast-neutral moderator wording realize the frozen variation card."
+    ],
+    "limitations": [
+      "This is transcript-only semantic review, not independent human validation or benchmark correctness.",
+      "The event-window does not establish real-world claims about arts funding or audio performance."
+    ]
+  },
+  "repair_count": 1,
+  "repair_breakdown": {
+    "automatic_validator_repairs": 0,
+    "local_semantic_repairs": 1,
+    "repair_note": "Rephrased the PRO aftermath from third-person narration to a direct first-person debate turn; final automatic validation remained PASS."
+  }
+}

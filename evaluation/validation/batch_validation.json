@@ -1,0 +1,177 @@
+{
+  "valid": true,
+  "errors": [],
+  "warnings": [
+    "semantic review remains required for ['B1', 'B2']"
+  ],
+  "metrics": {
+    "sample_count": 9,
+    "taxonomy_count": 9,
+    "unique_motion_count": 9,
+    "unique_domain_count": 9,
+    "unique_motion_family_count": 9,
+    "unique_moderator_style_count": 9,
+    "unique_participant_set_count": 9,
+    "max_domain_reuse": 1,
+    "max_moderator_action_jaccard": 0.1818
+  },
+  "individual": [
+    {
+      "path": "evaluation/samples/a1/sample.json",
+      "sample_id": "a1_energy_final-example-overrun_20260816",
+      "automatic_valid": true,
+      "errors": [],
+      "warnings": [],
+      "metrics": {
+        "mode": "event-window",
+        "duration_sec": 22.2,
+        "turn_count": 4,
+        "target_taxonomies": [
+          "A1"
+        ],
+        "max_turn_wpm": 247.059,
+        "max_turn_wpm_turn_id": "t003"
+      }
+    },
+    {
+      "path": "evaluation/samples/a2-1/sample.json",
+      "sample_id": "a2-1_b7da09a4_a2-1-02",
+      "automatic_valid": true,
+      "errors": [],
+      "warnings": [],
+      "metrics": {
+        "mode": "event-window",
+        "duration_sec": 50.1,
+        "turn_count": 4,
+        "target_taxonomies": [
+          "A2-1"
+        ],
+        "max_turn_wpm": 257.143,
+        "max_turn_wpm_turn_id": "t001"
+      }
+    },
+    {
+      "path": "evaluation/samples/a2-2/sample.json",
+      "sample_id": "a2-2_forward-all-20260816_b7da09a4",
+      "automatic_valid": true,
+      "errors": [],
+      "warnings": [],
+      "metrics": {
+        "mode": "event-window",
+        "duration_sec": 43.4,
+        "turn_count": 5,
+        "target_taxonomies": [
+          "A2-2"
+        ],
+        "max_turn_wpm": 204.762,
+        "max_turn_wpm_turn_id": "t003"
+      }
+    },
+    {
+      "path": "evaluation/samples/a3-1/sample.json",
+      "sample_id": "a3-1_b7da09a4-a3-1-04",
+      "automatic_valid": true,
+      "errors": [],
+      "warnings": [],
+      "metrics": {
+        "mode": "event-window",
+        "duration_sec": 47.0,
+        "turn_count": 5,
+        "target_taxonomies": [
+          "A3-1"
+        ],
+        "max_turn_wpm": 210.0,
+        "max_turn_wpm_turn_id": "t001"
+      }
+    },
+    {
+      "path": "evaluation/samples/a3-2/sample.json",
+      "sample_id": "a3-2_b7da09a4",
+      "automatic_valid": true,
+      "errors": [],
+      "warnings": [],
+      "metrics": {
+        "mode": "event-window",
+        "duration_sec": 64.0,
+        "turn_count": 8,
+        "target_taxonomies": [
+          "A3-2"
+        ],
+        "max_turn_wpm": 260.0,
+        "max_turn_wpm_turn_id": "t004"
+      }
+    },
+    {
+      "path": "evaluation/samples/a4/sample.json",
+      "sample_id": "a4_forward_all_20260816",
+      "automatic_valid": true,
+      "errors": [],
+      "warnings": [],
+      "metrics": {
+        "mode": "event-window",
+        "duration_sec": 39.0,
+        "turn_count": 5,
+        "target_taxonomies": [
+          "A4"
+        ],
+        "max_turn_wpm": 180.0,
+        "max_turn_wpm_turn_id": "t004"
+      }
+    },
+    {
+      "path": "evaluation/samples/a5/sample.json",
+      "sample_id": "a5_forward_all_20260816",
+      "automatic_valid": true,
+      "errors": [],
+      "warnings": [],
+      "metrics": {
+        "mode": "event-window",
+        "duration_sec": 28.2,
+        "turn_count": 6,
+        "target_taxonomies": [
+          "A5"
+        ],
+        "max_turn_wpm": 245.455,
+        "max_turn_wpm_turn_id": "t003"
+      }
+    },
+    {
+      "path": "evaluation/samples/b1/sample.json",
+      "sample_id": "b1_forward_all_20260816_education",
+      "automatic_valid": true,
+      "errors": [],
+      "warnings": [
+        "B1 requires transcript-only semantic review for genuine topic drift"
+      ],
+      "metrics": {
+        "mode": "event-window",
+        "duration_sec": 33.8,
+        "turn_count": 5,
+        "target_taxonomies": [
+          "B1"
+        ],
+        "max_turn_wpm": 221.739,
+        "max_turn_wpm_turn_id": "t004"
+      }
+    },
+    {
+      "path": "evaluation/samples/b2/sample.json",
+      "sample_id": "b2_b7da09a4_001",
+      "automatic_valid": true,
+      "errors": [],
+      "warnings": [
+        "B2 requires transcript-only semantic review for logical incompatibility"
+      ],
+      "metrics": {
+        "mode": "event-window",
+        "duration_sec": 29.4,
+        "turn_count": 7,
+        "target_taxonomies": [
+          "B2"
+        ],
+        "max_turn_wpm": 260.0,
+        "max_turn_wpm_turn_id": "t003"
+      }
+    }
+  ]
+}

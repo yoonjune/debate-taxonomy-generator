@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debate Taxonomy Generator"
+  short_description: "Generate diverse, validated taxonomy samples"
+  default_prompt: "Use $generate-debate-taxonomy to create and validate an A4 event-window sample."

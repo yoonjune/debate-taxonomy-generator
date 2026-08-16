@@ -1,0 +1,46 @@
+{
+  "profile_version": "0.1-public-subset",
+  "description": "Three timing-only voice profiles derived from a 312-voice synthetic catalog whose 28 test clips per voice had CER 0. Audio and model files are not included; these profiles do not establish human validity.",
+  "bands": ["1-2", "3-5", "6-10", "11-17", "18-34", "35-59", "60-100"],
+  "voices": {
+    "MSP-PODCAST_0537_440": {
+      "gender": "Female",
+      "wpm_plateau": 168.34,
+      "by_length": {
+        "1-2": {"sec_per_word": 0.8336},
+        "3-5": {"sec_per_word": 0.3748},
+        "6-10": {"sec_per_word": 0.3123},
+        "11-17": {"sec_per_word": 0.3531},
+        "18-34": {"sec_per_word": 0.3277},
+        "35-59": {"sec_per_word": 0.3635},
+        "60-100": {"sec_per_word": 0.3595}
+      }
+    },
+    "MSP-PODCAST_0177_72": {
+      "gender": "Male",
+      "wpm_plateau": 170.28,
+      "by_length": {
+        "1-2": {"sec_per_word": 0.7275},
+        "3-5": {"sec_per_word": 0.4488},
+        "6-10": {"sec_per_word": 0.3507},
+        "11-17": {"sec_per_word": 0.3586},
+        "18-34": {"sec_per_word": 0.3583},
+        "35-59": {"sec_per_word": 0.3310},
+        "60-100": {"sec_per_word": 0.3568}
+      }
+    },
+    "MSP-PODCAST_0941_297": {
+      "gender": "Female",
+      "wpm_plateau": 170.38,
+      "by_length": {
+        "1-2": {"sec_per_word": 0.9847},
+        "3-5": {"sec_per_word": 0.4457},
+        "6-10": {"sec_per_word": 0.3782},
+        "11-17": {"sec_per_word": 0.3528},
+        "18-34": {"sec_per_word": 0.3355},
+        "35-59": {"sec_per_word": 0.3644},
+        "60-100": {"sec_per_word": 0.3525}
+      }
+    }
+  }
+}

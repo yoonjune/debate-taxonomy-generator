@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.1",
+  "mode": "event-window",
+  "sample_id": "a5_floor_protection_example",
+  "motion": "Video games will make us smarter.",
+  "participants": {"MOD": {"name": "Alice"}, "PRO": {"name": "Daniel"}, "CON": {"name": "Sarah"}},
+  "target_taxonomies": ["A5"],
+  "turns": [
+    {"turn_id": "t001", "phase": 2, "speaker": "CON", "text": "The benefit depends on reflection, because repeating a rewarded move does not by itself show that the player understands the reason.", "start_sec": 0.0, "end_sec": 5.5, "taxonomy": []},
+    {"turn_id": "t002", "phase": 2, "speaker": "PRO", "text": "But feedback can teach that reason.", "start_sec": 4.2, "end_sec": 5.6, "taxonomy": []},
+    {"turn_id": "t003", "phase": 2, "speaker": "MOD", "text": "Let Sarah finish, please.", "start_sec": 4.8, "end_sec": 6.0, "taxonomy": ["A5"]},
+    {"turn_id": "t004", "phase": 2, "speaker": "CON", "text": "Thank you. Feedback helps only when the player can explain what changed and apply it elsewhere.", "start_sec": 6.2, "end_sec": 11.0, "taxonomy": []}
+  ],
+  "events": [
+    {"taxonomy": "A5", "moderator_turn_id": "t003", "trigger_turn_ids": ["t001", "t002"], "floor_holder": "CON", "interrupter": "PRO", "resume_turn_id": "t004"}
+  ],
+  "translations_ko": {
+    "t001": "보상받는 행동을 반복하는 것만으로는 플레이어가 그 이유를 이해한다고 볼 수 없으므로, 이점은 성찰에 달려 있습니다.",
+    "t002": "하지만 피드백이 그 이유를 가르칠 수 있습니다.",
+    "t003": "Sarah가 마저 말하게 해주세요.",
+    "t004": "고맙습니다. 피드백은 플레이어가 무엇이 바뀌었는지 설명하고 다른 곳에 적용할 수 있을 때만 도움이 됩니다."
+  }
+}

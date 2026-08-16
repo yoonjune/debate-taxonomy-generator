@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1",
+  "mode": "event-window",
+  "sample_id": "a1_time_stop_example",
+  "motion": "Schools should replace printed textbooks with tablets.",
+  "participants": {"MOD": {"name": "Alice"}, "PRO": {"name": "Daniel"}, "CON": {"name": "Sarah"}},
+  "target_taxonomies": ["A1"],
+  "turns": [
+    {"turn_id": "t001", "phase": 1, "speaker": "PRO", "text": "Tablets can update material quickly, reduce the weight students carry, and make diagrams interactive, so schools should treat them as the main learning tool.", "start_sec": 0.0, "end_sec": 9.2, "taxonomy": []},
+    {"turn_id": "t002", "phase": 1, "speaker": "MOD", "text": "Time. Thank you, Daniel.", "start_sec": 8.1, "end_sec": 9.1, "taxonomy": ["A1"]},
+    {"turn_id": "t003", "phase": 1, "speaker": "CON", "text": "The convenience does not remove concerns about distraction and unequal access.", "start_sec": 9.5, "end_sec": 13.0, "taxonomy": []}
+  ],
+  "events": [
+    {"taxonomy": "A1", "moderator_turn_id": "t002", "trigger_turn_ids": ["t001"], "floor_holder": "PRO", "deadline_sec": 8.0, "next_speaker": null}
+  ],
+  "translations_ko": {
+    "t001": "태블릿은 자료를 빠르게 갱신하고 학생들이 들고 다니는 무게를 줄이며 도표를 상호작용형으로 만들 수 있으므로, 학교는 이를 주요 학습 도구로 사용해야 합니다.",
+    "t002": "시간입니다. Daniel, 고맙습니다.",
+    "t003": "그런 편리함이 산만함과 접근성 격차에 대한 우려를 없애지는 않습니다."
+  }
+}

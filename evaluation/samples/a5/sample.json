@@ -1,0 +1,99 @@
+{
+  "schema_version": "0.1",
+  "mode": "event-window",
+  "sample_id": "a5_forward_all_20260816",
+  "motion": "Public schools should use AI tutors as a standard part of classroom instruction.",
+  "participants": {
+    "MOD": {"name": "Grace"},
+    "PRO": {"name": "Noah"},
+    "CON": {"name": "Mei"}
+  },
+  "target_taxonomies": ["A5"],
+  "variation": {
+    "taxonomy": "A5",
+    "variation_id": "b7da09a4-a5-07",
+    "seed": "forward-all-20260816",
+    "domain": "technology",
+    "motion_family": "automation-and-digital-access",
+    "trigger_subtype": "clarification-interrupt",
+    "role_pattern": "CON_interrupts_PRO",
+    "moderator_style": "plain-language",
+    "timing_profile": "MOD-during-interrupt",
+    "participant_set": "set-06",
+    "participants": {"MOD": "Grace", "PRO": "Noah", "CON": "Mei"}
+  },
+  "turns": [
+    {
+      "turn_id": "t001",
+      "phase": 2,
+      "speaker": "MOD",
+      "text": "Noah, please explain why this policy would improve access.",
+      "start_sec": 0.0,
+      "end_sec": 2.8,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t002",
+      "phase": 2,
+      "speaker": "PRO",
+      "text": "AI tutors can give students immediate practice at their own pace, including students who cannot afford private help.",
+      "start_sec": 2.9,
+      "end_sec": 10.8,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t003",
+      "phase": 2,
+      "speaker": "CON",
+      "text": "But that assumes every child has a reliable device.",
+      "start_sec": 8.9,
+      "end_sec": 11.1,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t004",
+      "phase": 2,
+      "speaker": "MOD",
+      "text": "Mei, let Noah finish. Then you have the floor.",
+      "start_sec": 10.85,
+      "end_sec": 13.2,
+      "taxonomy": ["A5"]
+    },
+    {
+      "turn_id": "t005",
+      "phase": 2,
+      "speaker": "PRO",
+      "text": "That is why the proposal includes loaner devices and offline lessons, so access does not depend on a family budget.",
+      "start_sec": 13.25,
+      "end_sec": 20.9,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t006",
+      "phase": 2,
+      "speaker": "CON",
+      "text": "I still question whether schools can maintain those devices fairly, but I will address that after this point.",
+      "start_sec": 21.1,
+      "end_sec": 28.2,
+      "taxonomy": []
+    }
+  ],
+  "events": [
+    {
+      "taxonomy": "A5",
+      "moderator_turn_id": "t004",
+      "trigger_turn_ids": ["t002", "t003"],
+      "floor_holder": "PRO",
+      "interrupter": "CON",
+      "resume_turn_id": "t005"
+    }
+  ],
+  "translations_ko": {
+    "t001": "Noah, 이 정책이 접근성을 어떻게 높이는지 설명해 주세요.",
+    "t002": "AI 튜터는 학생들이 각자의 속도로 즉시 연습하게 할 수 있고, 개인 지도를 받을 형편이 안 되는 학생도 도울 수 있습니다.",
+    "t003": "하지만 모든 아이가 안정적인 기기를 갖고 있다고 전제하고 있습니다.",
+    "t004": "Mei, Noah가 끝내도록 해 주세요. 그다음 발언권을 드리겠습니다.",
+    "t005": "그래서 이 제안에는 대여 기기와 오프라인 수업이 포함되어 있어, 접근성이 가정 형편에 좌우되지 않도록 합니다.",
+    "t006": "저는 학교가 그 기기들을 공정하게 관리할 수 있을지는 여전히 의문이지만, 이 지점 뒤에 답하겠습니다."
+  }
+}

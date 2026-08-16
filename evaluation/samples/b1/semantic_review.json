@@ -1,0 +1,40 @@
+{
+  "sample_id": "b1_forward_all_20260816_education",
+  "review_type": "transcript-only semantic review",
+  "automatic_validation": {
+    "status": "PASS",
+    "source": "validation.json",
+    "errors": [],
+    "warnings": [
+      "B1 requires transcript-only semantic review for genuine topic drift"
+    ],
+    "max_turn_wpm": 221.739,
+    "max_turn_wpm_ceiling": 260
+  },
+  "semantic_judgment": {
+    "status": "PASS",
+    "provisional": true,
+    "taxonomy": "B1",
+    "genuine_topic_drift": {
+      "status": "PASS",
+      "reason": "Marcus begins with project-based assessment and then follows the concrete idea of displaying student work into murals, models, and a school gallery. The aesthetic detail is a natural side path, but it does not answer whether replacing standardized tests improves measurement."
+    },
+    "redirect_grounding": {
+      "status": "PASS",
+      "reason": "Elena redirects to the visible motion question about replacing standardized tests with projects and does not add a new fact or agenda."
+    },
+    "role_and_style_fit": {
+      "status": "PASS",
+      "reason": "The PRO speaker drifts, and the MOD wording is short, neutral, and minimally interventionist as specified by the variation card."
+    },
+    "natural_aftermath": {
+      "status": "PASS",
+      "reason": "Priya resumes the substantive policy comparison immediately after the redirect."
+    }
+  },
+  "limitations": [
+    "This is a transcript-only semantic judgment, not human or external validity review.",
+    "The event-window is a local B1 slice and does not establish performance on a broader debate benchmark.",
+    "No claim is made about model correctness, generalization, or release readiness."
+  ]
+}

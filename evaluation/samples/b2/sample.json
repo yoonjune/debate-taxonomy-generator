@@ -1,0 +1,120 @@
+{
+  "schema_version": "0.1",
+  "mode": "event-window",
+  "sample_id": "b2_b7da09a4_001",
+  "motion": "Employers should adopt a four-day workweek without reducing pay.",
+  "participants": {
+    "MOD": {"name": "Maya"},
+    "PRO": {"name": "Daniel"},
+    "CON": {"name": "Sarah"}
+  },
+  "target_taxonomies": ["B2"],
+  "variation": {
+    "taxonomy": "B2",
+    "variation_id": "b7da09a4-b2-09",
+    "seed": "forward-all-20260816",
+    "domain": "workplace",
+    "motion_family": "work-schedule-and-employment-policy",
+    "trigger_subtype": "necessary-vs-sufficient",
+    "role_pattern": "CON_claims",
+    "moderator_style": "calm-conversational",
+    "timing_profile": "contrast-gap-0.5s",
+    "participant_set": "set-01",
+    "participants": {
+      "MOD": "Maya",
+      "PRO": "Daniel",
+      "CON": "Sarah"
+    }
+  },
+  "assignment": {
+    "mode": "event-window",
+    "duration_profile": "short-evidence-window",
+    "source_locator": "forward-all-20260816/B2/b7da09a4-b2-09",
+    "target_taxonomy": "B2"
+  },
+  "turns": [
+    {
+      "turn_id": "t001",
+      "phase": 1,
+      "speaker": "MOD",
+      "text": "Today we are discussing whether employers should adopt a four-day workweek without reducing pay.",
+      "start_sec": 0.0,
+      "end_sec": 4.2,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t002",
+      "phase": 1,
+      "speaker": "PRO",
+      "text": "A shorter week can protect wellbeing while keeping teams focused and productive.",
+      "start_sec": 4.7,
+      "end_sec": 7.7,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t003",
+      "phase": 1,
+      "speaker": "CON",
+      "text": "The proposal sounds attractive, but retention depends on more than fewer scheduled days.",
+      "start_sec": 8.2,
+      "end_sec": 11.2,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t004",
+      "phase": 2,
+      "speaker": "CON",
+      "text": "A four-day schedule is necessary and sufficient for retention: without it, retention cannot improve.",
+      "start_sec": 11.7,
+      "end_sec": 15.5,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t005",
+      "phase": 2,
+      "speaker": "CON",
+      "text": "Yet the schedule is sufficient but not necessary: retention can improve without it.",
+      "start_sec": 16.0,
+      "end_sec": 19.3,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t006",
+      "phase": 2,
+      "speaker": "MOD",
+      "text": "You first called the schedule necessary and sufficient, then sufficient but not necessary; those claims cannot both stand.",
+      "start_sec": 19.8,
+      "end_sec": 24.8,
+      "taxonomy": ["B2"]
+    },
+    {
+      "turn_id": "t007",
+      "phase": 2,
+      "speaker": "PRO",
+      "text": "That distinction matters: we can now test whether the policy is necessary or merely one possible route.",
+      "start_sec": 25.3,
+      "end_sec": 29.4,
+      "taxonomy": []
+    }
+  ],
+  "events": [
+    {
+      "taxonomy": "B2",
+      "moderator_turn_id": "t006",
+      "trigger_turn_ids": ["t004", "t005"],
+      "floor_holder": "CON",
+      "claim_a_quote": "A four-day schedule is necessary and sufficient for retention: without it, retention cannot improve.",
+      "claim_b_quote": "the schedule is sufficient but not necessary: retention can improve without it.",
+      "contrast_quote": "those claims cannot both stand"
+    }
+  ],
+  "translations_ko": {
+    "t001": "오늘은 고용주가 임금을 줄이지 않고 주 4일 근무제를 도입해야 하는지 논의하겠습니다.",
+    "t002": "근무일을 줄이면 팀의 집중력과 생산성을 유지하면서 웰빙을 지킬 수 있습니다.",
+    "t003": "제안은 매력적으로 들리지만, 직원 유지율은 단순히 예정된 근무일 수가 줄어드는 것 이상에 달려 있습니다.",
+    "t004": "주 4일 일정은 직원 유지에 필요충분합니다. 그것 없이는 유지율이 개선될 수 없습니다.",
+    "t005": "하지만 그 일정은 충분조건일 뿐 필요조건은 아닙니다. 일정 없이도 유지율은 개선될 수 있습니다.",
+    "t006": "먼저 그 일정이 필요충분하다고 하셨고, 이어 충분하지만 필요하지는 않다고 하셨습니다. 두 주장은 동시에 성립할 수 없습니다.",
+    "t007": "그 구분은 중요합니다. 이제 이 정책이 필수적인지, 아니면 가능한 경로 중 하나일 뿐인지 검토할 수 있습니다."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "sample_id": "a2-1_b7da09a4_a2-1-02",
+  "repair_count": 1,
+  "repair_history": [
+    {
+      "attempt": 0,
+      "validator_status": "FAIL",
+      "errors": ["t001: speech rate 300.0 WPM exceeds 260 WPM ceiling"],
+      "repair": "Timing-only shift: t001 extended to 4.2s; subsequent turns and deadline shifted by 0.6s to preserve the 30-second deadline, late barge-in, overlap, and PRO-to-CON handoff."
+    },
+    {
+      "attempt": 1,
+      "validator_status": "PASS",
+      "errors": []
+    }
+  ],
+  "automatic": {
+    "status": "PASS",
+    "source": "validation.json",
+    "errors": [],
+    "note": "Deterministic event-window validator passed schema, role, translation, timeline, deadline, overlap, handoff, and linkage checks."
+  },
+  "transcript_only": {
+    "status": "PASS",
+    "review_type": "transcript-only semantic judgment",
+    "is_human_validation": false,
+    "checks": {
+      "deadline_overrun_is_observable": "PASS: MOD grants thirty seconds; Sofia's turn continues beyond 34.2 seconds until 39.0 seconds.",
+      "moderator_action_matches_A2-1": "PASS: Adrian stops the over-time speaker and explicitly calls Malik for a response.",
+      "next_floor_is_substantive": "PASS: Malik begins the next substantive turn after the moderator intervention.",
+      "transition_is_neutral_and_grounded": "PASS: The moderator adds no new factual claim and only enforces the stated time/floor transition.",
+      "response_quality_and_balance": "PASS: Sofia gives a policy rationale; Malik responds to the permanent-station commitment with a cost-and-evidence objection and an alternative."
+    },
+    "limitations": [
+      "This is a transcript-only semantic review, not independent human/external validity.",
+      "The event window demonstrates the local handoff and does not establish performance across a broader debate set."
+    ]
+  },
+  "status_summary": {
+    "automatic_status": "PASS",
+    "semantic_status": "PASS",
+    "overall_claim": "Provisional sample-level pass only; not benchmark correctness or release validation."
+  }
+}

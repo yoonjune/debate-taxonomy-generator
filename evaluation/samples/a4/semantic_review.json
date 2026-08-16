@@ -1,0 +1,37 @@
+{
+  "sample_id": "a4_forward_all_20260816",
+  "taxonomy": "A4",
+  "repair_log": {
+    "validator_repairs": 0,
+    "semantic_repairs": 1,
+    "note": "One local wording repair changed an awkward PRO self-reference; taxonomy, timing, roles, and claims were preserved."
+  },
+  "automatic": {
+    "status": "PASS",
+    "validation_artifact": "raw_validation.json",
+    "checks": [
+      "schema, roles, unique turn IDs, timestamps, and Korean translations",
+      "260 WPM ceiling (maximum observed: 180.0 WPM on t004)",
+      "A4 CON floor-holder linkage",
+      "MOD overlap with the floor and 8.0-second remaining-time calculation",
+      "floor continuation after the notice"
+    ]
+  },
+  "transcript_only": {
+    "status": "PASS",
+    "review_type": "transcript-only semantic judgment",
+    "human_validation": false,
+    "checks": {
+      "observable_trigger": "PASS: Hana is developing a policy argument when Iris gives the short time notice.",
+      "moderator_function": "PASS: 'Eight seconds, Hana.' gives time information without taking the floor or calling another speaker.",
+      "continuation": "PASS: Hana's turn extends beyond the overlapping notice and concludes before Theo responds.",
+      "variation_alignment": "PASS: housing motion, CON floor, formal-procedural notice, and remaining-8s timing are represented.",
+      "neutrality": "PASS: the moderator adds no substantive claim and does not adjudicate the policy dispute."
+    },
+    "limitations": [
+      "This is a transcript-only semantic judgment, not independent human or external validity.",
+      "Event-window timestamps are synthetic evidence for taxonomy structure, not measured audio or TTS timing.",
+      "A4 semantic adequacy is judged from the written continuation; acoustic prosody and interruption salience were not evaluated."
+    ]
+  }
+}

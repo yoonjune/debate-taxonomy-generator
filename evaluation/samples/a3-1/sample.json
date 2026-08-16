@@ -1,0 +1,103 @@
+{
+  "schema_version": "0.1",
+  "mode": "event-window",
+  "sample_id": "a3-1_b7da09a4-a3-1-04",
+  "motion": "Cities should charge households for every kilogram of residual waste.",
+  "participants": {
+    "MOD": {
+      "name": "Nora"
+    },
+    "PRO": {
+      "name": "Ethan"
+    },
+    "CON": {
+      "name": "Camila"
+    }
+  },
+  "target_taxonomies": [
+    "A3-1"
+  ],
+  "variation": {
+    "taxonomy": "A3-1",
+    "variation_id": "b7da09a4-a3-1-04",
+    "seed": "forward-all-20260816",
+    "domain": "environment",
+    "motion_family": "waste-and-conservation-policy",
+    "trigger_subtype": "PRO-direct-question-first",
+    "role_pattern": "PRO_first_direct",
+    "moderator_style": "courteous-direct",
+    "timing_profile": "transition-gap-0.3s",
+    "participant_set": "set-04",
+    "participants": {
+      "MOD": "Nora",
+      "PRO": "Ethan",
+      "CON": "Camila"
+    }
+  },
+  "turns": [
+    {
+      "turn_id": "t001",
+      "phase": 1,
+      "speaker": "MOD",
+      "text": "Welcome. The motion is: Cities should charge households for every kilogram of residual waste.",
+      "start_sec": 0.0,
+      "end_sec": 4.0,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t002",
+      "phase": 1,
+      "speaker": "PRO",
+      "text": "I support the motion because a pay by weight fee makes disposal visible, rewards prevention, and funds local reuse. When every extra bag has a modest cost, households and landlords have a reason to separate materials and reduce unnecessary packaging.",
+      "start_sec": 4.1,
+      "end_sec": 17.0,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t003",
+      "phase": 1,
+      "speaker": "CON",
+      "text": "I oppose the motion because weight charges can punish larger families and renters who cannot control building collection. The policy also risks illegal dumping unless cities first provide reliable recycling, clear exemptions, and affordable disposal options.",
+      "start_sec": 17.3,
+      "end_sec": 29.2,
+      "taxonomy": []
+    },
+    {
+      "turn_id": "t004",
+      "phase": 2,
+      "speaker": "MOD",
+      "text": "Round one is complete. We now begin direct debate. Ethan, please start by addressing Camila with a question.",
+      "start_sec": 29.5,
+      "end_sec": 35.5,
+      "taxonomy": [
+        "A3-1"
+      ]
+    },
+    {
+      "turn_id": "t005",
+      "phase": 2,
+      "speaker": "PRO",
+      "text": "Camila, if households cannot reduce residual waste because local recycling is unreliable, why should they pay a fee rather than receive better collection first?",
+      "start_sec": 35.8,
+      "end_sec": 47.0,
+      "taxonomy": []
+    }
+  ],
+  "events": [
+    {
+      "taxonomy": "A3-1",
+      "moderator_turn_id": "t004",
+      "trigger_turn_ids": [
+        "t002",
+        "t003"
+      ]
+    }
+  ],
+  "translations_ko": {
+    "t001": "환영합니다. 오늘의 논제는 가정에서 나오는 잔여 폐기물 1킬로그램마다 요금을 부과해야 한다는 것입니다.",
+    "t002": "저는 이 논제에 찬성합니다. 무게에 따른 요금은 폐기를 눈에 보이게 하고, 감량을 유도하며, 지역 재사용 사업에 재원을 마련하기 때문입니다. 추가 봉투마다 적정한 비용이 붙으면 가정과 임대인은 재료를 분리하고 불필요한 포장을 줄일 동기를 갖게 됩니다.",
+    "t003": "저는 이 논제에 반대합니다. 무게 요금은 대가족과 건물의 수거 방식을 통제할 수 없는 임차인에게 불리할 수 있습니다. 또한 도시는 먼저 안정적인 재활용 수거, 명확한 면제, 감당 가능한 폐기 선택지를 제공하지 않으면 불법 투기를 키울 위험이 있습니다.",
+    "t004": "1라운드가 끝났습니다. 이제 직접 토론을 시작하겠습니다. Ethan, Camila를 향한 질문으로 시작해 주세요.",
+    "t005": "Camila, 지역 재활용 수거가 불안정해서 가정이 잔여 폐기물을 줄일 수 없다면, 먼저 더 나은 수거 서비스를 제공하지 않고 요금을 부과해야 하는 이유는 무엇인가요?"
+  }
+}
