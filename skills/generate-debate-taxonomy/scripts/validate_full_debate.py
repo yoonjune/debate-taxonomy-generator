@@ -258,12 +258,128 @@ def main() -> int:
     if not intro_rule["min"] <= first_turn_speech <= intro_rule["max"]:
         errors.append(f"moderator introduction {first_turn_speech:.2f}s outside {intro_rule['min']}..{intro_rule['max']}")
 
-    for phase, rule_name, label in ((1, "opening_per_debater_sec", "opening"), (3, "closing_per_debater_sec", "closing")):
-        rule = contract["timing"][rule_name]
+    # ── 고정 규격 검사 (contract 0.2) ────────────────────────────────────────
+    tcon = contract["timing"]
+    limit = tcon["speech_limit_sec"]
+    cue_above = tcon["time_cue_required_above_sec"]
+    in_rule, over_rule = tcon["in_time_speech_sec"], tcon["overrun_speech_sec"]
+
+    def cut_codes_on(role, phase):
+        """이 화자의 이 phase 발화를 끊는 개입이 있었나."""
+        return [c for c in ("A1", "A2-1")
+                for tid in taxonomy_turns.get(c, [])
+                if _prev_debater(tid) and _prev_debater(tid).get("speaker") == role
+                and _prev_debater(tid).get("phase") == phase]
+
+    def _prev_debater(tid):
+        i = turn_index_by_id.get(tid)
+        if i is None:
+            return None
+        for j in range(i - 1, -1, -1):
+            if turns[j].get("speaker") != "MOD":
+                return turns[j]
+        return None
+
+    def _next_turn(tid):
+        i = turn_index_by_id.get(tid)
+        return turns[i + 1] if i is not None and i + 1 < len(turns) else None
+
+    for phase, label in ((1, "opening"), (3, "closing")):
         for role in ("PRO", "CON"):
-            seconds = sum(row["speech_sec"] for row in timing_rows if row["phase"] == phase and row["speaker"] == role)
+            rows = [r for r in timing_rows if r["phase"] == phase and r["speaker"] == role]
+            if not rows:
+                continue
+            seconds = sum(r["speech_sec"] for r in rows)
+            was_cut = bool(cut_codes_on(role, phase))
+            rule = over_rule if was_cut else in_rule
             if not rule["min"] <= seconds <= rule["max"]:
-                errors.append(f"{role} {label} {seconds:.2f}s outside {rule['min']}..{rule['max']}")
+                errors.append(
+                    f"{role} {label} {seconds:.2f}s outside {rule['min']}..{rule['max']} "
+                    f"({'cut off, must exceed the limit' if was_cut else 'within the limit'})")
+            # 20초를 넘겼으면 10초 고지가 반드시 있어야 한다
+            ids = {r["turn_id"] for r in rows}
+            has_cue = any(_prev_debater(tid) is not None
+                          and _prev_debater(tid).get("turn_id") in ids
+                          for tid in taxonomy_turns.get("A4", []))
+            if seconds > cue_above and not has_cue:
+                errors.append(f"{role} {label} runs {seconds:.2f}s past "
+                              f"{cue_above}s with no ten-second cue")
+            if seconds <= cue_above and has_cue:
+                errors.append(f"{role} {label} is only {seconds:.2f}s but carries a "
+                              f"ten-second cue; nothing is left to announce")
+            if seconds > limit and not was_cut:
+                errors.append(f"{role} {label} {seconds:.2f}s passes the "
+                              f"{limit}s limit but is never cut off")
+
+    # ── 코드별 선행 조건 ────────────────────────────────────────────────────
+    pre = contract.get("preconditions", {})
+    unfinished = lambda t: bool(t) and t.get("text", "").rstrip().endswith("-")
+
+    for code, rule in pre.items():
+        for tid in taxonomy_turns.get(code, []):
+            mod_turn = turn_by_id.get(tid, {})
+            trig = _prev_debater(tid)
+            if rule.get("phases") and mod_turn.get("phase") not in rule["phases"]:
+                errors.append(f"{tid}: {code} may only occur in phase "
+                              f"{'/'.join(map(str, rule['phases']))}, not {mod_turn.get('phase')}")
+            if rule.get("requires_unfinished_trigger") and not unfinished(trig):
+                errors.append(f"{tid}: {code} requires the interrupted turn to stop "
+                              f"mid-sentence on a hyphen")
+            if rule.get("requires_time_cue_on_same_speaker"):
+                spk = trig.get("speaker") if trig else None
+                i = turn_index_by_id.get(tid, 0)
+                seen = any(turn_by_id[c].get("phase") == mod_turn.get("phase")
+                           and turn_index_by_id[c] < i
+                           and (_prev_debater(c) or {}).get("speaker") == spk
+                           for c in taxonomy_turns.get("A4", []))
+                if not seen:
+                    errors.append(f"{tid}: {code} needs an earlier A4 ten-second cue on {spk}")
+            if rule.get("requires_no_next_speaker_in_phase"):
+                nxt = next((t for t in turns[turn_index_by_id.get(tid, 0) + 1:]
+                            if t.get("speaker") != "MOD"), None)
+                if nxt is not None and nxt.get("phase") == mod_turn.get("phase"):
+                    errors.append(f"{tid}: A1 has a next debater in the same phase; "
+                                  f"that is A2-1, not A1")
+            if code == "A4":
+                nw = word_count(mod_turn.get("text", ""))
+                if nw > rule.get("max_moderator_words", 12):
+                    errors.append(f"{tid}: A4 is {nw} words, over the limit")
+                if rule.get("must_state_ten_seconds") and not re.search(
+                        r"\bten\b", mod_turn.get("text", ""), flags=re.IGNORECASE):
+                    errors.append(f"{tid}: A4 must say 'ten seconds' — the cue is fixed at ten")
+                nxt = _next_turn(tid)
+                if rule.get("same_speaker_continues_after") and (
+                        not trig or not nxt or nxt.get("speaker") != trig.get("speaker")):
+                    errors.append(f"{tid}: the same speaker must carry on after A4")
+
+    # ── 겹침 선언 ───────────────────────────────────────────────────────────
+    ov = contract.get("overlap", {})
+    for code in ov.get("codes_that_overlap", []):
+        for tid in taxonomy_turns.get(code, []):
+            t = turn_by_id.get(tid, {})
+            if not t.get("overlap_sec"):
+                errors.append(f"{tid}: {code} cuts into the previous turn and needs "
+                              f"overlap_sec > 0")
+            elif ov.get("require_overlap_with") and not t.get("overlap_with"):
+                errors.append(f"{tid}: {code} needs overlap_with naming the turn it cuts into")
+    for code in ov.get("codes_that_do_not_overlap", []):
+        for tid in taxonomy_turns.get(code, []):
+            if turn_by_id.get(tid, {}).get("overlap_sec"):
+                errors.append(f"{tid}: {code} follows a clean stop and must not overlap")
+
+    # ── 오프닝이 규격을 말로 알리는가 ────────────────────────────────────────
+    if contract.get("content", {}).get("announce_rules_in_intro") and turns:
+        intro = turns[0].get("text", "")
+        if not re.search(r"\bthirty[- ]second|\b30[- ]second", intro, flags=re.IGNORECASE):
+            errors.append("the opening must say the thirty-second speech limit out loud; "
+                          "a limit that is only in metadata cannot be graded")
+
+    # ── 3인 규격 ────────────────────────────────────────────────────────────
+    for turn in turns:
+        if turn.get("speaker") == "MOD" and re.search(
+                r"\beverybody\b|\beveryone\b|\btoo many people\b",
+                turn.get("text", ""), flags=re.IGNORECASE):
+            errors.append(f"{turn.get('turn_id')}: addresses more than two debaters")
 
     if profile_contract:
         total_rule = profile_contract["total_duration_sec"]

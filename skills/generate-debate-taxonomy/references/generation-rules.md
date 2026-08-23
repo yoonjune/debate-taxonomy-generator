@@ -98,6 +98,12 @@ Taxonomy-specific event fields are defined in `references/contract.json` and che
 - Do not use the Korean translation for English timing.
 - Avoid unresolved square-bracket tags, audience speakers, precise invented statistics, named studies, and
   extra participants.
+- 화자는 MOD/PRO/CON 셋뿐이다. `everybody`, `everyone at once`, `too many people`처럼 토론자가
+  셋 이상임을 전제하는 표현을 쓰지 않는다.
+- 합성 입력이므로 TTS 친화 문자만 쓴다. 유니코드 따옴표(`’` `“` `”`)와 엠대시(`—`)를
+  ASCII로 정규화한다. 중단 표기는 하이픈 하나(`-`)로 통일한다.
+- 진행자 발화 한 turn은 한 가지 일만 한다. 시간 고지를 하면서 다음 화자를 부르는 문장은
+  어느 코드에도 속하지 않으므로 쓰지 않는다.
 
 ## Rendering
 

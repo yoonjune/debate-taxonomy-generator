@@ -1,33 +1,133 @@
 {
-  "contract_version": "0.1",
+  "contract_version": "0.2",
   "language": "en",
-  "roles": ["MOD", "PRO", "CON"],
-  "phase_order": [1, 2, 3],
-  "required_taxonomies": ["A3-1", "A3-2"],
-  "allowed_taxonomies": ["A1", "A2-1", "A2-2", "A3-1", "A3-2", "A4", "A5", "B1", "B2"],
-  "taxonomy_count_per_sample": {"min": 3, "max": 5},
+  "roles": [
+    "MOD",
+    "PRO",
+    "CON"
+  ],
+  "phase_order": [
+    1,
+    2,
+    3
+  ],
+  "required_taxonomies": [
+    "A3-1",
+    "A3-2"
+  ],
+  "allowed_taxonomies": [
+    "A1",
+    "A2-1",
+    "A2-2",
+    "A3-1",
+    "A3-2",
+    "A4",
+    "A5",
+    "B1",
+    "B2"
+  ],
+  "taxonomy_count_per_sample": {
+    "min": 3,
+    "max": 5
+  },
   "profiles": {
     "short": {
-      "total_duration_sec": {"min": 210, "max": 225},
-      "phase2_duration_sec": {"min": 65, "max": 80}
+      "total_duration_sec": {
+        "min": 210,
+        "max": 225
+      },
+      "phase2_duration_sec": {
+        "min": 65,
+        "max": 80
+      }
     },
     "long": {
-      "total_duration_sec": {"min": 300, "max": 330},
-      "phase2_duration_sec": {"min": 150, "max": 180}
+      "total_duration_sec": {
+        "min": 300,
+        "max": 330
+      },
+      "phase2_duration_sec": {
+        "min": 150,
+        "max": 180
+      }
     }
   },
   "timing": {
-    "moderator_intro_sec": {"min": 6, "max": 15},
-    "opening_per_debater_sec": {"min": 24, "max": 38},
-    "closing_per_debater_sec": {"min": 24, "max": 38},
+    "moderator_intro_sec": {
+      "min": 8,
+      "max": 20
+    },
+    "speech_limit_sec": 30,
+    "time_cue_remaining_sec": 10,
+    "time_cue_required_above_sec": 20,
+    "in_time_speech_sec": {
+      "min": 8,
+      "max": 30
+    },
+    "overrun_speech_sec": {
+      "min": 30,
+      "max": 45
+    },
     "max_a5_interrupt_words": 12,
     "max_pro_con_duration_ratio": 1.15,
-    "max_moderator_word_share": 0.15,
-    "max_words_per_turn": 100
+    "max_words_per_turn": 100,
+    "max_moderator_word_share": 0.25
   },
   "content": {
     "audience_speakers_allowed": false,
     "routine_moderator_questions_allowed": false,
-    "phase3_first_debater": "PRO"
+    "phase3_first_debater": "PRO",
+    "announce_rules_in_intro": true,
+    "unfinished_turn_marker": "-"
+  },
+  "overlap": {
+    "codes_that_overlap": [
+      "A1",
+      "A2-1",
+      "A3-2",
+      "A4",
+      "A5"
+    ],
+    "codes_that_do_not_overlap": [
+      "A2-2",
+      "A3-1"
+    ],
+    "require_overlap_with": true,
+    "note": "an overlapping moderator turn must name the turn it cuts into so synthesis can place the voices on top of each other. the exact gap in seconds is decided at synthesis time, not here."
+  },
+  "preconditions": {
+    "A1": {
+      "requires_time_cue_on_same_speaker": true,
+      "requires_unfinished_trigger": true,
+      "requires_no_next_speaker_in_phase": true
+    },
+    "A2-1": {
+      "requires_time_cue_on_same_speaker": true,
+      "requires_unfinished_trigger": true
+    },
+    "A3-2": {
+      "requires_unfinished_trigger": true
+    },
+    "A4": {
+      "max_moderator_words": 12,
+      "same_speaker_continues_after": true,
+      "must_state_ten_seconds": true
+    },
+    "A5": {
+      "phases": [
+        1,
+        3
+      ]
+    },
+    "B1": {
+      "phases": [
+        2
+      ]
+    },
+    "B2": {
+      "phases": [
+        2
+      ]
+    }
   }
 }
