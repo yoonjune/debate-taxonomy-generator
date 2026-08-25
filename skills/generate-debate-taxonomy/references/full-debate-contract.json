@@ -71,14 +71,21 @@
     "max_a5_interrupt_words": 12,
     "max_pro_con_duration_ratio": 1.15,
     "max_words_per_turn": 100,
-    "max_moderator_word_share": 0.25
+    "max_moderator_word_share": 0.25,
+    "time_cue_lands_at_sec": 20,
+    "max_coded_moderator_turns": 8
   },
   "content": {
     "audience_speakers_allowed": false,
     "routine_moderator_questions_allowed": false,
     "phase3_first_debater": "PRO",
     "announce_rules_in_intro": true,
-    "unfinished_turn_marker": "-"
+    "unfinished_turn_marker": "-",
+    "moderator_may_reference_only_transcript": true,
+    "debater_may_not_echo_moderator_turn": true,
+    "no_self_reference_in_third_person": true,
+    "no_consecutive_duplicate_turns": true,
+    "round_wording_must_match_phase": true
   },
   "overlap": {
     "codes_that_overlap": [
@@ -117,17 +124,31 @@
       "phases": [
         1,
         3
-      ]
+      ],
+      "addressee": "interrupter_to_stop_or_floor_holder_to_continue",
+      "must_not_grant_floor_to_interrupter": true
     },
     "B1": {
       "phases": [
         2
-      ]
+      ],
+      "drift_starts_from_own_prior_point": true,
+      "drift_spans_whole_turn": true
     },
     "B2": {
       "phases": [
         2
-      ]
+      ],
+      "contradiction_test": [
+        "same subject",
+        "same conditions",
+        "same period",
+        "same standard",
+        "cannot both be true"
+      ],
+      "shape": "broad_rule_then_exception",
+      "requires_reconciling_turn_after": true,
+      "must_not_be_direct_reversal": true
     }
   }
 }

@@ -20,6 +20,14 @@ Use only `MOD`, `PRO`, and `CON`. Keep the moderator neutral and mostly silent.
 Short debates must total 210–225 seconds with 65–80 seconds in Phase 2. Long debates must total 300–330
 seconds with 150–180 seconds in Phase 2. Include `A3-1`, `A3-2`, and one to three additional taxonomy codes.
 
+**Keep the moderator rare.** At most eight moderator turns carry a taxonomy code in one debate.
+A real four-minute debate does not have eleven interventions in it, and a transcript that does
+looks like a checklist rather than a debate.
+
+**Say the round you are in.** Opening-round moderator turns never use closing words —
+`summing up`, `closing statement`, `final remarks`, `the last word`. Closing-round turns never
+call for an opening. The only place the whole format is described is the intro.
+
 There is no audience speaker and there are no audience questions. Do not introduce unverifiable precise
 statistics, named studies, or extra people. Make both sides substantive and comparably strong.
 
@@ -34,6 +42,26 @@ taking the other side's position.
 **Unfinished turns.** A turn that the moderator or the other debater cuts into must stop in the
 middle of a sentence and end with a single hyphen, like `and the cost of that is-`. No period,
 no ellipsis, no closing clause. If the speaker finishes cleanly, nothing was interrupted.
+
+**Nothing is staged.** Every moderator turn has to look like something the moderator was forced
+into, not something a debater set up for them. A debater never announces the problem, never runs
+over on purpose, never changes the subject out of nowhere, and never states the opposite of what
+they just said. Write the situation first and let the moderator react to it. A reader who did not
+see the assignment should not be able to tell which codes were targeted.
+
+**The moderator knows only the transcript.** No past positions, no earlier programmes, no
+careers, no history the debate has not already stated. A moderator who says "in the last few
+years you have argued…" has invented evidence, and the claim cannot be graded from the transcript.
+
+**Nobody speaks the moderator's words.** A debater turn never previews, quotes or repeats the
+moderator's next or previous line. The cue, the handoff and the redirect belong to `MOD` alone.
+
+**Names and pronouns.** A debater never refers to themselves in the third person. Address the
+person you are speaking to as *you*, not *he* or *she* — the transcript is the only cue a listener
+gets about who is meant.
+
+**Written to be read aloud.** Short sentences. Name the subject before saying anything about it.
+Ordinary contractions and connectives. ASCII punctuation only.
 
 ## Taxonomy realization
 
@@ -52,11 +80,29 @@ no ellipsis, no closing clause. If the speaker finishes cleanly, nothing was int
   MOD does not take the floor and does not call the next speaker.
 - `A5`: only in Phase 1 or Phase 3, where interrupting is against the rules. One debater interrupts
   the other with at most 12 words, positive overlap, and an unfinished ending; MOD promptly restores
-  the original floor and names who keeps it.
+  the original floor and names who keeps it. **Address the right person.** Either tell the
+  interrupter to stop, or tell the floor holder to carry on. Telling the interrupter to continue
+  hands them the floor they just took, which is the opposite of A5 — and the turn after it will
+  contradict the instruction.
 - `B1`: only in Phase 2. A debater genuinely drifts away from the motion; MOD briefly redirects.
+  The drift **starts from a point that debater just made** and follows it into a neighbouring
+  case, mechanism or history that no longer helps decide the motion, and it lasts the whole turn.
+  A jump to an unrelated subject is not drift — it is a planted sentence, and it reads as one.
 - `B2`: only in Phase 2. The same debater states two explicit, logically incompatible claims before
-  MOD accurately contrasts them. A qualification or narrower scope is not a contradiction. Choose
-  one of two ranges: the first claim sits in the Phase 1 opening, or a few turns earlier in Phase 2.
+  MOD accurately contrasts them. Choose one of two ranges: the first claim sits in the Phase 1
+  opening, or a few turns earlier in Phase 2.
+
+  **Test the pair before using it.** Two statements contradict only if they are about the same
+  subject, under the same conditions, over the same period, by the same standard, and cannot both
+  be true. `Guns reduce crime when lawful people carry them` and `guns do not reduce crime` fail
+  the test: one is conditional, the other aggregate. `January 6 was grave but survivable` and
+  `January 6 threatened the republic's existence` fail too: a threat can fail.
+
+  **Build it as a rule and an exception, not as a reversal.** Going from `never` to `always` in
+  two turns reads as a planted sentence. Instead let the debater state a broad principle early,
+  then give a concrete answer that quietly grants an exception to it. After MOD puts the two side
+  by side, the debater **keeps both** and names the standard that reconciles them. They do not
+  withdraw either claim and they do not change sides.
 
 Do not combine taxonomy events in one MOD turn. Every target taxonomy occurs exactly once on a MOD turn and
 has exactly one event row. For A1, A2-1, and A4, encode the required timing/overlap in turns rather than only
