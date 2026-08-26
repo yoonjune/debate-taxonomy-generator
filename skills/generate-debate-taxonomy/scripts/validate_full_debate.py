@@ -13,6 +13,39 @@ from typing import Any
 
 WORD_RE = re.compile(r"[A-Za-z]+(?:['’-][A-Za-z]+)*|\d+(?:\.\d+)?")
 ROLES = ("MOD", "PRO", "CON")
+
+MAX_CODED_MOD_TURNS = 8
+MAX_SHARED_RUN = 5          # words a debater may share with an adjacent MOD turn
+CLOSING_WORDS = re.compile(
+    r"\bclosing\b|\bsummar\w*|\bsumming up\b|\bfinal (?:remarks|word|statement)\b"
+    r"|\bthe last word\b",
+    re.I,
+)
+OPENING_WORDS = re.compile(r"\bopening statement\b|\bfirst round\b|\bround one\b", re.I)
+# a moderator can only know what the transcript has already said
+OUTSIDE_KNOWLEDGE = re.compile(
+    r"\b(?:in|over) the (?:last|past) (?:few )?(?:years?|decades?|months?)\b"
+    r"|\byou(?:'ve| have) (?:long |always |consistently )?(?:argued|written|said|held|campaigned)\b"
+    r"|\byour (?:record|career|book|column|party)\b|\bas you wrote\b",
+    re.I,
+)
+
+
+def normalize(text: str) -> str:
+    return " ".join(re.sub(r"[^a-z ]", " ", text.lower()).split())
+
+
+def longest_shared_run(a: str, b: str) -> int:
+    """Longest run of consecutive words of b that appears verbatim inside a."""
+    haystack, needle = normalize(a), normalize(b).split()
+    best = 0
+    for start in range(len(needle)):
+        for end in range(start + best + 1, len(needle) + 1):
+            if " ".join(needle[start:end]) in haystack:
+                best = end - start
+            else:
+                break
+    return best
 REFERENCE_DIR = Path(__file__).resolve().parents[1] / "references"
 
 
@@ -397,6 +430,81 @@ def main() -> int:
     moderator_share = words_by_role["MOD"] / total_words if total_words else 0.0
     if moderator_share > contract["timing"]["max_moderator_word_share"]:
         errors.append(f"moderator word share {moderator_share:.3f} exceeds limit")
+
+    # ── rules that survived a round of human review of generated debates ──────
+    # Every check here corresponds to a defect that reviewers actually found in
+    # output that already passed every earlier check in this file.
+    names = {role: (participants.get(role) or {}).get("name") or "" for role in ROLES}
+
+    coded = [turn for turn in turns if turn.get("taxonomy")]
+    if len(coded) > MAX_CODED_MOD_TURNS:
+        errors.append(
+            f"{len(coded)} coded moderator turns exceeds max {MAX_CODED_MOD_TURNS} — "
+            "the transcript reads as a checklist rather than a debate"
+        )
+
+    for index, turn in enumerate(turns):
+        turn_id = turn.get("turn_id", f"#{index}")
+        role = turn.get("speaker")
+        text = turn.get("text") or ""
+
+        if role == "MOD" and index > 0:
+            phase = turn.get("phase")
+            if phase == 1 and CLOSING_WORDS.search(text):
+                errors.append(
+                    f"{turn_id}: opening round uses closing wording "
+                    f"({CLOSING_WORDS.search(text).group()!r})"
+                )
+            if phase == 3 and OPENING_WORDS.search(text):
+                errors.append(
+                    f"{turn_id}: closing round uses opening wording "
+                    f"({OPENING_WORDS.search(text).group()!r})"
+                )
+            if OUTSIDE_KNOWLEDGE.search(text):
+                errors.append(
+                    f"{turn_id}: moderator cites something outside the transcript "
+                    f"({OUTSIDE_KNOWLEDGE.search(text).group()!r})"
+                )
+            continue
+
+        if role not in ("PRO", "CON"):
+            continue
+
+        own = names.get(role)
+        if own and re.search(rf"\b{re.escape(own)}\b", text):
+            errors.append(f"{turn_id}: {own} refers to themselves in the third person")
+
+        for other in (index - 1, index + 1):
+            if 0 <= other < len(turns) and turns[other].get("speaker") == "MOD":
+                run = longest_shared_run(text, turns[other].get("text") or "")
+                if run >= MAX_SHARED_RUN:
+                    errors.append(
+                        f"{turn_id}: repeats {run} words of the moderator turn "
+                        f"{turns[other].get('turn_id')} — the cue belongs to MOD alone"
+                    )
+                    break
+
+        if index and normalize(text) and normalize(text) == normalize(turns[index - 1].get("text") or ""):
+            errors.append(f"{turn_id}: identical to the previous turn")
+
+    for index, turn in enumerate(turns):
+        if "A5" not in (turn.get("taxonomy") or []) or index < 2:
+            continue
+        interrupter = names.get(turns[index - 1].get("speaker"), "")
+        text = turn.get("text") or ""
+        if interrupter and (
+            re.search(rf"\b(let|allow)\s+{re.escape(interrupter)}\b", text, re.I)
+            or re.search(
+                rf"\b{re.escape(interrupter)}\b[^.?!]{{0,25}}"
+                rf"\b(continue|go ahead|go on|finish|carry on)\b",
+                text,
+                re.I,
+            )
+        ):
+            errors.append(
+                f"{turn.get('turn_id')}: A5 gives the floor to {interrupter}, who is the "
+                "interrupter — address the interrupter to stop, or the floor holder to continue"
+            )
 
     semantic_targets = sorted(set(targets) & {"A1", "A2-1", "A2-2", "A4", "B1", "B2"})
     if semantic_targets:
