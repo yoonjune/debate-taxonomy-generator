@@ -85,7 +85,11 @@
     "debater_may_not_echo_moderator_turn": true,
     "no_self_reference_in_third_person": true,
     "no_consecutive_duplicate_turns": true,
-    "round_wording_must_match_phase": true
+    "round_wording_must_match_phase": true,
+    "cutoff_lines_must_mention_time": true,
+    "a3_2_must_announce_round_end": true,
+    "accused_speaker_replies_first_after_B1_B2": true,
+    "A2_2_text_only_gradable": false
   },
   "overlap": {
     "codes_that_overlap": [
@@ -148,7 +152,22 @@
       ],
       "shape": "broad_rule_then_exception",
       "requires_reconciling_turn_after": true,
-      "must_not_be_direct_reversal": true
+      "must_not_be_direct_reversal": true,
+      "seed_must_quote_both_claims": true
+    }
+  },
+  "evaluation": {
+    "probe_design": "feed the transcript up to just before a moderator moment and ask: should the moderator speak here, and doing what?",
+    "balanced_probes_per_sample": true,
+    "negative_controls_required": [
+      "near_limit_speech_not_cut",
+      "brief_drift_that_self_corrects",
+      "compatible_claims_that_sound_opposed",
+      "crossfire_interruption_left_alone"
+    ],
+    "boundary_speech_sec": {
+      "min": 28,
+      "max": 30
     }
   }
 }
