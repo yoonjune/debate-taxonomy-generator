@@ -1,0 +1,13 @@
+{
+  "adapter": "personaplex",
+  "model_id": "nvidia/personaplex-7b-v1",
+  "revision": "fdaf4090a61cb315c138a1faee287ffd6c716309",
+  "runtime_family": "moshi_personaplex",
+  "sample_rate": 24000,
+  "teacher_forcing": "agent_audio",
+  "seed": 42424242,
+  "audio_temperature": 0.8,
+  "text_temperature": 0.7,
+  "audio_top_k": 250,
+  "text_top_k": 25
+}

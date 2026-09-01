@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.1",
+  "positive_release_lead_sec": {
+    "clock": 5.0,
+    "event": 3.0,
+    "content": 3.0
+  },
+  "negative_release_lead_sec": 3.0,
+  "negative_observation_sec": 3.0,
+  "post_window_tail_sec": 3.0,
+  "vad": {
+    "frame_ms": 20,
+    "threshold_dbfs": -38.0,
+    "min_speech_ms": 120,
+    "min_silence_ms": 160
+  }
+}
