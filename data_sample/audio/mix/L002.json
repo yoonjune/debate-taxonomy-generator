@@ -1,0 +1,275 @@
+{
+ "debate_id": "L002",
+ "motion": "Better Elected Islamists Than Dictators",
+ "speakers": {
+  "MOD": {
+   "name": "Nick",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3841_60",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3841/MSP-PODCAST_3841_60.wav",
+   "wpm": 170.31
+  },
+  "PRO": {
+   "name": "Miriam",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  },
+  "CON": {
+   "name": "Danielle",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "total_sec": 247.1,
+ "turns": [
+  {
+   "i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.68,
+   "dur_sec": 18.68,
+   "overlap": false,
+   "text": "Tonight's motion is Better Elected Islamists Than Dictators. Miriam argues for it; Danielle argues against it. Each will have thirty seconds to open. Then they will question and answer in crossfire. Finally, each will give a thirty-second closing. I will give a ten-second cue before time expires. Keep answers focused, and address the motion directly."
+  },
+  {
+   "i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.88,
+   "end_sec": 38.44,
+   "dur_sec": 19.56,
+   "overlap": false,
+   "text": "An elected Islamist party receives authority through a public choice, not a palace decree. That distinction matters because voters can test promises, organize opposition, and replace leaders. A dictatorship denies those peaceful routes before any policy is judged. We should not demand perfect partners before accepting elections; we should demand institutions strong enough to restrain whoever wins."
+  },
+  {
+   "i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 37.9,
+   "end_sec": 38.98,
+   "dur_sec": 1.08,
+   "overlap": true,
+   "text": "Ten seconds, Miriam."
+  },
+  {
+   "i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.18,
+   "end_sec": 52.98,
+   "dur_sec": 13.8,
+   "overlap": false,
+   "text": "Religious voters are citizens; excluding their movement makes ballots decorative. Let an elected government face courts, a legislature, a free press, and another election. If it abuses office, remove it through those channels, rather than preserving a dictator because democracy might-"
+  },
+  {
+   "i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 52.18,
+   "end_sec": 54.14,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Your time is up. Thank you. Danielle."
+  },
+  {
+   "i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.34,
+   "end_sec": 72.06,
+   "dur_sec": 17.72,
+   "overlap": false,
+   "text": "An election begins liberty; it does not guarantee it. An Islamist government can win office, then use religious authority to silence rivals, narrow rights, and rewrite the rules. A dictator is unjust, but an elected closed system still leaves citizens unsafe and unfree."
+  },
+  {
+   "i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 72.26,
+   "end_sec": 74.94,
+   "dur_sec": 2.68,
+   "overlap": false,
+   "text": "Let me throw the discussion open between the two sides."
+  },
+  {
+   "i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 75.14,
+   "end_sec": 87.1,
+   "dur_sec": 11.96,
+   "overlap": false,
+   "text": "I reject the assumption that an Islamist victory automatically ends democracy. The real question is whether voters retain legal protections and a peaceful remedy. Under dictatorship, they have neither, whatever the ruler promises or claims."
+  },
+  {
+   "i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 87.3,
+   "end_sec": 98.62,
+   "dur_sec": 11.32,
+   "overlap": false,
+   "text": "Whenever voters freely choose an Islamist government, it is better than any dictatorship, because citizens retain a peaceful route to replace leaders, criticize policy, and demand accountability through public institutions and courts."
+  },
+  {
+   "i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 98.82,
+   "end_sec": 111.42,
+   "dur_sec": 12.6,
+   "overlap": false,
+   "text": "Your promise of institutions is too vague. Courts and legislatures can be captured by a winning movement, while religious claims make dissent look immoral. If safeguards depend on the victor's restraint, they are not safeguards at all."
+  },
+  {
+   "i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 111.62,
+   "end_sec": 122.78,
+   "dur_sec": 11.16,
+   "overlap": false,
+   "text": "Here is a concrete limit: if an elected Islamist government cancels elections, bans opposition, and makes peaceful removal impossible, it can be worse than a dictator who permits an orderly succession of power."
+  },
+  {
+   "i": 11,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 122.98,
+   "end_sec": 127.26,
+   "dur_sec": 4.28,
+   "overlap": false,
+   "text": "You're arguing that an elected Islamist government can be worse than a dictator now?"
+  },
+  {
+   "i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 127.46,
+   "end_sec": 139.1,
+   "dur_sec": 11.64,
+   "overlap": false,
+   "text": "Those statements fit because my comparison concerns voters' choice and the accountability that follows. A government that destroys elections destroys the condition making it preferable; before that breach, peaceful removal remains the decisive advantage."
+  },
+  {
+   "i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 139.3,
+   "end_sec": 150.06,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Families worry about jobs, prices, and schooling, and those pressures decide elections. But hardship is why rulers need public accountability. On this motion, elected Islamists remain preferable when citizens can remove them peacefully."
+  },
+  {
+   "i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 150.26,
+   "end_sec": 162.3,
+   "dur_sec": 12.04,
+   "overlap": false,
+   "text": "Yes, peaceful removal is the safeguard I mean, not a promise that every Islamist cabinet will behave well. Danielle's alternative protects no better rights; dictatorship makes accountability impossible by placing one ruler beyond effective challenge."
+  },
+  {
+   "i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 162.5,
+   "end_sec": 175.5,
+   "dur_sec": 13.0,
+   "overlap": false,
+   "text": "You called peaceful removal the decisive advantage, but your exception admits an elected Islamist government can be worse than a dictator. That is not a safeguard; it is a warning that ballots can empower leaders who then-"
+  },
+  {
+   "i": 16,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 174.7,
+   "end_sec": 186.98,
+   "dur_sec": 12.28,
+   "overlap": true,
+   "text": "We are about to hear brief closing remarks from each debater in turn. On to round three, closing statements. First summarizing her position in support of the motion whether elected Islamist governments are better than dictators, Miriam."
+  },
+  {
+   "i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.18,
+   "end_sec": 204.82,
+   "dur_sec": 17.64,
+   "overlap": false,
+   "text": "This decision turns on what happens when power goes wrong. Dictators close the door before citizens can act; elected Islamist governments at least face a route through votes, courts, and opposition. The choice is not perfection versus danger. It is unaccountable power versus a chance to correct it."
+  },
+  {
+   "i": 18,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 205.02,
+   "end_sec": 206.9,
+   "dur_sec": 1.88,
+   "overlap": false,
+   "text": "So, let's let Danielle jump in. Okay."
+  },
+  {
+   "i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 207.1,
+   "end_sec": 226.58,
+   "dur_sec": 19.48,
+   "overlap": false,
+   "text": "This decision turns on whether an election protects liberty after election night. A movement can win lawfully and then weaken courts, silence opponents, and claim sacred authority for ordinary political choices. Once removal becomes impossible, the ballot has served as a ladder into permanent rule. Citizens deserve safeguards before we call that bargain better."
+  },
+  {
+   "i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 225.92,
+   "end_sec": 227.24,
+   "dur_sec": 1.32,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 227.44,
+   "end_sec": 241.48,
+   "dur_sec": 14.04,
+   "overlap": false,
+   "text": "Democracy is valuable because it limits power, not because every winner deserves trust. If an Islamist government keeps elections meaningful, it may be challenged. If it captures the state, voters cannot correct the choice. That is why a hopeful promise cannot outweigh a real-"
+  },
+  {
+   "i": 22,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 240.82,
+   "end_sec": 242.14,
+   "dur_sec": 1.32,
+   "overlap": true,
+   "text": "Danielle, her time is up."
+  },
+  {
+   "i": 23,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 242.34,
+   "end_sec": 247.1,
+   "dur_sec": 4.76,
+   "overlap": false,
+   "text": "Thank you both. This debate is closed. We have heard both arguments, and no winner is declared tonight."
+  }
+ ]
+}

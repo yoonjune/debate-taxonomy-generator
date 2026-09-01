@@ -1,0 +1,344 @@
+{
+ "debate_id": "L007",
+ "motion": "Political Islam is a threat to the West.",
+ "speakers": {
+  "MOD": {
+   "name": "Aaron",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5993_347",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5993/MSP-PODCAST_5993_347.wav",
+   "wpm": 163.88
+  },
+  "PRO": {
+   "name": "Eric",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  },
+  "CON": {
+   "name": "Kenneth",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "total_sec": 294.56,
+ "turns": [
+  {
+   "i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.64,
+   "dur_sec": 17.64,
+   "overlap": false,
+   "text": "Tonight we debate whether Political Islam is a threat to the West. Eric argues yes; Kenneth argues no. Each opening lasts thirty seconds. Then comes crossfire, where they address each other. Finally, each gives a thirty-second closing. The moderator will give a ten-second cue. Keep answers relevant, and respect the time."
+  },
+  {
+   "i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.84,
+   "end_sec": 37.4,
+   "dur_sec": 19.56,
+   "overlap": false,
+   "text": "The motion concerns an ideology and political project, not Muslim people or private faith. Political Islam seeks public power shaped by religious authority, and some movements use elections to limit equal citizenship. When that project rejects plural law, pressures dissenters, or excuses violence, it threatens Western security and democratic freedom. That danger deserves scrutiny, since Western governments must distinguish"
+  },
+  {
+   "i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 36.82,
+   "end_sec": 37.98,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Eric, ten seconds."
+  },
+  {
+   "i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.18,
+   "end_sec": 51.82,
+   "dur_sec": 13.64,
+   "overlap": false,
+   "text": "peaceful belief from a program that subordinates civil law. Governments should not wait for attacks before confronting networks that recruit through intimidation, reject equal rights, and make democratic tolerance serve its own undoing, because the warning signs are already-"
+  },
+  {
+   "i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 51.02,
+   "end_sec": 52.98,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Your time is up. Thank you. Kenneth."
+  },
+  {
+   "i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.18,
+   "end_sec": 70.9,
+   "dur_sec": 17.72,
+   "overlap": false,
+   "text": "Political Islam is too broad a label to prove a threat. It includes parties and citizens who work peacefully within constitutional systems. Violent groups threaten the West, but their violence does not make an entire political tradition dangerous. The answer is firm law against violence, alongside equal rights and open debate."
+  },
+  {
+   "i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.1,
+   "end_sec": 74.9,
+   "dur_sec": 3.8,
+   "overlap": false,
+   "text": "We're going to begin the section now, where the debaters address one another."
+  },
+  {
+   "i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 75.1,
+   "end_sec": 85.54,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "A movement wins office, then makes courts answer to clerics and treats women as unequal citizens. That is political power, not private faith, and it threatens Western commitments to equal law."
+  },
+  {
+   "i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 85.74,
+   "end_sec": 96.66,
+   "dur_sec": 10.92,
+   "overlap": false,
+   "text": "You called that a movement that wins office, then assumed its conduct. Peaceful participation does not prove a threat, and hypothetical abuse cannot condemn every political actor who draws on religious values."
+  },
+  {
+   "i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.86,
+   "end_sec": 107.22,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "If a party seeks power through elections and promises equal citizenship, what specific evidence makes its religious identity a threat rather than its unlawful actions, before it actually violates law?"
+  },
+  {
+   "i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 107.42,
+   "end_sec": 118.66,
+   "dur_sec": 11.24,
+   "overlap": false,
+   "text": "Under the specific condition that a movement accepts equal citizenship and constitutional limits, its religious inspiration alone does not make it a Western threat; judge conduct, coercion, and lawbreaking instead in public office."
+  },
+  {
+   "i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 118.86,
+   "end_sec": 129.7,
+   "dur_sec": 10.84,
+   "overlap": false,
+   "text": "Your condition assumes the promise is reliable. A movement can speak of equal citizenship while building authority that later narrows it. Waiting for completed lawbreaking ignores recruitment, intimidation, and democratic safeguards."
+  },
+  {
+   "i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 129.9,
+   "end_sec": 140.74,
+   "dur_sec": 10.84,
+   "overlap": false,
+   "text": "Your question assumes religious identity is irrelevant until a statute is broken. I reject that premise: an ideology can signal goals, and organized pressure can erode rights before courts record a violation."
+  },
+  {
+   "i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 140.94,
+   "end_sec": 153.14,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Imagine a campaign that demands religious tests for senior office, labels dissenters traitors, and urges supporters to punish critics. Even before it governs, that campaign threatens pluralism and makes political Islam a Western security concern."
+  },
+  {
+   "i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 153.34,
+   "end_sec": 165.22,
+   "dur_sec": 11.88,
+   "overlap": false,
+   "text": "You said, \"demands religious tests for senior office.\" That example supports banning discrimination, not branding a broad ideology a threat. Apply the same standard to secular movements that intimidate opponents: punish acts, not identity."
+  },
+  {
+   "i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 165.42,
+   "end_sec": 175.3,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "Will you acknowledge that a movement becomes a threat when it seeks to replace equal civic law with religious obedience, even if it first wins votes legally and peacefully?"
+  },
+  {
+   "i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 175.5,
+   "end_sec": 187.14,
+   "dur_sec": 11.64,
+   "overlap": false,
+   "text": "I grant that replacing equal civic law with coercive rule would be a threat. But you still haven't shown that religious inspiration predicts that outcome; your argument turns suspicion into evidence and broadens guilt."
+  },
+  {
+   "i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.34,
+   "end_sec": 198.18,
+   "dur_sec": 10.84,
+   "overlap": false,
+   "text": "You say I turn suspicion into evidence, but I gave observable warning signs: religious tests, punished dissent, and pressure against equal law. Those are conduct-based indicators, not guilt assigned to believers."
+  },
+  {
+   "i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 198.38,
+   "end_sec": 208.18,
+   "dur_sec": 9.8,
+   "overlap": false,
+   "text": "In every country, political movements should be judged by public goals and methods, not by private belief; no movement, religious or secular, deserves trust when it seeks unchecked power."
+  },
+  {
+   "i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 208.38,
+   "end_sec": 219.22,
+   "dur_sec": 10.84,
+   "overlap": false,
+   "text": "A coalition can campaign for elected government, accept equal citizenship, and lose office peacefully. That concrete example shows religious language alone isn't a threat; coercion and anti-pluralist goals are the test."
+  },
+  {
+   "i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 219.42,
+   "end_sec": 231.3,
+   "dur_sec": 11.88,
+   "overlap": false,
+   "text": "You say, \"religious language alone isn't a threat.\" I agree language alone is not enough, but your coalition avoids the danger I identified. When religious authority outranks equal law, the threat is political, not merely-"
+  },
+  {
+   "i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.5,
+   "end_sec": 239.1,
+   "dur_sec": 8.6,
+   "overlap": true,
+   "text": "We're going to move now into our closing round. Eric, you are answering yes to the question, and this is your time for your closing statement."
+  },
+  {
+   "i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 239.3,
+   "end_sec": 256.86,
+   "dur_sec": 17.56,
+   "overlap": false,
+   "text": "The strongest point is simple: private faith is not the issue. A political project that puts religious authority above equal law, excuses coercion, or seeks power without pluralism threatens the West before violence arrives. We should defend Muslim citizens' rights while confronting that ideology firmly. That is protection, not prejudice."
+  },
+  {
+   "i": 23,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 257.06,
+   "end_sec": 258.38,
+   "dur_sec": 1.32,
+   "overlap": false,
+   "text": "Oh, Kenneth go ahead."
+  },
+  {
+   "i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 258.58,
+   "end_sec": 268.3,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "Judge actions, not labels. Equal citizenship, lawful elections, and peaceful transfer can coexist with religious politics. Punish coercion directly, rather than calling every religious political voice a threat."
+  },
+  {
+   "i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 267.4,
+   "end_sec": 269.44,
+   "dur_sec": 2.04,
+   "overlap": true,
+   "text": "You still haven't answered the question about-"
+  },
+  {
+   "i": 26,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 268.94,
+   "end_sec": 271.06,
+   "dur_sec": 2.12,
+   "overlap": true,
+   "text": "Wait, let him answer the question."
+  },
+  {
+   "i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 271.26,
+   "end_sec": 281.38,
+   "dur_sec": 10.12,
+   "overlap": false,
+   "text": "about whether religious identity itself proves danger. It does not. A threat requires unlawful conduct or coercive aims, and those can be addressed without treating believers as enemies."
+  },
+  {
+   "i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 280.76,
+   "end_sec": 282.0,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 282.2,
+   "end_sec": 287.36,
+   "dur_sec": 5.16,
+   "overlap": false,
+   "text": "That distinction protects security and liberty together; it rejects violence without inventing an enemy from faith."
+  },
+  {
+   "i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 287.56,
+   "end_sec": 294.56,
+   "dur_sec": 7.0,
+   "overlap": false,
+   "text": "Thank you both for the discussion. The question remains contested. Viewers can weigh the arguments. This debate is now closed."
+  }
+ ]
+}

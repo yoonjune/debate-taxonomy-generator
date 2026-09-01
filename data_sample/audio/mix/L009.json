@@ -1,0 +1,335 @@
+{
+ "debate_id": "L009",
+ "motion": "It’s time to redistribute the wealth.",
+ "speakers": {
+  "MOD": {
+   "name": "Jed",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  },
+  "PRO": {
+   "name": "Ted",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5124_29",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5124/MSP-PODCAST_5124_29.wav",
+   "wpm": 183.11
+  },
+  "CON": {
+   "name": "Jackson",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0666_828",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0666/MSP-PODCAST_0666_828.wav",
+   "wpm": 171.12
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "total_sec": 295.62,
+ "turns": [
+  {
+   "i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.8,
+   "dur_sec": 17.8,
+   "overlap": false,
+   "text": "Today we debate the motion, It is time to redistribute the wealth. Ted speaks for it, and Jackson speaks against it. Each debater gets thirty seconds to open. Then we have crossfire, with fourteen turns. Finally, each gives a thirty-second closing statement. I will give a ten-second cue before timed speeches end."
+  },
+  {
+   "i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.0,
+   "end_sec": 35.8,
+   "dur_sec": 17.8,
+   "overlap": false,
+   "text": "Redistributing wealth is about making sure prosperity serves the whole community. When people cannot afford food, housing, or training, society loses talent and stability. A fair contribution from those with more can fund those foundations. This motion does not demand identical outcomes. It demands that extreme concentration stop limiting everyone else's chance."
+  },
+  {
+   "i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.0,
+   "end_sec": 39.08,
+   "dur_sec": 3.08,
+   "overlap": false,
+   "text": "Thank you. Up next, speaking against the resolution is Jackson."
+  },
+  {
+   "i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 39.28,
+   "end_sec": 58.6,
+   "dur_sec": 19.32,
+   "overlap": false,
+   "text": "The motion sounds compassionate, but it hides a dangerous shortcut. Taking wealth is not the same as creating opportunity. People save, build businesses, and accept risks because they can keep the results. If government repeatedly claims more, investment slows and jobs disappear. A fair share should protect need without punishing effort. That matters because"
+  },
+  {
+   "i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 58.1,
+   "end_sec": 59.1,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 59.3,
+   "end_sec": 64.94,
+   "dur_sec": 5.64,
+   "overlap": false,
+   "text": "A fair system must protect need, effort, and the freedom to plan for tomorrow."
+  },
+  {
+   "i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 65.14,
+   "end_sec": 67.82,
+   "dur_sec": 2.68,
+   "overlap": false,
+   "text": "And that concludes Round one. Now onto Round two."
+  },
+  {
+   "i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 68.02,
+   "end_sec": 79.42,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Ted treats redistribution as a free remedy, but every transfer has a source. If the state takes resources from people who produce, it can weaken the activity that creates resources. Compassion cannot erase that tradeoff."
+  },
+  {
+   "i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 79.62,
+   "end_sec": 90.94,
+   "dur_sec": 11.32,
+   "overlap": false,
+   "text": "Consider a family whose wages cover rent but not a skills course. A modest transfer can pay for training, raise future earnings, and turn hardship into opportunity. That is wealth redistribution doing practical work."
+  },
+  {
+   "i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 91.14,
+   "end_sec": 103.02,
+   "dur_sec": 11.88,
+   "overlap": false,
+   "text": "That example does not prove redistribution works; it assumes the transfer reaches the right person and produces the promised result. More broadly, programs can replace private decisions with political ones, weakening responsibility and incentives."
+  },
+  {
+   "i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 103.22,
+   "end_sec": 115.42,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "You said a fair share should protect effort. But your argument makes effort pay twice: first through taxes, then through weaker growth. My example shows redistribution can expand opportunity, so protecting effort requires sharing resources now."
+  },
+  {
+   "i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 115.62,
+   "end_sec": 126.94,
+   "dur_sec": 11.32,
+   "overlap": false,
+   "text": "You call it shared opportunity, and that brings up classroom contests, where children learn whether praise should follow effort, talent, teamwork, or improvement, and whether losing builds character better than winning does."
+  },
+  {
+   "i": 12,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 127.14,
+   "end_sec": 132.3,
+   "dur_sec": 5.16,
+   "overlap": false,
+   "text": "Okay. What does your point have to do with it is time to redistribute the wealth?"
+  },
+  {
+   "i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 132.5,
+   "end_sec": 143.9,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "This motion concerns wealth redistribution, and it should direct resources toward basic opportunity without pretending every transfer is wise. The question is whether concentrated wealth blocks access that shared investment can restore."
+  },
+  {
+   "i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 144.1,
+   "end_sec": 146.78,
+   "dur_sec": 2.68,
+   "overlap": false,
+   "text": "No one should keep wealth beyond what fairness allows."
+  },
+  {
+   "i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 146.98,
+   "end_sec": 158.14,
+   "dur_sec": 11.16,
+   "overlap": false,
+   "text": "A neighborhood shop can survive a rough year because a targeted public fund keeps workers paid and doors open. Redistribution protects livelihoods that would otherwise vanish, and the motion supports that safety net."
+  },
+  {
+   "i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 158.34,
+   "end_sec": 161.5,
+   "dur_sec": 3.16,
+   "overlap": false,
+   "text": "A person who built a small business should keep all profits."
+  },
+  {
+   "i": 17,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 161.7,
+   "end_sec": 174.78,
+   "dur_sec": 13.08,
+   "overlap": false,
+   "text": "So what I hear was on the one hand, you found yourself saying no one should keep wealth beyond what fairness allows. And then on the other hand, a person who built a small business should keep all profits."
+  },
+  {
+   "i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 174.98,
+   "end_sec": 186.38,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "No one should keep wealth beyond what fairness allows, and a small business owner can fairly keep all profits when those profits sustain the business, workers, and future investment rather than exploit basic need."
+  },
+  {
+   "i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 186.58,
+   "end_sec": 197.42,
+   "dur_sec": 10.84,
+   "overlap": false,
+   "text": "I grant that badly designed transfers can waste money. But that limited flaw does not defeat the main case: leaving severe inequality untouched also wastes human ability and weakens social trust."
+  },
+  {
+   "i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 197.62,
+   "end_sec": 205.5,
+   "dur_sec": 7.88,
+   "overlap": false,
+   "text": "If private wealth can leave a capable worker without food, housing, or training, why should society protect ownership before meeting those basic needs-"
+  },
+  {
+   "i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 204.6,
+   "end_sec": 213.68,
+   "dur_sec": 9.08,
+   "overlap": true,
+   "text": "Because ownership creates the jobs and goods those workers need. Help the genuinely vulnerable, yes, but broad redistribution can damage the productive base it claims to support."
+  },
+  {
+   "i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 213.88,
+   "end_sec": 222.72,
+   "dur_sec": 8.84,
+   "overlap": false,
+   "text": "When a town funds childcare for low-income workers, more parents can accept jobs and keep earning. Redistributing wealth there strengthens independence instead of replacing it with-"
+  },
+  {
+   "i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 221.92,
+   "end_sec": 231.96,
+   "dur_sec": 10.04,
+   "overlap": true,
+   "text": "And now we move on to Round three. Round three will be closing statements by each debater in turn. Here making his closing statement in support of the motion, Ted."
+  },
+  {
+   "i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 232.16,
+   "end_sec": 251.96,
+   "dur_sec": 19.8,
+   "overlap": false,
+   "text": "This motion turns on what wealth is for. Wealth can reward work, but it also shapes who gets security, education, and a real chance to participate. When a few hold far more than they can use, a reasonable redistribution can widen opportunity without erasing ownership. The choice is not equality or freedom. It is whether freedom is meaningful when basic chances are closed."
+  },
+  {
+   "i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 251.46,
+   "end_sec": 252.46,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 252.66,
+   "end_sec": 266.62,
+   "dur_sec": 13.96,
+   "overlap": false,
+   "text": "Jackson is right that careless policy can waste resources. That is an argument for careful redistribution, not for protecting every concentration of wealth. A society can preserve enterprise while asking more from excess wealth and directing it toward genuine opportunity. We should choose a system where success remains possible, but hardship does not decide a person's future-"
+  },
+  {
+   "i": 27,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 265.82,
+   "end_sec": 270.74,
+   "dur_sec": 4.92,
+   "overlap": true,
+   "text": "Thank you, your time is up. And here to summarize his position against the motion, Jackson."
+  },
+  {
+   "i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 270.94,
+   "end_sec": 289.06,
+   "dur_sec": 18.12,
+   "overlap": false,
+   "text": "This motion turns on trust and consequences. Redistribution may sound fair, but broad promises can become burdens on the people who save, hire, and build. Protect the vulnerable with focused help, while preserving the rewards that create opportunity. Do not treat every unequal result as injustice. A fair society needs compassion, limits, and room to prosper."
+  },
+  {
+   "i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 289.26,
+   "end_sec": 295.62,
+   "dur_sec": 6.36,
+   "overlap": false,
+   "text": "Thank you, Ted and Jackson. This debate is closed. We have heard both positions, and no winner is declared."
+  }
+ ]
+}

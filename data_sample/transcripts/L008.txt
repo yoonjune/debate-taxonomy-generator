@@ -1,0 +1,33 @@
+L008  |  The Universal Basic Income is the Safety Net of the Future
+  MOD=Kate   PRO=Ralph   CON=Bobby
+
+--- phase 1 ---
+[t00] Kate(MOD): The motion is: The Universal Basic Income is the Safety Net of the Future. Ralph argues for it, and Bobby argues against it. Each gets thirty seconds to open. Then they crossfire. Finally, each gets a thirty-second closing. I will give a ten-second cue during openings and closings. We begin with Ralph.
+[t01] Ralph(PRO): Universal basic income is a regular cash floor for every adult, not a reward for unemployment. It prevents one lost paycheck, illness, or caregiving duty from becoming ruin. It gives people room to refuse unsafe work, learn, care for family, or start a small venture. Most importantly, it reaches people before a crisis takes hold.
+[t02] @A4 <ovl> Kate(MOD): Ten seconds, ten seconds.
+[t03] Ralph(PRO): That is why a modest payment can steady the economy while preserving choice. Bobby, if programs miss those in need, why defend a system that waits for proof?
+[t04] @A2-2 Kate(MOD): Ralph, let me, let me bring in Bobby.
+[t05] Bobby(CON): A universal check sounds humane, but a safety net should direct help where hardship is greatest. Giving the same payment to wealthy and struggling households spends scarce funds broadly, while specialized needs remain unanswered. Cash alone cannot provide treatment, housing support, or training. It may also weaken the public services that vulnerable people rely on.
+[t06] @A4 <ovl> Kate(MOD): Ten seconds, Bobby.
+[t07] Bobby(CON): Existing programs can improve without replacing them with an expensive check for everyone. If resources are limited, why send money to people who do not need assistance?
+--- phase 2 ---
+[t08] @A3-1 Kate(MOD): You're now going to argue with one another.
+[t09] Bobby(CON): No, the premise is wrong: support does not have to wait for proof, and a universal check is not free. It can replace tailored help, pay wealthy households, and leave less money for people facing need. That is waste-
+[t10] Ralph(PRO): You are right that a check costs money; pretending otherwise would be dishonest. But your main claim fails: targeted systems make applicants prove hardship, miss unstable workers, and punish people just above a cutoff. A floor prevents that trap.
+[t11] <cut> Bobby(CON): Consider a parent whose hours change every week. A universal payment arrives without a new application, so that parent can cover groceries while seeking steadier work. That direct cushion protects independence better than a bureaucratic ga-
+[t12] <ovl> Ralph(PRO): No, that example assumes cash is the only help. A reliable payment can sit beside disability care, housing aid, and job services. It does not erase specialized support; it makes survival less dependent on navigating it.
+[t13] Bobby(CON): Your weakest point is saying added payments leave other help untouched. Budgets are limited. A program sending money to everyone can crowd out focused services, while people with unusual needs still struggle to get care.
+[t14] Ralph(PRO): Universal basic income should be unconditional for every eligible adult.
+[t15] Bobby(CON): Yes, every eligible adult should qualify, because universality removes the gatekeeping that misses people. But your objection confuses eligibility with extravagance: the payment can be modest, taxable, and paired with services, while still remaining a dependable floor.
+[t16] Ralph(PRO): A person unable to manage money should receive a managed payment instead, with a trusted administrator covering essentials. That protects the person without denying support, and it recognizes that equal dignity sometimes requires a different delivery method.
+[t17] @B2 Kate(MOD): Ralph said universal basic income should be unconditional for every eligible adult, but a person unable to manage money should receive a managed payment instead.
+[t18] Ralph(PRO): Those statements fit because eligibility and delivery are different questions. Every adult can retain the right to support, while someone unable to manage cash receives it through protection. The benefit stays universal; only its safe channel changes.
+[t19] <cut> Bobby(CON): If a universal payment requires higher taxes and still leaves vulnerable people without specialized care, why should taxpayers fund the same check for everyone instead of directing more resources to those who need them most? Would you-
+--- phase 3 ---
+[t20] @A3-2 <ovl> Kate(MOD): So that concludes the conversation portion. And now we're going to go to a closing round. And Ralph, it goes to you first.
+[t21] Ralph(PRO): The strongest point is timing. A safety net that arrives only after paperwork, judgment, and delay has already failed many families. Universal income offers predictable ground beneath everyone, while other services can remain in place. It respects work, caregiving, and recovery without forcing people to prove their hardship before receiving help.
+[t22] @A4 <ovl> Kate(MOD): You have ten seconds.
+[t23] <cut> Ralph(PRO): And I will keep defending that principle because insecurity does not wait for an office appointment. When income falls, the payment is already there, and that certainty can protect choices, health, and dignity before a temporary setback becomes a permanent-
+[t24] @A2-1 <ovl> Kate(MOD): Thank you. Time is up on that. And now Bobby.
+[t25] Bobby(CON): Ralph's best argument is that help should arrive quickly. But speed does not justify sending limited public money to everyone. A stronger safety net targets hardship, preserves essential services, and offers the particular support that cash cannot. Universal basic income is too blunt to be the future's foundation.
+[t26] Kate(MOD): Thank you, Ralph and Bobby, for a focused debate. That concludes our discussion of the motion. Good night.

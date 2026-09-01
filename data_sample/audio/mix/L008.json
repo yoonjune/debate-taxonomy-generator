@@ -1,0 +1,304 @@
+{
+ "debate_id": "L008",
+ "motion": "The Universal Basic Income is the Safety Net of the Future",
+ "speakers": {
+  "MOD": {
+   "name": "Kate",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3725_146",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3725/MSP-PODCAST_3725_146.wav",
+   "wpm": 172.52
+  },
+  "PRO": {
+   "name": "Ralph",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0177_72",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0177/MSP-PODCAST_0177_72.wav",
+   "wpm": 170.28
+  },
+  "CON": {
+   "name": "Bobby",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6071_804",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_6/MSP-PODCAST_6071/MSP-PODCAST_6071_804.wav",
+   "wpm": 168.17
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B2"
+ ],
+ "total_sec": 276.52,
+ "turns": [
+  {
+   "i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.64,
+   "dur_sec": 17.64,
+   "overlap": false,
+   "text": "The motion is: The Universal Basic Income is the Safety Net of the Future. Ralph argues for it, and Bobby argues against it. Each gets thirty seconds to open. Then they crossfire. Finally, each gets a thirty-second closing. I will give a ten-second cue during openings and closings. We begin with Ralph."
+  },
+  {
+   "i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.84,
+   "end_sec": 37.72,
+   "dur_sec": 19.88,
+   "overlap": false,
+   "text": "Universal basic income is a regular cash floor for every adult, not a reward for unemployment. It prevents one lost paycheck, illness, or caregiving duty from becoming ruin. It gives people room to refuse unsafe work, learn, care for family, or start a small venture. Most importantly, it reaches people before a crisis takes hold."
+  },
+  {
+   "i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 37.1,
+   "end_sec": 38.34,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.54,
+   "end_sec": 47.22,
+   "dur_sec": 8.68,
+   "overlap": false,
+   "text": "That is why a modest payment can steady the economy while preserving choice. Bobby, if programs miss those in need, why defend a system that waits for proof?"
+  },
+  {
+   "i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 47.42,
+   "end_sec": 49.46,
+   "dur_sec": 2.04,
+   "overlap": false,
+   "text": "Ralph, let me, let me bring in Bobby."
+  },
+  {
+   "i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 49.66,
+   "end_sec": 69.46,
+   "dur_sec": 19.8,
+   "overlap": false,
+   "text": "A universal check sounds humane, but a safety net should direct help where hardship is greatest. Giving the same payment to wealthy and struggling households spends scarce funds broadly, while specialized needs remain unanswered. Cash alone cannot provide treatment, housing support, or training. It may also weaken the public services that vulnerable people rely on."
+  },
+  {
+   "i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 68.96,
+   "end_sec": 69.96,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds, Bobby."
+  },
+  {
+   "i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 70.16,
+   "end_sec": 78.68,
+   "dur_sec": 8.52,
+   "overlap": false,
+   "text": "Existing programs can improve without replacing them with an expensive check for everyone. If resources are limited, why send money to people who do not need assistance?"
+  },
+  {
+   "i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 78.88,
+   "end_sec": 81.16,
+   "dur_sec": 2.28,
+   "overlap": false,
+   "text": "You're now going to argue with one another."
+  },
+  {
+   "i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 81.36,
+   "end_sec": 94.44,
+   "dur_sec": 13.08,
+   "overlap": false,
+   "text": "No, the premise is wrong: support does not have to wait for proof, and a universal check is not free. It can replace tailored help, pay wealthy households, and leave less money for people facing need. That is waste-"
+  },
+  {
+   "i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 94.64,
+   "end_sec": 108.44,
+   "dur_sec": 13.8,
+   "overlap": false,
+   "text": "You are right that a check costs money; pretending otherwise would be dishonest. But your main claim fails: targeted systems make applicants prove hardship, miss unstable workers, and punish people just above a cutoff. A floor prevents that trap."
+  },
+  {
+   "i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 108.64,
+   "end_sec": 120.84,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Consider a parent whose hours change every week. A universal payment arrives without a new application, so that parent can cover groceries while seeking steadier work. That direct cushion protects independence better than a bureaucratic ga-"
+  },
+  {
+   "i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 119.94,
+   "end_sec": 132.62,
+   "dur_sec": 12.68,
+   "overlap": true,
+   "text": "No, that example assumes cash is the only help. A reliable payment can sit beside disability care, housing aid, and job services. It does not erase specialized support; it makes survival less dependent on navigating it."
+  },
+  {
+   "i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 132.82,
+   "end_sec": 144.62,
+   "dur_sec": 11.8,
+   "overlap": false,
+   "text": "Your weakest point is saying added payments leave other help untouched. Budgets are limited. A program sending money to everyone can crowd out focused services, while people with unusual needs still struggle to get care."
+  },
+  {
+   "i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 144.82,
+   "end_sec": 148.3,
+   "dur_sec": 3.48,
+   "overlap": false,
+   "text": "Universal basic income should be unconditional for every eligible adult."
+  },
+  {
+   "i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.5,
+   "end_sec": 161.5,
+   "dur_sec": 13.0,
+   "overlap": false,
+   "text": "Yes, every eligible adult should qualify, because universality removes the gatekeeping that misses people. But your objection confuses eligibility with extravagance: the payment can be modest, taxable, and paired with services, while still remaining a dependable floor."
+  },
+  {
+   "i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.7,
+   "end_sec": 174.7,
+   "dur_sec": 13.0,
+   "overlap": false,
+   "text": "A person unable to manage money should receive a managed payment instead, with a trusted administrator covering essentials. That protects the person without denying support, and it recognizes that equal dignity sometimes requires a different delivery method."
+  },
+  {
+   "i": 17,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 174.9,
+   "end_sec": 183.18,
+   "dur_sec": 8.28,
+   "overlap": false,
+   "text": "Ralph said universal basic income should be unconditional for every eligible adult, but a person unable to manage money should receive a managed payment instead."
+  },
+  {
+   "i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 183.38,
+   "end_sec": 196.46,
+   "dur_sec": 13.08,
+   "overlap": false,
+   "text": "Those statements fit because eligibility and delivery are different questions. Every adult can retain the right to support, while someone unable to manage cash receives it through protection. The benefit stays universal; only its safe channel changes."
+  },
+  {
+   "i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 196.66,
+   "end_sec": 209.26,
+   "dur_sec": 12.6,
+   "overlap": false,
+   "text": "If a universal payment requires higher taxes and still leaves vulnerable people without specialized care, why should taxpayers fund the same check for everyone instead of directing more resources to those who need them most? Would you-"
+  },
+  {
+   "i": 20,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 208.46,
+   "end_sec": 216.02,
+   "dur_sec": 7.56,
+   "overlap": true,
+   "text": "So that concludes the conversation portion. And now we're going to go to a closing round. And Ralph, it goes to you first."
+  },
+  {
+   "i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 216.22,
+   "end_sec": 235.86,
+   "dur_sec": 19.64,
+   "overlap": false,
+   "text": "The strongest point is timing. A safety net that arrives only after paperwork, judgment, and delay has already failed many families. Universal income offers predictable ground beneath everyone, while other services can remain in place. It respects work, caregiving, and recovery without forcing people to prove their hardship before receiving help."
+  },
+  {
+   "i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 235.16,
+   "end_sec": 236.56,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 236.76,
+   "end_sec": 250.96,
+   "dur_sec": 14.2,
+   "overlap": false,
+   "text": "And I will keep defending that principle because insecurity does not wait for an office appointment. When income falls, the payment is already there, and that certainty can protect choices, health, and dignity before a temporary setback becomes a permanent-"
+  },
+  {
+   "i": 24,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 250.16,
+   "end_sec": 253.32,
+   "dur_sec": 3.16,
+   "overlap": true,
+   "text": "Thank you. Time is up on that. And now Bobby."
+  },
+  {
+   "i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 253.52,
+   "end_sec": 271.08,
+   "dur_sec": 17.56,
+   "overlap": false,
+   "text": "Ralph's best argument is that help should arrive quickly. But speed does not justify sending limited public money to everyone. A stronger safety net targets hardship, preserves essential services, and offers the particular support that cash cannot. Universal basic income is too blunt to be the future's foundation."
+  },
+  {
+   "i": 26,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 271.28,
+   "end_sec": 276.52,
+   "dur_sec": 5.24,
+   "overlap": false,
+   "text": "Thank you, Ralph and Bobby, for a focused debate. That concludes our discussion of the motion. Good night."
+  }
+ ]
+}

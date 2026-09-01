@@ -1,0 +1,315 @@
+{
+ "debate_id": "L001",
+ "motion": "Ration end-of-life care",
+ "speakers": {
+  "MOD": {
+   "name": "Randy",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  },
+  "PRO": {
+   "name": "Joanna",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1206_312",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
+   "wpm": 165.44
+  },
+  "CON": {
+   "name": "Rima",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5287_206",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5287/MSP-PODCAST_5287_206.wav",
+   "wpm": 169.41
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B1"
+ ],
+ "total_sec": 291.12,
+ "turns": [
+  {
+   "i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.48,
+   "dur_sec": 17.48,
+   "overlap": false,
+   "text": "The motion is to ration end-of-life care. Joanna argues for it, and Rima argues against it. Each opening lasts thirty seconds. Then we have crossfire, with direct answers to one another. Finally, each side gets a thirty-second closing. I will give a ten-second cue, and I may intervene to keep us moving."
+  },
+  {
+   "i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.68,
+   "end_sec": 37.08,
+   "dur_sec": 19.4,
+   "overlap": false,
+   "text": "Rationing end-of-life care means setting fair limits when demand exceeds what medicine can safely provide. Without limits, access follows wealth, persistence, or luck. A public rule can protect equal treatment, preserve scarce staff and equipment, and direct care toward comfort where further intervention offers little benefit. That is a humane framework, not abandonment."
+  },
+  {
+   "i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 35.94,
+   "end_sec": 38.22,
+   "dur_sec": 2.28,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.42,
+   "end_sec": 52.54,
+   "dur_sec": 14.12,
+   "overlap": false,
+   "text": "It also gives families a clear process instead of forcing them to fight case by case. Clinicians can explain the limits, offer palliative support, and review exceptions when circumstances change. Without a shared rule, the least powerful will be-"
+  },
+  {
+   "i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 51.74,
+   "end_sec": 54.02,
+   "dur_sec": 2.28,
+   "overlap": true,
+   "text": "Joanna, you're rather going on. Thank you. Rima."
+  },
+  {
+   "i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.22,
+   "end_sec": 71.86,
+   "dur_sec": 17.64,
+   "overlap": false,
+   "text": "Scarcity is real, but rationing gives institutions power to decide whose life receives less. A forecast can become a sentence, especially for disabled people or patients without advocates. We should expand capacity, support informed refusal, and let patients set goals with clinicians rather than impose one ceiling."
+  },
+  {
+   "i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 72.06,
+   "end_sec": 79.54,
+   "dur_sec": 7.48,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly."
+  },
+  {
+   "i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 79.74,
+   "end_sec": 94.5,
+   "dur_sec": 14.76,
+   "overlap": false,
+   "text": "You call a public rule humane, but clarity doesn't make a limit fair. Who sets the threshold, and who bears the error when a prediction is wrong? Your framework can deny treatment because a committee prefers one expected outcome over a patient's judgment."
+  },
+  {
+   "i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 94.7,
+   "end_sec": 107.22,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "I grant that predictions can be wrong, so review matters. But when resources are finite, unspoken rationing still happens. It hides decisions in waiting lists and private ability to pay, less accountable than a public standard."
+  },
+  {
+   "i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 107.42,
+   "end_sec": 121.78,
+   "dur_sec": 14.36,
+   "overlap": false,
+   "text": "When two patients need the same scarce intervention and clinicians judge one course unlikely to provide meaningful benefit, a limit can be justified. That condition matters: it is not permission to rank lives, and it requires explanation, appeal, and continued comfort care."
+  },
+  {
+   "i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 121.98,
+   "end_sec": 136.02,
+   "dur_sec": 14.04,
+   "overlap": false,
+   "text": "You said a limit can be justified when benefit is unlikely. But \"meaningful benefit\" can reflect a narrow view of living, not the patient's values. If you call that a fair standard, you still haven't shown who decides what counts as meaningful-"
+  },
+  {
+   "i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 136.22,
+   "end_sec": 149.7,
+   "dur_sec": 13.48,
+   "overlap": false,
+   "text": "Every patient deserves respectful care, whatever the prognosis. Public institutions should therefore guarantee a baseline of treatment and comfort for everyone, even when a particular scarce intervention cannot be offered. Equal dignity is broader than any single allocation decision."
+  },
+  {
+   "i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 149.9,
+   "end_sec": 163.3,
+   "dur_sec": 13.4,
+   "overlap": false,
+   "text": "The patient, with clinicians and an independent review process, should define meaningful goals; your question assumes a committee alone decides. But individual wishes can't create extra staff or equipment. A transparent limit protects those wishes from wealth-based competition."
+  },
+  {
+   "i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 163.5,
+   "end_sec": 178.26,
+   "dur_sec": 14.76,
+   "overlap": false,
+   "text": "You say patients define meaningful goals, yet your policy still lets a review body refuse the intervention. That is not control for the patient; it is a polite name for rationing. Review may correct mistakes, but it cannot remove the coercion scarcity creates."
+  },
+  {
+   "i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 178.46,
+   "end_sec": 193.22,
+   "dur_sec": 14.76,
+   "overlap": false,
+   "text": "That is why the urgent policy question is how people record choices before crisis. We need accessible conversations, plain-language directives, trained interpreters, and time for families to understand them. Hospitals should make those tools routine, so consent is informed rather than rushed."
+  },
+  {
+   "i": 15,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 193.42,
+   "end_sec": 199.06,
+   "dur_sec": 5.64,
+   "overlap": false,
+   "text": "Can we please go back to the question at hand? We're going to go back to the question at issue."
+  },
+  {
+   "i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 199.26,
+   "end_sec": 212.82,
+   "dur_sec": 13.56,
+   "overlap": false,
+   "text": "On the motion, rationing is justified only as a last, publicly accountable limit, not as a shortcut. It must use relevant clinical criteria, protect comfort, allow appeal, and never treat disability or age as a reason to value someone less."
+  },
+  {
+   "i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 213.02,
+   "end_sec": 226.18,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "You call it a \"last, publicly accountable limit,\" but those safeguards don't answer the central harm. A person can still lose treatment because officials predict less value in their future, and public accountability does not make that judgment-"
+  },
+  {
+   "i": 18,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 225.38,
+   "end_sec": 229.66,
+   "dur_sec": 4.28,
+   "overlap": true,
+   "text": "And now we move into closing statements from each debater in turn, starting with Joanna."
+  },
+  {
+   "i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 229.86,
+   "end_sec": 247.5,
+   "dur_sec": 17.64,
+   "overlap": false,
+   "text": "This motion turns on whether limits will be visible and fair, or hidden and unequal. Rationing should never mean abandoning a person. It means using scarce interventions by consistent criteria, hearing the patient, reviewing hard cases, and guaranteeing comfort. Without a shared limit, money and pressure decide first."
+  },
+  {
+   "i": 20,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 247.7,
+   "end_sec": 256.54,
+   "dur_sec": 8.84,
+   "overlap": false,
+   "text": "Thank you, Joanna. And that is the motion, ration end-of-life care to ensure fair access when resources are scarce. And here to argue against the motion, Rima."
+  },
+  {
+   "i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 256.74,
+   "end_sec": 265.98,
+   "dur_sec": 9.24,
+   "overlap": false,
+   "text": "This motion turns on who holds the power to say no. A ration can make that refusal routine, while labels of benefit can discount disability, age, or a patient's own priorities."
+  },
+  {
+   "i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 265.28,
+   "end_sec": 266.68,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "But your fair limit still-"
+  },
+  {
+   "i": 23,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 266.18,
+   "end_sec": 268.3,
+   "dur_sec": 2.12,
+   "overlap": true,
+   "text": "No, no, no. Hold on. Let Joanna."
+  },
+  {
+   "i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 268.5,
+   "end_sec": 278.14,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "Care should begin with the person's goals, not a scarcity formula. Better capacity, honest consent, and strong comfort care can protect patients without making refusal the policy."
+  },
+  {
+   "i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 277.72,
+   "end_sec": 278.56,
+   "dur_sec": 0.84,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 278.76,
+   "end_sec": 284.16,
+   "dur_sec": 5.4,
+   "overlap": false,
+   "text": "No one should lose essential care because a rule values one life less than another."
+  },
+  {
+   "i": 27,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 284.36,
+   "end_sec": 291.12,
+   "dur_sec": 6.76,
+   "overlap": false,
+   "text": "Thank you both. This debate on whether to ration end-of-life care is closed. The arguments and closing statements are now complete."
+  }
+ ]
+}

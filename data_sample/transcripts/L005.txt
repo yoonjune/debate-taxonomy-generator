@@ -1,0 +1,31 @@
+L005  |  the world is better off with Wikileaks
+  MOD=Isaac   PRO=Ryan   CON=Mira
+
+--- phase 1 ---
+[t00] Isaac(MOD): Tonight's motion is that the world is better off with Wikileaks disclosures. Ryan argues for it, and Mira argues against it. Each speaker gets thirty seconds for an opening, then we have crossfire, then thirty-second closings. I will give a ten-second cue, and I will manage the turns.
+[t01] Ryan(PRO): A better world is one where power can be questioned with evidence, not merely trusted with secrets. Leaked records can reveal abuse, hidden decisions, and promises that officials deny making. That knowledge gives ordinary people a way to judge institutions. It also discourages leaders from believing that silence protects them from accountability forever.
+[t02] @A4 <ovl> Isaac(MOD): I can give you ten seconds to do this.
+[t03] Ryan(PRO): That is why a world with accountable power is a better world.
+[t04] @A2-2 Isaac(MOD): Okay. Ryan, let me give the floor back to Mira.
+[t05] Mira(CON): Transparency can help, but Wikileaks treats exposure as the answer even when context is missing. A dumped file can endanger private people, distort public judgment, and punish innocent workers. The world is better off with responsible investigation and safeguards, not with indiscriminate publication presented as moral courage.
+--- phase 2 ---
+[t06] @A3-1 Isaac(MOD): And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly.
+[t07] Ryan(PRO): I grant that secrecy can shield wrongdoing. But your answer makes controlled institutions the final judges of what the public may know. If officials can hide mistakes by calling them sensitive, how can citizens challenge power before the damage becomes permanent?
+[t08] Mira(CON): When a leak names private people rather than public wrongdoing, withholding those details can protect them; why should the world's condition improve when publication creates fear without giving citizens a useful decision?
+[t09] Ryan(PRO): It should not improve in that case; private details should be removed. But that exception does not justify hiding records about public actions. You are moving from a safeguard against harm to a general permission for authorities to keep evidence away from everyone.
+[t10] Mira(CON): Mira, you are right that accountability matters. But the real question is who should set the rules for removing harmful posts, how quickly appeals work, and whether private companies should police speech across every network.
+[t11] @B1 Isaac(MOD): Okay, again, it's not on our topic about the world is better off with wikileaks disclosures.
+[t12] Mira(CON): The motion asks whether the world is better off with Wikileaks disclosures. On that question, public evidence still matters because secrecy lets powerful actors define reality. Redaction can protect people without burying misconduct, so transparency remains the stronger default.
+[t13] Ryan(PRO): Would you accept a system that publishes verified evidence of public wrongdoing while removing private names and dangerous personal details? If yes, why reject Wikileaks when its disclosures can serve that same public purpose?
+[t14] Mira(CON): A related issue is how newsrooms train editors, handle corrections, and explain complicated records to readers. Those practices matter, but they bring us back to the motion: careful explanation can make disclosure improve public understanding rather than damage it.
+[t15] Ryan(PRO): Imagine officials secretly ordering harmful treatment, while an internal record proves it and no witness can safely speak. Publishing that record lets citizens demand change. Without disclosure, the officials can deny everything, so the world remains less accountable.
+[t16] Mira(CON): No society is made safer by treating secrecy as an absolute virtue. Public institutions still need confidential spaces for some private matters, yet openness about public power can benefit everyone, not only people directly harmed.
+[t17] <cut> Ryan(PRO): Your weakest point is that safeguards somehow answer the whole question. They do not. Redaction and verification can reduce harm, while secrecy can preserve abuse. You have shown a need for care, not a reason to reject disclosure when the evidence is publ-
+--- phase 3 ---
+[t18] @A3-2 <ovl> Isaac(MOD): And now we move on to round three. Here to make his closing statement in support of the motion, once again, Ryan.
+[t19] Ryan(PRO): This debate turns on where we place the risk. Mira sees publication's dangers, and those dangers are real. But secrecy has dangers too: hidden abuse, uncorrected official stories, and citizens asked to trust decisions they cannot inspect. Wikileaks disclosures can be imperfect without being worthless. A world with visible evidence gives people leverage to question power, demand correction, and resist convenient denials. That is the central benefit, not
+[t20] @A4 <ovl> Isaac(MOD): Well, now ten.
+[t21] <cut> Ryan(PRO): the claim that every file should appear untouched. The better standard is public accountability with sensible protection. If we let fear of misuse justify silence, then powerful actors keep control of the record, and citizens lose the chance to judge what was done in their name-
+[t22] @A2-1 <ovl> Isaac(MOD): Thank you, your time is up. And here to summarize her position against the motion, Mira.
+[t23] Mira(CON): The decision turns on whether disclosure produces more public understanding than preventable harm. A leak is not automatically evidence, and exposure is not automatically accountability. The world is better off when wrongdoing is investigated, verified, and reported with protection for innocent people. That standard values truth without making every person collateral damage.
+[t24] Isaac(MOD): Thank you, Ryan and Mira, for the debate. The question is now closed. We leave the judgment to you, without declaring a winner.

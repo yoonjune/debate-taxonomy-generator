@@ -1,0 +1,34 @@
+L001  |  Ration end-of-life care
+  MOD=Randy   PRO=Joanna   CON=Rima
+
+--- phase 1 ---
+[t00] Randy(MOD): The motion is to ration end-of-life care. Joanna argues for it, and Rima argues against it. Each opening lasts thirty seconds. Then we have crossfire, with direct answers to one another. Finally, each side gets a thirty-second closing. I will give a ten-second cue, and I may intervene to keep us moving.
+[t01] Joanna(PRO): Rationing end-of-life care means setting fair limits when demand exceeds what medicine can safely provide. Without limits, access follows wealth, persistence, or luck. A public rule can protect equal treatment, preserve scarce staff and equipment, and direct care toward comfort where further intervention offers little benefit. That is a humane framework, not abandonment.
+[t02] @A4 <ovl> Randy(MOD): I'll give you ten more seconds to nail this.
+[t03] <cut> Joanna(PRO): It also gives families a clear process instead of forcing them to fight case by case. Clinicians can explain the limits, offer palliative support, and review exceptions when circumstances change. Without a shared rule, the least powerful will be-
+[t04] @A2-1 <ovl> Randy(MOD): Joanna, you're rather going on. Thank you. Rima.
+[t05] Rima(CON): Scarcity is real, but rationing gives institutions power to decide whose life receives less. A forecast can become a sentence, especially for disabled people or patients without advocates. We should expand capacity, support informed refusal, and let patients set goals with clinicians rather than impose one ceiling.
+--- phase 2 ---
+[t06] @A3-1 Randy(MOD): And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly.
+[t07] Rima(CON): You call a public rule humane, but clarity doesn't make a limit fair. Who sets the threshold, and who bears the error when a prediction is wrong? Your framework can deny treatment because a committee prefers one expected outcome over a patient's judgment.
+[t08] Joanna(PRO): I grant that predictions can be wrong, so review matters. But when resources are finite, unspoken rationing still happens. It hides decisions in waiting lists and private ability to pay, less accountable than a public standard.
+[t09] Rima(CON): When two patients need the same scarce intervention and clinicians judge one course unlikely to provide meaningful benefit, a limit can be justified. That condition matters: it is not permission to rank lives, and it requires explanation, appeal, and continued comfort care.
+[t10] <cut> Joanna(PRO): You said a limit can be justified when benefit is unlikely. But "meaningful benefit" can reflect a narrow view of living, not the patient's values. If you call that a fair standard, you still haven't shown who decides what counts as meaningful-
+[t11] Rima(CON): Every patient deserves respectful care, whatever the prognosis. Public institutions should therefore guarantee a baseline of treatment and comfort for everyone, even when a particular scarce intervention cannot be offered. Equal dignity is broader than any single allocation decision.
+[t12] Joanna(PRO): The patient, with clinicians and an independent review process, should define meaningful goals; your question assumes a committee alone decides. But individual wishes can't create extra staff or equipment. A transparent limit protects those wishes from wealth-based competition.
+[t13] Rima(CON): You say patients define meaningful goals, yet your policy still lets a review body refuse the intervention. That is not control for the patient; it is a polite name for rationing. Review may correct mistakes, but it cannot remove the coercion scarcity creates.
+[t14] Joanna(PRO): That is why the urgent policy question is how people record choices before crisis. We need accessible conversations, plain-language directives, trained interpreters, and time for families to understand them. Hospitals should make those tools routine, so consent is informed rather than rushed.
+[t15] @B1 Randy(MOD): Can we please go back to the question at hand? We're going to go back to the question at issue.
+[t16] Joanna(PRO): On the motion, rationing is justified only as a last, publicly accountable limit, not as a shortcut. It must use relevant clinical criteria, protect comfort, allow appeal, and never treat disability or age as a reason to value someone less.
+[t17] <cut> Rima(CON): You call it a "last, publicly accountable limit," but those safeguards don't answer the central harm. A person can still lose treatment because officials predict less value in their future, and public accountability does not make that judgment-
+--- phase 3 ---
+[t18] @A3-2 <ovl> Randy(MOD): And now we move into closing statements from each debater in turn, starting with Joanna.
+[t19] Joanna(PRO): This motion turns on whether limits will be visible and fair, or hidden and unequal. Rationing should never mean abandoning a person. It means using scarce interventions by consistent criteria, hearing the patient, reviewing hard cases, and guaranteeing comfort. Without a shared limit, money and pressure decide first.
+[t20] @A2-2 Randy(MOD): Thank you, Joanna. And that is the motion, ration end-of-life care to ensure fair access when resources are scarce. And here to argue against the motion, Rima.
+[t21] Rima(CON): This motion turns on who holds the power to say no. A ration can make that refusal routine, while labels of benefit can discount disability, age, or a patient's own priorities.
+[t22] <ovl> <cut> Joanna(PRO): But your fair limit still-
+[t23] @A5 <ovl> Randy(MOD): No, no, no. Hold on. Let Joanna.
+[t24] Rima(CON): Care should begin with the person's goals, not a scarcity formula. Better capacity, honest consent, and strong comfort care can protect patients without making refusal the policy.
+[t25] @A4 <ovl> Randy(MOD): Well, now ten.
+[t26] Rima(CON): No one should lose essential care because a rule values one life less than another.
+[t27] Randy(MOD): Thank you both. This debate on whether to ration end-of-life care is closed. The arguments and closing statements are now complete.

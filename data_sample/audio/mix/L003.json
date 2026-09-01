@@ -1,0 +1,295 @@
+{
+ "debate_id": "L003",
+ "motion": "NATO should admit Ukraine.",
+ "speakers": {
+  "MOD": {
+   "name": "Betsy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0929_326",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0929/MSP-PODCAST_0929_326.wav",
+   "wpm": 180.84
+  },
+  "PRO": {
+   "name": "Marcia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "CON": {
+   "name": "Amy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0941_297",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0941/MSP-PODCAST_0941_297.wav",
+   "wpm": 170.38
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "total_sec": 297.22,
+ "turns": [
+  {
+   "i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.4,
+   "dur_sec": 17.4,
+   "overlap": false,
+   "text": "Tonight we debate whether NATO should admit Ukraine. Marcia argues for admission, and Amy argues against it. Each opening lasts thirty seconds. Then comes crossfire, with direct questions. Finally, each side gets a thirty-second closing. I will give a ten-second cue. Stay civil, address the argument, and stop when time is called."
+  },
+  {
+   "i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.6,
+   "end_sec": 35.72,
+   "dur_sec": 18.12,
+   "overlap": false,
+   "text": "NATO should admit Ukraine because security promises work best before danger spreads further. Membership would give Ukraine a clear place in Europe's defense and give other members a clear responsibility. It would replace uncertainty with a shared commitment, while strengthening diplomacy through a firm and credible position."
+  },
+  {
+   "i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 35.92,
+   "end_sec": 37.4,
+   "dur_sec": 1.48,
+   "overlap": false,
+   "text": "Let Amy have the mic."
+  },
+  {
+   "i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 37.6,
+   "end_sec": 57.16,
+   "dur_sec": 19.56,
+   "overlap": false,
+   "text": "NATO should not admit Ukraine while its war is active. Membership would tie other countries to a direct military obligation at the most dangerous moment. That could widen the fighting instead of containing it. Support, weapons, and diplomacy remain possible without crossing into a collective defense promise. That distinction matters. If NATO treats membership as an answer to every crisis, it may make this crisis harder to end."
+  },
+  {
+   "i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 56.66,
+   "end_sec": 57.66,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 57.86,
+   "end_sec": 71.26,
+   "dur_sec": 13.4,
+   "overlap": false,
+   "text": "If NATO admits a country under attack, every member inherits that conflict. Marcia, you keep calling this a path to peace, but you haven't explained why other countries should accept that risk when you say-"
+  },
+  {
+   "i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 70.8,
+   "end_sec": 71.72,
+   "dur_sec": 0.92,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.92,
+   "end_sec": 79.0,
+   "dur_sec": 7.08,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly."
+  },
+  {
+   "i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 79.2,
+   "end_sec": 93.4,
+   "dur_sec": 14.2,
+   "overlap": false,
+   "text": "Consider a concrete case: if Ukraine joined before a ceasefire, an attack on its territory could immediately test every member's promise. Admission would make NATO responsible for a live battlefield, which supports admitting Ukraine rather than leaving that danger outside."
+  },
+  {
+   "i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 93.6,
+   "end_sec": 107.0,
+   "dur_sec": 13.4,
+   "overlap": false,
+   "text": "If the fighting remains active, admission would increase danger rather than reduce it. NATO would face pressure to respond immediately, while an opposing power could treat membership as escalation. Under that condition, delay protects the alliance's room to act."
+  },
+  {
+   "i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 107.2,
+   "end_sec": 120.12,
+   "dur_sec": 12.92,
+   "overlap": false,
+   "text": "I grant that delay can reduce immediate pressure on members. But the main issue is whether uncertainty protects Ukraine. It does not: without membership, an aggressor can doubt the alliance's long-term commitment and keep testing its limits."
+  },
+  {
+   "i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 120.32,
+   "end_sec": 133.72,
+   "dur_sec": 13.4,
+   "overlap": false,
+   "text": "Some people also worry about rebuilding costs, displaced families, and future trade. Those concerns deserve attention, but they aren't the question here. The motion asks whether membership strengthens security, and keeping Ukraine outside leaves the central security gap unresolved."
+  },
+  {
+   "i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 133.92,
+   "end_sec": 147.8,
+   "dur_sec": 13.88,
+   "overlap": false,
+   "text": "The general principle is simple: alliances should not expand during an active war. They need stable commitments, clear boundaries, and time to assess obligations. That protects members from making an irreversible decision under pressure and preserves room for negotiation."
+  },
+  {
+   "i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.0,
+   "end_sec": 161.32,
+   "dur_sec": 13.32,
+   "overlap": false,
+   "text": "Your weakest point is the claim that uncertainty protects Ukraine. Uncertainty can invite more pressure, but membership during fighting creates an immediate obligation. You haven't shown how adding that obligation would calm the battlefield or give negotiators more flexibility."
+  },
+  {
+   "i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.52,
+   "end_sec": 177.08,
+   "dur_sec": 15.56,
+   "overlap": false,
+   "text": "An attacked country may join during an active war when refusing it would leave its people exposed. Ukraine's danger is not abstract, so admission can be justified despite the conflict. A serious alliance must sometimes accept risk to prevent a greater threat from advancing."
+  },
+  {
+   "i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 177.28,
+   "end_sec": 185.64,
+   "dur_sec": 8.36,
+   "overlap": false,
+   "text": "But doesn't your argument for alliances should not expand during an active war fight your argument that an attacked country may join during an active war?"
+  },
+  {
+   "i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 185.84,
+   "end_sec": 202.2,
+   "dur_sec": 16.36,
+   "overlap": false,
+   "text": "Those statements fit because the first describes the normal safeguard, while the second identifies an emergency exception. Expansion during war is usually dangerous, but refusing a country under direct attack can also create danger. The principle guides the decision; the facts determine whether the exception applies."
+  },
+  {
+   "i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 202.4,
+   "end_sec": 215.16,
+   "dur_sec": 12.76,
+   "overlap": false,
+   "text": "NATO should judge every applicant by the same standards, including its ability to defend members and meet shared obligations. That broader duty does not erase my warning: an active war can make an otherwise eligible application dangerous."
+  },
+  {
+   "i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 215.36,
+   "end_sec": 225.32,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "Amy, if Ukraine can meet NATO's standards and membership would strengthen its defense, will you explain what clear condition would make admission responsible rather than merely postponing it-"
+  },
+  {
+   "i": 19,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 224.52,
+   "end_sec": 230.88,
+   "dur_sec": 6.36,
+   "overlap": true,
+   "text": "Now we move on to round three. Marcia will go first, arguing for the resolution. Marcia, the floor is yours."
+  },
+  {
+   "i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 231.08,
+   "end_sec": 251.12,
+   "dur_sec": 20.04,
+   "overlap": false,
+   "text": "Admission is not a reward for perfect conditions. It is a decision about whether Ukraine's security belongs inside a shared promise. Leaving Ukraine outside does not remove the war or its danger. It leaves the burden divided and the signal uncertain. A clear commitment can deter further pressure and give diplomacy firmer ground."
+  },
+  {
+   "i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 250.66,
+   "end_sec": 251.58,
+   "dur_sec": 0.92,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 251.78,
+   "end_sec": 265.9,
+   "dur_sec": 14.12,
+   "overlap": false,
+   "text": "That does not mean members must ignore their obligations or act carelessly. It means the alliance must decide with courage, not let danger dictate permanent exclusion. Ukraine has shown why that promise matters, and I cannot think of a stronger justification than that-"
+  },
+  {
+   "i": 23,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 265.1,
+   "end_sec": 274.18,
+   "dur_sec": 9.08,
+   "overlap": true,
+   "text": "Thank you. I'm sorry her time is up. Thank you. And here to summarize her position against nato should admit ukraine as a full member of the alliance, Amy."
+  },
+  {
+   "i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 274.38,
+   "end_sec": 292.02,
+   "dur_sec": 17.64,
+   "overlap": false,
+   "text": "The strongest point is timing. NATO can stand with Ukraine without admitting Ukraine during an active war. Membership would turn a continuing crisis into a shared legal and military commitment. Protecting peace requires restraint now. Keep support strong, keep diplomacy open, and postpone admission until the risk is no longer immediate."
+  },
+  {
+   "i": 25,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 292.22,
+   "end_sec": 297.22,
+   "dur_sec": 5.0,
+   "overlap": false,
+   "text": "Thank you both. The debate is closed. We leave the motion for viewers to consider."
+  }
+ ]
+}
