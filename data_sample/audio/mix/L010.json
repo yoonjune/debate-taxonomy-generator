@@ -1,0 +1,244 @@
+{
+ "debate_id": "L010",
+ "motion": "Containment is not enough: ISIS must be defeated",
+ "speakers": {
+  "MOD": {
+   "name": "Melissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1206_312",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
+   "wpm": 165.44
+  },
+  "PRO": {
+   "name": "Greg",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1656_617",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1656/MSP-PODCAST_1656_617.wav",
+   "wpm": 172.62
+  },
+  "CON": {
+   "name": "Carlos",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2988_467",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2988/MSP-PODCAST_2988_467.wav",
+   "wpm": 167.95
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1"
+ ],
+ "total_sec": 212.38,
+ "turns": [
+  {
+   "i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.24,
+   "dur_sec": 19.24,
+   "overlap": false,
+   "text": "Tonight's motion is, containment is not enough: ISIS must be defeated. Greg argues for it, and Carlos argues against it. Each speaker has thirty seconds for an opening. Then they will question and challenge each other in crossfire. Finally, each has thirty seconds for a closing. I will give a ten-second cue before each timed speech ends."
+  },
+  {
+   "i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.44,
+   "end_sec": 39.16,
+   "dur_sec": 19.72,
+   "overlap": false,
+   "text": "Containment can limit movement, but it leaves the central danger intact. ISIS is not merely a territory to be fenced off. It is an armed project that recruits, plans, and adapts. If we only watch its borders and disrupt isolated plots, its command structure can survive and return when pressure eases. Defeat means removing that capacity, not simply waiting-"
+  },
+  {
+   "i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.54,
+   "end_sec": 39.78,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.98,
+   "end_sec": 54.02,
+   "dur_sec": 14.04,
+   "overlap": false,
+   "text": "for it to reappear. That requires pressure on its leaders, finances, and ability to inspire attacks. We need a clear end state, reliable partners, and resolve to keep going until ISIS can no longer organize violence or govern fear-"
+  },
+  {
+   "i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 53.22,
+   "end_sec": 55.18,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Your time is up. Thank you. Carlos."
+  },
+  {
+   "i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 55.38,
+   "end_sec": 74.78,
+   "dur_sec": 19.4,
+   "overlap": false,
+   "text": "Containment is not surrender; it is a practical way to protect people while reducing ISIS's reach. Greg treats defeat as a simple endpoint, but armed movements can change names, hide among civilians, and return after campaigns end. A policy that prevents attacks, limits recruitment, and denies safe space may protect lives better than an open-ended promise of total victory."
+  },
+  {
+   "i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 74.48,
+   "end_sec": 75.08,
+   "dur_sec": 0.6,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 75.28,
+   "end_sec": 88.92,
+   "dur_sec": 13.64,
+   "overlap": false,
+   "text": "Military pressure can be necessary, but calling containment inadequate invites endless escalation. We should judge policy by whether it protects people, blocks recruitment, and prevents attacks, not by whether someone can promise that every threat has been erased-"
+  },
+  {
+   "i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 88.12,
+   "end_sec": 90.48,
+   "dur_sec": 2.36,
+   "overlap": true,
+   "text": "Thank you, Carlos. Your time is up."
+  },
+  {
+   "i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 90.68,
+   "end_sec": 96.56,
+   "dur_sec": 5.88,
+   "overlap": false,
+   "text": "Now we move on to round two. Round two is where the debaters address one another directly."
+  },
+  {
+   "i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 96.76,
+   "end_sec": 108.0,
+   "dur_sec": 11.24,
+   "overlap": false,
+   "text": "You say containment is not surrender, but your own standard is only preventing attacks. If that is success, then you have accepted my point: containment is enough when it keeps ISIS from organizing violence."
+  },
+  {
+   "i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 108.2,
+   "end_sec": 118.48,
+   "dur_sec": 10.28,
+   "overlap": false,
+   "text": "Carlos, public fear matters too; communities need normal routines and officials need room to rebuild. But those benefits require lasting security. Why call containment enough while ISIS retains capacity to organize?"
+  },
+  {
+   "i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 118.68,
+   "end_sec": 128.64,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "I reject that premise: retained capacity need not become violence. Containment is a real result, not surrender. Why risk broader harm to chase a final label when prevention protects people-"
+  },
+  {
+   "i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 127.74,
+   "end_sec": 138.26,
+   "dur_sec": 10.52,
+   "overlap": true,
+   "text": "No, prevention that leaves the threat organized is temporary relief. The motion asks for defeat because a surviving network can rebuild, recruit, and choose its moment. Protection requires more than delay."
+  },
+  {
+   "i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 138.46,
+   "end_sec": 148.34,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "Greg, what concrete test tells us ISIS is defeated rather than merely quiet? If you cannot name an end point, why should the public accept indefinite operations as your policy?"
+  },
+  {
+   "i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 148.54,
+   "end_sec": 159.54,
+   "dur_sec": 11.0,
+   "overlap": false,
+   "text": "Your question sets a false choice: clear objectives are not indefinite operations. We can dismantle leadership, financing, and attack networks, then verify the threat has collapsed. Calling that impossible excuses containment, which-"
+  },
+  {
+   "i": 16,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 158.74,
+   "end_sec": 167.02,
+   "dur_sec": 8.28,
+   "overlap": true,
+   "text": "So, Round three, closing statements. Here, making his closing statement in support of containment is not enough: isis must be defeated, here is Greg."
+  },
+  {
+   "i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 167.22,
+   "end_sec": 184.94,
+   "dur_sec": 17.72,
+   "overlap": false,
+   "text": "Containment can reduce harm, but reduction is not defeat. ISIS can survive without holding territory, preserving leaders, recruiters, money, and plans for violence. The responsible standard is not endless war. It is sustained action until that machinery is dismantled and people are no longer threatened by its return. Containment is not enough."
+  },
+  {
+   "i": 18,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 185.14,
+   "end_sec": 188.54,
+   "dur_sec": 3.4,
+   "overlap": false,
+   "text": "Thank you. Up next, speaking against the resolution is Carlos."
+  },
+  {
+   "i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 188.74,
+   "end_sec": 206.38,
+   "dur_sec": 17.64,
+   "overlap": false,
+   "text": "Containment is a policy, not passivity. It can deny ISIS safe space, restrict recruitment, disrupt attacks, and protect civilians while leaders seek durable solutions. Greg offers no boundary between victory and endless escalation. Choose the testable standard: fewer attacks, less reach, and safer communities. For that, containment is enough."
+  },
+  {
+   "i": 20,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 206.58,
+   "end_sec": 212.38,
+   "dur_sec": 5.8,
+   "overlap": false,
+   "text": "Thank you, Greg and Carlos, for a focused debate. We have heard both positions clearly. That concludes our discussion."
+  }
+ ]
+}

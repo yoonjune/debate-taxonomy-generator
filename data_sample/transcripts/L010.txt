@@ -1,0 +1,27 @@
+L010  |  Containment is not enough: ISIS must be defeated
+  MOD=Melissa   PRO=Greg   CON=Carlos
+
+--- phase 1 ---
+[t00] Melissa(MOD): Tonight's motion is, containment is not enough: ISIS must be defeated. Greg argues for it, and Carlos argues against it. Each speaker has thirty seconds for an opening. Then they will question and challenge each other in crossfire. Finally, each has thirty seconds for a closing. I will give a ten-second cue before each timed speech ends.
+[t01] Greg(PRO): Containment can limit movement, but it leaves the central danger intact. ISIS is not merely a territory to be fenced off. It is an armed project that recruits, plans, and adapts. If we only watch its borders and disrupt isolated plots, its command structure can survive and return when pressure eases. Defeat means removing that capacity, not simply waiting-
+[t02] @A4 <ovl> Melissa(MOD): You've got ten seconds.
+[t03] <cut> Greg(PRO): for it to reappear. That requires pressure on its leaders, finances, and ability to inspire attacks. We need a clear end state, reliable partners, and resolve to keep going until ISIS can no longer organize violence or govern fear-
+[t04] @A2-1 <ovl> Melissa(MOD): Your time is up. Thank you. Carlos.
+[t05] Carlos(CON): Containment is not surrender; it is a practical way to protect people while reducing ISIS's reach. Greg treats defeat as a simple endpoint, but armed movements can change names, hide among civilians, and return after campaigns end. A policy that prevents attacks, limits recruitment, and denies safe space may protect lives better than an open-ended promise of total victory.
+[t06] @A4 <ovl> Melissa(MOD): Ten seconds.
+[t07] <cut> Carlos(CON): Military pressure can be necessary, but calling containment inadequate invites endless escalation. We should judge policy by whether it protects people, blocks recruitment, and prevents attacks, not by whether someone can promise that every threat has been erased-
+[t08] @A1 <ovl> Melissa(MOD): Thank you, Carlos. Your time is up.
+--- phase 2 ---
+[t09] @A3-1 Melissa(MOD): Now we move on to round two. Round two is where the debaters address one another directly.
+[t10] Carlos(CON): You say containment is not surrender, but your own standard is only preventing attacks. If that is success, then you have accepted my point: containment is enough when it keeps ISIS from organizing violence.
+[t11] Greg(PRO): Carlos, public fear matters too; communities need normal routines and officials need room to rebuild. But those benefits require lasting security. Why call containment enough while ISIS retains capacity to organize?
+[t12] <cut> Carlos(CON): I reject that premise: retained capacity need not become violence. Containment is a real result, not surrender. Why risk broader harm to chase a final label when prevention protects people-
+[t13] <ovl> Greg(PRO): No, prevention that leaves the threat organized is temporary relief. The motion asks for defeat because a surviving network can rebuild, recruit, and choose its moment. Protection requires more than delay.
+[t14] Carlos(CON): Greg, what concrete test tells us ISIS is defeated rather than merely quiet? If you cannot name an end point, why should the public accept indefinite operations as your policy?
+[t15] <cut> Greg(PRO): Your question sets a false choice: clear objectives are not indefinite operations. We can dismantle leadership, financing, and attack networks, then verify the threat has collapsed. Calling that impossible excuses containment, which-
+--- phase 3 ---
+[t16] @A3-2 <ovl> Melissa(MOD): So, Round three, closing statements. Here, making his closing statement in support of containment is not enough: isis must be defeated, here is Greg.
+[t17] Greg(PRO): Containment can reduce harm, but reduction is not defeat. ISIS can survive without holding territory, preserving leaders, recruiters, money, and plans for violence. The responsible standard is not endless war. It is sustained action until that machinery is dismantled and people are no longer threatened by its return. Containment is not enough.
+[t18] @A2-2 Melissa(MOD): Thank you. Up next, speaking against the resolution is Carlos.
+[t19] Carlos(CON): Containment is a policy, not passivity. It can deny ISIS safe space, restrict recruitment, disrupt attacks, and protect civilians while leaders seek durable solutions. Greg offers no boundary between victory and endless escalation. Choose the testable standard: fewer attacks, less reach, and safer communities. For that, containment is enough.
+[t20] Melissa(MOD): Thank you, Greg and Carlos, for a focused debate. We have heard both positions clearly. That concludes our discussion.

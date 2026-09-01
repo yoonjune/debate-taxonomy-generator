@@ -1,0 +1,284 @@
+{
+ "debate_id": "L005",
+ "motion": "the world is better off with Wikileaks",
+ "speakers": {
+  "MOD": {
+   "name": "Isaac",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3841_60",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3841/MSP-PODCAST_3841_60.wav",
+   "wpm": 170.31
+  },
+  "PRO": {
+   "name": "Ryan",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6699_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_6/MSP-PODCAST_6699/MSP-PODCAST_6699_79.wav",
+   "wpm": 176.38
+  },
+  "CON": {
+   "name": "Mira",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2678_246",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2678/MSP-PODCAST_2678_246.wav",
+   "wpm": 168.22
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1"
+ ],
+ "total_sec": 282.18,
+ "turns": [
+  {
+   "i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.28,
+   "dur_sec": 16.28,
+   "overlap": false,
+   "text": "Tonight's motion is that the world is better off with Wikileaks disclosures. Ryan argues for it, and Mira argues against it. Each speaker gets thirty seconds for an opening, then we have crossfire, then thirty-second closings. I will give a ten-second cue, and I will manage the turns."
+  },
+  {
+   "i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.48,
+   "end_sec": 36.6,
+   "dur_sec": 20.12,
+   "overlap": false,
+   "text": "A better world is one where power can be questioned with evidence, not merely trusted with secrets. Leaked records can reveal abuse, hidden decisions, and promises that officials deny making. That knowledge gives ordinary people a way to judge institutions. It also discourages leaders from believing that silence protects them from accountability forever."
+  },
+  {
+   "i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 35.4,
+   "end_sec": 38.76,
+   "dur_sec": 3.36,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.96,
+   "end_sec": 43.96,
+   "dur_sec": 5.0,
+   "overlap": false,
+   "text": "That is why a world with accountable power is a better world."
+  },
+  {
+   "i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 44.16,
+   "end_sec": 47.0,
+   "dur_sec": 2.84,
+   "overlap": false,
+   "text": "Okay. Ryan, let me give the floor back to Mira."
+  },
+  {
+   "i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 47.2,
+   "end_sec": 64.84,
+   "dur_sec": 17.64,
+   "overlap": false,
+   "text": "Transparency can help, but Wikileaks treats exposure as the answer even when context is missing. A dumped file can endanger private people, distort public judgment, and punish innocent workers. The world is better off with responsible investigation and safeguards, not with indiscriminate publication presented as moral courage."
+  },
+  {
+   "i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 65.04,
+   "end_sec": 72.36,
+   "dur_sec": 7.32,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly."
+  },
+  {
+   "i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 72.56,
+   "end_sec": 87.0,
+   "dur_sec": 14.44,
+   "overlap": false,
+   "text": "I grant that secrecy can shield wrongdoing. But your answer makes controlled institutions the final judges of what the public may know. If officials can hide mistakes by calling them sensitive, how can citizens challenge power before the damage becomes permanent?"
+  },
+  {
+   "i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 87.2,
+   "end_sec": 98.2,
+   "dur_sec": 11.0,
+   "overlap": false,
+   "text": "When a leak names private people rather than public wrongdoing, withholding those details can protect them; why should the world's condition improve when publication creates fear without giving citizens a useful decision?"
+  },
+  {
+   "i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 98.4,
+   "end_sec": 113.4,
+   "dur_sec": 15.0,
+   "overlap": false,
+   "text": "It should not improve in that case; private details should be removed. But that exception does not justify hiding records about public actions. You are moving from a safeguard against harm to a general permission for authorities to keep evidence away from everyone."
+  },
+  {
+   "i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 113.6,
+   "end_sec": 125.56,
+   "dur_sec": 11.96,
+   "overlap": false,
+   "text": "Mira, you are right that accountability matters. But the real question is who should set the rules for removing harmful posts, how quickly appeals work, and whether private companies should police speech across every network."
+  },
+  {
+   "i": 11,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 125.76,
+   "end_sec": 130.36,
+   "dur_sec": 4.6,
+   "overlap": false,
+   "text": "Okay, again, it's not on our topic about the world is better off with wikileaks disclosures."
+  },
+  {
+   "i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 130.56,
+   "end_sec": 144.36,
+   "dur_sec": 13.8,
+   "overlap": false,
+   "text": "The motion asks whether the world is better off with Wikileaks disclosures. On that question, public evidence still matters because secrecy lets powerful actors define reality. Redaction can protect people without burying misconduct, so transparency remains the stronger default."
+  },
+  {
+   "i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 144.56,
+   "end_sec": 156.6,
+   "dur_sec": 12.04,
+   "overlap": false,
+   "text": "Would you accept a system that publishes verified evidence of public wrongdoing while removing private names and dangerous personal details? If yes, why reject Wikileaks when its disclosures can serve that same public purpose?"
+  },
+  {
+   "i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 156.8,
+   "end_sec": 170.12,
+   "dur_sec": 13.32,
+   "overlap": false,
+   "text": "A related issue is how newsrooms train editors, handle corrections, and explain complicated records to readers. Those practices matter, but they bring us back to the motion: careful explanation can make disclosure improve public understanding rather than damage it."
+  },
+  {
+   "i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 170.32,
+   "end_sec": 183.72,
+   "dur_sec": 13.4,
+   "overlap": false,
+   "text": "Imagine officials secretly ordering harmful treatment, while an internal record proves it and no witness can safely speak. Publishing that record lets citizens demand change. Without disclosure, the officials can deny everything, so the world remains less accountable."
+  },
+  {
+   "i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 183.92,
+   "end_sec": 196.2,
+   "dur_sec": 12.28,
+   "overlap": false,
+   "text": "No society is made safer by treating secrecy as an absolute virtue. Public institutions still need confidential spaces for some private matters, yet openness about public power can benefit everyone, not only people directly harmed."
+  },
+  {
+   "i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 196.4,
+   "end_sec": 211.64,
+   "dur_sec": 15.24,
+   "overlap": false,
+   "text": "Your weakest point is that safeguards somehow answer the whole question. They do not. Redaction and verification can reduce harm, while secrecy can preserve abuse. You have shown a need for care, not a reason to reject disclosure when the evidence is publ-"
+  },
+  {
+   "i": 18,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 210.84,
+   "end_sec": 218.0,
+   "dur_sec": 7.16,
+   "overlap": true,
+   "text": "And now we move on to round three. Here to make his closing statement in support of the motion, once again, Ryan."
+  },
+  {
+   "i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 218.2,
+   "end_sec": 238.24,
+   "dur_sec": 20.04,
+   "overlap": false,
+   "text": "This debate turns on where we place the risk. Mira sees publication's dangers, and those dangers are real. But secrecy has dangers too: hidden abuse, uncorrected official stories, and citizens asked to trust decisions they cannot inspect. Wikileaks disclosures can be imperfect without being worthless. A world with visible evidence gives people leverage to question power, demand correction, and resist convenient denials. That is the central benefit, not"
+  },
+  {
+   "i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 237.86,
+   "end_sec": 238.62,
+   "dur_sec": 0.76,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 238.82,
+   "end_sec": 252.94,
+   "dur_sec": 14.12,
+   "overlap": false,
+   "text": "the claim that every file should appear untouched. The better standard is public accountability with sensible protection. If we let fear of misuse justify silence, then powerful actors keep control of the record, and citizens lose the chance to judge what was done in their name-"
+  },
+  {
+   "i": 22,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 252.14,
+   "end_sec": 257.14,
+   "dur_sec": 5.0,
+   "overlap": true,
+   "text": "Thank you, your time is up. And here to summarize her position against the motion, Mira."
+  },
+  {
+   "i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 257.34,
+   "end_sec": 275.14,
+   "dur_sec": 17.8,
+   "overlap": false,
+   "text": "The decision turns on whether disclosure produces more public understanding than preventable harm. A leak is not automatically evidence, and exposure is not automatically accountability. The world is better off when wrongdoing is investigated, verified, and reported with protection for innocent people. That standard values truth without making every person collateral damage."
+  },
+  {
+   "i": 24,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 275.34,
+   "end_sec": 282.18,
+   "dur_sec": 6.84,
+   "overlap": false,
+   "text": "Thank you, Ryan and Mira, for the debate. The question is now closed. We leave the judgment to you, without declaring a winner."
+  }
+ ]
+}

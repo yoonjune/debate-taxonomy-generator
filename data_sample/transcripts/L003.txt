@@ -1,0 +1,32 @@
+L003  |  NATO should admit Ukraine.
+  MOD=Betsy   PRO=Marcia   CON=Amy
+
+--- phase 1 ---
+[t00] Betsy(MOD): Tonight we debate whether NATO should admit Ukraine. Marcia argues for admission, and Amy argues against it. Each opening lasts thirty seconds. Then comes crossfire, with direct questions. Finally, each side gets a thirty-second closing. I will give a ten-second cue. Stay civil, address the argument, and stop when time is called.
+[t01] Marcia(PRO): NATO should admit Ukraine because security promises work best before danger spreads further. Membership would give Ukraine a clear place in Europe's defense and give other members a clear responsibility. It would replace uncertainty with a shared commitment, while strengthening diplomacy through a firm and credible position.
+[t02] @A2-2 Betsy(MOD): Let Amy have the mic.
+[t03] Amy(CON): NATO should not admit Ukraine while its war is active. Membership would tie other countries to a direct military obligation at the most dangerous moment. That could widen the fighting instead of containing it. Support, weapons, and diplomacy remain possible without crossing into a collective defense promise. That distinction matters. If NATO treats membership as an answer to every crisis, it may make this crisis harder to end.
+[t04] @A4 <ovl> Betsy(MOD): Ten seconds warning.
+[t05] <cut> Amy(CON): If NATO admits a country under attack, every member inherits that conflict. Marcia, you keep calling this a path to peace, but you haven't explained why other countries should accept that risk when you say-
+[t06] @A1 <ovl> Betsy(MOD): Time out. Time out.
+--- phase 2 ---
+[t07] @A3-1 Betsy(MOD): And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly.
+[t08] Marcia(PRO): Consider a concrete case: if Ukraine joined before a ceasefire, an attack on its territory could immediately test every member's promise. Admission would make NATO responsible for a live battlefield, which supports admitting Ukraine rather than leaving that danger outside.
+[t09] Amy(CON): If the fighting remains active, admission would increase danger rather than reduce it. NATO would face pressure to respond immediately, while an opposing power could treat membership as escalation. Under that condition, delay protects the alliance's room to act.
+[t10] Marcia(PRO): I grant that delay can reduce immediate pressure on members. But the main issue is whether uncertainty protects Ukraine. It does not: without membership, an aggressor can doubt the alliance's long-term commitment and keep testing its limits.
+[t11] Amy(CON): Some people also worry about rebuilding costs, displaced families, and future trade. Those concerns deserve attention, but they aren't the question here. The motion asks whether membership strengthens security, and keeping Ukraine outside leaves the central security gap unresolved.
+[t12] Marcia(PRO): The general principle is simple: alliances should not expand during an active war. They need stable commitments, clear boundaries, and time to assess obligations. That protects members from making an irreversible decision under pressure and preserves room for negotiation.
+[t13] Amy(CON): Your weakest point is the claim that uncertainty protects Ukraine. Uncertainty can invite more pressure, but membership during fighting creates an immediate obligation. You haven't shown how adding that obligation would calm the battlefield or give negotiators more flexibility.
+[t14] Marcia(PRO): An attacked country may join during an active war when refusing it would leave its people exposed. Ukraine's danger is not abstract, so admission can be justified despite the conflict. A serious alliance must sometimes accept risk to prevent a greater threat from advancing.
+[t15] @B2 Betsy(MOD): But doesn't your argument for alliances should not expand during an active war fight your argument that an attacked country may join during an active war?
+[t16] Marcia(PRO): Those statements fit because the first describes the normal safeguard, while the second identifies an emergency exception. Expansion during war is usually dangerous, but refusing a country under direct attack can also create danger. The principle guides the decision; the facts determine whether the exception applies.
+[t17] Amy(CON): NATO should judge every applicant by the same standards, including its ability to defend members and meet shared obligations. That broader duty does not erase my warning: an active war can make an otherwise eligible application dangerous.
+[t18] <cut> Marcia(PRO): Amy, if Ukraine can meet NATO's standards and membership would strengthen its defense, will you explain what clear condition would make admission responsible rather than merely postponing it-
+--- phase 3 ---
+[t19] @A3-2 <ovl> Betsy(MOD): Now we move on to round three. Marcia will go first, arguing for the resolution. Marcia, the floor is yours.
+[t20] Marcia(PRO): Admission is not a reward for perfect conditions. It is a decision about whether Ukraine's security belongs inside a shared promise. Leaving Ukraine outside does not remove the war or its danger. It leaves the burden divided and the signal uncertain. A clear commitment can deter further pressure and give diplomacy firmer ground.
+[t21] @A4 <ovl> Betsy(MOD): Well, now ten.
+[t22] <cut> Marcia(PRO): That does not mean members must ignore their obligations or act carelessly. It means the alliance must decide with courage, not let danger dictate permanent exclusion. Ukraine has shown why that promise matters, and I cannot think of a stronger justification than that-
+[t23] @A2-1 <ovl> Betsy(MOD): Thank you. I'm sorry her time is up. Thank you. And here to summarize her position against nato should admit ukraine as a full member of the alliance, Amy.
+[t24] Amy(CON): The strongest point is timing. NATO can stand with Ukraine without admitting Ukraine during an active war. Membership would turn a continuing crisis into a shared legal and military commitment. Protecting peace requires restraint now. Keep support strong, keep diplomacy open, and postpone admission until the risk is no longer immediate.
+[t25] Betsy(MOD): Thank you both. The debate is closed. We leave the motion for viewers to consider.

@@ -1,0 +1,295 @@
+{
+ "debate_id": "L004",
+ "motion": "Give undocumented immigrants a path to citizenship.",
+ "speakers": {
+  "MOD": {
+   "name": "Joanne",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  },
+  "PRO": {
+   "name": "Christina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3204_600",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3204/MSP-PODCAST_3204_600.wav",
+   "wpm": 173.72
+  },
+  "CON": {
+   "name": "Nadine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1215_339",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1215/MSP-PODCAST_1215_339.wav",
+   "wpm": 172.99
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "total_sec": 314.9,
+ "turns": [
+  {
+   "i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.96,
+   "dur_sec": 19.96,
+   "overlap": false,
+   "text": "The motion is to give undocumented immigrants a path to citizenship. Christina supports it; Nadine opposes it. Each opening lasts thirty seconds. Then comes crossfire, with direct questions and answers. Finally, each side gets a thirty-second closing. I will give a ten-second cue during openings and closings. Stay concise, address the motion, and let each speaker finish."
+  },
+  {
+   "i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.16,
+   "end_sec": 39.88,
+   "dur_sec": 19.72,
+   "overlap": false,
+   "text": "A path to citizenship brings undocumented residents into the law instead of leaving them in a permanent shadow. It can require identity checks, taxes, language learning, and a clean record. That is not a free pass. It is a demanding route that rewards responsibility, protects families, and lets government know who is here. The alternative leaves families vulnerable and communities less safe."
+  },
+  {
+   "i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.06,
+   "end_sec": 40.7,
+   "dur_sec": 1.64,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.9,
+   "end_sec": 46.94,
+   "dur_sec": 6.04,
+   "overlap": false,
+   "text": "A legal route makes accountability possible, not optional, and strengthens trust in government."
+  },
+  {
+   "i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 47.14,
+   "end_sec": 48.38,
+   "dur_sec": 1.24,
+   "overlap": false,
+   "text": "Nadine, take the response."
+  },
+  {
+   "i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 48.58,
+   "end_sec": 66.46,
+   "dur_sec": 17.88,
+   "overlap": false,
+   "text": "Nadine opposes this motion because citizenship is a serious legal status, not simply a reward for remaining in a country. A broad path may encourage more unlawful entry and disadvantage people who waited through formal channels. We can address long-term residents humanely without promising citizenship to everyone who entered without authorization."
+  },
+  {
+   "i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 66.66,
+   "end_sec": 75.5,
+   "dur_sec": 8.84,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two in our debate. Round two is where the debaters address one another directly."
+  },
+  {
+   "i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 75.7,
+   "end_sec": 91.34,
+   "dur_sec": 15.64,
+   "overlap": false,
+   "text": "Consider a worker who has lived here for years, paid what was required, and raised children here, yet remains afraid to report wage theft. A citizenship path gives that worker legal security and makes abuse easier to challenge. That is a practical reason to support it."
+  },
+  {
+   "i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 91.54,
+   "end_sec": 105.1,
+   "dur_sec": 13.56,
+   "overlap": false,
+   "text": "You call that security, but your example assumes waiting makes a person trustworthy. A path can reward someone who entered unlawfully while others followed rules. Citizenship needs a fair standard, not a blanket promise that everyone qualifies immediately-"
+  },
+  {
+   "i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 104.2,
+   "end_sec": 118.96,
+   "dur_sec": 14.76,
+   "overlap": true,
+   "text": "That is exactly why the path can include screening. You treat unlawful entry as permanently disqualifying, but the motion asks for an earned process. A person who passes checks, pays obligations, and meets conditions can become a citizen without erasing the original violation."
+  },
+  {
+   "i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 119.16,
+   "end_sec": 133.68,
+   "dur_sec": 14.52,
+   "overlap": false,
+   "text": "Screening is useful, but societies have always argued over who counts as a member. Ancient rulers recorded foreigners at city gates, and old empires taxed newcomers differently from locals. Those stories show that membership rules change when economies and borders change."
+  },
+  {
+   "i": 11,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 133.88,
+   "end_sec": 142.08,
+   "dur_sec": 8.2,
+   "overlap": false,
+   "text": "But, how do you relate that to give undocumented immigrants a path to citizenship? Land that on give undocumented immigrants a path to citizenship."
+  },
+  {
+   "i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 142.28,
+   "end_sec": 157.52,
+   "dur_sec": 15.24,
+   "overlap": false,
+   "text": "My position is simple: every undocumented immigrant deserves a path to citizenship, provided the path includes real requirements. The route can be demanding, but it must be available. A government should not make permanent exclusion the default for people who can meet lawful conditions."
+  },
+  {
+   "i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 157.72,
+   "end_sec": 173.52,
+   "dur_sec": 15.8,
+   "overlap": false,
+   "text": "I reject the premise that every undocumented immigrant deserves that path. A country may create a limited process for people who meet strict conditions, but it need not promise citizenship to all. Broad eligibility weakens deterrence and asks lawful applicants to accept an unfair shortcut."
+  },
+  {
+   "i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 173.72,
+   "end_sec": 188.08,
+   "dur_sec": 14.36,
+   "overlap": false,
+   "text": "For someone who arrived as a child and built a stable life, citizenship should be available. For someone convicted of serious violence, removal may be justified. Between those examples, neither automatic approval nor rejection is fair; officials should weigh conduct and ties."
+  },
+  {
+   "i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 188.28,
+   "end_sec": 197.28,
+   "dur_sec": 9.0,
+   "overlap": false,
+   "text": "You accuse every undocumented immigrant deserves a path to citizenship, but when I give you two examples, you sit on the fence and say it's neither."
+  },
+  {
+   "i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 197.48,
+   "end_sec": 212.56,
+   "dur_sec": 15.08,
+   "overlap": false,
+   "text": "Those positions fit because a right to seek a path is not a guarantee of approval. Everyone should be allowed to present an application, while the decision can depend on conduct, identity, and other requirements. Offering a route is universal; granting citizenship remains conditional."
+  },
+  {
+   "i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 212.76,
+   "end_sec": 228.24,
+   "dur_sec": 15.48,
+   "overlap": false,
+   "text": "You just said, \"Everyone should be allowed to present an application,\" then called citizenship conditional. That sounds like a path in name only. Your phrase \"neither automatic approval nor rejection\" leaves officials broad discretion, while applicants still face uncertainty and the original violation remains blurred."
+  },
+  {
+   "i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 228.44,
+   "end_sec": 242.16,
+   "dur_sec": 13.72,
+   "overlap": false,
+   "text": "If your process can deny citizenship to a person who meets every stated requirement, what does a path promise? And if officials may reject someone after years of compliance, why trust your route to be more than temporary permission that-"
+  },
+  {
+   "i": 19,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 241.36,
+   "end_sec": 248.76,
+   "dur_sec": 7.4,
+   "overlap": true,
+   "text": "And that concludes round two of this debate. We're going to go to closing arguments now. And so, first up, Christina."
+  },
+  {
+   "i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 248.96,
+   "end_sec": 268.92,
+   "dur_sec": 19.96,
+   "overlap": false,
+   "text": "Nadine's strongest point is that citizenship should not be handed out casually. I agree. That is why this motion supports a demanding path with screening, taxes, language, and a clean record. But opposing a path altogether turns one violation into a permanent sentence. People who work, raise families, and meet clear conditions should have a way to belong legally."
+  },
+  {
+   "i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 268.1,
+   "end_sec": 269.74,
+   "dur_sec": 1.64,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 269.94,
+   "end_sec": 283.5,
+   "dur_sec": 13.56,
+   "overlap": false,
+   "text": "A fair process can protect borders while recognizing responsibility. It can deny applicants who fail serious requirements, but it should not deny everyone before they apply. Citizenship is earned through standards, and those standards matter only when the door is actually open to-"
+  },
+  {
+   "i": 23,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 282.7,
+   "end_sec": 288.66,
+   "dur_sec": 5.96,
+   "overlap": true,
+   "text": "Your time is up, Christina. Thank you. And here to summarize her position against the motion, Nadine."
+  },
+  {
+   "i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 288.86,
+   "end_sec": 306.82,
+   "dur_sec": 17.96,
+   "overlap": false,
+   "text": "Christina's proposal sounds conditional, but her central claim reaches everyone. That is the problem. A path can be narrow, temporary, and carefully reviewed without becoming a general promise of citizenship. The law should reward lawful conduct and preserve consequences for unlawful entry. Compassion can guide policy without making citizenship the expected result."
+  },
+  {
+   "i": 25,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 307.02,
+   "end_sec": 314.9,
+   "dur_sec": 7.88,
+   "overlap": false,
+   "text": "Thank you, Christina and Nadine. This debate is closed. We have heard arguments for an earned path and concerns about fairness and enforcement."
+  }
+ ]
+}
