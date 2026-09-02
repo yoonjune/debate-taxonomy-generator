@@ -53,6 +53,23 @@ cp -R debate-taxonomy-generator/skills/generate-debate-taxonomy \
 
 별도 Python package 설치는 필요 없고 Python 3 표준 라이브러리만 사용한다.
 
+위 설명은 taxonomy 생성 skill에 해당한다. `data_sample/`을 PersonaPlex 또는 RL-Seamless에
+streaming하고 평가하는 코드는 별도 의존성이 있으며 [baseline README](baselines/README.md)를 따른다.
+
+## Full-duplex moderator baseline
+
+현재 development dataset을 base PersonaPlex와 RL-Seamless에서 동일 조건으로 비교하기 위한 코드가
+`baselines/`에 있다.
+
+- participant와 moderator의 두 audio stream 재구성
+- probe 전에 ground-truth moderator history teacher forcing
+- release 이후 모델 자유 생성
+- speech onset의 rule-based timing 평가
+- moderator 발화 내용용 judge packet 분리
+
+전체 입력·출력 흐름과 실행 예시는 [baselines/README.md](baselines/README.md), 모델 환경은
+[baselines/MODEL_RUNTIME.md](baselines/MODEL_RUNTIME.md)에서 확인할 수 있다.
+
 ## 생성 모드
 
 | 모드 | 언제 쓰나 | 시간 표현 | 자동검사 |
