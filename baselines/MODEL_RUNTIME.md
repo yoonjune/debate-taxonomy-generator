@@ -76,7 +76,10 @@ baselines/.venv-aligner/bin/moderator-bench align-moderator \
 
 The output timestamps are relative to each isolated turn and are stored before
 any PersonaPlex token/frame scheduling. Alignment failures and zero-duration
-word spans are retained as explicit artifacts, not silently repaired.
+word spans are retained as explicit artifacts, not silently edited. A
+zero-duration word is a warning: its token keeps the reported boundary time and
+the normal unique-frame packing rule resolves collisions. Non-monotonic or
+overlapping word spans remain fatal.
 
 Qwen returns English word timestamps, whereas PersonaPlex consumes one
 SentencePiece token per 80-ms frame. The conversion preserves the exact

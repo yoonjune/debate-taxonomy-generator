@@ -69,3 +69,31 @@ def test_alignment_refuses_to_overwrite_run(tmp_path: Path) -> None:
         pass
     else:
         raise AssertionError("prior alignment run was overwritten")
+
+
+class ZeroDurationAligner:
+    def align(self, *, audio: str, text: str, language: str):
+        words = text.split()
+        items = []
+        for index, word in enumerate(words):
+            start = index * 0.1
+            end = start if index == 1 else start + 0.1
+            items.append(SimpleNamespace(text=word, start_time=start, end_time=end))
+        return [FakeAlignmentResult(items)]
+
+
+def test_zero_duration_word_is_preserved_as_nonfatal_warning(tmp_path: Path) -> None:
+    index_path = align_moderator_turns(
+        ROOT / "data_sample",
+        ROOT / "baselines" / "configs" / "aligners" / "qwen3_forced_aligner.json",
+        tmp_path,
+        debate_id="L000",
+        limit=1,
+        aligner_override=ZeroDurationAligner(),
+    )
+    index = json.loads(index_path.read_text())
+    artifact = json.loads((index_path.parent / index["rows"][0]["artifact"]).read_text())
+    assert artifact["quality"]["usable"] is True
+    assert artifact["quality"]["warnings"] == ["ZERO_DURATION_WORD"]
+    assert artifact["quality"]["fatal_flags"] == []
+    assert artifact["words"][1]["start_sec"] == artifact["words"][1]["end_sec"]

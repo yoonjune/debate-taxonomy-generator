@@ -213,7 +213,8 @@ def _normalize_qwen_result(raw: Any) -> list[dict[str, Any]]:
 
 
 def _validate_words(words: list[dict[str, Any]], duration_sec: float) -> dict[str, Any]:
-    flags: list[str] = []
+    warnings: list[str] = []
+    fatal_flags: list[str] = []
     previous_start = -1.0
     previous_end = -1.0
     for index, word in enumerate(words):
@@ -228,14 +229,16 @@ def _validate_words(words: list[dict[str, Any]], duration_sec: float) -> dict[st
                 f"word {index} ends at {end:.3f}s beyond audio duration {duration_sec:.3f}s"
             )
         if end == start:
-            flags.append("ZERO_DURATION_WORD")
+            warnings.append("ZERO_DURATION_WORD")
         if start < previous_end:
-            flags.append("OVERLAPPING_WORD_SPANS")
+            fatal_flags.append("OVERLAPPING_WORD_SPANS")
         previous_start = start
         previous_end = end
     return {
-        "usable": not flags,
-        "flags": sorted(set(flags)),
+        "usable": not fatal_flags,
+        "flags": sorted(set(warnings + fatal_flags)),
+        "warnings": sorted(set(warnings)),
+        "fatal_flags": sorted(set(fatal_flags)),
         "word_count": len(words),
         "aligned_start_sec": words[0]["start_sec"],
         "aligned_end_sec": words[-1]["end_sec"],

@@ -181,6 +181,9 @@ def _turn_token_rows(
             "piece": str(piece.piece),
             "aligned_unit_index": unit,
             "aligned_unit": artifact["words"][unit]["text"],
+            "aligned_unit_zero_duration": (
+                artifact["words"][unit]["start_sec"] == artifact["words"][unit]["end_sec"]
+            ),
         })
     return rows
 
