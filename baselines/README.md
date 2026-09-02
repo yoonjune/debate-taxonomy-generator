@@ -12,8 +12,9 @@
 - model-free fixture를 이용한 end-to-end timing regression
 - deterministic energy-VAD timing score와 content-judge packet
 
-실제 두 checkpoint의 CUDA inference는 GPU 환경에서 별도 smoke test가 필요하다. 현재 macOS
-개발 환경에서는 모델을 실행했다고 주장하지 않는다.
+두 checkpoint의 CUDA runtime smoke는 A100-SXM4 80GB에서 positive 1개와 negative 1개씩
+완료했다. 이는 호환성 확인이지 성능 측정이 아니다. 결과와 한계는
+[RunPod smoke 보고서](reports/2026-09-02_runpod_smoke.md)에 기록했다.
 
 ## 한 probe가 들어가고 나오는 과정
 
@@ -218,5 +219,7 @@ taxonomy action인지 별도 판정한 뒤 `joint_pass`를 계산한다.
 - Energy-VAD threshold는 현재 development 설정이다. 실제 모델 output 몇 편을 사람이 확인한 뒤
   test freeze 전에 고정해야 한다.
 - 현재 10편은 exposed development data다.
-- 모델 context가 전체 debate를 수용하는지는 두 checkpoint CUDA smoke에서 확인해야 한다.
-- RL checkpoint가 pinned NVIDIA runtime에서 실제로 load되는지는 아직 GPU에서 검증되지 않았다.
+- 두 checkpoint 모두 pinned NVIDIA runtime에서 load와 생성은 통과했다. 다만 전체 debate 길이의
+  batch 안정성은 아직 확인하지 않았다.
+- 2-probe smoke에서 두 모델 모두 positive `PREMATURE`, negative `FALSE_POSITIVE`였다. 표본이 너무
+  작고 text-state replay가 불완전하므로 모델 성능 결론으로 일반화하지 않는다.

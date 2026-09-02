@@ -63,3 +63,21 @@ performance.
   change.
 - Commit changes in reviewable units and explain negative results in the commit
   or accompanying documentation.
+
+## Current runtime gate (2026-09-02)
+
+- Both pinned checkpoints completed native CUDA generation on one A100-SXM4
+  80GB with the shared runtime and identical input/decoding settings.
+- This is a runtime compatibility pass only. The two-probe exposed development
+  smoke produced one `PREMATURE` positive and one `FALSE_POSITIVE` negative for
+  each checkpoint; it is not an accuracy estimate.
+- Version 0.1 forces moderator acoustic tokens but samples the parallel text
+  stream before release. Do not run or publish the full 143-probe comparison as
+  a definitive checkpoint baseline until exact text-state replay is implemented
+  or audio-only replay is explicitly retained as a separately named ablation.
+- The next validity gate is a small aligner-backed text-forcing diagnostic plus
+  human listening of boundary audio. Do not tune prompts or VAD thresholds from
+  the full exposed set.
+- Evidence and artifact hashes are in
+  `reports/2026-09-02_runpod_smoke.md`; the decision is versioned in
+  `DECISIONS.md`.
