@@ -87,6 +87,7 @@ class PersonaPlexAdapter:
         output_frames: list[np.ndarray] = []
         text_rows: list[dict[str, Any]] = []
         total_frames = int(np.ceil(len(user) / frame_size))
+        input_step_index = 0
 
         for frame_index in range(total_frames):
             start = frame_index * frame_size
@@ -98,7 +99,7 @@ class PersonaPlexAdapter:
             if user_codes.shape[-1] != teacher_codes.shape[-1]:
                 raise RuntimeError("user and teacher codecs produced different frame counts")
             for code_index in range(user_codes.shape[-1]):
-                force_agent = frame_index < release_frame
+                force_agent = input_step_index < release_frame
                 tokens = lm_gen.step(
                     user_codes[:, :, code_index : code_index + 1],
                     moshi_tokens=(
@@ -106,7 +107,9 @@ class PersonaPlexAdapter:
                     ),
                 )
                 if tokens is None:
+                    input_step_index += 1
                     continue
+                output_frame_index = len(output_frames)
                 pcm = decoder_mimi.decode(tokens[:, 1:9]).detach().cpu().numpy()[0, 0]
                 output_frames.append(pcm.astype(np.float32, copy=False))
                 token_id = int(tokens[0, 0, 0].item())
@@ -114,11 +117,14 @@ class PersonaPlexAdapter:
                 if token_id not in (0, 3):
                     piece = tokenizer.id_to_piece(token_id).replace("▁", " ")
                 text_rows.append({
-                    "time_sec": round(frame_index / user_mimi.frame_rate, 6),
+                    "time_sec": round(output_frame_index / user_mimi.frame_rate, 6),
+                    "output_frame_index": output_frame_index,
+                    "input_step_index": input_step_index,
                     "token_id": token_id,
                     "piece": piece,
-                    "agent_audio_forced": force_agent,
+                    "agent_audio_forced": output_frame_index < release_frame,
                 })
+                input_step_index += 1
 
         output = np.concatenate(output_frames) if output_frames else np.zeros(len(user), dtype=np.float32)
         output = _fit_length(output, len(user))
@@ -141,6 +147,7 @@ class PersonaPlexAdapter:
             "release_sec_effective": release_frame / user_mimi.frame_rate,
             "frame_rate_hz": user_mimi.frame_rate,
             "frame_size_samples": frame_size,
+            "codec_delay_frames": lm_gen.max_delay,
             "torch_version": torch.__version__,
             "python": platform.python_version(),
             "cuda_device": torch.cuda.get_device_name(device) if device.startswith("cuda") else None,

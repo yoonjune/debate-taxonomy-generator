@@ -1,0 +1,5 @@
+# Missing from the pinned PersonaPlex runtime but imported by voice normalization.
+pyloudnorm==0.2.0
+
+# Required when RunPod sets HF_HUB_ENABLE_HF_TRANSFER=1.
+hf_transfer==0.1.9

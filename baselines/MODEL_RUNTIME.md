@@ -19,8 +19,14 @@ python3.10 -m venv .venv-model
 .venv-model/bin/python -m pip install --upgrade pip
 .venv-model/bin/python -m pip install \
   "git+https://github.com/NVIDIA/personaplex.git@3428dfd95309a7f3c84fd93259ded0f810d1ff91#subdirectory=moshi"
+.venv-model/bin/python -m pip install -r requirements-model-extra.txt
 .venv-model/bin/python -m pip install -e .
 ```
+
+The pinned upstream package does not currently declare `pyloudnorm`, although
+voice-prompt loading imports it. RunPod images can also set
+`HF_HUB_ENABLE_HF_TRANSFER=1` without installing `hf_transfer`. Both observed
+runtime dependencies are pinned in `requirements-model-extra.txt`.
 
 Before downloading weights, authenticate with a Hugging Face token whose
 account has accepted both model agreements. Never put the token in a config,
@@ -44,6 +50,10 @@ The parallel moderator text stream is sampled during the acoustic teacher
 prefix. Therefore this is `agent_audio_only`, not exact audio+text state replay.
 Every `generation.json` records that limitation. A later aligner-backed text
 schedule can add exact text-token forcing without changing the input manifest.
+
+`output_text.json` uses the delayed output-frame clock, not the current input
+step. It records both indices because Moshi returns a frame only after its codec
+delay has elapsed.
 
 ## Required compatibility smoke test
 
