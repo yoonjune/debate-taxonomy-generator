@@ -9,6 +9,7 @@ from .audio import materialize_probe
 from .config import read_config
 from .data import Dataset
 from .protocol import make_probe_plan
+from .run import run_probe
 
 
 def _add_common(parser: argparse.ArgumentParser) -> None:
@@ -36,7 +37,17 @@ def main(argv: list[str] | None = None) -> int:
     prepare_parser.add_argument("--probe-id", required=True)
     prepare_parser.add_argument("--output-dir", type=Path, required=True)
 
+    run_parser = sub.add_parser("run", help="run one prepared probe")
+    run_parser.add_argument("--input-manifest", type=Path, required=True)
+    run_parser.add_argument("--model-config", type=Path, required=True)
+    run_parser.add_argument("--output-dir", type=Path, required=True)
+    run_parser.add_argument("--fixture", choices=["oracle_tone", "silence"])
+
     args = parser.parse_args(argv)
+    if args.command == "run":
+        print(run_probe(args.input_manifest, args.model_config, args.output_dir, args.fixture))
+        return 0
+
     dataset = Dataset.load(args.data_root)
     evaluation = read_config(args.evaluation_config)
 
