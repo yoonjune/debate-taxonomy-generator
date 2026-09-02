@@ -112,6 +112,8 @@ class PersonaPlexAdapter:
         text_rows: list[dict[str, Any]] = []
         total_frames = int(np.ceil(len(user) / frame_size))
         input_step_index = 0
+        codec_delay_frames = int(lm_gen.max_delay)
+        verified_teacher_text_frames = 0
 
         for frame_index in range(total_frames):
             start = frame_index * frame_size
@@ -140,23 +142,32 @@ class PersonaPlexAdapter:
                     input_step_index += 1
                     continue
                 output_frame_index = len(output_frames)
+                source_input_frame_index = output_frame_index - codec_delay_frames
+                agent_audio_forced = 0 <= source_input_frame_index < release_frame
+                agent_text_forced = teacher_forcing == "agent_audio_text" and agent_audio_forced
                 pcm = decoder_mimi.decode(tokens[:, 1:9]).detach().cpu().numpy()[0, 0]
                 output_frames.append(pcm.astype(np.float32, copy=False))
                 token_id = int(tokens[0, 0, 0].item())
+                if agent_text_forced:
+                    expected_token_id = int(text_schedule.token_ids[source_input_frame_index])
+                    if token_id != expected_token_id:
+                        raise RuntimeError(
+                            "teacher text replay mismatch at output frame "
+                            f"{output_frame_index}: expected={expected_token_id}, actual={token_id}"
+                        )
+                    verified_teacher_text_frames += 1
                 piece = None
                 if token_id not in (0, 3):
                     piece = tokenizer.id_to_piece(token_id).replace("▁", " ")
                 text_rows.append({
                     "time_sec": round(output_frame_index / user_mimi.frame_rate, 6),
                     "output_frame_index": output_frame_index,
+                    "source_input_frame_index": source_input_frame_index,
                     "input_step_index": input_step_index,
                     "token_id": token_id,
                     "piece": piece,
-                    "agent_audio_forced": output_frame_index < release_frame,
-                    "agent_text_forced": (
-                        teacher_forcing == "agent_audio_text"
-                        and output_frame_index < release_frame
-                    ),
+                    "agent_audio_forced": agent_audio_forced,
+                    "agent_text_forced": agent_text_forced,
                 })
                 input_step_index += 1
 
@@ -168,6 +179,7 @@ class PersonaPlexAdapter:
         sf.write(audio_path, output, user_rate, subtype="PCM_16")
         text_path.write_text(json.dumps(text_rows, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
+        first_free_output_frame = release_frame + codec_delay_frames
         runtime_metadata = {
             "adapter": "personaplex",
             "model_id": model_id,
@@ -185,9 +197,14 @@ class PersonaPlexAdapter:
             "release_sec_requested": release_sec,
             "release_frame": release_frame,
             "release_sec_effective": release_frame / user_mimi.frame_rate,
+            "first_free_output_frame": first_free_output_frame,
+            "release_sec_effective_output": first_free_output_frame / user_mimi.frame_rate,
             "frame_rate_hz": user_mimi.frame_rate,
             "frame_size_samples": frame_size,
-            "codec_delay_frames": lm_gen.max_delay,
+            "codec_delay_frames": codec_delay_frames,
+            "teacher_text_verified_output_frames": (
+                verified_teacher_text_frames if text_schedule else None
+            ),
             "torch_version": torch.__version__,
             "python": platform.python_version(),
             "cuda_device": torch.cuda.get_device_name(device) if device.startswith("cuda") else None,

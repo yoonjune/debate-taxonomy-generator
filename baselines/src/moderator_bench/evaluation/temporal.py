@@ -28,16 +28,22 @@ def score_generation(
     waveform = waveform.mean(axis=1)
     if sample_rate != generation["generation"]["sample_rate"]:
         raise ValueError("generation sample-rate metadata does not match output audio")
+    release_sec = float(plan["release_sec"])
+    runtime_metadata = generation["generation"].get("runtime_metadata") or {}
+    detection_start_sec = max(
+        release_sec,
+        float(runtime_metadata.get("release_sec_effective_output", release_sec)),
+    )
     segments = detect_speech_segments(
         waveform,
         sample_rate,
-        start_sec=float(plan["release_sec"]),
+        start_sec=detection_start_sec,
         end_sec=float(plan["observe_end_sec"]),
         config=evaluation["vad"],
     )
     first_onset = segments[0].start_sec if segments else None
     temporal = _classify(plan, first_onset)
-    generated_text = _generated_text_after_release(generation, float(plan["release_sec"]))
+    generated_text = _generated_text_after_release(generation, detection_start_sec)
     content = _load_content_judgment(content_judgment_path)
 
     if plan["label"] == "none":
@@ -54,6 +60,7 @@ def score_generation(
         "gold": input_manifest["gold"],
         "plan": plan,
         "speech_detection": {
+            "start_sec": detection_start_sec,
             "first_onset_sec": first_onset,
             "segments": [segment.to_dict() for segment in segments],
             "vad_config": evaluation["vad"],
@@ -115,7 +122,11 @@ def _generated_text_after_release(generation: dict[str, Any], release_sec: float
     pieces = [
         row.get("piece") or ""
         for row in value
-        if float(row.get("time_sec", -1)) >= release_sec and row.get("piece")
+        if (
+            float(row.get("time_sec", -1)) >= release_sec
+            and not bool(row.get("agent_text_forced", False))
+            and row.get("piece")
+        )
     ]
     return "".join(pieces).strip() or None
 
