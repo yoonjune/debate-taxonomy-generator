@@ -59,3 +59,17 @@ def test_materialized_agent_stream_is_silent_after_release(tmp_path: Path) -> No
     user, user_rate = sf.read(manifest["input"]["user_audio"], dtype="float32")
     assert user_rate == sample_rate == 24000
     assert np.max(np.abs(user[release_sample:])) > 0.0
+
+
+def test_counterfactual_user_silence_is_disclosed(tmp_path: Path) -> None:
+    dataset = Dataset.load(DATA_ROOT)
+    config = read_config(CONFIG)
+    probe = dataset.probes["L000_p04"]
+    plan = make_probe_plan(probe, config)
+    manifest_path = materialize_probe(dataset, probe, plan, tmp_path)
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+
+    intervention = manifest["input"]["interventions"][0]
+    assert intervention["type"] == "counterfactual_user_silence"
+    assert intervention["source_turn"] == 5
+    assert intervention["start_sec"] < intervention["end_sec"]

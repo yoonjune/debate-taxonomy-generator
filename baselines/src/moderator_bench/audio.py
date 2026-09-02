@@ -72,7 +72,9 @@ def materialize_probe(
     agent_teacher = streams.agent[:end_sample].copy()
     agent_teacher[release_sample:] = 0.0
 
-    _apply_counterfactual_user_silence(user, streams.timeline, probe, plan, sample_rate)
+    interventions = _apply_counterfactual_user_silence(
+        user, streams.timeline, probe, plan, sample_rate
+    )
 
     user_path = probe_dir / "user.wav"
     teacher_path = probe_dir / "agent_teacher.wav"
@@ -95,6 +97,7 @@ def materialize_probe(
             "system_prompt": str(prompt_path.resolve()),
             "moderator_reference_voice": str(voice_path.resolve()),
             "sample_rate": sample_rate,
+            "interventions": interventions,
         },
         "gold": {
             "label": probe["label"],
@@ -119,14 +122,22 @@ def _apply_counterfactual_user_silence(
     probe: dict[str, Any],
     plan: ProbePlan,
     sample_rate: int,
-) -> None:
+) -> list[dict[str, Any]]:
     if probe.get("kind") not in {"event", "content"} or probe.get("label") == "none":
-        return
+        return []
     turns = {int(turn["i"]): turn for turn in timeline["turns"]}
     next_turn = turns.get(int(probe["before_turn"]) + 1)
     if not next_turn or next_turn["speaker"] == "MOD":
-        return
+        return []
     start = int(round(float(next_turn["start_sec"]) * sample_rate))
     end = min(len(user), int(round(plan.decision_latest_sec * sample_rate)))
     if end > start:
         user[start:end] = 0.0
+        return [{
+            "type": "counterfactual_user_silence",
+            "reason": "reserve the labeled moderator response window",
+            "source_turn": int(next_turn["i"]),
+            "start_sec": round(start / sample_rate, 6),
+            "end_sec": round(end / sample_rate, 6),
+        }]
+    return []
