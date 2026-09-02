@@ -1,5 +1,36 @@
 # Baseline decision log
 
+## 2026-09-03 — aligned text replay GO, moderator performance HOLD
+
+### 관찰
+
+- Qwen3 ForcedAligner가 `L000`, `L009`의 moderator turn을 각각 10/10 정렬했다.
+- base와 RL-Seamless 모두 동일 dense schedule을 사용했고, release 전 반환 text token이
+  `L000_p02` 419/419 frame, `L009_p08` 955/955 frame에서 schedule과 일치했다.
+- PersonaPlex codec은 schedule 입력보다 출력을 1 frame(0.08s) 늦게 반환했다. 이 지연을 반영해
+  평가를 다시 실행했다.
+- 2-probe 결과는 base가 `ON_TIME`/`FALSE_POSITIVE`, RL-Seamless가
+  `PREMATURE`/`FALSE_POSITIVE`였다.
+
+### 결정
+
+- Qwen-aligned `agent_audio_text` replay 구현과 frame-level prefix 검증은 runtime gate를 통과했다.
+- full exposed development batch와 moderator 성능 판단은 계속 `HOLD`한다.
+- 다음 gate는 release 경계와 zero-duration 정렬의 human listening/inspection, 그리고 작은 고정
+  subset의 paired audio-only 대 audio+text diagnostic이다.
+- codec delay를 제외하지 않은 과거 score는 새 score와 섞지 않는다.
+
+### 이유
+
+동일 schedule을 실제 반환 token과 대조했으므로 과거 moderator text state가 두 checkpoint에 같은
+방식으로 입력됐다는 것은 확인했다. 하지만 2개 exposed probe 중 negative 오류는 남았고 content를
+사람이 검수하지 않았으므로 성능 개선이나 checkpoint 우열의 근거로 사용할 수 없다.
+
+### 근거
+
+- 코드: `ba924146def82f478327445f4cd3b8f9ee36532c`
+- 상세 조건과 artifact hash: `reports/2026-09-03_qwen_aligned_smoke.md`
+
 ## 2026-09-02 — Qwen zero-duration word policy
 
 ### 관찰

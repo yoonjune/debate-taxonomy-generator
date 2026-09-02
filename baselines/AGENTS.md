@@ -81,3 +81,16 @@ performance.
 - Evidence and artifact hashes are in
   `reports/2026-09-02_runpod_smoke.md`; the decision is versioned in
   `DECISIONS.md`.
+
+## Current aligned-replay gate (2026-09-03)
+
+- Pinned Qwen3 ForcedAligner preprocessing and `agent_audio_text` replay are implemented.
+- On the fixed two-probe exposed diagnostic, both checkpoints returned the exact forced text prefix:
+  419/419 frames for `L000_p02` and 955/955 frames for `L009_p08`.
+- PersonaPlex has a one-frame codec delay. Temporal VAD and generated-text evaluation must begin at
+  `release_sec_effective_output`, not at the unshifted input release frame.
+- This is a replay-protocol `GO`, not a model-performance pass. The diagnostic still contains a
+  `FALSE_POSITIVE` for both checkpoints and a `PREMATURE` positive for RL-Seamless.
+- Do not start the full exposed batch until release-boundary audio and representative Qwen
+  zero-duration alignments receive human inspection. Preserve audio-only as a named ablation.
+- Evidence and hashes are in `reports/2026-09-03_qwen_aligned_smoke.md`.
