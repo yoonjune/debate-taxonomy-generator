@@ -6,12 +6,13 @@ from collections import Counter
 from pathlib import Path
 
 from .audio import materialize_probe
+from .batch import prepare_batch, run_batch, score_batch
 from .config import read_config
 from .data import Dataset
-from .protocol import make_probe_plan
-from .run import run_probe
 from .evaluation.aggregate import aggregate_scores
 from .evaluation.temporal import score_generation
+from .protocol import make_probe_plan
+from .run import run_probe
 
 
 def _add_common(parser: argparse.ArgumentParser) -> None:
@@ -57,6 +58,27 @@ def main(argv: list[str] | None = None) -> int:
     aggregate_parser = sub.add_parser("aggregate", help="aggregate score JSON files")
     aggregate_parser.add_argument("scores", nargs="+", type=Path)
 
+    prepare_batch_parser = sub.add_parser("prepare-batch", help="prepare multiple probe inputs")
+    _add_common(prepare_batch_parser)
+    prepare_batch_parser.add_argument("--output-dir", type=Path, required=True)
+    prepare_batch_parser.add_argument("--debate-id")
+    prepare_batch_parser.add_argument("--label")
+    prepare_batch_parser.add_argument("--limit", type=int)
+
+    run_batch_parser = sub.add_parser("run-batch", help="run prepared probes with one loaded model")
+    run_batch_parser.add_argument("--batch-input", type=Path, required=True)
+    run_batch_parser.add_argument("--model-config", type=Path, required=True)
+    run_batch_parser.add_argument("--output-dir", type=Path, required=True)
+    run_batch_parser.add_argument("--fixture", choices=["oracle_tone", "silence"])
+
+    score_batch_parser = sub.add_parser("score-batch", help="score every successful batch output")
+    score_batch_parser.add_argument("--batch-run", type=Path, required=True)
+    score_batch_parser.add_argument(
+        "--evaluation-config",
+        type=Path,
+        default=Path(__file__).resolve().parents[2] / "configs" / "evaluation.json",
+    )
+
     args = parser.parse_args(argv)
     if args.command == "run":
         print(run_probe(args.input_manifest, args.model_config, args.output_dir, args.fixture))
@@ -66,6 +88,12 @@ def main(argv: list[str] | None = None) -> int:
         return 0
     if args.command == "aggregate":
         print(json.dumps(aggregate_scores(args.scores), indent=2, ensure_ascii=False))
+        return 0
+    if args.command == "run-batch":
+        print(run_batch(args.batch_input, args.model_config, args.output_dir, args.fixture))
+        return 0
+    if args.command == "score-batch":
+        print(score_batch(args.batch_run, args.evaluation_config))
         return 0
 
     dataset = Dataset.load(args.data_root)
@@ -81,6 +109,16 @@ def main(argv: list[str] | None = None) -> int:
             "labels": dict(sorted(labels.items())),
             "kinds": dict(sorted(kinds.items())),
         }, indent=2, ensure_ascii=False))
+        return 0
+    if args.command == "prepare-batch":
+        print(prepare_batch(
+            args.data_root,
+            args.evaluation_config,
+            args.output_dir,
+            debate_id=args.debate_id,
+            label=args.label,
+            limit=args.limit,
+        ))
         return 0
 
     probe = dataset.probes[args.probe_id]

@@ -25,61 +25,40 @@ class PersonaPlexAdapter:
     manifest; it must not be described as exact audio+text state replay.
     """
 
+    def __init__(self) -> None:
+        self._loaded_key: tuple[str, str, str, bool] | None = None
+        self._runtime: dict[str, Any] | None = None
+
     def generate(
         self,
         manifest: dict[str, Any],
         model_config: dict[str, Any],
         output_dir: Path,
     ) -> GenerationResult:
-        torch, sentencepiece, sphn, hf_hub_download, loaders, LMGen, helpers = _lazy_runtime_imports()
         started = time.monotonic()
         device = model_config.get("device", "cuda")
-        if device.startswith("cuda") and not torch.cuda.is_available():
-            raise RuntimeError("PersonaPlex baseline requires CUDA; no CUDA device is available")
-
-        seed = int(model_config["seed"])
-        _seed_all(torch, seed)
         model_id = model_config["model_id"]
-        revision = model_config["revision"]
+        revision = model_config.get("revision")
         if not revision:
             raise ValueError("model revision must be pinned")
+        seed = int(model_config["seed"])
 
-        model_paths = {
-            "mimi": hf_hub_download(model_id, loaders.MIMI_NAME, revision=revision),
-            "moshi": hf_hub_download(model_id, loaders.MOSHI_NAME, revision=revision),
-            "tokenizer": hf_hub_download(model_id, loaders.TEXT_TOKENIZER_NAME, revision=revision),
-        }
-        tokenizer = sentencepiece.SentencePieceProcessor(model_paths["tokenizer"])
+        runtime = self._load_runtime(model_config)
+        torch = runtime["torch"]
+        _seed_all(torch, seed)
 
         cpu_offload = bool(model_config.get("cpu_offload", False))
-        user_mimi = loaders.get_mimi(model_paths["mimi"], device)
-        teacher_mimi = loaders.get_mimi(model_paths["mimi"], device)
-        decoder_mimi = loaders.get_mimi(model_paths["mimi"], device)
-        lm = loaders.get_moshi_lm(model_paths["moshi"], device=device, cpu_offload=cpu_offload)
-        lm.eval()
-
-        frame_size = int(user_mimi.sample_rate / user_mimi.frame_rate)
-        lm_gen = LMGen(
-            lm,
-            device=device,
-            sample_rate=user_mimi.sample_rate,
-            frame_rate=user_mimi.frame_rate,
-            audio_silence_frame_cnt=int(0.5 * user_mimi.frame_rate),
-            use_sampling=not bool(model_config.get("greedy", False)),
-            temp=float(model_config["audio_temperature"]),
-            temp_text=float(model_config["text_temperature"]),
-            top_k=int(model_config["audio_top_k"]),
-            top_k_text=int(model_config["text_top_k"]),
-        )
-        user_mimi.streaming_forever(1)
-        teacher_mimi.streaming_forever(1)
-        decoder_mimi.streaming_forever(1)
-        lm_gen.streaming_forever(1)
+        user_mimi = runtime["user_mimi"]
+        teacher_mimi = runtime["teacher_mimi"]
+        decoder_mimi = runtime["decoder_mimi"]
+        lm_gen = runtime["lm_gen"]
+        tokenizer = runtime["tokenizer"]
+        frame_size = runtime["frame_size"]
 
         system_prompt = Path(manifest["input"]["system_prompt"]).read_text(encoding="utf-8").strip()
         voice_prompt = manifest["input"]["moderator_reference_voice"]
         lm_gen.load_voice_prompt(voice_prompt)
-        lm_gen.text_prompt_tokens = tokenizer.encode(helpers["wrap_with_system_tags"](system_prompt))
+        lm_gen.text_prompt_tokens = tokenizer.encode(runtime["wrap_with_system_tags"](system_prompt))
 
         user_mimi.reset_streaming()
         teacher_mimi.reset_streaming()
@@ -174,6 +153,61 @@ class PersonaPlexAdapter:
             wall_time_sec=time.monotonic() - started,
             runtime_metadata=runtime_metadata,
         )
+
+    def _load_runtime(self, model_config: dict[str, Any]) -> dict[str, Any]:
+        device = model_config.get("device", "cuda")
+        model_id = model_config["model_id"]
+        revision = model_config["revision"]
+        cpu_offload = bool(model_config.get("cpu_offload", False))
+        key = (model_id, revision, device, cpu_offload)
+        if self._runtime is not None:
+            if key != self._loaded_key:
+                raise RuntimeError("one PersonaPlexAdapter instance cannot switch checkpoints")
+            return self._runtime
+
+        torch, sentencepiece, _sphn, hf_hub_download, loaders, LMGen, helpers = _lazy_runtime_imports()
+        if device.startswith("cuda") and not torch.cuda.is_available():
+            raise RuntimeError("PersonaPlex baseline requires CUDA; no CUDA device is available")
+        model_paths = {
+            "mimi": hf_hub_download(model_id, loaders.MIMI_NAME, revision=revision),
+            "moshi": hf_hub_download(model_id, loaders.MOSHI_NAME, revision=revision),
+            "tokenizer": hf_hub_download(model_id, loaders.TEXT_TOKENIZER_NAME, revision=revision),
+        }
+        tokenizer = sentencepiece.SentencePieceProcessor(model_paths["tokenizer"])
+        user_mimi = loaders.get_mimi(model_paths["mimi"], device)
+        teacher_mimi = loaders.get_mimi(model_paths["mimi"], device)
+        decoder_mimi = loaders.get_mimi(model_paths["mimi"], device)
+        lm = loaders.get_moshi_lm(model_paths["moshi"], device=device, cpu_offload=cpu_offload)
+        lm.eval()
+        frame_size = int(user_mimi.sample_rate / user_mimi.frame_rate)
+        lm_gen = LMGen(
+            lm,
+            device=device,
+            sample_rate=user_mimi.sample_rate,
+            frame_rate=user_mimi.frame_rate,
+            audio_silence_frame_cnt=int(0.5 * user_mimi.frame_rate),
+            use_sampling=not bool(model_config.get("greedy", False)),
+            temp=float(model_config["audio_temperature"]),
+            temp_text=float(model_config["text_temperature"]),
+            top_k=int(model_config["audio_top_k"]),
+            top_k_text=int(model_config["text_top_k"]),
+        )
+        user_mimi.streaming_forever(1)
+        teacher_mimi.streaming_forever(1)
+        decoder_mimi.streaming_forever(1)
+        lm_gen.streaming_forever(1)
+        self._loaded_key = key
+        self._runtime = {
+            "torch": torch,
+            "tokenizer": tokenizer,
+            "user_mimi": user_mimi,
+            "teacher_mimi": teacher_mimi,
+            "decoder_mimi": decoder_mimi,
+            "lm_gen": lm_gen,
+            "frame_size": frame_size,
+            "wrap_with_system_tags": helpers["wrap_with_system_tags"],
+        }
+        return self._runtime
 
 
 def _lazy_runtime_imports():

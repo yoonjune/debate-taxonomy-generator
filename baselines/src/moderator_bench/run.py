@@ -1,15 +1,14 @@
 from __future__ import annotations
 
 import json
-import os
 import platform
 import subprocess
 from pathlib import Path
-from typing import Any
 
 from .adapters import FixtureAdapter, PersonaPlexAdapter
+from .adapters.base import ModelAdapter
 from .config import read_config
-from .data import sha256_file, sha256_text
+from .data import sha256_file
 
 
 def run_probe(
@@ -17,6 +16,7 @@ def run_probe(
     model_config_path: str | Path,
     output_dir: str | Path,
     fixture_mode: str | None = None,
+    adapter_override: ModelAdapter | None = None,
 ) -> Path:
     input_manifest_path = Path(input_manifest_path).resolve()
     model_config_path = Path(model_config_path).resolve()
@@ -24,7 +24,12 @@ def run_probe(
     manifest = read_config(input_manifest_path)
     model_config = read_config(model_config_path)
 
-    if fixture_mode:
+    if adapter_override is not None:
+        adapter = adapter_override
+        run_name = (
+            f"fixture_{fixture_mode}" if fixture_mode else model_config["model_id"].replace("/", "__")
+        )
+    elif fixture_mode:
         adapter = FixtureAdapter(fixture_mode)
         run_name = f"fixture_{fixture_mode}"
     elif model_config["adapter"] == "personaplex":
