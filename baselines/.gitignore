@@ -1,4 +1,4 @@
-.venv/
+.venv*/
 artifacts/
 outputs/
 *.egg-info/
