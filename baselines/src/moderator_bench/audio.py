@@ -10,6 +10,7 @@ import soundfile as sf
 
 from .data import Dataset, sha256_file, sha256_text
 from .protocol import ProbePlan
+from .text_replay import attach_moderator_alignments
 
 
 @dataclass(frozen=True)
@@ -61,6 +62,7 @@ def materialize_probe(
     plan: ProbePlan,
     output_dir: str | Path,
     sample_rate: int = 24000,
+    alignment_index_path: str | Path | None = None,
 ) -> Path:
     output_dir = Path(output_dir)
     probe_dir = output_dir / plan.probe_id
@@ -87,8 +89,15 @@ def materialize_probe(
     voice_id = dataset.debates[plan.debate_id]["speakers"]["MOD"]["voice_id"]
     voice_path = dataset.voice_path(voice_id)
 
+    text_alignment = (
+        attach_moderator_alignments(
+            dataset, plan.debate_id, plan.release_sec, alignment_index_path
+        )
+        if alignment_index_path is not None
+        else None
+    )
     manifest = {
-        "schema_version": "0.1",
+        "schema_version": "0.2" if text_alignment is not None else "0.1",
         "plan": plan.to_dict(),
         "input": {
             "user_audio": str(user_path.resolve()),
@@ -98,6 +107,7 @@ def materialize_probe(
             "moderator_reference_voice": str(voice_path.resolve()),
             "sample_rate": sample_rate,
             "interventions": interventions,
+            "moderator_text_alignment": text_alignment,
         },
         "gold": {
             "label": probe["label"],

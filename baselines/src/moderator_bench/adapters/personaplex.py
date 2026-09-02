@@ -10,6 +10,8 @@ from typing import Any
 import numpy as np
 import soundfile as sf
 
+from ..data import sha256_file
+from ..text_replay import build_text_replay_schedule
 from .base import GenerationResult
 
 
@@ -20,9 +22,8 @@ class PersonaPlexAdapter:
     audio is always supplied to the user codec. Ground-truth moderator audio is
     supplied to the agent codec only before `teacher_forcing_until_sec`.
 
-    Version 0.1 forces agent acoustic tokens. The parallel text stream remains
-    model-generated and is recorded. This limitation is explicit in every run
-    manifest; it must not be described as exact audio+text state replay.
+    `agent_audio_only` reproduces version 0.1. `agent_audio_text` additionally
+    forces a dense, aligner-backed moderator text schedule before release.
     """
 
     def __init__(self) -> None:
@@ -54,6 +55,9 @@ class PersonaPlexAdapter:
         lm_gen = runtime["lm_gen"]
         tokenizer = runtime["tokenizer"]
         frame_size = runtime["frame_size"]
+        teacher_forcing = model_config["teacher_forcing"]
+        if teacher_forcing not in {"agent_audio_only", "agent_audio_text"}:
+            raise ValueError(f"unknown teacher_forcing mode: {teacher_forcing}")
 
         system_prompt = Path(manifest["input"]["system_prompt"]).read_text(encoding="utf-8").strip()
         voice_prompt = manifest["input"]["moderator_reference_voice"]
@@ -84,6 +88,26 @@ class PersonaPlexAdapter:
 
         release_sec = float(manifest["input"]["teacher_forcing_until_sec"])
         release_frame = int(np.floor(release_sec * user_mimi.frame_rate))
+        text_schedule = None
+        schedule_path = None
+        if teacher_forcing == "agent_audio_text":
+            alignment_input = manifest["input"].get("moderator_text_alignment")
+            if alignment_input is None:
+                raise ValueError("agent_audio_text requires moderator_text_alignment in input manifest")
+            text_schedule = build_text_replay_schedule(
+                alignment_input,
+                tokenizer,
+                frame_rate_hz=user_mimi.frame_rate,
+                release_sec=release_sec,
+            )
+            if text_schedule.release_frame != release_frame:
+                raise RuntimeError("text and audio release frames differ")
+            output_dir.mkdir(parents=True, exist_ok=True)
+            schedule_path = output_dir / "teacher_text_schedule.json"
+            schedule_path.write_text(
+                json.dumps(text_schedule.artifact(), indent=2, ensure_ascii=False) + "\n",
+                encoding="utf-8",
+            )
         output_frames: list[np.ndarray] = []
         text_rows: list[dict[str, Any]] = []
         total_frames = int(np.ceil(len(user) / frame_size))
@@ -100,11 +124,17 @@ class PersonaPlexAdapter:
                 raise RuntimeError("user and teacher codecs produced different frame counts")
             for code_index in range(user_codes.shape[-1]):
                 force_agent = input_step_index < release_frame
+                forced_text_token = (
+                    text_schedule.token_ids[input_step_index]
+                    if force_agent and text_schedule is not None
+                    else None
+                )
                 tokens = lm_gen.step(
                     user_codes[:, :, code_index : code_index + 1],
                     moshi_tokens=(
                         teacher_codes[:, :, code_index : code_index + 1] if force_agent else None
                     ),
+                    text_token=forced_text_token,
                 )
                 if tokens is None:
                     input_step_index += 1
@@ -123,6 +153,10 @@ class PersonaPlexAdapter:
                     "token_id": token_id,
                     "piece": piece,
                     "agent_audio_forced": output_frame_index < release_frame,
+                    "agent_text_forced": (
+                        teacher_forcing == "agent_audio_text"
+                        and output_frame_index < release_frame
+                    ),
                 })
                 input_step_index += 1
 
@@ -141,7 +175,13 @@ class PersonaPlexAdapter:
             "device": device,
             "cpu_offload": cpu_offload,
             "seed": seed,
-            "teacher_forcing": "agent_audio_only",
+            "teacher_forcing": teacher_forcing,
+            "teacher_text_schedule": str(schedule_path.resolve()) if schedule_path else None,
+            "teacher_text_schedule_sha256": sha256_file(schedule_path) if schedule_path else None,
+            "teacher_text_dense_sha256": text_schedule.sha256 if text_schedule else None,
+            "teacher_text_lexical_tokens": (
+                len(text_schedule.lexical_rows) if text_schedule else None
+            ),
             "release_sec_requested": release_sec,
             "release_frame": release_frame,
             "release_sec_effective": release_frame / user_mimi.frame_rate,

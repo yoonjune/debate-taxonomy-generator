@@ -21,6 +21,7 @@ def prepare_batch(
     debate_id: str | None = None,
     label: str | None = None,
     limit: int | None = None,
+    alignment_index_path: str | Path | None = None,
 ) -> Path:
     dataset = Dataset.load(data_root)
     evaluation = read_config(evaluation_config_path)
@@ -35,13 +36,22 @@ def prepare_batch(
     manifests = []
     for probe in selected:
         plan = make_probe_plan(probe, evaluation)
-        manifests.append(str(materialize_probe(dataset, probe, plan, output_dir).resolve()))
+        manifests.append(str(materialize_probe(
+            dataset,
+            probe,
+            plan,
+            output_dir,
+            alignment_index_path=alignment_index_path,
+        ).resolve()))
     batch = {
         "schema_version": "0.1",
         "data_root": str(dataset.root),
         "debates_sha256": sha256_file(dataset.root / "debates.jsonl"),
         "probes_sha256": sha256_file(dataset.root / "probes.jsonl"),
         "filters": {"debate_id": debate_id, "label": label, "limit": limit},
+        "alignment_index": (
+            str(Path(alignment_index_path).resolve()) if alignment_index_path is not None else None
+        ),
         "n": len(manifests),
         "input_manifests": manifests,
     }

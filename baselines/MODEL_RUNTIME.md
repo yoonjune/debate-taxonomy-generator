@@ -48,8 +48,9 @@ after release:  user audio forced + moderator acoustic/text tokens sampled
 
 The parallel moderator text stream is sampled during the acoustic teacher
 prefix. Therefore this is `agent_audio_only`, not exact audio+text state replay.
-Every `generation.json` records that limitation. A later aligner-backed text
-schedule can add exact text-token forcing without changing the input manifest.
+Every `generation.json` records that limitation. `agent_audio_text` instead
+forces PAD on silent moderator frames and the known moderator text tokens on a
+deterministic Qwen-aligned schedule before release.
 
 ## Qwen forced-alignment runtime
 
@@ -76,6 +77,28 @@ baselines/.venv-aligner/bin/moderator-bench align-moderator \
 The output timestamps are relative to each isolated turn and are stored before
 any PersonaPlex token/frame scheduling. Alignment failures and zero-duration
 word spans are retained as explicit artifacts, not silently repaired.
+
+Qwen returns English word timestamps, whereas PersonaPlex consumes one
+SentencePiece token per 80-ms frame. The conversion preserves the exact
+PersonaPlex token sequence and deterministically distributes subword and
+punctuation tokens within the aligned word span. It is therefore an
+aligner-backed replay, not a directly observed frame-level gold annotation.
+
+Attach the alignment index while preparing the probe, then select the explicit
+audio+text model config:
+
+```bash
+baselines/.venv-model/bin/moderator-bench prepare \
+  --data-root data_sample \
+  --probe-id L000_p02 \
+  --alignment-index baselines/artifacts/alignments/qwen3-v1/alignment_index.json \
+  --output-dir baselines/artifacts/prepared-audio-text
+
+baselines/.venv-model/bin/moderator-bench run \
+  --input-manifest baselines/artifacts/prepared-audio-text/L000_p02/input_manifest.json \
+  --model-config baselines/configs/models/personaplex_base_audio_text.json \
+  --output-dir baselines/artifacts/runs-audio-text
+```
 
 `output_text.json` uses the delayed output-frame clock, not the current input
 step. It records both indices because Moshi returns a frame only after its codec

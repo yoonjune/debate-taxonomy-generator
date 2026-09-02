@@ -40,6 +40,7 @@ def main(argv: list[str] | None = None) -> int:
     _add_common(prepare_parser)
     prepare_parser.add_argument("--probe-id", required=True)
     prepare_parser.add_argument("--output-dir", type=Path, required=True)
+    prepare_parser.add_argument("--alignment-index", type=Path)
 
     run_parser = sub.add_parser("run", help="run one prepared probe")
     run_parser.add_argument("--input-manifest", type=Path, required=True)
@@ -65,6 +66,7 @@ def main(argv: list[str] | None = None) -> int:
     prepare_batch_parser.add_argument("--debate-id")
     prepare_batch_parser.add_argument("--label")
     prepare_batch_parser.add_argument("--limit", type=int)
+    prepare_batch_parser.add_argument("--alignment-index", type=Path)
 
     align_parser = sub.add_parser(
         "align-moderator", help="align isolated moderator turns with Qwen3 ForcedAligner"
@@ -144,6 +146,7 @@ def main(argv: list[str] | None = None) -> int:
             debate_id=args.debate_id,
             label=args.label,
             limit=args.limit,
+            alignment_index_path=args.alignment_index,
         ))
         return 0
 
@@ -158,7 +161,13 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     if args.command == "prepare":
-        manifest = materialize_probe(dataset, probe, plan, args.output_dir)
+        manifest = materialize_probe(
+            dataset,
+            probe,
+            plan,
+            args.output_dir,
+            alignment_index_path=args.alignment_index,
+        )
         print(manifest)
         return 0
     raise AssertionError(args.command)

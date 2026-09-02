@@ -170,6 +170,16 @@ RL-Seamless:
 
 checkpoint 외 prompt, voice, release, seed와 decoding 값은 동일하다.
 
+Qwen alignment를 붙인 진단에서는 `prepare`에 `--alignment-index`를 주고 다음 config를 사용한다.
+
+- `personaplex_base_audio_text.json`
+- `personaplex_rl_seamless_audio_text.json`
+
+이 모드는 release 이전 MOD 음성뿐 아니라 text stream의 PAD와 PersonaPlex text token도 강제한다.
+Qwen의 word timestamp 안에서 여러 SentencePiece token을 배치하는 규칙은 결정론적이지만, 사람이
+직접 표시한 frame-level gold는 아니다. 실제 token 배치는 각 run의
+`teacher_text_schedule.json`에 보존된다.
+
 배치 실행에서는 checkpoint를 probe마다 다시 읽지 않고 한 번만 load한다.
 
 ```bash
@@ -193,6 +203,7 @@ probe 하나가 실패해도 자동 재시도하거나 결과를 버리지 않�
 baselines/artifacts/runs/<model>/<probe_id>/
 ├── output.wav               teacher prefix + release 이후 생성 audio
 ├── output_text.json         frame별 text token과 forced 여부
+├── teacher_text_schedule.json  audio+text 모드의 강제 token·frame 근거
 ├── generation.json          model/code/input/output hash와 runtime 정보
 ├── score.json               speech onset과 temporal 판정
 └── judge_packet.json        내용 평가 입력
@@ -214,8 +225,8 @@ taxonomy action인지 별도 판정한 뒤 `joint_pass`를 계산한다.
 
 ## 알려진 구현 한계
 
-- v0.1 teacher forcing은 moderator **acoustic token**을 강제한다. 병렬 text token은 모델이
-  생성하므로 exact audio+text state replay가 아니다.
+- `agent_audio_only`는 moderator acoustic token만 강제한다. `agent_audio_text`는 Qwen word
+  alignment에서 만든 deterministic text schedule까지 강제한다. 둘을 같은 실험으로 섞지 않는다.
 - Energy-VAD threshold는 현재 development 설정이다. 실제 모델 output 몇 편을 사람이 확인한 뒤
   test freeze 전에 고정해야 한다.
 - 현재 10편은 exposed development data다.

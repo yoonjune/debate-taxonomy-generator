@@ -4,7 +4,7 @@
   "revision": "3fa800309a4b743a8a6d764253eb45def0334afc",
   "runtime_family": "moshi_personaplex",
   "sample_rate": 24000,
-  "teacher_forcing": "agent_audio_only",
+  "teacher_forcing": "agent_audio_text",
   "seed": 42424242,
   "audio_temperature": 0.8,
   "text_temperature": 0.7,

@@ -113,7 +113,7 @@ def align_moderator_turns(
                 "debate_id": selection.debate_id,
                 "turn_index": selection.turn_index,
                 "status": "ALIGNED",
-                "artifact": str(artifact_path),
+                "artifact": str(artifact_path.relative_to(output_dir)),
                 "quality_flags": quality["flags"],
             })
         except Exception as exc:  # Preserve failures and continue without changing settings.
@@ -138,7 +138,7 @@ def align_moderator_turns(
                 "debate_id": selection.debate_id,
                 "turn_index": selection.turn_index,
                 "status": "ERROR",
-                "artifact": str(failure_path),
+                "artifact": str(failure_path.relative_to(output_dir)),
                 "error_type": type(exc).__name__,
                 "error": str(exc),
             })
@@ -186,9 +186,10 @@ def _select_moderator_turns(
 def _normalize_qwen_result(raw: Any) -> list[dict[str, Any]]:
     if not isinstance(raw, (list, tuple)) or len(raw) != 1:
         raise ValueError("Qwen aligner must return exactly one result for one audio/text pair")
-    items = raw[0]
-    if not isinstance(items, (list, tuple)):
-        raise TypeError("Qwen alignment result must contain a list of timestamp items")
+    try:
+        items = list(raw[0])
+    except TypeError as exc:
+        raise TypeError("Qwen alignment result must contain iterable timestamp items") from exc
     words = []
     for item in items:
         if isinstance(item, dict):
@@ -255,6 +256,7 @@ def _validate_aligner_config(config: dict[str, Any]) -> None:
 def _load_qwen_aligner(config: dict[str, Any]) -> ForcedAligner:
     try:
         import torch
+        from huggingface_hub import snapshot_download
         from qwen_asr import Qwen3ForcedAligner
     except ImportError as exc:
         raise RuntimeError(
@@ -262,9 +264,12 @@ def _load_qwen_aligner(config: dict[str, Any]) -> ForcedAligner:
             "in an isolated environment."
         ) from exc
     dtype = getattr(torch, config["dtype"])
-    return Qwen3ForcedAligner.from_pretrained(
-        config["model_id"],
+    snapshot_path = snapshot_download(
+        repo_id=config["model_id"],
         revision=config["revision"],
+    )
+    return Qwen3ForcedAligner.from_pretrained(
+        snapshot_path,
         dtype=dtype,
         device_map=config["device_map"],
     )
