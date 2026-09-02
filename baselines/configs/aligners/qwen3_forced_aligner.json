@@ -1,0 +1,9 @@
+{
+  "model_id": "Qwen/Qwen3-ForcedAligner-0.6B",
+  "revision": "c7cbfc2048c462b0d63a45797104fc9db3ad62b7",
+  "package": "qwen-asr",
+  "package_version": "0.0.6",
+  "language": "English",
+  "device_map": "cuda:0",
+  "dtype": "bfloat16"
+}

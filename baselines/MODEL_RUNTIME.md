@@ -51,6 +51,32 @@ prefix. Therefore this is `agent_audio_only`, not exact audio+text state replay.
 Every `generation.json` records that limitation. A later aligner-backed text
 schedule can add exact text-token forcing without changing the input manifest.
 
+## Qwen forced-alignment runtime
+
+Keep the aligner separate from the pinned PersonaPlex environment, as the Qwen
+project recommends an isolated environment and may require a newer Transformers
+stack:
+
+```bash
+python3 -m venv baselines/.venv-aligner
+baselines/.venv-aligner/bin/pip install -r baselines/requirements-aligner.txt
+baselines/.venv-aligner/bin/pip install -e baselines
+```
+
+The committed config pins `Qwen/Qwen3-ForcedAligner-0.6B`, its model revision,
+and `qwen-asr`. Alignment is a one-time preprocessing step over isolated
+moderator turns:
+
+```bash
+baselines/.venv-aligner/bin/moderator-bench align-moderator \
+  --data-root data_sample \
+  --output-dir baselines/artifacts/alignments/qwen3-v1
+```
+
+The output timestamps are relative to each isolated turn and are stored before
+any PersonaPlex token/frame scheduling. Alignment failures and zero-duration
+word spans are retained as explicit artifacts, not silently repaired.
+
 `output_text.json` uses the delayed output-frame clock, not the current input
 step. It records both indices because Moshi returns a frame only after its codec
 delay has elapsed.

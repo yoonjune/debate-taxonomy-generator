@@ -5,6 +5,7 @@ import json
 from collections import Counter
 from pathlib import Path
 
+from .alignment import align_moderator_turns
 from .audio import materialize_probe
 from .batch import prepare_batch, run_batch, score_batch
 from .config import read_config
@@ -65,6 +66,22 @@ def main(argv: list[str] | None = None) -> int:
     prepare_batch_parser.add_argument("--label")
     prepare_batch_parser.add_argument("--limit", type=int)
 
+    align_parser = sub.add_parser(
+        "align-moderator", help="align isolated moderator turns with Qwen3 ForcedAligner"
+    )
+    align_parser.add_argument("--data-root", type=Path, required=True)
+    align_parser.add_argument(
+        "--aligner-config",
+        type=Path,
+        default=Path(__file__).resolve().parents[2]
+        / "configs"
+        / "aligners"
+        / "qwen3_forced_aligner.json",
+    )
+    align_parser.add_argument("--output-dir", type=Path, required=True)
+    align_parser.add_argument("--debate-id")
+    align_parser.add_argument("--limit", type=int)
+
     run_batch_parser = sub.add_parser("run-batch", help="run prepared probes with one loaded model")
     run_batch_parser.add_argument("--batch-input", type=Path, required=True)
     run_batch_parser.add_argument("--model-config", type=Path, required=True)
@@ -94,6 +111,15 @@ def main(argv: list[str] | None = None) -> int:
         return 0
     if args.command == "score-batch":
         print(score_batch(args.batch_run, args.evaluation_config))
+        return 0
+    if args.command == "align-moderator":
+        print(align_moderator_turns(
+            args.data_root,
+            args.aligner_config,
+            args.output_dir,
+            debate_id=args.debate_id,
+            limit=args.limit,
+        ))
         return 0
 
     dataset = Dataset.load(args.data_root)
