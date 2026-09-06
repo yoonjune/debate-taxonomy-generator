@@ -185,31 +185,102 @@ touch. It is kept pristine. If a change ever becomes necessary it goes into a si
 overlay of symlinks with only the changed python file replaced, so a `diff` against the
 pristine copy is the entire record.
 
-## What was actually run
+## Prefill: giving the model its own past
 
-Not the full set. Four probes of `L000` on one A6000, seed 0, everything else official.
-The numbers below are what this branch has been exercised on, and nothing more.
+By default the moderator's earlier turns reach the model as audio on the **input**
+channel, because that is what `make_probe_audio.py` produces. The model hears its own
+past as a third party and does not know it has already spoken, and it shows: both models
+open every probe by announcing the debate format, since `system_prompt.md` says to do
+that at the start and every probe begins mid debate where the format was already
+announced. A model that follows the prompt is punished for it.
+
+`--prefill` does the other thing. The moderator's earlier turns go into the **assistant**
+channel, chunk by chunk, as if the model had generated them, and the input is rebuilt
+from the debaters alone.
+
+```bash
+CUDA_VISIBLE_DEVICES=0 $E tools/build_alignments.py --out assets/alignments.json   # once
+CUDA_VISIBLE_DEVICES=0 $E run_probes.py --ckpt ... --tag prefill --prefill
+```
+
+Measured on two probes of `L000`:
 
 ```
+L000_p02  A4    window 36.56-41.56
+  prefilled   1.0 - 18.0   "Tonight's motion is America is to blame for Mexico's drug war..."
+  model      40.0          "Nina, twenty seconds remain."          in window, right speaker
+  model      48.0          "Time is up."
+
+L000_p04  A2-2  window 49.76-52.76
+  prefilled   1.0 - 18.0   turn 0
+  prefilled  37.0 - 41.0   "I can give you ten seconds to do this"
+  model      50.0          "Time is up for the opening"            in window
+```
+
+Without prefill the same `L000_p02` run had the model at 19.0 s continuing the debater's
+argument, a miss. No format re announcement appears with prefill on, because the model
+knows it already did that.
+
+### The three things it rests on
+
+**Where each word is spoken.** `tools/build_alignments.py` force aligns every moderator
+turn against its own isolated audio in `data_sample/audio/turns`, using
+Qwen3-ForcedAligner. All 97 turns aligned, 1714 words, no failures. The mix cannot be
+used because the moderator deliberately overlaps a debater there.
+
+**How far ahead of its audio the model emits text: one chunk, about 1.1 s.** Measured
+with `tools/measure_text_audio_offset.py` on the model's own output, 121 words over 13
+segments: 69 percent at exactly minus one chunk, 21 percent at minus two. The technical
+report describes TAIL assigning a text token to the chunk its start time falls in, plus
+"a bounded look-ahead mechanism: the speech tokens of the last few text tokens in chunk
+k are deferred to chunk k+1", but quantifies neither the deferral nor inference
+behaviour, so the measured number is the one used.
+
+**What a chunk is allowed to look like.** Read out of the released model: a silent chunk
+is the single token `<|listen|>`; a speaking chunk is `<|speak|>`, then text tokens, then
+`<|chunk_eos|>`, with `<|turn_eos|>` before the close on the last chunk of an utterance.
+At most `max_new_speak_tokens_per_chunk` tokens fit, 20 by default, and a terminator in
+the middle would end the chunk early. `prefill.validate_schedule` checks all of that
+before the model is touched and refuses to run a schedule that breaks it.
+
+Everything after the last prefilled chunk is the model's own. `onset_in_window` and the
+segment list ignore anything before the release point, because a segment we put there is
+not an intervention the model chose.
+
+| flag | default | effect |
+|---|---|---|
+| `--prefill` | off | path to the alignments, `assets/alignments.json` when bare |
+| `--lookahead-chunks` | `1` | measured; how many chunks before its audio a word's text is placed |
+
+## What was actually run
+
+Not the full set. Four probes of `L000` without prefill and two with, on one A6000,
+seed 0, everything else official.
+
+```
+without prefill
     L000_p02  A4     window 36.56-41.56   nearest onset 19.0   (-19.56)  miss
 IN  L000_p04  A2-2   window 49.76-52.76   51.0  (+1.24)   "Nina, time's up. Kirsten?"
     L000_p06  A4     window 70.6-75.6     82.0  (+9.4)    late
 IN  L000_p08  A3-1   window 79.24-82.24   80.0  (+0.76)   "Time is up for Kirsten.
                                                            Now we move to crossfire..."
+with prefill
+IN  L000_p02  A4     window 36.56-41.56   40.0  (+1.44)   "Nina, twenty seconds remain."
+IN  L000_p04  A2-2   window 49.76-52.76   50.0  (+0.24)   "Time is up for the opening"
 ```
 
-Speed: 3.5 times real time, so all 143 probes would be about 1.7 hours on one gpu.
+Speed: 3.5 times real time without prefill, so all 143 probes would be about 1.7 hours
+on one gpu.
 
 ### Two things a reader should know before comparing models
 
 **Speaking rate confounds the timing metric.** A model that talks through half the probe
-lands an onset in a five second window by luck. On these four probes MiniCPM speaks in 4
-to 16 percent of the probe, which puts the chance of a lucky hit at 5 to 12 percent.
-Raon speaks in 14 to 60 percent, which puts it at 20 to 41 percent, and it went 4 for 4.
-The 66 probes where silence is the answer are what separates the two, and none of them
-have been run yet. Do not rank the models on intervention probes alone.
+lands an onset in a five second window by luck. On these probes MiniCPM-o speaks in 4 to
+16 percent of the probe, which puts the chance of a lucky hit at 5 to 12 percent. Raon
+speaks in 14 to 60 percent, which puts it at 20 to 41 percent. The 66 probes where
+silence is the answer are what separates the two, and none have been run yet.
 
-**MiniCPM truncates its own audio context.** The log repeats
+**MiniCPM-o truncates its own audio context.** The log repeats
 `audio_past_key_values length 1502 exceed 1500, reset.` on longer probes. The model
 drops early audio, which should hurt most on `B1` and `B2`, the two codes that require
 remembering what a speaker said much earlier. The size of that effect has not been

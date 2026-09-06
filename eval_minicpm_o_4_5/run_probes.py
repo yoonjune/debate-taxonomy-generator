@@ -33,6 +33,7 @@ import time
 import numpy as np
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import prefill                                                    # noqa: E402
 from probe_data import ProbeSet                                   # noqa: E402
 
 SAMPLE_RATE = 16000          # the audio encoder's rate, as in the official example
@@ -99,6 +100,39 @@ def generation_kwargs(args):
     return out
 
 
+def install_prefill_hook(duplex):
+    """Let the caller dictate the tokens for a chunk, one at a time.
+
+    KHS: this is the whole of the prefill modification, and it extends a path the
+    official code already has rather than adding one. streaming_generate already
+    substitutes a chosen token for the sampled one when force_listen is set; this wraps
+    the decoder's decode so a queued sequence can be substituted the same way. The loop
+    around it, the terminator handling, the unit bookkeeping and the speech decoder are
+    the official code untouched.
+
+    Returns a control dict. Put this chunk's token ids in queue before calling
+    streaming_generate; an empty queue means the model chooses for itself.
+    """
+    import torch
+    original = duplex.decoder.decode
+    ctl = {"queue": None, "original": original}
+
+    def wrapped(logits=None, **kw):
+        q = ctl["queue"]
+        if q:
+            return torch.tensor([q.pop(0)], dtype=torch.long,
+                                device=logits.device if logits is not None else "cuda")
+        return original(logits=logits, **kw)
+
+    duplex.decoder.decode = wrapped
+    return ctl
+
+
+def token_ids(duplex):
+    return {"listen": duplex.listen_token_id, "speak": duplex.speak_token_id,
+            "chunk_eos": duplex.chunk_eos_token_id, "turn_eos": duplex.turn_eos_token_id}
+
+
 def build_model(args):
     import torch
     from transformers import AutoModel
@@ -112,7 +146,7 @@ def build_model(args):
     return model.as_duplex()
 
 
-def window_view(segments, item):
+def window_view(segments, item, release_sec=0.0):
     """Where the model's onsets fall relative to the scoring window.
 
     Not a score, just the arithmetic a reader would otherwise redo, and it is here
@@ -125,6 +159,7 @@ def window_view(segments, item):
     """
     lo, hi, dl = item["t_earliest"], item["t_latest"], item["t_deadline"]
     out = {"onset_in_window": None, "nearest_onset": None, "onset_offset": None}
+    segments = [s for s in segments if s["start"] >= release_sec]
     if dl is None or not segments:
         return out
     for seg in segments:
@@ -137,7 +172,31 @@ def window_view(segments, item):
     return out
 
 
-def run_one(model, item, args, out_dir, gen):
+def prepare_prefill(model, item, args, probe_dir, ctl):
+    """Build this probe's assistant schedule and the matching moderator free input."""
+    import soundfile as sf
+    ids = token_ids(model)
+    history = prefill.moderator_history(item["timeline"], item["alignments"],
+                                        item["debate_id"], item["probe"]["before_turn"])
+    sched, spans, release = prefill.build_schedule(
+        history, model.tokenizer, ids, args.chunk_seconds, args.lookahead_chunks,
+        args.max_new_speak_tokens_per_chunk or 20)
+    bad, why = prefill.validate_schedule(sched, ids,
+                                         args.max_new_speak_tokens_per_chunk or 20)
+    if bad is not None:
+        raise ValueError(f"invalid prefill schedule at chunk {bad}: {why}")
+
+    track = prefill.build_user_track(item["root"], item["timeline"], item["probe"],
+                                     SAMPLE_RATE)
+    probe_dir.mkdir(parents=True, exist_ok=True)
+    wav = probe_dir / "user_input.wav"
+    sf.write(str(wav), track, SAMPLE_RATE)
+    info = prefill.describe(sched, spans, release, ids, args.chunk_seconds)
+    info["user_audio_seconds"] = round(len(track) / SAMPLE_RATE, 3)
+    return wav, info, sched, release, ids
+
+
+def run_one(model, item, args, out_dir, gen, ctl=None):
     """One probe.
 
     KHS: the whole probe is streamed and EVERY stretch of speech is recorded, not only
@@ -149,7 +208,12 @@ def run_one(model, item, args, out_dir, gen):
     the old cheap path when only a first timestamp is wanted.
     """
     import soundfile as sf
-    wav = load_audio(item["audio"])
+    audio_path, info, sched, release, ids = item["audio"], None, None, 0, None
+    if ctl is not None:
+        probe_dir = out_dir / "probes" / item["probe_id"]
+        audio_path, info, sched, release, ids = prepare_prefill(
+            model, item, args, probe_dir, ctl)
+    wav = load_audio(audio_path)
     chunks = to_chunks(wav, args.chunk_seconds)
 
     ref_path = str(item["reference_wav"]) if item["reference_wav"] else None
@@ -162,6 +226,11 @@ def run_one(model, item, args, out_dir, gen):
     segments, cur, speech = [], None, []
     t0 = time.time()
     for idx, chunk in enumerate(chunks):
+        if ctl is not None:
+            # below the release point the model is told what it already said; above it,
+            # an empty queue hands the decision back
+            ctl["queue"] = (list(sched.get(idx, [ids["listen"]]))
+                            if idx < release else None)
         model.streaming_prefill(audio_waveform=chunk, frame_list=[],   # KHS: no video
                                 max_slice_nums=1, batch_vision_feed=False)
         r = model.streaming_generate(prompt_wav_path=ref_path, **gen)
@@ -181,8 +250,17 @@ def run_one(model, item, args, out_dir, gen):
         cur["end"] = round((idx + 2) * args.chunk_seconds, 3)
         if r.get("text"):
             cur["text"] += r["text"]
+            # KHS: which chunk emitted which text, the other half of what the offset
+            # measurement needs. TAIL assigns a text token to the chunk its start time
+            # falls in, so recovering that mapping needs the chunk recorded per piece.
+            cur.setdefault("text_chunks", []).append([idx, r["text"]])
         if r.get("audio_waveform") is not None:
-            speech.append(np.asarray(r["audio_waveform"], dtype=np.float32))
+            a = np.asarray(r["audio_waveform"], dtype=np.float32)
+            # KHS: which chunk produced which samples. Without this the saved wav is a
+            # concatenation with no timeline, and the offset between a word's text and
+            # the audio that speaks it cannot be measured afterwards.
+            cur.setdefault("audio_chunks", []).append([idx, len(a)])
+            speech.append(a)
         if args.stop_at_onset:
             break
         if cur["end_chunk"] - cur["start_chunk"] + 1 >= args.max_speak_chunks:
@@ -190,10 +268,14 @@ def run_one(model, item, args, out_dir, gen):
             cur = None
     if cur is not None:
         segments.append(cur)
+    off = 0
     for seg in segments:
         seg["text"] = seg["text"].strip() or None
         seg["duration"] = round(seg["end"] - seg["start"], 3)
-        seg.pop("audio_start", None)
+        seg["audio_offset"] = seg.pop("audio_start", 0)
+        seg.setdefault("audio_chunks", [])
+        seg.setdefault("text_chunks", [])
+        off += sum(n for _, n in seg["audio_chunks"])
 
     merged = np.concatenate(speech) if speech else None
     audible_at = None
@@ -208,7 +290,8 @@ def run_one(model, item, args, out_dir, gen):
            "audible_at": audible_at,
            "text": " ".join(s["text"] for s in segments if s["text"]) or None,
            "segments": segments, "n_segments": len(segments),
-           **window_view(segments, item),
+           **window_view(segments, item, info["release_sec"] if info else 0.0),
+           "prefill": info,
            "chunk_seconds": args.chunk_seconds,
            "n_chunks": len(chunks),
            "audio_seconds": round(len(wav) / SAMPLE_RATE, 3),
@@ -286,6 +369,14 @@ def parse_args():
                         "and each writes its own results file")
 
     g = ap.add_argument_group("output")
+    g.add_argument("--prefill", nargs="?", const="assets/alignments.json", default=None,
+                   metavar="ALIGNMENTS",
+                   help="put the moderator's earlier turns into the assistant channel "
+                        "as if the model had produced them, and feed a moderator free "
+                        "input. Needs the word alignments from tools/build_alignments.py")
+    g.add_argument("--lookahead-chunks", type=int, default=1,
+                   help="how many chunks before its audio a word's text is placed. "
+                        "1 is the measured median, see tools/measure_text_audio_offset.py")
     g.add_argument("--out", default="out", help="root for results")
     g.add_argument("--tag", default="default",
                    help="results go to <out>/<tag>, so settings do not collide")
@@ -346,12 +437,23 @@ def main():
     model = build_model(args)
     print("[run] duplex model ready")
 
+    ctl = None
+    if args.prefill:
+        alignments = prefill.load_alignments(args.prefill)
+        for it in todo:
+            it["alignments"] = alignments
+            it["timeline"] = ps.timeline(it["debate_id"])
+        ctl = install_prefill_hook(model)
+        print(f"[run] prefill on, {len(alignments['turns'])} aligned turns from "
+              f"{args.prefill}, lookahead {args.lookahead_chunks} chunk(s) "
+              f"({args.lookahead_chunks * args.chunk_seconds * 1000:.0f} ms)")
+
     from tqdm import tqdm
     bar = tqdm(todo, unit="probe", ncols=100, ascii=True)
     spoke = 0
     with open(results, "a") as f:
         for item in bar:
-            row = run_one(model, item, args, out_dir, gen)
+            row = run_one(model, item, args, out_dir, gen, ctl)
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
             f.flush()
             spoke += bool(row["spoke"])

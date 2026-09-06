@@ -78,6 +78,7 @@ class ProbeSet:
         self.debates = {d["debate_id"]: d for d in read_jsonl(self.debates_path)}
         self.probes = read_jsonl(self.probes_path)
         self.template = self.prompt_path.read_text()
+        self._timelines = {}
 
     def describe(self):
         return {"probes": str(self.probes_path), "debates": str(self.debates_path),
@@ -101,9 +102,21 @@ class ProbeSet:
         wav = self.voices_dir / f'{mod["voice_id"]}.wav'
         return wav if wav.exists() else None
 
+    def timeline(self, debate_id):
+        """The per turn timeline with real start and end seconds, from audio/mix.
+
+        debates.jsonl carries a words per minute estimate rather than measured times, so
+        this is the only place to read a real clock from.
+        """
+        if debate_id not in self._timelines:
+            self._timelines[debate_id] = json.load(
+                open(self.root / "audio/mix" / f"{debate_id}.json"))
+        return self._timelines[debate_id]
+
     def item(self, probe, use_reference=True):
         d = self.debates[probe["debate_id"]]
         return {
+            "probe": probe, "root": self.root,
             "probe_id": probe["probe_id"],
             "debate_id": probe["debate_id"],
             "audio": self.audio_dir / f'{probe["probe_id"]}.wav',
