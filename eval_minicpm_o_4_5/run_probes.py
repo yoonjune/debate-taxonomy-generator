@@ -285,6 +285,10 @@ def run_one(model, item, args, out_dir, gen, ctl=None):
 
     row = {"probe_id": item["probe_id"], "debate_id": item["debate_id"],
            "model": "MiniCPM-o-4_5",
+           # KHS: both models clone the moderator voice zero shot, so which clip did it
+           # belongs in the result rather than only in the run config
+           "voice_id": item["voice_id"],
+           "ref_wav": str(item["reference_wav"]) if item["reference_wav"] else None,
            "spoke": bool(segments),
            "spoke_at": segments[0]["start"] if segments else None,
            "audible_at": audible_at,

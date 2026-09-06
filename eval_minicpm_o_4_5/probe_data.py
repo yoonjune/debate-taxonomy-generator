@@ -123,6 +123,7 @@ class ProbeSet:
             "system_prompt": build_system_prompt(self.template, d),
             "reference_wav": (self.moderator_reference(probe["debate_id"])
                               if use_reference else None),
+            "voice_id": d["speakers"]["MOD"]["voice_id"],
             "label": probe["label"],
             "kind": probe["kind"],
             "t_earliest": probe["t_earliest"],

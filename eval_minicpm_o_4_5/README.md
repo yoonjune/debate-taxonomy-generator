@@ -243,6 +243,15 @@ At most `max_new_speak_tokens_per_chunk` tokens fit, 20 by default, and a termin
 the middle would end the chunk early. `prefill.validate_schedule` checks all of that
 before the model is touched and refuses to run a schedule that breaks it.
 
+### What the prefilled history is, exactly
+
+Only the text side is forced. The schedule says which word the model said on which
+chunk, and the model generates the speech for those words itself, conditioned on the
+moderator's reference clip. So the history is the right words at the right times in the
+right voice, re synthesised rather than the original recording. Forcing the original
+audio as well would mean encoding it with the model's own audio tokenizer and overriding
+the code generation, which is a deeper change than this branch makes.
+
 Everything after the last prefilled chunk is the model's own. `onset_in_window` and the
 segment list ignore anything before the release point, because a segment we put there is
 not an intervention the model chose.
@@ -302,10 +311,23 @@ speech only, so `init_vision=False` and `frame_list` is empty.
 
 ## Choices worth arguing with
 
-**The moderator reference voice is used for voice conditioning.** The moderator already
-speaks in the probe audio in a cloned voice, and `voices/` holds the clip it came from.
-Conditioning on it stops the model answering in a voice nobody in the debate has heard.
-`--no-reference` drops it.
+**The moderator reference voice is cloned, zero shot, through both official paths.** The
+clip is `voices/<MOD voice_id>.wav`, the same one the debate audio itself was cloned
+from, and it goes in twice:
+
+```python
+model.prepare(prefix_system_prompt=..., ref_audio=<waveform>, prompt_wav_path=<path>)
+model.streaming_generate(prompt_wav_path=<path>, ...)
+```
+
+`ref_audio` is prefilled into the context as audio embeddings, wrapped in
+`<|audio_start|>` and `<|audio_end|>` after the system prompt, so the model knows what
+voice it has. `prompt_wav_path` initialises the token to waveform cache, which is the
+actual voice cloning for the output. Without it the model answers in a voice nobody in
+the debate has heard, and with prefill on the history would be in the wrong voice too.
+The reference transcript in `voices.json` is not used because neither official entry
+point accepts one. `--no-reference` drops the whole thing, and each row records
+`voice_id` and `ref_wav` so a reader can tell what conditioned the run.
 
 **The model hears its own past turns as input.** In the probe audio the moderator is part
 of the mix, so earlier moderator turns arrive on the input channel rather than as
