@@ -281,6 +281,10 @@ def run_one(pipe, item, args, out_dir, sampling, ctl=None):
 
     return {"probe_id": item["probe_id"], "debate_id": item["debate_id"],
             "model": "Raon-SpeechChat-9B",
+            # KHS: both models clone the moderator voice zero shot, so which clip did it
+            # belongs in the result rather than only in the run config
+            "voice_id": item["voice_id"],
+            "ref_wav": str(item["reference_wav"]) if item["reference_wav"] else None,
             "spoke": parsed["spoke_at"] is not None, "spoke_at": parsed["spoke_at"],
             "audible_at": parsed["audible_at"],
             "first_speech_frame": parsed["first_speech_frame"],

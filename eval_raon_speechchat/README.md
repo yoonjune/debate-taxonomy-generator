@@ -262,6 +262,15 @@ SIL SIL ... SIL   EPAD w1 PAD PAD   EPAD w2 PAD   EPAD w3 ...   SIL SIL
                   ^ onset            ^ every word after a pause needs its own
 ```
 
+### What the prefilled history is, exactly
+
+Only the text side is forced. The schedule says which word the model said on which
+frame, and the model generates the speech for those words itself, conditioned on the
+moderator's reference clip. So the history is the right words at the right times in the
+right voice, re synthesised rather than the original recording. Forcing the original
+audio as well would mean encoding it with the model's own audio tokenizer and overriding
+the code generation, which is a deeper change than this branch makes.
+
 Everything after the last prefilled frame is the model's own. `onset_in_window` and the
 segment list ignore anything before the release point, because a segment we put there is
 not an intervention the model chose.
@@ -315,10 +324,14 @@ defaults and its example, both of which this branch follows.
 
 ## Choices worth arguing with
 
-**The moderator reference voice is used for speaker conditioning.** The moderator already
-speaks in the probe audio in a cloned voice, and `voices/` holds the clip it came from.
-Conditioning on it stops the model answering in a voice nobody in the debate has heard.
-`--no-reference` drops it.
+**The moderator reference voice is cloned, zero shot.** The clip is
+`voices/<MOD voice_id>.wav`, the same one the debate audio itself was cloned from, and
+it is passed as `speaker_audio` to `duplex()`, which loads it and computes a speaker
+embedding that goes into the decoding state. Without it the model answers in a voice
+nobody in the debate has heard, and with prefill on the history would be in the wrong
+voice too. The reference transcript in `voices.json` is not used because the official
+entry point does not accept one. `--no-reference` drops it, and each row records
+`voice_id` and `ref_wav` so a reader can tell what conditioned the run.
 
 **The model hears its own past turns as input.** In the probe audio the moderator is part
 of the mix, so earlier moderator turns arrive on the input channel rather than as
