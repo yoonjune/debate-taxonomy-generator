@@ -58,7 +58,13 @@ def build_user_track(root, timeline, probe, sr, exclude=("MOD",)):
     track = np.zeros(int(end * sr) + 1, dtype=np.float32)
     turns = {t["i"]: t for t in timeline["turns"]}
     for t in timeline["turns"]:
-        if t["speaker"] in exclude or t["start_sec"] >= end:
+        # KHS: the answer turn goes whatever speaker holds it. make_probe_audio.py
+        # silences tl[before_turn] unconditionally, and on this data every negative
+        # probe's before_turn is a debater, not the moderator. Removing only moderator
+        # audio would leave the debater talking straight through the decision point,
+        # which is itself the cue that nobody intervened, and would make all 66 silence
+        # probes trivially easy.
+        if t["i"] == probe["before_turn"] or t["speaker"] in exclude or t["start_sec"] >= end:
             continue
         p = root / "audio/turns" / f'{timeline["debate_id"]}_{t["i"]:03d}.mp3'
         if not p.exists():
@@ -82,14 +88,26 @@ def build_user_track(root, timeline, probe, sr, exclude=("MOD",)):
 
 # ------------------------------------------------------------- assistant track
 def moderator_history(timeline, alignments, debate_id, before_turn):
-    """The aligned moderator turns that happened before the decision point."""
-    out = []
+    """The aligned moderator turns that happened before the decision point.
+
+    A turn with no alignment is a hard error rather than a skip. The user track removes
+    every moderator turn, so an unaligned one would be neither heard nor prefilled: a
+    hole in the history with nothing to show for it. That can happen from a debate
+    scoped alignments file, an alignment failure or a missing turn mp3, and it should
+    stop the run rather than quietly change the experiment.
+    """
+    out, missing = [], []
     for t in timeline["turns"]:
         if t["speaker"] != "MOD" or t["i"] >= before_turn:
             continue
         a = alignments["turns"].get(f'{debate_id}/{t["i"]}')
         if a and a["words"]:
             out.append(a)
+        else:
+            missing.append(t["i"])
+    if missing:
+        raise KeyError(f"{debate_id}: no alignment for moderator turns {missing}. "
+                       f"Rerun tools/build_alignments.py for this debate.")
     return out
 
 
@@ -106,7 +124,7 @@ def build_schedule(history, tokenizer, ids, chunk_seconds=1.0,
     the last chunk of an utterance. Overflow past max_tokens spills into the next chunk
     rather than being dropped, which keeps the words and moves them late.
     """
-    buckets, spans = {}, []
+    buckets, spans, owner = {}, [], {}
     for turn in history:
         touched = []
         for w in turn["words"]:
@@ -119,6 +137,10 @@ def build_schedule(history, tokenizer, ids, chunk_seconds=1.0,
             while room < len(toks):
                 c += 1
                 room = max_tokens - 3 - len(buckets.get(c, []))
+            if c in owner and owner[c] != turn["turn"]:
+                raise ValueError(f"turn {turn['turn']} lands in chunk {c}, already held "
+                                 f"by turn {owner[c]}. Two utterances would fuse.")
+            owner[c] = turn["turn"]
             buckets.setdefault(c, []).extend(toks)
             touched.append(c)
         if not touched:

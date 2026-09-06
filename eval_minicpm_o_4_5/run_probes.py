@@ -278,10 +278,36 @@ def run_one(model, item, args, out_dir, gen, ctl=None):
         off += sum(n for _, n in seg["audio_chunks"])
 
     merged = np.concatenate(speech) if speech else None
+    if info is not None:
+        # KHS: forcing the text does not guarantee the acoustic side follows, so the
+        # forced span is measured rather than assumed. A run where this is low has a
+        # history the model can read but not hear, which is not the experiment.
+        cursor, per_turn = 0, []
+        for seg in segments:
+            n = sum(k for _, k in seg.get("audio_chunks", []))
+            a = merged[cursor: cursor + n] if merged is not None else np.zeros(0)
+            cursor += n
+            if seg["start"] >= info["release_sec"]:
+                continue
+            rms = float(np.sqrt((a.astype(np.float64) ** 2).mean())) if len(a) else 0.0
+            per_turn.append({"start": seg["start"], "samples": int(n),
+                             "rms": round(rms, 5), "voiced": bool(rms >= 0.001)})
+        info["per_span"] = per_turn
+        info["voiced_overall"] = (round(sum(x["voiced"] for x in per_turn) / len(per_turn), 3)
+                                  if per_turn else None)
+        info["min_voiced"] = args.min_voiced
+        info["voiced_ok"] = bool((info["voiced_overall"] or 0.0) >= args.min_voiced)
     audible_at = None
     if merged is not None and segments:
         audible_at = round(segments[0]["start"]
                            + first_sound_offset(merged, args.output_sample_rate), 3)
+
+    # KHS: every field below describes what the MODEL did. Chunks we forced are not the
+    # model's choices, so they are split out rather than counted: without this spoke is
+    # True on every probe in prefill mode and spoke_at is the forced onset.
+    rel = info["release_sec"] if info else 0.0
+    forced = [g for g in segments if g["start"] < rel]
+    free = [g for g in segments if g["start"] >= rel]
 
     row = {"probe_id": item["probe_id"], "debate_id": item["debate_id"],
            "model": "MiniCPM-o-4_5",
@@ -289,12 +315,13 @@ def run_one(model, item, args, out_dir, gen, ctl=None):
            # belongs in the result rather than only in the run config
            "voice_id": item["voice_id"],
            "ref_wav": str(item["reference_wav"]) if item["reference_wav"] else None,
-           "spoke": bool(segments),
-           "spoke_at": segments[0]["start"] if segments else None,
-           "audible_at": audible_at,
-           "text": " ".join(s["text"] for s in segments if s["text"]) or None,
-           "segments": segments, "n_segments": len(segments),
-           **window_view(segments, item, info["release_sec"] if info else 0.0),
+           "spoke": bool(free),
+           "spoke_at": free[0]["start"] if free else None,
+           "audible_at": audible_at if not info else (free[0]["start"] if free else None),
+           "text": " ".join(g["text"] for g in free if g["text"]) or None,
+           "segments": free, "n_segments": len(free),
+           "prefilled_segments": forced,
+           **window_view(free, item),
            "prefill": info,
            "chunk_seconds": args.chunk_seconds,
            "n_chunks": len(chunks),
@@ -378,6 +405,10 @@ def parse_args():
                    help="put the moderator's earlier turns into the assistant channel "
                         "as if the model had produced them, and feed a moderator free "
                         "input. Needs the word alignments from tools/build_alignments.py")
+    g.add_argument("--min-voiced", type=float, default=0.5,
+                   help="least fraction of the forced history that must come out as "
+                        "sound. Recorded as voiced_ok; this model has not been seen to "
+                        "fall below it, unlike Raon")
     g.add_argument("--lookahead-chunks", type=int, default=1,
                    help="how many chunks before its audio a word's text is placed. "
                         "1 is the measured median, see tools/measure_text_audio_offset.py")
@@ -443,13 +474,16 @@ def main():
 
     ctl = None
     if args.prefill:
-        alignments = prefill.load_alignments(args.prefill)
+        ap = pathlib.Path(args.prefill)
+        if not ap.is_absolute() and not ap.exists():
+            ap = pathlib.Path(__file__).resolve().parent / args.prefill
+        alignments = prefill.load_alignments(ap)
         for it in todo:
             it["alignments"] = alignments
             it["timeline"] = ps.timeline(it["debate_id"])
         ctl = install_prefill_hook(model)
         print(f"[run] prefill on, {len(alignments['turns'])} aligned turns from "
-              f"{args.prefill}, lookahead {args.lookahead_chunks} chunk(s) "
+              f"{ap}, lookahead {args.lookahead_chunks} chunk(s) "
               f"({args.lookahead_chunks * args.chunk_seconds * 1000:.0f} ms)")
 
     from tqdm import tqdm
