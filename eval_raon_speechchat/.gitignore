@@ -1,0 +1,6 @@
+# fetched by the setup scripts, never committed
+third_party/
+ckpt/
+out/
+*.log
+__pycache__/
