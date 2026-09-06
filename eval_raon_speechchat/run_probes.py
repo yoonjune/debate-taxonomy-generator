@@ -249,7 +249,12 @@ def prepare_prefill(pipe, item, args, probe_dir, ctl):
     wav = probe_dir / "user_input.wav"
     sf.write(str(wav), track, sr)
 
-    ctl["schedule"], ctl["release"], ctl["frame"] = sched, release, 0
+    # KHS: init_duplex_decoding_state calls the wrapped function once, for the forced
+    # first prediction, before the frame loop starts. Counting from zero would put every
+    # scheduled frame one frame early, which was verified against the frame log: a
+    # schedule with EPAD at frame 2 landed at log frame 1. Starting at minus one lines
+    # the counter up with the log.
+    ctl["schedule"], ctl["release"], ctl["frame"] = sched, release, -1
     info = prefill.describe(sched, spans, release, fr)
     info["user_audio_seconds"] = round(len(track) / sr, 3)
     return wav, info
@@ -268,16 +273,46 @@ def run_one(pipe, item, args, out_dir, sampling, ctl=None):
     kwargs["system_prompt"] = item["system_prompt"]        # KHS: benchmark prompt
     if item["reference_wav"] is not None:
         kwargs["speaker_audio"] = str(item["reference_wav"])
-    summary = pipe.duplex(audio_input=pipe.load_audio(str(audio_path)),
-                          output_dir=str(probe_dir), **kwargs)
 
     frame_rate = float(pipe.processor.frame_rate)
-    parsed = parse_frame_log(probe_dir / "frame_log.txt", frame_rate)
+    # KHS: forcing the text does not guarantee the acoustic side follows. On this model
+    # the same forced turn came out 11 percent voiced on one draw and 93 percent on
+    # another, with the audio collapsing partway through and never recovering. A history
+    # the model can read but not hear is not the experiment, so a draw below min_voiced
+    # is discarded and redrawn rather than measured. Attempts are recorded, and a probe
+    # that never clears the bar is reported rather than quietly kept.
+    attempts = 0
+    while True:
+        attempts += 1
+        if ctl is not None:
+            ctl["frame"] = -1
+        summary = pipe.duplex(audio_input=pipe.load_audio(str(audio_path)),
+                              output_dir=str(probe_dir), **kwargs)
+        parsed = parse_frame_log(probe_dir / "frame_log.txt", frame_rate)
+        if info is None:
+            break
+        info.update(prefill.voiced_fraction(probe_dir / "frame_log.txt", info["spans"]))
+        info["attempts"] = attempts
+        info["min_voiced"] = args.min_voiced
+        ok = (info.get("voiced_overall") or 0.0) >= args.min_voiced
+        info["voiced_ok"] = bool(ok)
+        if ok or attempts > args.prefill_retries:
+            break
 
     if not args.keep_stereo:
         # the official code also writes a full length stereo mix of user and assistant,
         # about 14 MB per probe and not needed for scoring
         (probe_dir / "user_assistant.wav").unlink(missing_ok=True)
+
+    # KHS: every field below describes what the MODEL did. Segments we forced are not
+    # the model's choices, so they are split out rather than counted: without this
+    # spoke is True and spoke_at is 0.08 on every probe in prefill mode, which is the
+    # forced onset and says nothing.
+    rel = info["release_sec"] if info else 0.0
+    forced = [g for g in parsed["segments"] if g["start"] < rel]
+    free = [g for g in parsed["segments"] if g["start"] >= rel]
+    said = " ".join(g["text"] for g in free if g["text"]) or None
+    audible = next((g["start"] for g in free if not g["is_backchannel"]), None)
 
     return {"probe_id": item["probe_id"], "debate_id": item["debate_id"],
             "model": "Raon-SpeechChat-9B",
@@ -285,14 +320,14 @@ def run_one(pipe, item, args, out_dir, sampling, ctl=None):
             # belongs in the result rather than only in the run config
             "voice_id": item["voice_id"],
             "ref_wav": str(item["reference_wav"]) if item["reference_wav"] else None,
-            "spoke": parsed["spoke_at"] is not None, "spoke_at": parsed["spoke_at"],
-            "audible_at": parsed["audible_at"],
-            "first_speech_frame": parsed["first_speech_frame"],
-            "first_audio_frame": parsed["first_audio_frame"], "text": parsed["text"],
-            "segments": parsed["segments"], "n_segments": parsed["n_segments"],
+            "spoke": bool(free), "spoke_at": free[0]["start"] if free else None,
+            "audible_at": audible,
+            "first_speech_frame": free[0]["start_frame"] if free else None,
+            "text": said,
+            "segments": free, "n_segments": len(free),
+            "prefilled_segments": forced,
             "speech_frames": parsed["speech_frames"],
-            **window_view(parsed["segments"], item, args.count_backchannels,
-                          info["release_sec"] if info else 0.0),
+            **window_view(free, item, args.count_backchannels),
             "prefill": info,
             "frame_rate": frame_rate, "n_frames": parsed["n_frames"],
             "assistant_duration_sec": round(summary.get("assistant_duration_sec", 0.0), 3),
@@ -323,6 +358,11 @@ def parse_args():
                    help="put the moderator's earlier turns into the assistant channel "
                         "as if the model had produced them, and feed a moderator free "
                         "input. Needs the word alignments from tools/build_alignments.py")
+    g.add_argument("--min-voiced", type=float, default=0.5,
+                   help="least fraction of the forced history that must come out as "
+                        "sound. Below this the draw is discarded and redrawn")
+    g.add_argument("--prefill-retries", type=int, default=2,
+                   help="redraws allowed before a probe is kept with voiced_ok false")
     g.add_argument("--lookahead-frames", type=int, default=3,
                    help="how many frames before its audio a word's text token is placed. "
                         "3 is the measured median, see tools/measure_text_audio_offset.py")
@@ -441,7 +481,10 @@ def main():
 
     ctl = None
     if args.prefill:
-        alignments = prefill.load_alignments(args.prefill)
+        ap = pathlib.Path(args.prefill)
+        if not ap.is_absolute() and not ap.exists():
+            ap = pathlib.Path(__file__).resolve().parent / args.prefill
+        alignments = prefill.load_alignments(ap)
         for it in todo:
             it["alignments"] = alignments
             it["timeline"] = ps.timeline(it["debate_id"])

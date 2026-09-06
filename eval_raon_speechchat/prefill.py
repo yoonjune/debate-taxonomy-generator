@@ -64,7 +64,13 @@ def build_user_track(root, timeline, probe, sr, exclude=("MOD",)):
     track = np.zeros(int(end * sr) + 1, dtype=np.float32)
     turns = {t["i"]: t for t in timeline["turns"]}
     for t in timeline["turns"]:
-        if t["speaker"] in exclude or t["start_sec"] >= end:
+        # KHS: the answer turn goes whatever speaker holds it. make_probe_audio.py
+        # silences tl[before_turn] unconditionally, and on this data every negative
+        # probe's before_turn is a debater, not the moderator. Removing only moderator
+        # audio would leave the debater talking straight through the decision point,
+        # which is itself the cue that nobody intervened, and would make all 66 silence
+        # probes trivially easy.
+        if t["i"] == probe["before_turn"] or t["speaker"] in exclude or t["start_sec"] >= end:
             continue
         p = root / "audio/turns" / f'{timeline["debate_id"]}_{t["i"]:03d}.mp3'
         if not p.exists():
@@ -88,14 +94,26 @@ def build_user_track(root, timeline, probe, sr, exclude=("MOD",)):
 
 # ------------------------------------------------------------- assistant track
 def moderator_history(timeline, alignments, debate_id, before_turn):
-    """The aligned moderator turns that happened before the decision point."""
-    out = []
+    """The aligned moderator turns that happened before the decision point.
+
+    A turn with no alignment is a hard error rather than a skip. The user track removes
+    every moderator turn, so an unaligned one would be neither heard nor prefilled: a
+    hole in the history with nothing to show for it. That can happen from a debate
+    scoped alignments file, an alignment failure or a missing turn mp3, and it should
+    stop the run rather than quietly change the experiment.
+    """
+    out, missing = [], []
     for t in timeline["turns"]:
         if t["speaker"] != "MOD" or t["i"] >= before_turn:
             continue
         a = alignments["turns"].get(f'{debate_id}/{t["i"]}')
         if a and a["words"]:
             out.append(a)
+        else:
+            missing.append(t["i"])
+    if missing:
+        raise KeyError(f"{debate_id}: no alignment for moderator turns {missing}. "
+                       f"Rerun tools/build_alignments.py for this debate.")
     return out
 
 
@@ -138,9 +156,12 @@ def build_schedule(history, tokenizer, frame_rate=12.5,
                 first = f
         if first is None:
             continue
+        # KHS: the lookahead is the offset of the TEXT token. The speaking phase has to
+        # last until the AUDIO finishes, so the end is not shifted. Subtracting the
+        # lookahead here would drop to SIL about 240 ms early and cut the tail off the
+        # last word of every prefilled turn.
         last_audio = turn["start_sec"] + turn["words"][-1]["end"]
-        end_frame = max(cursor - 1,
-                        int(round(last_audio * frame_rate)) - lookahead_frames)
+        end_frame = max(cursor - 1, int(round(last_audio * frame_rate)))
         for f in range(first, end_frame + 1):
             local.setdefault(f, PAD_ID)
 
@@ -163,6 +184,11 @@ def build_schedule(history, tokenizer, frame_rate=12.5,
             else:
                 local[f - 1] = EPAD_ID          # start of turn, already free
 
+        clash = [f for f in local if f in sched]
+        if clash:
+            raise ValueError(f"turn {turn['turn']} overlaps an earlier prefilled turn at "
+                             f"frames {sorted(clash)[:5]}. Two utterances would fuse "
+                             f"into one with no silence between them.")
         for f, t in local.items():
             sched[f] = t
         spans.append({"turn": turn["turn"], "start_frame": first - 1,
@@ -217,6 +243,35 @@ def validate_schedule(sched, release_frame):
 
 def load_alignments(path):
     return json.load(open(path))
+
+
+def voiced_fraction(frame_log, spans, floor=0.001):
+    """How much of the forced history actually came out as sound.
+
+    KHS: forcing the text does not guarantee the acoustic side follows. On this data the
+    same eighteen second turn came out 7 percent silent on one run and 67 percent silent
+    on another, with the audio collapsing partway through and never recovering. Nothing
+    in the frame kinds shows that, so it is measured from the decoder's own output level
+    and reported per turn. A run where this is low has a history the model can read but
+    not hear, which is not the experiment.
+    """
+    import re
+    line = re.compile(r"^\[(\w+)\] f=(\d+) text=.*? out_rms=([\d.eE+-]+) ")
+    rms = {}
+    for row in open(frame_log):
+        m = line.match(row.strip())
+        if m:
+            rms[int(m.group(2))] = float(m.group(3))
+    out = []
+    for sp in spans:
+        vals = [rms.get(f, 0.0) for f in range(sp["start_frame"], sp["end_frame"] + 1)]
+        vals = [v for v in vals if v is not None]
+        voiced = sum(1 for v in vals if v >= floor)
+        out.append({"turn": sp["turn"], "frames": len(vals),
+                    "voiced": round(voiced / max(1, len(vals)), 3)})
+    overall = ([v for sp in out for v in [sp["voiced"]] * sp["frames"]])
+    return {"per_turn": out,
+            "voiced_overall": round(sum(overall) / len(overall), 3) if overall else None}
 
 
 def describe(sched, spans, release_frame, frame_rate=12.5):

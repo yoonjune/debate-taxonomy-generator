@@ -271,14 +271,78 @@ right voice, re synthesised rather than the original recording. Forcing the orig
 audio as well would mean encoding it with the model's own audio tokenizer and overriding
 the code generation, which is a deeper change than this branch makes.
 
-Everything after the last prefilled frame is the model's own. `onset_in_window` and the
-segment list ignore anything before the release point, because a segment we put there is
-not an intervention the model chose.
+### The forced history has to be heard, not just written
+
+Forcing the text does not guarantee the acoustic side follows. Measured on the model's
+own output, the same forced turn came out **11 percent voiced on one draw and 93 percent
+on another**, with the audio collapsing partway through and never recovering. Nothing in
+the frame or chunk counts shows that: the state machine says SPEECH, the tokens are
+right, and the decoder emits silence. A history the model can read but not hear is not
+the experiment.
+
+So the forced span is measured from the decoder's own output level and reported:
+
+```json
+"prefill": {"release_sec": 18.48, "turns_prefilled": 1,
+            "voiced_overall": 0.93, "voiced_ok": true, "attempts": 2,
+            "per_turn": [{"turn": 0, "frames": 232, "voiced": 0.93}]}
+```
+
+A draw below `--min-voiced` is discarded and redrawn, up to `--prefill-retries`. A probe
+that never clears the bar is kept with `voiced_ok` false rather than silently counted,
+so a run can be filtered on it.
+
+### The row describes the model, not what we forced
+
+`spoke`, `spoke_at`, `text`, `segments` and `n_segments` all cover **only what happens
+after the release point**. What we forced is in `prefilled_segments`. Without that split
+`spoke` is true on every probe in prefill mode and `spoke_at` is the forced onset, which
+says nothing about the model.
+
+Everything after the last prefilled frame is the model's own.
 
 | flag | default | effect |
 |---|---|---|
 | `--prefill` | off | path to the alignments, `assets/alignments.json` when bare |
 | `--lookahead-frames` | `3` | measured; `1` reproduces the paper's training stage number |
+
+## What a code review caught, after this was first pushed
+
+The first version of this was published with eight defects, two of them serious. They
+are listed here because the fixes are the interesting part of the design, and because
+"verified" was claimed for it before the review, which was not true.
+
+**All 66 silence probes leaked the answer.** `make_probe_audio.py` silences
+`turns[before_turn]` whatever speaker holds it. The rebuilt input removed only moderator
+audio, and on this data every negative probe's `before_turn` is a debater, so the
+debater talked straight through the decision point. That absence of an interruption is
+itself the answer, which would have made half the benchmark free. The input now drops
+the answer turn whoever speaks it.
+
+**The schedule was applied one frame early.** `init_duplex_decoding_state` calls the
+wrapped function once before the frame loop, for the forced first prediction, so
+counting from zero put every scheduled frame one frame ahead. Confirmed against the
+frame log: a schedule with EPAD at frame 2 landed at log frame 1. The counter now starts
+at minus one.
+
+**`spoke` was true on every probe.** Only the window search filtered by the release
+point; the rest of the row counted forced segments as if the model had chosen them.
+
+**The last word of each forced turn was cut.** The lookahead was being subtracted from
+the end of a turn as well as the start, but it is the offset of the text token; the
+speaking phase has to last until the audio finishes.
+
+**Nothing checked that the forced history was voiced**, and on the run that was published
+it largely was not. See the section above.
+
+The rest: a moderator turn missing from the alignments vanished from both channels
+silently and is now a hard error; overlapping turns could fuse and now raise; and the
+bare `--prefill` default was resolved against the working directory rather than the
+file.
+
+The lesson is narrow and worth stating. `validate_schedule` checked the part that had a
+validator, and all 143 schedules passed it. The leak was in the input audio, which had
+nothing checking it against `make_probe_audio.py`. The checks now cover both sides.
 
 ## What was actually run
 
