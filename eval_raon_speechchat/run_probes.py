@@ -34,6 +34,7 @@ import time
 os.environ.setdefault("TQDM_DISABLE", "1")
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import prefill                                                    # noqa: E402
 from probe_data import ProbeSet                                   # noqa: E402
 
 # [SIL] f=0 text=- out_rms=0.0000 in_rms=0.0123 ntok=2
@@ -93,6 +94,38 @@ def warm_up(pipe, out_dir, seconds=2.0):
     for f in d.glob("*"):
         f.unlink(missing_ok=True)
     return time.time() - t0
+
+
+def install_prefill_hook(model):
+    """Let the caller decide what the model emits, frame by frame, up to a release point.
+
+    KHS: this is the whole of the prefill modification, and it extends a path the
+    official code already has rather than adding one. duplex_decoding_step overwrites
+    text_logits itself when forced_sil_remaining is set, and it reads the text
+    prediction from a fixed position, new_logits[:, -2]. This wraps the function that
+    consumes those logits and, while the frame index is below the release point,
+    replaces them with a one hot for the scheduled token. Everything downstream, the
+    state machine, the grammar mask, the audio codes, is the official code untouched.
+
+    Returns a control dict. Set schedule and release per probe, and reset frame to zero
+    before each duplex call, since the loop starts counting from the first frame again.
+    """
+    import torch
+    original = model._update_duplex_sequences_and_generate_audio_codes
+    ctl = {"schedule": None, "release": 0, "frame": 0, "original": original}
+
+    def wrapped(new_logits, **kw):
+        f = ctl["frame"]
+        ctl["frame"] = f + 1
+        if ctl["schedule"] is not None and f < ctl["release"]:
+            token = ctl["schedule"].get(f, prefill.SIL_ID)
+            forced = torch.full_like(new_logits, -1e9)
+            forced[:, -2, token] = 0.0
+            new_logits = forced
+        return original(new_logits=new_logits, **kw)
+
+    model._update_duplex_sequences_and_generate_audio_codes = wrapped
+    return ctl
 
 
 def parse_frame_log(path, frame_rate):
@@ -158,7 +191,7 @@ def parse_frame_log(path, frame_rate):
             "n_frames": len(frames)}
 
 
-def window_view(segments, item, count_backchannels=False):
+def window_view(segments, item, count_backchannels=False, release_sec=0.0):
     """Where the model's onsets fall relative to the scoring window.
 
     Not a score, just the arithmetic a reader would otherwise redo, and the reason it is
@@ -173,7 +206,11 @@ def window_view(segments, item, count_backchannels=False):
     frame, before t_earliest. Whether that counts is the scorer's call, not this file's,
     so both the verdict and the distance are reported.
     """
-    usable = [s for s in segments if count_backchannels or not s["is_backchannel"]]
+    # a segment that starts before the release point was put there by us, not chosen by
+    # the model, so it cannot count as an intervention
+    usable = [s for s in segments
+              if (count_backchannels or not s["is_backchannel"])
+              and s["start"] >= release_sec]
     lo, hi, dl = item["t_earliest"], item["t_latest"], item["t_deadline"]
     out = {"onset_in_window": None, "nearest_onset": None, "onset_offset": None}
     if dl is None or not usable:
@@ -194,16 +231,44 @@ def sampling_kwargs(args):
             if getattr(args, k) is not None}
 
 
-def run_one(pipe, item, args, out_dir, sampling):
+def prepare_prefill(pipe, item, args, probe_dir, ctl):
+    """Build this probe's assistant schedule and the matching moderator free input."""
+    import soundfile as sf
+    fr = float(pipe.processor.frame_rate)
+    sr = int(pipe.processor.sampling_rate)
+    history = prefill.moderator_history(item["timeline"], item["alignments"],
+                                        item["debate_id"], item["probe"]["before_turn"])
+    sched, spans = prefill.build_schedule(history, pipe.processor.tokenizer, fr,
+                                          args.lookahead_frames)
+    release = (max(sched) + 1) if sched else 0
+    bad_frame, why = prefill.validate_schedule(sched, release)
+    if bad_frame is not None:
+        raise ValueError(f"invalid prefill schedule at frame {bad_frame}: {why}")
+
+    track = prefill.build_user_track(item["root"], item["timeline"], item["probe"], sr)
+    wav = probe_dir / "user_input.wav"
+    sf.write(str(wav), track, sr)
+
+    ctl["schedule"], ctl["release"], ctl["frame"] = sched, release, 0
+    info = prefill.describe(sched, spans, release, fr)
+    info["user_audio_seconds"] = round(len(track) / sr, 3)
+    return wav, info
+
+
+def run_one(pipe, item, args, out_dir, sampling, ctl=None):
     probe_dir = out_dir / "probes" / item["probe_id"]
     probe_dir.mkdir(parents=True, exist_ok=True)
     t0 = time.time()
+
+    audio_path, info = item["audio"], None
+    if ctl is not None:
+        audio_path, info = prepare_prefill(pipe, item, args, probe_dir, ctl)
 
     kwargs = dict(sampling)
     kwargs["system_prompt"] = item["system_prompt"]        # KHS: benchmark prompt
     if item["reference_wav"] is not None:
         kwargs["speaker_audio"] = str(item["reference_wav"])
-    summary = pipe.duplex(audio_input=pipe.load_audio(str(item["audio"])),
+    summary = pipe.duplex(audio_input=pipe.load_audio(str(audio_path)),
                           output_dir=str(probe_dir), **kwargs)
 
     frame_rate = float(pipe.processor.frame_rate)
@@ -222,7 +287,9 @@ def run_one(pipe, item, args, out_dir, sampling):
             "first_audio_frame": parsed["first_audio_frame"], "text": parsed["text"],
             "segments": parsed["segments"], "n_segments": parsed["n_segments"],
             "speech_frames": parsed["speech_frames"],
-            **window_view(parsed["segments"], item, args.count_backchannels),
+            **window_view(parsed["segments"], item, args.count_backchannels,
+                          info["release_sec"] if info else 0.0),
+            "prefill": info,
             "frame_rate": frame_rate, "n_frames": parsed["n_frames"],
             "assistant_duration_sec": round(summary.get("assistant_duration_sec", 0.0), 3),
             "audio_seconds": round(summary.get("user_duration_sec", 0.0), 3),
@@ -247,6 +314,14 @@ def parse_args():
                         "shared node. Waiting longer cannot change what is decoded")
     g.add_argument("--seed", type=int, default=None,
                    help="official decoding samples, so runs differ. Set this to repeat one")
+    g.add_argument("--prefill", nargs="?", const="assets/alignments.json", default=None,
+                   metavar="ALIGNMENTS",
+                   help="put the moderator's earlier turns into the assistant channel "
+                        "as if the model had produced them, and feed a moderator free "
+                        "input. Needs the word alignments from tools/build_alignments.py")
+    g.add_argument("--lookahead-frames", type=int, default=3,
+                   help="how many frames before its audio a word's text token is placed. "
+                        "3 is the measured median, see tools/measure_text_audio_offset.py")
     g.add_argument("--no-warmup", action="store_true",
                    help="skip the throwaway pass that starts the decoder process")
 
@@ -360,12 +435,24 @@ def main():
     if not args.no_warmup:
         print(f"[run] warm up {warm_up(pipe, out_dir):.1f} s")
 
+    ctl = None
+    if args.prefill:
+        alignments = prefill.load_alignments(args.prefill)
+        for it in todo:
+            it["alignments"] = alignments
+            it["timeline"] = ps.timeline(it["debate_id"])
+        ctl = install_prefill_hook(pipe.model)
+        n = len(alignments["turns"])
+        print(f"[run] prefill on, {n} aligned turns from {args.prefill}, "
+              f"lookahead {args.lookahead_frames} frames "
+              f"({args.lookahead_frames * 1000 / pipe.processor.frame_rate:.0f} ms)")
+
     from tqdm import tqdm
     bar = tqdm(todo, unit="probe", ncols=100, ascii=True, disable=False)
     spoke = 0
     with open(results, "a") as f:
         for item in bar:
-            row = run_one(pipe, item, args, out_dir, sampling)
+            row = run_one(pipe, item, args, out_dir, sampling, ctl)
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
             f.flush()
             spoke += bool(row["spoke"])

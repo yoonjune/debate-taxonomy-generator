@@ -183,28 +183,120 @@ Shards are taken round robin so each sees a mix of short and long probes, and ea
 writes `results.shard<n>.jsonl`. Scoring globs `results*.jsonl`. This matters here
 because the full set takes about 22 hours on one gpu.
 
-## What was actually run
+## Prefill: giving the model its own past
 
-Not the full set. Four probes of `L000` on one A6000, seed 0, everything else official.
+By default the moderator's earlier turns reach the model as audio on the **input**
+channel, because that is what `make_probe_audio.py` produces. The model hears its own
+past as a third party and does not know it has already spoken, and it shows: both models
+open every probe by announcing the debate format, since `system_prompt.md` says to do
+that at the start and every probe begins mid debate where the format was already
+announced. A model that follows the prompt is punished for it.
+
+`--prefill` does the other thing. The moderator's earlier turns go into the **assistant**
+channel, frame by frame, as if the model had generated them, and the input is rebuilt
+from the debaters alone.
+
+```bash
+CUDA_VISIBLE_DEVICES=1 $E tools/build_alignments.py --out assets/alignments.json   # once
+CUDA_VISIBLE_DEVICES=1 $E run_probes.py --ckpt ... --tag prefill --prefill
+```
+
+Measured on `L000_p02`, label `A4`, window 36.56 to 41.56:
 
 ```
-IN  L000_p02  A4     window 36.56-41.56   onset 37.76 (-0.8)   "Kirsten has 30 seconds to respond."
-IN  L000_p04  A2-2   window 49.76-52.76   onset 49.68 (-0.08)  20 segments, 8 of them backchannel
+without prefill   37.76  "Kirsten has 30 seconds to respond. Kirsten to rebuttal!"
+                         in window, but it is Nina who is speaking
+
+with prefill      0.08 - 19.20  [prefilled] "Tonight's motion is America is to blame
+                                 for Mexico's drug war Nina argues for it and Kirsten
+                                 argues against it Each debater gets thirty seconds..."
+                  39.20  "20 seconds remaining for Nina."
+                         in window, right action, right speaker, and no format
+                         re announcement because it knows it already did that
+```
+
+### The three numbers it rests on
+
+**Where each word is spoken.** `tools/build_alignments.py` force aligns every moderator
+turn against its own isolated audio in `data_sample/audio/turns`, using
+Qwen3-ForcedAligner. All 97 turns aligned, 1714 words, no failures. The mix cannot be
+used because the moderator deliberately overlaps a debater there.
+
+**How far ahead of its audio the model emits text: three frames, 240 ms.** Measured with
+`tools/measure_text_audio_offset.py` on the model's own output, 292 words over 28 speech
+runs: 47 percent at exactly minus three frames, 26 percent at minus two, 12 percent at
+minus four, and the median does not move between the first word of an utterance and the
+later ones. The technical report says "one-frame text lookahead" for a training stage,
+which is a statement about how speech tokens are conditioned rather than about the
+distance to audible audio, so the measured number is the one used.
+
+**What the token stream is allowed to look like.** Read out of the released model's own
+`DuplexStateManager.apply_logit_mask`, not the paper:
+
+```
+SIL phase                  SIL, EPAD or BC
+SPEECH, last was EPAD/BC   a real text token only
+SPEECH, last was text      text, PAD, EPAD or SIL
+SPEECH, last was PAD       PAD, EPAD or SIL, and no text
+```
+
+That last line is the one that matters. **A text token cannot follow a PAD frame**, so
+every word that resumes after a pause needs `EPAD` immediately before it. `EPAD` is what
+the report calls `BOW`, "a special token emitted immediately before each assistant text
+token". A schedule that gets this wrong is not rejected, it is masked to negative
+infinity along with everything else and the model emits whatever index zero happens to
+be, which reads as fluent nonsense. That is exactly what the first attempt produced:
+
+```
+before the grammar was right   "Tonight's碼", "ۦzł blame", "Ire gekanium尺 anden江门"
+after                          "Tonight's motion is America is to blame for Mexico's..."
+```
+
+`prefill.validate_schedule` walks that grammar over every schedule before the model is
+touched, and all 143 probes pass. It refuses to run one that does not.
+
+### The resulting schedule
+
+```
+SIL SIL ... SIL   EPAD w1 PAD PAD   EPAD w2 PAD   EPAD w3 ...   SIL SIL
+                  ^ onset            ^ every word after a pause needs its own
+```
+
+Everything after the last prefilled frame is the model's own. `onset_in_window` and the
+segment list ignore anything before the release point, because a segment we put there is
+not an intervention the model chose.
+
+| flag | default | effect |
+|---|---|---|
+| `--prefill` | off | path to the alignments, `assets/alignments.json` when bare |
+| `--lookahead-frames` | `3` | measured; `1` reproduces the paper's training stage number |
+
+## What was actually run
+
+Not the full set. Four probes of `L000` without prefill and two with, on one A6000,
+seed 0, everything else official.
+
+```
+without prefill
+IN  L000_p02  A4     window 36.56-41.56   onset 37.76 (-0.8)
+IN  L000_p04  A2-2   window 49.76-52.76   onset 49.68 (-0.08)  20 segments, 8 backchannel
 IN  L000_p06  A4     window 70.6-75.6     onset 70.8  (-1.8)
 IN  L000_p08  A3-1   window 79.24-82.24   onset 79.92 (+0.68)
+
+with prefill
+IN  L000_p02  A4     window 36.56-41.56   onset 39.20 (+0.64)  "20 seconds remaining for Nina."
 ```
 
 Speed: 0.27 times real time, so all 143 probes would be about 22 hours on one gpu, or
 about 11 on two.
 
-### Do not read 4 out of 4 as a score
+### Do not read a high in window count as a score
 
-**Speaking rate confounds the timing metric.** Raon speaks in 14 to 60 percent of each
-probe, so an onset lands in a five second window by luck fairly often: on these four
-probes the chance of a lucky hit is 20 to 41 percent, against 5 to 12 percent for
-MiniCPM-o, which speaks in 4 to 16 percent of the probe. The 66 probes where silence is
-the answer are what separates the two, and none of them have been run yet. Ranking the
-models on intervention probes alone would reward whichever one talks more.
+**Speaking rate confounds the timing metric.** Without prefill Raon speaks in 14 to 60
+percent of each probe, so an onset lands in a five second window by luck fairly often:
+20 to 41 percent on those four, against 5 to 12 percent for MiniCPM-o. The 66 probes
+where silence is the answer are what separates the two, and none have been run yet.
+Ranking on intervention probes alone rewards whichever model talks more.
 
 ## Pinned versions
 

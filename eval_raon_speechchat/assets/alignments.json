@@ -1,0 +1,9646 @@
+{
+ "aligner": "/gpfs/home1/gmltmd7/workspace/Cowork/samsung_mx/debate5min/models/Qwen3-ForcedAligner-0.6B",
+ "speakers": [
+  "MOD"
+ ],
+ "note": "word times are relative to the start of the turn audio, and start_sec puts the turn on the debate timeline",
+ "turns": {
+  "L000/0": {
+   "debate_id": "L000",
+   "turn": 0,
+   "speaker": "MOD",
+   "start_sec": 0.0,
+   "end_sec": 18.36,
+   "text": "Tonight's motion is: America is to blame for Mexico's drug war. Nina argues for it, and Kirsten argues against it. Each debater gets thirty seconds for an opening. Then they address each other in crossfire. Each gets a thirty-second closing, with a ten-second cue before time expires. I will keep the debate moving.",
+   "audio": "audio/turns/L000_000.mp3",
+   "words": [
+    {
+     "text": "Tonight's",
+     "start": 0.08,
+     "end": 0.48
+    },
+    {
+     "text": "motion",
+     "start": 0.48,
+     "end": 0.8
+    },
+    {
+     "text": "is",
+     "start": 0.8,
+     "end": 1.2
+    },
+    {
+     "text": "America",
+     "start": 1.44,
+     "end": 1.92
+    },
+    {
+     "text": "is",
+     "start": 1.92,
+     "end": 2.08
+    },
+    {
+     "text": "to",
+     "start": 2.08,
+     "end": 2.16
+    },
+    {
+     "text": "blame",
+     "start": 2.16,
+     "end": 2.48
+    },
+    {
+     "text": "for",
+     "start": 2.48,
+     "end": 2.56
+    },
+    {
+     "text": "Mexico's",
+     "start": 2.56,
+     "end": 3.12
+    },
+    {
+     "text": "drug",
+     "start": 3.12,
+     "end": 3.6
+    },
+    {
+     "text": "war",
+     "start": 3.6,
+     "end": 4.08
+    },
+    {
+     "text": "Nina",
+     "start": 4.48,
+     "end": 4.96
+    },
+    {
+     "text": "argues",
+     "start": 4.96,
+     "end": 5.44
+    },
+    {
+     "text": "for",
+     "start": 5.44,
+     "end": 5.68
+    },
+    {
+     "text": "it",
+     "start": 5.68,
+     "end": 5.76
+    },
+    {
+     "text": "and",
+     "start": 5.76,
+     "end": 5.92
+    },
+    {
+     "text": "Kirsten",
+     "start": 5.92,
+     "end": 6.32
+    },
+    {
+     "text": "argues",
+     "start": 6.32,
+     "end": 6.64
+    },
+    {
+     "text": "against",
+     "start": 6.64,
+     "end": 7.04
+    },
+    {
+     "text": "it",
+     "start": 7.04,
+     "end": 7.2
+    },
+    {
+     "text": "Each",
+     "start": 7.2,
+     "end": 7.44
+    },
+    {
+     "text": "debater",
+     "start": 7.44,
+     "end": 7.76
+    },
+    {
+     "text": "gets",
+     "start": 7.76,
+     "end": 8.0
+    },
+    {
+     "text": "thirty",
+     "start": 8.32,
+     "end": 8.64
+    },
+    {
+     "text": "seconds",
+     "start": 8.64,
+     "end": 8.96
+    },
+    {
+     "text": "for",
+     "start": 8.96,
+     "end": 9.2
+    },
+    {
+     "text": "an",
+     "start": 9.2,
+     "end": 9.28
+    },
+    {
+     "text": "opening",
+     "start": 9.28,
+     "end": 9.84
+    },
+    {
+     "text": "Then",
+     "start": 10.16,
+     "end": 10.4
+    },
+    {
+     "text": "they",
+     "start": 10.4,
+     "end": 10.56
+    },
+    {
+     "text": "address",
+     "start": 10.56,
+     "end": 10.88
+    },
+    {
+     "text": "each",
+     "start": 10.88,
+     "end": 10.96
+    },
+    {
+     "text": "other",
+     "start": 10.96,
+     "end": 11.2
+    },
+    {
+     "text": "in",
+     "start": 11.2,
+     "end": 11.36
+    },
+    {
+     "text": "crossfire",
+     "start": 11.36,
+     "end": 12.0
+    },
+    {
+     "text": "Each",
+     "start": 12.0,
+     "end": 12.24
+    },
+    {
+     "text": "gets",
+     "start": 12.24,
+     "end": 12.4
+    },
+    {
+     "text": "a",
+     "start": 12.4,
+     "end": 12.4
+    },
+    {
+     "text": "thirtysecond",
+     "start": 12.4,
+     "end": 13.04
+    },
+    {
+     "text": "closing",
+     "start": 13.04,
+     "end": 13.6
+    },
+    {
+     "text": "with",
+     "start": 13.84,
+     "end": 14.0
+    },
+    {
+     "text": "a",
+     "start": 14.0,
+     "end": 14.08
+    },
+    {
+     "text": "tensecond",
+     "start": 14.08,
+     "end": 14.8
+    },
+    {
+     "text": "cue",
+     "start": 14.8,
+     "end": 15.04
+    },
+    {
+     "text": "before",
+     "start": 15.04,
+     "end": 15.44
+    },
+    {
+     "text": "time",
+     "start": 15.44,
+     "end": 15.76
+    },
+    {
+     "text": "expires",
+     "start": 15.76,
+     "end": 16.4
+    },
+    {
+     "text": "I",
+     "start": 16.8,
+     "end": 16.96
+    },
+    {
+     "text": "will",
+     "start": 16.96,
+     "end": 17.12
+    },
+    {
+     "text": "keep",
+     "start": 17.12,
+     "end": 17.36
+    },
+    {
+     "text": "the",
+     "start": 17.36,
+     "end": 17.44
+    },
+    {
+     "text": "debate",
+     "start": 17.44,
+     "end": 17.84
+    },
+    {
+     "text": "moving",
+     "start": 17.84,
+     "end": 18.24
+    }
+   ]
+  },
+  "L000/2": {
+   "debate_id": "L000",
+   "turn": 2,
+   "speaker": "MOD",
+   "start_sec": 37.56,
+   "end_sec": 40.72,
+   "text": "I can give you ten seconds to do this.",
+   "audio": "audio/turns/L000_002.mp3",
+   "words": [
+    {
+     "text": "I",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "can",
+     "start": 0.96,
+     "end": 1.12
+    },
+    {
+     "text": "give",
+     "start": 1.12,
+     "end": 1.28
+    },
+    {
+     "text": "you",
+     "start": 1.28,
+     "end": 1.52
+    },
+    {
+     "text": "ten",
+     "start": 1.52,
+     "end": 1.76
+    },
+    {
+     "text": "seconds",
+     "start": 1.76,
+     "end": 2.4
+    },
+    {
+     "text": "to",
+     "start": 2.4,
+     "end": 2.4
+    },
+    {
+     "text": "do",
+     "start": 2.4,
+     "end": 2.64
+    },
+    {
+     "text": "this",
+     "start": 2.64,
+     "end": 3.12
+    }
+   ]
+  },
+  "L000/4": {
+   "debate_id": "L000",
+   "turn": 4,
+   "speaker": "MOD",
+   "start_sec": 49.96,
+   "end_sec": 52.4,
+   "text": "All right. Let me bring it back to Kirsten.",
+   "audio": "audio/turns/L000_004.mp3",
+   "words": [
+    {
+     "text": "All",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "right",
+     "start": 0.16,
+     "end": 0.48
+    },
+    {
+     "text": "Let",
+     "start": 1.04,
+     "end": 1.12
+    },
+    {
+     "text": "me",
+     "start": 1.12,
+     "end": 1.28
+    },
+    {
+     "text": "bring",
+     "start": 1.28,
+     "end": 1.44
+    },
+    {
+     "text": "it",
+     "start": 1.44,
+     "end": 1.52
+    },
+    {
+     "text": "back",
+     "start": 1.52,
+     "end": 1.84
+    },
+    {
+     "text": "to",
+     "start": 1.84,
+     "end": 1.84
+    },
+    {
+     "text": "Kirsten",
+     "start": 1.84,
+     "end": 2.4
+    }
+   ]
+  },
+  "L000/6": {
+   "debate_id": "L000",
+   "turn": 6,
+   "speaker": "MOD",
+   "start_sec": 70.72,
+   "end_sec": 74.04,
+   "text": "I'll give you ten more seconds to nail this.",
+   "audio": "audio/turns/L000_006.mp3",
+   "words": [
+    {
+     "text": "I'll",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "give",
+     "start": 0.24,
+     "end": 0.4
+    },
+    {
+     "text": "you",
+     "start": 0.4,
+     "end": 0.56
+    },
+    {
+     "text": "ten",
+     "start": 0.56,
+     "end": 0.8
+    },
+    {
+     "text": "more",
+     "start": 0.8,
+     "end": 1.04
+    },
+    {
+     "text": "seconds",
+     "start": 1.04,
+     "end": 1.6
+    },
+    {
+     "text": "to",
+     "start": 1.76,
+     "end": 2.16
+    },
+    {
+     "text": "nail",
+     "start": 2.48,
+     "end": 2.88
+    },
+    {
+     "text": "this",
+     "start": 2.88,
+     "end": 3.2
+    }
+   ]
+  },
+  "L000/8": {
+   "debate_id": "L000",
+   "turn": 8,
+   "speaker": "MOD",
+   "start_sec": 79.44,
+   "end_sec": 84.84,
+   "text": "That concludes round one. Now on to round two where the debaters address each other directly.",
+   "audio": "audio/turns/L000_008.mp3",
+   "words": [
+    {
+     "text": "That",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "concludes",
+     "start": 0.32,
+     "end": 0.72
+    },
+    {
+     "text": "round",
+     "start": 0.72,
+     "end": 1.04
+    },
+    {
+     "text": "one",
+     "start": 1.04,
+     "end": 1.44
+    },
+    {
+     "text": "Now",
+     "start": 1.44,
+     "end": 1.68
+    },
+    {
+     "text": "on",
+     "start": 1.68,
+     "end": 1.92
+    },
+    {
+     "text": "to",
+     "start": 2.0,
+     "end": 2.0
+    },
+    {
+     "text": "round",
+     "start": 2.0,
+     "end": 2.32
+    },
+    {
+     "text": "two",
+     "start": 2.32,
+     "end": 2.88
+    },
+    {
+     "text": "where",
+     "start": 3.04,
+     "end": 3.28
+    },
+    {
+     "text": "the",
+     "start": 3.28,
+     "end": 3.36
+    },
+    {
+     "text": "debaters",
+     "start": 3.36,
+     "end": 3.92
+    },
+    {
+     "text": "address",
+     "start": 3.92,
+     "end": 4.32
+    },
+    {
+     "text": "each",
+     "start": 4.32,
+     "end": 4.48
+    },
+    {
+     "text": "other",
+     "start": 4.48,
+     "end": 4.64
+    },
+    {
+     "text": "directly",
+     "start": 4.64,
+     "end": 5.28
+    }
+   ]
+  },
+  "L000/14": {
+   "debate_id": "L000",
+   "turn": 14,
+   "speaker": "MOD",
+   "start_sec": 141.28,
+   "end_sec": 150.76,
+   "text": "Well you're a government is responsible for harm it knowingly helps cause and then you're america is not responsible for harm it knowingly helps cause in Mexico. Which?",
+   "audio": "audio/turns/L000_014.mp3",
+   "words": [
+    {
+     "text": "Well",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "you're",
+     "start": 0.16,
+     "end": 0.4
+    },
+    {
+     "text": "a",
+     "start": 0.4,
+     "end": 0.48
+    },
+    {
+     "text": "government",
+     "start": 0.48,
+     "end": 1.04
+    },
+    {
+     "text": "is",
+     "start": 1.04,
+     "end": 1.12
+    },
+    {
+     "text": "responsible",
+     "start": 1.12,
+     "end": 1.84
+    },
+    {
+     "text": "for",
+     "start": 1.84,
+     "end": 2.0
+    },
+    {
+     "text": "harm",
+     "start": 2.0,
+     "end": 2.32
+    },
+    {
+     "text": "it",
+     "start": 2.32,
+     "end": 2.48
+    },
+    {
+     "text": "knowingly",
+     "start": 2.48,
+     "end": 3.04
+    },
+    {
+     "text": "helps",
+     "start": 3.04,
+     "end": 3.36
+    },
+    {
+     "text": "cause",
+     "start": 3.36,
+     "end": 3.92
+    },
+    {
+     "text": "and",
+     "start": 4.24,
+     "end": 4.32
+    },
+    {
+     "text": "then",
+     "start": 4.32,
+     "end": 4.56
+    },
+    {
+     "text": "you're",
+     "start": 4.56,
+     "end": 4.72
+    },
+    {
+     "text": "america",
+     "start": 4.72,
+     "end": 5.28
+    },
+    {
+     "text": "is",
+     "start": 5.28,
+     "end": 5.44
+    },
+    {
+     "text": "not",
+     "start": 5.44,
+     "end": 5.84
+    },
+    {
+     "text": "responsible",
+     "start": 5.84,
+     "end": 6.48
+    },
+    {
+     "text": "for",
+     "start": 6.48,
+     "end": 6.64
+    },
+    {
+     "text": "harm",
+     "start": 6.64,
+     "end": 6.88
+    },
+    {
+     "text": "it",
+     "start": 6.88,
+     "end": 6.96
+    },
+    {
+     "text": "knowingly",
+     "start": 6.96,
+     "end": 7.36
+    },
+    {
+     "text": "helps",
+     "start": 7.36,
+     "end": 7.68
+    },
+    {
+     "text": "cause",
+     "start": 7.68,
+     "end": 8.0
+    },
+    {
+     "text": "in",
+     "start": 8.0,
+     "end": 8.16
+    },
+    {
+     "text": "Mexico",
+     "start": 8.16,
+     "end": 8.64
+    },
+    {
+     "text": "Which",
+     "start": 8.96,
+     "end": 9.36
+    }
+   ]
+  },
+  "L000/18": {
+   "debate_id": "L000",
+   "turn": 18,
+   "speaker": "MOD",
+   "start_sec": 184.28,
+   "end_sec": 192.16,
+   "text": "Okay. We're gonna wrap it up there. And now we move on to our closing statements. And Nina, you are up first.",
+   "audio": "audio/turns/L000_018.mp3",
+   "words": [
+    {
+     "text": "Okay",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "We're",
+     "start": 0.88,
+     "end": 0.96
+    },
+    {
+     "text": "gonna",
+     "start": 1.6,
+     "end": 1.6
+    },
+    {
+     "text": "wrap",
+     "start": 1.92,
+     "end": 2.24
+    },
+    {
+     "text": "it",
+     "start": 2.24,
+     "end": 2.24
+    },
+    {
+     "text": "up",
+     "start": 2.24,
+     "end": 2.4
+    },
+    {
+     "text": "there",
+     "start": 2.4,
+     "end": 2.88
+    },
+    {
+     "text": "And",
+     "start": 3.28,
+     "end": 3.44
+    },
+    {
+     "text": "now",
+     "start": 3.44,
+     "end": 3.76
+    },
+    {
+     "text": "we",
+     "start": 3.76,
+     "end": 3.84
+    },
+    {
+     "text": "move",
+     "start": 3.84,
+     "end": 4.16
+    },
+    {
+     "text": "on",
+     "start": 4.16,
+     "end": 4.32
+    },
+    {
+     "text": "to",
+     "start": 4.4,
+     "end": 4.48
+    },
+    {
+     "text": "our",
+     "start": 4.48,
+     "end": 4.56
+    },
+    {
+     "text": "closing",
+     "start": 4.56,
+     "end": 4.96
+    },
+    {
+     "text": "statements",
+     "start": 4.96,
+     "end": 5.52
+    },
+    {
+     "text": "And",
+     "start": 5.84,
+     "end": 6.08
+    },
+    {
+     "text": "Nina",
+     "start": 6.08,
+     "end": 6.4
+    },
+    {
+     "text": "you",
+     "start": 6.4,
+     "end": 6.8
+    },
+    {
+     "text": "are",
+     "start": 6.8,
+     "end": 6.96
+    },
+    {
+     "text": "up",
+     "start": 6.96,
+     "end": 7.2
+    },
+    {
+     "text": "first",
+     "start": 7.2,
+     "end": 7.84
+    }
+   ]
+  },
+  "L000/20": {
+   "debate_id": "L000",
+   "turn": 20,
+   "speaker": "MOD",
+   "start_sec": 211.5,
+   "end_sec": 212.66,
+   "text": "Nina, ten seconds.",
+   "audio": "audio/turns/L000_020.mp3",
+   "words": [
+    {
+     "text": "Nina",
+     "start": 0.08,
+     "end": 0.56
+    },
+    {
+     "text": "ten",
+     "start": 0.56,
+     "end": 0.8
+    },
+    {
+     "text": "seconds",
+     "start": 0.8,
+     "end": 1.12
+    }
+   ]
+  },
+  "L000/22": {
+   "debate_id": "L000",
+   "turn": 22,
+   "speaker": "MOD",
+   "start_sec": 225.62,
+   "end_sec": 229.58,
+   "text": "You're out of time. And here to summarize her position, Kirsten.",
+   "audio": "audio/turns/L000_022.mp3",
+   "words": [
+    {
+     "text": "You're",
+     "start": 0.08,
+     "end": 0.72
+    },
+    {
+     "text": "out",
+     "start": 0.72,
+     "end": 0.96
+    },
+    {
+     "text": "of",
+     "start": 0.96,
+     "end": 1.04
+    },
+    {
+     "text": "time",
+     "start": 1.04,
+     "end": 1.52
+    },
+    {
+     "text": "And",
+     "start": 1.68,
+     "end": 1.84
+    },
+    {
+     "text": "here",
+     "start": 1.84,
+     "end": 2.16
+    },
+    {
+     "text": "to",
+     "start": 2.16,
+     "end": 2.24
+    },
+    {
+     "text": "summarize",
+     "start": 2.24,
+     "end": 2.8
+    },
+    {
+     "text": "her",
+     "start": 2.8,
+     "end": 2.88
+    },
+    {
+     "text": "position",
+     "start": 2.88,
+     "end": 3.44
+    },
+    {
+     "text": "Kirsten",
+     "start": 3.44,
+     "end": 3.92
+    }
+   ]
+  },
+  "L000/24": {
+   "debate_id": "L000",
+   "turn": 24,
+   "speaker": "MOD",
+   "start_sec": 247.14,
+   "end_sec": 254.3,
+   "text": "Thank you both. This debate is closed. We have heard both positions, and I will not declare a winner tonight.",
+   "audio": "audio/turns/L000_024.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "you",
+     "start": 1.04,
+     "end": 1.12
+    },
+    {
+     "text": "both",
+     "start": 1.12,
+     "end": 1.52
+    },
+    {
+     "text": "This",
+     "start": 1.92,
+     "end": 2.16
+    },
+    {
+     "text": "debate",
+     "start": 2.16,
+     "end": 2.48
+    },
+    {
+     "text": "is",
+     "start": 2.48,
+     "end": 2.56
+    },
+    {
+     "text": "closed",
+     "start": 2.56,
+     "end": 3.2
+    },
+    {
+     "text": "We",
+     "start": 3.36,
+     "end": 3.6
+    },
+    {
+     "text": "have",
+     "start": 3.6,
+     "end": 3.68
+    },
+    {
+     "text": "heard",
+     "start": 3.68,
+     "end": 3.92
+    },
+    {
+     "text": "both",
+     "start": 3.92,
+     "end": 4.24
+    },
+    {
+     "text": "positions",
+     "start": 4.24,
+     "end": 4.8
+    },
+    {
+     "text": "and",
+     "start": 5.04,
+     "end": 5.12
+    },
+    {
+     "text": "I",
+     "start": 5.12,
+     "end": 5.28
+    },
+    {
+     "text": "will",
+     "start": 5.28,
+     "end": 5.44
+    },
+    {
+     "text": "not",
+     "start": 5.44,
+     "end": 5.76
+    },
+    {
+     "text": "declare",
+     "start": 5.76,
+     "end": 6.24
+    },
+    {
+     "text": "a",
+     "start": 6.24,
+     "end": 6.32
+    },
+    {
+     "text": "winner",
+     "start": 6.32,
+     "end": 6.64
+    },
+    {
+     "text": "tonight",
+     "start": 6.64,
+     "end": 7.12
+    }
+   ]
+  },
+  "L001/0": {
+   "debate_id": "L001",
+   "turn": 0,
+   "speaker": "MOD",
+   "start_sec": 0.0,
+   "end_sec": 17.48,
+   "text": "The motion is to ration end-of-life care. Joanna argues for it, and Rima argues against it. Each opening lasts thirty seconds. Then we have crossfire, with direct answers to one another. Finally, each side gets a thirty-second closing. I will give a ten-second cue, and I may intervene to keep us moving.",
+   "audio": "audio/turns/L001_000.mp3",
+   "words": [
+    {
+     "text": "The",
+     "start": 0.08,
+     "end": 0.16
+    },
+    {
+     "text": "motion",
+     "start": 0.16,
+     "end": 0.64
+    },
+    {
+     "text": "is",
+     "start": 0.64,
+     "end": 0.8
+    },
+    {
+     "text": "to",
+     "start": 0.8,
+     "end": 0.88
+    },
+    {
+     "text": "ration",
+     "start": 0.88,
+     "end": 1.36
+    },
+    {
+     "text": "endoflife",
+     "start": 1.44,
+     "end": 1.92
+    },
+    {
+     "text": "care",
+     "start": 1.92,
+     "end": 2.24
+    },
+    {
+     "text": "Joanna",
+     "start": 2.8,
+     "end": 3.2
+    },
+    {
+     "text": "argues",
+     "start": 3.2,
+     "end": 3.6
+    },
+    {
+     "text": "for",
+     "start": 3.6,
+     "end": 3.84
+    },
+    {
+     "text": "it",
+     "start": 3.92,
+     "end": 4.0
+    },
+    {
+     "text": "and",
+     "start": 4.0,
+     "end": 4.16
+    },
+    {
+     "text": "Rima",
+     "start": 4.16,
+     "end": 4.48
+    },
+    {
+     "text": "argues",
+     "start": 4.48,
+     "end": 4.96
+    },
+    {
+     "text": "against",
+     "start": 4.96,
+     "end": 5.36
+    },
+    {
+     "text": "it",
+     "start": 5.36,
+     "end": 5.44
+    },
+    {
+     "text": "Each",
+     "start": 5.92,
+     "end": 6.16
+    },
+    {
+     "text": "opening",
+     "start": 6.16,
+     "end": 6.64
+    },
+    {
+     "text": "lasts",
+     "start": 6.64,
+     "end": 6.96
+    },
+    {
+     "text": "thirty",
+     "start": 6.96,
+     "end": 7.2
+    },
+    {
+     "text": "seconds",
+     "start": 7.2,
+     "end": 7.84
+    },
+    {
+     "text": "Then",
+     "start": 8.08,
+     "end": 8.24
+    },
+    {
+     "text": "we",
+     "start": 8.24,
+     "end": 8.4
+    },
+    {
+     "text": "have",
+     "start": 8.4,
+     "end": 8.48
+    },
+    {
+     "text": "crossfire",
+     "start": 8.48,
+     "end": 9.28
+    },
+    {
+     "text": "with",
+     "start": 9.28,
+     "end": 9.44
+    },
+    {
+     "text": "direct",
+     "start": 9.44,
+     "end": 9.84
+    },
+    {
+     "text": "answers",
+     "start": 9.84,
+     "end": 10.24
+    },
+    {
+     "text": "to",
+     "start": 10.24,
+     "end": 10.32
+    },
+    {
+     "text": "one",
+     "start": 10.32,
+     "end": 10.56
+    },
+    {
+     "text": "another",
+     "start": 10.56,
+     "end": 10.88
+    },
+    {
+     "text": "Finally",
+     "start": 11.52,
+     "end": 11.92
+    },
+    {
+     "text": "each",
+     "start": 11.92,
+     "end": 12.16
+    },
+    {
+     "text": "side",
+     "start": 12.16,
+     "end": 12.48
+    },
+    {
+     "text": "gets",
+     "start": 12.48,
+     "end": 12.64
+    },
+    {
+     "text": "a",
+     "start": 12.64,
+     "end": 12.72
+    },
+    {
+     "text": "thirtysecond",
+     "start": 12.72,
+     "end": 13.36
+    },
+    {
+     "text": "closing",
+     "start": 13.36,
+     "end": 13.84
+    },
+    {
+     "text": "I",
+     "start": 14.0,
+     "end": 14.24
+    },
+    {
+     "text": "will",
+     "start": 14.24,
+     "end": 14.32
+    },
+    {
+     "text": "give",
+     "start": 14.32,
+     "end": 14.48
+    },
+    {
+     "text": "a",
+     "start": 14.48,
+     "end": 14.56
+    },
+    {
+     "text": "tensecond",
+     "start": 14.56,
+     "end": 15.2
+    },
+    {
+     "text": "cue",
+     "start": 15.2,
+     "end": 15.6
+    },
+    {
+     "text": "and",
+     "start": 15.68,
+     "end": 15.76
+    },
+    {
+     "text": "I",
+     "start": 15.76,
+     "end": 15.84
+    },
+    {
+     "text": "may",
+     "start": 15.84,
+     "end": 16.0
+    },
+    {
+     "text": "intervene",
+     "start": 16.0,
+     "end": 16.64
+    },
+    {
+     "text": "to",
+     "start": 16.64,
+     "end": 16.64
+    },
+    {
+     "text": "keep",
+     "start": 16.64,
+     "end": 16.88
+    },
+    {
+     "text": "us",
+     "start": 16.88,
+     "end": 17.04
+    },
+    {
+     "text": "moving",
+     "start": 17.04,
+     "end": 17.36
+    }
+   ]
+  },
+  "L001/2": {
+   "debate_id": "L001",
+   "turn": 2,
+   "speaker": "MOD",
+   "start_sec": 35.94,
+   "end_sec": 38.22,
+   "text": "I'll give you ten more seconds to nail this.",
+   "audio": "audio/turns/L001_002.mp3",
+   "words": [
+    {
+     "text": "I'll",
+     "start": 0.08,
+     "end": 0.16
+    },
+    {
+     "text": "give",
+     "start": 0.16,
+     "end": 0.4
+    },
+    {
+     "text": "you",
+     "start": 0.4,
+     "end": 0.48
+    },
+    {
+     "text": "ten",
+     "start": 0.48,
+     "end": 0.72
+    },
+    {
+     "text": "more",
+     "start": 0.72,
+     "end": 0.96
+    },
+    {
+     "text": "seconds",
+     "start": 0.96,
+     "end": 1.44
+    },
+    {
+     "text": "to",
+     "start": 1.44,
+     "end": 1.52
+    },
+    {
+     "text": "nail",
+     "start": 1.52,
+     "end": 1.84
+    },
+    {
+     "text": "this",
+     "start": 1.84,
+     "end": 2.24
+    }
+   ]
+  },
+  "L001/4": {
+   "debate_id": "L001",
+   "turn": 4,
+   "speaker": "MOD",
+   "start_sec": 51.74,
+   "end_sec": 54.02,
+   "text": "Joanna, you're rather going on. Thank you. Rima.",
+   "audio": "audio/turns/L001_004.mp3",
+   "words": [
+    {
+     "text": "Joanna",
+     "start": 0.08,
+     "end": 0.4
+    },
+    {
+     "text": "you're",
+     "start": 0.4,
+     "end": 0.56
+    },
+    {
+     "text": "rather",
+     "start": 0.56,
+     "end": 0.8
+    },
+    {
+     "text": "going",
+     "start": 0.8,
+     "end": 1.04
+    },
+    {
+     "text": "on",
+     "start": 1.04,
+     "end": 1.44
+    },
+    {
+     "text": "Thank",
+     "start": 1.6,
+     "end": 1.84
+    },
+    {
+     "text": "you",
+     "start": 1.84,
+     "end": 1.92
+    },
+    {
+     "text": "Rima",
+     "start": 1.92,
+     "end": 2.24
+    }
+   ]
+  },
+  "L001/6": {
+   "debate_id": "L001",
+   "turn": 6,
+   "speaker": "MOD",
+   "start_sec": 72.06,
+   "end_sec": 79.54,
+   "text": "And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly.",
+   "audio": "audio/turns/L001_006.mp3",
+   "words": [
+    {
+     "text": "And",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "that",
+     "start": 0.24,
+     "end": 0.4
+    },
+    {
+     "text": "concludes",
+     "start": 0.4,
+     "end": 0.88
+    },
+    {
+     "text": "round",
+     "start": 0.88,
+     "end": 1.2
+    },
+    {
+     "text": "one",
+     "start": 1.2,
+     "end": 1.44
+    },
+    {
+     "text": "Now",
+     "start": 2.24,
+     "end": 2.56
+    },
+    {
+     "text": "we",
+     "start": 2.56,
+     "end": 2.64
+    },
+    {
+     "text": "move",
+     "start": 2.64,
+     "end": 2.88
+    },
+    {
+     "text": "on",
+     "start": 2.88,
+     "end": 3.04
+    },
+    {
+     "text": "to",
+     "start": 3.12,
+     "end": 3.12
+    },
+    {
+     "text": "round",
+     "start": 3.12,
+     "end": 3.44
+    },
+    {
+     "text": "two",
+     "start": 3.44,
+     "end": 3.76
+    },
+    {
+     "text": "and",
+     "start": 3.76,
+     "end": 3.84
+    },
+    {
+     "text": "in",
+     "start": 3.84,
+     "end": 4.0
+    },
+    {
+     "text": "round",
+     "start": 4.0,
+     "end": 4.32
+    },
+    {
+     "text": "two",
+     "start": 4.32,
+     "end": 4.72
+    },
+    {
+     "text": "the",
+     "start": 4.72,
+     "end": 4.96
+    },
+    {
+     "text": "debaters",
+     "start": 4.96,
+     "end": 5.6
+    },
+    {
+     "text": "will",
+     "start": 5.6,
+     "end": 5.84
+    },
+    {
+     "text": "address",
+     "start": 5.84,
+     "end": 6.24
+    },
+    {
+     "text": "one",
+     "start": 6.24,
+     "end": 6.48
+    },
+    {
+     "text": "another",
+     "start": 6.48,
+     "end": 6.8
+    },
+    {
+     "text": "directly",
+     "start": 6.8,
+     "end": 7.44
+    }
+   ]
+  },
+  "L001/15": {
+   "debate_id": "L001",
+   "turn": 15,
+   "speaker": "MOD",
+   "start_sec": 193.42,
+   "end_sec": 199.06,
+   "text": "Can we please go back to the question at hand? We're going to go back to the question at issue.",
+   "audio": "audio/turns/L001_015.mp3",
+   "words": [
+    {
+     "text": "Can",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "we",
+     "start": 0.24,
+     "end": 0.32
+    },
+    {
+     "text": "please",
+     "start": 0.32,
+     "end": 0.64
+    },
+    {
+     "text": "go",
+     "start": 0.64,
+     "end": 0.8
+    },
+    {
+     "text": "back",
+     "start": 0.8,
+     "end": 1.2
+    },
+    {
+     "text": "to",
+     "start": 1.2,
+     "end": 1.2
+    },
+    {
+     "text": "the",
+     "start": 1.2,
+     "end": 1.28
+    },
+    {
+     "text": "question",
+     "start": 1.28,
+     "end": 1.92
+    },
+    {
+     "text": "at",
+     "start": 2.16,
+     "end": 2.32
+    },
+    {
+     "text": "hand",
+     "start": 2.32,
+     "end": 2.88
+    },
+    {
+     "text": "We're",
+     "start": 3.52,
+     "end": 3.6
+    },
+    {
+     "text": "going",
+     "start": 3.6,
+     "end": 3.84
+    },
+    {
+     "text": "to",
+     "start": 3.84,
+     "end": 3.84
+    },
+    {
+     "text": "go",
+     "start": 3.84,
+     "end": 4.0
+    },
+    {
+     "text": "back",
+     "start": 4.0,
+     "end": 4.32
+    },
+    {
+     "text": "to",
+     "start": 4.32,
+     "end": 4.32
+    },
+    {
+     "text": "the",
+     "start": 4.32,
+     "end": 4.4
+    },
+    {
+     "text": "question",
+     "start": 4.4,
+     "end": 4.96
+    },
+    {
+     "text": "at",
+     "start": 5.12,
+     "end": 5.28
+    },
+    {
+     "text": "issue",
+     "start": 5.28,
+     "end": 5.6
+    }
+   ]
+  },
+  "L001/18": {
+   "debate_id": "L001",
+   "turn": 18,
+   "speaker": "MOD",
+   "start_sec": 225.38,
+   "end_sec": 229.66,
+   "text": "And now we move into closing statements from each debater in turn, starting with Joanna.",
+   "audio": "audio/turns/L001_018.mp3",
+   "words": [
+    {
+     "text": "And",
+     "start": 0.08,
+     "end": 0.16
+    },
+    {
+     "text": "now",
+     "start": 0.16,
+     "end": 0.32
+    },
+    {
+     "text": "we",
+     "start": 0.32,
+     "end": 0.48
+    },
+    {
+     "text": "move",
+     "start": 0.48,
+     "end": 0.72
+    },
+    {
+     "text": "into",
+     "start": 0.72,
+     "end": 0.88
+    },
+    {
+     "text": "closing",
+     "start": 0.88,
+     "end": 1.36
+    },
+    {
+     "text": "statements",
+     "start": 1.36,
+     "end": 1.84
+    },
+    {
+     "text": "from",
+     "start": 1.84,
+     "end": 2.0
+    },
+    {
+     "text": "each",
+     "start": 2.0,
+     "end": 2.32
+    },
+    {
+     "text": "debater",
+     "start": 2.32,
+     "end": 2.72
+    },
+    {
+     "text": "in",
+     "start": 2.72,
+     "end": 2.8
+    },
+    {
+     "text": "turn",
+     "start": 2.8,
+     "end": 3.2
+    },
+    {
+     "text": "starting",
+     "start": 3.2,
+     "end": 3.6
+    },
+    {
+     "text": "with",
+     "start": 3.6,
+     "end": 3.68
+    },
+    {
+     "text": "Joanna",
+     "start": 3.68,
+     "end": 4.24
+    }
+   ]
+  },
+  "L001/20": {
+   "debate_id": "L001",
+   "turn": 20,
+   "speaker": "MOD",
+   "start_sec": 247.7,
+   "end_sec": 256.54,
+   "text": "Thank you, Joanna. And that is the motion, ration end-of-life care to ensure fair access when resources are scarce. And here to argue against the motion, Rima.",
+   "audio": "audio/turns/L001_020.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.0,
+     "end": 0.32
+    },
+    {
+     "text": "you",
+     "start": 0.32,
+     "end": 0.32
+    },
+    {
+     "text": "Joanna",
+     "start": 0.32,
+     "end": 0.88
+    },
+    {
+     "text": "And",
+     "start": 1.44,
+     "end": 1.6
+    },
+    {
+     "text": "that",
+     "start": 1.6,
+     "end": 1.76
+    },
+    {
+     "text": "is",
+     "start": 1.76,
+     "end": 1.92
+    },
+    {
+     "text": "the",
+     "start": 1.92,
+     "end": 2.0
+    },
+    {
+     "text": "motion",
+     "start": 2.0,
+     "end": 2.56
+    },
+    {
+     "text": "ration",
+     "start": 2.56,
+     "end": 2.96
+    },
+    {
+     "text": "endoflife",
+     "start": 2.96,
+     "end": 3.44
+    },
+    {
+     "text": "care",
+     "start": 3.44,
+     "end": 3.68
+    },
+    {
+     "text": "to",
+     "start": 3.68,
+     "end": 3.76
+    },
+    {
+     "text": "ensure",
+     "start": 3.76,
+     "end": 4.0
+    },
+    {
+     "text": "fair",
+     "start": 4.0,
+     "end": 4.4
+    },
+    {
+     "text": "access",
+     "start": 4.4,
+     "end": 4.8
+    },
+    {
+     "text": "when",
+     "start": 4.8,
+     "end": 4.96
+    },
+    {
+     "text": "resources",
+     "start": 4.96,
+     "end": 5.52
+    },
+    {
+     "text": "are",
+     "start": 5.52,
+     "end": 5.6
+    },
+    {
+     "text": "scarce",
+     "start": 5.6,
+     "end": 6.16
+    },
+    {
+     "text": "And",
+     "start": 6.8,
+     "end": 6.88
+    },
+    {
+     "text": "here",
+     "start": 6.88,
+     "end": 7.12
+    },
+    {
+     "text": "to",
+     "start": 7.12,
+     "end": 7.2
+    },
+    {
+     "text": "argue",
+     "start": 7.2,
+     "end": 7.6
+    },
+    {
+     "text": "against",
+     "start": 7.6,
+     "end": 7.92
+    },
+    {
+     "text": "the",
+     "start": 7.92,
+     "end": 8.0
+    },
+    {
+     "text": "motion",
+     "start": 8.0,
+     "end": 8.4
+    },
+    {
+     "text": "Rima",
+     "start": 8.4,
+     "end": 8.8
+    }
+   ]
+  },
+  "L001/23": {
+   "debate_id": "L001",
+   "turn": 23,
+   "speaker": "MOD",
+   "start_sec": 266.18,
+   "end_sec": 268.3,
+   "text": "No, no, no. Hold on. Let Joanna.",
+   "audio": "audio/turns/L001_023.mp3",
+   "words": [
+    {
+     "text": "No",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "no",
+     "start": 0.24,
+     "end": 0.32
+    },
+    {
+     "text": "no",
+     "start": 0.32,
+     "end": 0.48
+    },
+    {
+     "text": "Hold",
+     "start": 0.64,
+     "end": 0.8
+    },
+    {
+     "text": "on",
+     "start": 0.8,
+     "end": 1.04
+    },
+    {
+     "text": "Let",
+     "start": 1.44,
+     "end": 1.6
+    },
+    {
+     "text": "Joanna",
+     "start": 1.6,
+     "end": 2.0
+    }
+   ]
+  },
+  "L001/25": {
+   "debate_id": "L001",
+   "turn": 25,
+   "speaker": "MOD",
+   "start_sec": 277.72,
+   "end_sec": 278.56,
+   "text": "Well, now ten.",
+   "audio": "audio/turns/L001_025.mp3",
+   "words": [
+    {
+     "text": "Well",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "now",
+     "start": 0.16,
+     "end": 0.32
+    },
+    {
+     "text": "ten",
+     "start": 0.32,
+     "end": 0.72
+    }
+   ]
+  },
+  "L001/27": {
+   "debate_id": "L001",
+   "turn": 27,
+   "speaker": "MOD",
+   "start_sec": 284.36,
+   "end_sec": 291.12,
+   "text": "Thank you both. This debate on whether to ration end-of-life care is closed. The arguments and closing statements are now complete.",
+   "audio": "audio/turns/L001_027.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "you",
+     "start": 0.32,
+     "end": 0.32
+    },
+    {
+     "text": "both",
+     "start": 0.32,
+     "end": 0.64
+    },
+    {
+     "text": "This",
+     "start": 0.96,
+     "end": 1.12
+    },
+    {
+     "text": "debate",
+     "start": 1.12,
+     "end": 1.44
+    },
+    {
+     "text": "on",
+     "start": 1.44,
+     "end": 1.6
+    },
+    {
+     "text": "whether",
+     "start": 1.6,
+     "end": 1.76
+    },
+    {
+     "text": "to",
+     "start": 1.76,
+     "end": 1.76
+    },
+    {
+     "text": "ration",
+     "start": 1.84,
+     "end": 2.48
+    },
+    {
+     "text": "endoflife",
+     "start": 2.56,
+     "end": 3.04
+    },
+    {
+     "text": "care",
+     "start": 3.12,
+     "end": 3.36
+    },
+    {
+     "text": "is",
+     "start": 3.36,
+     "end": 3.52
+    },
+    {
+     "text": "closed",
+     "start": 3.52,
+     "end": 4.08
+    },
+    {
+     "text": "The",
+     "start": 4.4,
+     "end": 4.48
+    },
+    {
+     "text": "arguments",
+     "start": 4.48,
+     "end": 5.04
+    },
+    {
+     "text": "and",
+     "start": 5.04,
+     "end": 5.12
+    },
+    {
+     "text": "closing",
+     "start": 5.12,
+     "end": 5.52
+    },
+    {
+     "text": "statements",
+     "start": 5.52,
+     "end": 6.0
+    },
+    {
+     "text": "are",
+     "start": 6.0,
+     "end": 6.0
+    },
+    {
+     "text": "now",
+     "start": 6.0,
+     "end": 6.24
+    },
+    {
+     "text": "complete",
+     "start": 6.24,
+     "end": 6.72
+    }
+   ]
+  },
+  "L002/0": {
+   "debate_id": "L002",
+   "turn": 0,
+   "speaker": "MOD",
+   "start_sec": 0.0,
+   "end_sec": 18.68,
+   "text": "Tonight's motion is Better Elected Islamists Than Dictators. Miriam argues for it; Danielle argues against it. Each will have thirty seconds to open. Then they will question and answer in crossfire. Finally, each will give a thirty-second closing. I will give a ten-second cue before time expires. Keep answers focused, and address the motion directly.",
+   "audio": "audio/turns/L002_000.mp3",
+   "words": [
+    {
+     "text": "Tonight's",
+     "start": 0.0,
+     "end": 0.32
+    },
+    {
+     "text": "motion",
+     "start": 0.32,
+     "end": 0.64
+    },
+    {
+     "text": "is",
+     "start": 0.64,
+     "end": 0.8
+    },
+    {
+     "text": "Better",
+     "start": 0.8,
+     "end": 0.96
+    },
+    {
+     "text": "Elected",
+     "start": 0.96,
+     "end": 1.28
+    },
+    {
+     "text": "Islamists",
+     "start": 1.28,
+     "end": 1.68
+    },
+    {
+     "text": "Than",
+     "start": 1.68,
+     "end": 1.84
+    },
+    {
+     "text": "Dictators",
+     "start": 1.84,
+     "end": 2.48
+    },
+    {
+     "text": "Miriam",
+     "start": 3.2,
+     "end": 3.52
+    },
+    {
+     "text": "argues",
+     "start": 3.52,
+     "end": 3.84
+    },
+    {
+     "text": "for",
+     "start": 3.84,
+     "end": 4.08
+    },
+    {
+     "text": "it",
+     "start": 4.08,
+     "end": 4.16
+    },
+    {
+     "text": "Danielle",
+     "start": 4.48,
+     "end": 4.96
+    },
+    {
+     "text": "argues",
+     "start": 4.96,
+     "end": 5.28
+    },
+    {
+     "text": "against",
+     "start": 5.28,
+     "end": 5.6
+    },
+    {
+     "text": "it",
+     "start": 5.6,
+     "end": 5.76
+    },
+    {
+     "text": "Each",
+     "start": 6.08,
+     "end": 6.16
+    },
+    {
+     "text": "will",
+     "start": 6.16,
+     "end": 6.24
+    },
+    {
+     "text": "have",
+     "start": 6.24,
+     "end": 6.48
+    },
+    {
+     "text": "thirty",
+     "start": 6.48,
+     "end": 6.64
+    },
+    {
+     "text": "seconds",
+     "start": 6.64,
+     "end": 7.04
+    },
+    {
+     "text": "to",
+     "start": 7.04,
+     "end": 7.04
+    },
+    {
+     "text": "open",
+     "start": 7.04,
+     "end": 7.36
+    },
+    {
+     "text": "Then",
+     "start": 7.68,
+     "end": 7.84
+    },
+    {
+     "text": "they",
+     "start": 7.84,
+     "end": 8.0
+    },
+    {
+     "text": "will",
+     "start": 8.0,
+     "end": 8.08
+    },
+    {
+     "text": "question",
+     "start": 8.08,
+     "end": 8.48
+    },
+    {
+     "text": "and",
+     "start": 8.48,
+     "end": 8.64
+    },
+    {
+     "text": "answer",
+     "start": 8.64,
+     "end": 8.88
+    },
+    {
+     "text": "in",
+     "start": 8.88,
+     "end": 9.04
+    },
+    {
+     "text": "crossfire",
+     "start": 9.04,
+     "end": 9.6
+    },
+    {
+     "text": "Finally",
+     "start": 9.76,
+     "end": 10.08
+    },
+    {
+     "text": "each",
+     "start": 10.48,
+     "end": 10.64
+    },
+    {
+     "text": "will",
+     "start": 10.64,
+     "end": 10.72
+    },
+    {
+     "text": "give",
+     "start": 10.72,
+     "end": 10.88
+    },
+    {
+     "text": "a",
+     "start": 10.88,
+     "end": 10.88
+    },
+    {
+     "text": "thirtysecond",
+     "start": 10.88,
+     "end": 11.44
+    },
+    {
+     "text": "closing",
+     "start": 11.44,
+     "end": 11.92
+    },
+    {
+     "text": "I",
+     "start": 12.32,
+     "end": 12.4
+    },
+    {
+     "text": "will",
+     "start": 12.4,
+     "end": 12.48
+    },
+    {
+     "text": "give",
+     "start": 12.48,
+     "end": 12.64
+    },
+    {
+     "text": "a",
+     "start": 12.64,
+     "end": 12.64
+    },
+    {
+     "text": "tensecond",
+     "start": 12.64,
+     "end": 13.28
+    },
+    {
+     "text": "cue",
+     "start": 13.28,
+     "end": 13.6
+    },
+    {
+     "text": "before",
+     "start": 13.84,
+     "end": 14.32
+    },
+    {
+     "text": "time",
+     "start": 14.56,
+     "end": 14.8
+    },
+    {
+     "text": "expires",
+     "start": 14.8,
+     "end": 15.44
+    },
+    {
+     "text": "Keep",
+     "start": 16.0,
+     "end": 16.24
+    },
+    {
+     "text": "answers",
+     "start": 16.24,
+     "end": 16.48
+    },
+    {
+     "text": "focused",
+     "start": 16.48,
+     "end": 16.96
+    },
+    {
+     "text": "and",
+     "start": 17.28,
+     "end": 17.44
+    },
+    {
+     "text": "address",
+     "start": 17.44,
+     "end": 17.76
+    },
+    {
+     "text": "the",
+     "start": 17.76,
+     "end": 17.84
+    },
+    {
+     "text": "motion",
+     "start": 17.84,
+     "end": 18.16
+    },
+    {
+     "text": "directly",
+     "start": 18.16,
+     "end": 18.56
+    }
+   ]
+  },
+  "L002/2": {
+   "debate_id": "L002",
+   "turn": 2,
+   "speaker": "MOD",
+   "start_sec": 37.9,
+   "end_sec": 38.98,
+   "text": "Ten seconds, Miriam.",
+   "audio": "audio/turns/L002_002.mp3",
+   "words": [
+    {
+     "text": "Ten",
+     "start": 0.0,
+     "end": 0.32
+    },
+    {
+     "text": "seconds",
+     "start": 0.32,
+     "end": 0.72
+    },
+    {
+     "text": "Miriam",
+     "start": 0.72,
+     "end": 1.04
+    }
+   ]
+  },
+  "L002/4": {
+   "debate_id": "L002",
+   "turn": 4,
+   "speaker": "MOD",
+   "start_sec": 52.18,
+   "end_sec": 54.14,
+   "text": "Your time is up. Thank you. Danielle.",
+   "audio": "audio/turns/L002_004.mp3",
+   "words": [
+    {
+     "text": "Your",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "time",
+     "start": 0.16,
+     "end": 0.48
+    },
+    {
+     "text": "is",
+     "start": 0.48,
+     "end": 0.64
+    },
+    {
+     "text": "up",
+     "start": 0.64,
+     "end": 0.88
+    },
+    {
+     "text": "Thank",
+     "start": 1.12,
+     "end": 1.28
+    },
+    {
+     "text": "you",
+     "start": 1.28,
+     "end": 1.36
+    },
+    {
+     "text": "Danielle",
+     "start": 1.36,
+     "end": 1.84
+    }
+   ]
+  },
+  "L002/6": {
+   "debate_id": "L002",
+   "turn": 6,
+   "speaker": "MOD",
+   "start_sec": 72.26,
+   "end_sec": 74.94,
+   "text": "Let me throw the discussion open between the two sides.",
+   "audio": "audio/turns/L002_006.mp3",
+   "words": [
+    {
+     "text": "Let",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "me",
+     "start": 0.24,
+     "end": 0.32
+    },
+    {
+     "text": "throw",
+     "start": 0.32,
+     "end": 0.56
+    },
+    {
+     "text": "the",
+     "start": 0.56,
+     "end": 0.64
+    },
+    {
+     "text": "discussion",
+     "start": 0.64,
+     "end": 1.12
+    },
+    {
+     "text": "open",
+     "start": 1.12,
+     "end": 1.36
+    },
+    {
+     "text": "between",
+     "start": 1.36,
+     "end": 1.68
+    },
+    {
+     "text": "the",
+     "start": 1.68,
+     "end": 1.76
+    },
+    {
+     "text": "two",
+     "start": 1.76,
+     "end": 2.0
+    },
+    {
+     "text": "sides",
+     "start": 2.0,
+     "end": 2.56
+    }
+   ]
+  },
+  "L002/11": {
+   "debate_id": "L002",
+   "turn": 11,
+   "speaker": "MOD",
+   "start_sec": 122.98,
+   "end_sec": 127.26,
+   "text": "You're arguing that an elected Islamist government can be worse than a dictator now?",
+   "audio": "audio/turns/L002_011.mp3",
+   "words": [
+    {
+     "text": "You're",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "arguing",
+     "start": 0.32,
+     "end": 0.8
+    },
+    {
+     "text": "that",
+     "start": 0.8,
+     "end": 1.04
+    },
+    {
+     "text": "an",
+     "start": 1.04,
+     "end": 1.12
+    },
+    {
+     "text": "elected",
+     "start": 1.12,
+     "end": 1.52
+    },
+    {
+     "text": "Islamist",
+     "start": 1.52,
+     "end": 2.08
+    },
+    {
+     "text": "government",
+     "start": 2.08,
+     "end": 2.56
+    },
+    {
+     "text": "can",
+     "start": 2.56,
+     "end": 2.72
+    },
+    {
+     "text": "be",
+     "start": 2.72,
+     "end": 2.88
+    },
+    {
+     "text": "worse",
+     "start": 2.88,
+     "end": 3.2
+    },
+    {
+     "text": "than",
+     "start": 3.2,
+     "end": 3.36
+    },
+    {
+     "text": "a",
+     "start": 3.36,
+     "end": 3.36
+    },
+    {
+     "text": "dictator",
+     "start": 3.36,
+     "end": 3.92
+    },
+    {
+     "text": "now",
+     "start": 3.92,
+     "end": 4.24
+    }
+   ]
+  },
+  "L002/16": {
+   "debate_id": "L002",
+   "turn": 16,
+   "speaker": "MOD",
+   "start_sec": 174.7,
+   "end_sec": 186.98,
+   "text": "We are about to hear brief closing remarks from each debater in turn. On to round three, closing statements. First summarizing her position in support of the motion whether elected Islamist governments are better than dictators, Miriam.",
+   "audio": "audio/turns/L002_016.mp3",
+   "words": [
+    {
+     "text": "We",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "are",
+     "start": 0.24,
+     "end": 0.32
+    },
+    {
+     "text": "about",
+     "start": 0.32,
+     "end": 0.56
+    },
+    {
+     "text": "to",
+     "start": 0.56,
+     "end": 0.56
+    },
+    {
+     "text": "hear",
+     "start": 0.56,
+     "end": 0.72
+    },
+    {
+     "text": "brief",
+     "start": 0.72,
+     "end": 1.04
+    },
+    {
+     "text": "closing",
+     "start": 1.04,
+     "end": 1.36
+    },
+    {
+     "text": "remarks",
+     "start": 1.36,
+     "end": 1.76
+    },
+    {
+     "text": "from",
+     "start": 1.76,
+     "end": 2.0
+    },
+    {
+     "text": "each",
+     "start": 2.0,
+     "end": 2.24
+    },
+    {
+     "text": "debater",
+     "start": 2.24,
+     "end": 2.64
+    },
+    {
+     "text": "in",
+     "start": 2.64,
+     "end": 2.8
+    },
+    {
+     "text": "turn",
+     "start": 2.8,
+     "end": 3.28
+    },
+    {
+     "text": "On",
+     "start": 3.68,
+     "end": 3.92
+    },
+    {
+     "text": "to",
+     "start": 3.92,
+     "end": 4.0
+    },
+    {
+     "text": "round",
+     "start": 4.0,
+     "end": 4.32
+    },
+    {
+     "text": "three",
+     "start": 4.32,
+     "end": 4.8
+    },
+    {
+     "text": "closing",
+     "start": 5.04,
+     "end": 5.52
+    },
+    {
+     "text": "statements",
+     "start": 5.52,
+     "end": 6.08
+    },
+    {
+     "text": "First",
+     "start": 6.16,
+     "end": 6.4
+    },
+    {
+     "text": "summarizing",
+     "start": 6.4,
+     "end": 7.12
+    },
+    {
+     "text": "her",
+     "start": 7.2,
+     "end": 7.2
+    },
+    {
+     "text": "position",
+     "start": 7.2,
+     "end": 7.76
+    },
+    {
+     "text": "in",
+     "start": 7.76,
+     "end": 7.84
+    },
+    {
+     "text": "support",
+     "start": 7.84,
+     "end": 8.16
+    },
+    {
+     "text": "of",
+     "start": 8.16,
+     "end": 8.24
+    },
+    {
+     "text": "the",
+     "start": 8.24,
+     "end": 8.32
+    },
+    {
+     "text": "motion",
+     "start": 8.32,
+     "end": 8.8
+    },
+    {
+     "text": "whether",
+     "start": 9.04,
+     "end": 9.28
+    },
+    {
+     "text": "elected",
+     "start": 9.28,
+     "end": 9.68
+    },
+    {
+     "text": "Islamist",
+     "start": 9.68,
+     "end": 10.24
+    },
+    {
+     "text": "governments",
+     "start": 10.24,
+     "end": 10.64
+    },
+    {
+     "text": "are",
+     "start": 10.64,
+     "end": 10.8
+    },
+    {
+     "text": "better",
+     "start": 10.8,
+     "end": 11.04
+    },
+    {
+     "text": "than",
+     "start": 11.04,
+     "end": 11.2
+    },
+    {
+     "text": "dictators",
+     "start": 11.2,
+     "end": 11.76
+    },
+    {
+     "text": "Miriam",
+     "start": 11.76,
+     "end": 12.24
+    }
+   ]
+  },
+  "L002/18": {
+   "debate_id": "L002",
+   "turn": 18,
+   "speaker": "MOD",
+   "start_sec": 205.02,
+   "end_sec": 206.9,
+   "text": "So, let's let Danielle jump in. Okay.",
+   "audio": "audio/turns/L002_018.mp3",
+   "words": [
+    {
+     "text": "So",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "let's",
+     "start": 0.24,
+     "end": 0.4
+    },
+    {
+     "text": "let",
+     "start": 0.4,
+     "end": 0.64
+    },
+    {
+     "text": "Danielle",
+     "start": 0.64,
+     "end": 1.04
+    },
+    {
+     "text": "jump",
+     "start": 1.04,
+     "end": 1.28
+    },
+    {
+     "text": "in",
+     "start": 1.28,
+     "end": 1.44
+    },
+    {
+     "text": "Okay",
+     "start": 1.68,
+     "end": 1.84
+    }
+   ]
+  },
+  "L002/20": {
+   "debate_id": "L002",
+   "turn": 20,
+   "speaker": "MOD",
+   "start_sec": 225.92,
+   "end_sec": 227.24,
+   "text": "You have ten seconds.",
+   "audio": "audio/turns/L002_020.mp3",
+   "words": [
+    {
+     "text": "You",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "have",
+     "start": 0.32,
+     "end": 0.48
+    },
+    {
+     "text": "ten",
+     "start": 0.48,
+     "end": 0.72
+    },
+    {
+     "text": "seconds",
+     "start": 0.72,
+     "end": 1.28
+    }
+   ]
+  },
+  "L002/22": {
+   "debate_id": "L002",
+   "turn": 22,
+   "speaker": "MOD",
+   "start_sec": 240.82,
+   "end_sec": 242.14,
+   "text": "Danielle, her time is up.",
+   "audio": "audio/turns/L002_022.mp3",
+   "words": [
+    {
+     "text": "Danielle",
+     "start": 0.0,
+     "end": 0.4
+    },
+    {
+     "text": "her",
+     "start": 0.4,
+     "end": 0.56
+    },
+    {
+     "text": "time",
+     "start": 0.56,
+     "end": 0.88
+    },
+    {
+     "text": "is",
+     "start": 0.88,
+     "end": 0.96
+    },
+    {
+     "text": "up",
+     "start": 1.12,
+     "end": 1.28
+    }
+   ]
+  },
+  "L002/23": {
+   "debate_id": "L002",
+   "turn": 23,
+   "speaker": "MOD",
+   "start_sec": 242.34,
+   "end_sec": 247.1,
+   "text": "Thank you both. This debate is closed. We have heard both arguments, and no winner is declared tonight.",
+   "audio": "audio/turns/L002_023.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.0,
+     "end": 0.72
+    },
+    {
+     "text": "you",
+     "start": 0.72,
+     "end": 0.736
+    },
+    {
+     "text": "both",
+     "start": 0.752,
+     "end": 0.768
+    },
+    {
+     "text": "This",
+     "start": 0.784,
+     "end": 0.8
+    },
+    {
+     "text": "debate",
+     "start": 0.8,
+     "end": 0.8
+    },
+    {
+     "text": "is",
+     "start": 0.8,
+     "end": 0.8
+    },
+    {
+     "text": "closed",
+     "start": 0.88,
+     "end": 1.44
+    },
+    {
+     "text": "We",
+     "start": 1.52,
+     "end": 1.68
+    },
+    {
+     "text": "have",
+     "start": 1.68,
+     "end": 1.76
+    },
+    {
+     "text": "heard",
+     "start": 1.76,
+     "end": 2.08
+    },
+    {
+     "text": "both",
+     "start": 2.08,
+     "end": 2.24
+    },
+    {
+     "text": "arguments",
+     "start": 2.24,
+     "end": 2.88
+    },
+    {
+     "text": "and",
+     "start": 3.04,
+     "end": 3.2
+    },
+    {
+     "text": "no",
+     "start": 3.2,
+     "end": 3.36
+    },
+    {
+     "text": "winner",
+     "start": 3.36,
+     "end": 3.68
+    },
+    {
+     "text": "is",
+     "start": 3.68,
+     "end": 3.92
+    },
+    {
+     "text": "declared",
+     "start": 3.92,
+     "end": 4.32
+    },
+    {
+     "text": "tonight",
+     "start": 4.32,
+     "end": 4.72
+    }
+   ]
+  },
+  "L003/0": {
+   "debate_id": "L003",
+   "turn": 0,
+   "speaker": "MOD",
+   "start_sec": 0.0,
+   "end_sec": 17.4,
+   "text": "Tonight we debate whether NATO should admit Ukraine. Marcia argues for admission, and Amy argues against it. Each opening lasts thirty seconds. Then comes crossfire, with direct questions. Finally, each side gets a thirty-second closing. I will give a ten-second cue. Stay civil, address the argument, and stop when time is called.",
+   "audio": "audio/turns/L003_000.mp3",
+   "words": [
+    {
+     "text": "Tonight",
+     "start": 0.0,
+     "end": 0.48
+    },
+    {
+     "text": "we",
+     "start": 0.48,
+     "end": 0.64
+    },
+    {
+     "text": "debate",
+     "start": 0.64,
+     "end": 1.04
+    },
+    {
+     "text": "whether",
+     "start": 1.04,
+     "end": 1.28
+    },
+    {
+     "text": "NATO",
+     "start": 1.28,
+     "end": 1.6
+    },
+    {
+     "text": "should",
+     "start": 1.6,
+     "end": 1.84
+    },
+    {
+     "text": "admit",
+     "start": 1.84,
+     "end": 2.16
+    },
+    {
+     "text": "Ukraine",
+     "start": 2.16,
+     "end": 2.72
+    },
+    {
+     "text": "Marcia",
+     "start": 2.88,
+     "end": 3.2
+    },
+    {
+     "text": "argues",
+     "start": 3.2,
+     "end": 3.52
+    },
+    {
+     "text": "for",
+     "start": 3.52,
+     "end": 3.68
+    },
+    {
+     "text": "admission",
+     "start": 3.68,
+     "end": 4.0
+    },
+    {
+     "text": "and",
+     "start": 4.0,
+     "end": 4.16
+    },
+    {
+     "text": "Amy",
+     "start": 4.16,
+     "end": 4.48
+    },
+    {
+     "text": "argues",
+     "start": 4.48,
+     "end": 4.8
+    },
+    {
+     "text": "against",
+     "start": 4.8,
+     "end": 5.28
+    },
+    {
+     "text": "it",
+     "start": 5.28,
+     "end": 5.36
+    },
+    {
+     "text": "Each",
+     "start": 5.84,
+     "end": 6.08
+    },
+    {
+     "text": "opening",
+     "start": 6.08,
+     "end": 6.4
+    },
+    {
+     "text": "lasts",
+     "start": 6.4,
+     "end": 6.72
+    },
+    {
+     "text": "thirty",
+     "start": 6.72,
+     "end": 6.96
+    },
+    {
+     "text": "seconds",
+     "start": 6.96,
+     "end": 7.52
+    },
+    {
+     "text": "Then",
+     "start": 7.84,
+     "end": 8.0
+    },
+    {
+     "text": "comes",
+     "start": 8.0,
+     "end": 8.32
+    },
+    {
+     "text": "crossfire",
+     "start": 8.32,
+     "end": 8.96
+    },
+    {
+     "text": "with",
+     "start": 8.96,
+     "end": 9.12
+    },
+    {
+     "text": "direct",
+     "start": 9.12,
+     "end": 9.36
+    },
+    {
+     "text": "questions",
+     "start": 9.36,
+     "end": 9.92
+    },
+    {
+     "text": "Finally",
+     "start": 10.24,
+     "end": 10.64
+    },
+    {
+     "text": "each",
+     "start": 10.64,
+     "end": 10.88
+    },
+    {
+     "text": "side",
+     "start": 10.88,
+     "end": 11.2
+    },
+    {
+     "text": "gets",
+     "start": 11.2,
+     "end": 11.36
+    },
+    {
+     "text": "a",
+     "start": 11.36,
+     "end": 11.36
+    },
+    {
+     "text": "thirtysecond",
+     "start": 11.36,
+     "end": 12.0
+    },
+    {
+     "text": "closing",
+     "start": 12.0,
+     "end": 12.48
+    },
+    {
+     "text": "I",
+     "start": 12.72,
+     "end": 12.8
+    },
+    {
+     "text": "will",
+     "start": 12.8,
+     "end": 12.88
+    },
+    {
+     "text": "give",
+     "start": 12.88,
+     "end": 13.04
+    },
+    {
+     "text": "a",
+     "start": 13.04,
+     "end": 13.12
+    },
+    {
+     "text": "tensecond",
+     "start": 13.12,
+     "end": 13.68
+    },
+    {
+     "text": "cue",
+     "start": 13.68,
+     "end": 14.0
+    },
+    {
+     "text": "Stay",
+     "start": 14.24,
+     "end": 14.56
+    },
+    {
+     "text": "civil",
+     "start": 14.56,
+     "end": 14.96
+    },
+    {
+     "text": "address",
+     "start": 14.96,
+     "end": 15.36
+    },
+    {
+     "text": "the",
+     "start": 15.36,
+     "end": 15.52
+    },
+    {
+     "text": "argument",
+     "start": 15.52,
+     "end": 16.0
+    },
+    {
+     "text": "and",
+     "start": 16.0,
+     "end": 16.08
+    },
+    {
+     "text": "stop",
+     "start": 16.08,
+     "end": 16.48
+    },
+    {
+     "text": "when",
+     "start": 16.48,
+     "end": 16.64
+    },
+    {
+     "text": "time",
+     "start": 16.64,
+     "end": 16.88
+    },
+    {
+     "text": "is",
+     "start": 16.88,
+     "end": 16.96
+    },
+    {
+     "text": "called",
+     "start": 16.96,
+     "end": 17.36
+    }
+   ]
+  },
+  "L003/2": {
+   "debate_id": "L003",
+   "turn": 2,
+   "speaker": "MOD",
+   "start_sec": 35.92,
+   "end_sec": 37.4,
+   "text": "Let Amy have the mic.",
+   "audio": "audio/turns/L003_002.mp3",
+   "words": [
+    {
+     "text": "Let",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "Amy",
+     "start": 0.32,
+     "end": 0.64
+    },
+    {
+     "text": "have",
+     "start": 0.64,
+     "end": 0.96
+    },
+    {
+     "text": "the",
+     "start": 0.96,
+     "end": 0.96
+    },
+    {
+     "text": "mic",
+     "start": 0.96,
+     "end": 1.44
+    }
+   ]
+  },
+  "L003/4": {
+   "debate_id": "L003",
+   "turn": 4,
+   "speaker": "MOD",
+   "start_sec": 56.66,
+   "end_sec": 57.66,
+   "text": "Ten seconds warning.",
+   "audio": "audio/turns/L003_004.mp3",
+   "words": [
+    {
+     "text": "Ten",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "seconds",
+     "start": 0.24,
+     "end": 0.64
+    },
+    {
+     "text": "warning",
+     "start": 0.64,
+     "end": 0.96
+    }
+   ]
+  },
+  "L003/6": {
+   "debate_id": "L003",
+   "turn": 6,
+   "speaker": "MOD",
+   "start_sec": 70.8,
+   "end_sec": 71.72,
+   "text": "Time out. Time out.",
+   "audio": "audio/turns/L003_006.mp3",
+   "words": [
+    {
+     "text": "Time",
+     "start": 0.08,
+     "end": 0.48
+    },
+    {
+     "text": "out",
+     "start": 0.48,
+     "end": 0.48
+    },
+    {
+     "text": "Time",
+     "start": 0.48,
+     "end": 0.48
+    },
+    {
+     "text": "out",
+     "start": 0.48,
+     "end": 0.8
+    }
+   ]
+  },
+  "L003/7": {
+   "debate_id": "L003",
+   "turn": 7,
+   "speaker": "MOD",
+   "start_sec": 71.92,
+   "end_sec": 79.0,
+   "text": "And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly.",
+   "audio": "audio/turns/L003_007.mp3",
+   "words": [
+    {
+     "text": "And",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "that",
+     "start": 0.16,
+     "end": 0.4
+    },
+    {
+     "text": "concludes",
+     "start": 0.4,
+     "end": 0.96
+    },
+    {
+     "text": "round",
+     "start": 0.96,
+     "end": 1.28
+    },
+    {
+     "text": "one",
+     "start": 1.28,
+     "end": 1.6
+    },
+    {
+     "text": "Now",
+     "start": 1.6,
+     "end": 1.84
+    },
+    {
+     "text": "we",
+     "start": 1.84,
+     "end": 1.92
+    },
+    {
+     "text": "move",
+     "start": 1.92,
+     "end": 2.16
+    },
+    {
+     "text": "on",
+     "start": 2.16,
+     "end": 2.32
+    },
+    {
+     "text": "to",
+     "start": 2.32,
+     "end": 2.4
+    },
+    {
+     "text": "round",
+     "start": 2.4,
+     "end": 2.72
+    },
+    {
+     "text": "two",
+     "start": 2.72,
+     "end": 3.12
+    },
+    {
+     "text": "And",
+     "start": 3.6,
+     "end": 3.76
+    },
+    {
+     "text": "round",
+     "start": 3.76,
+     "end": 4.08
+    },
+    {
+     "text": "two",
+     "start": 4.08,
+     "end": 4.48
+    },
+    {
+     "text": "is",
+     "start": 4.48,
+     "end": 4.64
+    },
+    {
+     "text": "where",
+     "start": 4.64,
+     "end": 4.8
+    },
+    {
+     "text": "the",
+     "start": 4.8,
+     "end": 4.88
+    },
+    {
+     "text": "debaters",
+     "start": 4.88,
+     "end": 5.44
+    },
+    {
+     "text": "address",
+     "start": 5.44,
+     "end": 5.76
+    },
+    {
+     "text": "one",
+     "start": 5.76,
+     "end": 6.0
+    },
+    {
+     "text": "another",
+     "start": 6.0,
+     "end": 6.32
+    },
+    {
+     "text": "directly",
+     "start": 6.32,
+     "end": 7.04
+    }
+   ]
+  },
+  "L003/15": {
+   "debate_id": "L003",
+   "turn": 15,
+   "speaker": "MOD",
+   "start_sec": 177.28,
+   "end_sec": 185.64,
+   "text": "But doesn't your argument for alliances should not expand during an active war fight your argument that an attacked country may join during an active war?",
+   "audio": "audio/turns/L003_015.mp3",
+   "words": [
+    {
+     "text": "But",
+     "start": 0.08,
+     "end": 0.16
+    },
+    {
+     "text": "doesn't",
+     "start": 0.16,
+     "end": 0.48
+    },
+    {
+     "text": "your",
+     "start": 0.48,
+     "end": 0.64
+    },
+    {
+     "text": "argument",
+     "start": 0.64,
+     "end": 1.12
+    },
+    {
+     "text": "for",
+     "start": 1.12,
+     "end": 1.28
+    },
+    {
+     "text": "alliances",
+     "start": 1.28,
+     "end": 1.92
+    },
+    {
+     "text": "should",
+     "start": 1.92,
+     "end": 2.16
+    },
+    {
+     "text": "not",
+     "start": 2.16,
+     "end": 2.4
+    },
+    {
+     "text": "expand",
+     "start": 2.4,
+     "end": 2.88
+    },
+    {
+     "text": "during",
+     "start": 2.88,
+     "end": 3.2
+    },
+    {
+     "text": "an",
+     "start": 3.2,
+     "end": 3.28
+    },
+    {
+     "text": "active",
+     "start": 3.36,
+     "end": 3.76
+    },
+    {
+     "text": "war",
+     "start": 3.76,
+     "end": 4.16
+    },
+    {
+     "text": "fight",
+     "start": 4.56,
+     "end": 4.8
+    },
+    {
+     "text": "your",
+     "start": 4.8,
+     "end": 4.96
+    },
+    {
+     "text": "argument",
+     "start": 4.96,
+     "end": 5.52
+    },
+    {
+     "text": "that",
+     "start": 5.52,
+     "end": 5.68
+    },
+    {
+     "text": "an",
+     "start": 5.68,
+     "end": 5.76
+    },
+    {
+     "text": "attacked",
+     "start": 5.76,
+     "end": 6.24
+    },
+    {
+     "text": "country",
+     "start": 6.24,
+     "end": 6.56
+    },
+    {
+     "text": "may",
+     "start": 6.56,
+     "end": 6.72
+    },
+    {
+     "text": "join",
+     "start": 6.72,
+     "end": 7.2
+    },
+    {
+     "text": "during",
+     "start": 7.2,
+     "end": 7.52
+    },
+    {
+     "text": "an",
+     "start": 7.52,
+     "end": 7.6
+    },
+    {
+     "text": "active",
+     "start": 7.6,
+     "end": 8.0
+    },
+    {
+     "text": "war",
+     "start": 8.0,
+     "end": 8.32
+    }
+   ]
+  },
+  "L003/19": {
+   "debate_id": "L003",
+   "turn": 19,
+   "speaker": "MOD",
+   "start_sec": 224.52,
+   "end_sec": 230.88,
+   "text": "Now we move on to round three. Marcia will go first, arguing for the resolution. Marcia, the floor is yours.",
+   "audio": "audio/turns/L003_019.mp3",
+   "words": [
+    {
+     "text": "Now",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "we",
+     "start": 0.24,
+     "end": 0.4
+    },
+    {
+     "text": "move",
+     "start": 0.4,
+     "end": 0.56
+    },
+    {
+     "text": "on",
+     "start": 0.56,
+     "end": 0.8
+    },
+    {
+     "text": "to",
+     "start": 0.88,
+     "end": 0.88
+    },
+    {
+     "text": "round",
+     "start": 0.88,
+     "end": 1.2
+    },
+    {
+     "text": "three",
+     "start": 1.2,
+     "end": 1.6
+    },
+    {
+     "text": "Marcia",
+     "start": 2.16,
+     "end": 2.56
+    },
+    {
+     "text": "will",
+     "start": 2.56,
+     "end": 2.72
+    },
+    {
+     "text": "go",
+     "start": 2.72,
+     "end": 2.88
+    },
+    {
+     "text": "first",
+     "start": 2.88,
+     "end": 3.36
+    },
+    {
+     "text": "arguing",
+     "start": 3.6,
+     "end": 4.16
+    },
+    {
+     "text": "for",
+     "start": 4.16,
+     "end": 4.24
+    },
+    {
+     "text": "the",
+     "start": 4.24,
+     "end": 4.32
+    },
+    {
+     "text": "resolution",
+     "start": 4.32,
+     "end": 5.04
+    },
+    {
+     "text": "Marcia",
+     "start": 5.2,
+     "end": 5.52
+    },
+    {
+     "text": "the",
+     "start": 5.52,
+     "end": 5.68
+    },
+    {
+     "text": "floor",
+     "start": 5.68,
+     "end": 5.92
+    },
+    {
+     "text": "is",
+     "start": 5.92,
+     "end": 6.0
+    },
+    {
+     "text": "yours",
+     "start": 6.0,
+     "end": 6.32
+    }
+   ]
+  },
+  "L003/21": {
+   "debate_id": "L003",
+   "turn": 21,
+   "speaker": "MOD",
+   "start_sec": 250.66,
+   "end_sec": 251.58,
+   "text": "Well, now ten.",
+   "audio": "audio/turns/L003_021.mp3",
+   "words": [
+    {
+     "text": "Well",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "now",
+     "start": 0.24,
+     "end": 0.48
+    },
+    {
+     "text": "ten",
+     "start": 0.48,
+     "end": 0.88
+    }
+   ]
+  },
+  "L003/23": {
+   "debate_id": "L003",
+   "turn": 23,
+   "speaker": "MOD",
+   "start_sec": 265.1,
+   "end_sec": 274.18,
+   "text": "Thank you. I'm sorry her time is up. Thank you. And here to summarize her position against nato should admit ukraine as a full member of the alliance, Amy.",
+   "audio": "audio/turns/L003_023.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.08,
+     "end": 0.4
+    },
+    {
+     "text": "you",
+     "start": 0.4,
+     "end": 0.56
+    },
+    {
+     "text": "I'm",
+     "start": 1.04,
+     "end": 1.2
+    },
+    {
+     "text": "sorry",
+     "start": 1.2,
+     "end": 1.6
+    },
+    {
+     "text": "her",
+     "start": 1.6,
+     "end": 1.76
+    },
+    {
+     "text": "time",
+     "start": 1.76,
+     "end": 2.08
+    },
+    {
+     "text": "is",
+     "start": 2.08,
+     "end": 2.24
+    },
+    {
+     "text": "up",
+     "start": 2.24,
+     "end": 2.48
+    },
+    {
+     "text": "Thank",
+     "start": 2.64,
+     "end": 2.88
+    },
+    {
+     "text": "you",
+     "start": 2.88,
+     "end": 3.04
+    },
+    {
+     "text": "And",
+     "start": 3.28,
+     "end": 3.44
+    },
+    {
+     "text": "here",
+     "start": 3.44,
+     "end": 3.6
+    },
+    {
+     "text": "to",
+     "start": 3.68,
+     "end": 3.76
+    },
+    {
+     "text": "summarize",
+     "start": 3.76,
+     "end": 4.32
+    },
+    {
+     "text": "her",
+     "start": 4.4,
+     "end": 4.48
+    },
+    {
+     "text": "position",
+     "start": 4.48,
+     "end": 5.04
+    },
+    {
+     "text": "against",
+     "start": 5.04,
+     "end": 5.52
+    },
+    {
+     "text": "nato",
+     "start": 5.52,
+     "end": 6.0
+    },
+    {
+     "text": "should",
+     "start": 6.0,
+     "end": 6.24
+    },
+    {
+     "text": "admit",
+     "start": 6.24,
+     "end": 6.56
+    },
+    {
+     "text": "ukraine",
+     "start": 6.56,
+     "end": 7.04
+    },
+    {
+     "text": "as",
+     "start": 7.04,
+     "end": 7.2
+    },
+    {
+     "text": "a",
+     "start": 7.2,
+     "end": 7.28
+    },
+    {
+     "text": "full",
+     "start": 7.28,
+     "end": 7.52
+    },
+    {
+     "text": "member",
+     "start": 7.52,
+     "end": 7.84
+    },
+    {
+     "text": "of",
+     "start": 7.84,
+     "end": 8.0
+    },
+    {
+     "text": "the",
+     "start": 8.0,
+     "end": 8.08
+    },
+    {
+     "text": "alliance",
+     "start": 8.08,
+     "end": 8.64
+    },
+    {
+     "text": "Amy",
+     "start": 8.64,
+     "end": 9.04
+    }
+   ]
+  },
+  "L003/25": {
+   "debate_id": "L003",
+   "turn": 25,
+   "speaker": "MOD",
+   "start_sec": 292.22,
+   "end_sec": 297.22,
+   "text": "Thank you both. The debate is closed. We leave the motion for viewers to consider.",
+   "audio": "audio/turns/L003_025.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "you",
+     "start": 0.24,
+     "end": 0.4
+    },
+    {
+     "text": "both",
+     "start": 0.4,
+     "end": 0.88
+    },
+    {
+     "text": "The",
+     "start": 1.28,
+     "end": 1.36
+    },
+    {
+     "text": "debate",
+     "start": 1.44,
+     "end": 1.76
+    },
+    {
+     "text": "is",
+     "start": 1.76,
+     "end": 1.92
+    },
+    {
+     "text": "closed",
+     "start": 1.92,
+     "end": 2.56
+    },
+    {
+     "text": "We",
+     "start": 2.72,
+     "end": 2.88
+    },
+    {
+     "text": "leave",
+     "start": 2.88,
+     "end": 3.2
+    },
+    {
+     "text": "the",
+     "start": 3.2,
+     "end": 3.2
+    },
+    {
+     "text": "motion",
+     "start": 3.2,
+     "end": 3.68
+    },
+    {
+     "text": "for",
+     "start": 3.68,
+     "end": 3.84
+    },
+    {
+     "text": "viewers",
+     "start": 3.84,
+     "end": 4.24
+    },
+    {
+     "text": "to",
+     "start": 4.32,
+     "end": 4.32
+    },
+    {
+     "text": "consider",
+     "start": 4.32,
+     "end": 4.96
+    }
+   ]
+  },
+  "L004/0": {
+   "debate_id": "L004",
+   "turn": 0,
+   "speaker": "MOD",
+   "start_sec": 0.0,
+   "end_sec": 19.96,
+   "text": "The motion is to give undocumented immigrants a path to citizenship. Christina supports it; Nadine opposes it. Each opening lasts thirty seconds. Then comes crossfire, with direct questions and answers. Finally, each side gets a thirty-second closing. I will give a ten-second cue during openings and closings. Stay concise, address the motion, and let each speaker finish.",
+   "audio": "audio/turns/L004_000.mp3",
+   "words": [
+    {
+     "text": "The",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "motion",
+     "start": 0.24,
+     "end": 0.64
+    },
+    {
+     "text": "is",
+     "start": 0.64,
+     "end": 0.8
+    },
+    {
+     "text": "to",
+     "start": 0.8,
+     "end": 0.88
+    },
+    {
+     "text": "give",
+     "start": 0.88,
+     "end": 1.12
+    },
+    {
+     "text": "undocumented",
+     "start": 1.28,
+     "end": 2.0
+    },
+    {
+     "text": "immigrants",
+     "start": 2.0,
+     "end": 2.48
+    },
+    {
+     "text": "a",
+     "start": 2.48,
+     "end": 2.56
+    },
+    {
+     "text": "path",
+     "start": 2.56,
+     "end": 2.8
+    },
+    {
+     "text": "to",
+     "start": 2.96,
+     "end": 3.04
+    },
+    {
+     "text": "citizenship",
+     "start": 3.04,
+     "end": 3.68
+    },
+    {
+     "text": "Christina",
+     "start": 3.76,
+     "end": 4.16
+    },
+    {
+     "text": "supports",
+     "start": 4.16,
+     "end": 4.8
+    },
+    {
+     "text": "it",
+     "start": 4.8,
+     "end": 4.96
+    },
+    {
+     "text": "Nadine",
+     "start": 5.36,
+     "end": 5.76
+    },
+    {
+     "text": "opposes",
+     "start": 5.76,
+     "end": 6.24
+    },
+    {
+     "text": "it",
+     "start": 6.24,
+     "end": 6.4
+    },
+    {
+     "text": "Each",
+     "start": 6.4,
+     "end": 6.56
+    },
+    {
+     "text": "opening",
+     "start": 6.64,
+     "end": 6.96
+    },
+    {
+     "text": "lasts",
+     "start": 6.96,
+     "end": 7.28
+    },
+    {
+     "text": "thirty",
+     "start": 7.36,
+     "end": 7.6
+    },
+    {
+     "text": "seconds",
+     "start": 7.6,
+     "end": 8.32
+    },
+    {
+     "text": "Then",
+     "start": 8.64,
+     "end": 8.96
+    },
+    {
+     "text": "comes",
+     "start": 8.96,
+     "end": 9.2
+    },
+    {
+     "text": "crossfire",
+     "start": 9.2,
+     "end": 9.84
+    },
+    {
+     "text": "with",
+     "start": 9.84,
+     "end": 10.0
+    },
+    {
+     "text": "direct",
+     "start": 10.0,
+     "end": 10.32
+    },
+    {
+     "text": "questions",
+     "start": 10.32,
+     "end": 10.72
+    },
+    {
+     "text": "and",
+     "start": 10.72,
+     "end": 10.88
+    },
+    {
+     "text": "answers",
+     "start": 10.88,
+     "end": 11.36
+    },
+    {
+     "text": "Finally",
+     "start": 11.36,
+     "end": 11.84
+    },
+    {
+     "text": "each",
+     "start": 11.84,
+     "end": 12.08
+    },
+    {
+     "text": "side",
+     "start": 12.08,
+     "end": 12.4
+    },
+    {
+     "text": "gets",
+     "start": 12.4,
+     "end": 12.64
+    },
+    {
+     "text": "a",
+     "start": 12.64,
+     "end": 12.64
+    },
+    {
+     "text": "thirtysecond",
+     "start": 12.64,
+     "end": 13.28
+    },
+    {
+     "text": "closing",
+     "start": 13.28,
+     "end": 13.76
+    },
+    {
+     "text": "I",
+     "start": 13.76,
+     "end": 13.92
+    },
+    {
+     "text": "will",
+     "start": 13.92,
+     "end": 14.08
+    },
+    {
+     "text": "give",
+     "start": 14.08,
+     "end": 14.32
+    },
+    {
+     "text": "a",
+     "start": 14.32,
+     "end": 14.4
+    },
+    {
+     "text": "tensecond",
+     "start": 14.4,
+     "end": 14.72
+    },
+    {
+     "text": "cue",
+     "start": 15.04,
+     "end": 15.52
+    },
+    {
+     "text": "during",
+     "start": 15.52,
+     "end": 15.76
+    },
+    {
+     "text": "openings",
+     "start": 15.76,
+     "end": 16.24
+    },
+    {
+     "text": "and",
+     "start": 16.24,
+     "end": 16.32
+    },
+    {
+     "text": "closings",
+     "start": 16.32,
+     "end": 16.96
+    },
+    {
+     "text": "Stay",
+     "start": 17.2,
+     "end": 17.44
+    },
+    {
+     "text": "concise",
+     "start": 17.44,
+     "end": 18.0
+    },
+    {
+     "text": "address",
+     "start": 18.0,
+     "end": 18.4
+    },
+    {
+     "text": "the",
+     "start": 18.4,
+     "end": 18.4
+    },
+    {
+     "text": "motion",
+     "start": 18.4,
+     "end": 18.88
+    },
+    {
+     "text": "and",
+     "start": 18.96,
+     "end": 19.04
+    },
+    {
+     "text": "let",
+     "start": 19.04,
+     "end": 19.2
+    },
+    {
+     "text": "each",
+     "start": 19.2,
+     "end": 19.44
+    },
+    {
+     "text": "speaker",
+     "start": 19.44,
+     "end": 19.68
+    },
+    {
+     "text": "finish",
+     "start": 19.68,
+     "end": 19.92
+    }
+   ]
+  },
+  "L004/2": {
+   "debate_id": "L004",
+   "turn": 2,
+   "speaker": "MOD",
+   "start_sec": 39.06,
+   "end_sec": 40.7,
+   "text": "Ten seconds from this side?",
+   "audio": "audio/turns/L004_002.mp3",
+   "words": [
+    {
+     "text": "Ten",
+     "start": 0.08,
+     "end": 0.4
+    },
+    {
+     "text": "seconds",
+     "start": 0.4,
+     "end": 0.8
+    },
+    {
+     "text": "from",
+     "start": 0.8,
+     "end": 0.96
+    },
+    {
+     "text": "this",
+     "start": 0.96,
+     "end": 1.12
+    },
+    {
+     "text": "side",
+     "start": 1.12,
+     "end": 1.6
+    }
+   ]
+  },
+  "L004/4": {
+   "debate_id": "L004",
+   "turn": 4,
+   "speaker": "MOD",
+   "start_sec": 47.14,
+   "end_sec": 48.38,
+   "text": "Nadine, take the response.",
+   "audio": "audio/turns/L004_004.mp3",
+   "words": [
+    {
+     "text": "Nadine",
+     "start": 0.0,
+     "end": 0.4
+    },
+    {
+     "text": "take",
+     "start": 0.4,
+     "end": 0.64
+    },
+    {
+     "text": "the",
+     "start": 0.64,
+     "end": 0.72
+    },
+    {
+     "text": "response",
+     "start": 0.72,
+     "end": 1.2
+    }
+   ]
+  },
+  "L004/6": {
+   "debate_id": "L004",
+   "turn": 6,
+   "speaker": "MOD",
+   "start_sec": 66.66,
+   "end_sec": 75.5,
+   "text": "And that concludes round one. Now we move on to round two in our debate. Round two is where the debaters address one another directly.",
+   "audio": "audio/turns/L004_006.mp3",
+   "words": [
+    {
+     "text": "And",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "that",
+     "start": 0.24,
+     "end": 0.4
+    },
+    {
+     "text": "concludes",
+     "start": 0.4,
+     "end": 1.04
+    },
+    {
+     "text": "round",
+     "start": 1.04,
+     "end": 1.36
+    },
+    {
+     "text": "one",
+     "start": 1.36,
+     "end": 1.76
+    },
+    {
+     "text": "Now",
+     "start": 1.92,
+     "end": 2.16
+    },
+    {
+     "text": "we",
+     "start": 2.16,
+     "end": 2.32
+    },
+    {
+     "text": "move",
+     "start": 2.32,
+     "end": 2.64
+    },
+    {
+     "text": "on",
+     "start": 2.64,
+     "end": 3.04
+    },
+    {
+     "text": "to",
+     "start": 3.2,
+     "end": 3.36
+    },
+    {
+     "text": "round",
+     "start": 3.36,
+     "end": 3.84
+    },
+    {
+     "text": "two",
+     "start": 3.84,
+     "end": 4.4
+    },
+    {
+     "text": "in",
+     "start": 4.4,
+     "end": 4.56
+    },
+    {
+     "text": "our",
+     "start": 4.56,
+     "end": 4.72
+    },
+    {
+     "text": "debate",
+     "start": 4.72,
+     "end": 5.36
+    },
+    {
+     "text": "Round",
+     "start": 5.44,
+     "end": 5.76
+    },
+    {
+     "text": "two",
+     "start": 5.76,
+     "end": 6.08
+    },
+    {
+     "text": "is",
+     "start": 6.08,
+     "end": 6.24
+    },
+    {
+     "text": "where",
+     "start": 6.24,
+     "end": 6.4
+    },
+    {
+     "text": "the",
+     "start": 6.4,
+     "end": 6.48
+    },
+    {
+     "text": "debaters",
+     "start": 6.48,
+     "end": 7.04
+    },
+    {
+     "text": "address",
+     "start": 7.04,
+     "end": 7.52
+    },
+    {
+     "text": "one",
+     "start": 7.52,
+     "end": 7.68
+    },
+    {
+     "text": "another",
+     "start": 7.68,
+     "end": 8.08
+    },
+    {
+     "text": "directly",
+     "start": 8.08,
+     "end": 8.8
+    }
+   ]
+  },
+  "L004/11": {
+   "debate_id": "L004",
+   "turn": 11,
+   "speaker": "MOD",
+   "start_sec": 133.88,
+   "end_sec": 142.08,
+   "text": "But, how do you relate that to give undocumented immigrants a path to citizenship? Land that on give undocumented immigrants a path to citizenship.",
+   "audio": "audio/turns/L004_011.mp3",
+   "words": [
+    {
+     "text": "But",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "how",
+     "start": 0.72,
+     "end": 0.96
+    },
+    {
+     "text": "do",
+     "start": 0.96,
+     "end": 1.04
+    },
+    {
+     "text": "you",
+     "start": 1.04,
+     "end": 1.2
+    },
+    {
+     "text": "relate",
+     "start": 1.2,
+     "end": 1.6
+    },
+    {
+     "text": "that",
+     "start": 1.6,
+     "end": 1.84
+    },
+    {
+     "text": "to",
+     "start": 1.84,
+     "end": 1.84
+    },
+    {
+     "text": "give",
+     "start": 1.84,
+     "end": 2.08
+    },
+    {
+     "text": "undocumented",
+     "start": 2.16,
+     "end": 2.88
+    },
+    {
+     "text": "immigrants",
+     "start": 2.88,
+     "end": 3.36
+    },
+    {
+     "text": "a",
+     "start": 3.36,
+     "end": 3.44
+    },
+    {
+     "text": "path",
+     "start": 3.44,
+     "end": 3.84
+    },
+    {
+     "text": "to",
+     "start": 3.84,
+     "end": 3.84
+    },
+    {
+     "text": "citizenship",
+     "start": 3.84,
+     "end": 4.4
+    },
+    {
+     "text": "Land",
+     "start": 4.8,
+     "end": 5.28
+    },
+    {
+     "text": "that",
+     "start": 5.28,
+     "end": 5.44
+    },
+    {
+     "text": "on",
+     "start": 5.52,
+     "end": 5.84
+    },
+    {
+     "text": "give",
+     "start": 5.84,
+     "end": 6.0
+    },
+    {
+     "text": "undocumented",
+     "start": 6.0,
+     "end": 6.8
+    },
+    {
+     "text": "immigrants",
+     "start": 6.8,
+     "end": 7.2
+    },
+    {
+     "text": "a",
+     "start": 7.2,
+     "end": 7.2
+    },
+    {
+     "text": "path",
+     "start": 7.2,
+     "end": 7.52
+    },
+    {
+     "text": "to",
+     "start": 7.52,
+     "end": 7.52
+    },
+    {
+     "text": "citizenship",
+     "start": 7.52,
+     "end": 8.16
+    }
+   ]
+  },
+  "L004/15": {
+   "debate_id": "L004",
+   "turn": 15,
+   "speaker": "MOD",
+   "start_sec": 188.28,
+   "end_sec": 197.28,
+   "text": "You accuse every undocumented immigrant deserves a path to citizenship, but when I give you two examples, you sit on the fence and say it's neither.",
+   "audio": "audio/turns/L004_015.mp3",
+   "words": [
+    {
+     "text": "You",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "accuse",
+     "start": 0.24,
+     "end": 0.64
+    },
+    {
+     "text": "every",
+     "start": 0.72,
+     "end": 1.12
+    },
+    {
+     "text": "undocumented",
+     "start": 1.12,
+     "end": 2.08
+    },
+    {
+     "text": "immigrant",
+     "start": 2.16,
+     "end": 2.64
+    },
+    {
+     "text": "deserves",
+     "start": 2.64,
+     "end": 3.12
+    },
+    {
+     "text": "a",
+     "start": 3.12,
+     "end": 3.2
+    },
+    {
+     "text": "path",
+     "start": 3.2,
+     "end": 3.52
+    },
+    {
+     "text": "to",
+     "start": 3.68,
+     "end": 3.68
+    },
+    {
+     "text": "citizenship",
+     "start": 3.68,
+     "end": 4.4
+    },
+    {
+     "text": "but",
+     "start": 5.12,
+     "end": 5.2
+    },
+    {
+     "text": "when",
+     "start": 5.2,
+     "end": 5.36
+    },
+    {
+     "text": "I",
+     "start": 5.36,
+     "end": 5.44
+    },
+    {
+     "text": "give",
+     "start": 5.44,
+     "end": 5.68
+    },
+    {
+     "text": "you",
+     "start": 5.68,
+     "end": 5.76
+    },
+    {
+     "text": "two",
+     "start": 5.76,
+     "end": 6.0
+    },
+    {
+     "text": "examples",
+     "start": 6.0,
+     "end": 6.72
+    },
+    {
+     "text": "you",
+     "start": 6.72,
+     "end": 6.88
+    },
+    {
+     "text": "sit",
+     "start": 6.88,
+     "end": 7.12
+    },
+    {
+     "text": "on",
+     "start": 7.12,
+     "end": 7.28
+    },
+    {
+     "text": "the",
+     "start": 7.28,
+     "end": 7.36
+    },
+    {
+     "text": "fence",
+     "start": 7.36,
+     "end": 7.84
+    },
+    {
+     "text": "and",
+     "start": 7.84,
+     "end": 8.0
+    },
+    {
+     "text": "say",
+     "start": 8.0,
+     "end": 8.24
+    },
+    {
+     "text": "it's",
+     "start": 8.24,
+     "end": 8.4
+    },
+    {
+     "text": "neither",
+     "start": 8.4,
+     "end": 8.88
+    }
+   ]
+  },
+  "L004/19": {
+   "debate_id": "L004",
+   "turn": 19,
+   "speaker": "MOD",
+   "start_sec": 241.36,
+   "end_sec": 248.76,
+   "text": "And that concludes round two of this debate. We're going to go to closing arguments now. And so, first up, Christina.",
+   "audio": "audio/turns/L004_019.mp3",
+   "words": [
+    {
+     "text": "And",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "that",
+     "start": 0.24,
+     "end": 0.48
+    },
+    {
+     "text": "concludes",
+     "start": 0.48,
+     "end": 1.12
+    },
+    {
+     "text": "round",
+     "start": 1.12,
+     "end": 1.6
+    },
+    {
+     "text": "two",
+     "start": 1.76,
+     "end": 2.08
+    },
+    {
+     "text": "of",
+     "start": 2.08,
+     "end": 2.16
+    },
+    {
+     "text": "this",
+     "start": 2.16,
+     "end": 2.4
+    },
+    {
+     "text": "debate",
+     "start": 2.4,
+     "end": 2.88
+    },
+    {
+     "text": "We're",
+     "start": 3.2,
+     "end": 3.28
+    },
+    {
+     "text": "going",
+     "start": 3.28,
+     "end": 3.44
+    },
+    {
+     "text": "to",
+     "start": 3.44,
+     "end": 3.44
+    },
+    {
+     "text": "go",
+     "start": 3.44,
+     "end": 3.6
+    },
+    {
+     "text": "to",
+     "start": 3.6,
+     "end": 3.68
+    },
+    {
+     "text": "closing",
+     "start": 3.68,
+     "end": 4.24
+    },
+    {
+     "text": "arguments",
+     "start": 4.24,
+     "end": 4.8
+    },
+    {
+     "text": "now",
+     "start": 4.8,
+     "end": 5.28
+    },
+    {
+     "text": "And",
+     "start": 5.28,
+     "end": 5.52
+    },
+    {
+     "text": "so",
+     "start": 5.52,
+     "end": 5.92
+    },
+    {
+     "text": "first",
+     "start": 6.08,
+     "end": 6.4
+    },
+    {
+     "text": "up",
+     "start": 6.48,
+     "end": 6.72
+    },
+    {
+     "text": "Christina",
+     "start": 6.72,
+     "end": 7.36
+    }
+   ]
+  },
+  "L004/21": {
+   "debate_id": "L004",
+   "turn": 21,
+   "speaker": "MOD",
+   "start_sec": 268.1,
+   "end_sec": 269.74,
+   "text": "Ten seconds for last word.",
+   "audio": "audio/turns/L004_021.mp3",
+   "words": [
+    {
+     "text": "Ten",
+     "start": 0.0,
+     "end": 0.32
+    },
+    {
+     "text": "seconds",
+     "start": 0.32,
+     "end": 0.8
+    },
+    {
+     "text": "for",
+     "start": 0.8,
+     "end": 0.96
+    },
+    {
+     "text": "last",
+     "start": 0.96,
+     "end": 1.28
+    },
+    {
+     "text": "word",
+     "start": 1.28,
+     "end": 1.6
+    }
+   ]
+  },
+  "L004/23": {
+   "debate_id": "L004",
+   "turn": 23,
+   "speaker": "MOD",
+   "start_sec": 282.7,
+   "end_sec": 288.66,
+   "text": "Your time is up, Christina. Thank you. And here to summarize her position against the motion, Nadine.",
+   "audio": "audio/turns/L004_023.mp3",
+   "words": [
+    {
+     "text": "Your",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "time",
+     "start": 0.16,
+     "end": 0.4
+    },
+    {
+     "text": "is",
+     "start": 0.4,
+     "end": 0.48
+    },
+    {
+     "text": "up",
+     "start": 0.48,
+     "end": 0.64
+    },
+    {
+     "text": "Christina",
+     "start": 0.88,
+     "end": 1.36
+    },
+    {
+     "text": "Thank",
+     "start": 1.52,
+     "end": 1.76
+    },
+    {
+     "text": "you",
+     "start": 1.76,
+     "end": 1.92
+    },
+    {
+     "text": "And",
+     "start": 2.32,
+     "end": 2.4
+    },
+    {
+     "text": "here",
+     "start": 2.4,
+     "end": 2.88
+    },
+    {
+     "text": "to",
+     "start": 2.96,
+     "end": 3.04
+    },
+    {
+     "text": "summarize",
+     "start": 3.04,
+     "end": 3.92
+    },
+    {
+     "text": "her",
+     "start": 4.0,
+     "end": 4.08
+    },
+    {
+     "text": "position",
+     "start": 4.08,
+     "end": 4.56
+    },
+    {
+     "text": "against",
+     "start": 4.56,
+     "end": 4.96
+    },
+    {
+     "text": "the",
+     "start": 4.96,
+     "end": 4.96
+    },
+    {
+     "text": "motion",
+     "start": 4.96,
+     "end": 5.36
+    },
+    {
+     "text": "Nadine",
+     "start": 5.36,
+     "end": 5.84
+    }
+   ]
+  },
+  "L004/25": {
+   "debate_id": "L004",
+   "turn": 25,
+   "speaker": "MOD",
+   "start_sec": 307.02,
+   "end_sec": 314.9,
+   "text": "Thank you, Christina and Nadine. This debate is closed. We have heard arguments for an earned path and concerns about fairness and enforcement.",
+   "audio": "audio/turns/L004_025.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.0,
+     "end": 0.32
+    },
+    {
+     "text": "you",
+     "start": 0.32,
+     "end": 0.4
+    },
+    {
+     "text": "Christina",
+     "start": 0.4,
+     "end": 0.88
+    },
+    {
+     "text": "and",
+     "start": 0.88,
+     "end": 1.12
+    },
+    {
+     "text": "Nadine",
+     "start": 1.12,
+     "end": 1.52
+    },
+    {
+     "text": "This",
+     "start": 1.52,
+     "end": 1.76
+    },
+    {
+     "text": "debate",
+     "start": 1.76,
+     "end": 2.24
+    },
+    {
+     "text": "is",
+     "start": 2.24,
+     "end": 2.4
+    },
+    {
+     "text": "closed",
+     "start": 2.4,
+     "end": 3.04
+    },
+    {
+     "text": "We",
+     "start": 3.2,
+     "end": 3.44
+    },
+    {
+     "text": "have",
+     "start": 3.52,
+     "end": 3.6
+    },
+    {
+     "text": "heard",
+     "start": 3.6,
+     "end": 3.84
+    },
+    {
+     "text": "arguments",
+     "start": 3.84,
+     "end": 4.48
+    },
+    {
+     "text": "for",
+     "start": 4.48,
+     "end": 4.64
+    },
+    {
+     "text": "an",
+     "start": 4.64,
+     "end": 4.8
+    },
+    {
+     "text": "earned",
+     "start": 4.88,
+     "end": 5.2
+    },
+    {
+     "text": "path",
+     "start": 5.2,
+     "end": 5.6
+    },
+    {
+     "text": "and",
+     "start": 5.6,
+     "end": 5.68
+    },
+    {
+     "text": "concerns",
+     "start": 5.68,
+     "end": 6.24
+    },
+    {
+     "text": "about",
+     "start": 6.24,
+     "end": 6.64
+    },
+    {
+     "text": "fairness",
+     "start": 6.64,
+     "end": 7.04
+    },
+    {
+     "text": "and",
+     "start": 7.04,
+     "end": 7.12
+    },
+    {
+     "text": "enforcement",
+     "start": 7.12,
+     "end": 7.84
+    }
+   ]
+  },
+  "L005/0": {
+   "debate_id": "L005",
+   "turn": 0,
+   "speaker": "MOD",
+   "start_sec": 0.0,
+   "end_sec": 16.28,
+   "text": "Tonight's motion is that the world is better off with Wikileaks disclosures. Ryan argues for it, and Mira argues against it. Each speaker gets thirty seconds for an opening, then we have crossfire, then thirty-second closings. I will give a ten-second cue, and I will manage the turns.",
+   "audio": "audio/turns/L005_000.mp3",
+   "words": [
+    {
+     "text": "Tonight's",
+     "start": 0.08,
+     "end": 0.4
+    },
+    {
+     "text": "motion",
+     "start": 0.4,
+     "end": 0.88
+    },
+    {
+     "text": "is",
+     "start": 0.96,
+     "end": 1.2
+    },
+    {
+     "text": "that",
+     "start": 1.2,
+     "end": 1.28
+    },
+    {
+     "text": "the",
+     "start": 1.28,
+     "end": 1.36
+    },
+    {
+     "text": "world",
+     "start": 1.36,
+     "end": 1.6
+    },
+    {
+     "text": "is",
+     "start": 1.6,
+     "end": 1.68
+    },
+    {
+     "text": "better",
+     "start": 1.68,
+     "end": 1.92
+    },
+    {
+     "text": "off",
+     "start": 1.92,
+     "end": 2.16
+    },
+    {
+     "text": "with",
+     "start": 2.16,
+     "end": 2.24
+    },
+    {
+     "text": "Wikileaks",
+     "start": 2.24,
+     "end": 2.8
+    },
+    {
+     "text": "disclosures",
+     "start": 2.8,
+     "end": 3.52
+    },
+    {
+     "text": "Ryan",
+     "start": 4.0,
+     "end": 4.32
+    },
+    {
+     "text": "argues",
+     "start": 4.32,
+     "end": 4.72
+    },
+    {
+     "text": "for",
+     "start": 4.72,
+     "end": 4.96
+    },
+    {
+     "text": "it",
+     "start": 4.96,
+     "end": 5.04
+    },
+    {
+     "text": "and",
+     "start": 5.12,
+     "end": 5.44
+    },
+    {
+     "text": "Mira",
+     "start": 5.6,
+     "end": 6.0
+    },
+    {
+     "text": "argues",
+     "start": 6.0,
+     "end": 6.48
+    },
+    {
+     "text": "against",
+     "start": 6.56,
+     "end": 7.04
+    },
+    {
+     "text": "it",
+     "start": 7.04,
+     "end": 7.2
+    },
+    {
+     "text": "Each",
+     "start": 7.44,
+     "end": 7.68
+    },
+    {
+     "text": "speaker",
+     "start": 7.68,
+     "end": 8.0
+    },
+    {
+     "text": "gets",
+     "start": 8.0,
+     "end": 8.32
+    },
+    {
+     "text": "thirty",
+     "start": 8.32,
+     "end": 8.56
+    },
+    {
+     "text": "seconds",
+     "start": 8.56,
+     "end": 8.96
+    },
+    {
+     "text": "for",
+     "start": 8.96,
+     "end": 9.04
+    },
+    {
+     "text": "an",
+     "start": 9.04,
+     "end": 9.12
+    },
+    {
+     "text": "opening",
+     "start": 9.12,
+     "end": 9.6
+    },
+    {
+     "text": "then",
+     "start": 9.92,
+     "end": 10.08
+    },
+    {
+     "text": "we",
+     "start": 10.08,
+     "end": 10.16
+    },
+    {
+     "text": "have",
+     "start": 10.16,
+     "end": 10.32
+    },
+    {
+     "text": "crossfire",
+     "start": 10.32,
+     "end": 10.96
+    },
+    {
+     "text": "then",
+     "start": 10.96,
+     "end": 11.2
+    },
+    {
+     "text": "thirtysecond",
+     "start": 11.28,
+     "end": 12.16
+    },
+    {
+     "text": "closings",
+     "start": 12.16,
+     "end": 12.64
+    },
+    {
+     "text": "I",
+     "start": 13.04,
+     "end": 13.2
+    },
+    {
+     "text": "will",
+     "start": 13.2,
+     "end": 13.28
+    },
+    {
+     "text": "give",
+     "start": 13.28,
+     "end": 13.44
+    },
+    {
+     "text": "a",
+     "start": 13.44,
+     "end": 13.52
+    },
+    {
+     "text": "tensecond",
+     "start": 13.52,
+     "end": 14.16
+    },
+    {
+     "text": "cue",
+     "start": 14.16,
+     "end": 14.56
+    },
+    {
+     "text": "and",
+     "start": 14.8,
+     "end": 14.88
+    },
+    {
+     "text": "I",
+     "start": 14.88,
+     "end": 14.96
+    },
+    {
+     "text": "will",
+     "start": 15.04,
+     "end": 15.12
+    },
+    {
+     "text": "manage",
+     "start": 15.12,
+     "end": 15.52
+    },
+    {
+     "text": "the",
+     "start": 15.52,
+     "end": 15.6
+    },
+    {
+     "text": "turns",
+     "start": 15.6,
+     "end": 16.16
+    }
+   ]
+  },
+  "L005/2": {
+   "debate_id": "L005",
+   "turn": 2,
+   "speaker": "MOD",
+   "start_sec": 35.4,
+   "end_sec": 38.76,
+   "text": "I can give you ten seconds to do this.",
+   "audio": "audio/turns/L005_002.mp3",
+   "words": [
+    {
+     "text": "I",
+     "start": 1.2,
+     "end": 1.28
+    },
+    {
+     "text": "can",
+     "start": 1.28,
+     "end": 1.44
+    },
+    {
+     "text": "give",
+     "start": 1.44,
+     "end": 1.6
+    },
+    {
+     "text": "you",
+     "start": 1.6,
+     "end": 1.68
+    },
+    {
+     "text": "ten",
+     "start": 1.68,
+     "end": 2.0
+    },
+    {
+     "text": "seconds",
+     "start": 2.0,
+     "end": 2.48
+    },
+    {
+     "text": "to",
+     "start": 2.56,
+     "end": 2.56
+    },
+    {
+     "text": "do",
+     "start": 2.56,
+     "end": 2.72
+    },
+    {
+     "text": "this",
+     "start": 2.72,
+     "end": 3.04
+    }
+   ]
+  },
+  "L005/4": {
+   "debate_id": "L005",
+   "turn": 4,
+   "speaker": "MOD",
+   "start_sec": 44.16,
+   "end_sec": 47.0,
+   "text": "Okay. Ryan, let me give the floor back to Mira.",
+   "audio": "audio/turns/L005_004.mp3",
+   "words": [
+    {
+     "text": "Okay",
+     "start": 0.0,
+     "end": 0.48
+    },
+    {
+     "text": "Ryan",
+     "start": 0.8,
+     "end": 1.2
+    },
+    {
+     "text": "let",
+     "start": 1.36,
+     "end": 1.52
+    },
+    {
+     "text": "me",
+     "start": 1.52,
+     "end": 1.6
+    },
+    {
+     "text": "give",
+     "start": 1.6,
+     "end": 1.76
+    },
+    {
+     "text": "the",
+     "start": 1.76,
+     "end": 1.76
+    },
+    {
+     "text": "floor",
+     "start": 1.76,
+     "end": 2.08
+    },
+    {
+     "text": "back",
+     "start": 2.08,
+     "end": 2.32
+    },
+    {
+     "text": "to",
+     "start": 2.4,
+     "end": 2.4
+    },
+    {
+     "text": "Mira",
+     "start": 2.4,
+     "end": 2.8
+    }
+   ]
+  },
+  "L005/6": {
+   "debate_id": "L005",
+   "turn": 6,
+   "speaker": "MOD",
+   "start_sec": 65.04,
+   "end_sec": 72.36,
+   "text": "And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly.",
+   "audio": "audio/turns/L005_006.mp3",
+   "words": [
+    {
+     "text": "And",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "that",
+     "start": 0.24,
+     "end": 0.4
+    },
+    {
+     "text": "concludes",
+     "start": 0.4,
+     "end": 0.96
+    },
+    {
+     "text": "round",
+     "start": 0.96,
+     "end": 1.36
+    },
+    {
+     "text": "one",
+     "start": 1.36,
+     "end": 1.68
+    },
+    {
+     "text": "Now",
+     "start": 2.0,
+     "end": 2.24
+    },
+    {
+     "text": "we",
+     "start": 2.24,
+     "end": 2.32
+    },
+    {
+     "text": "move",
+     "start": 2.32,
+     "end": 2.56
+    },
+    {
+     "text": "on",
+     "start": 2.56,
+     "end": 2.8
+    },
+    {
+     "text": "to",
+     "start": 2.88,
+     "end": 2.96
+    },
+    {
+     "text": "round",
+     "start": 2.96,
+     "end": 3.36
+    },
+    {
+     "text": "two",
+     "start": 3.36,
+     "end": 3.76
+    },
+    {
+     "text": "Round",
+     "start": 4.16,
+     "end": 4.48
+    },
+    {
+     "text": "two",
+     "start": 4.48,
+     "end": 4.88
+    },
+    {
+     "text": "is",
+     "start": 4.88,
+     "end": 5.04
+    },
+    {
+     "text": "where",
+     "start": 5.04,
+     "end": 5.28
+    },
+    {
+     "text": "the",
+     "start": 5.28,
+     "end": 5.36
+    },
+    {
+     "text": "debaters",
+     "start": 5.36,
+     "end": 5.76
+    },
+    {
+     "text": "address",
+     "start": 5.76,
+     "end": 6.24
+    },
+    {
+     "text": "one",
+     "start": 6.24,
+     "end": 6.4
+    },
+    {
+     "text": "another",
+     "start": 6.4,
+     "end": 6.72
+    },
+    {
+     "text": "directly",
+     "start": 6.72,
+     "end": 7.28
+    }
+   ]
+  },
+  "L005/11": {
+   "debate_id": "L005",
+   "turn": 11,
+   "speaker": "MOD",
+   "start_sec": 125.76,
+   "end_sec": 130.36,
+   "text": "Okay, again, it's not on our topic about the world is better off with wikileaks disclosures.",
+   "audio": "audio/turns/L005_011.mp3",
+   "words": [
+    {
+     "text": "Okay",
+     "start": 0.0,
+     "end": 0.32
+    },
+    {
+     "text": "again",
+     "start": 0.4,
+     "end": 0.8
+    },
+    {
+     "text": "it's",
+     "start": 0.8,
+     "end": 0.96
+    },
+    {
+     "text": "not",
+     "start": 0.96,
+     "end": 1.12
+    },
+    {
+     "text": "on",
+     "start": 1.12,
+     "end": 1.2
+    },
+    {
+     "text": "our",
+     "start": 1.2,
+     "end": 1.28
+    },
+    {
+     "text": "topic",
+     "start": 1.28,
+     "end": 1.76
+    },
+    {
+     "text": "about",
+     "start": 1.76,
+     "end": 2.0
+    },
+    {
+     "text": "the",
+     "start": 2.0,
+     "end": 2.08
+    },
+    {
+     "text": "world",
+     "start": 2.08,
+     "end": 2.56
+    },
+    {
+     "text": "is",
+     "start": 2.56,
+     "end": 2.72
+    },
+    {
+     "text": "better",
+     "start": 2.72,
+     "end": 2.96
+    },
+    {
+     "text": "off",
+     "start": 2.96,
+     "end": 3.28
+    },
+    {
+     "text": "with",
+     "start": 3.28,
+     "end": 3.44
+    },
+    {
+     "text": "wikileaks",
+     "start": 3.44,
+     "end": 3.92
+    },
+    {
+     "text": "disclosures",
+     "start": 3.92,
+     "end": 4.56
+    }
+   ]
+  },
+  "L005/18": {
+   "debate_id": "L005",
+   "turn": 18,
+   "speaker": "MOD",
+   "start_sec": 210.84,
+   "end_sec": 218.0,
+   "text": "And now we move on to round three. Here to make his closing statement in support of the motion, once again, Ryan.",
+   "audio": "audio/turns/L005_018.mp3",
+   "words": [
+    {
+     "text": "And",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "now",
+     "start": 0.32,
+     "end": 0.48
+    },
+    {
+     "text": "we",
+     "start": 0.48,
+     "end": 0.64
+    },
+    {
+     "text": "move",
+     "start": 0.64,
+     "end": 0.96
+    },
+    {
+     "text": "on",
+     "start": 0.96,
+     "end": 1.2
+    },
+    {
+     "text": "to",
+     "start": 1.28,
+     "end": 1.36
+    },
+    {
+     "text": "round",
+     "start": 1.36,
+     "end": 1.76
+    },
+    {
+     "text": "three",
+     "start": 1.76,
+     "end": 2.08
+    },
+    {
+     "text": "Here",
+     "start": 2.8,
+     "end": 2.96
+    },
+    {
+     "text": "to",
+     "start": 2.96,
+     "end": 3.04
+    },
+    {
+     "text": "make",
+     "start": 3.04,
+     "end": 3.2
+    },
+    {
+     "text": "his",
+     "start": 3.2,
+     "end": 3.36
+    },
+    {
+     "text": "closing",
+     "start": 3.36,
+     "end": 3.76
+    },
+    {
+     "text": "statement",
+     "start": 3.76,
+     "end": 4.4
+    },
+    {
+     "text": "in",
+     "start": 4.64,
+     "end": 4.72
+    },
+    {
+     "text": "support",
+     "start": 4.72,
+     "end": 5.28
+    },
+    {
+     "text": "of",
+     "start": 5.28,
+     "end": 5.44
+    },
+    {
+     "text": "the",
+     "start": 5.44,
+     "end": 5.52
+    },
+    {
+     "text": "motion",
+     "start": 5.52,
+     "end": 6.0
+    },
+    {
+     "text": "once",
+     "start": 6.08,
+     "end": 6.32
+    },
+    {
+     "text": "again",
+     "start": 6.32,
+     "end": 6.72
+    },
+    {
+     "text": "Ryan",
+     "start": 6.8,
+     "end": 7.12
+    }
+   ]
+  },
+  "L005/20": {
+   "debate_id": "L005",
+   "turn": 20,
+   "speaker": "MOD",
+   "start_sec": 237.86,
+   "end_sec": 238.62,
+   "text": "Well, now ten.",
+   "audio": "audio/turns/L005_020.mp3",
+   "words": [
+    {
+     "text": "Well",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "now",
+     "start": 0.16,
+     "end": 0.32
+    },
+    {
+     "text": "ten",
+     "start": 0.32,
+     "end": 0.72
+    }
+   ]
+  },
+  "L005/22": {
+   "debate_id": "L005",
+   "turn": 22,
+   "speaker": "MOD",
+   "start_sec": 252.14,
+   "end_sec": 257.14,
+   "text": "Thank you, your time is up. And here to summarize her position against the motion, Mira.",
+   "audio": "audio/turns/L005_022.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "you",
+     "start": 0.32,
+     "end": 0.56
+    },
+    {
+     "text": "your",
+     "start": 0.8,
+     "end": 0.96
+    },
+    {
+     "text": "time",
+     "start": 0.96,
+     "end": 1.36
+    },
+    {
+     "text": "is",
+     "start": 1.36,
+     "end": 1.44
+    },
+    {
+     "text": "up",
+     "start": 1.44,
+     "end": 1.68
+    },
+    {
+     "text": "And",
+     "start": 2.08,
+     "end": 2.4
+    },
+    {
+     "text": "here",
+     "start": 2.4,
+     "end": 2.64
+    },
+    {
+     "text": "to",
+     "start": 2.72,
+     "end": 2.72
+    },
+    {
+     "text": "summarize",
+     "start": 2.72,
+     "end": 3.28
+    },
+    {
+     "text": "her",
+     "start": 3.28,
+     "end": 3.36
+    },
+    {
+     "text": "position",
+     "start": 3.36,
+     "end": 3.84
+    },
+    {
+     "text": "against",
+     "start": 3.84,
+     "end": 4.16
+    },
+    {
+     "text": "the",
+     "start": 4.16,
+     "end": 4.16
+    },
+    {
+     "text": "motion",
+     "start": 4.16,
+     "end": 4.64
+    },
+    {
+     "text": "Mira",
+     "start": 4.64,
+     "end": 4.96
+    }
+   ]
+  },
+  "L005/24": {
+   "debate_id": "L005",
+   "turn": 24,
+   "speaker": "MOD",
+   "start_sec": 275.34,
+   "end_sec": 282.18,
+   "text": "Thank you, Ryan and Mira, for the debate. The question is now closed. We leave the judgment to you, without declaring a winner.",
+   "audio": "audio/turns/L005_024.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "you",
+     "start": 0.24,
+     "end": 0.32
+    },
+    {
+     "text": "Ryan",
+     "start": 0.32,
+     "end": 0.64
+    },
+    {
+     "text": "and",
+     "start": 0.64,
+     "end": 0.72
+    },
+    {
+     "text": "Mira",
+     "start": 0.72,
+     "end": 0.96
+    },
+    {
+     "text": "for",
+     "start": 0.96,
+     "end": 1.12
+    },
+    {
+     "text": "the",
+     "start": 1.12,
+     "end": 1.2
+    },
+    {
+     "text": "debate",
+     "start": 1.28,
+     "end": 1.68
+    },
+    {
+     "text": "The",
+     "start": 2.24,
+     "end": 2.24
+    },
+    {
+     "text": "question",
+     "start": 2.24,
+     "end": 2.72
+    },
+    {
+     "text": "is",
+     "start": 2.72,
+     "end": 2.88
+    },
+    {
+     "text": "now",
+     "start": 2.88,
+     "end": 3.04
+    },
+    {
+     "text": "closed",
+     "start": 3.04,
+     "end": 3.6
+    },
+    {
+     "text": "We",
+     "start": 4.16,
+     "end": 4.32
+    },
+    {
+     "text": "leave",
+     "start": 4.32,
+     "end": 4.48
+    },
+    {
+     "text": "the",
+     "start": 4.48,
+     "end": 4.56
+    },
+    {
+     "text": "judgment",
+     "start": 4.56,
+     "end": 4.96
+    },
+    {
+     "text": "to",
+     "start": 5.04,
+     "end": 5.04
+    },
+    {
+     "text": "you",
+     "start": 5.04,
+     "end": 5.28
+    },
+    {
+     "text": "without",
+     "start": 5.6,
+     "end": 5.92
+    },
+    {
+     "text": "declaring",
+     "start": 5.92,
+     "end": 6.32
+    },
+    {
+     "text": "a",
+     "start": 6.32,
+     "end": 6.4
+    },
+    {
+     "text": "winner",
+     "start": 6.4,
+     "end": 6.8
+    }
+   ]
+  },
+  "L007/0": {
+   "debate_id": "L007",
+   "turn": 0,
+   "speaker": "MOD",
+   "start_sec": 0.0,
+   "end_sec": 17.64,
+   "text": "Tonight we debate whether Political Islam is a threat to the West. Eric argues yes; Kenneth argues no. Each opening lasts thirty seconds. Then comes crossfire, where they address each other. Finally, each gives a thirty-second closing. The moderator will give a ten-second cue. Keep answers relevant, and respect the time.",
+   "audio": "audio/turns/L007_000.mp3",
+   "words": [
+    {
+     "text": "Tonight",
+     "start": 0.08,
+     "end": 0.4
+    },
+    {
+     "text": "we",
+     "start": 0.4,
+     "end": 0.56
+    },
+    {
+     "text": "debate",
+     "start": 0.56,
+     "end": 0.96
+    },
+    {
+     "text": "whether",
+     "start": 0.96,
+     "end": 1.28
+    },
+    {
+     "text": "Political",
+     "start": 1.28,
+     "end": 1.84
+    },
+    {
+     "text": "Islam",
+     "start": 1.84,
+     "end": 2.24
+    },
+    {
+     "text": "is",
+     "start": 2.24,
+     "end": 2.4
+    },
+    {
+     "text": "a",
+     "start": 2.4,
+     "end": 2.48
+    },
+    {
+     "text": "threat",
+     "start": 2.48,
+     "end": 2.88
+    },
+    {
+     "text": "to",
+     "start": 2.88,
+     "end": 2.88
+    },
+    {
+     "text": "the",
+     "start": 2.88,
+     "end": 2.96
+    },
+    {
+     "text": "West",
+     "start": 2.96,
+     "end": 3.52
+    },
+    {
+     "text": "Eric",
+     "start": 4.0,
+     "end": 4.32
+    },
+    {
+     "text": "argues",
+     "start": 4.32,
+     "end": 4.72
+    },
+    {
+     "text": "yes",
+     "start": 4.72,
+     "end": 5.12
+    },
+    {
+     "text": "Kenneth",
+     "start": 5.12,
+     "end": 5.44
+    },
+    {
+     "text": "argues",
+     "start": 5.44,
+     "end": 5.76
+    },
+    {
+     "text": "no",
+     "start": 5.76,
+     "end": 6.08
+    },
+    {
+     "text": "Each",
+     "start": 6.16,
+     "end": 6.32
+    },
+    {
+     "text": "opening",
+     "start": 6.32,
+     "end": 6.72
+    },
+    {
+     "text": "lasts",
+     "start": 6.72,
+     "end": 7.04
+    },
+    {
+     "text": "thirty",
+     "start": 7.04,
+     "end": 7.28
+    },
+    {
+     "text": "seconds",
+     "start": 7.28,
+     "end": 7.76
+    },
+    {
+     "text": "Then",
+     "start": 7.76,
+     "end": 8.0
+    },
+    {
+     "text": "comes",
+     "start": 8.0,
+     "end": 8.32
+    },
+    {
+     "text": "crossfire",
+     "start": 8.4,
+     "end": 9.04
+    },
+    {
+     "text": "where",
+     "start": 9.04,
+     "end": 9.2
+    },
+    {
+     "text": "they",
+     "start": 9.2,
+     "end": 9.36
+    },
+    {
+     "text": "address",
+     "start": 9.36,
+     "end": 9.84
+    },
+    {
+     "text": "each",
+     "start": 9.84,
+     "end": 10.0
+    },
+    {
+     "text": "other",
+     "start": 10.0,
+     "end": 10.32
+    },
+    {
+     "text": "Finally",
+     "start": 10.56,
+     "end": 11.04
+    },
+    {
+     "text": "each",
+     "start": 11.04,
+     "end": 11.36
+    },
+    {
+     "text": "gives",
+     "start": 11.36,
+     "end": 11.6
+    },
+    {
+     "text": "a",
+     "start": 11.6,
+     "end": 11.68
+    },
+    {
+     "text": "thirtysecond",
+     "start": 11.68,
+     "end": 12.24
+    },
+    {
+     "text": "closing",
+     "start": 12.24,
+     "end": 12.8
+    },
+    {
+     "text": "The",
+     "start": 12.88,
+     "end": 12.96
+    },
+    {
+     "text": "moderator",
+     "start": 12.96,
+     "end": 13.36
+    },
+    {
+     "text": "will",
+     "start": 13.36,
+     "end": 13.52
+    },
+    {
+     "text": "give",
+     "start": 13.52,
+     "end": 13.68
+    },
+    {
+     "text": "a",
+     "start": 13.68,
+     "end": 13.76
+    },
+    {
+     "text": "tensecond",
+     "start": 13.76,
+     "end": 14.56
+    },
+    {
+     "text": "cue",
+     "start": 14.56,
+     "end": 14.88
+    },
+    {
+     "text": "Keep",
+     "start": 15.04,
+     "end": 15.36
+    },
+    {
+     "text": "answers",
+     "start": 15.36,
+     "end": 15.76
+    },
+    {
+     "text": "relevant",
+     "start": 15.76,
+     "end": 16.32
+    },
+    {
+     "text": "and",
+     "start": 16.4,
+     "end": 16.64
+    },
+    {
+     "text": "respect",
+     "start": 16.64,
+     "end": 17.12
+    },
+    {
+     "text": "the",
+     "start": 17.12,
+     "end": 17.2
+    },
+    {
+     "text": "time",
+     "start": 17.2,
+     "end": 17.6
+    }
+   ]
+  },
+  "L007/2": {
+   "debate_id": "L007",
+   "turn": 2,
+   "speaker": "MOD",
+   "start_sec": 36.82,
+   "end_sec": 37.98,
+   "text": "Eric, ten seconds.",
+   "audio": "audio/turns/L007_002.mp3",
+   "words": [
+    {
+     "text": "Eric",
+     "start": 0.08,
+     "end": 0.4
+    },
+    {
+     "text": "ten",
+     "start": 0.4,
+     "end": 0.64
+    },
+    {
+     "text": "seconds",
+     "start": 0.64,
+     "end": 1.12
+    }
+   ]
+  },
+  "L007/4": {
+   "debate_id": "L007",
+   "turn": 4,
+   "speaker": "MOD",
+   "start_sec": 51.02,
+   "end_sec": 52.98,
+   "text": "Your time is up. Thank you. Kenneth.",
+   "audio": "audio/turns/L007_004.mp3",
+   "words": [
+    {
+     "text": "Your",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "time",
+     "start": 0.24,
+     "end": 0.64
+    },
+    {
+     "text": "is",
+     "start": 0.64,
+     "end": 0.72
+    },
+    {
+     "text": "up",
+     "start": 0.72,
+     "end": 0.96
+    },
+    {
+     "text": "Thank",
+     "start": 1.2,
+     "end": 1.44
+    },
+    {
+     "text": "you",
+     "start": 1.44,
+     "end": 1.52
+    },
+    {
+     "text": "Kenneth",
+     "start": 1.52,
+     "end": 1.92
+    }
+   ]
+  },
+  "L007/6": {
+   "debate_id": "L007",
+   "turn": 6,
+   "speaker": "MOD",
+   "start_sec": 71.1,
+   "end_sec": 74.9,
+   "text": "We're going to begin the section now, where the debaters address one another.",
+   "audio": "audio/turns/L007_006.mp3",
+   "words": [
+    {
+     "text": "We're",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "going",
+     "start": 0.16,
+     "end": 0.32
+    },
+    {
+     "text": "to",
+     "start": 0.32,
+     "end": 0.4
+    },
+    {
+     "text": "begin",
+     "start": 0.4,
+     "end": 0.88
+    },
+    {
+     "text": "the",
+     "start": 0.88,
+     "end": 0.96
+    },
+    {
+     "text": "section",
+     "start": 0.96,
+     "end": 1.44
+    },
+    {
+     "text": "now",
+     "start": 1.44,
+     "end": 1.76
+    },
+    {
+     "text": "where",
+     "start": 1.76,
+     "end": 1.92
+    },
+    {
+     "text": "the",
+     "start": 1.92,
+     "end": 2.08
+    },
+    {
+     "text": "debaters",
+     "start": 2.08,
+     "end": 2.72
+    },
+    {
+     "text": "address",
+     "start": 2.72,
+     "end": 3.12
+    },
+    {
+     "text": "one",
+     "start": 3.12,
+     "end": 3.28
+    },
+    {
+     "text": "another",
+     "start": 3.28,
+     "end": 3.76
+    }
+   ]
+  },
+  "L007/21": {
+   "debate_id": "L007",
+   "turn": 21,
+   "speaker": "MOD",
+   "start_sec": 230.5,
+   "end_sec": 239.1,
+   "text": "We're going to move now into our closing round. Eric, you are answering yes to the question, and this is your time for your closing statement.",
+   "audio": "audio/turns/L007_021.mp3",
+   "words": [
+    {
+     "text": "We're",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "going",
+     "start": 0.24,
+     "end": 0.32
+    },
+    {
+     "text": "to",
+     "start": 0.32,
+     "end": 0.4
+    },
+    {
+     "text": "move",
+     "start": 0.4,
+     "end": 0.64
+    },
+    {
+     "text": "now",
+     "start": 0.64,
+     "end": 1.04
+    },
+    {
+     "text": "into",
+     "start": 1.04,
+     "end": 1.44
+    },
+    {
+     "text": "our",
+     "start": 1.44,
+     "end": 1.52
+    },
+    {
+     "text": "closing",
+     "start": 1.52,
+     "end": 2.0
+    },
+    {
+     "text": "round",
+     "start": 2.0,
+     "end": 2.4
+    },
+    {
+     "text": "Eric",
+     "start": 2.88,
+     "end": 3.28
+    },
+    {
+     "text": "you",
+     "start": 3.28,
+     "end": 3.68
+    },
+    {
+     "text": "are",
+     "start": 3.68,
+     "end": 3.92
+    },
+    {
+     "text": "answering",
+     "start": 3.92,
+     "end": 4.48
+    },
+    {
+     "text": "yes",
+     "start": 4.48,
+     "end": 4.88
+    },
+    {
+     "text": "to",
+     "start": 4.88,
+     "end": 4.96
+    },
+    {
+     "text": "the",
+     "start": 4.96,
+     "end": 5.04
+    },
+    {
+     "text": "question",
+     "start": 5.04,
+     "end": 5.68
+    },
+    {
+     "text": "and",
+     "start": 5.84,
+     "end": 6.0
+    },
+    {
+     "text": "this",
+     "start": 6.0,
+     "end": 6.24
+    },
+    {
+     "text": "is",
+     "start": 6.24,
+     "end": 6.4
+    },
+    {
+     "text": "your",
+     "start": 6.4,
+     "end": 6.64
+    },
+    {
+     "text": "time",
+     "start": 6.64,
+     "end": 7.12
+    },
+    {
+     "text": "for",
+     "start": 7.28,
+     "end": 7.36
+    },
+    {
+     "text": "your",
+     "start": 7.36,
+     "end": 7.52
+    },
+    {
+     "text": "closing",
+     "start": 7.52,
+     "end": 8.0
+    },
+    {
+     "text": "statement",
+     "start": 8.0,
+     "end": 8.56
+    }
+   ]
+  },
+  "L007/23": {
+   "debate_id": "L007",
+   "turn": 23,
+   "speaker": "MOD",
+   "start_sec": 257.06,
+   "end_sec": 258.38,
+   "text": "Oh, Kenneth go ahead.",
+   "audio": "audio/turns/L007_023.mp3",
+   "words": [
+    {
+     "text": "Oh",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "Kenneth",
+     "start": 0.4,
+     "end": 0.72
+    },
+    {
+     "text": "go",
+     "start": 0.72,
+     "end": 0.96
+    },
+    {
+     "text": "ahead",
+     "start": 0.96,
+     "end": 1.28
+    }
+   ]
+  },
+  "L007/26": {
+   "debate_id": "L007",
+   "turn": 26,
+   "speaker": "MOD",
+   "start_sec": 268.94,
+   "end_sec": 271.06,
+   "text": "Wait, let him answer the question.",
+   "audio": "audio/turns/L007_026.mp3",
+   "words": [
+    {
+     "text": "Wait",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "let",
+     "start": 0.88,
+     "end": 1.04
+    },
+    {
+     "text": "him",
+     "start": 1.04,
+     "end": 1.2
+    },
+    {
+     "text": "answer",
+     "start": 1.2,
+     "end": 1.52
+    },
+    {
+     "text": "the",
+     "start": 1.52,
+     "end": 1.6
+    },
+    {
+     "text": "question",
+     "start": 1.6,
+     "end": 2.0
+    }
+   ]
+  },
+  "L007/28": {
+   "debate_id": "L007",
+   "turn": 28,
+   "speaker": "MOD",
+   "start_sec": 280.76,
+   "end_sec": 282.0,
+   "text": "Ten seconds, ten seconds.",
+   "audio": "audio/turns/L007_028.mp3",
+   "words": [
+    {
+     "text": "Ten",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "seconds",
+     "start": 0.24,
+     "end": 0.64
+    },
+    {
+     "text": "ten",
+     "start": 0.64,
+     "end": 0.88
+    },
+    {
+     "text": "seconds",
+     "start": 0.88,
+     "end": 1.2
+    }
+   ]
+  },
+  "L007/30": {
+   "debate_id": "L007",
+   "turn": 30,
+   "speaker": "MOD",
+   "start_sec": 287.56,
+   "end_sec": 294.56,
+   "text": "Thank you both for the discussion. The question remains contested. Viewers can weigh the arguments. This debate is now closed.",
+   "audio": "audio/turns/L007_030.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.64,
+     "end": 0.88
+    },
+    {
+     "text": "you",
+     "start": 0.88,
+     "end": 0.96
+    },
+    {
+     "text": "both",
+     "start": 0.96,
+     "end": 1.28
+    },
+    {
+     "text": "for",
+     "start": 1.28,
+     "end": 1.28
+    },
+    {
+     "text": "the",
+     "start": 1.28,
+     "end": 1.44
+    },
+    {
+     "text": "discussion",
+     "start": 1.44,
+     "end": 2.0
+    },
+    {
+     "text": "The",
+     "start": 2.0,
+     "end": 2.08
+    },
+    {
+     "text": "question",
+     "start": 2.08,
+     "end": 2.56
+    },
+    {
+     "text": "remains",
+     "start": 2.56,
+     "end": 2.96
+    },
+    {
+     "text": "contested",
+     "start": 2.96,
+     "end": 3.68
+    },
+    {
+     "text": "Viewers",
+     "start": 3.76,
+     "end": 4.16
+    },
+    {
+     "text": "can",
+     "start": 4.16,
+     "end": 4.4
+    },
+    {
+     "text": "weigh",
+     "start": 4.4,
+     "end": 4.56
+    },
+    {
+     "text": "the",
+     "start": 4.56,
+     "end": 4.72
+    },
+    {
+     "text": "arguments",
+     "start": 4.72,
+     "end": 5.28
+    },
+    {
+     "text": "This",
+     "start": 5.28,
+     "end": 5.52
+    },
+    {
+     "text": "debate",
+     "start": 5.52,
+     "end": 5.92
+    },
+    {
+     "text": "is",
+     "start": 5.92,
+     "end": 6.08
+    },
+    {
+     "text": "now",
+     "start": 6.08,
+     "end": 6.32
+    },
+    {
+     "text": "closed",
+     "start": 6.32,
+     "end": 6.96
+    }
+   ]
+  },
+  "L008/0": {
+   "debate_id": "L008",
+   "turn": 0,
+   "speaker": "MOD",
+   "start_sec": 0.0,
+   "end_sec": 17.64,
+   "text": "The motion is: The Universal Basic Income is the Safety Net of the Future. Ralph argues for it, and Bobby argues against it. Each gets thirty seconds to open. Then they crossfire. Finally, each gets a thirty-second closing. I will give a ten-second cue during openings and closings. We begin with Ralph.",
+   "audio": "audio/turns/L008_000.mp3",
+   "words": [
+    {
+     "text": "The",
+     "start": 0.08,
+     "end": 0.16
+    },
+    {
+     "text": "motion",
+     "start": 0.16,
+     "end": 0.56
+    },
+    {
+     "text": "is",
+     "start": 0.56,
+     "end": 0.96
+    },
+    {
+     "text": "The",
+     "start": 1.04,
+     "end": 1.12
+    },
+    {
+     "text": "Universal",
+     "start": 1.12,
+     "end": 1.52
+    },
+    {
+     "text": "Basic",
+     "start": 1.52,
+     "end": 1.84
+    },
+    {
+     "text": "Income",
+     "start": 1.84,
+     "end": 2.24
+    },
+    {
+     "text": "is",
+     "start": 2.24,
+     "end": 2.32
+    },
+    {
+     "text": "the",
+     "start": 2.32,
+     "end": 2.4
+    },
+    {
+     "text": "Safety",
+     "start": 2.4,
+     "end": 2.72
+    },
+    {
+     "text": "Net",
+     "start": 2.72,
+     "end": 2.96
+    },
+    {
+     "text": "of",
+     "start": 2.96,
+     "end": 3.04
+    },
+    {
+     "text": "the",
+     "start": 3.04,
+     "end": 3.12
+    },
+    {
+     "text": "Future",
+     "start": 3.12,
+     "end": 3.68
+    },
+    {
+     "text": "Ralph",
+     "start": 4.0,
+     "end": 4.24
+    },
+    {
+     "text": "argues",
+     "start": 4.24,
+     "end": 4.64
+    },
+    {
+     "text": "for",
+     "start": 4.64,
+     "end": 4.88
+    },
+    {
+     "text": "it",
+     "start": 4.88,
+     "end": 5.04
+    },
+    {
+     "text": "and",
+     "start": 5.04,
+     "end": 5.2
+    },
+    {
+     "text": "Bobby",
+     "start": 5.2,
+     "end": 5.44
+    },
+    {
+     "text": "argues",
+     "start": 5.44,
+     "end": 5.84
+    },
+    {
+     "text": "against",
+     "start": 5.84,
+     "end": 6.32
+    },
+    {
+     "text": "it",
+     "start": 6.32,
+     "end": 6.4
+    },
+    {
+     "text": "Each",
+     "start": 6.88,
+     "end": 7.2
+    },
+    {
+     "text": "gets",
+     "start": 7.2,
+     "end": 7.6
+    },
+    {
+     "text": "thirty",
+     "start": 7.6,
+     "end": 7.84
+    },
+    {
+     "text": "seconds",
+     "start": 7.84,
+     "end": 8.4
+    },
+    {
+     "text": "to",
+     "start": 8.4,
+     "end": 8.48
+    },
+    {
+     "text": "open",
+     "start": 8.48,
+     "end": 8.88
+    },
+    {
+     "text": "Then",
+     "start": 8.96,
+     "end": 9.44
+    },
+    {
+     "text": "they",
+     "start": 9.68,
+     "end": 9.76
+    },
+    {
+     "text": "crossfire",
+     "start": 9.76,
+     "end": 10.48
+    },
+    {
+     "text": "Finally",
+     "start": 10.64,
+     "end": 11.2
+    },
+    {
+     "text": "each",
+     "start": 11.28,
+     "end": 11.52
+    },
+    {
+     "text": "gets",
+     "start": 11.52,
+     "end": 11.84
+    },
+    {
+     "text": "a",
+     "start": 11.84,
+     "end": 11.92
+    },
+    {
+     "text": "thirtysecond",
+     "start": 11.92,
+     "end": 12.64
+    },
+    {
+     "text": "closing",
+     "start": 12.64,
+     "end": 13.12
+    },
+    {
+     "text": "I",
+     "start": 13.28,
+     "end": 13.44
+    },
+    {
+     "text": "will",
+     "start": 13.44,
+     "end": 13.52
+    },
+    {
+     "text": "give",
+     "start": 13.52,
+     "end": 13.68
+    },
+    {
+     "text": "a",
+     "start": 13.68,
+     "end": 13.76
+    },
+    {
+     "text": "tensecond",
+     "start": 13.76,
+     "end": 14.48
+    },
+    {
+     "text": "cue",
+     "start": 14.48,
+     "end": 14.64
+    },
+    {
+     "text": "during",
+     "start": 14.64,
+     "end": 14.96
+    },
+    {
+     "text": "openings",
+     "start": 14.96,
+     "end": 15.44
+    },
+    {
+     "text": "and",
+     "start": 15.44,
+     "end": 15.52
+    },
+    {
+     "text": "closings",
+     "start": 15.52,
+     "end": 16.16
+    },
+    {
+     "text": "We",
+     "start": 16.56,
+     "end": 16.72
+    },
+    {
+     "text": "begin",
+     "start": 16.72,
+     "end": 17.12
+    },
+    {
+     "text": "with",
+     "start": 17.12,
+     "end": 17.28
+    },
+    {
+     "text": "Ralph",
+     "start": 17.28,
+     "end": 17.6
+    }
+   ]
+  },
+  "L008/2": {
+   "debate_id": "L008",
+   "turn": 2,
+   "speaker": "MOD",
+   "start_sec": 37.1,
+   "end_sec": 38.34,
+   "text": "Ten seconds, ten seconds.",
+   "audio": "audio/turns/L008_002.mp3",
+   "words": [
+    {
+     "text": "Ten",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "seconds",
+     "start": 0.24,
+     "end": 0.64
+    },
+    {
+     "text": "ten",
+     "start": 0.64,
+     "end": 0.8
+    },
+    {
+     "text": "seconds",
+     "start": 0.88,
+     "end": 1.12
+    }
+   ]
+  },
+  "L008/4": {
+   "debate_id": "L008",
+   "turn": 4,
+   "speaker": "MOD",
+   "start_sec": 47.42,
+   "end_sec": 49.46,
+   "text": "Ralph, let me, let me bring in Bobby.",
+   "audio": "audio/turns/L008_004.mp3",
+   "words": [
+    {
+     "text": "Ralph",
+     "start": 0.0,
+     "end": 0.32
+    },
+    {
+     "text": "let",
+     "start": 0.32,
+     "end": 0.48
+    },
+    {
+     "text": "me",
+     "start": 0.48,
+     "end": 0.88
+    },
+    {
+     "text": "let",
+     "start": 0.96,
+     "end": 1.12
+    },
+    {
+     "text": "me",
+     "start": 1.12,
+     "end": 1.28
+    },
+    {
+     "text": "bring",
+     "start": 1.28,
+     "end": 1.52
+    },
+    {
+     "text": "in",
+     "start": 1.52,
+     "end": 1.6
+    },
+    {
+     "text": "Bobby",
+     "start": 1.6,
+     "end": 2.0
+    }
+   ]
+  },
+  "L008/6": {
+   "debate_id": "L008",
+   "turn": 6,
+   "speaker": "MOD",
+   "start_sec": 68.96,
+   "end_sec": 69.96,
+   "text": "Ten seconds, Bobby.",
+   "audio": "audio/turns/L008_006.mp3",
+   "words": [
+    {
+     "text": "Ten",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "seconds",
+     "start": 0.24,
+     "end": 0.64
+    },
+    {
+     "text": "Bobby",
+     "start": 0.64,
+     "end": 0.96
+    }
+   ]
+  },
+  "L008/8": {
+   "debate_id": "L008",
+   "turn": 8,
+   "speaker": "MOD",
+   "start_sec": 78.88,
+   "end_sec": 81.16,
+   "text": "You're now going to argue with one another.",
+   "audio": "audio/turns/L008_008.mp3",
+   "words": [
+    {
+     "text": "You're",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "now",
+     "start": 0.24,
+     "end": 0.48
+    },
+    {
+     "text": "going",
+     "start": 0.48,
+     "end": 0.8
+    },
+    {
+     "text": "to",
+     "start": 0.8,
+     "end": 0.88
+    },
+    {
+     "text": "argue",
+     "start": 0.88,
+     "end": 1.28
+    },
+    {
+     "text": "with",
+     "start": 1.28,
+     "end": 1.52
+    },
+    {
+     "text": "one",
+     "start": 1.52,
+     "end": 1.76
+    },
+    {
+     "text": "another",
+     "start": 1.76,
+     "end": 2.24
+    }
+   ]
+  },
+  "L008/17": {
+   "debate_id": "L008",
+   "turn": 17,
+   "speaker": "MOD",
+   "start_sec": 174.9,
+   "end_sec": 183.18,
+   "text": "Ralph said universal basic income should be unconditional for every eligible adult, but a person unable to manage money should receive a managed payment instead.",
+   "audio": "audio/turns/L008_017.mp3",
+   "words": [
+    {
+     "text": "Ralph",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "said",
+     "start": 0.32,
+     "end": 0.56
+    },
+    {
+     "text": "universal",
+     "start": 0.56,
+     "end": 1.12
+    },
+    {
+     "text": "basic",
+     "start": 1.12,
+     "end": 1.52
+    },
+    {
+     "text": "income",
+     "start": 1.52,
+     "end": 1.84
+    },
+    {
+     "text": "should",
+     "start": 1.84,
+     "end": 2.08
+    },
+    {
+     "text": "be",
+     "start": 2.08,
+     "end": 2.16
+    },
+    {
+     "text": "unconditional",
+     "start": 2.16,
+     "end": 3.04
+    },
+    {
+     "text": "for",
+     "start": 3.04,
+     "end": 3.12
+    },
+    {
+     "text": "every",
+     "start": 3.12,
+     "end": 3.44
+    },
+    {
+     "text": "eligible",
+     "start": 3.44,
+     "end": 3.76
+    },
+    {
+     "text": "adult",
+     "start": 3.84,
+     "end": 4.24
+    },
+    {
+     "text": "but",
+     "start": 4.56,
+     "end": 4.72
+    },
+    {
+     "text": "a",
+     "start": 4.72,
+     "end": 4.72
+    },
+    {
+     "text": "person",
+     "start": 4.72,
+     "end": 5.28
+    },
+    {
+     "text": "unable",
+     "start": 5.28,
+     "end": 5.68
+    },
+    {
+     "text": "to",
+     "start": 5.68,
+     "end": 5.76
+    },
+    {
+     "text": "manage",
+     "start": 5.76,
+     "end": 6.08
+    },
+    {
+     "text": "money",
+     "start": 6.08,
+     "end": 6.32
+    },
+    {
+     "text": "should",
+     "start": 6.32,
+     "end": 6.56
+    },
+    {
+     "text": "receive",
+     "start": 6.56,
+     "end": 6.96
+    },
+    {
+     "text": "a",
+     "start": 6.96,
+     "end": 6.96
+    },
+    {
+     "text": "managed",
+     "start": 6.96,
+     "end": 7.36
+    },
+    {
+     "text": "payment",
+     "start": 7.44,
+     "end": 7.76
+    },
+    {
+     "text": "instead",
+     "start": 7.76,
+     "end": 8.24
+    }
+   ]
+  },
+  "L008/20": {
+   "debate_id": "L008",
+   "turn": 20,
+   "speaker": "MOD",
+   "start_sec": 208.46,
+   "end_sec": 216.02,
+   "text": "So that concludes the conversation portion. And now we're going to go to a closing round. And Ralph, it goes to you first.",
+   "audio": "audio/turns/L008_020.mp3",
+   "words": [
+    {
+     "text": "So",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "that",
+     "start": 0.16,
+     "end": 0.4
+    },
+    {
+     "text": "concludes",
+     "start": 0.4,
+     "end": 0.96
+    },
+    {
+     "text": "the",
+     "start": 0.96,
+     "end": 1.04
+    },
+    {
+     "text": "conversation",
+     "start": 1.04,
+     "end": 1.92
+    },
+    {
+     "text": "portion",
+     "start": 1.92,
+     "end": 2.4
+    },
+    {
+     "text": "And",
+     "start": 2.8,
+     "end": 3.04
+    },
+    {
+     "text": "now",
+     "start": 3.04,
+     "end": 3.36
+    },
+    {
+     "text": "we're",
+     "start": 3.36,
+     "end": 3.52
+    },
+    {
+     "text": "going",
+     "start": 3.52,
+     "end": 3.76
+    },
+    {
+     "text": "to",
+     "start": 3.84,
+     "end": 3.84
+    },
+    {
+     "text": "go",
+     "start": 3.84,
+     "end": 4.08
+    },
+    {
+     "text": "to",
+     "start": 4.16,
+     "end": 4.24
+    },
+    {
+     "text": "a",
+     "start": 4.24,
+     "end": 4.24
+    },
+    {
+     "text": "closing",
+     "start": 4.24,
+     "end": 4.8
+    },
+    {
+     "text": "round",
+     "start": 4.8,
+     "end": 5.2
+    },
+    {
+     "text": "And",
+     "start": 5.28,
+     "end": 5.52
+    },
+    {
+     "text": "Ralph",
+     "start": 5.52,
+     "end": 5.92
+    },
+    {
+     "text": "it",
+     "start": 6.16,
+     "end": 6.32
+    },
+    {
+     "text": "goes",
+     "start": 6.32,
+     "end": 6.56
+    },
+    {
+     "text": "to",
+     "start": 6.72,
+     "end": 6.72
+    },
+    {
+     "text": "you",
+     "start": 6.72,
+     "end": 6.96
+    },
+    {
+     "text": "first",
+     "start": 6.96,
+     "end": 7.28
+    }
+   ]
+  },
+  "L008/22": {
+   "debate_id": "L008",
+   "turn": 22,
+   "speaker": "MOD",
+   "start_sec": 235.16,
+   "end_sec": 236.56,
+   "text": "You have ten seconds.",
+   "audio": "audio/turns/L008_022.mp3",
+   "words": [
+    {
+     "text": "You",
+     "start": 0.08,
+     "end": 0.16
+    },
+    {
+     "text": "have",
+     "start": 0.24,
+     "end": 0.48
+    },
+    {
+     "text": "ten",
+     "start": 0.64,
+     "end": 0.8
+    },
+    {
+     "text": "seconds",
+     "start": 0.8,
+     "end": 1.36
+    }
+   ]
+  },
+  "L008/24": {
+   "debate_id": "L008",
+   "turn": 24,
+   "speaker": "MOD",
+   "start_sec": 250.16,
+   "end_sec": 253.32,
+   "text": "Thank you. Time is up on that. And now Bobby.",
+   "audio": "audio/turns/L008_024.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "you",
+     "start": 0.32,
+     "end": 0.48
+    },
+    {
+     "text": "Time",
+     "start": 0.8,
+     "end": 1.04
+    },
+    {
+     "text": "is",
+     "start": 1.04,
+     "end": 1.2
+    },
+    {
+     "text": "up",
+     "start": 1.2,
+     "end": 1.36
+    },
+    {
+     "text": "on",
+     "start": 1.44,
+     "end": 1.6
+    },
+    {
+     "text": "that",
+     "start": 1.6,
+     "end": 1.76
+    },
+    {
+     "text": "And",
+     "start": 2.24,
+     "end": 2.4
+    },
+    {
+     "text": "now",
+     "start": 2.4,
+     "end": 2.56
+    },
+    {
+     "text": "Bobby",
+     "start": 2.56,
+     "end": 3.12
+    }
+   ]
+  },
+  "L008/26": {
+   "debate_id": "L008",
+   "turn": 26,
+   "speaker": "MOD",
+   "start_sec": 271.28,
+   "end_sec": 276.52,
+   "text": "Thank you, Ralph and Bobby, for a focused debate. That concludes our discussion of the motion. Good night.",
+   "audio": "audio/turns/L008_026.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "you",
+     "start": 0.32,
+     "end": 0.4
+    },
+    {
+     "text": "Ralph",
+     "start": 0.4,
+     "end": 0.72
+    },
+    {
+     "text": "and",
+     "start": 0.72,
+     "end": 0.88
+    },
+    {
+     "text": "Bobby",
+     "start": 0.88,
+     "end": 1.2
+    },
+    {
+     "text": "for",
+     "start": 1.2,
+     "end": 1.44
+    },
+    {
+     "text": "a",
+     "start": 1.44,
+     "end": 1.44
+    },
+    {
+     "text": "focused",
+     "start": 1.44,
+     "end": 1.92
+    },
+    {
+     "text": "debate",
+     "start": 1.92,
+     "end": 2.4
+    },
+    {
+     "text": "That",
+     "start": 2.72,
+     "end": 2.88
+    },
+    {
+     "text": "concludes",
+     "start": 2.88,
+     "end": 3.36
+    },
+    {
+     "text": "our",
+     "start": 3.36,
+     "end": 3.44
+    },
+    {
+     "text": "discussion",
+     "start": 3.44,
+     "end": 4.0
+    },
+    {
+     "text": "of",
+     "start": 4.0,
+     "end": 4.08
+    },
+    {
+     "text": "the",
+     "start": 4.08,
+     "end": 4.16
+    },
+    {
+     "text": "motion",
+     "start": 4.16,
+     "end": 4.72
+    },
+    {
+     "text": "Good",
+     "start": 4.72,
+     "end": 4.88
+    },
+    {
+     "text": "night",
+     "start": 4.88,
+     "end": 5.2
+    }
+   ]
+  },
+  "L009/0": {
+   "debate_id": "L009",
+   "turn": 0,
+   "speaker": "MOD",
+   "start_sec": 0.0,
+   "end_sec": 17.8,
+   "text": "Today we debate the motion, It is time to redistribute the wealth. Ted speaks for it, and Jackson speaks against it. Each debater gets thirty seconds to open. Then we have crossfire, with fourteen turns. Finally, each gives a thirty-second closing statement. I will give a ten-second cue before timed speeches end.",
+   "audio": "audio/turns/L009_000.mp3",
+   "words": [
+    {
+     "text": "Today",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "we",
+     "start": 0.24,
+     "end": 0.32
+    },
+    {
+     "text": "debate",
+     "start": 0.32,
+     "end": 0.56
+    },
+    {
+     "text": "the",
+     "start": 0.56,
+     "end": 0.56
+    },
+    {
+     "text": "motion",
+     "start": 0.56,
+     "end": 0.88
+    },
+    {
+     "text": "It",
+     "start": 0.88,
+     "end": 0.96
+    },
+    {
+     "text": "is",
+     "start": 0.96,
+     "end": 1.04
+    },
+    {
+     "text": "time",
+     "start": 1.04,
+     "end": 1.28
+    },
+    {
+     "text": "to",
+     "start": 1.28,
+     "end": 1.36
+    },
+    {
+     "text": "redistribute",
+     "start": 1.36,
+     "end": 1.92
+    },
+    {
+     "text": "the",
+     "start": 1.92,
+     "end": 2.0
+    },
+    {
+     "text": "wealth",
+     "start": 2.0,
+     "end": 2.4
+    },
+    {
+     "text": "Ted",
+     "start": 2.96,
+     "end": 3.2
+    },
+    {
+     "text": "speaks",
+     "start": 3.2,
+     "end": 3.6
+    },
+    {
+     "text": "for",
+     "start": 3.6,
+     "end": 3.84
+    },
+    {
+     "text": "it",
+     "start": 3.84,
+     "end": 4.0
+    },
+    {
+     "text": "and",
+     "start": 4.08,
+     "end": 4.16
+    },
+    {
+     "text": "Jackson",
+     "start": 4.16,
+     "end": 4.64
+    },
+    {
+     "text": "speaks",
+     "start": 4.64,
+     "end": 5.04
+    },
+    {
+     "text": "against",
+     "start": 5.04,
+     "end": 5.44
+    },
+    {
+     "text": "it",
+     "start": 5.44,
+     "end": 5.6
+    },
+    {
+     "text": "Each",
+     "start": 5.92,
+     "end": 6.24
+    },
+    {
+     "text": "debater",
+     "start": 6.24,
+     "end": 6.64
+    },
+    {
+     "text": "gets",
+     "start": 6.64,
+     "end": 6.88
+    },
+    {
+     "text": "thirty",
+     "start": 6.88,
+     "end": 7.12
+    },
+    {
+     "text": "seconds",
+     "start": 7.12,
+     "end": 7.6
+    },
+    {
+     "text": "to",
+     "start": 7.6,
+     "end": 7.68
+    },
+    {
+     "text": "open",
+     "start": 7.68,
+     "end": 8.08
+    },
+    {
+     "text": "Then",
+     "start": 8.32,
+     "end": 8.56
+    },
+    {
+     "text": "we",
+     "start": 8.56,
+     "end": 8.64
+    },
+    {
+     "text": "have",
+     "start": 8.64,
+     "end": 8.8
+    },
+    {
+     "text": "crossfire",
+     "start": 8.8,
+     "end": 9.52
+    },
+    {
+     "text": "with",
+     "start": 9.68,
+     "end": 9.76
+    },
+    {
+     "text": "fourteen",
+     "start": 9.76,
+     "end": 10.32
+    },
+    {
+     "text": "turns",
+     "start": 10.32,
+     "end": 10.88
+    },
+    {
+     "text": "Finally",
+     "start": 11.52,
+     "end": 12.08
+    },
+    {
+     "text": "each",
+     "start": 12.16,
+     "end": 12.4
+    },
+    {
+     "text": "gives",
+     "start": 12.4,
+     "end": 12.64
+    },
+    {
+     "text": "a",
+     "start": 12.64,
+     "end": 12.64
+    },
+    {
+     "text": "thirtysecond",
+     "start": 12.64,
+     "end": 13.28
+    },
+    {
+     "text": "closing",
+     "start": 13.28,
+     "end": 13.6
+    },
+    {
+     "text": "statement",
+     "start": 13.6,
+     "end": 14.16
+    },
+    {
+     "text": "I",
+     "start": 14.56,
+     "end": 14.72
+    },
+    {
+     "text": "will",
+     "start": 14.72,
+     "end": 14.8
+    },
+    {
+     "text": "give",
+     "start": 14.8,
+     "end": 14.96
+    },
+    {
+     "text": "a",
+     "start": 14.96,
+     "end": 15.04
+    },
+    {
+     "text": "tensecond",
+     "start": 15.04,
+     "end": 15.68
+    },
+    {
+     "text": "cue",
+     "start": 15.68,
+     "end": 16.08
+    },
+    {
+     "text": "before",
+     "start": 16.32,
+     "end": 16.64
+    },
+    {
+     "text": "timed",
+     "start": 16.64,
+     "end": 16.96
+    },
+    {
+     "text": "speeches",
+     "start": 16.96,
+     "end": 17.44
+    },
+    {
+     "text": "end",
+     "start": 17.44,
+     "end": 17.76
+    }
+   ]
+  },
+  "L009/2": {
+   "debate_id": "L009",
+   "turn": 2,
+   "speaker": "MOD",
+   "start_sec": 36.0,
+   "end_sec": 39.08,
+   "text": "Thank you. Up next, speaking against the resolution is Jackson.",
+   "audio": "audio/turns/L009_002.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "you",
+     "start": 0.32,
+     "end": 0.32
+    },
+    {
+     "text": "Up",
+     "start": 0.64,
+     "end": 0.8
+    },
+    {
+     "text": "next",
+     "start": 0.8,
+     "end": 1.12
+    },
+    {
+     "text": "speaking",
+     "start": 1.12,
+     "end": 1.44
+    },
+    {
+     "text": "against",
+     "start": 1.44,
+     "end": 1.76
+    },
+    {
+     "text": "the",
+     "start": 1.76,
+     "end": 1.76
+    },
+    {
+     "text": "resolution",
+     "start": 1.76,
+     "end": 2.32
+    },
+    {
+     "text": "is",
+     "start": 2.32,
+     "end": 2.48
+    },
+    {
+     "text": "Jackson",
+     "start": 2.48,
+     "end": 3.04
+    }
+   ]
+  },
+  "L009/4": {
+   "debate_id": "L009",
+   "turn": 4,
+   "speaker": "MOD",
+   "start_sec": 58.1,
+   "end_sec": 59.1,
+   "text": "Ten seconds warning.",
+   "audio": "audio/turns/L009_004.mp3",
+   "words": [
+    {
+     "text": "Ten",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "seconds",
+     "start": 0.16,
+     "end": 0.56
+    },
+    {
+     "text": "warning",
+     "start": 0.56,
+     "end": 0.96
+    }
+   ]
+  },
+  "L009/6": {
+   "debate_id": "L009",
+   "turn": 6,
+   "speaker": "MOD",
+   "start_sec": 65.14,
+   "end_sec": 67.82,
+   "text": "And that concludes Round one. Now onto Round two.",
+   "audio": "audio/turns/L009_006.mp3",
+   "words": [
+    {
+     "text": "And",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "that",
+     "start": 0.16,
+     "end": 0.32
+    },
+    {
+     "text": "concludes",
+     "start": 0.32,
+     "end": 0.72
+    },
+    {
+     "text": "Round",
+     "start": 0.72,
+     "end": 1.04
+    },
+    {
+     "text": "one",
+     "start": 1.04,
+     "end": 1.36
+    },
+    {
+     "text": "Now",
+     "start": 1.68,
+     "end": 1.92
+    },
+    {
+     "text": "onto",
+     "start": 1.92,
+     "end": 2.08
+    },
+    {
+     "text": "Round",
+     "start": 2.08,
+     "end": 2.4
+    },
+    {
+     "text": "two",
+     "start": 2.4,
+     "end": 2.64
+    }
+   ]
+  },
+  "L009/12": {
+   "debate_id": "L009",
+   "turn": 12,
+   "speaker": "MOD",
+   "start_sec": 127.14,
+   "end_sec": 132.3,
+   "text": "Okay. What does your point have to do with it is time to redistribute the wealth?",
+   "audio": "audio/turns/L009_012.mp3",
+   "words": [
+    {
+     "text": "Okay",
+     "start": 0.08,
+     "end": 0.4
+    },
+    {
+     "text": "What",
+     "start": 0.64,
+     "end": 0.8
+    },
+    {
+     "text": "does",
+     "start": 0.8,
+     "end": 0.88
+    },
+    {
+     "text": "your",
+     "start": 0.88,
+     "end": 1.04
+    },
+    {
+     "text": "point",
+     "start": 1.04,
+     "end": 1.36
+    },
+    {
+     "text": "have",
+     "start": 1.36,
+     "end": 1.52
+    },
+    {
+     "text": "to",
+     "start": 1.6,
+     "end": 1.6
+    },
+    {
+     "text": "do",
+     "start": 1.6,
+     "end": 1.84
+    },
+    {
+     "text": "with",
+     "start": 1.84,
+     "end": 2.08
+    },
+    {
+     "text": "it",
+     "start": 2.08,
+     "end": 2.32
+    },
+    {
+     "text": "is",
+     "start": 2.72,
+     "end": 2.88
+    },
+    {
+     "text": "time",
+     "start": 2.88,
+     "end": 3.52
+    },
+    {
+     "text": "to",
+     "start": 3.68,
+     "end": 3.76
+    },
+    {
+     "text": "redistribute",
+     "start": 3.76,
+     "end": 4.64
+    },
+    {
+     "text": "the",
+     "start": 4.64,
+     "end": 4.72
+    },
+    {
+     "text": "wealth",
+     "start": 4.72,
+     "end": 5.04
+    }
+   ]
+  },
+  "L009/17": {
+   "debate_id": "L009",
+   "turn": 17,
+   "speaker": "MOD",
+   "start_sec": 161.7,
+   "end_sec": 174.78,
+   "text": "So what I hear was on the one hand, you found yourself saying no one should keep wealth beyond what fairness allows. And then on the other hand, a person who built a small business should keep all profits.",
+   "audio": "audio/turns/L009_017.mp3",
+   "words": [
+    {
+     "text": "So",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "what",
+     "start": 0.24,
+     "end": 0.4
+    },
+    {
+     "text": "I",
+     "start": 0.4,
+     "end": 0.56
+    },
+    {
+     "text": "hear",
+     "start": 0.56,
+     "end": 0.96
+    },
+    {
+     "text": "was",
+     "start": 0.96,
+     "end": 1.12
+    },
+    {
+     "text": "on",
+     "start": 1.12,
+     "end": 1.28
+    },
+    {
+     "text": "the",
+     "start": 1.28,
+     "end": 1.36
+    },
+    {
+     "text": "one",
+     "start": 1.36,
+     "end": 1.6
+    },
+    {
+     "text": "hand",
+     "start": 1.6,
+     "end": 2.08
+    },
+    {
+     "text": "you",
+     "start": 2.4,
+     "end": 2.48
+    },
+    {
+     "text": "found",
+     "start": 2.48,
+     "end": 2.8
+    },
+    {
+     "text": "yourself",
+     "start": 2.8,
+     "end": 3.12
+    },
+    {
+     "text": "saying",
+     "start": 3.12,
+     "end": 3.6
+    },
+    {
+     "text": "no",
+     "start": 3.92,
+     "end": 4.16
+    },
+    {
+     "text": "one",
+     "start": 4.16,
+     "end": 4.32
+    },
+    {
+     "text": "should",
+     "start": 4.32,
+     "end": 4.56
+    },
+    {
+     "text": "keep",
+     "start": 4.56,
+     "end": 4.88
+    },
+    {
+     "text": "wealth",
+     "start": 4.88,
+     "end": 5.28
+    },
+    {
+     "text": "beyond",
+     "start": 5.6,
+     "end": 6.0
+    },
+    {
+     "text": "what",
+     "start": 6.0,
+     "end": 6.24
+    },
+    {
+     "text": "fairness",
+     "start": 6.24,
+     "end": 6.72
+    },
+    {
+     "text": "allows",
+     "start": 6.72,
+     "end": 7.36
+    },
+    {
+     "text": "And",
+     "start": 7.68,
+     "end": 7.92
+    },
+    {
+     "text": "then",
+     "start": 7.92,
+     "end": 8.08
+    },
+    {
+     "text": "on",
+     "start": 8.08,
+     "end": 8.16
+    },
+    {
+     "text": "the",
+     "start": 8.16,
+     "end": 8.32
+    },
+    {
+     "text": "other",
+     "start": 8.32,
+     "end": 8.48
+    },
+    {
+     "text": "hand",
+     "start": 8.48,
+     "end": 8.88
+    },
+    {
+     "text": "a",
+     "start": 9.12,
+     "end": 9.2
+    },
+    {
+     "text": "person",
+     "start": 9.2,
+     "end": 9.68
+    },
+    {
+     "text": "who",
+     "start": 9.68,
+     "end": 9.84
+    },
+    {
+     "text": "built",
+     "start": 9.84,
+     "end": 10.08
+    },
+    {
+     "text": "a",
+     "start": 10.08,
+     "end": 10.16
+    },
+    {
+     "text": "small",
+     "start": 10.16,
+     "end": 10.48
+    },
+    {
+     "text": "business",
+     "start": 10.48,
+     "end": 11.12
+    },
+    {
+     "text": "should",
+     "start": 11.36,
+     "end": 11.6
+    },
+    {
+     "text": "keep",
+     "start": 11.6,
+     "end": 11.84
+    },
+    {
+     "text": "all",
+     "start": 11.92,
+     "end": 12.16
+    },
+    {
+     "text": "profits",
+     "start": 12.16,
+     "end": 12.96
+    }
+   ]
+  },
+  "L009/23": {
+   "debate_id": "L009",
+   "turn": 23,
+   "speaker": "MOD",
+   "start_sec": 221.92,
+   "end_sec": 231.96,
+   "text": "And now we move on to Round three. Round three will be closing statements by each debater in turn. Here making his closing statement in support of the motion, Ted.",
+   "audio": "audio/turns/L009_023.mp3",
+   "words": [
+    {
+     "text": "And",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "now",
+     "start": 0.16,
+     "end": 0.32
+    },
+    {
+     "text": "we",
+     "start": 0.32,
+     "end": 0.48
+    },
+    {
+     "text": "move",
+     "start": 0.48,
+     "end": 0.64
+    },
+    {
+     "text": "on",
+     "start": 0.64,
+     "end": 0.96
+    },
+    {
+     "text": "to",
+     "start": 1.28,
+     "end": 1.36
+    },
+    {
+     "text": "Round",
+     "start": 1.36,
+     "end": 1.68
+    },
+    {
+     "text": "three",
+     "start": 1.68,
+     "end": 2.16
+    },
+    {
+     "text": "Round",
+     "start": 2.48,
+     "end": 2.8
+    },
+    {
+     "text": "three",
+     "start": 2.8,
+     "end": 2.96
+    },
+    {
+     "text": "will",
+     "start": 2.96,
+     "end": 3.12
+    },
+    {
+     "text": "be",
+     "start": 3.12,
+     "end": 3.2
+    },
+    {
+     "text": "closing",
+     "start": 3.2,
+     "end": 3.76
+    },
+    {
+     "text": "statements",
+     "start": 3.76,
+     "end": 4.32
+    },
+    {
+     "text": "by",
+     "start": 4.32,
+     "end": 4.56
+    },
+    {
+     "text": "each",
+     "start": 4.56,
+     "end": 4.88
+    },
+    {
+     "text": "debater",
+     "start": 4.96,
+     "end": 5.36
+    },
+    {
+     "text": "in",
+     "start": 5.36,
+     "end": 5.6
+    },
+    {
+     "text": "turn",
+     "start": 5.6,
+     "end": 6.0
+    },
+    {
+     "text": "Here",
+     "start": 6.72,
+     "end": 6.96
+    },
+    {
+     "text": "making",
+     "start": 6.96,
+     "end": 7.36
+    },
+    {
+     "text": "his",
+     "start": 7.36,
+     "end": 7.6
+    },
+    {
+     "text": "closing",
+     "start": 7.6,
+     "end": 8.0
+    },
+    {
+     "text": "statement",
+     "start": 8.0,
+     "end": 8.48
+    },
+    {
+     "text": "in",
+     "start": 8.48,
+     "end": 8.64
+    },
+    {
+     "text": "support",
+     "start": 8.64,
+     "end": 9.04
+    },
+    {
+     "text": "of",
+     "start": 9.04,
+     "end": 9.12
+    },
+    {
+     "text": "the",
+     "start": 9.12,
+     "end": 9.2
+    },
+    {
+     "text": "motion",
+     "start": 9.2,
+     "end": 9.6
+    },
+    {
+     "text": "Ted",
+     "start": 9.6,
+     "end": 10.0
+    }
+   ]
+  },
+  "L009/25": {
+   "debate_id": "L009",
+   "turn": 25,
+   "speaker": "MOD",
+   "start_sec": 251.46,
+   "end_sec": 252.46,
+   "text": "Ten seconds please.",
+   "audio": "audio/turns/L009_025.mp3",
+   "words": [
+    {
+     "text": "Ten",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "seconds",
+     "start": 0.24,
+     "end": 0.64
+    },
+    {
+     "text": "please",
+     "start": 0.64,
+     "end": 0.96
+    }
+   ]
+  },
+  "L009/27": {
+   "debate_id": "L009",
+   "turn": 27,
+   "speaker": "MOD",
+   "start_sec": 265.82,
+   "end_sec": 270.74,
+   "text": "Thank you, your time is up. And here to summarize his position against the motion, Jackson.",
+   "audio": "audio/turns/L009_027.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.0,
+     "end": 0.32
+    },
+    {
+     "text": "you",
+     "start": 0.32,
+     "end": 0.32
+    },
+    {
+     "text": "your",
+     "start": 0.32,
+     "end": 0.48
+    },
+    {
+     "text": "time",
+     "start": 0.48,
+     "end": 0.8
+    },
+    {
+     "text": "is",
+     "start": 0.8,
+     "end": 0.96
+    },
+    {
+     "text": "up",
+     "start": 0.96,
+     "end": 1.2
+    },
+    {
+     "text": "And",
+     "start": 1.68,
+     "end": 1.76
+    },
+    {
+     "text": "here",
+     "start": 1.76,
+     "end": 2.0
+    },
+    {
+     "text": "to",
+     "start": 2.0,
+     "end": 2.08
+    },
+    {
+     "text": "summarize",
+     "start": 2.08,
+     "end": 2.64
+    },
+    {
+     "text": "his",
+     "start": 2.64,
+     "end": 2.8
+    },
+    {
+     "text": "position",
+     "start": 2.8,
+     "end": 3.2
+    },
+    {
+     "text": "against",
+     "start": 3.2,
+     "end": 3.6
+    },
+    {
+     "text": "the",
+     "start": 3.68,
+     "end": 3.76
+    },
+    {
+     "text": "motion",
+     "start": 3.76,
+     "end": 4.32
+    },
+    {
+     "text": "Jackson",
+     "start": 4.32,
+     "end": 4.88
+    }
+   ]
+  },
+  "L009/29": {
+   "debate_id": "L009",
+   "turn": 29,
+   "speaker": "MOD",
+   "start_sec": 289.26,
+   "end_sec": 295.62,
+   "text": "Thank you, Ted and Jackson. This debate is closed. We have heard both positions, and no winner is declared.",
+   "audio": "audio/turns/L009_029.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "you",
+     "start": 0.32,
+     "end": 0.4
+    },
+    {
+     "text": "Ted",
+     "start": 0.4,
+     "end": 0.72
+    },
+    {
+     "text": "and",
+     "start": 0.72,
+     "end": 0.8
+    },
+    {
+     "text": "Jackson",
+     "start": 0.8,
+     "end": 1.36
+    },
+    {
+     "text": "This",
+     "start": 1.6,
+     "end": 1.84
+    },
+    {
+     "text": "debate",
+     "start": 1.84,
+     "end": 2.32
+    },
+    {
+     "text": "is",
+     "start": 2.32,
+     "end": 2.48
+    },
+    {
+     "text": "closed",
+     "start": 2.48,
+     "end": 3.12
+    },
+    {
+     "text": "We",
+     "start": 3.44,
+     "end": 3.6
+    },
+    {
+     "text": "have",
+     "start": 3.6,
+     "end": 3.68
+    },
+    {
+     "text": "heard",
+     "start": 3.68,
+     "end": 3.92
+    },
+    {
+     "text": "both",
+     "start": 3.92,
+     "end": 4.24
+    },
+    {
+     "text": "positions",
+     "start": 4.24,
+     "end": 4.8
+    },
+    {
+     "text": "and",
+     "start": 4.88,
+     "end": 5.12
+    },
+    {
+     "text": "no",
+     "start": 5.12,
+     "end": 5.28
+    },
+    {
+     "text": "winner",
+     "start": 5.28,
+     "end": 5.6
+    },
+    {
+     "text": "is",
+     "start": 5.6,
+     "end": 5.84
+    },
+    {
+     "text": "declared",
+     "start": 5.84,
+     "end": 6.32
+    }
+   ]
+  },
+  "L010/0": {
+   "debate_id": "L010",
+   "turn": 0,
+   "speaker": "MOD",
+   "start_sec": 0.0,
+   "end_sec": 19.24,
+   "text": "Tonight's motion is, containment is not enough: ISIS must be defeated. Greg argues for it, and Carlos argues against it. Each speaker has thirty seconds for an opening. Then they will question and challenge each other in crossfire. Finally, each has thirty seconds for a closing. I will give a ten-second cue before each timed speech ends.",
+   "audio": "audio/turns/L010_000.mp3",
+   "words": [
+    {
+     "text": "Tonight's",
+     "start": 0.0,
+     "end": 0.32
+    },
+    {
+     "text": "motion",
+     "start": 0.32,
+     "end": 0.64
+    },
+    {
+     "text": "is",
+     "start": 0.64,
+     "end": 0.8
+    },
+    {
+     "text": "containment",
+     "start": 0.88,
+     "end": 1.36
+    },
+    {
+     "text": "is",
+     "start": 1.36,
+     "end": 1.52
+    },
+    {
+     "text": "not",
+     "start": 1.52,
+     "end": 1.68
+    },
+    {
+     "text": "enough",
+     "start": 1.68,
+     "end": 1.92
+    },
+    {
+     "text": "ISIS",
+     "start": 2.08,
+     "end": 2.32
+    },
+    {
+     "text": "must",
+     "start": 2.4,
+     "end": 2.56
+    },
+    {
+     "text": "be",
+     "start": 2.56,
+     "end": 2.64
+    },
+    {
+     "text": "defeated",
+     "start": 2.64,
+     "end": 3.04
+    },
+    {
+     "text": "Greg",
+     "start": 3.36,
+     "end": 3.68
+    },
+    {
+     "text": "argues",
+     "start": 3.76,
+     "end": 4.16
+    },
+    {
+     "text": "for",
+     "start": 4.24,
+     "end": 4.4
+    },
+    {
+     "text": "it",
+     "start": 4.4,
+     "end": 4.48
+    },
+    {
+     "text": "and",
+     "start": 4.8,
+     "end": 4.88
+    },
+    {
+     "text": "Carlos",
+     "start": 4.88,
+     "end": 5.28
+    },
+    {
+     "text": "argues",
+     "start": 5.28,
+     "end": 5.68
+    },
+    {
+     "text": "against",
+     "start": 5.68,
+     "end": 6.0
+    },
+    {
+     "text": "it",
+     "start": 6.08,
+     "end": 6.16
+    },
+    {
+     "text": "Each",
+     "start": 6.8,
+     "end": 6.96
+    },
+    {
+     "text": "speaker",
+     "start": 7.04,
+     "end": 7.36
+    },
+    {
+     "text": "has",
+     "start": 7.36,
+     "end": 7.6
+    },
+    {
+     "text": "thirty",
+     "start": 7.68,
+     "end": 7.92
+    },
+    {
+     "text": "seconds",
+     "start": 8.0,
+     "end": 8.24
+    },
+    {
+     "text": "for",
+     "start": 8.32,
+     "end": 8.4
+    },
+    {
+     "text": "an",
+     "start": 8.4,
+     "end": 8.56
+    },
+    {
+     "text": "opening",
+     "start": 8.56,
+     "end": 8.96
+    },
+    {
+     "text": "Then",
+     "start": 9.36,
+     "end": 9.6
+    },
+    {
+     "text": "they",
+     "start": 9.6,
+     "end": 9.68
+    },
+    {
+     "text": "will",
+     "start": 9.68,
+     "end": 9.84
+    },
+    {
+     "text": "question",
+     "start": 10.0,
+     "end": 10.48
+    },
+    {
+     "text": "and",
+     "start": 10.56,
+     "end": 10.64
+    },
+    {
+     "text": "challenge",
+     "start": 10.8,
+     "end": 11.12
+    },
+    {
+     "text": "each",
+     "start": 11.12,
+     "end": 11.28
+    },
+    {
+     "text": "other",
+     "start": 11.28,
+     "end": 11.52
+    },
+    {
+     "text": "in",
+     "start": 11.52,
+     "end": 11.6
+    },
+    {
+     "text": "crossfire",
+     "start": 11.6,
+     "end": 12.32
+    },
+    {
+     "text": "Finally",
+     "start": 13.28,
+     "end": 13.68
+    },
+    {
+     "text": "each",
+     "start": 13.76,
+     "end": 13.92
+    },
+    {
+     "text": "has",
+     "start": 13.92,
+     "end": 14.08
+    },
+    {
+     "text": "thirty",
+     "start": 14.16,
+     "end": 14.48
+    },
+    {
+     "text": "seconds",
+     "start": 14.48,
+     "end": 14.8
+    },
+    {
+     "text": "for",
+     "start": 14.96,
+     "end": 15.04
+    },
+    {
+     "text": "a",
+     "start": 15.04,
+     "end": 15.12
+    },
+    {
+     "text": "closing",
+     "start": 15.12,
+     "end": 15.6
+    },
+    {
+     "text": "I",
+     "start": 16.16,
+     "end": 16.32
+    },
+    {
+     "text": "will",
+     "start": 16.32,
+     "end": 16.4
+    },
+    {
+     "text": "give",
+     "start": 16.4,
+     "end": 16.56
+    },
+    {
+     "text": "a",
+     "start": 16.56,
+     "end": 16.64
+    },
+    {
+     "text": "tensecond",
+     "start": 16.8,
+     "end": 17.28
+    },
+    {
+     "text": "cue",
+     "start": 17.28,
+     "end": 17.44
+    },
+    {
+     "text": "before",
+     "start": 17.44,
+     "end": 17.76
+    },
+    {
+     "text": "each",
+     "start": 17.76,
+     "end": 17.92
+    },
+    {
+     "text": "timed",
+     "start": 18.16,
+     "end": 18.48
+    },
+    {
+     "text": "speech",
+     "start": 18.56,
+     "end": 18.8
+    },
+    {
+     "text": "ends",
+     "start": 18.96,
+     "end": 19.2
+    }
+   ]
+  },
+  "L010/2": {
+   "debate_id": "L010",
+   "turn": 2,
+   "speaker": "MOD",
+   "start_sec": 38.54,
+   "end_sec": 39.78,
+   "text": "You've got ten seconds.",
+   "audio": "audio/turns/L010_002.mp3",
+   "words": [
+    {
+     "text": "You've",
+     "start": 0.08,
+     "end": 0.16
+    },
+    {
+     "text": "got",
+     "start": 0.24,
+     "end": 0.4
+    },
+    {
+     "text": "ten",
+     "start": 0.56,
+     "end": 0.8
+    },
+    {
+     "text": "seconds",
+     "start": 0.88,
+     "end": 1.2
+    }
+   ]
+  },
+  "L010/4": {
+   "debate_id": "L010",
+   "turn": 4,
+   "speaker": "MOD",
+   "start_sec": 53.22,
+   "end_sec": 55.18,
+   "text": "Your time is up. Thank you. Carlos.",
+   "audio": "audio/turns/L010_004.mp3",
+   "words": [
+    {
+     "text": "Your",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "time",
+     "start": 0.24,
+     "end": 0.48
+    },
+    {
+     "text": "is",
+     "start": 0.48,
+     "end": 0.56
+    },
+    {
+     "text": "up",
+     "start": 0.64,
+     "end": 0.88
+    },
+    {
+     "text": "Thank",
+     "start": 1.12,
+     "end": 1.36
+    },
+    {
+     "text": "you",
+     "start": 1.36,
+     "end": 1.44
+    },
+    {
+     "text": "Carlos",
+     "start": 1.6,
+     "end": 1.84
+    }
+   ]
+  },
+  "L010/6": {
+   "debate_id": "L010",
+   "turn": 6,
+   "speaker": "MOD",
+   "start_sec": 74.48,
+   "end_sec": 75.08,
+   "text": "Ten seconds.",
+   "audio": "audio/turns/L010_006.mp3",
+   "words": [
+    {
+     "text": "Ten",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "text": "seconds",
+     "start": 0.24,
+     "end": 0.56
+    }
+   ]
+  },
+  "L010/8": {
+   "debate_id": "L010",
+   "turn": 8,
+   "speaker": "MOD",
+   "start_sec": 88.12,
+   "end_sec": 90.48,
+   "text": "Thank you, Carlos. Your time is up.",
+   "audio": "audio/turns/L010_008.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.08,
+     "end": 0.4
+    },
+    {
+     "text": "you",
+     "start": 0.4,
+     "end": 0.48
+    },
+    {
+     "text": "Carlos",
+     "start": 0.56,
+     "end": 0.88
+    },
+    {
+     "text": "Your",
+     "start": 1.44,
+     "end": 1.52
+    },
+    {
+     "text": "time",
+     "start": 1.6,
+     "end": 1.84
+    },
+    {
+     "text": "is",
+     "start": 1.84,
+     "end": 1.92
+    },
+    {
+     "text": "up",
+     "start": 2.08,
+     "end": 2.32
+    }
+   ]
+  },
+  "L010/9": {
+   "debate_id": "L010",
+   "turn": 9,
+   "speaker": "MOD",
+   "start_sec": 90.68,
+   "end_sec": 96.56,
+   "text": "Now we move on to round two. Round two is where the debaters address one another directly.",
+   "audio": "audio/turns/L010_009.mp3",
+   "words": [
+    {
+     "text": "Now",
+     "start": 0.08,
+     "end": 0.24
+    },
+    {
+     "text": "we",
+     "start": 0.24,
+     "end": 0.32
+    },
+    {
+     "text": "move",
+     "start": 0.32,
+     "end": 0.56
+    },
+    {
+     "text": "on",
+     "start": 0.56,
+     "end": 0.8
+    },
+    {
+     "text": "to",
+     "start": 0.88,
+     "end": 0.96
+    },
+    {
+     "text": "round",
+     "start": 0.96,
+     "end": 1.44
+    },
+    {
+     "text": "two",
+     "start": 1.6,
+     "end": 1.76
+    },
+    {
+     "text": "Round",
+     "start": 2.24,
+     "end": 2.56
+    },
+    {
+     "text": "two",
+     "start": 2.72,
+     "end": 2.96
+    },
+    {
+     "text": "is",
+     "start": 3.04,
+     "end": 3.12
+    },
+    {
+     "text": "where",
+     "start": 3.2,
+     "end": 3.44
+    },
+    {
+     "text": "the",
+     "start": 3.44,
+     "end": 3.52
+    },
+    {
+     "text": "debaters",
+     "start": 3.6,
+     "end": 4.08
+    },
+    {
+     "text": "address",
+     "start": 4.24,
+     "end": 4.56
+    },
+    {
+     "text": "one",
+     "start": 4.72,
+     "end": 4.88
+    },
+    {
+     "text": "another",
+     "start": 4.88,
+     "end": 5.2
+    },
+    {
+     "text": "directly",
+     "start": 5.28,
+     "end": 5.84
+    }
+   ]
+  },
+  "L010/16": {
+   "debate_id": "L010",
+   "turn": 16,
+   "speaker": "MOD",
+   "start_sec": 158.74,
+   "end_sec": 167.02,
+   "text": "So, Round three, closing statements. Here, making his closing statement in support of containment is not enough: isis must be defeated, here is Greg.",
+   "audio": "audio/turns/L010_016.mp3",
+   "words": [
+    {
+     "text": "So",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "Round",
+     "start": 0.32,
+     "end": 0.64
+    },
+    {
+     "text": "three",
+     "start": 0.64,
+     "end": 0.88
+    },
+    {
+     "text": "closing",
+     "start": 0.96,
+     "end": 1.36
+    },
+    {
+     "text": "statements",
+     "start": 1.44,
+     "end": 1.92
+    },
+    {
+     "text": "Here",
+     "start": 2.4,
+     "end": 2.64
+    },
+    {
+     "text": "making",
+     "start": 2.64,
+     "end": 2.96
+    },
+    {
+     "text": "his",
+     "start": 2.96,
+     "end": 3.04
+    },
+    {
+     "text": "closing",
+     "start": 3.12,
+     "end": 3.44
+    },
+    {
+     "text": "statement",
+     "start": 3.52,
+     "end": 3.84
+    },
+    {
+     "text": "in",
+     "start": 3.84,
+     "end": 3.84
+    },
+    {
+     "text": "support",
+     "start": 3.92,
+     "end": 4.16
+    },
+    {
+     "text": "of",
+     "start": 4.16,
+     "end": 4.24
+    },
+    {
+     "text": "containment",
+     "start": 4.24,
+     "end": 4.8
+    },
+    {
+     "text": "is",
+     "start": 4.8,
+     "end": 4.88
+    },
+    {
+     "text": "not",
+     "start": 4.96,
+     "end": 5.2
+    },
+    {
+     "text": "enough",
+     "start": 5.28,
+     "end": 5.6
+    },
+    {
+     "text": "isis",
+     "start": 6.0,
+     "end": 6.32
+    },
+    {
+     "text": "must",
+     "start": 6.4,
+     "end": 6.64
+    },
+    {
+     "text": "be",
+     "start": 6.72,
+     "end": 6.8
+    },
+    {
+     "text": "defeated",
+     "start": 6.8,
+     "end": 7.36
+    },
+    {
+     "text": "here",
+     "start": 7.44,
+     "end": 7.76
+    },
+    {
+     "text": "is",
+     "start": 7.76,
+     "end": 7.92
+    },
+    {
+     "text": "Greg",
+     "start": 8.0,
+     "end": 8.24
+    }
+   ]
+  },
+  "L010/18": {
+   "debate_id": "L010",
+   "turn": 18,
+   "speaker": "MOD",
+   "start_sec": 185.14,
+   "end_sec": 188.54,
+   "text": "Thank you. Up next, speaking against the resolution is Carlos.",
+   "audio": "audio/turns/L010_018.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "text": "you",
+     "start": 0.24,
+     "end": 0.32
+    },
+    {
+     "text": "Up",
+     "start": 1.04,
+     "end": 1.2
+    },
+    {
+     "text": "next",
+     "start": 1.2,
+     "end": 1.44
+    },
+    {
+     "text": "speaking",
+     "start": 1.52,
+     "end": 1.84
+    },
+    {
+     "text": "against",
+     "start": 1.84,
+     "end": 2.16
+    },
+    {
+     "text": "the",
+     "start": 2.16,
+     "end": 2.24
+    },
+    {
+     "text": "resolution",
+     "start": 2.24,
+     "end": 2.8
+    },
+    {
+     "text": "is",
+     "start": 2.8,
+     "end": 2.88
+    },
+    {
+     "text": "Carlos",
+     "start": 2.96,
+     "end": 3.36
+    }
+   ]
+  },
+  "L010/20": {
+   "debate_id": "L010",
+   "turn": 20,
+   "speaker": "MOD",
+   "start_sec": 206.58,
+   "end_sec": 212.38,
+   "text": "Thank you, Greg and Carlos, for a focused debate. We have heard both positions clearly. That concludes our discussion.",
+   "audio": "audio/turns/L010_020.mp3",
+   "words": [
+    {
+     "text": "Thank",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "text": "you",
+     "start": 0.32,
+     "end": 0.4
+    },
+    {
+     "text": "Greg",
+     "start": 0.4,
+     "end": 0.64
+    },
+    {
+     "text": "and",
+     "start": 0.72,
+     "end": 0.88
+    },
+    {
+     "text": "Carlos",
+     "start": 0.88,
+     "end": 1.2
+    },
+    {
+     "text": "for",
+     "start": 1.36,
+     "end": 1.44
+    },
+    {
+     "text": "a",
+     "start": 1.44,
+     "end": 1.52
+    },
+    {
+     "text": "focused",
+     "start": 1.6,
+     "end": 1.92
+    },
+    {
+     "text": "debate",
+     "start": 2.0,
+     "end": 2.32
+    },
+    {
+     "text": "We",
+     "start": 2.32,
+     "end": 2.48
+    },
+    {
+     "text": "have",
+     "start": 2.48,
+     "end": 2.72
+    },
+    {
+     "text": "heard",
+     "start": 2.72,
+     "end": 2.96
+    },
+    {
+     "text": "both",
+     "start": 2.96,
+     "end": 3.2
+    },
+    {
+     "text": "positions",
+     "start": 3.36,
+     "end": 3.84
+    },
+    {
+     "text": "clearly",
+     "start": 4.0,
+     "end": 4.4
+    },
+    {
+     "text": "That",
+     "start": 4.56,
+     "end": 4.72
+    },
+    {
+     "text": "concludes",
+     "start": 4.8,
+     "end": 5.12
+    },
+    {
+     "text": "our",
+     "start": 5.12,
+     "end": 5.2
+    },
+    {
+     "text": "discussion",
+     "start": 5.2,
+     "end": 5.76
+    }
+   ]
+  }
+ }
+}
