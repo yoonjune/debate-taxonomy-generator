@@ -12,33 +12,62 @@ driver departs from the official example is marked `KHS` in a comment saying why
 One line per probe in `out/<tag>/results.jsonl`:
 
 ```json
-{"probe_id": "L000_p02", "model": "MiniCPM-o-4_5",
- "spoke": true, "spoke_at": 39.0, "audible_at": 39.24,
- "text": "Ten seconds left.", "wav": "audio/L000_p02.wav",
- "label": "A4", "kind": "clock",
- "t_earliest": 36.56, "t_deadline": 38.56, "t_latest": 41.56}
+{"probe_id": "L000_p08", "model": "MiniCPM-o-4_5",
+ "spoke": true, "spoke_at": 19.0, "audible_at": 19.28,
+ "segments": [{"start": 19.0, "end": 23.0, "duration": 4.0, "text": "All right, thank you..."},
+              {"start": 50.0, "end": 53.0, "duration": 3.0, "text": "Time is up for Nina."},
+              {"start": 80.0, "end": 87.0, "duration": 7.0, "text": "Time is up for Kirsten. Now we move to crossfire..."}],
+ "n_segments": 3,
+ "onset_in_window": 80.0, "nearest_onset": 80.0, "onset_offset": 0.76,
+ "text": "All right, thank you... Time is up for Nina. Time is up for Kirsten...",
+ "wav": "audio/L000_p08.wav",
+ "label": "A3-1", "kind": "event",
+ "t_earliest": 79.24, "t_deadline": 79.24, "t_latest": 82.24}
 ```
 
-That covers the three checks in `data_sample/README.md` directly:
+That covers the three checks in `data_sample/README.md`:
 
 ```python
-should_speak = probe["label"] != "none"                            # -> row["spoke"]
-in_time      = probe["t_earliest"] <= t <= probe["t_latest"]       # -> row["spoke_at"]
-# right action                                                     -> row["text"], row["wav"]
+should_speak = probe["label"] != "none"                     # -> row["spoke"]
+in_time      = row["onset_in_window"] is not None           # -> or redo it from segments
+# right action                                              -> row["text"], row["wav"]
 ```
 
-The window fields are copied into every row, so scoring can join on `probe_id` alone.
+The window fields are copied into every row, so scoring joins on `probe_id` alone.
+
+### Read segments, not just the first onset
+
+**A full duplex model speaks more than once in one probe, and the first time is usually
+not the interesting one.** Both models here open by announcing the debate format,
+because `system_prompt.md` says to do that at the start while every probe begins in the
+middle of a debate where the human moderator already announced it. Scoring the opening
+line would hide a correct intervention a minute later.
+
+So every stretch of speech is recorded with its own `start`, `end` and `text`, and three
+derived fields say where those onsets sit relative to the window:
+
+| field | meaning |
+|---|---|
+| `onset_in_window` | the first onset inside `[t_earliest, t_latest]`, or null |
+| `nearest_onset` | the onset closest to `t_deadline`, in window or not |
+| `onset_offset` | `nearest_onset` minus `t_deadline`, so the sign says early or late |
+
+`nearest_onset` is there for the boundary. In the pilot one Raon onset landed 0.08 s,
+a single 80 ms frame, before `t_earliest`. Whether that counts is the scorer's call, so
+the verdict and the distance are both reported rather than one of them.
+
+`spoke_at` stays the first onset, so a reader who wants one number still gets one.
 
 **`spoke_at` and `audible_at` are different things.** `spoke_at` is when the model
 decided to speak. `audible_at` is when sound actually starts, measured from the
 generated waveform, and it can be later because synthesized speech can open with
-silence. The window is a few seconds wide, so the difference is not negligible. Both are
-reported and which one to score is the scorer's choice.
+silence.
 
-Both are in seconds from the start of the probe audio, which is the same timeline as
+All times are seconds from the start of the probe audio, which is the same timeline as
 `t_earliest`, `t_deadline` and `t_latest`, because `make_probe_audio.py` builds each
 probe as `mix[:window_end]`, so sample zero of the probe wav is second zero of the
-debate. No offset is needed.
+debate. Checked against the data: all 143 probe wavs are `min(t_latest + 6.0, mix
+length)` long. No offset is needed.
 
 No transcription step is involved. MiniCPM-o interleaves text and speech, so the text is
 what the model itself produced, not a guess about its audio.
@@ -85,26 +114,60 @@ Runs resume: rerunning skips probes already in `results.jsonl`.
 ## Turning the knobs
 
 Every setting is a flag, results go to `out/<tag>/`, and the effective value of
-everything lands in `out/<tag>/run_config.json`. Two settings never collide and a run
+everything lands in `out/<tag>/run_config.json`, including which generation parameters
+were overridden and which stayed official. Two settings never collide and a run
 describes itself, so a later comparison does not depend on shell history.
 
 ```bash
-$E run_probes.py --ckpt ... --tag chunk05 --chunk-seconds 0.5   # finer timing
-$E run_probes.py --ckpt ... --tag noref   --no-reference        # no voice conditioning
-$E run_probes.py --ckpt ... --tag clock   --kinds clock         # one probe family
-$E run_probes.py --ckpt ... --tag full    --run-to-end          # capture whole replies
+$E run_probes.py --ckpt ... --tag speak  --listen-prob-scale 0.5   # make it speak more
+$E run_probes.py --ckpt ... --tag chunk05 --chunk-seconds 0.5      # finer timing
+$E run_probes.py --ckpt ... --tag noref  --no-reference            # no voice conditioning
+$E run_probes.py --ckpt ... --tag clock  --kinds clock             # one probe family
+$E run_probes.py --ckpt ... --tag fast   --stop-at-onset           # timing only, cheaper
 ```
 
 | group | flags |
 |---|---|
-| decoding | `--chunk-seconds` `--max-speak-tokens` `--decode-mode` `--run-to-end` |
+| generation, official defaults | `--temperature` `--top-k` `--top-p` `--listen-prob-scale` `--listen-top-k` `--decode-mode` `--max-new-speak-tokens-per-chunk` `--text-repetition-penalty` |
+| loop | `--chunk-seconds` `--stop-at-onset` `--max-speak-chunks` `--output-sample-rate` |
 | model | `--ckpt` `--dtype` `--attn` `--with-vision` |
 | probe set | `--data-sample` `--probes` `--debates-file` `--system-prompt` `--probe-audio` `--voices` `--no-reference` |
 | selection | `--debates` `--probe-ids` `--labels` `--kinds` `--limit` |
-| output | `--out` `--tag` |
+| parallel | `--shard` `--num-shards` |
+| output | `--out` `--tag` `--seed` |
 
 Nothing about the probe set is hard coded, so a later version with more debates,
 different windows or a rewritten prompt is a flag rather than an edit.
+
+**Generation defaults are the official ones.** Any flag left unset is not passed at all,
+so `streaming_generate` falls back to its own signature:
+
+```
+decode_mode sampling   temperature 0.7   top_k 100   top_p 0.8
+listen_prob_scale 1.0  listen_top_k None  max_new_speak_tokens_per_chunk 20
+text_repetition_penalty 1.05
+```
+
+`listen_prob_scale` is the one to know about. It scales the probability of choosing to
+listen, so below 1.0 the model speaks sooner and more often, which lifts recall on the
+77 intervention probes and costs the 66 silence probes at the same time. It is the
+counterpart of Raon's `sil_penalty`. It is left official so the headline number is the
+model as released, and `--tag` keeps a sweep separate.
+
+**Official decoding samples, so two runs of the same probe differ.** In the pilot the
+same probe gave `38.0 s, "20 seconds remain"` on one run and `19.0 s, continuing the
+debater's argument` on another. `--seed` fixes one draw; it does not remove the spread.
+Whether one run per probe is enough is a question for whoever scores this.
+
+### Running on both gpus
+
+```bash
+CUDA_VISIBLE_DEVICES=0 $E run_probes.py --ckpt ... --shard 0 --num-shards 2 &
+CUDA_VISIBLE_DEVICES=1 $E run_probes.py --ckpt ... --shard 1 --num-shards 2 &
+```
+
+Shards are taken round robin so each sees a mix of short and long probes, and each
+writes `results.shard<n>.jsonl`. Scoring globs `results*.jsonl`.
 
 ## Pinned versions
 
@@ -121,6 +184,36 @@ through `trust_remote_code`, so the checkpoint is the file set a code change wou
 touch. It is kept pristine. If a change ever becomes necessary it goes into a sibling
 overlay of symlinks with only the changed python file replaced, so a `diff` against the
 pristine copy is the entire record.
+
+## What was actually run
+
+Not the full set. Four probes of `L000` on one A6000, seed 0, everything else official.
+The numbers below are what this branch has been exercised on, and nothing more.
+
+```
+    L000_p02  A4     window 36.56-41.56   nearest onset 19.0   (-19.56)  miss
+IN  L000_p04  A2-2   window 49.76-52.76   51.0  (+1.24)   "Nina, time's up. Kirsten?"
+    L000_p06  A4     window 70.6-75.6     82.0  (+9.4)    late
+IN  L000_p08  A3-1   window 79.24-82.24   80.0  (+0.76)   "Time is up for Kirsten.
+                                                           Now we move to crossfire..."
+```
+
+Speed: 3.5 times real time, so all 143 probes would be about 1.7 hours on one gpu.
+
+### Two things a reader should know before comparing models
+
+**Speaking rate confounds the timing metric.** A model that talks through half the probe
+lands an onset in a five second window by luck. On these four probes MiniCPM speaks in 4
+to 16 percent of the probe, which puts the chance of a lucky hit at 5 to 12 percent.
+Raon speaks in 14 to 60 percent, which puts it at 20 to 41 percent, and it went 4 for 4.
+The 66 probes where silence is the answer are what separates the two, and none of them
+have been run yet. Do not rank the models on intervention probes alone.
+
+**MiniCPM truncates its own audio context.** The log repeats
+`audio_past_key_values length 1502 exceed 1500, reset.` on longer probes. The model
+drops early audio, which should hurt most on `B1` and `B2`, the two codes that require
+remembering what a speaker said much earlier. The size of that effect has not been
+measured.
 
 ## The three departures from the official example
 
