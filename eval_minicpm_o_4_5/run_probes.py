@@ -1,29 +1,26 @@
 #!/usr/bin/env python3
-# KHS: drives the official MiniCPM-o 4.5 duplex loop over the debate probes.
+# KHS: drives the official MiniCPM-o 4.5 duplex loop over a debate probe set.
 #
 # The official loop is copied from the repository README, section "Duplex Omni Mode",
-# and kept in the same shape on purpose: prepare once, then per chunk call
-# streaming_prefill followed by streaming_generate. Three things differ from the README
-# example, each marked KHS below and each forced by the benchmark rather than chosen:
+# and kept in the same shape: prepare once, then per chunk call streaming_prefill
+# followed by streaming_generate. Three things differ from the README example, each
+# marked KHS at the line and each forced by the benchmark rather than chosen:
 #
 #   1. There is no video. The benchmark is speech only, so frame_list is empty and the
 #      model is built with init_vision=False.
-#   2. The system prompt is the benchmark's moderator instruction with its four
-#      placeholders substituted, not the example's "Streaming Omni Conversation.".
-#   3. The loop stops at the first chunk the model chooses to speak in. What this
-#      benchmark measures is WHEN it decides to speak, so once is_listen turns false the
-#      answer is already determined and the remaining chunks would only cost time.
-#      Pass --run-to-end to keep going and capture the full reply instead.
+#   2. The system prompt is the benchmark's moderator instruction.
+#   3. The loop stops at the first chunk the model chooses to speak in, since that
+#      already settles what is measured. --run-to-end keeps going for the full reply.
 #
-# Timing. is_listen is reported once per chunk, so the resolution of spoke_at is the
-# chunk length. The scoring window in probes.jsonl is t_deadline minus 2.0 to
-# t_deadline plus 3.0, five seconds wide, so a one second chunk sits well inside it, but
-# the chunk index is recorded alongside so any reader can redo the arithmetic.
-"""Run the MiniCPM-o 4.5 full duplex loop over data_sample probes.
+# Everything else is a flag with the official default, and the effective value of every
+# flag is written to run_config.json beside the results, so a run can be repeated or
+# compared later without reading this file.
+"""Run the MiniCPM-o 4.5 full duplex loop over a debate probe set.
 
-  python run_probes.py --ckpt ckpt/MiniCPM-o-4_5 --out out/minicpm_o_4_5
-  python run_probes.py --ckpt ... --limit 3            # short pilot first
-  python run_probes.py --ckpt ... --debates L000 L001  # one or two debates
+  python run_probes.py --ckpt ckpt/MiniCPM-o-4_5 --limit 3
+  python run_probes.py --ckpt ckpt/MiniCPM-o-4_5
+  python run_probes.py --ckpt ... --tag chunk05 --chunk-seconds 0.5
+  python run_probes.py --ckpt ... --tag noref --no-reference --kinds clock
 """
 import argparse
 import json
@@ -53,43 +50,55 @@ def to_chunks(wav, chunk_seconds):
     audio is built to hide.
     """
     n = int(SAMPLE_RATE * chunk_seconds)
-    out = []
-    for i in range(0, len(wav), n):
-        c = wav[i:i + n]
-        if len(c) < n:
-            c = np.pad(c, (0, n - len(c)))
-        out.append(c.astype(np.float32))
-    return out
+    return [np.pad(wav[i:i + n], (0, max(0, n - len(wav[i:i + n])))).astype(np.float32)
+            for i in range(0, len(wav), n)]
 
 
-def build_model(ckpt, dtype, attn, with_vision):
+def first_sound_offset(wav, sr, floor=0.02, win_ms=20.0, sustain=3):
+    """Seconds from the start of a waveform until sound is sustained.
+
+    spoke_at is when the model DECIDED to speak. What a listener hears can be later,
+    because generated speech can open with silence, and the scoring window is only a
+    few seconds wide, so the difference is not negligible. This measures it from the
+    audio itself. Onset must hold for `sustain` windows so a single click does not
+    count as the start of the utterance.
+    """
+    n = max(1, int(sr * win_ms / 1000))
+    m = len(wav) // n
+    if m == 0:
+        return 0.0
+    rms = np.sqrt((wav[:m * n].reshape(m, n).astype(np.float64) ** 2).mean(axis=1))
+    peak = float(rms.max()) if len(rms) else 0.0
+    if peak <= 0:
+        return 0.0
+    hot = rms > max(floor * peak, 1e-5)
+    run = np.convolve(hot.astype(np.int32), np.ones(sustain, dtype=np.int32), "valid")
+    idx = np.where(run == sustain)[0]
+    return float(idx[0]) * n / sr if len(idx) else 0.0
+
+
+def build_model(args):
     import torch
     from transformers import AutoModel
     model = AutoModel.from_pretrained(
-        str(ckpt),
-        trust_remote_code=True,
-        attn_implementation=attn,
-        torch_dtype=getattr(torch, dtype),
-        init_vision=with_vision,     # KHS: speech only benchmark, no video stream
-        init_audio=True,
-        init_tts=True,
-    )
+        str(args.ckpt), trust_remote_code=True, attn_implementation=args.attn,
+        torch_dtype=getattr(torch, args.dtype),
+        init_vision=args.with_vision,     # KHS: speech only benchmark, no video stream
+        init_audio=True, init_tts=True)
     model.eval().cuda()
     model.init_tts()
     return model.as_duplex()
 
 
 def run_one(model, item, args, out_dir):
-    """One probe. Returns the result row."""
     import soundfile as sf
     wav = load_audio(item["audio"])
     chunks = to_chunks(wav, args.chunk_seconds)
 
     ref_path = str(item["reference_wav"]) if item["reference_wav"] else None
-    ref_audio = load_audio(ref_path) if ref_path else None
     prepare_kwargs = {"prefix_system_prompt": item["system_prompt"]}   # KHS: benchmark prompt
-    if ref_audio is not None:
-        prepare_kwargs["ref_audio"] = ref_audio
+    if ref_path:
+        prepare_kwargs["ref_audio"] = load_audio(ref_path)
         prepare_kwargs["prompt_wav_path"] = ref_path
     model.prepare(**prepare_kwargs)
 
@@ -112,71 +121,100 @@ def run_one(model, item, args, out_dir):
             said.append(r["text"])
         if r.get("audio_waveform") is not None:
             speech.append(np.asarray(r["audio_waveform"], dtype=np.float32))
-        if not args.run_to_end:
-            break
-        if r.get("end_of_turn"):
+        if not args.run_to_end or r.get("end_of_turn"):
             break
 
-    row = {
-        "probe_id": item["probe_id"],
-        "debate_id": item["debate_id"],
-        "model": "MiniCPM-o-4_5",
-        "spoke": spoke_at is not None,
-        "spoke_at": spoke_at,
-        "spoke_chunk": spoke_chunk,
-        "text": "".join(said).strip() or None,
-        "chunk_seconds": args.chunk_seconds,
-        "n_chunks_heard": (spoke_chunk + 1) if spoke_chunk is not None else len(chunks),
-        "audio_seconds": round(len(wav) / SAMPLE_RATE, 3),
-        "label": item["label"],
-        "kind": item["kind"],
-        "t_earliest": item["t_earliest"],
-        "t_deadline": item["t_deadline"],
-        "t_latest": item["t_latest"],
-        "elapsed_s": round(time.time() - t0, 2),
-    }
+    audible_at = None
+    if speech and spoke_at is not None:
+        merged = np.concatenate(speech)
+        audible_at = round(spoke_at + first_sound_offset(merged, args.output_sample_rate), 3)
+
+    row = {"probe_id": item["probe_id"], "debate_id": item["debate_id"],
+           "model": "MiniCPM-o-4_5",
+           "spoke": spoke_at is not None, "spoke_at": spoke_at,
+           "audible_at": audible_at,
+           "spoke_chunk": spoke_chunk, "text": "".join(said).strip() or None,
+           "chunk_seconds": args.chunk_seconds,
+           "n_chunks_heard": (spoke_chunk + 1) if spoke_chunk is not None else len(chunks),
+           "audio_seconds": round(len(wav) / SAMPLE_RATE, 3),
+           "label": item["label"], "kind": item["kind"],
+           "t_earliest": item["t_earliest"], "t_deadline": item["t_deadline"],
+           "t_latest": item["t_latest"],
+           "elapsed_s": round(time.time() - t0, 2)}
     if speech:
         wav_dir = out_dir / "audio"
         wav_dir.mkdir(parents=True, exist_ok=True)
         p = wav_dir / f'{item["probe_id"]}.wav'
-        sf.write(str(p), np.concatenate(speech), args.output_sample_rate)
+        sf.write(str(p), merged, args.output_sample_rate)
         row["wav"] = str(p.relative_to(out_dir))
     return row
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--ckpt", required=True, help="official MiniCPM-o 4.5 checkpoint dir")
-    ap.add_argument("--out", default="out/minicpm_o_4_5")
-    ap.add_argument("--data-sample", default=None)
-    ap.add_argument("--probe-audio", default=None,
-                    help="default data_sample/probe_audio, made by make_probe_audio.py")
-    ap.add_argument("--debates", nargs="*", default=None)
-    ap.add_argument("--limit", type=int, default=0, help="pilot on the first N probes")
-    ap.add_argument("--chunk-seconds", type=float, default=1.0)
-    ap.add_argument("--max-speak-tokens", type=int, default=20)
-    ap.add_argument("--decode-mode", default="sampling")
-    ap.add_argument("--dtype", default="bfloat16")
-    ap.add_argument("--attn", default="sdpa", choices=["sdpa", "flash_attention_2"])
-    ap.add_argument("--with-vision", action="store_true",
-                    help="build the vision tower too, for the case where the duplex "
-                         "path refuses to run without it")
-    ap.add_argument("--run-to-end", action="store_true",
-                    help="keep streaming after the model starts speaking, to capture "
-                         "the whole reply instead of only its start time")
-    ap.add_argument("--output-sample-rate", type=int, default=24000)
-    args = ap.parse_args()
+def parse_args():
+    ap = argparse.ArgumentParser(
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+        description=__doc__.splitlines()[0])
+    g = ap.add_argument_group("model")
+    g.add_argument("--ckpt", required=True, help="official MiniCPM-o 4.5 checkpoint dir")
+    g.add_argument("--dtype", default="bfloat16")
+    g.add_argument("--attn", default="sdpa", choices=["sdpa", "flash_attention_2"])
+    g.add_argument("--with-vision", action="store_true",
+                   help="build the vision tower too, if the duplex path needs it")
 
-    out_dir = pathlib.Path(args.out)
+    g = ap.add_argument_group("decoding, official defaults")
+    g.add_argument("--chunk-seconds", type=float, default=1.0,
+                   help="audio per step, and so the resolution of spoke_at")
+    g.add_argument("--max-speak-tokens", type=int, default=20)
+    g.add_argument("--decode-mode", default="sampling")
+    g.add_argument("--run-to-end", action="store_true",
+                   help="keep streaming after the model starts speaking, for the whole reply")
+    g.add_argument("--output-sample-rate", type=int, default=24000)
+
+    g = ap.add_argument_group("probe set, all overridable")
+    g.add_argument("--data-sample", default=None, help="directory holding the probe set")
+    g.add_argument("--probes", default=None)
+    g.add_argument("--debates-file", default=None)
+    g.add_argument("--system-prompt", default=None, help="prompt template to use instead")
+    g.add_argument("--probe-audio", default=None, help="made by make_probe_audio.py")
+    g.add_argument("--voices", default=None)
+    g.add_argument("--no-reference", action="store_true",
+                   help="do not condition on the moderator voice clip")
+
+    g = ap.add_argument_group("selection")
+    g.add_argument("--debates", nargs="*", default=None)
+    g.add_argument("--probe-ids", nargs="*", default=None)
+    g.add_argument("--labels", nargs="*", default=None, help="e.g. A4 A2-1 none")
+    g.add_argument("--kinds", nargs="*", default=None,
+                   help="clock, event, content, negative")
+    g.add_argument("--limit", type=int, default=0, help="pilot on the first N probes")
+
+    g = ap.add_argument_group("output")
+    g.add_argument("--out", default="out", help="root for results")
+    g.add_argument("--tag", default="default",
+                   help="results go to <out>/<tag>, so settings do not collide")
+    return ap.parse_args()
+
+
+def main():
+    args = parse_args()
+    out_dir = pathlib.Path(args.out) / args.tag
     out_dir.mkdir(parents=True, exist_ok=True)
     results = out_dir / "results.jsonl"
 
-    ps = ProbeSet(args.data_sample, args.probe_audio)
+    ps = ProbeSet(args.data_sample, args.probes, args.debates_file,
+                  args.system_prompt, args.probe_audio, args.voices)
     missing = ps.missing_audio()
     if missing:
         sys.exit(f"[run] {len(missing)} probe wavs missing under {ps.audio_dir}. "
                  f"Run: cd {ps.root} && python make_probe_audio.py")
-    items = ps.items(args.debates, args.limit)
+    items = ps.items(args.debates, args.probe_ids, args.labels, args.kinds,
+                     args.limit, not args.no_reference)
+
+    # a run describes itself, so a later comparison does not depend on shell history
+    (out_dir / "run_config.json").write_text(json.dumps(
+        {"model": "MiniCPM-o-4_5", "args": vars(args), "probe_set": ps.describe(),
+         "n_selected": len(items),
+         "started": time.strftime("%Y-%m-%d %H:%M:%S")}, indent=1, default=str))
 
     done = set()
     if results.exists():
@@ -186,13 +224,13 @@ def main():
             except Exception:
                 continue
     todo = [i for i in items if i["probe_id"] not in done]
-    print(f"[run] {len(items)} probes selected, {len(done)} already done, "
-          f"{len(todo)} to run")
+    print(f"[run] tag '{args.tag}': {len(items)} probes selected, {len(done)} done, "
+          f"{len(todo)} to run  ->  {out_dir}")
     if not todo:
         return
 
     print(f"[run] loading {args.ckpt}")
-    model = build_model(args.ckpt, args.dtype, args.attn, args.with_vision)
+    model = build_model(args)
     print("[run] duplex model ready")
 
     from tqdm import tqdm
@@ -205,7 +243,7 @@ def main():
             f.flush()
             spoke += bool(row["spoke"])
             bar.set_postfix(spoke=spoke)
-    print(f"[run] wrote {results}")
+    print(f"[run] {spoke}/{len(todo)} spoke. wrote {results}")
 
 
 if __name__ == "__main__":
