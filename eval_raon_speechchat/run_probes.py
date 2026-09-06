@@ -22,10 +22,16 @@
 import argparse
 import ast
 import json
+import os
 import pathlib
 import re
 import sys
 import time
+
+# KHS: the official duplex loop prints a tqdm bar for every frame, which is thousands of
+# lines per probe in a log file. tqdm reads this at construction, so it is set before the
+# pipeline is imported; our own progress bar passes disable=False to opt back in.
+os.environ.setdefault("TQDM_DISABLE", "1")
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from probe_data import ProbeSet                                   # noqa: E402
@@ -35,45 +41,151 @@ FRAME_LINE = re.compile(
     r"^\[(?P<phase>\w+)\] f=(?P<f>\d+) text=(?P<text>.*?) "
     r"out_rms=(?P<out>[\d.eE+-]+) in_rms=(?P<in>[\d.eE+-]+) ntok=(?P<ntok>\d+)\s*$")
 
+# KHS: Raon has an explicit backchannel state, and the token shows up in the frame log
+# text. A backchannel is "mm-hmm" while somebody else holds the floor. It is not a
+# moderator intervention, and counting it as one would make every probe look like the
+# model spoke. Segments carrying it are flagged and left out of the onset search, and
+# --count-backchannels puts them back for anyone who disagrees.
+BACKCHANNEL_TOKEN = "<|audio_output_backchannel|>"
+
 # every sampling knob duplex() accepts, with the official default it falls back to
 OFFICIAL_DEFAULTS = {"temperature": 0.9, "top_p": 0.95, "top_k": 66,
                      "sil_penalty": 0.0, "bc_penalty": 0.0, "eos_penalty": 0.0,
                      "speak_first": False}
 
 
-def parse_frame_log(path, frame_rate):
-    """First SPEECH frame, and the text the model produced.
+def widen_decoder_timeout(RaonPipeline, seconds):
+    """Give the audio decoder subprocess longer than one second per frame.
 
-    Two independent signals are returned. The phase is the model's own declared
-    interaction state and is what spoke_at uses. The first frame with output energy is
-    recorded beside it so a disagreement between them is visible in the results rather
-    than hidden.
+    KHS: the only change this branch makes to official behaviour, and it changes
+    tolerance rather than results. Raon decodes audio in a separate process, and the
+    official drain_to waits timeout_per_item=1.0 for each frame, then returns nothing,
+    and pull_audio asserts that it got exactly one result. One second is generous for
+    the interactive demo the code was written for. It is not generous on a shared batch
+    node: this one has 16 cores under a load average around 45, and the worker's first
+    decode after process start needs more than that, so the run dies on frame zero of
+    the first probe. Waiting longer cannot change what is decoded, only whether we wait
+    for it.
     """
-    first_speech, first_audio, said, n = None, None, [], 0
+    module = sys.modules[RaonPipeline.__module__]
+    original = module.ConcurrentAudioDecoder.drain_to
+
+    def drain_to(self, max_pending, stream_id, timeout_per_item=seconds):
+        return original(self, max_pending, stream_id, timeout_per_item)
+
+    module.ConcurrentAudioDecoder.drain_to = drain_to
+    return module
+
+
+def warm_up(pipe, out_dir, seconds=2.0):
+    """One throwaway duplex pass, so the first real probe does not pay for a cold
+    decoder process, cuDNN autotuning and the speaker encoder all at once."""
+    import numpy as np
+    import soundfile as sf
+    d = out_dir / ".warmup"
+    d.mkdir(parents=True, exist_ok=True)
+    wav = d / "silence.wav"
+    sr = int(pipe.processor.sampling_rate)
+    sf.write(str(wav), np.zeros(int(sr * seconds), dtype="float32"), sr)
+    t0 = time.time()
+    pipe.duplex(audio_input=pipe.load_audio(str(wav)), output_dir=str(d),
+                system_prompt="warm up")
+    for f in d.glob("*"):
+        f.unlink(missing_ok=True)
+    return time.time() - t0
+
+
+def parse_frame_log(path, frame_rate):
+    """Every stretch of speech in the probe, not only the first.
+
+    KHS: taking the first SPEECH frame alone throws away the answer. A full duplex model
+    can speak more than once in one probe, and it does: on this data Raon opens by
+    announcing the debate format at frame one, because the system prompt tells it to do
+    that at the start, and every probe begins in the middle of a debate where the format
+    was already announced. Reporting only that first onset would hide a correct
+    intervention thirty seconds later. So every contiguous run of SPEECH frames is
+    returned with its own start, end and text, and the scorer picks.
+
+    spoke_at stays the first onset so a reader who wants one number still gets one.
+    """
+    frames = []
     with open(path) as f:
         for line in f:
             m = FRAME_LINE.match(line.rstrip("\n"))
             if not m:
                 continue
-            n += 1
-            idx = int(m.group("f"))
-            if m.group("phase") == "SPEECH" and first_speech is None:
-                first_speech = idx
-            if float(m.group("out")) > 0.0 and first_audio is None:
-                first_audio = idx
             t = m.group("text")
             if t != "-":
                 try:
-                    said.append(ast.literal_eval(t))   # the log writes repr()
+                    t = ast.literal_eval(t)
                 except (ValueError, SyntaxError):
-                    said.append(t)
-    to_sec = lambda i: None if i is None else round(i / frame_rate, 3)
-    # spoke_at is when the model DECIDED to speak, audible_at is when sound actually
-    # leaves it. They can differ, and the scoring window is only a few seconds wide,
-    # so both are reported rather than only the one that gets scored.
-    return {"spoke_at": to_sec(first_speech), "first_speech_frame": first_speech,
-            "audible_at": to_sec(first_audio), "first_audio_frame": first_audio,
-            "text": "".join(said).strip() or None, "n_frames": n}
+                    pass
+            else:
+                t = ""
+            frames.append((int(m.group("f")), m.group("phase"), t,
+                           float(m.group("out"))))
+
+    to_sec = lambda i: round(i / frame_rate, 3)
+    segments, cur = [], None
+    first_audio = None
+    for idx, phase, text, out_rms in frames:
+        if out_rms > 0.0 and first_audio is None:
+            first_audio = idx
+        if phase == "SPEECH":
+            if cur is None:
+                cur = {"start": to_sec(idx), "start_frame": idx,
+                       "end": to_sec(idx + 1), "end_frame": idx, "text": ""}
+            cur["end"], cur["end_frame"] = to_sec(idx + 1), idx
+            cur["text"] += text
+        elif cur is not None:
+            segments.append(cur)
+            cur = None
+    if cur is not None:
+        segments.append(cur)
+    for seg in segments:
+        raw = seg["text"]
+        seg["is_backchannel"] = BACKCHANNEL_TOKEN in raw
+        seg["text"] = raw.replace(BACKCHANNEL_TOKEN, "").strip() or None
+        seg["duration"] = round(seg["end"] - seg["start"], 3)
+
+    return {"spoke_at": segments[0]["start"] if segments else None,
+            "first_speech_frame": segments[0]["start_frame"] if segments else None,
+            "audible_at": to_sec(first_audio) if first_audio is not None else None,
+            "first_audio_frame": first_audio,
+            "text": " ".join(s["text"] for s in segments if s["text"]) or None,
+            "segments": segments, "n_segments": len(segments),
+            "speech_frames": sum(s["end_frame"] - s["start_frame"] + 1 for s in segments),
+            "n_frames": len(frames)}
+
+
+def window_view(segments, item, count_backchannels=False):
+    """Where the model's onsets fall relative to the scoring window.
+
+    Not a score, just the arithmetic a reader would otherwise redo, and the reason it is
+    here is that a full duplex model speaks many times in one probe. The first onset is
+    usually not the interesting one.
+
+      onset_in_window  the first onset inside [t_earliest, t_latest], or None
+      nearest_onset    the onset closest to t_deadline, whether or not it is in window
+      onset_offset     nearest_onset minus t_deadline, so sign is early or late
+
+    nearest_onset matters at the boundary. On this data an onset landed 0.08 s, one
+    frame, before t_earliest. Whether that counts is the scorer's call, not this file's,
+    so both the verdict and the distance are reported.
+    """
+    usable = [s for s in segments if count_backchannels or not s["is_backchannel"]]
+    lo, hi, dl = item["t_earliest"], item["t_latest"], item["t_deadline"]
+    out = {"onset_in_window": None, "nearest_onset": None, "onset_offset": None}
+    if dl is None or not usable:
+        return out
+    for seg in usable:
+        if lo is not None and hi is not None and lo <= seg["start"] <= hi:
+            out["onset_in_window"] = seg["start"]
+            break
+    near = min(usable, key=lambda s: abs(s["start"] - dl))
+    out["nearest_onset"] = near["start"]
+    out["onset_offset"] = round(near["start"] - dl, 3)
+    return out
 
 
 def sampling_kwargs(args):
@@ -108,6 +220,9 @@ def run_one(pipe, item, args, out_dir, sampling):
             "audible_at": parsed["audible_at"],
             "first_speech_frame": parsed["first_speech_frame"],
             "first_audio_frame": parsed["first_audio_frame"], "text": parsed["text"],
+            "segments": parsed["segments"], "n_segments": parsed["n_segments"],
+            "speech_frames": parsed["speech_frames"],
+            **window_view(parsed["segments"], item, args.count_backchannels),
             "frame_rate": frame_rate, "n_frames": parsed["n_frames"],
             "assistant_duration_sec": round(summary.get("assistant_duration_sec", 0.0), 3),
             "audio_seconds": round(summary.get("user_duration_sec", 0.0), 3),
@@ -126,6 +241,14 @@ def parse_args():
     g.add_argument("--ckpt", required=True, help="official Raon-SpeechChat-9B dir")
     g.add_argument("--dtype", default="bfloat16")
     g.add_argument("--attn", default="sdpa", choices=["sdpa", "eager", "fa"])
+    g.add_argument("--decoder-timeout", type=float, default=30.0,
+                   help="seconds to wait per frame for the audio decoder subprocess. "
+                        "The official value is 1.0, which is too tight on a loaded "
+                        "shared node. Waiting longer cannot change what is decoded")
+    g.add_argument("--seed", type=int, default=None,
+                   help="official decoding samples, so runs differ. Set this to repeat one")
+    g.add_argument("--no-warmup", action="store_true",
+                   help="skip the throwaway pass that starts the decoder process")
 
     g = ap.add_argument_group(
         "sampling. unset means the official config/duplex_infer.yaml value, shown below")
@@ -157,11 +280,18 @@ def parse_args():
     g.add_argument("--kinds", nargs="*", default=None,
                    help="clock, event, content, negative")
     g.add_argument("--limit", type=int, default=0, help="pilot on the first N probes")
+    g.add_argument("--shard", type=int, default=0)
+    g.add_argument("--num-shards", type=int, default=1,
+                   help="split the selection across processes, one gpu each. Shards are "
+                        "taken round robin so each sees a mix of short and long probes, "
+                        "and each writes its own results file")
 
     g = ap.add_argument_group("output")
     g.add_argument("--out", default="out", help="root for results")
     g.add_argument("--tag", default="default",
                    help="results go to <out>/<tag>, so settings do not collide")
+    g.add_argument("--count-backchannels", action="store_true",
+                   help="treat a backchannel as an intervention when locating onsets")
     g.add_argument("--keep-stereo", action="store_true",
                    help="keep the official stereo mix, about 14 MB per probe")
     return ap.parse_args()
@@ -171,7 +301,8 @@ def main():
     args = parse_args()
     out_dir = pathlib.Path(args.out) / args.tag
     out_dir.mkdir(parents=True, exist_ok=True)
-    results = out_dir / "results.jsonl"
+    results = out_dir / ("results.jsonl" if args.num_shards == 1
+                         else f"results.shard{args.shard}.jsonl")
 
     ps = ProbeSet(args.data_sample, args.probes, args.debates_file,
                   args.system_prompt, args.probe_audio, args.voices)
@@ -181,6 +312,8 @@ def main():
                  f"Run: cd {ps.root} && python make_probe_audio.py")
     items = ps.items(args.debates, args.probe_ids, args.labels, args.kinds,
                      args.limit, not args.no_reference)
+    if args.num_shards > 1:
+        items = items[args.shard::args.num_shards]
 
     sampling = sampling_kwargs(args)
     effective = {**OFFICIAL_DEFAULTS, **sampling}
@@ -205,16 +338,30 @@ def main():
     if not todo:
         return
 
+    if args.seed is not None:
+        import random
+        import numpy as np
+        import torch
+        random.seed(args.seed)
+        np.random.seed(args.seed)
+        torch.manual_seed(args.seed)
+        torch.cuda.manual_seed_all(args.seed)
+        print(f"[run] seed {args.seed}")
+
     print(f"[run] loading {args.ckpt}")
     from transformers.dynamic_module_utils import get_class_from_dynamic_module
     RaonPipeline = get_class_from_dynamic_module("modeling_raon.RaonPipeline", args.ckpt)
+    widen_decoder_timeout(RaonPipeline, args.decoder_timeout)   # KHS, see the function
     pipe = RaonPipeline(args.ckpt, device="cuda", dtype=args.dtype,
                         attn_implementation=args.attn)
     print(f"[run] pipeline ready, {pipe.processor.frame_rate} frames per second, "
-          f"{pipe.processor.sampling_rate} Hz")
+          f"{pipe.processor.sampling_rate} Hz, decoder timeout "
+          f"{args.decoder_timeout} s per frame")
+    if not args.no_warmup:
+        print(f"[run] warm up {warm_up(pipe, out_dir):.1f} s")
 
     from tqdm import tqdm
-    bar = tqdm(todo, unit="probe", ncols=100, ascii=True)
+    bar = tqdm(todo, unit="probe", ncols=100, ascii=True, disable=False)
     spoke = 0
     with open(results, "a") as f:
         for item in bar:

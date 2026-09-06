@@ -34,8 +34,11 @@ echo "[setup] installing the official stack"
   "soundfile>=0.13.1" speechbrain tqdm \
   "datasets>=3.0.0"
 
+# KHS: setuptools is not incidental. librosa still imports pkg_resources, which a
+# bare conda python no longer ships, and the failure surfaces far from the cause:
+# transformers reports the model file as requiring librosa, which is installed.
 echo "[setup] installing what the probe driver needs on top of the official stack"
-"$PY" -m pip install librosa
+"$PY" -m pip install "setuptools<81" librosa
 
 echo "[setup] done. interpreter: $PY"
 "$PY" - <<'PYCHECK'
