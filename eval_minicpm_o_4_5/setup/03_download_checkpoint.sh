@@ -22,7 +22,10 @@ DEST="$CKPT_ROOT/MiniCPM-o-4_5"
 PY="$CONDA/envs/$ENV_NAME/bin/python"
 [ -x "$PY" ] || { echo "[setup] no interpreter at $PY. Run 01_conda_env.sh first."; exit 1; }
 
-"$PY" -m pip install --quiet --upgrade "huggingface_hub[cli]"
+# KHS: the version bound is not cosmetic. transformers pins huggingface_hub below
+# 1.0, and installing the cli extra with --upgrade pulls 1.x and breaks every
+# transformers import in the environment. Install inside the bound instead.
+"$PY" -m pip install --quiet "huggingface_hub[cli]>=0.34.0,<1.0"
 HF="$CONDA/envs/$ENV_NAME/bin/hf"
 
 mkdir -p "$CKPT_ROOT"

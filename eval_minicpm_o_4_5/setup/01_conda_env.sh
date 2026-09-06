@@ -33,8 +33,11 @@ echo "[setup] installing the official pinned stack"
   "torchaudio<=2.8.0" \
   "minicpmo-utils[all]>=1.0.5"
 
+# KHS: setuptools is not incidental. librosa still imports pkg_resources, which a
+# bare conda python no longer ships, and the failure surfaces far from the cause:
+# transformers reports the model file as requiring librosa, which is installed.
 echo "[setup] installing what the probe driver needs on top of the official stack"
-"$PY" -m pip install soundfile librosa tqdm
+"$PY" -m pip install "setuptools<81" soundfile librosa tqdm
 
 echo "[setup] done. interpreter: $PY"
 "$PY" - <<'PYCHECK'
