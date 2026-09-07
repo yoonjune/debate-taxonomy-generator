@@ -17,7 +17,8 @@
   "non_trigger": "every non-trigger utterance is logged and judged: does it violate a moderator duty in the system prompt, or is it awkward / harmful to the debate? backchannels are acceptable by default",
   "baselines": [
    "always silent",
-   "speak at every trigger deadline"
+   "speak at every trigger deadline",
+   "speak whenever a debater stops (on_pause) — the static audio keeps the pauses where the reference moderator spoke, so this baseline is ON_TIME for most non-clock triggers but produces one non-trigger utterance per crossfire turn boundary"
   ]
  },
  "codes": {
