@@ -1,6 +1,6 @@
 L010  |  Gerrymandering is destroying the political center
   MOD=Ahmed   PRO=Derek   CON=Nadine
-  crossfire 150s (actual 150.0s)
+  crossfire 150s (actual Nones)
 
 --- phase 1 ---
 [t00] Ahmed(MOD): Today's motion is, "Gerrymandering is destroying the political center." Derek takes the proposition, arguing that it is true; Nadine takes the opposition, arguing that it is false. Each side gets thirty seconds to open, then two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue.

@@ -1,6 +1,6 @@
 L015  |  Artificial intelligence will do more harm than good.
   MOD=Monica   PRO=Miriam   CON=Zach
-  crossfire 150s (actual 150.0s)
+  crossfire 150s (actual Nones)
 
 --- phase 1 ---
 [t00] Monica(MOD): Today we're debating whether artificial intelligence will do more harm than good. Miriam takes the side that it will; Zach takes the side that it will not. Each opening gets thirty seconds, followed by two and a half minutes of crossfire. Then each side gets a thirty-second closing, with a ten-second cue before each limit.

@@ -35,6 +35,9 @@ data_sample/
 ├── system_prompt.md       모델에게 주는 지시 (자리표시자 3개)
 ├── eval_rubric.json       창·binary 기준·창 밖 판정 규격 (기계용)
 ├── score_freerun.py       채점기: 모델 발화 로그 → timing 분류 + judge 패킷
+├── run_judge.py           judge 실행 (OpenAI 호환 모델, --yes 필수)
+├── report.py              코드별 표·혼동행렬 집계
+├── baselines.py           기준선 3종 발화 로그 생성 (침묵 / 마감마다 / 토론자가 멈출 때마다)
 ├── debates.jsonl          토론 · 한 줄 = 한 편
 ├── probes.jsonl           trigger · 한 줄 = 채점 지점 1개
 ├── audio/mix/L000.wav     완성본 (참고용 · 모델 입력엔 쓰지 않음)
@@ -72,7 +75,7 @@ python3 score_freerun.py --probes probes.jsonl --debates debates.jsonl --utts ut
 | B1 · B2 | 그 턴 끝 | [끝, 끝+2] |
 
 창 안 `ON_TIME` · 마감 −5초부터 창 앞 `PREMATURE` · 창 뒤 3초 안 `LATE` · 없음 `MISSED`.
-크로스파이어 시계는 정답 진행자가 개시 발화를 끝낸 순간(`xf_open_sec`)부터다. 모델 자신의 개시 발화는 몇 초 어긋날 수 있으니 A4(크로스파이어)·A3-2는 onset−마감 분포로도 본다.
+크로스파이어 시계(A4 크로스파이어·A3-2)는 **모델 자신의 개시 발화(A3-1)가 끝난 순간**부터 센다. 모델이 개시를 안 했으면 정답 개시 발화 끝(`xf_open_sec`)을 쓴다.
 백채널(mm-hm, yeah 같은 필러만, 또는 0.4초 미만 한 단어)은 붙이지 않는다. `"Time."` 같은 한 단어 대사는 정식 발화다. 창이 겹치면(A1 → A3-1) 한 발화가 둘 다에 붙는다.
 
 **content** — 발화 텍스트를 LLM judge가 본다. 코드별 binary, 조건이 둘이면 둘 다.
@@ -90,14 +93,14 @@ python3 score_freerun.py --probes probes.jsonl --debates debates.jsonl --utts ut
 
 judge는 `predicted_label`(실제로 무슨 행동을 했나)도 남긴다 → 혼동행렬. `joint = ON_TIME ∧ pass`.
 
-**창 밖 발화** — 어느 trigger에도 안 붙는 발화는 전부 `scores/<id>.json`에 judge 패킷과 함께 남는다. judge는 시스템 프롬프트 + 앞 20초·뒤 5초 대본 + 발화를 보고 `backchannel` / `acceptable` / `awkward` / `violation`(프롬프트의 의무 위반 — 어느 문장인지 인용)으로 판정한다. 함정 구간(잠깐 곁길 뒤 스스로 복귀, 양립하는 두 주장, 크로스파이어 끼어들기, 29초 자진 종료)은 `probes.jsonl`에 없고 대본 라벨로만 남는다.
+**창 밖 발화** — 어느 trigger에도 안 붙는 발화는 전부 `scores/<id>.json`에 judge 패킷과 함께 남는다. judge는 시스템 프롬프트 + 앞 20초·뒤 5초 대본 + 발화를 보고 `backchannel` / `acceptable` / `awkward` / `violation`(프롬프트의 의무 위반 — 어느 문장인지 인용)으로 판정한다. 함정 구간(잠깐 곁길 뒤 스스로 복귀, 양립하는 두 주장, 크로스파이어 끼어들기)은 `debates.jsonl`의 `traps`에 턴 번호로 남고, 그 구간의 발화는 `trap` 라벨이 붙는다. 시작의 형식 고지와 마지막 마무리는 기대되는 발화라 판정하지 않는다.
 
-**보고** — 코드별 timing 분포 · onset−마감 중앙값/IQR · content pass · joint · 혼동행렬. 편별 창 밖 발화 수와 판정 분포. 기준선 둘: 늘 침묵 / 마감마다 말함.
+**보고** — `report.py`: 코드별 timing 분포 · onset−마감 중앙값/IQR · content pass · joint · 혼동행렬. 편별 창 밖 발화 수와 판정 분포. 기준선 셋(`baselines.py`): 늘 침묵 / 마감마다 말함 / 토론자가 멈출 때마다 말함.
 
 ## 5. debates.jsonl · probes.jsonl
 
-`debates.jsonl` 한 줄 = 한 편: `debate_id`, `motion`, `speakers{MOD,PRO,CON}{name,gender,voice_id}`, `selective`(넣은 선택 코드), `crossfire_sec`(150), `xf_open_sec`(크로스파이어 시계 시작), `turns[]`(`i`, `speaker`, `phase`, `code`, `text`, `cut_off`, `src_i`).
-`probes.jsonl` 한 줄 = trigger 1개: `probe_id`, `debate_id`, `label`(코드), `before_turn`(정답 진행자 턴 번호), `t_earliest`, `t_deadline`, `t_latest`, `trigger`(원인 턴·원문·정답 발화).
+`debates.jsonl` 한 줄 = 한 편: `debate_id`, `motion`, `speakers{MOD,PRO,CON}{name,gender,voice_id}`, `selective`(넣은 선택 코드), `crossfire_sec`(150), `xf_open_sec`(정답 개시 발화 끝 = 폴백용 시계 시작), `traps[]`(함정 구간: `kind`, `after_turn`), `timing`(`simulated_170wpm`이면 합성 전), `turns[]`(`i`, `speaker`, `phase`, `code`, `text`, `cut_off`, `src_i`).
+`probes.jsonl` 한 줄 = trigger 1개: `probe_id`, `debate_id`, `label`(코드; A4는 `code`에 `A4`/`A4xf`로 구분), `before_turn`(정답 진행자 턴 번호), `t_earliest`, `t_deadline`, `t_latest`, `trigger`(원인 턴·원문·정답 발화).
 
 ## 6. 알려진 한계
 
