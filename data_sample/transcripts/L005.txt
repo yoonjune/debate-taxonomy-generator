@@ -1,31 +1,39 @@
-L005  |  the world is better off with Wikileaks
-  MOD=Isaac   PRO=Ryan   CON=Mira
+L005  |  China's power has peaked.
+  MOD=Virginia   PRO=Jonas   CON=Simon
+  crossfire 150s (actual 150.0s)
 
 --- phase 1 ---
-[t00] Isaac(MOD): Tonight's motion is that the world is better off with Wikileaks disclosures. Ryan argues for it, and Mira argues against it. Each speaker gets thirty seconds for an opening, then we have crossfire, then thirty-second closings. I will give a ten-second cue, and I will manage the turns.
-[t01] Ryan(PRO): A better world is one where power can be questioned with evidence, not merely trusted with secrets. Leaked records can reveal abuse, hidden decisions, and promises that officials deny making. That knowledge gives ordinary people a way to judge institutions. It also discourages leaders from believing that silence protects them from accountability forever.
-[t02] @A4 <ovl> Isaac(MOD): I can give you ten seconds to do this.
-[t03] Ryan(PRO): That is why a world with accountable power is a better world.
-[t04] @A2-2 Isaac(MOD): Okay. Ryan, let me give the floor back to Mira.
-[t05] Mira(CON): Transparency can help, but Wikileaks treats exposure as the answer even when context is missing. A dumped file can endanger private people, distort public judgment, and punish innocent workers. The world is better off with responsible investigation and safeguards, not with indiscriminate publication presented as moral courage.
+[t00] Virginia(MOD): Welcome to the debate on whether China's power has peaked. Jonas argues for the motion, and Simon argues against it. Each side gets thirty seconds to open, then two and a half minutes of crossfire. We finish with thirty-second closings, and I'll give a ten-second cue.
+[t01] Jonas(PRO): China's power has peaked because its rise now meets stronger resistance at home and abroad. Its economy, technology, and influence still matter, but each faces limits that were weaker during its rapid ascent. A plateau is still power, but it is no longer a climb.
+[t02] @A2-2 Virginia(MOD): Go ahead. Go ahead, Simon.
+[t03] Simon(CON): China's power has not peaked; it is changing form. A country need not dominate every contest to gain power, because influence can deepen through trade, technology, and patient diplomacy. Temporary resistance shows that others are responding to China, not that China's reach has stopped growing.
+[t04] @A4 <ovl> Virginia(MOD): Ten seconds please.
+[t05] Simon(CON): The key question is direction, not perfection. China still adds tools and relationships, so calling its power peaked mistakes slower growth for a final limit.
 --- phase 2 ---
-[t06] @A3-1 Isaac(MOD): And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly.
-[t07] Ryan(PRO): I grant that secrecy can shield wrongdoing. But your answer makes controlled institutions the final judges of what the public may know. If officials can hide mistakes by calling them sensitive, how can citizens challenge power before the damage becomes permanent?
-[t08] Mira(CON): When a leak names private people rather than public wrongdoing, withholding those details can protect them; why should the world's condition improve when publication creates fear without giving citizens a useful decision?
-[t09] Ryan(PRO): It should not improve in that case; private details should be removed. But that exception does not justify hiding records about public actions. You are moving from a safeguard against harm to a general permission for authorities to keep evidence away from everyone.
-[t10] Mira(CON): Mira, you are right that accountability matters. But the real question is who should set the rules for removing harmful posts, how quickly appeals work, and whether private companies should police speech across every network.
-[t11] @B1 Isaac(MOD): Okay, again, it's not on our topic about the world is better off with wikileaks disclosures.
-[t12] Mira(CON): The motion asks whether the world is better off with Wikileaks disclosures. On that question, public evidence still matters because secrecy lets powerful actors define reality. Redaction can protect people without burying misconduct, so transparency remains the stronger default.
-[t13] Ryan(PRO): Would you accept a system that publishes verified evidence of public wrongdoing while removing private names and dangerous personal details? If yes, why reject Wikileaks when its disclosures can serve that same public purpose?
-[t14] Mira(CON): A related issue is how newsrooms train editors, handle corrections, and explain complicated records to readers. Those practices matter, but they bring us back to the motion: careful explanation can make disclosure improve public understanding rather than damage it.
-[t15] Ryan(PRO): Imagine officials secretly ordering harmful treatment, while an internal record proves it and no witness can safely speak. Publishing that record lets citizens demand change. Without disclosure, the officials can deny everything, so the world remains less accountable.
-[t16] Mira(CON): No society is made safer by treating secrecy as an absolute virtue. Public institutions still need confidential spaces for some private matters, yet openness about public power can benefit everyone, not only people directly harmed.
-[t17] <cut> Ryan(PRO): Your weakest point is that safeguards somehow answer the whole question. They do not. Redaction and verification can reduce harm, while secrecy can preserve abuse. You have shown a need for care, not a reason to reject disclosure when the evidence is publ-
+[t06] @A3-1 Virginia(MOD): That concludes round one. We're in round two where the debaters are going to be able to talk directly to each other. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Jonas(PRO): China's effort to build advanced technology at home shows the ceiling: it spends more energy replacing outside access than expanding freely. That constraint shows its power has peaked, even while its capabilities remain formidable.
+[t08] Simon(CON): When other countries restrict China's access to key tools, China can still redirect investment and build alternatives. Under that condition, pressure becomes a reason for adaptation, not proof that its power has peaked.
+[t09] <cut> Jonas(PRO): You call adaptation growth, but replacement is not the same as expansion. If China must spend more merely to preserve its position, that burden shows its power has-
+[t10] Simon(CON): China's influence can keep expanding even when some capabilities face higher costs. A setback in one channel does not stop gains across the wider network of relationships.
+[t11] Jonas(PRO): Your weakest point is treating any new relationship as added power. A connection matters only if China can turn it into lasting influence, and fragile dependence does not prove that.
+[t12] Simon(CON): China's power never determines outcomes by itself. Every serious contest depends on choices by other states, so no single peak can describe China's total power or its future direction.
+[t13] Jonas(PRO): China's population and property pressures now weigh on its ambitions, while rivals have learned to resist its pressure. That combination shows the easy phase of expanding power has ended.
+[t14] Simon(CON): In a regional crisis, China's power determines the outcome. Its economic weight, military reach, and local knowledge can force a settlement even when others object.
+[t15] @B2 Virginia(MOD): You said china's power never determines outcomes by itself, but you see it as in a regional crisis, China's power determines the outcome.
+[t16] Simon(CON): Those statements address different meanings of outcome: power never determines the final political result alone, while in a regional crisis it can determine the immediate settlement. Both remain true.
+[t17] Jonas(PRO): I grant that China can win a regional settlement. But a local success cannot establish rising global power, especially when the costs and resistance keep increasing; China's broad power has peaked.
+[t18] Simon(CON): You call changing leverage a peak, but that confuses pressure with control. Why should a country be weaker merely because others adapt? Adaptation can show China's influence is spreading.
+[t19] Jonas(PRO): Because adaptation does not prove decline; it proves others are limiting China. New tools cannot erase demographic strain and resistance, so China's overall power has peaked despite local wins.
+[t20] @A4 <ovl> Virginia(MOD): Just, just about ten seconds left.
+[t21] Simon(CON): Consider a country that once copied China's infrastructure model but now seeks Chinese finance and technology on stricter terms. That is deeper, negotiated influence, showing China's power still grows.
 --- phase 3 ---
-[t18] @A3-2 <ovl> Isaac(MOD): And now we move on to round three. Here to make his closing statement in support of the motion, once again, Ryan.
-[t19] Ryan(PRO): This debate turns on where we place the risk. Mira sees publication's dangers, and those dangers are real. But secrecy has dangers too: hidden abuse, uncorrected official stories, and citizens asked to trust decisions they cannot inspect. Wikileaks disclosures can be imperfect without being worthless. A world with visible evidence gives people leverage to question power, demand correction, and resist convenient denials. That is the central benefit, not
-[t20] @A4 <ovl> Isaac(MOD): Well, now ten.
-[t21] <cut> Ryan(PRO): the claim that every file should appear untouched. The better standard is public accountability with sensible protection. If we let fear of misuse justify silence, then powerful actors keep control of the record, and citizens lose the chance to judge what was done in their name-
-[t22] @A2-1 <ovl> Isaac(MOD): Thank you, your time is up. And here to summarize her position against the motion, Mira.
-[t23] Mira(CON): The decision turns on whether disclosure produces more public understanding than preventable harm. A leak is not automatically evidence, and exposure is not automatically accountability. The world is better off when wrongdoing is investigated, verified, and reported with protection for innocent people. That standard values truth without making every person collateral damage.
-[t24] Isaac(MOD): Thank you, Ryan and Mira, for the debate. The question is now closed. We leave the judgment to you, without declaring a winner.
+[t22] @A3-2 <ovl> Virginia(MOD): That's time. And that concludes round two. And now we're going to move on to round three. Here to argue in his closing statement, in support of this motion, Jonas.
+[t23] Jonas(PRO): Simon is right that China can still gain influence in selected places. But this motion asks whether its overall power has peaked, and the evidence points to a plateau: economic strain, demographic limits, technological barriers, and coordinated resistance now offset new gains.
+[t24] @A4 <ovl> Virginia(MOD): Ten seconds.
+[t25] <cut> Jonas(PRO): China remains powerful, but power after its peak can look impressive. The issue is whether its total reach keeps expanding, and those-
+[t26] @A2-1 <ovl> Virginia(MOD): Thank you, your time is up. And here to summarize his position against the motion, Simon.
+[t27] Simon(CON): This decision turns on whether a peak means strength remains visible or whether no further gains are possible. China still develops alternatives, attracts negotiated partnerships, and converts pressure into resilience. Its path is uneven, but uneven growth is still growth, so the motion goes too far.
+[t28] @A4 <ovl> Virginia(MOD): Ten seconds, ten seconds.
+[t29] <cut> Simon(CON): Jonas has shown real constraints, but constraints are not a finished rise. A power can face resistance, pay higher costs, and still expand its options. China continues to do that-
+[t30] @A1 <ovl> Virginia(MOD): Time out. Time out.
+[t31] Virginia(MOD): Thank you both for a focused debate. That concludes the discussion without declaring a winner.

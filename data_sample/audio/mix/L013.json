@@ -1,0 +1,358 @@
+{
+ "debate_id": "L013",
+ "motion": "We should banish the criminal history checkbox from job applications.",
+ "speakers": {
+  "MOD": {
+   "name": "Abigail",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5291_382",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5291/MSP-PODCAST_5291_382.wav",
+   "wpm": 123.74
+  },
+  "PRO": {
+   "name": "Theodore",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0177_72",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0177/MSP-PODCAST_0177_72.wav",
+   "wpm": 170.28
+  },
+  "CON": {
+   "name": "Evan",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6918_286",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_6/MSP-PODCAST_6918/MSP-PODCAST_6918_286.wav",
+   "wpm": 184.64
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 69.624,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 290.25,
+ "ext": {
+  "a32": {
+   "file": "L013_ext_a32.wav",
+   "place_at_sec": 214.041,
+   "dur_sec": 22.788,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "A small care facility can see a serious assault conviction on an application and seek clarification before hiring. That example shows the checkbox can protect vulnerable people, so banning it goes too far."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.706,
+   "dur_sec": 18.706,
+   "overlap": false,
+   "text": "Today this debate asks whether we should banish the criminal history checkbox from job applications. Theodore argues for the motion, while Evan argues against it. Each opening lasts thirty seconds; then crossfire lasts two and a half minutes. Each closing lasts thirty seconds, and I will give a ten-second cue before time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.906,
+   "end_sec": 36.906,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "A checkbox invites employers to reject people before hearing context, even when an old mistake has no bearing on the job. Banish it, and employers can still discuss relevant records fairly. The motion removes a blunt filter, not responsible judgment."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 37.106,
+   "end_sec": 38.518,
+   "dur_sec": 1.412,
+   "overlap": false,
+   "text": "Okay. Evan, you're in."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 38.718,
+   "end_sec": 56.718,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "A checkbox can give employers honest, consistent information before they invest time in hiring. Without it, applicants may hide serious records until late in the process. Banning the checkbox protects concealment more than fairness, especially for coworkers and customers."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 56.918,
+   "end_sec": 69.624,
+   "dur_sec": 12.706,
+   "overlap": false,
+   "text": "That concludes round one. Now we move on to round two and in round two the debaters have a conversation, address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 69.824,
+   "end_sec": 80.765,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "Suppose a shop needs someone handling cash, and an applicant has a recent theft conviction. The checkbox alerts the owner to ask careful questions, showing why honest screening should remain available."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 81.112,
+   "end_sec": 92.759,
+   "dur_sec": 11.647,
+   "overlap": false,
+   "text": "You call that alert fair, but the checkbox usually turns a complicated record into an automatic rejection. An old mistake, unrelated offense, or dismissed case can erase a qualified applicant before anyone asks-"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 93.128,
+   "end_sec": 104.775,
+   "dur_sec": 11.647,
+   "overlap": false,
+   "text": "Hiring is also about trust between coworkers, not just matching skills to tasks. A manager needs room to ask about reliability and safety. That is why keeping the checkbox supports careful hiring decisions."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 105.212,
+   "end_sec": 116.506,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "Your weakest point is that the checkbox creates careful questions. It does the opposite when a quick yes triggers rejection, while a no can punish honesty. Removing it encourages actual discussion instead."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 117.345,
+   "end_sec": 128.639,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "If the owner sees theft, the next question is whether money is locked, who holds keys, and whether two workers count the drawer together. Those details affect training, supervision, and insurance paperwork."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 128.839,
+   "end_sec": 136.604,
+   "dur_sec": 7.765,
+   "overlap": false,
+   "text": "No, banish the criminal history checkbox from job applications, banish the criminal history checkbox from job applications. Those are the key words."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 136.804,
+   "end_sec": 147.039,
+   "dur_sec": 10.235,
+   "overlap": false,
+   "text": "Employers should always consider criminal history. A checkbox gives them a consistent starting point, so hiding that information shifts risk to coworkers and customers instead of making hiring fairer."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 147.311,
+   "end_sec": 159.311,
+   "dur_sec": 12.0,
+   "overlap": false,
+   "text": "A qualified driver with a decade old minor conviction can check one box and disappear from consideration. Removing it lets the employer judge current skills first, showing why banishing the checkbox expands fair opportunity."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 160.016,
+   "end_sec": 169.899,
+   "dur_sec": 9.882,
+   "overlap": false,
+   "text": "Employers should not consider a minor parking offense. They should still reject this ban because relevant records deserve attention when a position involves trust, safety, or vulnerable people."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 170.099,
+   "end_sec": 177.863,
+   "dur_sec": 7.765,
+   "overlap": false,
+   "text": "So it's not much of employers should always consider criminal history if employers should not consider a minor parking offense, is it?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 178.063,
+   "end_sec": 189.357,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "Those statements fit because considering a record does not mean treating every entry as disqualifying. I can reject a parking offense while insisting employers always consider the broader criminal history before hiring."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 189.799,
+   "end_sec": 201.093,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "That distinction exposes the problem: the checkbox does not record careful consideration, only a crude admission. Employers can ask relevant questions later, but the box filters people before your promised distinction exists."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 201.467,
+   "end_sec": 213.82,
+   "dur_sec": 12.353,
+   "overlap": false,
+   "text": "I grant that some employers may use the box lazily. But if a job involves cash or vulnerable people, why remove an early warning that helps an employer investigate? Keeping the checkbox preserves responsible screening."
+  },
+  {
+   "i": 18,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 209.624,
+   "end_sec": 211.035,
+   "dur_sec": 1.412,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.041,
+   "end_sec": 220.423,
+   "dur_sec": 6.383,
+   "overlap": false,
+   "text": "No, employers cannot fairly judge context from a hidden record. That premise treats an early warning as necessary-",
+   "ext_file": "L013_ext_a32.wav",
+   "cut_at_sec": 220.424,
+   "full_dur_sec": 10.941
+  },
+  {
+   "i": 20,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 219.624,
+   "end_sec": 233.035,
+   "dur_sec": 13.412,
+   "overlap": true,
+   "text": "Time's up. Now we move on to round three. Round three will be closing statements by each debater in turn. Making his closing statement in support of the resolution banish the criminal history checkbox from job applications, Theodore."
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 233.235,
+   "end_sec": 253.192,
+   "dur_sec": 19.956,
+   "overlap": false,
+   "text": "Evan's best argument is that some jobs require careful screening, and I agree that relevant safety concerns deserve attention. But a checkbox does not provide careful screening; it invites a fast rejection based on incomplete information. Banish it, and employers can still ask targeted questions, weigh time and relevance, and judge the person before them. The motion protects honest applicants from an automatic barrier."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 253.235,
+   "end_sec": 256.412,
+   "dur_sec": 3.176,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 253.392,
+   "end_sec": 264.535,
+   "dur_sec": 11.143,
+   "overlap": false,
+   "text": "A fair system should distinguish a current risk from an old, unrelated mistake. It should reward relevant answers, not punish disclosure with instant exclusion. Removing the checkbox does not hide records-",
+   "cut_at_sec": 264.535,
+   "full_dur_sec": 14.043,
+   "ext_file": "L013_024.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 263.735,
+   "end_sec": 266.206,
+   "dur_sec": 2.471,
+   "overlap": true,
+   "text": "Your time is up. Thank you. Evan."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.406,
+   "end_sec": 284.406,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "This decision turns on whether employers may learn relevant history early enough to protect coworkers, customers, and vulnerable people. The checkbox is imperfect, but banning it removes a simple chance for honest disclosure. Keep it, and require judgment rather than pretending every employer will ask later."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 284.606,
+   "end_sec": 290.253,
+   "dur_sec": 5.647,
+   "overlap": false,
+   "text": "Thank you both for taking part, and thank you for listening. This debate is now closed."
+  }
+ ]
+}

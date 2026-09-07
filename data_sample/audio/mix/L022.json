@@ -1,0 +1,401 @@
+{
+ "debate_id": "L022",
+ "motion": "Europe Has Declared War on American Tech Companies.",
+ "speakers": {
+  "MOD": {
+   "name": "Rachel",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2312_517",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2312/MSP-PODCAST_2312_517.wav",
+   "wpm": 142.11
+  },
+  "PRO": {
+   "name": "Joanna",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5291_382",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5291/MSP-PODCAST_5291_382.wav",
+   "wpm": 123.74
+  },
+  "CON": {
+   "name": "Martha",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2322_295",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2322/MSP-PODCAST_2322_295.wav",
+   "wpm": 196.21
+  }
+ },
+ "selective": [
+  "A1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 83.647,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 300.95,
+ "ext": {
+  "a32": {
+   "file": "L022_ext_a32.wav",
+   "place_at_sec": 225.886,
+   "dur_sec": 18.2,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "The point is the coordinated hostility, not one rule. You describe open access, but that does not erase the sustained campaign against American tech."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.647,
+   "dur_sec": 17.647,
+   "overlap": false,
+   "text": "Tonight we debate whether europe has declared war on American tech companies. Joanna argues for the motion, and Martha argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each side gets a thirty-second closing, with a ten-second cue before each limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.847,
+   "end_sec": 35.847,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "Europe has moved beyond criticism: it writes rules aimed at American platforms, threatens enormous penalties, and openly seeks to weaken their reach. That coordinated pressure targets our companies because they are American and successful. A declared war need not use soldiers; sustained economic attack is enough."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.047,
+   "end_sec": 38.518,
+   "dur_sec": 2.471,
+   "overlap": false,
+   "text": "OK. Martha, you wanted to come in."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 38.718,
+   "end_sec": 58.876,
+   "dur_sec": 20.159,
+   "overlap": false,
+   "text": "This makes regulation sound like war. Europe is setting consumer and competition standards, as governments do with powerful firms from anywhere. American companies still operate, invest, and compete there; they are not being invaded or expelled. Disagreement over privacy, taxes, and market power is political conflict, not a declaration of war. The real question is whether those disputes can be called war."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 58.718,
+   "end_sec": 61.894,
+   "dur_sec": 3.176,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 59.076,
+   "end_sec": 67.918,
+   "dur_sec": 8.841,
+   "overlap": false,
+   "text": "It cannot. Europe is pressuring firms, but pressure is not a declaration, and calling it war confuses enforcement with hostility. Labels distort judgment."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 68.118,
+   "end_sec": 83.647,
+   "dur_sec": 15.529,
+   "overlap": false,
+   "text": "And that concludes round one. So now we go on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 83.847,
+   "end_sec": 94.435,
+   "dur_sec": 10.588,
+   "overlap": false,
+   "text": "The question beneath your case is whether tough rules equal war; they do not. Penalties can be excessive, but ordinary enforcement remains politics, not an attack on a nation's companies."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 94.738,
+   "end_sec": 102.856,
+   "dur_sec": 8.118,
+   "overlap": false,
+   "text": "If this is merely ordinary enforcement, why do European officials repeatedly design special burdens around American platforms instead of treating comparable firms alike?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 103.445,
+   "end_sec": 114.739,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "You point to special burdens, but you have not shown special treatment. Large platforms face scrutiny because of their size and conduct, and that is regulation, not a national campaign against America."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 115.282,
+   "end_sec": 125.87,
+   "dur_sec": 10.588,
+   "overlap": false,
+   "text": "Then consider the policy that follows: Europe should offer clearer tax rules, faster approvals, and room for investment, so companies can plan, hire, and build services without sudden political reversals."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 126.07,
+   "end_sec": 131.011,
+   "dur_sec": 4.941,
+   "overlap": false,
+   "text": "That's europe has declared war on american tech companies. That's the motion we're discussing."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 131.211,
+   "end_sec": 140.74,
+   "dur_sec": 9.529,
+   "overlap": false,
+   "text": "The motion asks whether this pressure is a war on American tech, and the pattern says yes: targeted rules, threats, and public hostility combine into economic combat."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 141.598,
+   "end_sec": 151.48,
+   "dur_sec": 9.882,
+   "overlap": false,
+   "text": "A concrete example is European privacy enforcement that applies to any company handling personal data. It shows a general standard can constrain American firms without targeting their nationality."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 151.833,
+   "end_sec": 162.774,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "That example still supports my point: Europe may write broad rules, yet its public campaign focuses on American platforms, and the combined pressure becomes a strategic attack on our companies, not-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 161.874,
+   "end_sec": 171.404,
+   "dur_sec": 9.529,
+   "overlap": true,
+   "text": "No, broad rules are the point. A law that applies to every platform cannot become anti-American merely because American firms are prominent; that proves enforcement, not war."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 171.616,
+   "end_sec": 181.145,
+   "dur_sec": 9.529,
+   "overlap": false,
+   "text": "You are answering the wording of one law, not the broader campaign. The point is cumulative pressure: repeated threats and barriers make American technology the chosen battlefield."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 182.023,
+   "end_sec": 193.317,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "The related issue is whether companies can adapt to different legal cultures, and they can. Businesses already change their practices across borders; that normal adjustment does not turn European regulation into war."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 193.621,
+   "end_sec": 203.151,
+   "dur_sec": 9.529,
+   "overlap": false,
+   "text": "Your weakest claim is that adaptation settles the issue. A company can adapt while still being attacked; survival proves resilience, not the absence of a hostile campaign."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.908,
+   "end_sec": 214.143,
+   "dur_sec": 10.235,
+   "overlap": false,
+   "text": "European authorities have also allowed American platforms to keep serving users while challenging specific practices. That concrete outcome shows oversight and continued commerce, not an effort to destroy them."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.957,
+   "end_sec": 225.193,
+   "dur_sec": 10.235,
+   "overlap": false,
+   "text": "Continued commerce does not refute the motion; wars can be fought through pressure short of total destruction. Allowing access while imposing escalating constraints still declares a hostile economic objective."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 223.647,
+   "end_sec": 225.765,
+   "dur_sec": 2.118,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 225.886,
+   "end_sec": 234.447,
+   "dur_sec": 8.561,
+   "overlap": false,
+   "text": "If access remains open and rules apply across borders, what exactly makes this a declaration of war rather than a dispute over how powerful-",
+   "ext_file": "L022_ext_a32.wav",
+   "cut_at_sec": 234.447,
+   "full_dur_sec": 9.529
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 233.647,
+   "end_sec": 241.412,
+   "dur_sec": 7.765,
+   "overlap": true,
+   "text": "Okay, time. So let's move on to our closing round. You go first in this closing round, Joanna, the floor is yours."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.612,
+   "end_sec": 259.612,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "The strongest point is cumulative pressure. Europe has turned regulation, penalties, and political threats toward American technology as a group. That is economic warfare without soldiers, and the motion recognizes what this campaign means."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 259.812,
+   "end_sec": 261.223,
+   "dur_sec": 1.412,
+   "overlap": false,
+   "text": "Yeah, Martha. Thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 261.423,
+   "end_sec": 281.38,
+   "dur_sec": 19.956,
+   "overlap": false,
+   "text": "The motion confuses sharp regulation with war. Europe is arguing about privacy, competition, taxes, and market power, while American companies keep operating and competing. Some rules may be unfair, but unfairness is not a declaration. Calling this war inflates disagreement and hides the real question: whether specific policies are justified. They should be judged individually, not by a dramatic label."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 281.423,
+   "end_sec": 282.835,
+   "dur_sec": 1.412,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.58,
+   "end_sec": 292.723,
+   "dur_sec": 11.143,
+   "overlap": false,
+   "text": "A real war seeks surrender; these disputes seek compliance with public rules. American firms can challenge them, adapt, and remain in the market. That is conflict, perhaps, but not a declaration of war. So the motion fails-",
+   "cut_at_sec": 292.723,
+   "full_dur_sec": 14.043,
+   "ext_file": "L022_029.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 291.923,
+   "end_sec": 295.453,
+   "dur_sec": 3.529,
+   "overlap": true,
+   "text": "I'm sorry. Your time is up. Thank you very much."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 295.653,
+   "end_sec": 300.947,
+   "dur_sec": 5.294,
+   "overlap": false,
+   "text": "Thank you both for taking part, and that concludes our debate without declaring a winner."
+  }
+ ]
+}

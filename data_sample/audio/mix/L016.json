@@ -1,0 +1,414 @@
+{
+ "debate_id": "L016",
+ "motion": "The Constitutional Right to Bear Arms Has Outlived its Usefulness",
+ "speakers": {
+  "MOD": {
+   "name": "Howard",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0365_653",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0365/MSP-PODCAST_0365_653.wav",
+   "wpm": 131.09
+  },
+  "PRO": {
+   "name": "Hina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1763_64",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1763/MSP-PODCAST_1763_64.wav",
+   "wpm": 173.81
+  },
+  "CON": {
+   "name": "Angus",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 81.771,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 296.98,
+ "ext": {
+  "a32": {
+   "file": "L016_ext_a32.wav",
+   "place_at_sec": 221.586,
+   "dur_sec": 22.082,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Consider a lone resident facing an armed intruder while emergency help is minutes away. A lawful firearm can prevent immediate harm. That example shows the right still performs a vital protective role."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.235,
+   "dur_sec": 16.235,
+   "overlap": false,
+   "text": "Welcome. The motion is that the Constitutional Right to Bear Arms Has Outlived its Usefulness. Hina argues for it, and Angus argues against it. Each gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings, with a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.435,
+   "end_sec": 34.435,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "A constitutional right created for muskets cannot govern weapons that fire rapidly and cause mass harm. We can respect lawful self-defense while replacing an outdated guarantee with focused safety rules. The motion is true because public protection now requires flexibility."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 34.635,
+   "end_sec": 37.106,
+   "dur_sec": 2.471,
+   "overlap": false,
+   "text": "Now his summation against the motion, Angus."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 37.306,
+   "end_sec": 57.262,
+   "dur_sec": 19.956,
+   "overlap": false,
+   "text": "The right remains useful because it protects people when institutions fail. A family facing immediate violence cannot wait for perfect policy or guaranteed official help. Lawful ownership also lets citizens defend themselves and resist abuse. The answer is responsible regulation, not abandoning a liberty that still matters."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 57.306,
+   "end_sec": 58.365,
+   "dur_sec": 1.059,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 57.462,
+   "end_sec": 68.606,
+   "dur_sec": 11.143,
+   "overlap": false,
+   "text": "You treat every gun as proof the right has failed, but misuse does not erase proper use. We can punish violence, improve training, and keep self-defense available. Removing the right would leave peaceful citizens-",
+   "cut_at_sec": 68.606,
+   "full_dur_sec": 14.043,
+   "ext_file": "L016_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 67.806,
+   "end_sec": 71.335,
+   "dur_sec": 3.529,
+   "overlap": true,
+   "text": "I'm sorry. Your time is up. Thank you very much."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.535,
+   "end_sec": 81.771,
+   "dur_sec": 10.235,
+   "overlap": false,
+   "text": "As the conversation continues, we're going to give you each a chance to rebut one another. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 81.971,
+   "end_sec": 95.029,
+   "dur_sec": 13.059,
+   "overlap": false,
+   "text": "Imagine a legally purchased rifle used in a crowded public place within seconds. Existing safeguards may not prevent that harm. It shows the constitutional protection can block timely safety measures, which is why its usefulness has expired."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 95.54,
+   "end_sec": 105.423,
+   "dur_sec": 9.882,
+   "overlap": false,
+   "text": "I believe armed citizens always make us safer. The right preserves a final defense when police cannot arrive, so its usefulness cannot be judged only by criminal misuse."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 105.896,
+   "end_sec": 117.19,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "Your weakest point is that ownership automatically supplies safety. A weapon may help one person, but widespread access also makes panic, accidents, and impulsive violence more dangerous; that tradeoff defeats your claim."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 117.469,
+   "end_sec": 126.293,
+   "dur_sec": 8.823,
+   "overlap": false,
+   "text": "In a school, unarmed guards make us safer. That specific setting calls for a different protective choice, while the broader right still protects citizens elsewhere."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 126.493,
+   "end_sec": 135.316,
+   "dur_sec": 8.823,
+   "overlap": false,
+   "text": "One moment you're saying i believe armed citizens always make us safer, then you're having them in a school, unarmed guards make us safer. Which?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 135.516,
+   "end_sec": 148.575,
+   "dur_sec": 13.059,
+   "overlap": false,
+   "text": "They fit by recognizing that safety depends on circumstances, not one mechanical answer. I still believe armed citizens always make us safer as a general safeguard, while this school case favors unarmed guards for its particular risks."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 148.793,
+   "end_sec": 159.734,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "When a weapon can harm many people rapidly in a confined public space, the government should be able to restrict access. Under that condition, the old right has outlived its usefulness."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 160.62,
+   "end_sec": 171.914,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "Training standards deserve attention, and schools need careful emergency plans. But those details do not answer the central question: citizens still need a protected means of defense, so the right remains useful."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 172.485,
+   "end_sec": 183.073,
+   "dur_sec": 10.588,
+   "overlap": false,
+   "text": "A right that blocks effective safety rules has outlived its usefulness wherever public danger is substantial. Its broad constitutional shield is the problem, even when individual cases deserve careful treatment."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 183.443,
+   "end_sec": 194.031,
+   "dur_sec": 10.588,
+   "overlap": false,
+   "text": "If your broad claim covers substantial danger, why preserve any protected right at all? Your careful exceptions cannot repair a principle that lets officials decide liberty disappears whenever fear rises."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 194.535,
+   "end_sec": 207.593,
+   "dur_sec": 13.059,
+   "overlap": false,
+   "text": "No, my claim does not erase every individual choice; it rejects the premise that constitutional protection must control every case. Officials should be able to act when weapons create shared danger, which is why reform is necessary."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 207.907,
+   "end_sec": 220.612,
+   "dur_sec": 12.706,
+   "overlap": false,
+   "text": "I grant that dangerous weapons require firm rules. But your main point gives officials power to redefine danger broadly, and that risks peaceful citizens' protection; the constitutional right remains useful as a limit on that power."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 221.586,
+   "end_sec": 232.174,
+   "dur_sec": 10.588,
+   "overlap": false,
+   "text": "That limit is the point I reject. Calling the right a safeguard does not justify keeping language that prevents modern solutions; adaptable rules protect people better than an old guarantee.",
+   "ext_file": "L016_ext_a32.wav"
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 221.771,
+   "end_sec": 222.123,
+   "dur_sec": 0.353,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 231.771,
+   "end_sec": 241.3,
+   "dur_sec": 9.529,
+   "overlap": true,
+   "text": "Time. I'm going to jump in because we're going to go to closing statements. Now we move on to our final round. Hina, you are up first."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.5,
+   "end_sec": 251.348,
+   "dur_sec": 9.848,
+   "overlap": false,
+   "text": "The amendment was designed for an old danger, but today's weapons multiply harm quickly. Keeping it unchanged protects a symbol, not public safety, because"
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 250.448,
+   "end_sec": 252.748,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "Let me make one quick point: removing-",
+   "cut_at_sec": 252.748,
+   "full_dur_sec": 8.823,
+   "ext_file": "L016_025.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 251.948,
+   "end_sec": 254.419,
+   "dur_sec": 2.471,
+   "overlap": true,
+   "text": "Angus, hold on. Let Hina finish, please."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 254.619,
+   "end_sec": 264.861,
+   "dur_sec": 10.242,
+   "overlap": false,
+   "text": "because public safety requires rules that can change as weapons change. A permanent barrier to those rules is no longer useful, even if self-defense remains legitimate."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 261.5,
+   "end_sec": 263.265,
+   "dur_sec": 1.765,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 265.061,
+   "end_sec": 270.97,
+   "dur_sec": 5.909,
+   "overlap": false,
+   "text": "We can preserve self-defense without preserving an outdated constitutional obstacle."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 271.17,
+   "end_sec": 272.935,
+   "dur_sec": 1.765,
+   "overlap": false,
+   "text": "You can come in, Angus."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 273.135,
+   "end_sec": 291.135,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "This right is not obsolete because the need for self-defense has not vanished. People still face immediate threats, and officials cannot promise instant protection. Keep the right, regulate misuse, and preserve a vital safeguard for ordinary citizens."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 291.335,
+   "end_sec": 296.982,
+   "dur_sec": 5.647,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate. That concludes our discussion, and we appreciate your attention."
+  }
+ ]
+}

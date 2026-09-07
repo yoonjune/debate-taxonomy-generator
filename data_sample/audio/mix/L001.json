@@ -1,27 +1,27 @@
 {
  "debate_id": "L001",
- "motion": "Ration end-of-life care",
+ "motion": "The Palestinians should give up their full right of return",
  "speakers": {
   "MOD": {
-   "name": "Randy",
-   "gender": "Male",
-   "voice_id": "MSP-PODCAST_0019_43",
-   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
-   "wpm": 164.41
+   "name": "Joanne",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2255_1082",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2255/MSP-PODCAST_2255_1082.wav",
+   "wpm": 187.94
   },
   "PRO": {
-   "name": "Joanna",
+   "name": "Rachel",
    "gender": "Female",
-   "voice_id": "MSP-PODCAST_1206_312",
-   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
-   "wpm": 165.44
+   "voice_id": "MSP-PODCAST_0334_700",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0334/MSP-PODCAST_0334_700.wav",
+   "wpm": 205.2
   },
   "CON": {
-   "name": "Rima",
-   "gender": "Female",
-   "voice_id": "MSP-PODCAST_5287_206",
-   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5287/MSP-PODCAST_5287_206.wav",
-   "wpm": 169.41
+   "name": "Rich",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4822_1585",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_4/MSP-PODCAST_4822/MSP-PODCAST_4822_1585.wav",
+   "wpm": 124.36
   }
  },
  "selective": [
@@ -29,287 +29,416 @@
   "A5",
   "B1"
  ],
- "total_sec": 291.12,
+ "crossfire_sec": 150,
+ "xf_open_sec": 95.865,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 310.81,
+ "ext": {
+  "a32": {
+   "file": "L001_ext_a32.wav",
+   "place_at_sec": 244.321,
+   "dur_sec": 22.435,
+   "src_i": 25
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 26,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I agree that remedies must be negotiated, but that process needs a recognized right behind it. Without return as a principle, negotiation becomes permission to deny Palestinians altogether."
+  },
+  {
+   "src_i": 27,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "That concern overlooks the safeguards a settlement can provide through recognition, compensation, and family reunification. The point is to replace an unlimited claim with workable justice that allows peace to endure."
+  }
+ ],
  "turns": [
   {
    "i": 0,
+   "src_i": 0,
    "speaker": "MOD",
    "code": null,
    "start_sec": 0.0,
-   "end_sec": 17.48,
-   "dur_sec": 17.48,
+   "end_sec": 20.823,
+   "dur_sec": 20.823,
    "overlap": false,
-   "text": "The motion is to ration end-of-life care. Joanna argues for it, and Rima argues against it. Each opening lasts thirty seconds. Then we have crossfire, with direct answers to one another. Finally, each side gets a thirty-second closing. I will give a ten-second cue, and I may intervene to keep us moving."
+   "text": "Today we debate whether the Palestinians should give up their full right of return. Rachel supports the motion, and Rich opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. We will give a ten-second cue, then take thirty-second closings, again with a ten-second cue. Please address the issue and each other clearly."
   },
   {
    "i": 1,
+   "src_i": 1,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 17.68,
-   "end_sec": 37.08,
-   "dur_sec": 19.4,
+   "start_sec": 21.023,
+   "end_sec": 40.98,
+   "dur_sec": 19.956,
    "overlap": false,
-   "text": "Rationing end-of-life care means setting fair limits when demand exceeds what medicine can safely provide. Without limits, access follows wealth, persistence, or luck. A public rule can protect equal treatment, preserve scarce staff and equipment, and direct care toward comfort where further intervention offers little benefit. That is a humane framework, not abandonment."
+   "text": "The full right of return cannot remain an unlimited promise when it prevents a workable peace. A lasting settlement needs security, recognition, and a future for both peoples. Giving up that full claim would not erase Palestinian history or suffering. It would accept that justice must sometimes be pursued through practical rights and compensation."
   },
   {
    "i": 2,
+   "src_i": 2,
    "speaker": "MOD",
    "code": "A4",
-   "start_sec": 35.94,
-   "end_sec": 38.22,
-   "dur_sec": 2.28,
+   "start_sec": 41.023,
+   "end_sec": 42.082,
+   "dur_sec": 1.059,
    "overlap": true,
-   "text": "I'll give you ten more seconds to nail this."
+   "text": "Ten seconds please."
   },
   {
    "i": 3,
+   "src_i": 3,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 38.42,
-   "end_sec": 52.54,
-   "dur_sec": 14.12,
+   "start_sec": 41.18,
+   "end_sec": 52.323,
+   "dur_sec": 11.143,
    "overlap": false,
-   "text": "It also gives families a clear process instead of forcing them to fight case by case. Clinicians can explain the limits, offer palliative support, and review exceptions when circumstances change. Without a shared rule, the least powerful will be-"
+   "text": "The alternative is to preserve an absolute demand that blocks negotiation and keeps generations tied to an unresolved past. Palestinians could still seek family reunification, compensation, records, and dignity through agreement. But a state cannot be built-",
+   "cut_at_sec": 52.323,
+   "full_dur_sec": 14.043,
+   "ext_file": "L001_003.wav"
   },
   {
    "i": 4,
+   "src_i": 4,
    "speaker": "MOD",
    "code": "A2-1",
-   "start_sec": 51.74,
-   "end_sec": 54.02,
-   "dur_sec": 2.28,
+   "start_sec": 51.523,
+   "end_sec": 55.053,
+   "dur_sec": 3.529,
    "overlap": true,
-   "text": "Joanna, you're rather going on. Thank you. Rima."
+   "text": "Thank you. Time is up on that. And now Rich."
   },
   {
    "i": 5,
+   "src_i": 5,
    "speaker": "CON",
    "code": null,
-   "start_sec": 54.22,
-   "end_sec": 71.86,
-   "dur_sec": 17.64,
+   "start_sec": 55.253,
+   "end_sec": 65.101,
+   "dur_sec": 9.848,
    "overlap": false,
-   "text": "Scarcity is real, but rationing gives institutions power to decide whose life receives less. A forecast can become a sentence, especially for disabled people or patients without advocates. We should expand capacity, support informed refusal, and let patients set goals with clinicians rather than impose one ceiling."
+   "text": "The motion asks Palestinians to surrender a right before receiving justice. Return is tied to homes, families, and identity, not merely a bargaining position. Peace should reconcile rights, not require one people to abandon theirs."
   },
   {
    "i": 6,
-   "speaker": "MOD",
-   "code": "A3-1",
-   "start_sec": 72.06,
-   "end_sec": 79.54,
-   "dur_sec": 7.48,
-   "overlap": false,
-   "text": "And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly."
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 64.201,
+   "end_sec": 66.501,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But an unlimited return would change the-",
+   "cut_at_sec": 66.501,
+   "full_dur_sec": 9.529,
+   "ext_file": "L001_006.wav"
   },
   {
    "i": 7,
-   "speaker": "CON",
-   "code": null,
-   "start_sec": 79.74,
-   "end_sec": 94.5,
-   "dur_sec": 14.76,
-   "overlap": false,
-   "text": "You call a public rule humane, but clarity doesn't make a limit fair. Who sets the threshold, and who bears the error when a prediction is wrong? Your framework can deny treatment because a committee prefers one expected outcome over a patient's judgment."
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 65.701,
+   "end_sec": 67.819,
+   "dur_sec": 2.118,
+   "overlap": true,
+   "text": "Let him reply to that please."
   },
   {
    "i": 8,
-   "speaker": "PRO",
+   "src_i": 8,
+   "speaker": "CON",
    "code": null,
-   "start_sec": 94.7,
-   "end_sec": 107.22,
-   "dur_sec": 12.52,
+   "start_sec": 68.019,
+   "end_sec": 78.261,
+   "dur_sec": 10.242,
    "overlap": false,
-   "text": "I grant that predictions can be wrong, so review matters. But when resources are finite, unspoken rationing still happens. It hides decisions in waiting lists and private ability to pay, less accountable than a public standard."
+   "text": "Security cannot justify erasing a right. A negotiated process could manage numbers, timing, and practical concerns while still recognizing return as a principle. That is how compromise works without demanding surrender."
   },
   {
    "i": 9,
-   "speaker": "CON",
-   "code": null,
-   "start_sec": 107.42,
-   "end_sec": 121.78,
-   "dur_sec": 14.36,
-   "overlap": false,
-   "text": "When two patients need the same scarce intervention and clinicians judge one course unlikely to provide meaningful benefit, a limit can be justified. That condition matters: it is not permission to rank lives, and it requires explanation, appeal, and continued comfort care."
-  },
-  {
-   "i": 10,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 121.98,
-   "end_sec": 136.02,
-   "dur_sec": 14.04,
-   "overlap": false,
-   "text": "You said a limit can be justified when benefit is unlikely. But \"meaningful benefit\" can reflect a narrow view of living, not the patient's values. If you call that a fair standard, you still haven't shown who decides what counts as meaningful-"
-  },
-  {
-   "i": 11,
-   "speaker": "CON",
-   "code": null,
-   "start_sec": 136.22,
-   "end_sec": 149.7,
-   "dur_sec": 13.48,
-   "overlap": false,
-   "text": "Every patient deserves respectful care, whatever the prognosis. Public institutions should therefore guarantee a baseline of treatment and comfort for everyone, even when a particular scarce intervention cannot be offered. Equal dignity is broader than any single allocation decision."
-  },
-  {
-   "i": 12,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 149.9,
-   "end_sec": 163.3,
-   "dur_sec": 13.4,
-   "overlap": false,
-   "text": "The patient, with clinicians and an independent review process, should define meaningful goals; your question assumes a committee alone decides. But individual wishes can't create extra staff or equipment. A transparent limit protects those wishes from wealth-based competition."
-  },
-  {
-   "i": 13,
-   "speaker": "CON",
-   "code": null,
-   "start_sec": 163.5,
-   "end_sec": 178.26,
-   "dur_sec": 14.76,
-   "overlap": false,
-   "text": "You say patients define meaningful goals, yet your policy still lets a review body refuse the intervention. That is not control for the patient; it is a polite name for rationing. Review may correct mistakes, but it cannot remove the coercion scarcity creates."
-  },
-  {
-   "i": 14,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 178.46,
-   "end_sec": 193.22,
-   "dur_sec": 14.76,
-   "overlap": false,
-   "text": "That is why the urgent policy question is how people record choices before crisis. We need accessible conversations, plain-language directives, trained interpreters, and time for families to understand them. Hospitals should make those tools routine, so consent is informed rather than rushed."
-  },
-  {
-   "i": 15,
-   "speaker": "MOD",
-   "code": "B1",
-   "start_sec": 193.42,
-   "end_sec": 199.06,
-   "dur_sec": 5.64,
-   "overlap": false,
-   "text": "Can we please go back to the question at hand? We're going to go back to the question at issue."
-  },
-  {
-   "i": 16,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 199.26,
-   "end_sec": 212.82,
-   "dur_sec": 13.56,
-   "overlap": false,
-   "text": "On the motion, rationing is justified only as a last, publicly accountable limit, not as a shortcut. It must use relevant clinical criteria, protect comfort, allow appeal, and never treat disability or age as a reason to value someone less."
-  },
-  {
-   "i": 17,
-   "speaker": "CON",
-   "code": null,
-   "start_sec": 213.02,
-   "end_sec": 226.18,
-   "dur_sec": 13.16,
-   "overlap": false,
-   "text": "You call it a \"last, publicly accountable limit,\" but those safeguards don't answer the central harm. A person can still lose treatment because officials predict less value in their future, and public accountability does not make that judgment-"
-  },
-  {
-   "i": 18,
-   "speaker": "MOD",
-   "code": "A3-2",
-   "start_sec": 225.38,
-   "end_sec": 229.66,
-   "dur_sec": 4.28,
-   "overlap": true,
-   "text": "And now we move into closing statements from each debater in turn, starting with Joanna."
-  },
-  {
-   "i": 19,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 229.86,
-   "end_sec": 247.5,
-   "dur_sec": 17.64,
-   "overlap": false,
-   "text": "This motion turns on whether limits will be visible and fair, or hidden and unequal. Rationing should never mean abandoning a person. It means using scarce interventions by consistent criteria, hearing the patient, reviewing hard cases, and guaranteeing comfort. Without a shared limit, money and pressure decide first."
-  },
-  {
-   "i": 20,
-   "speaker": "MOD",
-   "code": "A2-2",
-   "start_sec": 247.7,
-   "end_sec": 256.54,
-   "dur_sec": 8.84,
-   "overlap": false,
-   "text": "Thank you, Joanna. And that is the motion, ration end-of-life care to ensure fair access when resources are scarce. And here to argue against the motion, Rima."
-  },
-  {
-   "i": 21,
-   "speaker": "CON",
-   "code": null,
-   "start_sec": 256.74,
-   "end_sec": 265.98,
-   "dur_sec": 9.24,
-   "overlap": false,
-   "text": "This motion turns on who holds the power to say no. A ration can make that refusal routine, while labels of benefit can discount disability, age, or a patient's own priorities."
-  },
-  {
-   "i": 22,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 265.28,
-   "end_sec": 266.68,
-   "dur_sec": 1.4,
-   "overlap": true,
-   "text": "But your fair limit still-"
-  },
-  {
-   "i": 23,
-   "speaker": "MOD",
-   "code": "A5",
-   "start_sec": 266.18,
-   "end_sec": 268.3,
-   "dur_sec": 2.12,
-   "overlap": true,
-   "text": "No, no, no. Hold on. Let Joanna."
-  },
-  {
-   "i": 24,
-   "speaker": "CON",
-   "code": null,
-   "start_sec": 268.5,
-   "end_sec": 278.14,
-   "dur_sec": 9.64,
-   "overlap": false,
-   "text": "Care should begin with the person's goals, not a scarcity formula. Better capacity, honest consent, and strong comfort care can protect patients without making refusal the policy."
-  },
-  {
-   "i": 25,
+   "src_i": 9,
    "speaker": "MOD",
    "code": "A4",
-   "start_sec": 277.72,
-   "end_sec": 278.56,
-   "dur_sec": 0.84,
+   "start_sec": 75.253,
+   "end_sec": 76.312,
+   "dur_sec": 1.059,
    "overlap": true,
    "text": "Well, now ten."
   },
   {
-   "i": 26,
+   "i": 10,
+   "src_i": 10,
    "speaker": "CON",
    "code": null,
-   "start_sec": 278.76,
-   "end_sec": 284.16,
-   "dur_sec": 5.4,
+   "start_sec": 78.461,
+   "end_sec": 84.37,
+   "dur_sec": 5.909,
    "overlap": false,
-   "text": "No one should lose essential care because a rule values one life less than another."
+   "text": "Peace built on surrendering identity will not last; recognizing return offers a firmer foundation."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 84.57,
+   "end_sec": 95.865,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "And that concludes round one. Now on to round two. That's where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 96.065,
+   "end_sec": 107.006,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "No, Palestinians should not give up the right itself merely because implementation is difficult. You can negotiate its exercise, but abandoning it rewards displacement and leaves no genuine path to justice."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 107.991,
+   "end_sec": 121.05,
+   "dur_sec": 13.059,
+   "overlap": false,
+   "text": "A settlement also needs schools, jobs, and public services that let families live securely instead of waiting for another crisis. Those needs matter, but they depend on accepting a limited return rather than preserving an unlimited claim."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 122.006,
+   "end_sec": 133.3,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "You have shifted from the right to general services, but that does not answer the central issue. Better schools cannot compensate for losing a claim to home, family connection, and equal recognition."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 133.508,
+   "end_sec": 143.743,
+   "dur_sec": 10.235,
+   "overlap": false,
+   "text": "A government also needs clear records, lawful borders, and budgets that people can trust. Officials must decide which documents count, how appeals work, and how public funds are distributed."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 143.943,
+   "end_sec": 152.767,
+   "dur_sec": 8.823,
+   "overlap": false,
+   "text": "But we've got to come away with something from this debate more concrete than just that palestinians should give up their full right of return."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 152.967,
+   "end_sec": 164.967,
+   "dur_sec": 12.0,
+   "overlap": false,
+   "text": "The motion asks whether the full right should remain. It should not, because a negotiated settlement can preserve dignity through compensation, family reunification, and acknowledgment while limiting return enough to protect two national futures."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 165.4,
+   "end_sec": 176.341,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "Can you explain why Palestinians alone must surrender a full right for peace, while the other side keeps its claims and expectations? If justice matters, why should compromise begin with their-"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 175.441,
+   "end_sec": 187.088,
+   "dur_sec": 11.647,
+   "overlap": true,
+   "text": "Because this is not surrender by one side alone; it is a mutual settlement of competing claims. Would you preserve an absolute right even if it made agreement impossible and harmed both futures?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 187.961,
+   "end_sec": 197.844,
+   "dur_sec": 9.882,
+   "overlap": false,
+   "text": "I accept that practical limits may be negotiated. But limits are different from giving up the right, and your motion demands the latter, so Palestinians should retain it."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 198.591,
+   "end_sec": 210.238,
+   "dur_sec": 11.647,
+   "overlap": false,
+   "text": "Your distinction is the key problem: preserving the full right keeps the dispute legally and politically open. Negotiating limited remedies is possible only after accepting that an unlimited return cannot govern the settlement."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 211.03,
+   "end_sec": 221.972,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "Imagine a family finding its former home occupied and being told history is settled by a payment. That shows why recognition and return must remain central, not be discarded for convenience."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 222.718,
+   "end_sec": 233.659,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "That example proves the need for recognition and compensation, not an unlimited entitlement. A remedy can honor loss while preventing a settlement from creating a new displacement and permanent political conflict."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 233.879,
+   "end_sec": 244.114,
+   "dur_sec": 10.235,
+   "overlap": false,
+   "text": "If a family has a genuine claim to its home, who are you to decide that compensation is enough? Should a political bargain be allowed to cancel that right?"
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 235.865,
+   "end_sec": 237.276,
+   "dur_sec": 1.412,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 26,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 244.321,
+   "end_sec": 246.665,
+   "dur_sec": 2.343,
+   "overlap": false,
+   "text": "No, the premise is wrong: the motion-",
+   "ext_file": "L001_ext_a32.wav",
+   "cut_at_sec": 246.665,
+   "full_dur_sec": 12.353
   },
   {
    "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 245.865,
+   "end_sec": 253.982,
+   "dur_sec": 8.118,
+   "overlap": true,
+   "text": "Time. All right, we're moving down to the home stretch in our final round. Rachel, you go first for this one as well."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 254.182,
+   "end_sec": 274.341,
+   "dur_sec": 20.159,
+   "overlap": false,
+   "text": "Rich's strongest point is that displacement caused real harm and deserves recognition. I agree with that harm, but recognition does not require preserving a full right that could prevent agreement forever. A durable settlement must protect Palestinian dignity while also protecting two peoples' security and self-determination. That means negotiated return, compensation, and family reunification, not an unlimited guarantee. The motion asks for realism, not forgetting."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 274.182,
+   "end_sec": 275.241,
+   "dur_sec": 1.059,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 274.541,
+   "end_sec": 283.382,
+   "dur_sec": 8.841,
+   "overlap": false,
+   "text": "Giving up the full right opens space for a settlement that can actually deliver homes, security, and opportunity. Justice is meaningful only when it can be secured and sustained."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 283.582,
+   "end_sec": 286.053,
+   "dur_sec": 2.471,
+   "overlap": false,
+   "text": "Okay. I want to go to Rich."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 286.253,
+   "end_sec": 304.253,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "Rachel is right that peace needs practical arrangements, but practicality cannot begin by asking Palestinians to abandon a basic right. Return carries memory, family ties, and recognition of displacement. Negotiate how it is exercised, certainly, but do not erase the principle. A just peace must acknowledge that right."
+  },
+  {
+   "i": 33,
+   "src_i": 35,
    "speaker": "MOD",
    "code": null,
-   "start_sec": 284.36,
-   "end_sec": 291.12,
-   "dur_sec": 6.76,
+   "start_sec": 304.453,
+   "end_sec": 310.806,
+   "dur_sec": 6.353,
    "overlap": false,
-   "text": "Thank you both. This debate on whether to ration end-of-life care is closed. The arguments and closing statements are now complete."
+   "text": "Thank you both for a thoughtful debate. The question of return, justice, and peace remains open for consideration."
   }
  ]
 }

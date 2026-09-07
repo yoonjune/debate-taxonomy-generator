@@ -1,0 +1,40 @@
+L019  |  It's Time to Expand Nuclear Power
+  MOD=Paula   PRO=Steve   CON=Matthew
+  crossfire 150s (actual 150.0s)
+
+--- phase 1 ---
+[t00] Paula(MOD): Welcome to the debate on the motion, "It's Time to Expand Nuclear Power." Steve will argue for it, and Matthew will argue against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Each closing lasts thirty seconds, with a ten-second cue before time ends.
+[t01] Steve(PRO): Expanding nuclear power is necessary for dependable, low-carbon electricity. It supports the grid when demand rises and reduces reliance on polluting fuels. We can build carefully, improve safety, and manage waste while meeting today's urgent energy needs.
+[t02] @A2-2 Paula(MOD): Matthew has the floor.
+[t03] Matthew(CON): Nuclear expansion is not a quick fix. New plants demand huge commitments, long construction, careful management, and a plan for waste. Those burdens compete with faster ways to reduce emissions. They also create risks that last beyond any single administration. Before expanding, we should prove existing problems are solved, not assume more reactors will solve them.
+[t04] @A4 <ovl> Paula(MOD): Ten seconds please.
+[t05] <cut> Matthew(CON): Even if operations are careful, accidents can spread harm, and waste needs protection for generations. People deserve choices about those risks, especially when cheaper, quicker options-
+[t06] @A1 <ovl> Paula(MOD): I have to step in because we hit our time limit.
+--- phase 2 ---
+[t07] @A3-1 Paula(MOD): Now we'll have the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t08] Steve(PRO): Your concern about long construction misses the decision before us. Existing plants can run while new capacity is built, and dependable power prevents fossil backup. Why reject expansion when the alternative keeps those risks?
+[t09] Matthew(CON): I reject the premise that expansion prevents fossil backup; delays and overruns can leave gaps. Building more reactors also ties up money that could cut emissions sooner, so expansion is not responsible now.
+[t10] Steve(PRO): I grant that waste requires serious safeguards. But safeguards do not replace dependable low-carbon power; expansion gives communities cleaner electricity and strengthens the grid when demand rises.
+[t11] Matthew(CON): Energy planning also involves jobs, training, and local infrastructure, which can benefit communities. But those side benefits do not erase the central issue: expansion brings lasting risks and is not the best way to cut emissions.
+[t12] Steve(PRO): When replacing an unsafe or polluting plant, nuclear expansion is responsible. It preserves reliable power while lowering emissions, provided regulators approve the design and communities receive clear protections.
+[t13] <cut> Matthew(CON): Can you guarantee that every proposed reactor will finish on time and on budget? If you cannot, why should taxpayers and communities accept expansion as-
+[t14] Steve(PRO): Nuclear power can be responsible even when no plant is being replaced. Any expansion that meets strict safety and waste standards can add reliable clean capacity, so waiting is unnecessary.
+[t15] Matthew(CON): I believe nuclear power should never be expanded. Every new reactor creates obligations for waste, safety, and cost that society should refuse, because cleaner alternatives can meet our needs.
+[t16] Steve(PRO): I grant that some projects can suffer delays. But that argues for disciplined planning, not abandoning the technology; nuclear expansion remains essential for reliable, low-carbon electricity.
+[t17] Matthew(CON): This reactor should be expanded now, because its design is tested, its site is prepared, and its power is needed. Rejecting this case would be irresponsible, so nuclear expansion remains a mistake.
+[t18] @B2 Paula(MOD): So, so while saying i believe nuclear power should never be expanded, you're saying this reactor should be expanded now?
+[t19] Matthew(CON): I mean never as a general policy, while this reactor is a special exception. Its unusual readiness changes the immediate judgment, but that does not make broad expansion wise.
+[t20] Steve(PRO): If one prepared reactor can provide reliable low-carbon power, why should other suitable projects be rejected before they are even assessed? Isn't careful expansion better than depending on dirtier backup?
+[t21] @A4 <ovl> Paula(MOD): You have ten seconds.
+[t22] <cut> Matthew(CON): Assessment is not approval, and your question quietly treats every suitable project as necessary. Many proposals will still be costly, slow, or risky, so your broad expansion remains-
+--- phase 3 ---
+[t23] @A3-2 <ovl> Paula(MOD): Time's up. And now we move on to Round three. And first to make his statement in support of the motion, Steve.
+[t24] Steve(PRO): The strongest objection is cost, but reliable clean power has lasting value. Careful standards can address safety and waste, while expansion cuts pollution and protects the grid.
+[t25] <ovl> <cut> Matthew(CON): Could I add that cost is not-
+[t26] @A5 <ovl> Paula(MOD): Let Steve say something, then you, and then we're going to wrap.
+[t27] Steve(PRO): reliable clean power has lasting value. We should judge projects carefully, not reject them all, because expanding nuclear capacity can cut pollution and strengthen the grid.
+[t28] @A4 <ovl> Paula(MOD): Well, now ten.
+[t29] Steve(PRO): The responsible choice is to expand safe nuclear power alongside other clean energy, not surrender reliability.
+[t30] @A2-2 Paula(MOD): All right, Matthew, come back.
+[t31] Matthew(CON): Steve's safeguards do not remove the long-term burden of waste, construction delays, or serious accidents. We need quicker, safer ways to cut pollution, so expanding nuclear power is not the right priority.
+[t32] Paula(MOD): Thank you both for a thoughtful debate. We will leave the question open for listeners to consider.

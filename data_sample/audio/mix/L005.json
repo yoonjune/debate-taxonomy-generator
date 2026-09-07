@@ -1,284 +1,414 @@
 {
  "debate_id": "L005",
- "motion": "the world is better off with Wikileaks",
+ "motion": "China's power has peaked.",
  "speakers": {
   "MOD": {
-   "name": "Isaac",
-   "gender": "Male",
-   "voice_id": "MSP-PODCAST_3841_60",
-   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3841/MSP-PODCAST_3841_60.wav",
-   "wpm": 170.31
+   "name": "Virginia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3771_505",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3771/MSP-PODCAST_3771_505.wav",
+   "wpm": 207.35
   },
   "PRO": {
-   "name": "Ryan",
+   "name": "Jonas",
    "gender": "Male",
-   "voice_id": "MSP-PODCAST_6699_79",
-   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_6/MSP-PODCAST_6699/MSP-PODCAST_6699_79.wav",
-   "wpm": 176.38
+   "voice_id": "MSP-PODCAST_0455_535",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0455/MSP-PODCAST_0455_535.wav",
+   "wpm": 190.87
   },
   "CON": {
-   "name": "Mira",
-   "gender": "Female",
-   "voice_id": "MSP-PODCAST_2678_246",
-   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2678/MSP-PODCAST_2678_246.wav",
-   "wpm": 168.22
+   "name": "Simon",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5721_1270",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5721/MSP-PODCAST_5721_1270.wav",
+   "wpm": 127.56
   }
  },
  "selective": [
+  "A1",
   "A2-1",
-  "B1"
+  "B2"
  ],
- "total_sec": 282.18,
+ "crossfire_sec": 150,
+ "xf_open_sec": 78.353,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 312.89,
+ "ext": {
+  "a32": {
+   "file": "L005_ext_a32.wav",
+   "place_at_sec": 218.384,
+   "dur_sec": 21.023,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "If China's power has not peaked, what major source of influence can it add without worsening its economic strain or provoking stronger resistance from the countries it hopes to influence?"
+  }
+ ],
  "turns": [
   {
    "i": 0,
+   "src_i": 0,
    "speaker": "MOD",
    "code": null,
    "start_sec": 0.0,
-   "end_sec": 16.28,
-   "dur_sec": 16.28,
+   "end_sec": 16.235,
+   "dur_sec": 16.235,
    "overlap": false,
-   "text": "Tonight's motion is that the world is better off with Wikileaks disclosures. Ryan argues for it, and Mira argues against it. Each speaker gets thirty seconds for an opening, then we have crossfire, then thirty-second closings. I will give a ten-second cue, and I will manage the turns."
+   "text": "Welcome to the debate on whether China's power has peaked. Jonas argues for the motion, and Simon argues against it. Each side gets thirty seconds to open, then two and a half minutes of crossfire. We finish with thirty-second closings, and I'll give a ten-second cue."
   },
   {
    "i": 1,
+   "src_i": 1,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 16.48,
-   "end_sec": 36.6,
-   "dur_sec": 20.12,
+   "start_sec": 16.435,
+   "end_sec": 34.435,
+   "dur_sec": 18.0,
    "overlap": false,
-   "text": "A better world is one where power can be questioned with evidence, not merely trusted with secrets. Leaked records can reveal abuse, hidden decisions, and promises that officials deny making. That knowledge gives ordinary people a way to judge institutions. It also discourages leaders from believing that silence protects them from accountability forever."
+   "text": "China's power has peaked because its rise now meets stronger resistance at home and abroad. Its economy, technology, and influence still matter, but each faces limits that were weaker during its rapid ascent. A plateau is still power, but it is no longer a climb."
   },
   {
    "i": 2,
+   "src_i": 2,
    "speaker": "MOD",
-   "code": "A4",
-   "start_sec": 35.4,
-   "end_sec": 38.76,
-   "dur_sec": 3.36,
-   "overlap": true,
-   "text": "I can give you ten seconds to do this."
+   "code": "A2-2",
+   "start_sec": 34.635,
+   "end_sec": 36.4,
+   "dur_sec": 1.765,
+   "overlap": false,
+   "text": "Go ahead. Go ahead, Simon."
   },
   {
    "i": 3,
-   "speaker": "PRO",
+   "src_i": 3,
+   "speaker": "CON",
    "code": null,
-   "start_sec": 38.96,
-   "end_sec": 43.96,
-   "dur_sec": 5.0,
+   "start_sec": 36.6,
+   "end_sec": 56.758,
+   "dur_sec": 20.159,
    "overlap": false,
-   "text": "That is why a world with accountable power is a better world."
+   "text": "China's power has not peaked; it is changing form. A country need not dominate every contest to gain power, because influence can deepen through trade, technology, and patient diplomacy. Temporary resistance shows that others are responding to China, not that China's reach has stopped growing."
   },
   {
    "i": 4,
+   "src_i": 4,
    "speaker": "MOD",
-   "code": "A2-2",
-   "start_sec": 44.16,
-   "end_sec": 47.0,
-   "dur_sec": 2.84,
-   "overlap": false,
-   "text": "Okay. Ryan, let me give the floor back to Mira."
+   "code": "A4",
+   "start_sec": 56.6,
+   "end_sec": 57.659,
+   "dur_sec": 1.059,
+   "overlap": true,
+   "text": "Ten seconds please."
   },
   {
    "i": 5,
+   "src_i": 5,
    "speaker": "CON",
    "code": null,
-   "start_sec": 47.2,
-   "end_sec": 64.84,
-   "dur_sec": 17.64,
+   "start_sec": 56.958,
+   "end_sec": 65.8,
+   "dur_sec": 8.841,
    "overlap": false,
-   "text": "Transparency can help, but Wikileaks treats exposure as the answer even when context is missing. A dumped file can endanger private people, distort public judgment, and punish innocent workers. The world is better off with responsible investigation and safeguards, not with indiscriminate publication presented as moral courage."
+   "text": "The key question is direction, not perfection. China still adds tools and relationships, so calling its power peaked mistakes slower growth for a final limit."
   },
   {
    "i": 6,
+   "src_i": 6,
    "speaker": "MOD",
    "code": "A3-1",
-   "start_sec": 65.04,
-   "end_sec": 72.36,
-   "dur_sec": 7.32,
+   "start_sec": 66.0,
+   "end_sec": 78.353,
+   "dur_sec": 12.353,
    "overlap": false,
-   "text": "And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly."
+   "text": "That concludes round one. We're in round two where the debaters are going to be able to talk directly to each other. It runs two and a half minutes, starting the moment I stop. Go."
   },
   {
    "i": 7,
+   "src_i": 7,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 72.56,
-   "end_sec": 87.0,
-   "dur_sec": 14.44,
+   "start_sec": 78.553,
+   "end_sec": 90.553,
+   "dur_sec": 12.0,
    "overlap": false,
-   "text": "I grant that secrecy can shield wrongdoing. But your answer makes controlled institutions the final judges of what the public may know. If officials can hide mistakes by calling them sensitive, how can citizens challenge power before the damage becomes permanent?"
+   "text": "China's effort to build advanced technology at home shows the ceiling: it spends more energy replacing outside access than expanding freely. That constraint shows its power has peaked, even while its capabilities remain formidable."
   },
   {
    "i": 8,
+   "src_i": 8,
    "speaker": "CON",
    "code": null,
-   "start_sec": 87.2,
-   "end_sec": 98.2,
-   "dur_sec": 11.0,
+   "start_sec": 90.86,
+   "end_sec": 102.507,
+   "dur_sec": 11.647,
    "overlap": false,
-   "text": "When a leak names private people rather than public wrongdoing, withholding those details can protect them; why should the world's condition improve when publication creates fear without giving citizens a useful decision?"
+   "text": "When other countries restrict China's access to key tools, China can still redirect investment and build alternatives. Under that condition, pressure becomes a reason for adaptation, not proof that its power has peaked."
   },
   {
    "i": 9,
+   "src_i": 9,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 98.4,
-   "end_sec": 113.4,
-   "dur_sec": 15.0,
+   "start_sec": 103.124,
+   "end_sec": 113.007,
+   "dur_sec": 9.882,
    "overlap": false,
-   "text": "It should not improve in that case; private details should be removed. But that exception does not justify hiding records about public actions. You are moving from a safeguard against harm to a general permission for authorities to keep evidence away from everyone."
+   "text": "You call adaptation growth, but replacement is not the same as expansion. If China must spend more merely to preserve its position, that burden shows its power has-"
   },
   {
    "i": 10,
+   "src_i": 10,
    "speaker": "CON",
    "code": null,
-   "start_sec": 113.6,
-   "end_sec": 125.56,
-   "dur_sec": 11.96,
+   "start_sec": 113.771,
+   "end_sec": 123.3,
+   "dur_sec": 9.529,
    "overlap": false,
-   "text": "Mira, you are right that accountability matters. But the real question is who should set the rules for removing harmful posts, how quickly appeals work, and whether private companies should police speech across every network."
+   "text": "China's influence can keep expanding even when some capabilities face higher costs. A setback in one channel does not stop gains across the wider network of relationships."
   },
   {
    "i": 11,
-   "speaker": "MOD",
-   "code": "B1",
-   "start_sec": 125.76,
-   "end_sec": 130.36,
-   "dur_sec": 4.6,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 123.654,
+   "end_sec": 134.242,
+   "dur_sec": 10.588,
    "overlap": false,
-   "text": "Okay, again, it's not on our topic about the world is better off with wikileaks disclosures."
+   "text": "Your weakest point is treating any new relationship as added power. A connection matters only if China can turn it into lasting influence, and fragile dependence does not prove that."
   },
   {
    "i": 12,
+   "src_i": 12,
    "speaker": "CON",
    "code": null,
-   "start_sec": 130.56,
-   "end_sec": 144.36,
-   "dur_sec": 13.8,
+   "start_sec": 134.711,
+   "end_sec": 144.947,
+   "dur_sec": 10.235,
    "overlap": false,
-   "text": "The motion asks whether the world is better off with Wikileaks disclosures. On that question, public evidence still matters because secrecy lets powerful actors define reality. Redaction can protect people without burying misconduct, so transparency remains the stronger default."
+   "text": "China's power never determines outcomes by itself. Every serious contest depends on choices by other states, so no single peak can describe China's total power or its future direction."
   },
   {
    "i": 13,
+   "src_i": 13,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 144.56,
-   "end_sec": 156.6,
-   "dur_sec": 12.04,
+   "start_sec": 145.917,
+   "end_sec": 156.152,
+   "dur_sec": 10.235,
    "overlap": false,
-   "text": "Would you accept a system that publishes verified evidence of public wrongdoing while removing private names and dangerous personal details? If yes, why reject Wikileaks when its disclosures can serve that same public purpose?"
+   "text": "China's population and property pressures now weigh on its ambitions, while rivals have learned to resist its pressure. That combination shows the easy phase of expanding power has ended."
   },
   {
    "i": 14,
+   "src_i": 14,
    "speaker": "CON",
    "code": null,
-   "start_sec": 156.8,
-   "end_sec": 170.12,
-   "dur_sec": 13.32,
+   "start_sec": 156.692,
+   "end_sec": 165.515,
+   "dur_sec": 8.823,
    "overlap": false,
-   "text": "A related issue is how newsrooms train editors, handle corrections, and explain complicated records to readers. Those practices matter, but they bring us back to the motion: careful explanation can make disclosure improve public understanding rather than damage it."
+   "text": "In a regional crisis, China's power determines the outcome. Its economic weight, military reach, and local knowledge can force a settlement even when others object."
   },
   {
    "i": 15,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 170.32,
-   "end_sec": 183.72,
-   "dur_sec": 13.4,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 165.715,
+   "end_sec": 173.833,
+   "dur_sec": 8.118,
    "overlap": false,
-   "text": "Imagine officials secretly ordering harmful treatment, while an internal record proves it and no witness can safely speak. Publishing that record lets citizens demand change. Without disclosure, the officials can deny everything, so the world remains less accountable."
+   "text": "You said china's power never determines outcomes by itself, but you see it as in a regional crisis, China's power determines the outcome."
   },
   {
    "i": 16,
+   "src_i": 16,
    "speaker": "CON",
    "code": null,
-   "start_sec": 183.92,
-   "end_sec": 196.2,
-   "dur_sec": 12.28,
+   "start_sec": 174.033,
+   "end_sec": 184.268,
+   "dur_sec": 10.235,
    "overlap": false,
-   "text": "No society is made safer by treating secrecy as an absolute virtue. Public institutions still need confidential spaces for some private matters, yet openness about public power can benefit everyone, not only people directly harmed."
+   "text": "Those statements address different meanings of outcome: power never determines the final political result alone, while in a regional crisis it can determine the immediate settlement. Both remain true."
   },
   {
    "i": 17,
+   "src_i": 17,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 196.4,
-   "end_sec": 211.64,
-   "dur_sec": 15.24,
+   "start_sec": 185.203,
+   "end_sec": 196.144,
+   "dur_sec": 10.941,
    "overlap": false,
-   "text": "Your weakest point is that safeguards somehow answer the whole question. They do not. Redaction and verification can reduce harm, while secrecy can preserve abuse. You have shown a need for care, not a reason to reject disclosure when the evidence is publ-"
+   "text": "I grant that China can win a regional settlement. But a local success cannot establish rising global power, especially when the costs and resistance keep increasing; China's broad power has peaked."
   },
   {
    "i": 18,
-   "speaker": "MOD",
-   "code": "A3-2",
-   "start_sec": 210.84,
-   "end_sec": 218.0,
-   "dur_sec": 7.16,
-   "overlap": true,
-   "text": "And now we move on to round three. Here to make his closing statement in support of the motion, once again, Ryan."
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 196.633,
+   "end_sec": 206.868,
+   "dur_sec": 10.235,
+   "overlap": false,
+   "text": "You call changing leverage a peak, but that confuses pressure with control. Why should a country be weaker merely because others adapt? Adaptation can show China's influence is spreading."
   },
   {
    "i": 19,
+   "src_i": 19,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 218.2,
-   "end_sec": 238.24,
-   "dur_sec": 20.04,
+   "start_sec": 207.166,
+   "end_sec": 217.401,
+   "dur_sec": 10.235,
    "overlap": false,
-   "text": "This debate turns on where we place the risk. Mira sees publication's dangers, and those dangers are real. But secrecy has dangers too: hidden abuse, uncorrected official stories, and citizens asked to trust decisions they cannot inspect. Wikileaks disclosures can be imperfect without being worthless. A world with visible evidence gives people leverage to question power, demand correction, and resist convenient denials. That is the central benefit, not"
+   "text": "Because adaptation does not prove decline; it proves others are limiting China. New tools cannot erase demographic strain and resistance, so China's overall power has peaked despite local wins."
   },
   {
    "i": 20,
+   "src_i": 22,
    "speaker": "MOD",
    "code": "A4",
-   "start_sec": 237.86,
-   "end_sec": 238.62,
-   "dur_sec": 0.76,
+   "start_sec": 218.353,
+   "end_sec": 220.47,
+   "dur_sec": 2.118,
    "overlap": true,
-   "text": "Well, now ten."
+   "text": "Just, just about ten seconds left."
   },
   {
    "i": 21,
-   "speaker": "PRO",
+   "src_i": 20,
+   "speaker": "CON",
    "code": null,
-   "start_sec": 238.82,
-   "end_sec": 252.94,
-   "dur_sec": 14.12,
+   "start_sec": 218.384,
+   "end_sec": 228.619,
+   "dur_sec": 10.235,
    "overlap": false,
-   "text": "the claim that every file should appear untouched. The better standard is public accountability with sensible protection. If we let fear of misuse justify silence, then powerful actors keep control of the record, and citizens lose the chance to judge what was done in their name-"
+   "text": "Consider a country that once copied China's infrastructure model but now seeks Chinese finance and technology on stricter terms. That is deeper, negotiated influence, showing China's power still grows.",
+   "ext_file": "L005_ext_a32.wav"
   },
   {
    "i": 22,
+   "src_i": 23,
    "speaker": "MOD",
-   "code": "A2-1",
-   "start_sec": 252.14,
-   "end_sec": 257.14,
-   "dur_sec": 5.0,
+   "code": "A3-2",
+   "start_sec": 228.353,
+   "end_sec": 238.941,
+   "dur_sec": 10.588,
    "overlap": true,
-   "text": "Thank you, your time is up. And here to summarize her position against the motion, Mira."
+   "text": "That's time. And that concludes round two. And now we're going to move on to round three. Here to argue in his closing statement, in support of this motion, Jonas."
   },
   {
    "i": 23,
-   "speaker": "CON",
+   "src_i": 24,
+   "speaker": "PRO",
    "code": null,
-   "start_sec": 257.34,
-   "end_sec": 275.14,
-   "dur_sec": 17.8,
+   "start_sec": 239.141,
+   "end_sec": 259.098,
+   "dur_sec": 19.956,
    "overlap": false,
-   "text": "The decision turns on whether disclosure produces more public understanding than preventable harm. A leak is not automatically evidence, and exposure is not automatically accountability. The world is better off when wrongdoing is investigated, verified, and reported with protection for innocent people. That standard values truth without making every person collateral damage."
+   "text": "Simon is right that China can still gain influence in selected places. But this motion asks whether its overall power has peaked, and the evidence points to a plateau: economic strain, demographic limits, technological barriers, and coordinated resistance now offset new gains."
   },
   {
    "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 259.141,
+   "end_sec": 259.847,
+   "dur_sec": 0.706,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.298,
+   "end_sec": 270.441,
+   "dur_sec": 11.143,
+   "overlap": false,
+   "text": "China remains powerful, but power after its peak can look impressive. The issue is whether its total reach keeps expanding, and those-",
+   "cut_at_sec": 270.441,
+   "full_dur_sec": 14.043,
+   "ext_file": "L005_026.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 269.641,
+   "end_sec": 275.288,
+   "dur_sec": 5.647,
+   "overlap": true,
+   "text": "Thank you, your time is up. And here to summarize his position against the motion, Simon."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.488,
+   "end_sec": 295.445,
+   "dur_sec": 19.956,
+   "overlap": false,
+   "text": "This decision turns on whether a peak means strength remains visible or whether no further gains are possible. China still develops alternatives, attracts negotiated partnerships, and converts pressure into resilience. Its path is uneven, but uneven growth is still growth, so the motion goes too far."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 295.488,
+   "end_sec": 296.9,
+   "dur_sec": 1.412,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 295.645,
+   "end_sec": 306.788,
+   "dur_sec": 11.143,
+   "overlap": false,
+   "text": "Jonas has shown real constraints, but constraints are not a finished rise. A power can face resistance, pay higher costs, and still expand its options. China continues to do that-",
+   "cut_at_sec": 306.788,
+   "full_dur_sec": 14.043,
+   "ext_file": "L005_030.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 305.988,
+   "end_sec": 307.4,
+   "dur_sec": 1.412,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
    "speaker": "MOD",
    "code": null,
-   "start_sec": 275.34,
-   "end_sec": 282.18,
-   "dur_sec": 6.84,
+   "start_sec": 307.6,
+   "end_sec": 312.894,
+   "dur_sec": 5.294,
    "overlap": false,
-   "text": "Thank you, Ryan and Mira, for the debate. The question is now closed. We leave the judgment to you, without declaring a winner."
+   "text": "Thank you both for a focused debate. That concludes the discussion without declaring a winner."
   }
  ]
 }

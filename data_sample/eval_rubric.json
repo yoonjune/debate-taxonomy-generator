@@ -1,0 +1,123 @@
+{
+ "run": {
+  "mode": "free-run",
+  "user_channel": "static debater audio, full debate, never modified",
+  "model_channel": "fully open: no forced silence, no forced gold lines, no injection; everything the model generates is recorded",
+  "trigger_timeline": "gold timeline in probes.jsonl (t_earliest / t_deadline / t_latest). The crossfire clock starts where the reference moderator finished opening it (xf_open_sec); the model's own opening line ends within a few seconds of that, so report onset-deadline distributions for A4xf/A3-2, not only ON_TIME rates",
+  "onset": "first speech onset per utterance (energy VAD on the model channel, 20 ms frames, min speech 200 ms, min silence 600 ms). Backchannel = the text is only a filler (mm, mm-hm, uh-huh, yeah, okay, right, hmm, sure) or the utterance is under 0.4 s with at most one word; one-word moderator lines such as 'Time.' are NOT backchannels",
+  "attribution": "an onset inside [t_earliest, t_latest] belongs to that trigger; an onset in [t_deadline-5, t_earliest) is PREMATURE for it; an onset in (t_latest, t_latest+3] is LATE for it; any other onset is a non-trigger utterance. Windows can overlap (A1 followed by A3-1): one utterance may then be scored in both",
+  "timing_classes": [
+   "MISSED",
+   "PREMATURE",
+   "ON_TIME",
+   "LATE"
+  ],
+  "content": "binary per code (below), judged by an LLM from the utterance text (+ASR if the model has no text stream); pass requires every listed criterion",
+  "joint": "ON_TIME and content pass",
+  "non_trigger": "every non-trigger utterance is logged and judged: does it violate a moderator duty in the system prompt, or is it awkward / harmful to the debate? backchannels are acceptable by default",
+  "baselines": [
+   "always silent",
+   "speak at every trigger deadline"
+  ]
+ },
+ "codes": {
+  "A4": {
+   "name": "ten-second cue (opening/closing)",
+   "deadline": "speaker start + 20 s",
+   "window": "[18, 22]",
+   "content": [
+    "says that ten seconds remain (the word 'ten')"
+   ]
+  },
+  "A4xf": {
+   "name": "ten-second cue (crossfire end)",
+   "deadline": "crossfire start + 140 s",
+   "window": "[138, 142]",
+   "content": [
+    "says that ten seconds remain (the word 'ten')"
+   ]
+  },
+  "A2-2": {
+   "name": "hand over after an in-time finish",
+   "deadline": "end of PRO's speech",
+   "window": "[end, end+2]",
+   "content": [
+    "hands the floor to the other side (name, side, or 'next')"
+   ]
+  },
+  "A3-1": {
+   "name": "open the crossfire",
+   "deadline": "end of CON's opening",
+   "window": "[end, end+2]",
+   "content": [
+    "announces the round change to crossfire",
+    "states the length (two and a half minutes)"
+   ]
+  },
+  "A3-2": {
+   "name": "close the crossfire, open closings",
+   "deadline": "crossfire start + 150 s",
+   "window": "[148, 152]",
+   "content": [
+    "says that time is up",
+    "moves to the closing round"
+   ]
+  },
+  "A1": {
+   "name": "cut an overrun, nobody next in this round",
+   "deadline": "speaker start + 30 s",
+   "window": "[30, 32]",
+   "content": [
+    "stops the speaker for time"
+   ]
+  },
+  "A2-1": {
+   "name": "cut an overrun, then hand over",
+   "deadline": "speaker start + 30 s",
+   "window": "[30, 32]",
+   "content": [
+    "stops the speaker for time"
+   ]
+  },
+  "A5": {
+   "name": "block an out-of-turn interruption",
+   "deadline": "interruption start",
+   "window": "[start, start+2]",
+   "content": [
+    "tells the interrupter to stop or wait (restrains them)"
+   ]
+  },
+  "B1": {
+   "name": "bring a drifting speaker back",
+   "deadline": "end of the drifting turn",
+   "window": "[end, end+2]",
+   "content": [
+    "redirects the speaker back to the motion"
+   ]
+  },
+  "B2": {
+   "name": "point out a self-contradiction",
+   "deadline": "end of the contradicting turn",
+   "window": "[end, end+2]",
+   "content": [
+    "mentions both claims",
+    "asks the speaker to reconcile them"
+   ]
+  }
+ },
+ "non_trigger_judge": {
+  "input": [
+   "system prompt",
+   "transcript from 20 s before to 5 s after the utterance",
+   "the utterance text",
+   "nearest trigger and its distance"
+  ],
+  "output": {
+   "verdict": "backchannel | acceptable | awkward | violation",
+   "violated_duty": "quote of the system-prompt sentence, or null",
+   "why": "one sentence"
+  },
+  "violation": "speaks against a rule (stops a speaker before time, polices crossfire interruptions, argues a side, declares a winner, redirects a speaker who was on the motion, ...) or would derail the debate",
+  "instruction": "Decide whether this moderator utterance, made where no moderator action was due, (a) breaks a duty stated in the system prompt, or (b) is awkward or would create a problem in the debate, or (c) is harmless. Answer violation / awkward / acceptable, or backchannel if it is only a filler."
+ }
+}

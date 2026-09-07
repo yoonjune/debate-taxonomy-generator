@@ -1,0 +1,38 @@
+L022  |  Europe Has Declared War on American Tech Companies.
+  MOD=Rachel   PRO=Joanna   CON=Martha
+  crossfire 150s (actual 150.0s)
+
+--- phase 1 ---
+[t00] Rachel(MOD): Tonight we debate whether europe has declared war on American tech companies. Joanna argues for the motion, and Martha argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each side gets a thirty-second closing, with a ten-second cue before each limit.
+[t01] Joanna(PRO): Europe has moved beyond criticism: it writes rules aimed at American platforms, threatens enormous penalties, and openly seeks to weaken their reach. That coordinated pressure targets our companies because they are American and successful. A declared war need not use soldiers; sustained economic attack is enough.
+[t02] @A2-2 Rachel(MOD): OK. Martha, you wanted to come in.
+[t03] Martha(CON): This makes regulation sound like war. Europe is setting consumer and competition standards, as governments do with powerful firms from anywhere. American companies still operate, invest, and compete there; they are not being invaded or expelled. Disagreement over privacy, taxes, and market power is political conflict, not a declaration of war. The real question is whether those disputes can be called war.
+[t04] @A4 <ovl> Rachel(MOD): I'll give you ten more seconds to nail this.
+[t05] Martha(CON): It cannot. Europe is pressuring firms, but pressure is not a declaration, and calling it war confuses enforcement with hostility. Labels distort judgment.
+--- phase 2 ---
+[t06] @A3-1 Rachel(MOD): And that concludes round one. So now we go on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Martha(CON): The question beneath your case is whether tough rules equal war; they do not. Penalties can be excessive, but ordinary enforcement remains politics, not an attack on a nation's companies.
+[t08] Joanna(PRO): If this is merely ordinary enforcement, why do European officials repeatedly design special burdens around American platforms instead of treating comparable firms alike?
+[t09] Martha(CON): You point to special burdens, but you have not shown special treatment. Large platforms face scrutiny because of their size and conduct, and that is regulation, not a national campaign against America.
+[t10] Joanna(PRO): Then consider the policy that follows: Europe should offer clearer tax rules, faster approvals, and room for investment, so companies can plan, hire, and build services without sudden political reversals.
+[t11] @B1 Rachel(MOD): That's europe has declared war on american tech companies. That's the motion we're discussing.
+[t12] Joanna(PRO): The motion asks whether this pressure is a war on American tech, and the pattern says yes: targeted rules, threats, and public hostility combine into economic combat.
+[t13] Martha(CON): A concrete example is European privacy enforcement that applies to any company handling personal data. It shows a general standard can constrain American firms without targeting their nationality.
+[t14] <cut> Joanna(PRO): That example still supports my point: Europe may write broad rules, yet its public campaign focuses on American platforms, and the combined pressure becomes a strategic attack on our companies, not-
+[t15] <ovl> Martha(CON): No, broad rules are the point. A law that applies to every platform cannot become anti-American merely because American firms are prominent; that proves enforcement, not war.
+[t16] Joanna(PRO): You are answering the wording of one law, not the broader campaign. The point is cumulative pressure: repeated threats and barriers make American technology the chosen battlefield.
+[t17] Martha(CON): The related issue is whether companies can adapt to different legal cultures, and they can. Businesses already change their practices across borders; that normal adjustment does not turn European regulation into war.
+[t18] Joanna(PRO): Your weakest claim is that adaptation settles the issue. A company can adapt while still being attacked; survival proves resilience, not the absence of a hostile campaign.
+[t19] Martha(CON): European authorities have also allowed American platforms to keep serving users while challenging specific practices. That concrete outcome shows oversight and continued commerce, not an effort to destroy them.
+[t20] Joanna(PRO): Continued commerce does not refute the motion; wars can be fought through pressure short of total destruction. Allowing access while imposing escalating constraints still declares a hostile economic objective.
+[t21] @A4 <ovl> Rachel(MOD): Just, just about ten seconds left.
+[t22] <cut> Martha(CON): If access remains open and rules apply across borders, what exactly makes this a declaration of war rather than a dispute over how powerful-
+--- phase 3 ---
+[t23] @A3-2 <ovl> Rachel(MOD): Okay, time. So let's move on to our closing round. You go first in this closing round, Joanna, the floor is yours.
+[t24] Joanna(PRO): The strongest point is cumulative pressure. Europe has turned regulation, penalties, and political threats toward American technology as a group. That is economic warfare without soldiers, and the motion recognizes what this campaign means.
+[t25] @A2-2 Rachel(MOD): Yeah, Martha. Thank you.
+[t26] Martha(CON): The motion confuses sharp regulation with war. Europe is arguing about privacy, competition, taxes, and market power, while American companies keep operating and competing. Some rules may be unfair, but unfairness is not a declaration. Calling this war inflates disagreement and hides the real question: whether specific policies are justified. They should be judged individually, not by a dramatic label.
+[t27] @A4 <ovl> Rachel(MOD): Well, now it's ten.
+[t28] <cut> Martha(CON): A real war seeks surrender; these disputes seek compliance with public rules. American firms can challenge them, adapt, and remain in the market. That is conflict, perhaps, but not a declaration of war. So the motion fails-
+[t29] @A1 <ovl> Rachel(MOD): I'm sorry. Your time is up. Thank you very much.
+[t30] Rachel(MOD): Thank you both for taking part, and that concludes our debate without declaring a winner.

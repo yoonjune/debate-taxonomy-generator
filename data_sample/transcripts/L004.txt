@@ -1,32 +1,40 @@
-L004  |  Give undocumented immigrants a path to citizenship.
-  MOD=Joanne   PRO=Christina   CON=Nadine
+L004  |  When it comes to politics, the internet is closing our minds.
+  MOD=Genevieve   PRO=Nigel   CON=Lloyd
+  crossfire 150s (actual 150.0s)
 
 --- phase 1 ---
-[t00] Joanne(MOD): The motion is to give undocumented immigrants a path to citizenship. Christina supports it; Nadine opposes it. Each opening lasts thirty seconds. Then comes crossfire, with direct questions and answers. Finally, each side gets a thirty-second closing. I will give a ten-second cue during openings and closings. Stay concise, address the motion, and let each speaker finish.
-[t01] Christina(PRO): A path to citizenship brings undocumented residents into the law instead of leaving them in a permanent shadow. It can require identity checks, taxes, language learning, and a clean record. That is not a free pass. It is a demanding route that rewards responsibility, protects families, and lets government know who is here. The alternative leaves families vulnerable and communities less safe.
-[t02] @A4 <ovl> Joanne(MOD): Ten seconds from this side?
-[t03] Christina(PRO): A legal route makes accountability possible, not optional, and strengthens trust in government.
-[t04] @A2-2 Joanne(MOD): Nadine, take the response.
-[t05] Nadine(CON): Nadine opposes this motion because citizenship is a serious legal status, not simply a reward for remaining in a country. A broad path may encourage more unlawful entry and disadvantage people who waited through formal channels. We can address long-term residents humanely without promising citizenship to everyone who entered without authorization.
+[t00] Genevieve(MOD): Welcome to the debate on the motion: when it comes to politics, the internet is closing our minds. Nigel takes the FOR side, and Lloyd takes the AGAINST side. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then come thirty-second closings, with a ten-second cue before each limit.
+[t01] Nigel(PRO): When political debate moves online, platforms sort people into agreeable camps. I see the same slogans repeated until doubt feels like betrayal. That narrows what citizens can imagine and makes compromise harder, so the internet is closing our political minds in everyday public life.
+[t02] @A2-2 Genevieve(MOD): You guys want to respond? Lloyd.
+[t03] Lloyd(CON): The internet can narrow a conversation, but that is not the whole picture. It also lets people encounter arguments they would never hear locally, check claims, and organize around neglected concerns. Minds close when we refuse challenge, not simply because a screen offers familiar voices. The motion blames a tool for a choice.
+[t04] @A4 <ovl> Genevieve(MOD): Lloyd, ten seconds.
+[t05] <cut> Lloyd(CON): People can leave a group, read a rival view, and change their mind; that possibility matters. The internet does not dictate thought, and blaming it hides our responsibility-
+[t06] @A1 <ovl> Genevieve(MOD): I'm sorry, I'm sorry. Hit time.
 --- phase 2 ---
-[t06] @A3-1 Joanne(MOD): And that concludes round one. Now we move on to round two in our debate. Round two is where the debaters address one another directly.
-[t07] Nadine(CON): Consider a worker who has lived here for years, paid what was required, and raised children here, yet remains afraid to report wage theft. A citizenship path gives that worker legal security and makes abuse easier to challenge. That is a practical reason to support it.
-[t08] <cut> Christina(PRO): You call that security, but your example assumes waiting makes a person trustworthy. A path can reward someone who entered unlawfully while others followed rules. Citizenship needs a fair standard, not a blanket promise that everyone qualifies immediately-
-[t09] <ovl> Nadine(CON): That is exactly why the path can include screening. You treat unlawful entry as permanently disqualifying, but the motion asks for an earned process. A person who passes checks, pays obligations, and meets conditions can become a citizen without erasing the original violation.
-[t10] Christina(PRO): Screening is useful, but societies have always argued over who counts as a member. Ancient rulers recorded foreigners at city gates, and old empires taxed newcomers differently from locals. Those stories show that membership rules change when economies and borders change.
-[t11] @B1 Joanne(MOD): But, how do you relate that to give undocumented immigrants a path to citizenship? Land that on give undocumented immigrants a path to citizenship.
-[t12] Christina(PRO): My position is simple: every undocumented immigrant deserves a path to citizenship, provided the path includes real requirements. The route can be demanding, but it must be available. A government should not make permanent exclusion the default for people who can meet lawful conditions.
-[t13] Nadine(CON): I reject the premise that every undocumented immigrant deserves that path. A country may create a limited process for people who meet strict conditions, but it need not promise citizenship to all. Broad eligibility weakens deterrence and asks lawful applicants to accept an unfair shortcut.
-[t14] Christina(PRO): For someone who arrived as a child and built a stable life, citizenship should be available. For someone convicted of serious violence, removal may be justified. Between those examples, neither automatic approval nor rejection is fair; officials should weigh conduct and ties.
-[t15] @B2 Joanne(MOD): You accuse every undocumented immigrant deserves a path to citizenship, but when I give you two examples, you sit on the fence and say it's neither.
-[t16] Christina(PRO): Those positions fit because a right to seek a path is not a guarantee of approval. Everyone should be allowed to present an application, while the decision can depend on conduct, identity, and other requirements. Offering a route is universal; granting citizenship remains conditional.
-[t17] Nadine(CON): You just said, "Everyone should be allowed to present an application," then called citizenship conditional. That sounds like a path in name only. Your phrase "neither automatic approval nor rejection" leaves officials broad discretion, while applicants still face uncertainty and the original violation remains blurred.
-[t18] <cut> Christina(PRO): If your process can deny citizenship to a person who meets every stated requirement, what does a path promise? And if officials may reject someone after years of compliance, why trust your route to be more than temporary permission that-
+[t07] @A3-1 Genevieve(MOD): And now we move on to round two where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t08] Lloyd(CON): I grant that some online discussions become narrow. But your conclusion blames the medium instead of asking whether users can seek better sources. People retain agency, so political thinking is not automatically closed.
+[t09] Nigel(PRO): If the internet truly keeps minds open, why do its political spaces so often reward outrage and repetition over listening? You say users have choices, but the system repeatedly steers those choices toward comfortable agreement.
+[t10] Lloyd(CON): A voter can watch a sharp critic explain the opposite position, then join a discussion with people from different backgrounds. That concrete exchange shows the internet can widen political understanding rather than close it.
+[t11] Nigel(PRO): That example answers access, not influence. Finding a critic does not matter if outrage buries the argument and repeated group approval makes one view feel unquestionably true; that is how online politics narrows minds.
+[t12] Lloyd(CON): People also worry about privacy, harassment, and whether a careless comment follows them forever. Those concerns can make discussion cautious, but they are separate from the motion. The internet still gives political thought more doors than walls.
+[t13] Nigel(PRO): Your weakest point is that more doors mean more openness. A door is useless when attention is steered toward familiar slogans, and the loudest reactions punish curiosity; political minds can close while choices remain visible.
+[t14] Lloyd(CON): I grant that attention can be steered. But steering is not control, and citizens can compare sources, leave hostile groups, or ask uncomfortable questions. Since those routes remain available, the internet does not inherently close political minds.
+[t15] Nigel(PRO): When every click teaches a platform which political feeling keeps you engaged, how can you call that freedom enough? If the easiest path is constant agreement, doesn't the internet quietly train people to reject challenge?
+[t16] <cut> Lloyd(CON): A person may follow several rival commentators, discover a shared concern, and revise an old belief. That example shows online choice can create curiosity and political openness, not just reinforce a-
+[t17] <ovl> Nigel(PRO): But that person is exceptional, not typical; the design still rewards agreement. When feeds keep serving familiar anger, repeated exposure turns preference into certainty, and the internet closes minds at scale.
+[t18] Lloyd(CON): No, the premise that typical users cannot resist a feed is false. Many people deliberately compare viewpoints and discuss them with others. The internet supplies tools for openness, so responsibility remains with the user.
+[t19] <cut> Nigel(PRO): Your answer treats deliberate comparison as common enough to settle the issue, but it ignores passive exposure. Most political impressions arrive before reflection, and repetition makes a narrow frame feel like-
+[t20] @A4 <ovl> Genevieve(MOD): Ten seconds left in the crossfire.
 --- phase 3 ---
-[t19] @A3-2 <ovl> Joanne(MOD): And that concludes round two of this debate. We're going to go to closing arguments now. And so, first up, Christina.
-[t20] Christina(PRO): Nadine's strongest point is that citizenship should not be handed out casually. I agree. That is why this motion supports a demanding path with screening, taxes, language, and a clean record. But opposing a path altogether turns one violation into a permanent sentence. People who work, raise families, and meet clear conditions should have a way to belong legally.
-[t21] @A4 <ovl> Joanne(MOD): Ten seconds for last word.
-[t22] <cut> Christina(PRO): A fair process can protect borders while recognizing responsibility. It can deny applicants who fail serious requirements, but it should not deny everyone before they apply. Citizenship is earned through standards, and those standards matter only when the door is actually open to-
-[t23] @A2-1 <ovl> Joanne(MOD): Your time is up, Christina. Thank you. And here to summarize her position against the motion, Nadine.
-[t24] Nadine(CON): Christina's proposal sounds conditional, but her central claim reaches everyone. That is the problem. A path can be narrow, temporary, and carefully reviewed without becoming a general promise of citizenship. The law should reward lawful conduct and preserve consequences for unlawful entry. Compassion can guide policy without making citizenship the expected result.
-[t25] Joanne(MOD): Thank you, Christina and Nadine. This debate is closed. We have heard arguments for an earned path and concerns about fairness and enforcement.
+[t21] @A3-2 <ovl> Genevieve(MOD): Okay, time. Round three, closing statements by each debater in turn. Let's go to the first of these speakers. Speaking for the motion, Nigel.
+[t22] Nigel(PRO): The strongest point is not that every user is trapped. It is that political platforms repeatedly reward agreement, anger, and certainty, while making patient challenge less visible. Even when opposing views exist, the surrounding design trains attention toward familiar camps. That changes what feels reasonable, and it closes public thinking.
+[t23] @A4 <ovl> Genevieve(MOD): Well, now it's ten.
+[t24] <cut> Nigel(PRO): Lloyd is right that people retain some choice, but a choice shaped by constant repetition is not full openness. When politics becomes performance for one's own side, curiosity fades, compromise looks weak, and-
+[t25] @A2-1 <ovl> Genevieve(MOD): You're out of time. And here to summarize his position, Lloyd.
+[t26] Lloyd(CON): The internet can amplify certainty, but it also gives people unprecedented access to rival arguments. That power to compare and revise means the tool does not close minds.
+[t27] <ovl> <cut> Nigel(PRO): Access alone is not openness. When the-
+[t28] @A5 <ovl> Genevieve(MOD): Let him finish.
+[t29] Lloyd(CON): It is still possible to search beyond that shield, question a group, and change course. Those actions are real, common choices, not imaginary exceptions, and they show the internet can support open political thinking.
+[t30] @A4 <ovl> Genevieve(MOD): Ten seconds.
+[t31] Lloyd(CON): The internet offers risks, but human judgment decides whether those risks become closed minds.
+[t32] Genevieve(MOD): Thank you both for a thoughtful debate. This discussion is now closed, with no winner declared tonight, formally.

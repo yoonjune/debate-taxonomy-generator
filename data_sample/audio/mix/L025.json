@@ -1,0 +1,430 @@
+{
+ "debate_id": "L025",
+ "motion": "The Egyptian military is not interested in genuine reform",
+ "speakers": {
+  "MOD": {
+   "name": "Mira",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0461_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0461/MSP-PODCAST_0461_33.wav",
+   "wpm": 121.62
+  },
+  "PRO": {
+   "name": "Frederick",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5175_529",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5175/MSP-PODCAST_5175_529.wav",
+   "wpm": 147.55
+  },
+  "CON": {
+   "name": "Sheldon",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6917_368",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_6/MSP-PODCAST_6917/MSP-PODCAST_6917_368.wav",
+   "wpm": 194.31
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 81.094,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 290.04,
+ "ext": {
+  "a32": {
+   "file": "L025_ext_a32.wav",
+   "place_at_sec": 222.438,
+   "dur_sec": 30.047,
+   "src_i": 24
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "A commander who accepts an independent audit, publishes the findings, and corrects abuses demonstrates reform in practice. That example shows conduct, not guessed motives, should decide this motion."
+  },
+  {
+   "src_i": 26,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Your independent-audit example shows compliance, not enthusiasm. A compelled correction can improve conduct while leaving the institution opposed to change, so it does not disprove my point."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.0,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "The motion is \"the Egyptian military is not interested in genuine reform.\" Frederick takes the FOR side; Sheldon takes the AGAINST side. Each opening gets thirty seconds. Crossfire lasts two and a half minutes, followed by thirty-second closings. I'll give a ten-second cue, and I may cut in when time ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.2,
+   "end_sec": 36.2,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "The military protects its privileges while presenting limited change as reform. Genuine reform would surrender lasting control over budgets, courts, and security decisions, yet its gestures preserve those levers. That pattern shows interest in appearance, not transformation."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.4,
+   "end_sec": 37.812,
+   "dur_sec": 1.412,
+   "overlap": false,
+   "text": "Okay. Sheldon, you're in."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 38.012,
+   "end_sec": 47.86,
+   "dur_sec": 9.848,
+   "overlap": false,
+   "text": "The military can support reform without abandoning every institutional safeguard. Limited steps may build civilian capacity and trust, so gradual change does not prove bad faith."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 46.96,
+   "end_sec": 49.26,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "Gradual change is exactly the shield: promise-",
+   "cut_at_sec": 49.26,
+   "full_dur_sec": 8.471,
+   "ext_file": "L025_004.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 48.46,
+   "end_sec": 49.872,
+   "dur_sec": 1.412,
+   "overlap": true,
+   "text": "Let him answer please."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 50.072,
+   "end_sec": 60.314,
+   "dur_sec": 10.242,
+   "overlap": false,
+   "text": "Reform can begin with limited oversight and still become meaningful. If civilian bodies gain authority, revise rules, and test compliance, the military's willingness to accept those steps supports genuine reform."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 58.012,
+   "end_sec": 59.071,
+   "dur_sec": 1.059,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 60.514,
+   "end_sec": 66.423,
+   "dur_sec": 5.909,
+   "overlap": false,
+   "text": "You cannot call every gradual process a disguise; real acceptance can grow through tested steps."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 66.623,
+   "end_sec": 81.094,
+   "dur_sec": 14.471,
+   "overlap": false,
+   "text": "And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 81.294,
+   "end_sec": 90.471,
+   "dur_sec": 9.176,
+   "overlap": false,
+   "text": "Your gradual process is not proof of reform; controlled oversight can be cosmetic. If the military keeps final vetoes, its interest remains limited to managed change."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 90.857,
+   "end_sec": 100.034,
+   "dur_sec": 9.176,
+   "overlap": false,
+   "text": "Consider officers accepting a civilian review panel, publishing its decisions, and obeying a ruling that cuts their authority. That concrete surrender shows interest in genuine reform."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 100.926,
+   "end_sec": 110.455,
+   "dur_sec": 9.529,
+   "overlap": false,
+   "text": "That panel would need trained staff, clear filing rules, and secure records. Building those records resembles the careful work of preserving old manuscripts in a national archive."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 110.655,
+   "end_sec": 120.538,
+   "dur_sec": 9.882,
+   "overlap": false,
+   "text": "But, how do you relate that to the egyptian military is not interested in genuine reform? Land that on the egyptian military is not interested in genuine reform."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 120.738,
+   "end_sec": 131.326,
+   "dur_sec": 10.588,
+   "overlap": false,
+   "text": "It relates directly because accepting that panel means surrendering a veto, not merely announcing change. A military that permits independent rulings shows genuine reform is possible, but yours has not."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 131.952,
+   "end_sec": 143.246,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "The issue also touches school curricula and public trust, since citizens learn what institutions model. Still, those details matter only because durable civilian authority is the test, and that test remains unmet."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 144.169,
+   "end_sec": 150.169,
+   "dur_sec": 6.0,
+   "overlap": false,
+   "text": "No military ever accepts reform that limits its power. Its public promises are therefore tactics, not transformation."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 150.845,
+   "end_sec": 159.668,
+   "dur_sec": 8.823,
+   "overlap": false,
+   "text": "That rule is too absolute: a military can accept limits when civilian institutions make them binding. Your conclusion confuses unwillingness with the absence of reform."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 159.869,
+   "end_sec": 168.692,
+   "dur_sec": 8.823,
+   "overlap": false,
+   "text": "In one budget review, it accepted reform that limited its power. That case proves institutional pressure can force genuine change, even if motives remain mixed."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 168.892,
+   "end_sec": 179.128,
+   "dur_sec": 10.235,
+   "overlap": false,
+   "text": "But doesn't your argument for no military ever accepts reform that limits its power fight your argument that in one budget review, it accepted reform that limited its power?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 179.328,
+   "end_sec": 190.622,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "I mean the military does not willingly accept such reform; a civilian budget review can impose it despite resistance. Forced compliance shows reform is possible, not that the military genuinely wants it."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 191.56,
+   "end_sec": 201.442,
+   "dur_sec": 9.882,
+   "overlap": false,
+   "text": "That distinction empties your claim of meaning: if the military accepts limits, genuine reform exists, whatever its private motives. Calling imposed change irrelevant simply protects your conclusion because-"
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 200.542,
+   "end_sec": 210.777,
+   "dur_sec": 10.235,
+   "overlap": true,
+   "text": "No, imposed limits matter precisely because they expose resistance. If reform occurs only under pressure, that proves the military is not interested in genuine reform; outcomes cannot erase motive."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 211.607,
+   "end_sec": 221.489,
+   "dur_sec": 9.882,
+   "overlap": false,
+   "text": "If civilian institutions can impose binding limits and the military obeys them, what exactly would count as genuine reform under your standard? Must the military welcome losing power?"
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 221.094,
+   "end_sec": 222.506,
+   "dur_sec": 1.412,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 25,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 222.438,
+   "end_sec": 231.894,
+   "dur_sec": 9.456,
+   "overlap": false,
+   "text": "Binding limits count as reform, but obedience under pressure does not show interest in it. Your example proves civilian leverage can work, while my claim concerns the-",
+   "ext_file": "L025_ext_a32.wav",
+   "cut_at_sec": 231.894,
+   "full_dur_sec": 10.235
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 231.094,
+   "end_sec": 234.623,
+   "dur_sec": 3.529,
+   "overlap": true,
+   "text": "Time's up. This concludes round two of the debate. Frederick."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 234.823,
+   "end_sec": 254.982,
+   "dur_sec": 20.159,
+   "overlap": false,
+   "text": "Sheldon's best point is that imposed limits can still produce useful reform. I agree that outcomes matter, but this motion asks about the military's interest, not whether pressure can extract concessions. Its controlled reviews, preserved vetoes, and selective compliance reveal a desire to manage change while retaining power. Genuine reform requires."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 254.823,
+   "end_sec": 258.0,
+   "dur_sec": 3.176,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 255.182,
+   "end_sec": 264.023,
+   "dur_sec": 8.841,
+   "overlap": false,
+   "text": "The issue is whether the military seeks to surrender power. Its pattern says no: pressure wins concessions, but not genuine reform. That is why the motion stands."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 264.223,
+   "end_sec": 265.988,
+   "dur_sec": 1.765,
+   "overlap": false,
+   "text": "Just one brief comment, Sheldon."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.188,
+   "end_sec": 284.188,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "This motion turns on evidence, not suspicion. A military can resist some proposals yet accept independent oversight, obey civilian rulings, and correct abuses; those are genuine reforms. Frederick keeps treating mixed motives as proof of total disinterest, but real institutions change unevenly. Judge the reforms they permit, not the motives we imagine."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 284.388,
+   "end_sec": 290.035,
+   "dur_sec": 5.647,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate; this debate is now closed, with no winner declared."
+  }
+ ]
+}

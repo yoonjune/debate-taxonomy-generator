@@ -26,6 +26,13 @@ link + 자동검사 + 의미검사 한계**를 함께 보여준다.
 각 sample 폴더에는 사람이 읽는 `sample.md` 외에도 원본 `sample.json`, `validation.json`,
 `semantic_review.json`이 함께 있다.
 
+
+## 평가 (moderator-duplex-eval)
+
+Full-duplex 음성 모델을 진행자 자리에 앉혀 평가하는 벤치마크는 [`data_sample/`](data_sample/README.md)(토론 21편·trigger 199개, 크로스파이어 2:30 고정)와
+[`skills/moderator-duplex-eval/SKILL.md`](skills/moderator-duplex-eval/SKILL.md)(입력 구성·자유 실행·채점)에 있다.
+채점 규격은 `data_sample/eval_rubric.json`, 채점기는 `data_sample/score_freerun.py`. 연구 이력은 [`history.md`](history.md).
+
 ## 가장 간단한 사용법
 
 이 저장소를 Codex workspace로 연 뒤 project skill의 경로를 함께 지정하면 된다.

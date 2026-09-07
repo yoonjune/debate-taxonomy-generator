@@ -1,0 +1,380 @@
+{
+ "debate_id": "L024",
+ "motion": "Grandma's benefits imperil Junior's future.",
+ "speakers": {
+  "MOD": {
+   "name": "Virginia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5747_179",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5747/MSP-PODCAST_5747_179.wav",
+   "wpm": 152.78
+  },
+  "PRO": {
+   "name": "Kara",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0928_555",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0928/MSP-PODCAST_0928_555.wav",
+   "wpm": 190.97
+  },
+  "CON": {
+   "name": "Ismail",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6699_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_6/MSP-PODCAST_6699/MSP-PODCAST_6699_79.wav",
+   "wpm": 176.38
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 83.335,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 299.69,
+ "ext": {
+  "a32": {
+   "file": "L024_ext_a32.wav",
+   "place_at_sec": 227.174,
+   "dur_sec": 24.906,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "No, I reject the premise that repeated support automatically drains Junior's options. A family can set limits, share duties, and protect his savings, so grandma's benefits do not by themselves imperil his future."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.0,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "Today's motion is that grandma's benefits imperil Junior's future. Kara argues for it, and Ismail argues against it. Each opening gets thirty seconds. Then comes two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue before each limit, and I expect direct, respectful answers."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.2,
+   "end_sec": 38.156,
+   "dur_sec": 19.956,
+   "overlap": false,
+   "text": "Grandma's benefits can look like support, but they also create a bill Junior inherits through strained household choices. Money directed backward cannot be invested in his education, skills, or first chance to build security. When that burden becomes normal, Junior starts behind. Ismail, why call that harmless when Junior's future is the tradeoff?"
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.2,
+   "end_sec": 38.553,
+   "dur_sec": 0.353,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.356,
+   "end_sec": 49.5,
+   "dur_sec": 11.143,
+   "overlap": false,
+   "text": "You may say the benefits are modest, yet modest costs still crowd out repairs, learning, and savings when a family has little room. More importantly, they can teach-",
+   "cut_at_sec": 49.5,
+   "full_dur_sec": 14.043,
+   "ext_file": "L024_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 48.7,
+   "end_sec": 51.876,
+   "dur_sec": 3.176,
+   "overlap": true,
+   "text": "That's time, thank you. Ismail, the floor is yours."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.076,
+   "end_sec": 70.076,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "That picture treats every benefit as money stolen from Junior, and I reject that premise. Supporting grandma can preserve a stable home, trusted care, and practical help that Junior receives directly. The real danger is calling family support a burden before asking what Junior actually needs."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.276,
+   "end_sec": 83.335,
+   "dur_sec": 13.059,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 83.535,
+   "end_sec": 94.829,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "No, I don't call it harmless; I call the motion too broad. A benefit can reduce cash today while preserving care and stability, so Junior's future is not imperiled by support itself."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 95.608,
+   "end_sec": 108.314,
+   "dur_sec": 12.706,
+   "overlap": false,
+   "text": "I grant that care can sometimes stabilize a home, but stability does not erase the cost of repeated payments, and calling every sacrifice worthwhile hides Junior's lost chances. If his savings keep shrinking, his future is-"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 107.414,
+   "end_sec": 120.826,
+   "dur_sec": 13.412,
+   "overlap": true,
+   "text": "No, that is the leap I reject: shrinking savings are not proof of an imperiled future. If care prevents a larger crisis, refusing the benefit can cost Junior more, and the responsible choice is to keep support available."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 121.421,
+   "end_sec": 133.774,
+   "dur_sec": 12.353,
+   "overlap": false,
+   "text": "Families also need room for ordinary choices: meals, transport, repairs, and time together. Those details shape household comfort, but comfort is not the question; the question is whether benefits imperil Junior's future, and they can."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 134.362,
+   "end_sec": 145.656,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "I believe these benefits always protect Junior's future. Even when support costs money, it preserves care and prevents Junior from carrying every responsibility alone. That protection matters more than a simple ledger."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 145.977,
+   "end_sec": 157.977,
+   "dur_sec": 12.0,
+   "overlap": false,
+   "text": "Then let's follow that detail. If Junior helps with groceries, checks appointments, or shares a ride, we should ask which task builds patience, reliability, and family trust, and which task merely takes his afternoon."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 158.177,
+   "end_sec": 164.177,
+   "dur_sec": 6.0,
+   "overlap": false,
+   "text": "Okay, again, it's not on our topic about grandma's benefits imperil junior's future and threaten his independence."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 164.377,
+   "end_sec": 177.083,
+   "dur_sec": 12.706,
+   "overlap": false,
+   "text": "The question is not whether a ride teaches patience; it is whether the benefits imperil Junior's future. When they consume his time, money, or choices, they can narrow education and independence, so this burden is real."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 177.664,
+   "end_sec": 185.429,
+   "dur_sec": 7.765,
+   "overlap": false,
+   "text": "In a sudden crisis, these benefits sometimes imperil Junior's future, yet one crisis cannot establish that grandma's benefits generally imperil Junior's future."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 185.629,
+   "end_sec": 190.217,
+   "dur_sec": 4.588,
+   "overlap": false,
+   "text": "They do always protect Junior's future or they should sometimes imperil Junior's future?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 190.417,
+   "end_sec": 201.711,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "Both statements fit because I mean the benefits as a whole protect Junior's future, while a rare crisis can make one benefit harmful. That exception is too limited to support the motion."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.102,
+   "end_sec": 214.102,
+   "dur_sec": 12.0,
+   "overlap": false,
+   "text": "If you admit that one crisis can imperil Junior's future, why should families ignore the same warning when repeated benefits consume his time, money, and choices? Isn't that exactly the risk this motion identifies?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.862,
+   "end_sec": 226.509,
+   "dur_sec": 11.647,
+   "overlap": false,
+   "text": "Your question turns one admitted crisis into a general rule, but I never made that leap. Repeated support can still protect Junior when it preserves care, stability, and resources that would otherwise disappear."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 223.335,
+   "end_sec": 225.1,
+   "dur_sec": 1.765,
+   "overlap": true,
+   "text": "Ten seconds, both of you."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 227.174,
+   "end_sec": 234.135,
+   "dur_sec": 6.961,
+   "overlap": false,
+   "text": "Your claim that support preserves resources is weakest because you offer no reason the same payment cannot also drain Junior's-",
+   "ext_file": "L024_ext_a32.wav",
+   "cut_at_sec": 234.135,
+   "full_dur_sec": 13.059
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 233.335,
+   "end_sec": 243.923,
+   "dur_sec": 10.588,
+   "overlap": true,
+   "text": "And that's time. I want to move into our third round, which is basically closing statements from each of you. And Kara, you again, get to go first on this."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 244.123,
+   "end_sec": 262.123,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "This decision turns on the burden, not the label of family. If grandma's benefits repeatedly consume Junior's money, time, or opportunities, they imperil his future even when the intention is loving. Protecting Junior means refusing to make his prospects the default payment. That is why I support the motion."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 262.323,
+   "end_sec": 264.794,
+   "dur_sec": 2.471,
+   "overlap": false,
+   "text": "Let me bring back Ismail, please. Thanks."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 264.994,
+   "end_sec": 285.153,
+   "dur_sec": 20.159,
+   "overlap": false,
+   "text": "The strongest point is that support can protect Junior rather than harm him. A stable home, shared care, and sensible limits can leave him stronger, not stranded. Kara treats every cost as a threat, but families make choices together, and Junior's future depends on security as well as savings. That distinction matters because"
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 284.994,
+   "end_sec": 288.523,
+   "dur_sec": 3.529,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 285.353,
+   "end_sec": 294.194,
+   "dur_sec": 8.841,
+   "overlap": false,
+   "text": "A benefit is not an imperilment merely because it costs something. Judge the whole family picture before calling support a threat, and reject this motion."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 294.394,
+   "end_sec": 299.688,
+   "dur_sec": 5.294,
+   "overlap": false,
+   "text": "Thank you both for taking part. This debate is closed, and I appreciate your attention."
+  }
+ ]
+}

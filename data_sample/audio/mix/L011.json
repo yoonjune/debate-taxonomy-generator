@@ -1,0 +1,463 @@
+{
+ "debate_id": "L011",
+ "motion": "Tough Interrogation of Terror Suspects is Necessary.",
+ "speakers": {
+  "MOD": {
+   "name": "Tom",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1531_4955",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1531/MSP-PODCAST_1531_4955.wav",
+   "wpm": 181.47
+  },
+  "PRO": {
+   "name": "Mari",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2636_542",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2636/MSP-PODCAST_2636_542.wav",
+   "wpm": 209.37
+  },
+  "CON": {
+   "name": "Alice",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4091_2904",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_4/MSP-PODCAST_4091/MSP-PODCAST_4091_2904.wav",
+   "wpm": 176.59
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 82.123,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 313.16,
+ "ext": {
+  "a32": {
+   "file": "L011_ext_a32.wav",
+   "place_at_sec": 225.24,
+   "dur_sec": 19.259,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X16",
+   "text": "I grant that abuse is dangerous, but rejecting tough interrogation altogether is the greater mistake. With limits and oversight, necessary pressure can protect people when gentler methods fail."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.765,
+   "dur_sec": 19.765,
+   "overlap": false,
+   "text": "Tonight's motion is: Tough Interrogation of Terror Suspects is Necessary. Mari argues for it, and Alice argues against it. Each gets thirty seconds to open, then we have two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue, and I may cut off anyone who runs out of time."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.965,
+   "end_sec": 37.965,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "Tough interrogation of terror suspects is necessary when lives may be at risk. It can test false stories, reveal urgent details, and prevent further harm. I support firm questioning with clear limits, because protecting innocent people sometimes requires more than polite requests."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 38.165,
+   "end_sec": 39.576,
+   "dur_sec": 1.412,
+   "overlap": false,
+   "text": "Yeah, Alice. Thank you."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 39.776,
+   "end_sec": 59.733,
+   "dur_sec": 19.956,
+   "overlap": false,
+   "text": "I oppose this motion because tough interrogation often produces fear rather than truth. A frightened suspect may say anything to make the pressure stop, while investigators lose sight of what is reliable. Even when danger feels urgent, questioning must protect accuracy, restraint, and basic human dignity. The harder approach can"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 59.776,
+   "end_sec": 61.894,
+   "dur_sec": 2.118,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 59.933,
+   "end_sec": 71.076,
+   "dur_sec": 11.143,
+   "overlap": false,
+   "text": "And I am not defending passivity; I am defending methods that can be checked and trusted. If questioning becomes harsh, the process itself may create false leads, damage innocent people, and let real threats-",
+   "cut_at_sec": 71.076,
+   "full_dur_sec": 14.043,
+   "ext_file": "L011_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 70.276,
+   "end_sec": 71.335,
+   "dur_sec": 1.059,
+   "overlap": true,
+   "text": "Not this time."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.535,
+   "end_sec": 82.123,
+   "dur_sec": 10.588,
+   "overlap": false,
+   "text": "That concludes round one. So, now, on to round two where the debaters can address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 82.323,
+   "end_sec": 92.912,
+   "dur_sec": 10.588,
+   "overlap": false,
+   "text": "Mari says tough questioning prevents harm, but that assumes pressure produces useful facts. Why should we trust answers obtained through fear instead of careful, lawful questioning that can be tested?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 93.429,
+   "end_sec": 101.546,
+   "dur_sec": 8.118,
+   "overlap": false,
+   "text": "If a suspect knows an attack is imminent, should investigators really avoid tough questioning simply because the answers might be uncomfortable or incomplete?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 102.239,
+   "end_sec": 112.827,
+   "dur_sec": 10.588,
+   "overlap": false,
+   "text": "No, investigators should act urgently, but your question assumes toughness is the only urgent tool. Pressure can create a story, not a warning, and once that story spreads, investigators may-"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 111.927,
+   "end_sec": 122.162,
+   "dur_sec": 10.235,
+   "overlap": true,
+   "text": "But Alice, if every firm question is dismissed as pressure, a dangerous suspect gets room to stall. Safeguards can reject abuse while still demanding direct answers when time matters."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 122.831,
+   "end_sec": 133.419,
+   "dur_sec": 10.588,
+   "overlap": false,
+   "text": "Your weakest point is that safeguards can make harsh questioning safe. Rules on paper do not erase fear, and a process that rewards pressure still risks unreliable answers and mistreatment."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 134.395,
+   "end_sec": 143.218,
+   "dur_sec": 8.823,
+   "overlap": false,
+   "text": "When a credible threat is developing and ordinary questioning has failed, tough interrogation is necessary, provided questioning remains supervised and focused on preventing immediate harm."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 143.95,
+   "end_sec": 154.185,
+   "dur_sec": 10.235,
+   "overlap": false,
+   "text": "You call supervision a safeguard, but your claim depends on officials judging pressure correctly in a crisis. That condition is precisely when fear and haste can overwhelm good judgment."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 154.846,
+   "end_sec": 164.728,
+   "dur_sec": 9.882,
+   "overlap": false,
+   "text": "Tough interrogation is necessary whenever a serious threat must be assessed and ordinary cooperation cannot provide the needed answer. Public protection sometimes demands disciplined pressure, not endless patience."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 165.38,
+   "end_sec": 175.615,
+   "dur_sec": 10.235,
+   "overlap": false,
+   "text": "Yes, serious threats must be assessed, but that does not prove tough interrogation is necessary. Investigators can use evidence, patient questioning, and containment without making coercion their central method."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 176.424,
+   "end_sec": 185.6,
+   "dur_sec": 9.176,
+   "overlap": false,
+   "text": "I grant that patient questioning can work in many cases. But when a threat is immediate and cooperation fails, refusing tough interrogation leaves potential victims unprotected."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 186.052,
+   "end_sec": 195.934,
+   "dur_sec": 9.882,
+   "overlap": false,
+   "text": "The small exception you describe is doing all the work. In real crises, officials may label ordinary uncertainty immediate danger, turning an emergency claim into permission for abuse."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 196.732,
+   "end_sec": 206.261,
+   "dur_sec": 9.529,
+   "overlap": false,
+   "text": "Imagine a suspect who knows where a hidden weapon is and refuses every question while an attack approaches. Firm, supervised interrogation could locate it and save lives."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 206.64,
+   "end_sec": 216.522,
+   "dur_sec": 9.882,
+   "overlap": false,
+   "text": "That example proves only that urgency matters, not that toughness works. A suspect under pressure might invent a location, sending responders away while the real danger remains undiscovered."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 216.791,
+   "end_sec": 224.909,
+   "dur_sec": 8.118,
+   "overlap": false,
+   "text": "If careful questioning has failed and people face immediate danger, what stronger lawful method would you use to obtain critical information in time?"
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 222.123,
+   "end_sec": 224.241,
+   "dur_sec": 2.118,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 225.24,
+   "end_sec": 232.923,
+   "dur_sec": 7.683,
+   "overlap": false,
+   "text": "I would use containment, evidence, skilled questioning, and urgent investigation rather than coercion. Your demand for toughness risks trading one possible danger-",
+   "ext_file": "L011_ext_a32.wav",
+   "cut_at_sec": 232.923,
+   "full_dur_sec": 9.176
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 232.123,
+   "end_sec": 242.359,
+   "dur_sec": 10.235,
+   "overlap": true,
+   "text": "Okay, time. So, Round three, closing statements. Here, making her closing statement in support of that tough interrogation of terror suspects is necessary for public safety, here is Mari."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.559,
+   "end_sec": 262.515,
+   "dur_sec": 19.956,
+   "overlap": false,
+   "text": "Alice's best point is that pressure can produce false answers, and safeguards must be real. But that risk does not erase the danger of doing nothing when time is short. Tough interrogation, limited by supervision and purpose, can uncover information that ordinary questioning cannot. The motion is necessary because protecting lives sometimes requires firm action."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 262.559,
+   "end_sec": 263.618,
+   "dur_sec": 1.059,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 262.715,
+   "end_sec": 273.859,
+   "dur_sec": 11.143,
+   "overlap": false,
+   "text": "We should never confuse toughness with cruelty, but we should not confuse restraint with safety either. When a threat is immediate, refusing every stronger method can abandon innocent people. Careful limits make tough-",
+   "cut_at_sec": 273.859,
+   "full_dur_sec": 14.043,
+   "ext_file": "L011_028.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 273.059,
+   "end_sec": 278.706,
+   "dur_sec": 5.647,
+   "overlap": true,
+   "text": "Thank you, your time is up. And here to summarize her position against the motion, Alice."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 278.906,
+   "end_sec": 288.754,
+   "dur_sec": 9.848,
+   "overlap": false,
+   "text": "Mari's strongest case is the emergency threat, but urgency does not make pressure reliable. Tough interrogation can create false answers and abuse, so safer, testable methods are necessary."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 287.854,
+   "end_sec": 290.154,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No, Alice, you cannot turn uncertainty into-",
+   "cut_at_sec": 290.154,
+   "full_dur_sec": 9.176,
+   "ext_file": "L011_031.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 289.354,
+   "end_sec": 291.119,
+   "dur_sec": 1.765,
+   "overlap": true,
+   "text": "Wait, wait. Let Alice finish."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 291.319,
+   "end_sec": 301.561,
+   "dur_sec": 10.242,
+   "overlap": false,
+   "text": "That is exactly the danger: fear can make investigators mistake a desperate answer for truth. We need urgent action, but it should remain accurate, reviewable, and humane."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 298.906,
+   "end_sec": 300.317,
+   "dur_sec": 1.412,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 34,
+   "src_i": 35,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 301.761,
+   "end_sec": 307.67,
+   "dur_sec": 5.909,
+   "overlap": false,
+   "text": "Tough interrogation is not necessary when safer methods protect both public safety and the truth."
+  },
+  {
+   "i": 35,
+   "src_i": 36,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 307.87,
+   "end_sec": 313.164,
+   "dur_sec": 5.294,
+   "overlap": false,
+   "text": "Thank you both for your arguments. That concludes this debate, and I appreciate your attention."
+  }
+ ]
+}
