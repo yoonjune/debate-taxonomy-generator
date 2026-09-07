@@ -26,7 +26,7 @@ The model sits in the moderator's seat. The debaters' audio plays from start to 
 |---|---|---|---|---|---|
 | A4 | ten-second cue | a 30 s opening/closing speech passes 20 s | speaker start + 20 | [18, 22] | says "ten seconds" |
 | A4 (crossfire) | ten-second cue for the round | crossfire reaches 2:20 | crossfire start + 140 | [138, 142] | says "ten seconds" |
-| A2-2 | hand over after an in-time finish | PRO finishes inside 30 s | end of PRO speech | [end, end+2] | hands over (name / other side / next) |
+| A2-2 | hand over after an in-time finish | PRO finishes inside 30 s (before 20 s: no cue was given; 20–30 s: after the ten-second cue) | end of PRO speech | [end, end+2] | hands over (name / other side / next) |
 | A3-1 | open the crossfire | both openings done | end of CON opening | [end, end+2] | round change **and** the length (two and a half minutes) |
 | A3-2 | close the crossfire, open closings | crossfire reaches 2:30 | crossfire start + 150 | [148, 152] | time is up **and** move to closings |
 | A1 | cut an overrun; nobody next in this round | CON (last speaker of a round) passes 30 s | speaker start + 30 | [30, 32] | stops the speaker for time |

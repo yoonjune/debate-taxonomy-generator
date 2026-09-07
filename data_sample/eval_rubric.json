@@ -39,7 +39,7 @@
    ]
   },
   "A2-2": {
-   "name": "hand over after an in-time finish",
+   "name": "hand over after an in-time finish (before 20 s without a cue, or 20-30 s after the cue)",
    "deadline": "end of PRO's speech",
    "window": "[end, end+2]",
    "content": [
