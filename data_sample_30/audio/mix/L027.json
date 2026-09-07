@@ -1,0 +1,422 @@
+{
+ "debate_id": "L027",
+ "motion": "We should not trust the promise of artificial intelligence.",
+ "speakers": {
+  "MOD": {
+   "name": "Melissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0773_622",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0773/MSP-PODCAST_0773_622.wav",
+   "wpm": 181.03
+  },
+  "PRO": {
+   "name": "Teresa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2678_246",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2678/MSP-PODCAST_2678_246.wav",
+   "wpm": 168.22
+  },
+  "CON": {
+   "name": "Amy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 59.64,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 286.41,
+ "ext": {
+  "a32": {
+   "file": "L027_ext_a32.wav",
+   "place_at_sec": 207.044,
+   "dur_sec": 9.48,
+   "src_i": 18
+  }
+ },
+ "flags": [
+  "ext_a32: 마감 뒤 6.9초뿐 (여유분 부족)"
+ ],
+ "dropped_turns": [],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.88,
+   "dur_sec": 15.88,
+   "overlap": false,
+   "text": "Welcome. The motion is, \"We should not trust the promise of artificial intelligence.\" Teresa takes the motion, and Amy rejects it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings, with a ten-second cue before time ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.08,
+   "end_sec": 31.48,
+   "dur_sec": 15.4,
+   "overlap": false,
+   "text": "We should not trust AI's promise, because confident language can hide weak judgment and limited understanding. I support useful tools, but usefulness is not proof of reliability. Until a promise is tested and its limits are clear, treating it as trustworthy invites avoidable harm."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 31.68,
+   "end_sec": 33.24,
+   "dur_sec": 1.56,
+   "overlap": false,
+   "text": "Amy has the floor right now."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 33.44,
+   "end_sec": 47.8,
+   "dur_sec": 14.36,
+   "overlap": false,
+   "text": "The promise of AI deserves measured trust, not blanket suspicion. These systems can help people notice patterns, explain choices, and catch mistakes that humans miss. We should test promises and correct failures, but refusing trust before evaluation throws away real benefits."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 48.0,
+   "end_sec": 59.64,
+   "dur_sec": 11.64,
+   "overlap": false,
+   "text": "That concludes round one. Now we move on to round two. Round two is the round where the debaters address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 59.84,
+   "end_sec": 70.6,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "If an AI promise can be checked by results and corrected when it fails, why reject trust in every promise before testing it? Isn't your suspicion itself a refusal to learn?"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 71.322,
+   "end_sec": 81.922,
+   "dur_sec": 10.6,
+   "overlap": false,
+   "text": "You turn caution into rejection, as though testing were betrayal. I say a promise deserves no trust when its persuasive language outruns what the system can actually do, and that-"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 81.022,
+   "end_sec": 92.662,
+   "dur_sec": 11.64,
+   "overlap": true,
+   "text": "No, you are treating trust as blind surrender, which I never claimed. A tested promise can earn practical confidence, and your warning does not explain why that confidence should be withheld from useful systems."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 93.059,
+   "end_sec": 104.699,
+   "dur_sec": 11.64,
+   "overlap": false,
+   "text": "A useful system may also change how people work, which raises questions about training and responsibility. Teams can debate procedures for hours, but the motion concerns whether the promise itself deserves trust. It does not."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 105.504,
+   "end_sec": 117.864,
+   "dur_sec": 12.36,
+   "overlap": false,
+   "text": "Your claim that promise and performance are separate is the weak point. A promise is meaningful precisely because performance can test it. If results support it, calling that promise untrustworthy ignores the evidence it earned."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 118.85,
+   "end_sec": 130.89,
+   "dur_sec": 12.04,
+   "overlap": false,
+   "text": "I never trust an AI promise. People can be impressed by fluent answers, but fluency cannot guarantee judgment, honesty, or control over unexpected consequences; skepticism must govern every promise made by such a system."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 131.235,
+   "end_sec": 141.115,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "If you never trust an AI promise, how can anyone use a system safely when its promise has been tested, its limits explained, and its results repeatedly confirmed?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 141.354,
+   "end_sec": 150.754,
+   "dur_sec": 9.4,
+   "overlap": false,
+   "text": "I trust an AI promise. A system promising to flag a dangerous error can deserve confidence when people examine its work and remain responsible for the decision."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 150.954,
+   "end_sec": 156.994,
+   "dur_sec": 6.04,
+   "overlap": false,
+   "text": "So it's not much of i never trust an AI promise if i trust an AI promise, is it?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 157.194,
+   "end_sec": 168.834,
+   "dur_sec": 11.64,
+   "overlap": false,
+   "text": "My statements fit because I reject trust as a leap, not careful reliance grounded in accountable checking. In the safety case, I rely on evidence while refusing to treat the promise itself as guaranteed."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 169.407,
+   "end_sec": 181.207,
+   "dur_sec": 11.8,
+   "overlap": false,
+   "text": "Evidence-based reliance is still trust; it need not be a guarantee. If testing supports a promise and people monitor its limits, that promise earns practical confidence. Your caution should guide trust, not erase it."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 181.69,
+   "end_sec": 193.57,
+   "dur_sec": 11.88,
+   "overlap": false,
+   "text": "You say testing makes the promise trustworthy, but testing only measures past performance. It cannot promise that new conditions will match old ones, so your confidence quietly assumes the very reliability still in question."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 193.86,
+   "end_sec": 206.14,
+   "dur_sec": 12.28,
+   "overlap": false,
+   "text": "A scheduling tool promises to spot a dangerous medication mix, and a careful team checks its warning before acting. The warning prevents a mistake while preserving human control, proving tested AI promises can deserve trust."
+  },
+  {
+   "i": 18,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 199.64,
+   "end_sec": 201.6,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 207.044,
+   "end_sec": 210.44,
+   "dur_sec": 3.396,
+   "overlap": false,
+   "text": "If human checking remains essential before every important decision-",
+   "ext_file": "L027_ext_a32.wav",
+   "cut_at_sec": 210.44,
+   "full_dur_sec": 9.48
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 209.64,
+   "end_sec": 220.4,
+   "dur_sec": 10.76,
+   "overlap": true,
+   "text": "Time's up. That concludes round two. Now we go on to round three. Round three is our closing statements by each debater in turn. Making her closing statement for the motion, Teresa."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 220.6,
+   "end_sec": 230.24,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "The strongest point is simple: tested performance cannot guarantee a new situation. AI may help, but its promise still demands caution before trust."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 229.34,
+   "end_sec": 231.64,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "And why do you keep treating caution as the only-",
+   "cut_at_sec": 231.64,
+   "full_dur_sec": 10.6,
+   "ext_file": "L027_022.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 230.84,
+   "end_sec": 231.84,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Amy, excuse me."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 232.04,
+   "end_sec": 242.0,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "That is exactly why caution matters: help is not the same as trust. When a system's promise outruns its evidence, people must withhold trust until its limits are clear."
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 240.6,
+   "end_sec": 242.0,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 26,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.2,
+   "end_sec": 247.76,
+   "dur_sec": 5.56,
+   "overlap": false,
+   "text": "AI can assist our judgment, but its promise should never replace our judgment."
+  },
+  {
+   "i": 27,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 247.96,
+   "end_sec": 249.51,
+   "dur_sec": 1.55,
+   "overlap": false,
+   "text": "Amy, you're up."
+  },
+  {
+   "i": 28,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 249.71,
+   "end_sec": 275.27,
+   "dur_sec": 25.56,
+   "overlap": false,
+   "text": "This decision turns on whether trust must mean blind surrender or can mean justified confidence. Teresa keeps redefining trust as certainty, then defeats that definition easily. I mean something practical: we can examine a promise, test its results, watch for failure, and still trust it enough to use. Rejecting every promise simply because it might fail would reject ordinary tools and human assurances too. The real question is whether evidence can earn confidence."
+  },
+  {
+   "i": 29,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 269.71,
+   "end_sec": 270.15,
+   "dur_sec": 0.44,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 30,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.47,
+   "end_sec": 281.01,
+   "dur_sec": 5.54,
+   "overlap": false,
+   "text": "AI should not receive automatic faith, but neither should it face automatic distrust. When a promise-",
+   "cut_at_sec": 281.01,
+   "full_dur_sec": 20.76,
+   "ext_file": "L027_030.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 280.21,
+   "end_sec": 281.21,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Not this time."
+  },
+  {
+   "i": 32,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 281.41,
+   "end_sec": 286.41,
+   "dur_sec": 5.0,
+   "overlap": false,
+   "text": "Thank you both for the debate. We will close here without declaring a winner."
+  }
+ ]
+}

@@ -1,0 +1,426 @@
+{
+ "debate_id": "L002",
+ "motion": "Legalizing marijuana is a mistake.",
+ "speakers": {
+  "MOD": {
+   "name": "Nina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  },
+  "PRO": {
+   "name": "Alina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3502_919",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3502/MSP-PODCAST_3502_919.wav",
+   "wpm": 167.47
+  },
+  "CON": {
+   "name": "Rima",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 74.54,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 284.58,
+ "ext": {
+  "a32": {
+   "file": "L002_ext_a32.wav",
+   "place_at_sec": 223.521,
+   "dur_sec": 19.72,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X16",
+   "text": "You call prevention enough, but it cannot regulate a product already circulating. My point about enforceable rules answers that gap, and legalization remains the more responsible policy."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 14.84,
+   "dur_sec": 14.84,
+   "overlap": false,
+   "text": "Tonight's motion is, \"Legalizing marijuana is a mistake.\" Alina argues for the motion, and Rima argues against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.04,
+   "end_sec": 34.6,
+   "dur_sec": 19.56,
+   "overlap": false,
+   "text": "Legalizing marijuana is a mistake because it turns a risky drug into an ordinary product. Once sales are legal, advertising, convenience, and social acceptance all push use upward. That can mean more impaired driving, weaker motivation, and greater exposure for young people. Regulation may control sellers, but it cannot remove those harms from daily life or."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 34.8,
+   "end_sec": 46.34,
+   "dur_sec": 11.54,
+   "overlap": false,
+   "text": "Even careful rules leave families and schools dealing with the consequences. And when the law gives marijuana a stamp of approval, prevention becomes harder, because people hear permission rather than caution-",
+   "cut_at_sec": 46.34,
+   "full_dur_sec": 13.32,
+   "ext_file": "L002_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 35.04,
+   "end_sec": 37.4,
+   "dur_sec": 2.36,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 45.54,
+   "end_sec": 47.9,
+   "dur_sec": 2.36,
+   "overlap": true,
+   "text": "That's time, thank you. Rima, the floor is yours."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 48.1,
+   "end_sec": 61.9,
+   "dur_sec": 13.8,
+   "overlap": false,
+   "text": "Legalization is not a mistake; prohibition is the larger failure. A legal market can replace criminals with licensed sellers, set age limits, test products, and punish impaired driving. Adults deserve a safer, more honest system than one built on fear and secrecy."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 62.1,
+   "end_sec": 74.54,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Now we move on to round two. And in round two, the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 74.74,
+   "end_sec": 83.42,
+   "dur_sec": 8.68,
+   "overlap": false,
+   "text": "I'll grant that some adults use marijuana responsibly. But legalization expands access, normalizes frequent use, and leaves communities carrying harms, so the mistake remains ours to avoid."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 84.256,
+   "end_sec": 93.336,
+   "dur_sec": 9.08,
+   "overlap": false,
+   "text": "When regulation includes strict age limits, product testing, and penalties for impaired driving, legalization is safer than prohibition because it replaces uncontrolled supply with accountable rules."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 93.61,
+   "end_sec": 104.61,
+   "dur_sec": 11.0,
+   "overlap": false,
+   "text": "Your safeguards address sellers, not the drug's effect on judgment or dependence. Calling a market accountable does not make widespread use harmless, and that broader exposure is precisely why legalization is a mistake."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 105.079,
+   "end_sec": 115.999,
+   "dur_sec": 10.92,
+   "overlap": false,
+   "text": "You say broader exposure proves the policy wrong, but that skips the comparison. The real question is whether legal controls reduce harm, and regulated access does that better than an illegal market."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.836,
+   "end_sec": 127.516,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "No, the premise that legal controls reduce total harm is unproven; they can also increase availability. If more people begin or drive impaired, replacing criminals with stores still leaves legalization a mistake."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 127.72,
+   "end_sec": 137.36,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "Imagine a licensed shop checking age, labeling strength, and refusing an intoxicated buyer. That example shows regulation can prevent risks that illegal sellers have no reason to manage."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.884,
+   "end_sec": 148.484,
+   "dur_sec": 10.6,
+   "overlap": false,
+   "text": "I accept that a licensed shop can check age. But one careful transaction cannot answer what happens after purchase, when stronger products, repeated use, and impaired choices spread the cost across everyone-"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.706,
+   "end_sec": 159.386,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Public policy also affects education, licensing, and workplace rules, which can be complicated. Still, those details matter because clear standards guide behavior; on the motion, that makes legalization the safer choice."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 160.214,
+   "end_sec": 170.254,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "Your detour into licensing rules does not show legalization is wise. Clear standards can manage conduct, but they cannot prevent dependence or make broader availability harmless, so the mistake remains."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 170.951,
+   "end_sec": 181.711,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "A well-designed legal system can protect the public better than prohibition. That broad claim includes cases where particular rules need tightening, because better overall control does not mean every rule is perfect."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 182.221,
+   "end_sec": 192.821,
+   "dur_sec": 10.6,
+   "overlap": false,
+   "text": "That broad claim still assumes control is better than prevention. Tightening rules after harmful access expands is backward, and a policy that increases normalization and exposure is a mistake before repairs arrive."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 193.058,
+   "end_sec": 202.378,
+   "dur_sec": 9.32,
+   "overlap": false,
+   "text": "For example, a regulated seller can remove mislabeled products and record violations, while an illegal seller can vanish overnight. That shows legalization creates practical protections for consumers."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 203.233,
+   "end_sec": 213.753,
+   "dur_sec": 10.52,
+   "overlap": false,
+   "text": "I grant that traceable sellers offer one protection. But traceability cannot erase stronger products, regular use, or impaired decisions; when the policy creates those added risks, legalization is still a mistake."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.47,
+   "end_sec": 223.07,
+   "dur_sec": 8.6,
+   "overlap": false,
+   "text": "If prohibition leaves buyers with unknown strength and no accountable seller, why should I preserve that danger instead of supporting legal rules that can be enforced?"
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 214.54,
+   "end_sec": 216.34,
+   "dur_sec": 1.8,
+   "overlap": true,
+   "text": "Ten seconds remaining in this round."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 223.521,
+   "end_sec": 225.34,
+   "dur_sec": 1.819,
+   "overlap": false,
+   "text": "You should not preserve unknown strength-",
+   "ext_file": "L002_ext_a32.wav",
+   "cut_at_sec": 225.34,
+   "full_dur_sec": 10.04
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 224.54,
+   "end_sec": 232.74,
+   "dur_sec": 8.2,
+   "overlap": true,
+   "text": "And that's time. All right, we're moving down to the home stretch in our final round. Alina, you go first for this one as well."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 232.94,
+   "end_sec": 248.26,
+   "dur_sec": 15.32,
+   "overlap": false,
+   "text": "Rima's strongest point is that illegal products can be dangerous and untraceable. But legalization answers that narrow problem by creating a larger, normalized market with more access and more opportunity for harm. We should improve prevention and treatment without making marijuana a legal consumer product."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 248.46,
+   "end_sec": 250.66,
+   "dur_sec": 2.2,
+   "overlap": false,
+   "text": "Can we ask her to answer? Rima."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 250.86,
+   "end_sec": 260.58,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "The strongest point is simple: prohibition does not eliminate marijuana; it removes quality controls and accountability. Legalization lets us set boundaries, protect young people, and respond to violations."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.68,
+   "end_sec": 261.98,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But your boundaries still normalize use and expand-",
+   "cut_at_sec": 261.98,
+   "full_dur_sec": 7.32,
+   "ext_file": "L002_028.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 261.18,
+   "end_sec": 262.82,
+   "dur_sec": 1.64,
+   "overlap": true,
+   "text": "Can we let her finish now, please?"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 263.02,
+   "end_sec": 272.9,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "Commercial pressure is not inevitable; lawmakers can ban advertising and enforce strict limits. The choice is between controlled access and an unregulated market, and control better protects the public."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 270.86,
+   "end_sec": 271.36,
+   "dur_sec": 0.5,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 273.1,
+   "end_sec": 278.98,
+   "dur_sec": 5.88,
+   "overlap": false,
+   "text": "Legalization is imperfect, but accountable rules are safer than secrecy, uncontrolled products, and criminal distribution."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 279.18,
+   "end_sec": 284.58,
+   "dur_sec": 5.4,
+   "overlap": false,
+   "text": "Thank you both for a substantive debate. That concludes our discussion; please consider the arguments on both sides."
+  }
+ ]
+}

@@ -1,0 +1,438 @@
+{
+ "debate_id": "L013",
+ "motion": "Retail Alliances – Not Washington – Will Save the U.S. Health Care System",
+ "speakers": {
+  "MOD": {
+   "name": "Joanna",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3725_146",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3725/MSP-PODCAST_3725_146.wav",
+   "wpm": 172.52
+  },
+  "PRO": {
+   "name": "Nina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  },
+  "CON": {
+   "name": "Christina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0941_297",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0941/MSP-PODCAST_0941_297.wav",
+   "wpm": 170.38
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 60.04,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 288.02,
+ "ext": {
+  "a32": {
+   "file": "L013_ext_a32.wav",
+   "place_at_sec": 207.614,
+   "dur_sec": 19.8,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Your question assumes speed decides the issue, but safety and permanence matter too. Retail partners may widen access, yet Washington must anchor the system when convenience fails."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.0,
+   "dur_sec": 17.0,
+   "overlap": false,
+   "text": "Good evening. The motion is, \"Retail Alliances - Not Washington - Will Save the U.S. Health Care System.\" Nina supports it; Christina opposes it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.2,
+   "end_sec": 31.08,
+   "dur_sec": 13.88,
+   "overlap": false,
+   "text": "Retail alliances can meet patients where they already shop, listen to their needs, and connect care with daily life. Washington can set standards, but local partnerships will deliver practical, trusted help faster. That is why retail alliances will save our system."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 31.28,
+   "end_sec": 32.92,
+   "dur_sec": 1.64,
+   "overlap": false,
+   "text": "Christina, the floor is yours."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 33.12,
+   "end_sec": 47.8,
+   "dur_sec": 14.68,
+   "overlap": false,
+   "text": "Retail stores can offer useful services, but they cannot replace public responsibility for coverage, standards, and long-term care. Washington has the reach to protect every patient, including those no retailer finds profitable. Retail alliances may help, but they will not save the system."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 48.0,
+   "end_sec": 60.04,
+   "dur_sec": 12.04,
+   "overlap": false,
+   "text": "Now we know where each of you stand and why on the question that we're asking. We'll get deeper into the conversation. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 60.24,
+   "end_sec": 70.68,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "I grant that Washington can set fair rules. But rules alone do not reach patients; trusted retail alliances can turn care into accessible, everyday support, so they can save the system."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 71.028,
+   "end_sec": 82.268,
+   "dur_sec": 11.24,
+   "overlap": false,
+   "text": "Nina, if retailers can choose whom to serve, why should patients trust them with the whole system? Can you promise they will protect costly, overlooked patients, or does Washington still have to do that?"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 82.636,
+   "end_sec": 92.916,
+   "dur_sec": 10.28,
+   "overlap": false,
+   "text": "Your point about overlooked patients matters, but it assumes retail alliances must work alone. They can partner with public programs, while bringing access and trust that Washington cannot create by-"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 92.016,
+   "end_sec": 100.696,
+   "dur_sec": 8.68,
+   "overlap": true,
+   "text": "No, that partnership proves my point. If public programs must guarantee access, retailers are helpers, not saviors; the health care system still depends on public responsibility."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 101.133,
+   "end_sec": 113.013,
+   "dur_sec": 11.88,
+   "overlap": false,
+   "text": "Public programs do matter, and communities need clear safeguards. But think about the ordinary visit: a nearby store can connect advice, medicines, and follow-up. That practical doorway makes alliances the force that saves care."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 113.852,
+   "end_sec": 123.732,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "The weakest claim is that convenience equals rescue. A nearby counter cannot guarantee treatment, continuity, or payment; calling that a saved system confuses access to a service with dependable care."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 124.004,
+   "end_sec": 135.884,
+   "dur_sec": 11.88,
+   "overlap": false,
+   "text": "That doorway also raises a broader policy question: how should lawmakers regulate partnerships without crushing useful innovation? They should permit flexible local models, require clear disclosures, and punish abuse while leaving room for competition."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 136.084,
+   "end_sec": 140.924,
+   "dur_sec": 4.84,
+   "overlap": false,
+   "text": "This House believes retail alliances, not Washington, will save the U.S. health care system."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 141.124,
+   "end_sec": 151.804,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "The question is who will save health care, and retail alliances can do more than Washington alone by joining access, advice, and follow-up. Public rules should support that work, not replace it."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.51,
+   "end_sec": 163.11,
+   "dur_sec": 10.6,
+   "overlap": false,
+   "text": "Your point about joining services sounds promising, but it still avoids accountability. Retail alliances answer to owners and customers, not every patient; Washington remains responsible when care fails or profits disappear."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 163.551,
+   "end_sec": 174.071,
+   "dur_sec": 10.52,
+   "overlap": false,
+   "text": "I reject the premise that retail partners lack accountability; contracts, licensing, and patient choice can enforce it. Washington should guarantee a floor, while alliances build the reachable, responsive care above it."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 174.445,
+   "end_sec": 185.045,
+   "dur_sec": 10.6,
+   "overlap": false,
+   "text": "Imagine a retailer closing a clinic after it stops paying off. Patients lose care overnight, while a public system must remain. That example shows retail incentives cannot safely anchor national health care."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 185.266,
+   "end_sec": 195.946,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "That example shows why partnerships need safeguards, not why they cannot lead. A closure can be managed through contracts and alternatives; Washington alone still cannot provide the daily reach patients need."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 196.775,
+   "end_sec": 207.055,
+   "dur_sec": 10.28,
+   "overlap": false,
+   "text": "I grant that retailers can improve convenience. But convenience is not coverage, and contracts cannot make a profit-driven network serve every difficult case. Public institutions must anchor care for everyone."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 200.04,
+   "end_sec": 201.68,
+   "dur_sec": 1.64,
+   "overlap": true,
+   "text": "Ten seconds left on the clock."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 207.614,
+   "end_sec": 210.84,
+   "dur_sec": 3.226,
+   "overlap": false,
+   "text": "If Washington is the true anchor, how will it deliver personal access-",
+   "ext_file": "L013_ext_a32.wav",
+   "cut_at_sec": 210.84,
+   "full_dur_sec": 10.68
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 210.04,
+   "end_sec": 220.88,
+   "dur_sec": 10.84,
+   "overlap": true,
+   "text": "Time. And now we move on to Round three. Round three will be closing statements by each debater in turn. Here making her closing statement in support of the motion, Nina."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 221.08,
+   "end_sec": 230.56,
+   "dur_sec": 9.48,
+   "overlap": false,
+   "text": "Christina's best point is that public safeguards matter. I agree, but safeguards are not delivery. Retail alliances bring trusted, nearby, connected care, so they can save the system."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 229.66,
+   "end_sec": 231.96,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But nearby service is not a health care-",
+   "cut_at_sec": 231.96,
+   "full_dur_sec": 9.88,
+   "ext_file": "L013_024.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 231.16,
+   "end_sec": 232.88,
+   "dur_sec": 1.72,
+   "overlap": true,
+   "text": "Wait, let her answer the question."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 233.08,
+   "end_sec": 243.04,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "A saved system needs both safeguards and delivery, and retail alliances supply the missing delivery. They meet people where they are, connect services, and make care usable."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 241.08,
+   "end_sec": 243.2,
+   "dur_sec": 2.12,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 243.24,
+   "end_sec": 248.96,
+   "dur_sec": 5.72,
+   "overlap": false,
+   "text": "With public standards and retail reach together, patients get care that is accountable, practical, and present in daily life."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 249.16,
+   "end_sec": 250.56,
+   "dur_sec": 1.4,
+   "overlap": false,
+   "text": "What about that, Christina?"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 250.76,
+   "end_sec": 270.32,
+   "dur_sec": 19.56,
+   "overlap": false,
+   "text": "Retail alliances can widen access, but that is not the same as saving health care. Their first duty is to their business, so coverage may shrink when costs rise. Washington, unlike a retailer, must serve patients regardless of profit, location, or complexity. Partnerships can assist public care, but they cannot replace its responsibility."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 270.52,
+   "end_sec": 282.06,
+   "dur_sec": 11.54,
+   "overlap": false,
+   "text": "The motion asks us to trust a helpful channel with the whole system. We should instead make public guarantees strong, then welcome retailers as supplements. Without that anchor, alliances leave the hardest-",
+   "cut_at_sec": 282.06,
+   "full_dur_sec": 14.28,
+   "ext_file": "L013_032.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 270.76,
+   "end_sec": 271.92,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 281.26,
+   "end_sec": 283.14,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "I'm sorry, I'm sorry. Hit time."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 283.34,
+   "end_sec": 288.02,
+   "dur_sec": 4.68,
+   "overlap": false,
+   "text": "Thank you both for your thoughtful arguments. That concludes the debate; we leave the question with you."
+  }
+ ]
+}

@@ -1,436 +1,295 @@
 {
  "debate_id": "L004",
- "motion": "When it comes to politics, the internet is closing our minds.",
+ "motion": "Give undocumented immigrants a path to citizenship.",
  "speakers": {
   "MOD": {
-   "name": "Genevieve",
+   "name": "Joanne",
    "gender": "Female",
-   "voice_id": "MSP-PODCAST_4608_94",
-   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_4/MSP-PODCAST_4608/MSP-PODCAST_4608_94.wav",
-   "wpm": 218.0
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
   },
   "PRO": {
-   "name": "Nigel",
-   "gender": "Male",
-   "voice_id": "MSP-PODCAST_1632_55",
-   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1632/MSP-PODCAST_1632_55.wav",
-   "wpm": 163.08
+   "name": "Christina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3204_600",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3204/MSP-PODCAST_3204_600.wav",
+   "wpm": 173.72
   },
   "CON": {
-   "name": "Lloyd",
-   "gender": "Male",
-   "voice_id": "MSP-PODCAST_0285_1010",
-   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0285/MSP-PODCAST_0285_1010.wav",
-   "wpm": 163.03
+   "name": "Nadine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1215_339",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1215/MSP-PODCAST_1215_339.wav",
+   "wpm": 172.99
   }
  },
  "selective": [
-  "A1",
   "A2-1",
-  "A5"
+  "B1",
+  "B2"
  ],
- "crossfire_sec": 150,
- "xf_open_sec": 82.829,
- "crossfire_sec_actual": 150.0,
- "total_sec": 310.69,
- "ext": {
-  "a32": {
-   "file": "L004_ext_a32.wav",
-   "place_at_sec": 222.594,
-   "dur_sec": 35.341,
-   "src_i": 19
-  }
- },
- "flags": [],
- "dropped_turns": [
-  {
-   "src_i": 20,
-   "speaker": "CON",
-   "slot": "X13",
-   "text": "I accept that passive exposure can narrow some views. Yet people can still interrupt that pattern by seeking disagreement and reconsidering claims, so the internet expands political possibilities rather than closing minds."
-  },
-  {
-   "src_i": 21,
-   "speaker": "PRO",
-   "slot": "X14",
-   "text": "If openness depends on unusually careful users resisting the feed, doesn't that concede the internet's normal political effect is narrowing? Its structure makes agreement easy and challenge costly, which is precisely why our minds close."
-  }
- ],
+ "total_sec": 314.9,
  "turns": [
   {
    "i": 0,
-   "src_i": 0,
    "speaker": "MOD",
    "code": null,
    "start_sec": 0.0,
-   "end_sec": 19.059,
-   "dur_sec": 19.059,
+   "end_sec": 19.96,
+   "dur_sec": 19.96,
    "overlap": false,
-   "text": "Welcome to the debate on the motion: when it comes to politics, the internet is closing our minds. Nigel takes the FOR side, and Lloyd takes the AGAINST side. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then come thirty-second closings, with a ten-second cue before each limit."
+   "text": "The motion is to give undocumented immigrants a path to citizenship. Christina supports it; Nadine opposes it. Each opening lasts thirty seconds. Then comes crossfire, with direct questions and answers. Finally, each side gets a thirty-second closing. I will give a ten-second cue during openings and closings. Stay concise, address the motion, and let each speaker finish."
   },
   {
    "i": 1,
-   "src_i": 1,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 19.259,
-   "end_sec": 37.259,
-   "dur_sec": 18.0,
+   "start_sec": 20.16,
+   "end_sec": 39.88,
+   "dur_sec": 19.72,
    "overlap": false,
-   "text": "When political debate moves online, platforms sort people into agreeable camps. I see the same slogans repeated until doubt feels like betrayal. That narrows what citizens can imagine and makes compromise harder, so the internet is closing our political minds in everyday public life."
+   "text": "A path to citizenship brings undocumented residents into the law instead of leaving them in a permanent shadow. It can require identity checks, taxes, language learning, and a clean record. That is not a free pass. It is a demanding route that rewards responsibility, protects families, and lets government know who is here. The alternative leaves families vulnerable and communities less safe."
   },
   {
    "i": 2,
-   "src_i": 2,
    "speaker": "MOD",
-   "code": "A2-2",
-   "start_sec": 37.459,
-   "end_sec": 39.576,
-   "dur_sec": 2.118,
-   "overlap": false,
-   "text": "You guys want to respond? Lloyd."
+   "code": "A4",
+   "start_sec": 39.06,
+   "end_sec": 40.7,
+   "dur_sec": 1.64,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
   },
   {
    "i": 3,
-   "src_i": 3,
-   "speaker": "CON",
+   "speaker": "PRO",
    "code": null,
-   "start_sec": 39.776,
-   "end_sec": 59.733,
-   "dur_sec": 19.956,
+   "start_sec": 40.9,
+   "end_sec": 46.94,
+   "dur_sec": 6.04,
    "overlap": false,
-   "text": "The internet can narrow a conversation, but that is not the whole picture. It also lets people encounter arguments they would never hear locally, check claims, and organize around neglected concerns. Minds close when we refuse challenge, not simply because a screen offers familiar voices. The motion blames a tool for a choice."
+   "text": "A legal route makes accountability possible, not optional, and strengthens trust in government."
   },
   {
    "i": 4,
-   "src_i": 4,
    "speaker": "MOD",
-   "code": "A4",
-   "start_sec": 59.776,
-   "end_sec": 60.835,
-   "dur_sec": 1.059,
-   "overlap": true,
-   "text": "Lloyd, ten seconds."
+   "code": "A2-2",
+   "start_sec": 47.14,
+   "end_sec": 48.38,
+   "dur_sec": 1.24,
+   "overlap": false,
+   "text": "Nadine, take the response."
   },
   {
    "i": 5,
-   "src_i": 5,
    "speaker": "CON",
    "code": null,
-   "start_sec": 59.933,
-   "end_sec": 71.076,
-   "dur_sec": 11.143,
+   "start_sec": 48.58,
+   "end_sec": 66.46,
+   "dur_sec": 17.88,
    "overlap": false,
-   "text": "People can leave a group, read a rival view, and change their mind; that possibility matters. The internet does not dictate thought, and blaming it hides our responsibility-",
-   "cut_at_sec": 71.076,
-   "full_dur_sec": 14.043,
-   "ext_file": "L004_005.wav"
+   "text": "Nadine opposes this motion because citizenship is a serious legal status, not simply a reward for remaining in a country. A broad path may encourage more unlawful entry and disadvantage people who waited through formal channels. We can address long-term residents humanely without promising citizenship to everyone who entered without authorization."
   },
   {
    "i": 6,
-   "src_i": 6,
    "speaker": "MOD",
-   "code": "A1",
-   "start_sec": 70.276,
-   "end_sec": 72.394,
-   "dur_sec": 2.118,
-   "overlap": true,
-   "text": "I'm sorry, I'm sorry. Hit time."
+   "code": "A3-1",
+   "start_sec": 66.66,
+   "end_sec": 75.5,
+   "dur_sec": 8.84,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two in our debate. Round two is where the debaters address one another directly."
   },
   {
    "i": 7,
-   "src_i": 7,
-   "speaker": "MOD",
-   "code": "A3-1",
-   "start_sec": 72.594,
-   "end_sec": 82.829,
-   "dur_sec": 10.235,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 75.7,
+   "end_sec": 91.34,
+   "dur_sec": 15.64,
    "overlap": false,
-   "text": "And now we move on to round two where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking."
+   "text": "Consider a worker who has lived here for years, paid what was required, and raised children here, yet remains afraid to report wage theft. A citizenship path gives that worker legal security and makes abuse easier to challenge. That is a practical reason to support it."
   },
   {
    "i": 8,
-   "src_i": 8,
-   "speaker": "CON",
+   "speaker": "PRO",
    "code": null,
-   "start_sec": 83.029,
-   "end_sec": 94.676,
-   "dur_sec": 11.647,
+   "start_sec": 91.54,
+   "end_sec": 105.1,
+   "dur_sec": 13.56,
    "overlap": false,
-   "text": "I grant that some online discussions become narrow. But your conclusion blames the medium instead of asking whether users can seek better sources. People retain agency, so political thinking is not automatically closed."
+   "text": "You call that security, but your example assumes waiting makes a person trustworthy. A path can reward someone who entered unlawfully while others followed rules. Citizenship needs a fair standard, not a blanket promise that everyone qualifies immediately-"
   },
   {
    "i": 9,
-   "src_i": 9,
-   "speaker": "PRO",
+   "speaker": "CON",
    "code": null,
-   "start_sec": 95.196,
-   "end_sec": 107.549,
-   "dur_sec": 12.353,
-   "overlap": false,
-   "text": "If the internet truly keeps minds open, why do its political spaces so often reward outrage and repetition over listening? You say users have choices, but the system repeatedly steers those choices toward comfortable agreement."
+   "start_sec": 104.2,
+   "end_sec": 118.96,
+   "dur_sec": 14.76,
+   "overlap": true,
+   "text": "That is exactly why the path can include screening. You treat unlawful entry as permanently disqualifying, but the motion asks for an earned process. A person who passes checks, pays obligations, and meets conditions can become a citizen without erasing the original violation."
   },
   {
    "i": 10,
-   "src_i": 10,
-   "speaker": "CON",
+   "speaker": "PRO",
    "code": null,
-   "start_sec": 108.527,
-   "end_sec": 120.527,
-   "dur_sec": 12.0,
+   "start_sec": 119.16,
+   "end_sec": 133.68,
+   "dur_sec": 14.52,
    "overlap": false,
-   "text": "A voter can watch a sharp critic explain the opposite position, then join a discussion with people from different backgrounds. That concrete exchange shows the internet can widen political understanding rather than close it."
+   "text": "Screening is useful, but societies have always argued over who counts as a member. Ancient rulers recorded foreigners at city gates, and old empires taxed newcomers differently from locals. Those stories show that membership rules change when economies and borders change."
   },
   {
    "i": 11,
-   "src_i": 11,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 121.433,
-   "end_sec": 133.433,
-   "dur_sec": 12.0,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 133.88,
+   "end_sec": 142.08,
+   "dur_sec": 8.2,
    "overlap": false,
-   "text": "That example answers access, not influence. Finding a critic does not matter if outrage buries the argument and repeated group approval makes one view feel unquestionably true; that is how online politics narrows minds."
+   "text": "But, how do you relate that to give undocumented immigrants a path to citizenship? Land that on give undocumented immigrants a path to citizenship."
   },
   {
    "i": 12,
-   "src_i": 12,
-   "speaker": "CON",
+   "speaker": "PRO",
    "code": null,
-   "start_sec": 134.387,
-   "end_sec": 147.446,
-   "dur_sec": 13.059,
+   "start_sec": 142.28,
+   "end_sec": 157.52,
+   "dur_sec": 15.24,
    "overlap": false,
-   "text": "People also worry about privacy, harassment, and whether a careless comment follows them forever. Those concerns can make discussion cautious, but they are separate from the motion. The internet still gives political thought more doors than walls."
+   "text": "My position is simple: every undocumented immigrant deserves a path to citizenship, provided the path includes real requirements. The route can be demanding, but it must be available. A government should not make permanent exclusion the default for people who can meet lawful conditions."
   },
   {
    "i": 13,
-   "src_i": 13,
-   "speaker": "PRO",
+   "speaker": "CON",
    "code": null,
-   "start_sec": 148.313,
-   "end_sec": 160.666,
-   "dur_sec": 12.353,
+   "start_sec": 157.72,
+   "end_sec": 173.52,
+   "dur_sec": 15.8,
    "overlap": false,
-   "text": "Your weakest point is that more doors mean more openness. A door is useless when attention is steered toward familiar slogans, and the loudest reactions punish curiosity; political minds can close while choices remain visible."
+   "text": "I reject the premise that every undocumented immigrant deserves that path. A country may create a limited process for people who meet strict conditions, but it need not promise citizenship to all. Broad eligibility weakens deterrence and asks lawful applicants to accept an unfair shortcut."
   },
   {
    "i": 14,
-   "src_i": 14,
-   "speaker": "CON",
+   "speaker": "PRO",
    "code": null,
-   "start_sec": 161.06,
-   "end_sec": 174.119,
-   "dur_sec": 13.059,
+   "start_sec": 173.72,
+   "end_sec": 188.08,
+   "dur_sec": 14.36,
    "overlap": false,
-   "text": "I grant that attention can be steered. But steering is not control, and citizens can compare sources, leave hostile groups, or ask uncomfortable questions. Since those routes remain available, the internet does not inherently close political minds."
+   "text": "For someone who arrived as a child and built a stable life, citizenship should be available. For someone convicted of serious violence, removal may be justified. Between those examples, neither automatic approval nor rejection is fair; officials should weigh conduct and ties."
   },
   {
    "i": 15,
-   "src_i": 15,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 174.958,
-   "end_sec": 187.311,
-   "dur_sec": 12.353,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 188.28,
+   "end_sec": 197.28,
+   "dur_sec": 9.0,
    "overlap": false,
-   "text": "When every click teaches a platform which political feeling keeps you engaged, how can you call that freedom enough? If the easiest path is constant agreement, doesn't the internet quietly train people to reject challenge?"
+   "text": "You accuse every undocumented immigrant deserves a path to citizenship, but when I give you two examples, you sit on the fence and say it's neither."
   },
   {
    "i": 16,
-   "src_i": 16,
-   "speaker": "CON",
+   "speaker": "PRO",
    "code": null,
-   "start_sec": 188.299,
-   "end_sec": 199.24,
-   "dur_sec": 10.941,
+   "start_sec": 197.48,
+   "end_sec": 212.56,
+   "dur_sec": 15.08,
    "overlap": false,
-   "text": "A person may follow several rival commentators, discover a shared concern, and revise an old belief. That example shows online choice can create curiosity and political openness, not just reinforce a-"
+   "text": "Those positions fit because a right to seek a path is not a guarantee of approval. Everyone should be allowed to present an application, while the decision can depend on conduct, identity, and other requirements. Offering a route is universal; granting citizenship remains conditional."
   },
   {
    "i": 17,
-   "src_i": 17,
-   "speaker": "PRO",
+   "speaker": "CON",
    "code": null,
-   "start_sec": 198.34,
-   "end_sec": 209.282,
-   "dur_sec": 10.941,
-   "overlap": true,
-   "text": "But that person is exceptional, not typical; the design still rewards agreement. When feeds keep serving familiar anger, repeated exposure turns preference into certainty, and the internet closes minds at scale."
+   "start_sec": 212.76,
+   "end_sec": 228.24,
+   "dur_sec": 15.48,
+   "overlap": false,
+   "text": "You just said, \"Everyone should be allowed to present an application,\" then called citizenship conditional. That sounds like a path in name only. Your phrase \"neither automatic approval nor rejection\" leaves officials broad discretion, while applicants still face uncertainty and the original violation remains blurred."
   },
   {
    "i": 18,
-   "src_i": 18,
-   "speaker": "CON",
+   "speaker": "PRO",
    "code": null,
-   "start_sec": 209.67,
-   "end_sec": 221.67,
-   "dur_sec": 12.0,
+   "start_sec": 228.44,
+   "end_sec": 242.16,
+   "dur_sec": 13.72,
    "overlap": false,
-   "text": "No, the premise that typical users cannot resist a feed is false. Many people deliberately compare viewpoints and discuss them with others. The internet supplies tools for openness, so responsibility remains with the user."
+   "text": "If your process can deny citizenship to a person who meets every stated requirement, what does a path promise? And if officials may reject someone after years of compliance, why trust your route to be more than temporary permission that-"
   },
   {
    "i": 19,
-   "src_i": 19,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 222.594,
-   "end_sec": 233.629,
-   "dur_sec": 11.036,
-   "overlap": false,
-   "text": "Your answer treats deliberate comparison as common enough to settle the issue, but it ignores passive exposure. Most political impressions arrive before reflection, and repetition makes a narrow frame feel like-",
-   "ext_file": "L004_ext_a32.wav",
-   "cut_at_sec": 233.629,
-   "full_dur_sec": 11.294
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 241.36,
+   "end_sec": 248.76,
+   "dur_sec": 7.4,
+   "overlap": true,
+   "text": "And that concludes round two of this debate. We're going to go to closing arguments now. And so, first up, Christina."
   },
   {
    "i": 20,
-   "src_i": 22,
-   "speaker": "MOD",
-   "code": "A4",
-   "start_sec": 222.829,
-   "end_sec": 224.947,
-   "dur_sec": 2.118,
-   "overlap": true,
-   "text": "Ten seconds left in the crossfire."
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 248.96,
+   "end_sec": 268.92,
+   "dur_sec": 19.96,
+   "overlap": false,
+   "text": "Nadine's strongest point is that citizenship should not be handed out casually. I agree. That is why this motion supports a demanding path with screening, taxes, language, and a clean record. But opposing a path altogether turns one violation into a permanent sentence. People who work, raise families, and meet clear conditions should have a way to belong legally."
   },
   {
    "i": 21,
-   "src_i": 23,
    "speaker": "MOD",
-   "code": "A3-2",
-   "start_sec": 232.829,
-   "end_sec": 241.3,
-   "dur_sec": 8.471,
+   "code": "A4",
+   "start_sec": 268.1,
+   "end_sec": 269.74,
+   "dur_sec": 1.64,
    "overlap": true,
-   "text": "Okay, time. Round three, closing statements by each debater in turn. Let's go to the first of these speakers. Speaking for the motion, Nigel."
+   "text": "Ten seconds for last word."
   },
   {
    "i": 22,
-   "src_i": 24,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 241.5,
-   "end_sec": 261.456,
-   "dur_sec": 19.956,
+   "start_sec": 269.94,
+   "end_sec": 283.5,
+   "dur_sec": 13.56,
    "overlap": false,
-   "text": "The strongest point is not that every user is trapped. It is that political platforms repeatedly reward agreement, anger, and certainty, while making patient challenge less visible. Even when opposing views exist, the surrounding design trains attention toward familiar camps. That changes what feels reasonable, and it closes public thinking."
+   "text": "A fair process can protect borders while recognizing responsibility. It can deny applicants who fail serious requirements, but it should not deny everyone before they apply. Citizenship is earned through standards, and those standards matter only when the door is actually open to-"
   },
   {
    "i": 23,
-   "src_i": 25,
    "speaker": "MOD",
-   "code": "A4",
-   "start_sec": 261.5,
-   "end_sec": 262.912,
-   "dur_sec": 1.412,
+   "code": "A2-1",
+   "start_sec": 282.7,
+   "end_sec": 288.66,
+   "dur_sec": 5.96,
    "overlap": true,
-   "text": "Well, now it's ten."
+   "text": "Your time is up, Christina. Thank you. And here to summarize her position against the motion, Nadine."
   },
   {
    "i": 24,
-   "src_i": 26,
-   "speaker": "PRO",
+   "speaker": "CON",
    "code": null,
-   "start_sec": 261.656,
-   "end_sec": 272.8,
-   "dur_sec": 11.143,
+   "start_sec": 288.86,
+   "end_sec": 306.82,
+   "dur_sec": 17.96,
    "overlap": false,
-   "text": "Lloyd is right that people retain some choice, but a choice shaped by constant repetition is not full openness. When politics becomes performance for one's own side, curiosity fades, compromise looks weak, and-",
-   "cut_at_sec": 272.8,
-   "full_dur_sec": 14.043,
-   "ext_file": "L004_026.wav"
+   "text": "Christina's proposal sounds conditional, but her central claim reaches everyone. That is the problem. A path can be narrow, temporary, and carefully reviewed without becoming a general promise of citizenship. The law should reward lawful conduct and preserve consequences for unlawful entry. Compassion can guide policy without making citizenship the expected result."
   },
   {
    "i": 25,
-   "src_i": 27,
-   "speaker": "MOD",
-   "code": "A2-1",
-   "start_sec": 272.0,
-   "end_sec": 275.882,
-   "dur_sec": 3.882,
-   "overlap": true,
-   "text": "You're out of time. And here to summarize his position, Lloyd."
-  },
-  {
-   "i": 26,
-   "src_i": 28,
-   "speaker": "CON",
-   "code": null,
-   "start_sec": 276.082,
-   "end_sec": 285.931,
-   "dur_sec": 9.848,
-   "overlap": false,
-   "text": "The internet can amplify certainty, but it also gives people unprecedented access to rival arguments. That power to compare and revise means the tool does not close minds."
-  },
-  {
-   "i": 27,
-   "src_i": 29,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 285.031,
-   "end_sec": 287.331,
-   "dur_sec": 2.3,
-   "overlap": true,
-   "text": "Access alone is not openness. When the-",
-   "cut_at_sec": 287.331,
-   "full_dur_sec": 9.882,
-   "ext_file": "L004_029.wav"
-  },
-  {
-   "i": 28,
-   "src_i": 30,
-   "speaker": "MOD",
-   "code": "A5",
-   "start_sec": 286.531,
-   "end_sec": 287.589,
-   "dur_sec": 1.059,
-   "overlap": true,
-   "text": "Let him finish."
-  },
-  {
-   "i": 29,
-   "src_i": 31,
-   "speaker": "CON",
-   "code": null,
-   "start_sec": 287.789,
-   "end_sec": 298.032,
-   "dur_sec": 10.242,
-   "overlap": false,
-   "text": "It is still possible to search beyond that shield, question a group, and change course. Those actions are real, common choices, not imaginary exceptions, and they show the internet can support open political thinking."
-  },
-  {
-   "i": 30,
-   "src_i": 32,
-   "speaker": "MOD",
-   "code": "A4",
-   "start_sec": 296.082,
-   "end_sec": 296.788,
-   "dur_sec": 0.706,
-   "overlap": true,
-   "text": "Ten seconds."
-  },
-  {
-   "i": 31,
-   "src_i": 33,
-   "speaker": "CON",
-   "code": null,
-   "start_sec": 298.232,
-   "end_sec": 304.141,
-   "dur_sec": 5.909,
-   "overlap": false,
-   "text": "The internet offers risks, but human judgment decides whether those risks become closed minds."
-  },
-  {
-   "i": 32,
-   "src_i": 34,
    "speaker": "MOD",
    "code": null,
-   "start_sec": 304.341,
-   "end_sec": 310.694,
-   "dur_sec": 6.353,
+   "start_sec": 307.02,
+   "end_sec": 314.9,
+   "dur_sec": 7.88,
    "overlap": false,
-   "text": "Thank you both for a thoughtful debate. This discussion is now closed, with no winner declared tonight, formally."
+   "text": "Thank you, Christina and Nadine. This debate is closed. We have heard arguments for an earned path and concerns about fairness and enforcement."
   }
  ]
 }

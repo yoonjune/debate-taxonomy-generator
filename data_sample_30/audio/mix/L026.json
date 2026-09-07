@@ -1,0 +1,458 @@
+{
+ "debate_id": "L026",
+ "motion": "religion is a force for good in the world",
+ "speakers": {
+  "MOD": {
+   "name": "Christopher",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0417_1197",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0417/MSP-PODCAST_0417_1197.wav",
+   "wpm": 171.29
+  },
+  "PRO": {
+   "name": "Mari",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  },
+  "CON": {
+   "name": "Bob",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 95.28,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 305.72,
+ "ext": {
+  "a32": {
+   "file": "L026_ext_a32.wav",
+   "place_at_sec": 237.215,
+   "dur_sec": 29.0,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "No, the shelter's goodness cannot be separated from the faith community that organizes it. That same community can widen welcome and challenge exclusion, so religion remains a force for good."
+  },
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X16",
+   "text": "Why should the world treat religion as a force for good when its claimed authority can make harmful rules seem sacred and beyond correction?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.48,
+   "dur_sec": 19.48,
+   "overlap": false,
+   "text": "Today's motion is religion is a force for good in the world. Mari takes the PRO side, and Bob takes the CON side. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each gives a thirty-second closing, with a ten-second cue. Be clear, stay relevant, and address the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.68,
+   "end_sec": 40.12,
+   "dur_sec": 20.44,
+   "overlap": false,
+   "text": "I support this motion because religion can give people a moral vocabulary, shared duties, and hope beyond private gain. It can turn compassion into habits: feeding neighbors, forgiving enemies, serving people with little power. It also gives communities rituals for grief and courage during hardship. Those gifts shape choices, families, and life, and I will explain why they matter."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.68,
+   "end_sec": 41.56,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.32,
+   "end_sec": 50.98,
+   "dur_sec": 10.66,
+   "overlap": false,
+   "text": "When people believe their lives carry duties beyond appetite, they often restrain cruelty and practice generosity. Faith communities can welcome strangers, teach service, and give lonely people belonging. That is not-",
+   "cut_at_sec": 50.98,
+   "full_dur_sec": 13.88,
+   "ext_file": "L026_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 50.18,
+   "end_sec": 53.66,
+   "dur_sec": 3.48,
+   "overlap": true,
+   "text": "Thank you. Time is up on that. And now Bob."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.86,
+   "end_sec": 73.34,
+   "dur_sec": 19.48,
+   "overlap": false,
+   "text": "I oppose the motion because religion is not automatically a force for good. It can inspire charity, but it can also divide neighbors, excuse authority, and turn doubt into shame. When sacred claims cannot be questioned, leaders may demand obedience instead of accountability. Good intentions do not make religion a dependable force for the world."
+  },
+  {
+   "i": 6,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 73.54,
+   "end_sec": 85.16,
+   "dur_sec": 11.62,
+   "overlap": false,
+   "text": "It is not enough to point to kind believers. A force for good should be judged by its effects when teachings shape laws, families, and identity. Religion sometimes heals, yet the same authority-",
+   "cut_at_sec": 85.16,
+   "full_dur_sec": 14.84,
+   "ext_file": "L026_007.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 73.86,
+   "end_sec": 75.18,
+   "dur_sec": 1.32,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 84.36,
+   "end_sec": 86.56,
+   "dur_sec": 2.2,
+   "overlap": true,
+   "text": "Thank you, Bob. Your time is up."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 86.76,
+   "end_sec": 95.28,
+   "dur_sec": 8.52,
+   "overlap": false,
+   "text": "Great. So let's move on to the discussion portion of the debate. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 95.48,
+   "end_sec": 105.68,
+   "dur_sec": 10.2,
+   "overlap": false,
+   "text": "When a congregation organizes meals for hungry neighbors, it turns belief into practical care. That shared duty reaches people who might otherwise be ignored, proving religion can create real good."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 106.606,
+   "end_sec": 116.726,
+   "dur_sec": 10.12,
+   "overlap": false,
+   "text": "That example shows charity, not religion's overall force. People can feed neighbors through ordinary compassion, while religious authority may still divide them; one good act cannot prove the motion."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 117.517,
+   "end_sec": 128.917,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I reject the premise that the act is separate from religion when shared belief motivates it. Communities build trust and service through that belief, so dismissing its source misses the good it creates-"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 128.017,
+   "end_sec": 138.457,
+   "dur_sec": 10.44,
+   "overlap": true,
+   "text": "But you are treating every congregation as benevolent. Belief can motivate care, yet it can also make outsiders suspect and reward conformity; that wider harm is why religion is not good."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 139.429,
+   "end_sec": 150.509,
+   "dur_sec": 11.08,
+   "overlap": false,
+   "text": "When religion respects conscience and serves human dignity, it can unify people across difference. Under that condition, shared faith makes generosity durable rather than occasional, so religion is a force for good."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 151.428,
+   "end_sec": 162.108,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "I grant that faith can sustain generosity. But your condition admits the danger: religion often claims special authority, and that can turn unity into pressure; overall it remains unreliable for society."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 162.818,
+   "end_sec": 173.418,
+   "dur_sec": 10.6,
+   "overlap": false,
+   "text": "A grieving family may find a community that listens, shares meals, and offers rituals without demanding payment. That support restores connection when despair isolates people, proving religious practice can heal."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 174.177,
+   "end_sec": 184.697,
+   "dur_sec": 10.52,
+   "overlap": false,
+   "text": "Healing is possible without religion, so the example proves human kindness, not religious goodness. It also ignores cases where rituals exclude doubters; selective comfort cannot establish the motion is true."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 185.208,
+   "end_sec": 195.008,
+   "dur_sec": 9.8,
+   "overlap": false,
+   "text": "Rituals also preserve language and family memory, which can matter in childhood. But those cultural benefits are secondary; when religion builds compassion and responsibility, it is a force for good."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 195.408,
+   "end_sec": 203.608,
+   "dur_sec": 8.2,
+   "overlap": false,
+   "text": "Can you call religion a force for good when its moral authority depends on obedience that may silence conscience and excuse leaders from honest scrutiny?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 204.244,
+   "end_sec": 214.124,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "Across cultures and eras, religion has often moved people toward charity, restraint, and shared responsibility. Even where conditions are imperfect, its broad moral influence can still benefit the world."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.83,
+   "end_sec": 226.47,
+   "dur_sec": 11.64,
+   "overlap": false,
+   "text": "I accept that many believers act kindly. But kindness does not erase teachings that rank insiders above outsiders or punish questions; because religion can authorize those harms, it is not a force for good."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 226.758,
+   "end_sec": 236.958,
+   "dur_sec": 10.2,
+   "overlap": false,
+   "text": "A faith-based shelter can welcome a person everyone else rejects, offering food, safety, and a listening ear. That turns compassion into organized action, proving religion can strengthen human dignity daily."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 235.28,
+   "end_sec": 236.68,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 237.215,
+   "end_sec": 246.08,
+   "dur_sec": 8.865,
+   "overlap": false,
+   "text": "A shelter may help, but its goodness comes from hospitality, not a doctrine. If the same doctrine labels some people unworthy, one shelter cannot outweigh-",
+   "ext_file": "L026_ext_a32.wav",
+   "cut_at_sec": 246.08,
+   "full_dur_sec": 10.36
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 245.28,
+   "end_sec": 257.4,
+   "dur_sec": 12.12,
+   "overlap": true,
+   "text": "And that's time. Let's move on to Round three, closing statements from each debater in turn. Our resolution is, religion is a force for good in the world. Leading off with her closing statement, Mari."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 257.6,
+   "end_sec": 270.12,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "This decision turns on whether we judge religion only by its failures or also by the good it reliably calls people to do. It builds service, belonging, courage, and mercy; that moral force makes the motion true."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 270.32,
+   "end_sec": 271.88,
+   "dur_sec": 1.56,
+   "overlap": false,
+   "text": "Bob, the floor is yours."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 272.08,
+   "end_sec": 281.56,
+   "dur_sec": 9.48,
+   "overlap": false,
+   "text": "This decision turns on reliability, not isolated kindness. If religion can inspire care yet also excuse division, it cannot fairly be called a force for good."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 280.66,
+   "end_sec": 282.96,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That is unfair: you keep separating-",
+   "cut_at_sec": 282.96,
+   "full_dur_sec": 7.88,
+   "ext_file": "L026_031.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 282.16,
+   "end_sec": 284.12,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Wait, let him answer the question."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 284.32,
+   "end_sec": 293.96,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "I am asking whether the label fits the whole force. Religion can comfort people, but its authority can also silence conscience and shield harmful rules from challenge."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 292.08,
+   "end_sec": 293.16,
+   "dur_sec": 1.08,
+   "overlap": true,
+   "text": "Ten seconds, Bob."
+  },
+  {
+   "i": 33,
+   "src_i": 35,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 294.16,
+   "end_sec": 299.32,
+   "dur_sec": 5.16,
+   "overlap": false,
+   "text": "Choose dependable principles that welcome questions and protect everyone, not religion's uncertain authority."
+  },
+  {
+   "i": 34,
+   "src_i": 36,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 299.52,
+   "end_sec": 305.72,
+   "dur_sec": 6.2,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate. The discussion is closed, with no winner declared and no audience."
+  }
+ ]
+}

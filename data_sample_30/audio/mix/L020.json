@@ -1,0 +1,416 @@
+{
+ "debate_id": "L020",
+ "motion": "Smart technology is making us dumb",
+ "speakers": {
+  "MOD": {
+   "name": "William",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6582_423",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_6/MSP-PODCAST_6582/MSP-PODCAST_6582_423.wav",
+   "wpm": 164.89
+  },
+  "PRO": {
+   "name": "Todd",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2988_467",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2988/MSP-PODCAST_2988_467.wav",
+   "wpm": 167.95
+  },
+  "CON": {
+   "name": "Joseph",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5993_347",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5993/MSP-PODCAST_5993_347.wav",
+   "wpm": 163.88
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 70.84,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 307.24,
+ "ext": {
+  "a32": {
+   "file": "L020_ext_a32.wav",
+   "place_at_sec": 216.786,
+   "dur_sec": 22.84,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "A student who asks a writing tool for every sentence may submit polished work yet struggle to explain it aloud. That harm shows smart technology can replace learning, making our thinking less intelligent."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.12,
+   "dur_sec": 16.12,
+   "overlap": false,
+   "text": "Tonight we debate whether smart technology is making our thinking less intelligent. Todd argues for the motion, and Joseph argues against it. Each gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.32,
+   "end_sec": 30.2,
+   "dur_sec": 13.88,
+   "overlap": false,
+   "text": "Smart technology is making us dumb because it replaces effort with instant answers. We remember less, question less, and practice fewer skills when devices do ordinary thinking for us. Its convenience is quietly weakening the habits that keep our minds sharp."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 30.4,
+   "end_sec": 33.08,
+   "dur_sec": 2.68,
+   "overlap": false,
+   "text": "I'm going to let him respond to that."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 33.28,
+   "end_sec": 53.0,
+   "dur_sec": 19.72,
+   "overlap": false,
+   "text": "Smart technology does not make people dumb; it gives them tools that can improve learning, creativity, and judgment. A person can check an answer, compare ideas, and solve harder problems with assistance. The real danger is careless use, not the technology itself, and that distinction matters because tools can serve thoughtful users."
+  },
+  {
+   "i": 4,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.2,
+   "end_sec": 58.68,
+   "dur_sec": 5.48,
+   "overlap": false,
+   "text": "Used with judgment, smart technology expands what people can understand and accomplish."
+  },
+  {
+   "i": 5,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 53.28,
+   "end_sec": 56.04,
+   "dur_sec": 2.76,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 58.88,
+   "end_sec": 70.84,
+   "dur_sec": 11.96,
+   "overlap": false,
+   "text": "Thanks very much, Joseph. And that concludes our first round. And our second round is much more of a freewheeling conversation. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 71.04,
+   "end_sec": 82.52,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Joseph says careless use is the problem, but these tools are built to reward convenience. When answers arrive instantly, people skip practice and reflection, so the technology itself encourages the habits that weaken thinking."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 83.334,
+   "end_sec": 96.014,
+   "dur_sec": 12.68,
+   "overlap": false,
+   "text": "A student can use a translation tool to compare wording, then explain why one phrase fits better. That student gains practice through the tool, which proves smart technology can strengthen understanding rather than make people dumb."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.572,
+   "end_sec": 107.732,
+   "dur_sec": 11.16,
+   "overlap": false,
+   "text": "That means schools should ban phones during lessons and require handwritten work, because students need protected spaces for effort, memory, and patience. The real policy question is how strictly classrooms should control devices."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 107.932,
+   "end_sec": 113.252,
+   "dur_sec": 5.32,
+   "overlap": false,
+   "text": "But we're asking smart technology is making our thinking less intelligent. That's the question here."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 113.452,
+   "end_sec": 125.172,
+   "dur_sec": 11.72,
+   "overlap": false,
+   "text": "That question matters because those controls reveal the problem: smart technology is making our thinking less intelligent. When devices supply every reminder and answer, we practice less judgment, so convenience quietly becomes mental dependence."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 125.853,
+   "end_sec": 137.653,
+   "dur_sec": 11.8,
+   "overlap": false,
+   "text": "When a tool handles routine recall but leaves the user to explain, check, and decide, it can strengthen thinking rather than weaken it. Under that condition, smart technology is assistance, not a cause of stupidity."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 138.284,
+   "end_sec": 148.884,
+   "dur_sec": 10.6,
+   "overlap": false,
+   "text": "It also changes who controls learning, since families and schools decide which tools children may use and when. But that still points back: dependence on smart technology can make thinking less intelligent."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.51,
+   "end_sec": 160.59,
+   "dur_sec": 11.08,
+   "overlap": false,
+   "text": "Your point about dependence ignores the user's choice. A calculator does not make everyone unable to reason; it can free attention for harder work, so blaming the tool confuses misuse with-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 159.69,
+   "end_sec": 171.09,
+   "dur_sec": 11.4,
+   "overlap": true,
+   "text": "No, it is not just misuse. When a device supplies answers before you struggle, you lose practice asking questions and remembering methods; repeated shortcuts train dependence, which is how smart technology makes us dumb."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 171.581,
+   "end_sec": 181.061,
+   "dur_sec": 9.48,
+   "overlap": false,
+   "text": "Smart technology does not automatically make anyone dumb; its effect depends on how it is used. Yet tools designed to replace judgment can weaken thinking across ordinary daily life."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 181.772,
+   "end_sec": 191.812,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "If your defense depends on careful use, how will ordinary users notice when convenience has replaced their judgment? What protects thinking when the easiest tool rewards copying instead of understanding?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 192.489,
+   "end_sec": 204.369,
+   "dur_sec": 11.88,
+   "overlap": false,
+   "text": "They can notice by checking results and explaining them; my position does not assume passive users. Convenience is not proof of harm: smart tools can prompt comparison and deeper questions instead of replacing judgment."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 204.768,
+   "end_sec": 216.328,
+   "dur_sec": 11.56,
+   "overlap": false,
+   "text": "I grant that careful users can learn with smart tools. But the main issue is what these tools encourage at scale: instant answers, less memory, and less effort, which makes our thinking less intelligent."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 210.84,
+   "end_sec": 212.96,
+   "dur_sec": 2.12,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 216.786,
+   "end_sec": 221.64,
+   "dur_sec": 4.854,
+   "overlap": false,
+   "text": "Your claim about careful users misses the default experience. A tool can offer instant answers-",
+   "ext_file": "L020_ext_a32.wav",
+   "cut_at_sec": 221.64,
+   "full_dur_sec": 11.96
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 220.84,
+   "end_sec": 230.4,
+   "dur_sec": 9.56,
+   "overlap": true,
+   "text": "And that's time. So, Round three, closing statements. Here, making his closing statement in support of smart technology is making our thinking less intelligent, here is Todd."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 230.6,
+   "end_sec": 250.16,
+   "dur_sec": 19.56,
+   "overlap": false,
+   "text": "Deciding this motion turns on what smart technology trains us to do, not merely what it can do. Joseph is right that careful use may help, but that condition is fragile. In daily life, convenience invites us to outsource memory, judgment, and effort. When a tool answers first, our own thinking gets less exercise."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 250.36,
+   "end_sec": 261.9,
+   "dur_sec": 11.54,
+   "overlap": false,
+   "text": "The choice is not between rejecting tools and accepting them blindly. It is whether we protect the habits that make us capable, remembering, questioning, and solving problems without assistance. If smart technology replaces-",
+   "cut_at_sec": 261.9,
+   "full_dur_sec": 13.48,
+   "ext_file": "L020_026.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 250.6,
+   "end_sec": 251.92,
+   "dur_sec": 1.32,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 261.1,
+   "end_sec": 266.5,
+   "dur_sec": 5.4,
+   "overlap": true,
+   "text": "Thank you, your time is up. And here to summarize his position against the motion, Joseph."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.7,
+   "end_sec": 286.74,
+   "dur_sec": 20.04,
+   "overlap": false,
+   "text": "The strongest point is simple: a tool is not a mind, and its effect depends on its user. Careful users can check answers, compare ideas, and use automation to reach harder questions. Todd warns about lazy habits, but that calls for teaching judgment, not blaming smart technology. The motion confuses a risk with an inevitable result."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 286.7,
+   "end_sec": 287.86,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 286.94,
+   "end_sec": 298.0,
+   "dur_sec": 11.06,
+   "overlap": false,
+   "text": "Smart technology can support memory and let people revise their work. A calculator does not erase mathematics; a writing tool does not erase thought. If we teach users to question and verify-",
+   "cut_at_sec": 298.0,
+   "full_dur_sec": 13.56,
+   "ext_file": "L020_030.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 297.2,
+   "end_sec": 300.6,
+   "dur_sec": 3.4,
+   "overlap": true,
+   "text": "I'm sorry. Your time is up. Thank you very much."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 300.8,
+   "end_sec": 307.24,
+   "dur_sec": 6.44,
+   "overlap": false,
+   "text": "Thank you both for the debate; this discussion of smart technology making our thinking less intelligent is now closed."
+  }
+ ]
+}

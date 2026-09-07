@@ -1,0 +1,43 @@
+L029  |  Policing is racially biased.
+  MOD=Mark   PRO=Elise   CON=Genevieve
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Mark(MOD): Today we debate the motion, "Policing is racially biased." Elise argues for it, and Genevieve argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire. We will give a ten-second cue. Then each side gets thirty seconds to close. The speakers should address the motion directly and keep their claims clear.
+[t01] Elise(PRO): Racial bias can shape whom officers stop, question, search, or believe. It can appear in patterns and in one encounter. Fairness requires confronting both sides.
+[t02] <ovl> <cut> Genevieve(CON): That claim ignores how officers face danger-
+[t03] @A5 <ovl> Mark(MOD): Hold on.
+[t04] Elise(PRO): But unequal outcomes do not need a stated slur to reveal a biased system. When similar conduct gets different scrutiny, that difference is the issue here.
+[t05] @A4 <ovl> Mark(MOD): You've got ten seconds.
+[t06] Elise(PRO): Repeated unequal treatment is not random; it is racial bias in policing.
+[t07] @A2-2 Mark(MOD): Great, Genevieve, go ahead.
+[t08] Genevieve(CON): Policing is not racially biased as a general rule. Officers work under pressure, respond to different threats, and use lawful discretion that can produce different outcomes without racial prejudice. A troubling encounter may show poor judgment, but that is not proof of a racial system. We should fix misconduct while refusing a claim broader than the evidence.
+[t09] @A4 <ovl> Mark(MOD): Genevieve, ten seconds.
+[t10] <cut> Genevieve(CON): If an officer acts unfairly, discipline should follow, and training should improve. But calling policing racially biased turns every disputed decision into evidence, even when context-
+[t11] @A1 <ovl> Mark(MOD): I'm gonna cut you off just for time.
+--- phase 2 ---
+[t12] @A3-1 Mark(MOD): Now we go on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t13] Elise(PRO): No, unequal outcomes alone do not prove racial bias. When comparable conduct receives different suspicion, stops, or force, the pattern matters because systems can reproduce prejudice.
+[t14] Genevieve(CON): Consider two officers using the same calm script for every person they stop: fewer arbitrary encounters, clearer accountability, and greater trust. That practical fairness shows policing need not be racially biased.
+[t15] Elise(PRO): I grant that context matters in individual encounters. But context cannot excuse a repeated racial pattern in who gets watched, searched, or doubted; unequal treatment still makes policing racially biased.
+[t16] <cut> Genevieve(CON): Your repeated-pattern claim assumes the very conclusion under debate. Different neighborhoods and calls bring different risks, so different responses may be reasonable; treating variation as proof of bias erases-
+[t17] <ovl> Elise(PRO): Reasonable variation does not explain racial differences after similar situations are compared. If discretion repeatedly burdens one group, that discretion is the mechanism through which policing becomes racially biased.
+[t18] Genevieve(CON): Your phrase similar situations hides the hardest judgment: deciding which calls truly match. A person's behavior, danger, and information can differ, so your comparison may manufacture bias rather than reveal it.
+[t19] Elise(PRO): No, comparisons do not manufacture bias when the situations are genuinely alike. Officers can face different risks, yet repeated unequal scrutiny still shows policing is racially biased.
+[t20] Genevieve(CON): A supervisor who reviews stops by conduct rather than identity can correct errors while protecting everyone's rights. That workable safeguard shows reform is possible without declaring policing racially biased.
+[t21] Elise(PRO): I agree that review can correct some errors. But a safeguard is necessary precisely because unchecked discretion can reproduce racial bias; reform does not disprove the motion.
+[t22] Genevieve(CON): Your safeguard point does not establish the claim. The need to review decisions proves only that mistakes occur, while racial bias requires showing that race drives policing broadly.
+[t23] Elise(PRO): Training also matters: officers learn communication, restraint, and lawful procedure. Those tools help, but the central question remains whether racial patterns shape enforcement; when they do, policing is racially biased.
+[t24] Genevieve(CON): That drift toward training avoids the claim's scope. Better communication may improve every encounter, but it cannot show that race, rather than circumstances, causes unequal enforcement.
+[t25] Elise(PRO): No, circumstances cannot explain every repeated racial difference. When comparable conduct receives unequal enforcement, race is influencing the system, and policing is racially biased.
+[t26] Genevieve(CON): Imagine officers changing tactics after a violent incident, using more caution where danger appears greater. That response protects residents regardless of race and proves unequal treatment can reflect risk, not bias.
+[t27] @A4 <ovl> Mark(MOD): Ten seconds remaining in this round.
+[t28] <cut> Elise(PRO): I accept that risk can justify different tactics. But risk must be judged consistently-
+--- phase 3 ---
+[t29] @A3-2 <ovl> Mark(MOD): Time's up. So let's move on to our closing round. You go first in this closing round, Elise, the floor is yours.
+[t30] Elise(PRO): This motion turns on whether racial patterns are incidental or built into ordinary enforcement. Genevieve is right that context matters, but discretion can carry bias into stops, searches, and force. We should judge repeated unequal treatment, not demand a confession of prejudice. If similar conduct receives different treatment by race, policing is racially biased.
+[t31] @A4 <ovl> Mark(MOD): Well, now ten.
+[t32] <cut> Elise(PRO): The answer is not to blame every officer. It is to recognize the system's pattern, require consistent standards, and protect people from unequal enforcement. Ignoring that pattern preserves-
+[t33] @A2-1 <ovl> Mark(MOD): You're out of time. And here to summarize her position, Genevieve.
+[t34] Genevieve(CON): Elise's strongest point is that unequal treatment deserves review. But review does not prove that policing itself is racially biased. Context, danger, and behavior can justify different responses, while fair standards can correct individual misconduct without condemning the whole system. The motion claims too much, so I oppose it.
+[t35] Mark(MOD): Thank you both for a focused debate. The debate is closed, with no winner declared.

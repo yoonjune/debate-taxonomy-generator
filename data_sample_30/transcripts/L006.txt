@@ -1,0 +1,38 @@
+L006  |  Gerrymandering is destroying the political center
+  MOD=Ahmed   PRO=Derek   CON=Nadine
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Ahmed(MOD): Today's motion is, "Gerrymandering is destroying the political center." Derek takes the proposition, arguing that it is true; Nadine takes the opposition, arguing that it is false. Each side gets thirty seconds to open, then two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue.
+[t01] Derek(PRO): Gerrymandering is destroying the political center because it rewards candidates for pleasing the loudest faction, not persuading the broad public. Safe districts make compromise look dangerous and primary challenges more important than general elections. Over time, voters in the middle hear fewer serious appeals, while officials learn that moderation can cost them their seats. That changes the center itself.
+[t02] @A4 <ovl> Ahmed(MOD): Ten seconds from this side?
+[t03] Derek(PRO): This is not just about oddly shaped maps; it is about incentives. When politicians fear their own extremes more than the other party, the center loses representation and influence.
+[t04] @A2-2 Ahmed(MOD): Okay. Go on, Nadine.
+[t05] Nadine(CON): Gerrymandering can be unfair, but calling it the force destroying the political center overstates its reach. The center is not a fixed group that disappears when districts are drawn strategically. Moderates still vote, organize, persuade, and sometimes win. Political conflict may become sharper, but that does not prove the center has been destroyed. The motion confuses pressure with disappearance.
+[t06] @A4 <ovl> Ahmed(MOD): You have ten seconds.
+[t07] <cut> Nadine(CON): A district can be badly drawn and still contain voters with mixed views. The real question is whether those voters lose their political importance, and they do not; candidates can still reach them-
+[t08] @A1 <ovl> Ahmed(MOD): Nadine, her time is up.
+--- phase 2 ---
+[t09] @A3-1 Ahmed(MOD): And that concludes round one of this debate. Now we go on to round two. And round two are where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t10] Derek(PRO): No, the premise that the center merely feels pressure is too weak; I mean its political power is being hollowed out. Safe districts reward purity, so moderate voters remain present but lose meaningful choices.
+[t11] Nadine(CON): I believe gerrymandering never destroys the political center. It can distort representation, but the center survives through voters, local concerns, and candidates who build broader coalitions.
+[t12] Derek(PRO): Your distinction between existence and power concedes my point: a silent center may still exist socially. If it cannot shape nominees or platforms, the political center is being destroyed politically.
+[t13] Nadine(CON): In a district drawn to silence moderates, gerrymandering destroys the political center. Yet outside that narrow case, ordinary disagreement and turnout still leave the center politically alive.
+[t14] @B2 Ahmed(MOD): Nadine, thank you very much indeed. You said i believe gerrymandering never destroys the political center. gerrymandering destroys the political center?
+[t15] Nadine(CON): Those statements distinguish direct action from a specific outcome: gerrymandering never acts alone, but in that district it destroys the center through deliberate silencing. The broader motion still exaggerates its reach.
+[t16] Derek(PRO): Maps also affect who volunteers, donates, and speaks at meetings, because people expect the result before participating. That civic withdrawal matters here: engineered certainty strips the center of political force.
+[t17] Nadine(CON): I reject the premise that withdrawal proves destruction; some citizens disengage, but others organize around local schools, roads, or taxes. Those cross-cutting concerns keep the political center alive.
+[t18] <cut> Derek(PRO): I grant that local issues can cross party lines. But when district lines decide which voices matter before those issues are debated, the center is not merely pressured; it is-
+[t19] <ovl> Nadine(CON): That assumes influence must come through a competitive district. Voters can still change parties, pressure officials, and form coalitions, so the center remains politically real.
+[t20] Derek(PRO): The neighboring issue is whether election rules should give voters clearer choices and fairer contests. We need open nominations, transparent mapmaking, and broader participation so officials answer to more than a narrow base.
+[t21] @B1 Ahmed(MOD): Wait, can you frame your question more towards, to something that feeds into gerrymandering is destroying the political center?
+[t22] Derek(PRO): The motion asks whether gerrymandering destroys the political center, and safe districts make moderation electorally costly. When maps remove competition, they turn middle-ground voters into spectators, which is political destruction.
+[t23] Nadine(CON): If the center is truly destroyed, why do moderate candidates and mixed-voter coalitions keep appearing in these districts? What evidence shows reduced influence means disappearance rather than temporary weakness?
+[t24] @A4 <ovl> Ahmed(MOD): Ten seconds remaining in this round.
+[t25] <cut> Derek(PRO): I reject the premise that occasional moderates disprove destruction; exceptions cannot restore a system that punishes them. Their presence shows the center survives socially, not that it retains-
+--- phase 3 ---
+[t26] @A3-2 <ovl> Ahmed(MOD): Time's up. And now we move on to Round three. Here making his closing statement in support of the motion that gerrymandering is destroying the political center, Derek.
+[t27] Derek(PRO): This motion turns on political power, not whether moderate people still exist. Gerrymandering makes officials fear factional challenges, narrows real choices, and leaves broad-minded voters with less influence. When the center remains present but cannot shape candidates or policy, it is being destroyed politically.
+[t28] @A2-2 Ahmed(MOD): What about that, Nadine?
+[t29] Nadine(CON): This motion turns on whether the center disappears, and it does not. Gerrymandering can weaken competition and deserve criticism, but voters still hold mixed views, organize around practical concerns, and build coalitions. Pressure on the center is serious, yet it is not destruction.
+[t30] Ahmed(MOD): Thank you both for your arguments. That concludes the debate.

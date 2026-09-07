@@ -1,0 +1,39 @@
+L020  |  Smart technology is making us dumb
+  MOD=William   PRO=Todd   CON=Joseph
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] William(MOD): Tonight we debate whether smart technology is making our thinking less intelligent. Todd argues for the motion, and Joseph argues against it. Each gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue.
+[t01] Todd(PRO): Smart technology is making us dumb because it replaces effort with instant answers. We remember less, question less, and practice fewer skills when devices do ordinary thinking for us. Its convenience is quietly weakening the habits that keep our minds sharp.
+[t02] @A2-2 William(MOD): I'm going to let him respond to that.
+[t03] Joseph(CON): Smart technology does not make people dumb; it gives them tools that can improve learning, creativity, and judgment. A person can check an answer, compare ideas, and solve harder problems with assistance. The real danger is careless use, not the technology itself, and that distinction matters because tools can serve thoughtful users.
+[t04] Joseph(CON): Used with judgment, smart technology expands what people can understand and accomplish.
+[t05] @A4 <ovl> William(MOD): I can give you ten seconds to do this.
+--- phase 2 ---
+[t06] @A3-1 William(MOD): Thanks very much, Joseph. And that concludes our first round. And our second round is much more of a freewheeling conversation. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Todd(PRO): Joseph says careless use is the problem, but these tools are built to reward convenience. When answers arrive instantly, people skip practice and reflection, so the technology itself encourages the habits that weaken thinking.
+[t08] Joseph(CON): A student can use a translation tool to compare wording, then explain why one phrase fits better. That student gains practice through the tool, which proves smart technology can strengthen understanding rather than make people dumb.
+[t09] Todd(PRO): That means schools should ban phones during lessons and require handwritten work, because students need protected spaces for effort, memory, and patience. The real policy question is how strictly classrooms should control devices.
+[t10] @B1 William(MOD): But we're asking smart technology is making our thinking less intelligent. That's the question here.
+[t11] Todd(PRO): That question matters because those controls reveal the problem: smart technology is making our thinking less intelligent. When devices supply every reminder and answer, we practice less judgment, so convenience quietly becomes mental dependence.
+[t12] Joseph(CON): When a tool handles routine recall but leaves the user to explain, check, and decide, it can strengthen thinking rather than weaken it. Under that condition, smart technology is assistance, not a cause of stupidity.
+[t13] Todd(PRO): It also changes who controls learning, since families and schools decide which tools children may use and when. But that still points back: dependence on smart technology can make thinking less intelligent.
+[t14] <cut> Joseph(CON): Your point about dependence ignores the user's choice. A calculator does not make everyone unable to reason; it can free attention for harder work, so blaming the tool confuses misuse with-
+[t15] <ovl> Todd(PRO): No, it is not just misuse. When a device supplies answers before you struggle, you lose practice asking questions and remembering methods; repeated shortcuts train dependence, which is how smart technology makes us dumb.
+[t16] Joseph(CON): Smart technology does not automatically make anyone dumb; its effect depends on how it is used. Yet tools designed to replace judgment can weaken thinking across ordinary daily life.
+[t17] Todd(PRO): If your defense depends on careful use, how will ordinary users notice when convenience has replaced their judgment? What protects thinking when the easiest tool rewards copying instead of understanding?
+[t18] Joseph(CON): They can notice by checking results and explaining them; my position does not assume passive users. Convenience is not proof of harm: smart tools can prompt comparison and deeper questions instead of replacing judgment.
+[t19] Todd(PRO): I grant that careful users can learn with smart tools. But the main issue is what these tools encourage at scale: instant answers, less memory, and less effort, which makes our thinking less intelligent.
+[t20] @A4 <ovl> William(MOD): Ten seconds left on the crossfire.
+[t21] <cut> Joseph(CON): Your claim about careful users misses the default experience. A tool can offer instant answers-
+--- phase 3 ---
+[t22] @A3-2 <ovl> William(MOD): And that's time. So, Round three, closing statements. Here, making his closing statement in support of smart technology is making our thinking less intelligent, here is Todd.
+[t23] Todd(PRO): Deciding this motion turns on what smart technology trains us to do, not merely what it can do. Joseph is right that careful use may help, but that condition is fragile. In daily life, convenience invites us to outsource memory, judgment, and effort. When a tool answers first, our own thinking gets less exercise.
+[t24] <cut> Todd(PRO): The choice is not between rejecting tools and accepting them blindly. It is whether we protect the habits that make us capable, remembering, questioning, and solving problems without assistance. If smart technology replaces-
+[t25] @A4 <ovl> William(MOD): Well, now it's ten.
+[t26] @A2-1 <ovl> William(MOD): Thank you, your time is up. And here to summarize his position against the motion, Joseph.
+[t27] Joseph(CON): The strongest point is simple: a tool is not a mind, and its effect depends on its user. Careful users can check answers, compare ideas, and use automation to reach harder questions. Todd warns about lazy habits, but that calls for teaching judgment, not blaming smart technology. The motion confuses a risk with an inevitable result.
+[t28] @A4 <ovl> William(MOD): Well, now ten.
+[t29] <cut> Joseph(CON): Smart technology can support memory and let people revise their work. A calculator does not erase mathematics; a writing tool does not erase thought. If we teach users to question and verify-
+[t30] @A1 <ovl> William(MOD): I'm sorry. Your time is up. Thank you very much.
+[t31] William(MOD): Thank you both for the debate; this discussion of smart technology making our thinking less intelligent is now closed.

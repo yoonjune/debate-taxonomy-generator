@@ -1,0 +1,42 @@
+L026  |  religion is a force for good in the world
+  MOD=Christopher   PRO=Mari   CON=Bob
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Christopher(MOD): Today's motion is religion is a force for good in the world. Mari takes the PRO side, and Bob takes the CON side. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each gives a thirty-second closing, with a ten-second cue. Be clear, stay relevant, and address the motion.
+[t01] Mari(PRO): I support this motion because religion can give people a moral vocabulary, shared duties, and hope beyond private gain. It can turn compassion into habits: feeding neighbors, forgiving enemies, serving people with little power. It also gives communities rituals for grief and courage during hardship. Those gifts shape choices, families, and life, and I will explain why they matter.
+[t02] @A4 <ovl> Christopher(MOD): You have ten seconds left.
+[t03] <cut> Mari(PRO): When people believe their lives carry duties beyond appetite, they often restrain cruelty and practice generosity. Faith communities can welcome strangers, teach service, and give lonely people belonging. That is not-
+[t04] @A2-1 <ovl> Christopher(MOD): Thank you. Time is up on that. And now Bob.
+[t05] Bob(CON): I oppose the motion because religion is not automatically a force for good. It can inspire charity, but it can also divide neighbors, excuse authority, and turn doubt into shame. When sacred claims cannot be questioned, leaders may demand obedience instead of accountability. Good intentions do not make religion a dependable force for the world.
+[t06] <cut> Bob(CON): It is not enough to point to kind believers. A force for good should be judged by its effects when teachings shape laws, families, and identity. Religion sometimes heals, yet the same authority-
+[t07] @A4 <ovl> Christopher(MOD): You've got ten seconds.
+[t08] @A1 <ovl> Christopher(MOD): Thank you, Bob. Your time is up.
+--- phase 2 ---
+[t09] @A3-1 Christopher(MOD): Great. So let's move on to the discussion portion of the debate. It runs two and a half minutes, starting the moment I stop. Go.
+[t10] Mari(PRO): When a congregation organizes meals for hungry neighbors, it turns belief into practical care. That shared duty reaches people who might otherwise be ignored, proving religion can create real good.
+[t11] Bob(CON): That example shows charity, not religion's overall force. People can feed neighbors through ordinary compassion, while religious authority may still divide them; one good act cannot prove the motion.
+[t12] <cut> Mari(PRO): I reject the premise that the act is separate from religion when shared belief motivates it. Communities build trust and service through that belief, so dismissing its source misses the good it creates-
+[t13] <ovl> Bob(CON): But you are treating every congregation as benevolent. Belief can motivate care, yet it can also make outsiders suspect and reward conformity; that wider harm is why religion is not good.
+[t14] Mari(PRO): When religion respects conscience and serves human dignity, it can unify people across difference. Under that condition, shared faith makes generosity durable rather than occasional, so religion is a force for good.
+[t15] Bob(CON): I grant that faith can sustain generosity. But your condition admits the danger: religion often claims special authority, and that can turn unity into pressure; overall it remains unreliable for society.
+[t16] Mari(PRO): A grieving family may find a community that listens, shares meals, and offers rituals without demanding payment. That support restores connection when despair isolates people, proving religious practice can heal.
+[t17] Bob(CON): Healing is possible without religion, so the example proves human kindness, not religious goodness. It also ignores cases where rituals exclude doubters; selective comfort cannot establish the motion is true.
+[t18] Mari(PRO): Rituals also preserve language and family memory, which can matter in childhood. But those cultural benefits are secondary; when religion builds compassion and responsibility, it is a force for good.
+[t19] Bob(CON): Can you call religion a force for good when its moral authority depends on obedience that may silence conscience and excuse leaders from honest scrutiny?
+[t20] Mari(PRO): Across cultures and eras, religion has often moved people toward charity, restraint, and shared responsibility. Even where conditions are imperfect, its broad moral influence can still benefit the world.
+[t21] Bob(CON): I accept that many believers act kindly. But kindness does not erase teachings that rank insiders above outsiders or punish questions; because religion can authorize those harms, it is not a force for good.
+[t22] Mari(PRO): A faith-based shelter can welcome a person everyone else rejects, offering food, safety, and a listening ear. That turns compassion into organized action, proving religion can strengthen human dignity daily.
+[t23] @A4 <ovl> Christopher(MOD): Well, now it's ten.
+[t24] <cut> Bob(CON): A shelter may help, but its goodness comes from hospitality, not a doctrine. If the same doctrine labels some people unworthy, one shelter cannot outweigh-
+--- phase 3 ---
+[t25] @A3-2 <ovl> Christopher(MOD): And that's time. Let's move on to Round three, closing statements from each debater in turn. Our resolution is, religion is a force for good in the world. Leading off with her closing statement, Mari.
+[t26] Mari(PRO): This decision turns on whether we judge religion only by its failures or also by the good it reliably calls people to do. It builds service, belonging, courage, and mercy; that moral force makes the motion true.
+[t27] @A2-2 Christopher(MOD): Bob, the floor is yours.
+[t28] Bob(CON): This decision turns on reliability, not isolated kindness. If religion can inspire care yet also excuse division, it cannot fairly be called a force for good.
+[t29] <ovl> <cut> Mari(PRO): That is unfair: you keep separating-
+[t30] @A5 <ovl> Christopher(MOD): Wait, let him answer the question.
+[t31] Bob(CON): I am asking whether the label fits the whole force. Religion can comfort people, but its authority can also silence conscience and shield harmful rules from challenge.
+[t32] @A4 <ovl> Christopher(MOD): Ten seconds, Bob.
+[t33] Bob(CON): Choose dependable principles that welcome questions and protect everyone, not religion's uncertain authority.
+[t34] Christopher(MOD): Thank you both for a thoughtful debate. The discussion is closed, with no winner declared and no audience.

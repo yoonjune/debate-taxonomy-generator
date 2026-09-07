@@ -1,0 +1,449 @@
+{
+ "debate_id": "L001",
+ "motion": "A U.S.-China space race is good for humanity",
+ "speakers": {
+  "MOD": {
+   "name": "Chloe",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1266_611",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1266/MSP-PODCAST_1266_611.wav",
+   "wpm": 163.47
+  },
+  "PRO": {
+   "name": "Carl",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3841_60",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3841/MSP-PODCAST_3841_60.wav",
+   "wpm": 170.31
+  },
+  "CON": {
+   "name": "Roger",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3001_778",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_3001/MSP-PODCAST_3001_778.wav",
+   "wpm": 164.22
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 83.34,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 293.22,
+ "ext": {
+  "a32": {
+   "file": "L001_ext_a32.wav",
+   "place_at_sec": 228.332,
+   "dur_sec": 20.28,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X16",
+   "text": "You have not shown that safeguards erase competition's benefits; you have only listed risks. A peaceful, transparent race can create urgency, innovation, and cooperation, so it remains good for humanity."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.2,
+   "dur_sec": 18.2,
+   "overlap": false,
+   "text": "Today's motion is that a U.S.-China space race is good for humanity. Carl argues for it, and Roger argues against it. Each side gets thirty seconds to open, then we have two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue before each timed segment ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.4,
+   "end_sec": 33.88,
+   "dur_sec": 15.48,
+   "overlap": false,
+   "text": "A U.S.-China space race can turn rivalry into progress, pushing both countries to solve hard problems in space and on Earth. Competition brings investment, urgency, and useful discoveries. If it stays peaceful and focused on exploration, humanity gains new knowledge and stronger reasons to cooperate."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 34.08,
+   "end_sec": 36.2,
+   "dur_sec": 2.12,
+   "overlap": false,
+   "text": "Roger, come on in your response."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 36.4,
+   "end_sec": 55.88,
+   "dur_sec": 19.48,
+   "overlap": false,
+   "text": "A race sounds exciting, but rivalry makes safety and restraint harder. Each side may rush launches, hide information, or treat cooperation as weakness. Space technology can also serve surveillance and weapons, not just exploration. Humanity benefits from shared goals and careful rules, while a race rewards speed over judgment and makes dangerous mistakes more likely."
+  },
+  {
+   "i": 4,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 56.08,
+   "end_sec": 67.7,
+   "dur_sec": 11.62,
+   "overlap": false,
+   "text": "Even peaceful missions can become symbols of national pride, so leaders may take risks to avoid falling behind. We should explore together, with transparent standards and shared safeguards. A race invites secrecy, duplication-",
+   "cut_at_sec": 67.7,
+   "full_dur_sec": 13.72,
+   "ext_file": "L001_005.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 56.4,
+   "end_sec": 57.8,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 66.9,
+   "end_sec": 67.26,
+   "dur_sec": 0.36,
+   "overlap": true,
+   "text": "Time."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 67.46,
+   "end_sec": 83.34,
+   "dur_sec": 15.88,
+   "overlap": false,
+   "text": "Thank you, Roger. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 83.54,
+   "end_sec": 92.38,
+   "dur_sec": 8.84,
+   "overlap": false,
+   "text": "A competition to build a lunar base could produce cheaper launch systems and better life-support tools. Those tools would help future explorers and improve resilience on Earth."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 93.366,
+   "end_sec": 103.006,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "You assume the race produces useful tools, but competing programs can duplicate wasteful work and hide failures. Public money may chase prestige instead of urgent needs, and-"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 102.106,
+   "end_sec": 111.986,
+   "dur_sec": 9.88,
+   "overlap": true,
+   "text": "But if duplication creates rival solutions, doesn't that improve reliability and lower costs? You are treating competition as waste when it can expose weaknesses before people depend on them."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 112.942,
+   "end_sec": 122.422,
+   "dur_sec": 9.48,
+   "overlap": false,
+   "text": "No, competition does not reliably expose weaknesses before use; secrecy can conceal them. Rival programs may improve hardware, but public safety requires openness, which a race undermines."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 122.629,
+   "end_sec": 132.589,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "Then the real issue is how governments share launch sites and research facilities. Clear licensing, inspection, and emergency agreements could prevent bottlenecks while letting each country build its own capacity."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 132.789,
+   "end_sec": 137.229,
+   "dur_sec": 4.44,
+   "overlap": false,
+   "text": "We are talking about a u.s.-china space race is good for humanity right now."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.429,
+   "end_sec": 147.549,
+   "dur_sec": 10.12,
+   "overlap": false,
+   "text": "The motion asks whether the race is good for humanity, and regulated competition can make exploration faster and safer. Rival goals create pressure to improve while agreements limit reckless behavior."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 147.982,
+   "end_sec": 158.182,
+   "dur_sec": 10.2,
+   "overlap": false,
+   "text": "Budgets also shape schools, hospitals, and basic infrastructure, so spending choices matter. Still, even a carefully funded program remains a race, and its rivalry can make human welfare secondary."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 159.056,
+   "end_sec": 168.856,
+   "dur_sec": 9.8,
+   "overlap": false,
+   "text": "You have shifted from whether the race helps humanity to whether budgets have competing needs. A program can be worthwhile without ignoring essentials, especially when its inventions serve many people."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 169.603,
+   "end_sec": 179.083,
+   "dur_sec": 9.48,
+   "overlap": false,
+   "text": "When two governments compete without trusted communication, the race is harmful because a small incident can trigger dangerous escalation. Under that condition, exploration gains cannot outweigh the risk."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 179.875,
+   "end_sec": 188.555,
+   "dur_sec": 8.68,
+   "overlap": false,
+   "text": "That condition supports safeguards, not abandoning competition. If direct communication, inspections, and limits are built in, rivalry can remain peaceful while accelerating discoveries that benefit humanity."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 189.302,
+   "end_sec": 199.022,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "Space competition can be harmful even when individual projects are peaceful, because national pressure distorts priorities and makes cooperation fragile. Limited safeguards do not remove that broader pattern."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 199.242,
+   "end_sec": 206.802,
+   "dur_sec": 7.56,
+   "overlap": false,
+   "text": "If peaceful safeguards cannot make competition worthwhile, what evidence would show that shared exploration alone will receive enough funding and urgency to succeed?"
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 207.009,
+   "end_sec": 216.729,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "A joint mission can divide costs, share data, and let each country check the other's work. That shows cooperation can deliver exploration without turning science into a contest."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 217.477,
+   "end_sec": 227.437,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "A joint mission proves cooperation is useful, not that competition is harmful. Rival teams can still contribute data, challenge weak designs, and keep a shared project from becoming complacent."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 223.34,
+   "end_sec": 225.38,
+   "dur_sec": 2.04,
+   "overlap": true,
+   "text": "Ten seconds, and then closing statements."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 228.332,
+   "end_sec": 234.14,
+   "dur_sec": 5.808,
+   "overlap": false,
+   "text": "I grant that rivalry can challenge complacency, but that benefit is smaller than the danger of rushed decisions and hostile-",
+   "ext_file": "L001_ext_a32.wav",
+   "cut_at_sec": 234.14,
+   "full_dur_sec": 9.8
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 233.34,
+   "end_sec": 240.82,
+   "dur_sec": 7.48,
+   "overlap": true,
+   "text": "But now, it is time to bring this all home with our closing round. Carl for your closing statement, you are up first."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.02,
+   "end_sec": 256.18,
+   "dur_sec": 15.16,
+   "overlap": false,
+   "text": "This debate shows that competition and cooperation need not be opposites. A peaceful U.S.-China space race can speed innovation, strengthen safety through rival testing, and inspire shared standards. With safeguards, humanity gains exploration, useful technology, and momentum that a slower arrangement might never create."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 256.38,
+   "end_sec": 258.5,
+   "dur_sec": 2.12,
+   "overlap": false,
+   "text": "I'm going to let Roger answer."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 258.7,
+   "end_sec": 268.5,
+   "dur_sec": 9.8,
+   "overlap": false,
+   "text": "The central danger is incentive, not imagination. A race rewards speed, secrecy, and national pride, making accidents and escalation more likely while diverting resources from immediate human needs."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 267.6,
+   "end_sec": 269.9,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But safeguards can restrain those incentives, and cooperation-",
+   "cut_at_sec": 269.9,
+   "full_dur_sec": 9.24,
+   "ext_file": "L001_030.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 269.1,
+   "end_sec": 270.82,
+   "dur_sec": 1.72,
+   "overlap": true,
+   "text": "Just let him finish, please."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 271.02,
+   "end_sec": 281.22,
+   "dur_sec": 10.2,
+   "overlap": false,
+   "text": "The benefits remain uncertain, while the risks are built into rivalry itself. Even careful agreements can weaken under pressure, so exploration should proceed through cooperation, not a race."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 278.7,
+   "end_sec": 280.02,
+   "dur_sec": 1.32,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.42,
+   "end_sec": 286.82,
+   "dur_sec": 5.4,
+   "overlap": false,
+   "text": "Humanity needs shared progress and restraint, not competition that can turn discovery into danger."
+  },
+  {
+   "i": 34,
+   "src_i": 35,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 287.02,
+   "end_sec": 293.22,
+   "dur_sec": 6.2,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate; that concludes our discussion, and we leave the question with you."
+  }
+ ]
+}

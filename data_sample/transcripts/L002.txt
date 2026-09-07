@@ -1,42 +1,30 @@
-L002  |  A U.S.-China space race is good for humanity
-  MOD=Chloe   PRO=Carl   CON=Roger
-  crossfire 150s (actual Nones)
+L002  |  Better Elected Islamists Than Dictators
+  MOD=Nick   PRO=Miriam   CON=Danielle
 
 --- phase 1 ---
-[t00] Chloe(MOD): Today's motion is that a U.S.-China space race is good for humanity. Carl argues for it, and Roger argues against it. Each side gets thirty seconds to open, then we have two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue before each timed segment ends.
-[t01] Carl(PRO): A U.S.-China space race can turn rivalry into progress, pushing both countries to solve hard problems in space and on Earth. Competition brings investment, urgency, and useful discoveries. If it stays peaceful and focused on exploration, humanity gains new knowledge and stronger reasons to cooperate.
-[t02] @A2-2 Chloe(MOD): Roger, come on in your response.
-[t03] Roger(CON): A race sounds exciting, but rivalry makes safety and restraint harder. Each side may rush launches, hide information, or treat cooperation as weakness. Space technology can also serve surveillance and weapons, not just exploration. Humanity benefits from shared goals and careful rules, while a race rewards speed over judgment and makes dangerous mistakes more likely.
-[t04] @A4 <ovl> Chloe(MOD): You've got ten seconds.
-[t05] <cut> Roger(CON): Even peaceful missions can become symbols of national pride, so leaders may take risks to avoid falling behind. We should explore together, with transparent standards and shared safeguards. A race invites-
-[t06] @A1 <ovl> Chloe(MOD): Time.
+[t00] Nick(MOD): Tonight's motion is Better Elected Islamists Than Dictators. Miriam argues for it; Danielle argues against it. Each will have thirty seconds to open. Then they will question and answer in crossfire. Finally, each will give a thirty-second closing. I will give a ten-second cue before time expires. Keep answers focused, and address the motion directly.
+[t01] Miriam(PRO): An elected Islamist party receives authority through a public choice, not a palace decree. That distinction matters because voters can test promises, organize opposition, and replace leaders. A dictatorship denies those peaceful routes before any policy is judged. We should not demand perfect partners before accepting elections; we should demand institutions strong enough to restrain whoever wins.
+[t02] @A4 <ovl> Nick(MOD): Ten seconds, Miriam.
+[t03] <cut> Miriam(PRO): Religious voters are citizens; excluding their movement makes ballots decorative. Let an elected government face courts, a legislature, a free press, and another election. If it abuses office, remove it through those channels, rather than preserving a dictator because democracy might-
+[t04] @A2-1 <ovl> Nick(MOD): Your time is up. Thank you. Danielle.
+[t05] Danielle(CON): An election begins liberty; it does not guarantee it. An Islamist government can win office, then use religious authority to silence rivals, narrow rights, and rewrite the rules. A dictator is unjust, but an elected closed system still leaves citizens unsafe and unfree.
 --- phase 2 ---
-[t07] @A3-1 Chloe(MOD): Thank you, Roger. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
-[t08] Carl(PRO): A competition to build a lunar base could produce cheaper launch systems and better life-support tools. Those tools would help future explorers and improve resilience on Earth.
-[t09] <cut> Roger(CON): You assume the race produces useful tools, but competing programs can duplicate wasteful work and hide failures. Public money may chase prestige instead of urgent needs, and-
-[t10] <ovl> Carl(PRO): But if duplication creates rival solutions, doesn't that improve reliability and lower costs? You are treating competition as waste when it can expose weaknesses before people depend on them.
-[t11] Roger(CON): No, competition does not reliably expose weaknesses before use; secrecy can conceal them. Rival programs may improve hardware, but public safety requires openness, which a race undermines.
-[t12] Carl(PRO): Then the real issue is how governments share launch sites and research facilities. Clear licensing, inspection, and emergency agreements could prevent bottlenecks while letting each country build its own capacity.
-[t13] @B1 Chloe(MOD): We are talking about a u.s.-china space race is good for humanity right now.
-[t14] Carl(PRO): The motion asks whether the race is good for humanity, and regulated competition can make exploration faster and safer. Rival goals create pressure to improve while agreements limit reckless behavior.
-[t15] Roger(CON): Budgets also shape schools, hospitals, and basic infrastructure, so spending choices matter. Still, even a carefully funded program remains a race, and its rivalry can make human welfare secondary.
-[t16] Carl(PRO): You have shifted from whether the race helps humanity to whether budgets have competing needs. A program can be worthwhile without ignoring essentials, especially when its inventions serve many people.
-[t17] Roger(CON): When two governments compete without trusted communication, the race is harmful because a small incident can trigger dangerous escalation. Under that condition, exploration gains cannot outweigh the risk.
-[t18] Carl(PRO): That condition supports safeguards, not abandoning competition. If direct communication, inspections, and limits are built in, rivalry can remain peaceful while accelerating discoveries that benefit humanity.
-[t19] Roger(CON): Space competition can be harmful even when individual projects are peaceful, because national pressure distorts priorities and makes cooperation fragile. Limited safeguards do not remove that broader pattern.
-[t20] Carl(PRO): If peaceful safeguards cannot make competition worthwhile, what evidence would show that shared exploration alone will receive enough funding and urgency to succeed?
-[t21] Roger(CON): A joint mission can divide costs, share data, and let each country check the other's work. That shows cooperation can deliver exploration without turning science into a contest.
-[t22] Carl(PRO): A joint mission proves cooperation is useful, not that competition is harmful. Rival teams can still contribute data, challenge weak designs, and keep a shared project from becoming complacent.
-[t23] @A4 <ovl> Chloe(MOD): Ten seconds, and then closing statements.
-[t24] <cut> Carl(PRO): You have not shown that-
+[t06] @A3-1 Nick(MOD): Let me throw the discussion open between the two sides.
+[t07] Danielle(CON): I reject the assumption that an Islamist victory automatically ends democracy. The real question is whether voters retain legal protections and a peaceful remedy. Under dictatorship, they have neither, whatever the ruler promises or claims.
+[t08] Miriam(PRO): Whenever voters freely choose an Islamist government, it is better than any dictatorship, because citizens retain a peaceful route to replace leaders, criticize policy, and demand accountability through public institutions and courts.
+[t09] Danielle(CON): Your promise of institutions is too vague. Courts and legislatures can be captured by a winning movement, while religious claims make dissent look immoral. If safeguards depend on the victor's restraint, they are not safeguards at all.
+[t10] Miriam(PRO): Here is a concrete limit: if an elected Islamist government cancels elections, bans opposition, and makes peaceful removal impossible, it can be worse than a dictator who permits an orderly succession of power.
+[t11] @B2 Nick(MOD): You're arguing that an elected Islamist government can be worse than a dictator now?
+[t12] Miriam(PRO): Those statements fit because my comparison concerns voters' choice and the accountability that follows. A government that destroys elections destroys the condition making it preferable; before that breach, peaceful removal remains the decisive advantage.
+[t13] Danielle(CON): Families worry about jobs, prices, and schooling, and those pressures decide elections. But hardship is why rulers need public accountability. On this motion, elected Islamists remain preferable when citizens can remove them peacefully.
+[t14] Miriam(PRO): Yes, peaceful removal is the safeguard I mean, not a promise that every Islamist cabinet will behave well. Danielle's alternative protects no better rights; dictatorship makes accountability impossible by placing one ruler beyond effective challenge.
+[t15] <cut> Danielle(CON): You called peaceful removal the decisive advantage, but your exception admits an elected Islamist government can be worse than a dictator. That is not a safeguard; it is a warning that ballots can empower leaders who then-
 --- phase 3 ---
-[t25] @A3-2 <ovl> Chloe(MOD): But now, it is time to bring this all home with our closing round. Carl for your closing statement, you are up first.
-[t26] Carl(PRO): This debate shows that competition and cooperation need not be opposites. A peaceful U.S.-China space race can speed innovation, strengthen safety through rival testing, and inspire shared standards. With safeguards, humanity gains exploration, useful technology, and momentum that a slower arrangement might never create.
-[t27] @A2-2 Chloe(MOD): I'm going to let Roger answer.
-[t28] Roger(CON): The central danger is incentive, not imagination. A race rewards speed, secrecy, and national pride, making accidents and escalation more likely while diverting resources from immediate human needs.
-[t29] <ovl> <cut> Carl(PRO): But safeguards can restrain those incentives, and-
-[t30] @A5 <ovl> Chloe(MOD): Just let him finish, please.
-[t31] Roger(CON): The benefits remain uncertain, while the risks are built into rivalry itself. Even careful agreements can weaken under pressure, so exploration should proceed through cooperation, not a race.
-[t32] @A4 <ovl> Chloe(MOD): You have ten seconds.
-[t33] Roger(CON): Humanity needs shared progress and restraint, not competition that can turn discovery into danger.
-[t34] Chloe(MOD): Thank you both for a thoughtful debate; that concludes our discussion, and we leave the question with you.
+[t16] @A3-2 <ovl> Nick(MOD): We are about to hear brief closing remarks from each debater in turn. On to round three, closing statements. First summarizing her position in support of the motion whether elected Islamist governments are better than dictators, Miriam.
+[t17] Miriam(PRO): This decision turns on what happens when power goes wrong. Dictators close the door before citizens can act; elected Islamist governments at least face a route through votes, courts, and opposition. The choice is not perfection versus danger. It is unaccountable power versus a chance to correct it.
+[t18] @A2-2 Nick(MOD): So, let's let Danielle jump in. Okay.
+[t19] Danielle(CON): This decision turns on whether an election protects liberty after election night. A movement can win lawfully and then weaken courts, silence opponents, and claim sacred authority for ordinary political choices. Once removal becomes impossible, the ballot has served as a ladder into permanent rule. Citizens deserve safeguards before we call that bargain better.
+[t20] @A4 <ovl> Nick(MOD): You have ten seconds.
+[t21] <cut> Danielle(CON): Democracy is valuable because it limits power, not because every winner deserves trust. If an Islamist government keeps elections meaningful, it may be challenged. If it captures the state, voters cannot correct the choice. That is why a hopeful promise cannot outweigh a real-
+[t22] @A1 <ovl> Nick(MOD): Danielle, her time is up.
+[t23] Nick(MOD): Thank you both. This debate is closed. We have heard both arguments, and no winner is declared tonight.

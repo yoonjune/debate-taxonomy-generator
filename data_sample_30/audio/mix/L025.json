@@ -1,0 +1,417 @@
+{
+ "debate_id": "L025",
+ "motion": "Arabs, not NATO, should be dealing with Libya",
+ "speakers": {
+  "MOD": {
+   "name": "Mike",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2392_110",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2392/MSP-PODCAST_2392_110.wav",
+   "wpm": 165.84
+  },
+  "PRO": {
+   "name": "Chloe",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  },
+  "CON": {
+   "name": "Rich",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4043_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_4/MSP-PODCAST_4043/MSP-PODCAST_4043_33.wav",
+   "wpm": 168.26
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 89.5,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 309.8,
+ "ext": {
+  "a32": {
+   "file": "L025_ext_a32.wav",
+   "place_at_sec": 228.421,
+   "dur_sec": 34.44,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "When Arab mediators sit with local communities, they can hear grievances that a military alliance cannot resolve. Their relationships make compromise possible, proving Arab leadership gives Libya the best path to legitimate peace."
+  },
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "If those mediators fail to agree while armed groups threaten civilians, will you still deny NATO the authority to act, even when Arab leadership cannot provide immediate protection?"
+  },
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "I accept that protection may sometimes be needed. But NATO acting in an emergency does not justify NATO directing Libya's future; Arab leadership must remain the final political authority."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.88,
+   "dur_sec": 15.88,
+   "overlap": false,
+   "text": "Tonight we debate the motion, Arabs, not NATO, should be dealing with Libya. Chloe supports it, while Rich opposes it. Each opening gets thirty seconds. Then crossfire lasts two and a half minutes. Closings get thirty seconds each, with a ten-second cue before time ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.08,
+   "end_sec": 35.64,
+   "dur_sec": 19.56,
+   "overlap": false,
+   "text": "Arabs should lead Libya's political and security decisions because they understand its history, communities, and regional consequences. NATO can assist, but outside command weakens local ownership and makes intervention look like control. A Libyan future needs Arab legitimacy, not another foreign arrangement imposed from above."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 35.84,
+   "end_sec": 47.38,
+   "dur_sec": 11.54,
+   "overlap": false,
+   "text": "NATO's military reach cannot create trust, and its presence can unite rivals against the whole process. Arab governments can build the relationships needed for a political settlement, while international partners support-",
+   "cut_at_sec": 47.38,
+   "full_dur_sec": 14.6,
+   "ext_file": "L025_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 36.08,
+   "end_sec": 37.16,
+   "dur_sec": 1.08,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 46.58,
+   "end_sec": 50.14,
+   "dur_sec": 3.56,
+   "overlap": true,
+   "text": "Thank you. Time is up on that. And now Rich."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 50.34,
+   "end_sec": 69.98,
+   "dur_sec": 19.64,
+   "overlap": false,
+   "text": "Chloe treats Arab leadership as if it were automatically legitimate, but Libya's neighbors do not share one interest or one policy. Some may back competing factions, while NATO can provide a common framework, disciplined protection, and leverage against spoilers. Removing NATO's role would not empower Libya; it could leave the field to the strongest outside Arab government."
+  },
+  {
+   "i": 6,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 70.18,
+   "end_sec": 75.82,
+   "dur_sec": 5.64,
+   "overlap": false,
+   "text": "The safer answer is partnership: Arab actors lead locally, while NATO supplies coordination and protection."
+  },
+  {
+   "i": 7,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 70.34,
+   "end_sec": 73.58,
+   "dur_sec": 3.24,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 76.02,
+   "end_sec": 89.5,
+   "dur_sec": 13.48,
+   "overlap": false,
+   "text": "And that concludes round one of this debate. Now we move on to round two. And round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 89.7,
+   "end_sec": 103.5,
+   "dur_sec": 13.8,
+   "overlap": false,
+   "text": "A ceasefire can collapse when rival groups reject a neighboring government's influence. NATO can monitor commitments and deter renewed fighting without favoring one faction. That proves NATO's presence can protect a settlement that Arab leadership alone may not secure."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 103.887,
+   "end_sec": 114.407,
+   "dur_sec": 10.52,
+   "overlap": false,
+   "text": "If NATO claims to provide neutral protection, who decides its priorities, and why should Libyans trust a foreign alliance more than accountable Arab partners with a direct stake in their future?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 115.299,
+   "end_sec": 125.659,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "I believe NATO should never leave Libya to Arab governments. Outside protection is always necessary when local powers might turn assistance into influence, coercion, or a contest for dominance."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 126.285,
+   "end_sec": 138.245,
+   "dur_sec": 11.96,
+   "overlap": false,
+   "text": "Your rule assumes NATO is neutral, but NATO also has priorities and alliances. Calling its influence protection does not remove the problem; it makes foreign control sound harmless instead of answering who grants consent."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 139.168,
+   "end_sec": 150.808,
+   "dur_sec": 11.64,
+   "overlap": false,
+   "text": "NATO should leave Libya to Arab governments. In a stable case, continued foreign protection would insult local authority and turn a completed settlement into permanent supervision, so the motion still goes too far."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 151.008,
+   "end_sec": 158.888,
+   "dur_sec": 7.88,
+   "overlap": false,
+   "text": "One moment you're saying nATO should never leave Libya to Arab governments, then you're having them nATO should leave Libya to Arab governments. Which?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 159.088,
+   "end_sec": 170.088,
+   "dur_sec": 11.0,
+   "overlap": false,
+   "text": "The statements address different moments and duties: NATO should never leave Libya to Arab governments while danger remains, yet NATO should leave Libya to Arab governments once local authority can safely stand."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 170.764,
+   "end_sec": 182.884,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "The real issue also includes rebuilding services, reopening ports, and restoring daily life after conflict. Those tasks need many partners, but political responsibility must remain with Arabs, because Libya's future cannot be outsourced to NATO."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 183.084,
+   "end_sec": 193.444,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "If Arab governments disagree about which Libyans deserve support, what guarantees that your proposed regional leadership will not deepen the conflict instead of giving every faction a fair chance?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 194.382,
+   "end_sec": 205.222,
+   "dur_sec": 10.84,
+   "overlap": false,
+   "text": "I grant that NATO can offer useful technical support. But support is not the same as command, and Libya needs decisions made by those who share its region and answer to its people."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 206.052,
+   "end_sec": 216.972,
+   "dur_sec": 10.92,
+   "overlap": false,
+   "text": "Technical support can become decisive influence when Arab partners lack the means to act. Your distinction sounds neat, but it ignores who controls the operation and who bears responsibility when it-"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 216.072,
+   "end_sec": 227.472,
+   "dur_sec": 11.4,
+   "overlap": true,
+   "text": "No, that is exactly why the roles must be separated. Arab leaders should set the political direction, while NATO offers limited assistance only when invited, so foreign capacity does not become foreign rule."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 228.421,
+   "end_sec": 240.3,
+   "dur_sec": 11.879,
+   "overlap": false,
+   "text": "Your question assumes invitations are enough, but they are not. A divided Arab leadership can invite NATO for opposite purposes, so NATO must retain a coordinating role to prevent assistance from becoming-",
+   "ext_file": "L025_ext_a32.wav",
+   "cut_at_sec": 240.3,
+   "full_dur_sec": 12.44
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 229.5,
+   "end_sec": 231.22,
+   "dur_sec": 1.72,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 239.5,
+   "end_sec": 250.02,
+   "dur_sec": 10.52,
+   "overlap": true,
+   "text": "And that's time. And now we move on to Round three. Here making her closing statement in support of the motion that arabs, not NATO, should be dealing with Libya, Chloe."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 250.22,
+   "end_sec": 265.14,
+   "dur_sec": 14.92,
+   "overlap": false,
+   "text": "Libya needs help, but help should not become ownership. NATO can provide expertise or emergency support, while Arabs lead the political work, understand the social balance, and carry responsibility for the result. That arrangement builds legitimacy instead of dependence, so the motion is right."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 265.34,
+   "end_sec": 271.06,
+   "dur_sec": 5.72,
+   "overlap": false,
+   "text": "Thank you very much indeed. All right. Could I please ask Rich to speak against the motion, please."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 271.26,
+   "end_sec": 290.26,
+   "dur_sec": 19.0,
+   "overlap": false,
+   "text": "Chloe's best point is that local legitimacy matters, and I agree it does. But legitimacy cannot protect people when Arab governments disagree, compete, or lack the ability to enforce an agreement. NATO offers coordination and credible protection without requiring one neighbor to dominate Libya. The motion wrongly turns a useful partnership into an either-or choice."
+  },
+  {
+   "i": 27,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 290.46,
+   "end_sec": 302.56,
+   "dur_sec": 12.1,
+   "overlap": false,
+   "text": "Arab leadership should be central, but NATO must remain involved when security fails. The responsible course is shared action, not a blanket rule that excludes the alliance and leaves-",
+   "cut_at_sec": 302.56,
+   "full_dur_sec": 13.56,
+   "ext_file": "L025_031.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 291.26,
+   "end_sec": 293.38,
+   "dur_sec": 2.12,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 29,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 301.76,
+   "end_sec": 303.56,
+   "dur_sec": 1.8,
+   "overlap": true,
+   "text": "Rich, his time is up."
+  },
+  {
+   "i": 30,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 303.76,
+   "end_sec": 309.8,
+   "dur_sec": 6.04,
+   "overlap": false,
+   "text": "Thank you both for taking part. That concludes the debate; we leave the motion for listeners to consider."
+  }
+ ]
+}

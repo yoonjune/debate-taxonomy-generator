@@ -1,0 +1,422 @@
+{
+ "debate_id": "L003",
+ "motion": "China's power has peaked.",
+ "speakers": {
+  "MOD": {
+   "name": "Virginia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0929_326",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0929/MSP-PODCAST_0929_326.wav",
+   "wpm": 180.84
+  },
+  "PRO": {
+   "name": "Jonas",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4013_830",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_4/MSP-PODCAST_4013/MSP-PODCAST_4013_830.wav",
+   "wpm": 156.93
+  },
+  "CON": {
+   "name": "Simon",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6244_467",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_6/MSP-PODCAST_6244/MSP-PODCAST_6244_467.wav",
+   "wpm": 156.15
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 73.0,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 306.44,
+ "ext": {
+  "a32": {
+   "file": "L003_ext_a32.wav",
+   "place_at_sec": 216.785,
+   "dur_sec": 9.8,
+   "src_i": 21
+  }
+ },
+ "flags": [
+  "ext_a32: 마감 뒤 3.6초뿐 (여유분 부족)"
+ ],
+ "dropped_turns": [],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.4,
+   "dur_sec": 15.4,
+   "overlap": false,
+   "text": "Welcome to the debate on whether China's power has peaked. Jonas argues for the motion, and Simon argues against it. Each side gets thirty seconds to open, then two and a half minutes of crossfire. We finish with thirty-second closings, and I'll give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.6,
+   "end_sec": 31.0,
+   "dur_sec": 15.4,
+   "overlap": false,
+   "text": "China's power has peaked because its rise now meets stronger resistance at home and abroad. Its economy, technology, and influence still matter, but each faces limits that were weaker during its rapid ascent. A plateau is still power, but it is no longer a climb."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 31.2,
+   "end_sec": 32.68,
+   "dur_sec": 1.48,
+   "overlap": false,
+   "text": "Go ahead. Go ahead, Simon."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 32.88,
+   "end_sec": 52.6,
+   "dur_sec": 19.72,
+   "overlap": false,
+   "text": "China's power has not peaked; it is changing form. A country need not dominate every contest to gain power, because influence can deepen through trade, technology, and patient diplomacy. Temporary resistance shows that others are responding to China, not that China's reach has stopped growing."
+  },
+  {
+   "i": 4,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.8,
+   "end_sec": 61.16,
+   "dur_sec": 8.36,
+   "overlap": false,
+   "text": "The key question is direction, not perfection. China still adds tools and relationships, so calling its power peaked mistakes slower growth for a final limit."
+  },
+  {
+   "i": 5,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 52.88,
+   "end_sec": 53.88,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 61.36,
+   "end_sec": 73.0,
+   "dur_sec": 11.64,
+   "overlap": false,
+   "text": "That concludes round one. We're in round two where the debaters are going to be able to talk directly to each other. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 73.2,
+   "end_sec": 84.68,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "China's effort to build advanced technology at home shows the ceiling: it spends more energy replacing outside access than expanding freely. That constraint shows its power has peaked, even while its capabilities remain formidable."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 85.316,
+   "end_sec": 96.636,
+   "dur_sec": 11.32,
+   "overlap": false,
+   "text": "When other countries restrict China's access to key tools, China can still redirect investment and build alternatives. Under that condition, pressure becomes a reason for adaptation, not proof that its power has peaked."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 97.365,
+   "end_sec": 106.925,
+   "dur_sec": 9.56,
+   "overlap": false,
+   "text": "You call adaptation growth, but replacement is not the same as expansion. If China must spend more merely to preserve its position, that burden shows its power has-"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 107.148,
+   "end_sec": 116.148,
+   "dur_sec": 9.0,
+   "overlap": false,
+   "text": "China's influence can keep expanding even when some capabilities face higher costs. A setback in one channel does not stop gains across the wider network of relationships."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.434,
+   "end_sec": 126.634,
+   "dur_sec": 10.2,
+   "overlap": false,
+   "text": "Your weakest point is treating any new relationship as added power. A connection matters only if China can turn it into lasting influence, and fragile dependence does not prove that."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 127.444,
+   "end_sec": 137.324,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "China's power never determines outcomes by itself. Every serious contest depends on choices by other states, so no single peak can describe China's total power or its future direction."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.792,
+   "end_sec": 147.592,
+   "dur_sec": 9.8,
+   "overlap": false,
+   "text": "China's population and property pressures now weigh on its ambitions, while rivals have learned to resist its pressure. That combination shows the easy phase of expanding power has ended."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.0,
+   "end_sec": 156.36,
+   "dur_sec": 8.36,
+   "overlap": false,
+   "text": "In a regional crisis, China's power determines the outcome. Its economic weight, military reach, and local knowledge can force a settlement even when others object."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 156.56,
+   "end_sec": 163.8,
+   "dur_sec": 7.24,
+   "overlap": false,
+   "text": "You said china's power never determines outcomes by itself, but you see it as in a regional crisis, China's power determines the outcome."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 164.0,
+   "end_sec": 173.96,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "Those statements address different meanings of outcome: power never determines the final political result alone, while in a regional crisis it can determine the immediate settlement. Both remain true."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 174.336,
+   "end_sec": 184.856,
+   "dur_sec": 10.52,
+   "overlap": false,
+   "text": "I grant that China can win a regional settlement. But a local success cannot establish rising global power, especially when the costs and resistance keep increasing; China's broad power has peaked."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 185.402,
+   "end_sec": 195.282,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "You call changing leverage a peak, but that confuses pressure with control. Why should a country be weaker merely because others adapt? Adaptation can show China's influence is spreading."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 195.952,
+   "end_sec": 205.912,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "Because adaptation does not prove decline; it proves others are limiting China. New tools cannot erase demographic strain and resistance, so China's overall power has peaked despite local wins."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 206.128,
+   "end_sec": 215.848,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "Consider a country that once copied China's infrastructure model but now seeks Chinese finance and technology on stricter terms. That is deeper, negotiated influence, showing China's power still grows."
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 213.0,
+   "end_sec": 214.88,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 216.785,
+   "end_sec": 223.8,
+   "dur_sec": 7.015,
+   "overlap": false,
+   "text": "If China's power has not peaked, what major source of influence can it add without worsening its economic strain or provoking stronger resistance-",
+   "ext_file": "L003_ext_a32.wav",
+   "cut_at_sec": 223.8,
+   "full_dur_sec": 9.8
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 223.0,
+   "end_sec": 233.36,
+   "dur_sec": 10.36,
+   "overlap": true,
+   "text": "That's time. And that concludes round two. And now we're going to move on to round three. Here to argue in his closing statement, in support of this motion, Jonas."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 233.56,
+   "end_sec": 253.04,
+   "dur_sec": 19.48,
+   "overlap": false,
+   "text": "Simon is right that China can still gain influence in selected places. But this motion asks whether its overall power has peaked, and the evidence points to a plateau: economic strain, demographic limits, technological barriers, and coordinated resistance now offset new gains."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 253.24,
+   "end_sec": 264.86,
+   "dur_sec": 11.62,
+   "overlap": false,
+   "text": "China remains powerful, but power after its peak can look impressive. The issue is whether its total reach keeps expanding, and those limits show-",
+   "cut_at_sec": 264.86,
+   "full_dur_sec": 12.76,
+   "ext_file": "L003_026.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 253.56,
+   "end_sec": 254.32,
+   "dur_sec": 0.76,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 27,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 264.06,
+   "end_sec": 269.06,
+   "dur_sec": 5.0,
+   "overlap": true,
+   "text": "Thank you, your time is up. And here to summarize his position against the motion, Simon."
+  },
+  {
+   "i": 28,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 269.26,
+   "end_sec": 288.82,
+   "dur_sec": 19.56,
+   "overlap": false,
+   "text": "This decision turns on whether a peak means strength remains visible or whether no further gains are possible. China still develops alternatives, attracts negotiated partnerships, and converts pressure into resilience. Its path is uneven, but uneven growth is still growth, so the motion goes too far."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 289.02,
+   "end_sec": 300.56,
+   "dur_sec": 11.54,
+   "overlap": false,
+   "text": "Jonas has shown real constraints, but constraints are not a finished rise. A power can face resistance, pay higher costs, and still expand its options. China continues to do that across-",
+   "cut_at_sec": 300.56,
+   "full_dur_sec": 13.56,
+   "ext_file": "L003_030.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 289.26,
+   "end_sec": 290.66,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 31,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 299.76,
+   "end_sec": 301.16,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 32,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 301.36,
+   "end_sec": 306.44,
+   "dur_sec": 5.08,
+   "overlap": false,
+   "text": "Thank you both for a focused debate. That concludes the discussion without declaring a winner."
+  }
+ ]
+}

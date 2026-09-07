@@ -47,12 +47,14 @@ Every number traces to a file under `debate/_meta/` or a memory note. "(TBD)" = 
 - Python fixes everything that must be exact: which optional codes a debate contains (balanced across the set), speech-length bands, the seed line for every MOD action, names, voices, word budgets. An LLM (`gpt-5.6-luna`, one JSON call per debate, 450-word prompt) writes only the debaters' turns and the two quoted claims for B2.
 - Filtering: 22 rule checks (budgets, cut-off dashes, moderator share, no audience) and a strict LLM judge per debate (speaker/side consistency, whether every MOD line is actually earned by the turns before it, whether the planted traps stay silent-worthy). Only judged-pass debates enter the benchmark.
 - The dominant generation failure is the LLM losing track of which debater speaks in crossfire; putting the speaker name and side into every output key reduced side-swapped turns from about a quarter of crossfire turns to a few percent.
-- Final batch: 30 generated → 21 passed (`data_sample/`, 199 triggers). Optional codes in the 21: A1 11 · A2-1 11 · A5 11 · B1 14 · B2 10.
+- Batches: 30 generated → 21 passed (v8); a second 30 with a rewritten crossfire *question* instruction → 8 passed (the new wording tripled side-swapped question turns; reverted), plus 3 of 5 single-turn repairs → 11. From the 32 the 30 with the most even optional-code counts form `data_sample_30/`: A1 17 · A2-1 16 · A5 17 · B1 16 · B2 16 (28 as generated, 2 with one repaired turn).
+- Judge variance: re-judging 6 accepted debates with a fresh judge passed 4; the two rejections were borderline B2 pairs. Pass/fail on a single debate is noisy; the set-level counts are what we report.
 
 ## 6. Audio
 
 - Each turn is synthesised separately (OmniVoice, voice cloning from NaturalVoices/MSP-Podcast references; 24 kHz), trimmed with a forced aligner, and placed on a timeline. The mixer enforces the clock: ten-second cue at 20 s, cut at 30.5 s, crossfire cue at 2:20 and cut at 2:30 (declared − realised = 0.00 s), interruption blocked 1.5 s after it starts; the interrupted speaker then resumes.
 - Per-turn files are kept, so the debater channel for the model is built from PRO/CON turns only.
+- Realised set: 30 debates, 969 turns after dropping the surplus crossfire turns (33), 4.6–5.3 min each (median 4.9), 50 cloned voices; declared − realised crossfire length = 0.00 s in all 30; 994/1002 turns trimmed by forced alignment, the rest kept whole.
 
 ## 7. Evaluation protocol (final)
 
@@ -69,16 +71,15 @@ Every number traces to a file under `debate/_meta/` or a memory note. "(TBD)" = 
 |---|---|
 | Corpora behind the seeds | 4 (IQ2, Open to Debate, Doha, Munk); 366 debates; 31,264 moderator windows labelled |
 | Seed candidates → reviewed → usable scene seeds | 2,424 → 300 verdicts → 627 |
-| Benchmark set | 21 debates, 199 triggers (A4 48 · A4 crossfire 21 · A2-2 31 · A3-1 21 · A3-2 21 · A1 11 · A2-1 11 · A5 11 · B1 14 · B2 10) |
-| Per debate | 6–7 distinct codes, 8–10 scored MOD lines, ≈5 min |
-| Realised audio durations, model scores | (TBD) |
+| Benchmark set | 30 debates, 286 triggers (A4 70 · A4 crossfire 30 · A2-2 44 · A3-1 30 · A3-2 30 · A1 17 · A2-1 16 · A5 17 · B1 16 · B2 16) |
+| Per debate | 6–7 distinct codes, 8–10 scored MOD lines, 4.6–5.3 min of audio |
+| Model scores | (TBD) |
 
 ## 9. Open issues / limitations
 
-- Audio not yet synthesised at the time of writing; timings are 170-wpm simulations until TTS runs.
 - In the free run the debater audio keeps the pauses where the reference moderator spoke, so a hand-off point is audible as a gap; this is inherent to static playback and is realistic (debaters wait), but it is a cue the model can exploit.
 - A4 in the crossfire is the only long clock (140 s from the opening line); in a free run the model must also have opened the crossfire itself to know the start point — otherwise it can only infer it from the debaters.
 - Both debaters share one channel; A5 and B2 require telling the voices apart.
 - Script filtering and content judging rely on LLM judges.
 - Real chairs often cut without a prior ten-second cue, unlike our rule; the seed review is incomplete for A3-1/A3-2/A4.
-- MOD lines are human but recontextualised; debater content is synthetic; no audience.
+- MOD lines are human but recontextualised; debater content is synthetic; no audience. Voices are cloned TTS (OmniVoice), so prosody is flatter than real debate speech.

@@ -29,9 +29,17 @@ link + 자동검사 + 의미검사 한계**를 함께 보여준다.
 
 ## 평가 (moderator-duplex-eval)
 
-Full-duplex 음성 모델을 진행자 자리에 앉혀 평가하는 벤치마크는 [`data_sample/`](data_sample/README.md)(토론 21편·trigger 199개, 크로스파이어 2:30 고정)와
-[`skills/moderator-duplex-eval/SKILL.md`](skills/moderator-duplex-eval/SKILL.md)(입력 구성·자유 실행·채점)에 있다.
-채점 규격은 `data_sample/eval_rubric.json`, 채점기는 `data_sample/score_freerun.py`. 연구 이력은 [`history.md`](history.md).
+Full-duplex 음성 모델을 **토론 진행자 자리에 앉혀** 언제 말하고 무엇을 말하는지 재는 벤치마크.
+
+| 무엇 | 어디 |
+|---|---|
+| 오디오 샘플 30편 + 메타데이터 | [`data_sample_30/`](data_sample_30/README.md) — `audio/mix/` 완성본, `audio/turns/` 발화별 파일, `debates.jsonl` 대본, `probes.jsonl` 채점 지점, `voices/` 목소리 |
+| 평가 세팅 · 입력/출력 · 채점법 | [`data_sample_30/README.md`](data_sample_30/README.md) §3~§4 (사람용), [`skills/moderator-duplex-eval/SKILL.md`](skills/moderator-duplex-eval/SKILL.md) (에이전트용, 같은 내용 영어) |
+| 채점 규격(기계용) · 채점기 | `data_sample_30/eval_rubric.json`, `data_sample_30/score_freerun.py` (+ `run_judge.py`, `report.py`, `baselines.py`) |
+| 진행자에게 주는 system prompt | `data_sample_30/system_prompt.md` |
+| 어떻게 여기까지 왔나 (연구 이력) | [`history.md`](history.md) |
+
+`data_sample/`은 이전 판(초기 샘플)이며 그대로 두었다. 새 작업은 `data_sample_30/`을 쓴다.
 
 ## 가장 간단한 사용법
 

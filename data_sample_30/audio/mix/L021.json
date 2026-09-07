@@ -1,0 +1,401 @@
+{
+ "debate_id": "L021",
+ "motion": "Don't bring extinct creatures back to life",
+ "speakers": {
+  "MOD": {
+   "name": "Aiden",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0341_111",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0341/MSP-PODCAST_0341_111.wav",
+   "wpm": 167.28
+  },
+  "PRO": {
+   "name": "Mustafa",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  },
+  "CON": {
+   "name": "Jacob",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3536_194",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3536/MSP-PODCAST_3536_194.wav",
+   "wpm": 173.7
+  }
+ },
+ "selective": [
+  "A1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 79.42,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 284.82,
+ "ext": {
+  "a32": {
+   "file": "L021_ext_a32.wav",
+   "place_at_sec": 227.082,
+   "dur_sec": 21.08,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "You say refusal preserves harm, but revival adds a new intervention whose consequences may spread beyond control. Protecting existing life means resisting attractive experiments, not treating hope as proof."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.6,
+   "dur_sec": 18.6,
+   "overlap": false,
+   "text": "Welcome to this debate on the motion, Don't bring extinct creatures back to life. Mustafa will argue for the motion, and Jacob will argue against it. Each speaker gets thirty seconds to open, then two and a half minutes of crossfire. We will finish with thirty-second closings, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.8,
+   "end_sec": 32.28,
+   "dur_sec": 13.48,
+   "overlap": false,
+   "text": "Bringing extinct creatures back creates risks we cannot fully predict, from disrupted habitats to suffering in animals designed for a vanished world. We should protect living species instead of chasing resurrection. The responsible choice is to leave extinction final."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 32.48,
+   "end_sec": 33.64,
+   "dur_sec": 1.16,
+   "overlap": false,
+   "text": "Okay. Go on, Jacob."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 33.84,
+   "end_sec": 53.72,
+   "dur_sec": 19.88,
+   "overlap": false,
+   "text": "Extinction is not automatically a reason to forbid restoration. Some extinct creatures disappeared because people changed their habitats or hunted them, so bringing them back could repair damage we helped cause. Careful research could limit risks, protect ecosystems, and teach us how life responds to change. A blanket ban throws away possible knowledge and possible repair."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 53.84,
+   "end_sec": 55.24,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.92,
+   "end_sec": 65.14,
+   "dur_sec": 11.22,
+   "overlap": false,
+   "text": "It also treats every extinct creature as equally dangerous, though a controlled project is not the same as releasing animals everywhere. We can set boundaries, test effects, and stop when harm-",
+   "cut_at_sec": 65.14,
+   "full_dur_sec": 13.72,
+   "ext_file": "L021_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 64.34,
+   "end_sec": 65.82,
+   "dur_sec": 1.48,
+   "overlap": true,
+   "text": "Jacob, his time is up."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 66.02,
+   "end_sec": 79.42,
+   "dur_sec": 13.4,
+   "overlap": false,
+   "text": "And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 79.62,
+   "end_sec": 89.58,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "Because a chance to repair damage deserves evaluation, not automatic rejection. You assume uncertainty settles the question, but careful trials can reveal risks before release and keep restoration responsible."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 90.396,
+   "end_sec": 100.916,
+   "dur_sec": 10.52,
+   "overlap": false,
+   "text": "When a species would need an ecosystem that no longer exists, bringing it back would create suffering and disruption. In that case, leaving extinction final protects both nature and the animal."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 101.221,
+   "end_sec": 111.661,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Your ecosystem point assumes restoration must copy the past completely. A limited habitat can be prepared first, so missing conditions are a design challenge, not proof that revival is wrong."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 112.425,
+   "end_sec": 123.505,
+   "dur_sec": 11.08,
+   "overlap": false,
+   "text": "Reviving extinct creatures is broadly a poor choice because ecosystems cannot be rebuilt with confidence. Even promising projects can shift food chains, spread disease, and consume protection that living species urgently need."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 124.475,
+   "end_sec": 133.155,
+   "dur_sec": 8.68,
+   "overlap": false,
+   "text": "If your concern is uncertain harm, why should uncertainty automatically defeat every carefully contained project instead of allowing evidence to decide whether restoration is safe?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 133.798,
+   "end_sec": 144.078,
+   "dur_sec": 10.28,
+   "overlap": false,
+   "text": "I grant that containment can reduce some danger. But it cannot recreate every lost relationship or predict every consequence, so society should leave extinct creatures gone rather than gamble with-"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 143.178,
+   "end_sec": 153.218,
+   "dur_sec": 10.04,
+   "overlap": true,
+   "text": "Wait - reduced danger matters, and your gamble language hides the choice. Refusing restoration can preserve damage caused by humans, while a controlled project may repair habitats and prevent."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 153.798,
+   "end_sec": 163.678,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "I believe no extinct creature should ever be brought back to life. That principle keeps human ambition from turning ecosystems into experiments and protects living species from reckless interference."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 164.548,
+   "end_sec": 173.868,
+   "dur_sec": 9.32,
+   "overlap": false,
+   "text": "Your absolute principle is the weak point. It rejects even a harmless, contained restoration before evidence exists, confusing moral certainty with responsible judgment about a particular case."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 174.554,
+   "end_sec": 183.874,
+   "dur_sec": 9.32,
+   "overlap": false,
+   "text": "This extinct creature should be brought back to life, because restoring its lost role could heal a damaged habitat and correct a human-caused disappearance without threatening nearby species."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 184.074,
+   "end_sec": 193.554,
+   "dur_sec": 9.48,
+   "overlap": false,
+   "text": "But doesn't your argument for no extinct creature should ever be brought back to life fight your argument that this extinct creature should be brought back to life?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 193.754,
+   "end_sec": 204.754,
+   "dur_sec": 11.0,
+   "overlap": false,
+   "text": "My rule protects ecosystems from a general program of resurrection, while this case concerns one deliberate repair where restoration itself serves protection. I reject reckless revival and support this carefully chosen exception."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 205.292,
+   "end_sec": 216.372,
+   "dur_sec": 11.08,
+   "overlap": false,
+   "text": "I grant that some revivals could cause real ecological harm. But your exception still depends on predictions no one can guarantee, so why should that uncertainty make banning restoration the safer answer?"
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 216.605,
+   "end_sec": 226.725,
+   "dur_sec": 10.12,
+   "overlap": false,
+   "text": "That uncertainty is exactly why I support leaving extinct creatures alone, not why I should approve an exception. A possible repair cannot justify exposing living ecosystems to irreversible mistakes."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 219.42,
+   "end_sec": 221.38,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds remaining in this round."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 227.082,
+   "end_sec": 230.22,
+   "dur_sec": 3.138,
+   "overlap": false,
+   "text": "The weakest point is calling refusal safer without comparing harms-",
+   "ext_file": "L021_ext_a32.wav",
+   "cut_at_sec": 230.22,
+   "full_dur_sec": 10.6
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 229.42,
+   "end_sec": 235.94,
+   "dur_sec": 6.52,
+   "overlap": true,
+   "text": "That's time. So now we're gonna head to our closing round. Mustafa, you are up first. Your closing statement, please."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 236.14,
+   "end_sec": 249.94,
+   "dur_sec": 13.8,
+   "overlap": false,
+   "text": "Jacob's best point is that some extinctions involve human harm, but good intentions cannot restore vanished ecosystems safely. Revived animals may suffer and disrupt living species. Leaving extinct creatures gone avoids irreversible risks and directs care toward life still here."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 250.14,
+   "end_sec": 251.38,
+   "dur_sec": 1.24,
+   "overlap": false,
+   "text": "Then Jacob, it's yours."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 251.58,
+   "end_sec": 271.54,
+   "dur_sec": 19.96,
+   "overlap": false,
+   "text": "Mustafa is right that careless revival could cause harm, but that does not support a universal ban. Some extinctions reflect damage humans caused, and restoration may help repair those ecosystems. We can choose limited projects, study their effects, and stop them when danger appears. The motion forbids even that careful possibility. It replaces judgment with fear and leaves no room for responsible correction."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 271.58,
+   "end_sec": 272.58,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds, Jacob."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 271.74,
+   "end_sec": 280.5,
+   "dur_sec": 8.76,
+   "overlap": false,
+   "text": "We should judge each proposal by its risks and benefits, not by extinction alone. Careful restoration can heal damage, expand knowledge, and protect nature. A blanket ban is too rigid."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 280.7,
+   "end_sec": 284.82,
+   "dur_sec": 4.12,
+   "overlap": false,
+   "text": "Thank you both; that concludes the debate without a decision about who prevailed."
+  }
+ ]
+}

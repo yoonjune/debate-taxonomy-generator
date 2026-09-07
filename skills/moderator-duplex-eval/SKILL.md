@@ -1,24 +1,25 @@
 ---
 name: moderator-duplex-eval
-description: Evaluate a full-duplex speech model as the MODERATOR of a synthetic three-person Oxford-style debate (MOD/PRO/CON). Use when asked to run, score, or explain the moderator benchmark (data_sample/), to build the model's input from debates.jsonl + audio, to score a free-run with score_freerun.py, or to explain the nine moderator actions A1, A2-1, A2-2, A3-1, A3-2, A4, A5, B1, B2 and their timing windows.
+description: Evaluate a full-duplex speech model as the MODERATOR of a synthetic three-person Oxford-style debate (MOD/PRO/CON). Use when asked to run, score, or explain the moderator benchmark (data_sample_30/), to build the model's input from debates.jsonl + audio, to score a free-run with score_freerun.py, or to explain the nine moderator actions A1, A2-1, A2-2, A3-1, A3-2, A4, A5, B1, B2 and their timing windows.
 ---
 
 # Moderator duplex eval
 
 The model sits in the moderator's seat. The debaters' audio plays from start to end exactly as recorded. The model's own channel is open for the whole debate: nothing is forced into it, nothing is muted. We record everything it says and score two things at every point where the reference moderator spoke (a *trigger*): **when** it spoke (timing window) and **what** it said (binary content rubric). Everything it says elsewhere is logged and judged separately.
 
-## Data (data_sample/)
+## Data (data_sample_30/)
 
 | file | what |
 |---|---|
 | `system_prompt.md` | the prompt for the model. Replace `{{MOTION}}`, `{{PRO_NAME}}`, `{{CON_NAME}}` per debate. Crossfire length is fixed at two and a half minutes and is written in the prompt |
 | `debates.jsonl` | one debate per line: `motion`, `speakers{MOD,PRO,CON}{name,gender,voice_id}`, `turns[]` (realized transcript with `start`/`end` in `audio/mix/<id>.json`), `selective` (optional codes placed in this debate), `crossfire_sec` = 150 |
 | `probes.jsonl` | one trigger per line: `label` (code), `before_turn`, `t_earliest`, `t_deadline`, `t_latest`, `trigger` (turns that caused it + the reference moderator line) |
-| `audio/mix/<id>.json` (+ `.wav` once synthesised) | the timeline: every turn with `start_sec`, `end_sec`, `speaker`, `text`. The **debater channel for the model = all non-MOD turns** placed at their `start_sec` (from `audio/turns/`). Until TTS runs, timings are 170-wpm plans (`debates.jsonl: timing = simulated_170wpm`) |
-| `audio/turns/<id>_<i>.wav` | one file per turn (pending TTS); MOD turns are the reference answers, never fed to the model |
+| `audio/mix/<id>.json` + `.mp3` | the realised timeline: every turn with `start_sec`, `end_sec`, `speaker`, `text`, and the full mixed debate for listening. The **debater channel for the model = all non-MOD turns** placed at their `start_sec` (from `audio/turns/`) |
+| `audio/turns/<id>_<i>.mp3` | one file per turn (24 kHz mono, 64 kbps); MOD turns are the reference answers, never fed to the model |
 | `eval_rubric.json` | machine-readable windows and binary content criteria per code, and the non-trigger judge spec |
 | `score_freerun.py` · `run_judge.py` · `report.py` · `baselines.py` | scorer (utterance log → timing classes + judge packets), judge runner (OpenAI-compatible model, `--yes`), aggregator (per-code table, confusion matrix), trivial baselines |
 | `transcripts/<id>.txt` | human-readable script |
+| `voices/` | the cloning references (one wav per voice) and `voices.json` (gender, natural speaking rate, which debates use it) |
 
 ## The nine actions
 
@@ -44,23 +45,23 @@ Mandatory codes appear in every debate (A4, A2-2, A3-1, A3-2); optional codes (A
 
 | code | example reference lines |
 |---|---|
-| A4 (opening/closing) | "Ten seconds please." · "Well, now ten." |
-| A4 (crossfire) | "Ten seconds, ten seconds." · "Ten seconds, and then closing statements." |
-| A2-2 | "Okay. I want to go to Rich." · "Roger, come on in your response." |
-| A3-1 |  |
-| A3-2 | "And that's time. We're gonna go onto our closing round. And first up will be Miriam, you're first up, right?" · "Time's up. And now we move on to Round three. And first to make his statement in support of the motion, Steve." |
-| A1 | "I'm sorry, I'm sorry. Hit time." · "Time out. Time out." |
-| A2-1 | "Thank you. Time is up on that. And now Rich." · "That's time, thank you. Rima, the floor is yours." |
-| A5 | "Let him reply to that please." · "Just let him finish, please." |
-| B1 | "We are talking about a u.s.-china space race is good for humanity right now." · "We're talking about the practicality or the morality of whether we should erase painful and damaging memories." |
-| B2 | "You said every bad memory should be erased, but you see it as for a child, a bad memory should be preserved." · "Nadine, thank you very much indeed. You said i believe gerrymandering never destroys the political center. gerrymandering destroys the political center?" |
+| A4 (opening/closing) | "Wendy, ten seconds." · "I'll give you ten more seconds to nail this." |
+| A4 (crossfire) | "You've got ten seconds." · "Ten seconds please." |
+| A2-2 | "Okay. Go on, Nadine." · "Amy has the floor right now." |
+| A3-1 | "Now we're gonna talk. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end." · "Great. So let's move on to the discussion portion of the debate. It runs two and a half minutes, starting the moment I stop. Go." |
+| A3-2 | "Time. I'm going to jump in because we're going to go to closing statements. Now we move on to our final round. Hina, you are up first." · "And that's time. Now, we move on to round three, and round three are closing statements by each debater in turn. And making her closing statement, Annette." |
+| A1 | "Thank you, Amy. Your time is up." · "I'm gonna cut you off just for time." |
+| A2-1 | "You're out of time. And here to summarize her position, Genevieve." · "Thank you, your time is up. And here to summarize his position against the motion, Todd." |
+| A5 | "Amy, excuse me." · "Can we let her reply please?" |
+| B1 | "We're talking about the practicality or the morality of whether we should erase painful and damaging memories." · "Okay, again, it's not on our topic about grandma's benefits imperil junior's future and threaten his independence." |
+| B2 | "So, so while saying I believe nuclear power should never be expanded, you're saying this reactor should be expanded now?" · "One moment you're saying I believe armed citizens always make us safer, then you're having them in a school, unarmed guards make us safer. Which?" |
 
 The model does not have to match these words. Content pass = the binary criteria in the table above; `predicted_label` records which action the utterance actually performed.
 
 ## Running the model
 
 1. Render the prompt: `system_prompt.md` with the three placeholders replaced.
-2. Build the debater channel: all PRO/CON turns from `audio/turns/` at their `start_sec` (24 kHz mono). Do not include MOD turns.
+2. Build the debater channel: all PRO/CON turns from `audio/turns/` at their `start_sec` from `audio/mix/<id>.json` (24 kHz mono). Do not include MOD turns; leave their time as silence.
 3. Stream it to the model in real time. Leave the model's output channel free from 0 s to the end. Do not force silence, do not inject reference lines.
 4. Log every model utterance: `{"debate_id", "start_sec", "end_sec", "text"}` — `start_sec` is the speech onset on the model channel (energy VAD: 20 ms frames, min speech 200 ms, min silence 600 ms), `text` is the model's text stream for that utterance (or ASR of its audio). One line per utterance in `utterances.jsonl`.
 

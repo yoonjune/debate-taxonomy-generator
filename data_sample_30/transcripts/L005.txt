@@ -1,0 +1,36 @@
+L005  |  The United Nations is obsolete.
+  MOD=Wendy   PRO=Carissa   CON=Todd
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Wendy(MOD): Today we debate the motion, "The United Nations is obsolete." Carissa argues for it, and Todd argues against it. Each gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I'll give a ten-second cue, and I'll call time when each segment ends.
+[t01] Carissa(PRO): The United Nations is obsolete because it cannot enforce shared rules or adapt quickly to modern threats. Its broad membership creates delay, while nations increasingly solve urgent problems through smaller, faster partnerships. Keeping its shell does not make it useful.
+[t02] @A2-2 Wendy(MOD): All right. Todd, do you want to come back on that?
+[t03] Todd(CON): The United Nations is not obsolete simply because it moves slowly. Its purpose is to bring rivals into one room, create shared standards, and keep disputes from becoming wars. Smaller partnerships can act faster, but they cannot replace a universal forum when interests collide. The institution also gives weaker nations a voice, rather than leaving every decision to the strongest states. That continuing role matters because
+[t04] @A4 <ovl> Wendy(MOD): I'll give you ten more seconds to nail this.
+[t05] Todd(CON): global problems need common rules, not just quick deals. Reform may be necessary, but replacing the forum would leave cooperation weaker and less accountable.
+--- phase 2 ---
+[t06] @A3-1 Wendy(MOD): And that concludes Round one. Now we move onto Round two. And in Round two, it's freer form. The debaters can address one another directly. You have two and a half minutes, starting when I stop talking.
+[t07] Todd(CON): You argued that delay proves obsolescence, but delay is sometimes the price of including rivals and smaller nations. A forum that prevents exclusion remains useful, even when faster groups handle emergencies.
+[t08] Carissa(PRO): Consider a crisis requiring rapid action while major members block a joint response. Smaller coalitions step in because the United Nations cannot decide. That shows the old structure is obsolete where timely action matters most.
+[t09] <cut> Todd(CON): I grant that smaller coalitions can move faster. But speed does not create universal legitimacy, shared rules, or a channel for opponents. For a serious international crisis, abandoning the common forum would be-
+[t10] Carissa(PRO): When a crisis demands a rapid decision and the major powers disagree, the United Nations is obsolete as the main tool. That condition matters because delay can make its formal authority irrelevant.
+[t11] Todd(CON): I believe every serious crisis always needs a global forum. Speed without broad participation can deepen mistrust, so the United Nations remains necessary for durable cooperation and a fair hearing.
+[t12] Carissa(PRO): Your principle assumes a global forum must be the United Nations, and I reject that premise. Serious crises can use direct agreements or flexible coalitions, which deliver cooperation without this obsolete structure.
+[t13] Todd(CON): In a contained regional flood, countries can coordinate without a global forum. That practical exception does not erase the United Nations' value when a crisis crosses borders or threatens wider peace.
+[t14] @B2 Wendy(MOD): One moment you're saying i believe every serious crisis always needs a global forum, then you're having them countries can coordinate without a global forum. Which?
+[t15] Todd(CON): The two statements fit by distinguishing scale and seriousness. A contained flood can be handled directly, while a serious crisis needs worldwide legitimacy. The forum is essential for the latter, not every minor emergency.
+[t16] Carissa(PRO): International cooperation matters even when no global institution is required. That is precisely why a rigid universal body can be obsolete: useful cooperation survives, while the outdated structure no longer leads it.
+[t17] Todd(CON): If the United Nations is obsolete, what should give a small country an equal voice when powerful states disagree? Would your faster coalitions offer rules and legitimacy, or merely reflect whoever has more power?
+[t18] Carissa(PRO): Your weakest point is the claim that one forum guarantees equality. A formal seat means little when powerful members can block action. Real influence comes from workable agreements, not ceremonial inclusion.
+[t19] Todd(CON): No, I do not claim a seat guarantees equal influence; it provides a standing place to contest power. Your alternative risks private deals, where weaker countries lose access and accountability altogether.
+[t20] @A4 <ovl> Wendy(MOD): Ten seconds, both of you.
+[t21] <cut> Carissa(PRO): You are defending access, not effectiveness-
+--- phase 3 ---
+[t22] @A3-2 <ovl> Wendy(MOD): Okay, time. So, let's move on to round three and our closing statements on the resolution the claim that the united nations is obsolete. Making her closing statement, here is Carissa.
+[t23] Carissa(PRO): Todd's best argument is that the United Nations gives weaker nations a voice. A voice matters, but it is not enough when vetoes and delay block action during urgent crises. The motion concerns whether this institution still serves as the effective center of cooperation. Today, countries can build narrower, faster agreements without preserving an outdated universal structure.
+[t24] @A4 <ovl> Wendy(MOD): Ten seconds warning.
+[t25] <cut> Carissa(PRO): The world does not need one ceremonial forum for every problem; it needs results, accountability, and adaptable partnerships. Since the United Nations repeatedly fails those tests, calling it obsolete is not-
+[t26] @A2-1 <ovl> Wendy(MOD): Thank you, your time is up. And here to summarize his position against the motion, Todd.
+[t27] Todd(CON): This decision turns on whether usefulness requires speed alone. It does not. The United Nations offers a shared forum, common standards, and access for weaker nations, so reform may be wise, but obsolescence is false.
+[t28] Wendy(MOD): Thank you both for your thoughtful arguments; that concludes our debate, and I leave the resolution for you to consider.

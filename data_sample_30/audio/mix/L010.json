@@ -1,0 +1,423 @@
+{
+ "debate_id": "L010",
+ "motion": "Artificial intelligence will do more harm than good.",
+ "speakers": {
+  "MOD": {
+   "name": "Monica",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1206_312",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
+   "wpm": 165.44
+  },
+  "PRO": {
+   "name": "Miriam",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2678_246",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2678/MSP-PODCAST_2678_246.wav",
+   "wpm": 168.22
+  },
+  "CON": {
+   "name": "Zach",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 95.02,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 315.3,
+ "ext": {
+  "a32": {
+   "file": "L010_ext_a32.wav",
+   "place_at_sec": 241.788,
+   "dur_sec": 21.56,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "I grant that safeguards can reduce some failures, but they cannot erase hidden bias, misuse, or damage at scale. The central risk remains larger than the convenience, so AI does more harm than good."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.12,
+   "dur_sec": 18.12,
+   "overlap": false,
+   "text": "Today we're debating whether artificial intelligence will do more harm than good. Miriam takes the side that it will; Zach takes the side that it will not. Each opening gets thirty seconds, followed by two and a half minutes of crossfire. Then each side gets a thirty-second closing, with a ten-second cue before each limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.32,
+   "end_sec": 37.72,
+   "dur_sec": 19.4,
+   "overlap": false,
+   "text": "Artificial intelligence can spread errors faster than people can detect them, and it can make harmful choices look objective. That danger reaches work, education, and personal decisions. When powerful systems are built for speed and profit, safeguards often lag behind. The promised convenience cannot erase the damage when these tools are trusted too widely."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 37.92,
+   "end_sec": 49.62,
+   "dur_sec": 11.7,
+   "overlap": false,
+   "text": "Even useful systems can deepen inequality when access, training, and correction are uneven. A mistake by a person may stay local-",
+   "cut_at_sec": 49.62,
+   "full_dur_sec": 13.8,
+   "ext_file": "L010_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.32,
+   "end_sec": 39.32,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds, Miriam."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 48.82,
+   "end_sec": 50.78,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Your time is up. Thank you. Zach."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 50.98,
+   "end_sec": 70.7,
+   "dur_sec": 19.72,
+   "overlap": false,
+   "text": "Artificial intelligence is a tool, and tools can be used badly without being harmful overall. It can help people notice patterns, learn difficult skills, and handle exhausting tasks. The right answer is careful design and human review, not declaring the technology a net loss. Its risks deserve limits, but its benefits remain broad and real."
+  },
+  {
+   "i": 6,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 70.9,
+   "end_sec": 79.42,
+   "dur_sec": 8.52,
+   "overlap": false,
+   "text": "People can reject bad advice, improve faulty systems, and reserve important choices for humans. That makes responsible use possible, so artificial intelligence need not do more harm than good."
+  },
+  {
+   "i": 7,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 70.98,
+   "end_sec": 72.06,
+   "dur_sec": 1.08,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 79.62,
+   "end_sec": 95.02,
+   "dur_sec": 15.4,
+   "overlap": false,
+   "text": "Thank you, Zach. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 95.22,
+   "end_sec": 107.66,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "If an automated system denies someone a job or benefit unfairly, who reliably repairs the damage when nobody understands its decision? Isn't that risk alone enough to show widespread use can cause more harm than good?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 108.183,
+   "end_sec": 120.543,
+   "dur_sec": 12.36,
+   "overlap": false,
+   "text": "The better question is how we govern these systems: require clear explanations, protect private information, and keep a human appeal process. Those rules can make deployment fairer while preserving useful automation in schools, offices, and homes."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 120.743,
+   "end_sec": 124.143,
+   "dur_sec": 3.4,
+   "overlap": false,
+   "text": "We are debating artificial intelligence will do more harm than good."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 124.343,
+   "end_sec": 137.023,
+   "dur_sec": 12.68,
+   "overlap": false,
+   "text": "The motion asks whether artificial intelligence will do more harm than good, and I say no because benefits remain available under responsible use. We can limit dangerous applications without abandoning tools that help people work and learn."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.519,
+   "end_sec": 148.439,
+   "dur_sec": 10.92,
+   "overlap": false,
+   "text": "When AI makes high-stakes decisions without meaningful human review, its harms outweigh its benefits because hidden errors can shape a person's future. Under that condition, convenience is not a sufficient defense."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.358,
+   "end_sec": 160.758,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "A writing assistant can help someone organize a difficult application, while a teacher or manager still reviews the result. That example shows assistance can expand opportunity without handing final authority to a machine."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.752,
+   "end_sec": 171.792,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "That example assumes review catches every serious error, but reviewers often trust polished output and lack time to check it carefully. The system's appearance of confidence can hide-"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 170.892,
+   "end_sec": 181.092,
+   "dur_sec": 10.2,
+   "overlap": true,
+   "text": "But your claim treats rushed review as inevitable. If a tool helps a person compare options, flag uncertainty, and slow a decision, it can strengthen judgment rather than replace it."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 182.087,
+   "end_sec": 192.047,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "Across society, artificial intelligence can magnify mistakes and unequal power even when one careful user benefits from it. Scale changes the balance, because repeated small failures become widespread harm."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 192.847,
+   "end_sec": 204.487,
+   "dur_sec": 11.64,
+   "overlap": false,
+   "text": "Scale also spreads useful help, especially when a person cannot afford specialized guidance. That raises questions about training and access, but the motion still concerns overall effects, and those benefits keep the balance positive."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 205.132,
+   "end_sec": 216.292,
+   "dur_sec": 11.16,
+   "overlap": false,
+   "text": "No, access to assistance does not prove its effects are positive overall. Cheap systems can also cheapen judgment, expose private information, and multiply unfair decisions, so broad availability may broaden the harm."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 217.25,
+   "end_sec": 228.97,
+   "dur_sec": 11.72,
+   "overlap": false,
+   "text": "A translation tool can let a patient understand instructions that would otherwise remain confusing, while a human confirms critical details. That shows AI can remove barriers and support safer choices, not merely create risks."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 229.897,
+   "end_sec": 241.137,
+   "dur_sec": 11.24,
+   "overlap": false,
+   "text": "That helps only when the translation is accurate and the human can verify it. In many settings, people cannot detect subtle errors, so a helpful appearance may deliver dangerous guidance while escaping correction."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 235.02,
+   "end_sec": 235.94,
+   "dur_sec": 0.92,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 241.788,
+   "end_sec": 245.82,
+   "dur_sec": 4.032,
+   "overlap": false,
+   "text": "If human review, limited use, and clear accountability can prevent those failures-",
+   "ext_file": "L010_ext_a32.wav",
+   "cut_at_sec": 245.82,
+   "full_dur_sec": 9.8
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 245.02,
+   "end_sec": 250.66,
+   "dur_sec": 5.64,
+   "overlap": true,
+   "text": "And that's time. We're gonna go onto our closing round. And first up will be Miriam, you're first up, right?"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 250.86,
+   "end_sec": 270.9,
+   "dur_sec": 20.04,
+   "overlap": false,
+   "text": "The strongest point is that artificial intelligence can magnify a mistake across countless decisions while making that mistake look neutral. A human reviewer may miss errors because the output sounds confident. Even helpful examples depend on accurate systems and careful oversight, conditions that are not guaranteed. When these tools influence jobs, learning, or essential services, the potential damage spreads faster than accountability."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 270.86,
+   "end_sec": 272.26,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 271.1,
+   "end_sec": 279.94,
+   "dur_sec": 8.84,
+   "overlap": false,
+   "text": "Zach's safeguards reduce danger, but they do not remove unequal access, hidden bias, or careless deployment. Because those harms scale widely, artificial intelligence will do more harm than good."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 280.14,
+   "end_sec": 281.38,
+   "dur_sec": 1.24,
+   "overlap": false,
+   "text": "I'm going to let Zach answer."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.58,
+   "end_sec": 301.3,
+   "dur_sec": 19.72,
+   "overlap": false,
+   "text": "Miriam is right that poorly designed systems can cause serious harm, but that does not establish the motion. The question is the overall effect, including tools that improve access, reduce tedious work, and help people understand difficult information. Human review, limited use, and accountability can address major risks. We should govern artificial intelligence, not reject its benefits."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 301.5,
+   "end_sec": 309.94,
+   "dur_sec": 8.44,
+   "overlap": false,
+   "text": "A risky tool needs rules, not a blanket verdict. Used responsibly, artificial intelligence helps more than it harms, so the motion is false."
+  },
+  {
+   "i": 31,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 301.58,
+   "end_sec": 303.78,
+   "dur_sec": 2.2,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 310.14,
+   "end_sec": 315.3,
+   "dur_sec": 5.16,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate. That concludes our discussion, and we appreciate your time."
+  }
+ ]
+}

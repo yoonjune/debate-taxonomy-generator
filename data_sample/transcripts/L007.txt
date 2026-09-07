@@ -1,37 +1,37 @@
-L007  |  We should erase bad memories.
-  MOD=Martha   PRO=Cecilia   CON=Nicholas
-  crossfire 150s (actual Nones)
+L007  |  Political Islam is a threat to the West.
+  MOD=Aaron   PRO=Eric   CON=Kenneth
 
 --- phase 1 ---
-[t00] Martha(MOD): Today we debate whether we should erase bad memories. Cecilia argues for the motion, and Nicholas argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. We finish with thirty-second closings, and I will give a ten-second cue.
-[t01] Cecilia(PRO): Bad memories can keep fear alive long after danger has passed. Erasing them can restore sleep, trust, and a future not ruled by old pain. We should not worship suffering; when a memory harms more than it teaches, letting it go is humane.
-[t02] @A2-2 Martha(MOD): Nicholas, over to you.
-[t03] Nicholas(CON): Painful memories can hurt, but they also warn us, shape judgment, and reveal what needs repair. Erasing them may offer relief while removing responsibility and useful knowledge. We should heal bad memories, not delete the evidence of what happened.
+[t00] Aaron(MOD): Tonight we debate whether Political Islam is a threat to the West. Eric argues yes; Kenneth argues no. Each opening lasts thirty seconds. Then comes crossfire, where they address each other. Finally, each gives a thirty-second closing. The moderator will give a ten-second cue. Keep answers relevant, and respect the time.
+[t01] Eric(PRO): The motion concerns an ideology and political project, not Muslim people or private faith. Political Islam seeks public power shaped by religious authority, and some movements use elections to limit equal citizenship. When that project rejects plural law, pressures dissenters, or excuses violence, it threatens Western security and democratic freedom. That danger deserves scrutiny, since Western governments must distinguish
+[t02] @A4 <ovl> Aaron(MOD): Eric, ten seconds.
+[t03] <cut> Eric(PRO): peaceful belief from a program that subordinates civil law. Governments should not wait for attacks before confronting networks that recruit through intimidation, reject equal rights, and make democratic tolerance serve its own undoing, because the warning signs are already-
+[t04] @A2-1 <ovl> Aaron(MOD): Your time is up. Thank you. Kenneth.
+[t05] Kenneth(CON): Political Islam is too broad a label to prove a threat. It includes parties and citizens who work peacefully within constitutional systems. Violent groups threaten the West, but their violence does not make an entire political tradition dangerous. The answer is firm law against violence, alongside equal rights and open debate.
 --- phase 2 ---
-[t04] @A3-1 Martha(MOD): And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
-[t05] Nicholas(CON): If erasing a bad memory also removes its lesson, why call that progress? Wouldn't healing the pain while preserving the warning protect people better than deletion?
-[t06] Cecilia(PRO): No, erasing a bad memory need not erase its lesson; wisdom can survive without the torment attached to it. Why preserve suffering merely because it arrived carrying information?
-[t07] Nicholas(CON): The better policy question is how schools should teach painful history without frightening children or excusing cruelty. Should lessons use honest stories, careful guidance, and room for questions rather than forcing young minds to carry every detail?
-[t08] @B1 Martha(MOD): We're talking about the practicality or the morality of whether we should erase painful and damaging memories.
-[t09] Nicholas(CON): The motion asks whether bad memories should be erased, and they should not be erased as a general remedy. We can soften their pain, but deleting them risks deleting warnings, duties, and parts of identity.
-[t10] Cecilia(PRO): Every bad memory should be erased. If it still teaches something, we can keep the lesson without keeping the wound, so removal is the humane default.
-[t11] Nicholas(CON): I grant that some memories become a needless source of torment. But your default treats memory as the problem, when the real need is support, understanding, and a safe way to remember; therefore we should not erase bad memories.
-[t12] Cecilia(PRO): For a child, a bad memory should be preserved when it helps explain who they are. Protection can matter more than relief in that case, so erasure is not always right.
-[t13] @B2 Martha(MOD): You said every bad memory should be erased, but you see it as for a child, a bad memory should be preserved.
-[t14] Cecilia(PRO): Those statements fit because preservation can mean keeping a safe record, while erasure can mean removing the living wound. The child keeps meaning and history, but loses the torment; that is still the benefit I defend.
-[t15] Nicholas(CON): Your compatibility claim changes the meaning of erasure. If the painful memory remains as a record, you have not erased the bad memory; you have treated it, which supports my side.
-[t16] Cecilia(PRO): Your weakest point is calling any retained record the same as retained suffering. A person can lose the fear, shame, and intrusive images while keeping a useful outline, so relief remains a form of erasure.
-[t17] Nicholas(CON): A frightened child who remembers a dangerous doorway can avoid repeating the mistake. That concrete memory may protect them later, showing why deletion can create fresh danger instead of solving the original harm.
-[t18] @A4 <ovl> Martha(MOD): Ten seconds, ten seconds.
-[t19] <cut> Cecilia(PRO): I grant that a warning can protect someone. But protection does not require reliving-
+[t06] @A3-1 Aaron(MOD): We're going to begin the section now, where the debaters address one another.
+[t07] Eric(PRO): A movement wins office, then makes courts answer to clerics and treats women as unequal citizens. That is political power, not private faith, and it threatens Western commitments to equal law.
+[t08] Kenneth(CON): You called that a movement that wins office, then assumed its conduct. Peaceful participation does not prove a threat, and hypothetical abuse cannot condemn every political actor who draws on religious values.
+[t09] Eric(PRO): If a party seeks power through elections and promises equal citizenship, what specific evidence makes its religious identity a threat rather than its unlawful actions, before it actually violates law?
+[t10] Kenneth(CON): Under the specific condition that a movement accepts equal citizenship and constitutional limits, its religious inspiration alone does not make it a Western threat; judge conduct, coercion, and lawbreaking instead in public office.
+[t11] Eric(PRO): Your condition assumes the promise is reliable. A movement can speak of equal citizenship while building authority that later narrows it. Waiting for completed lawbreaking ignores recruitment, intimidation, and democratic safeguards.
+[t12] Kenneth(CON): Your question assumes religious identity is irrelevant until a statute is broken. I reject that premise: an ideology can signal goals, and organized pressure can erode rights before courts record a violation.
+[t13] Eric(PRO): Imagine a campaign that demands religious tests for senior office, labels dissenters traitors, and urges supporters to punish critics. Even before it governs, that campaign threatens pluralism and makes political Islam a Western security concern.
+[t14] Kenneth(CON): You said, "demands religious tests for senior office." That example supports banning discrimination, not branding a broad ideology a threat. Apply the same standard to secular movements that intimidate opponents: punish acts, not identity.
+[t15] Eric(PRO): Will you acknowledge that a movement becomes a threat when it seeks to replace equal civic law with religious obedience, even if it first wins votes legally and peacefully?
+[t16] Kenneth(CON): I grant that replacing equal civic law with coercive rule would be a threat. But you still haven't shown that religious inspiration predicts that outcome; your argument turns suspicion into evidence and broadens guilt.
+[t17] Eric(PRO): You say I turn suspicion into evidence, but I gave observable warning signs: religious tests, punished dissent, and pressure against equal law. Those are conduct-based indicators, not guilt assigned to believers.
+[t18] Kenneth(CON): In every country, political movements should be judged by public goals and methods, not by private belief; no movement, religious or secular, deserves trust when it seeks unchecked power.
+[t19] Eric(PRO): A coalition can campaign for elected government, accept equal citizenship, and lose office peacefully. That concrete example shows religious language alone isn't a threat; coercion and anti-pluralist goals are the test.
+[t20] <cut> Kenneth(CON): You say, "religious language alone isn't a threat." I agree language alone is not enough, but your coalition avoids the danger I identified. When religious authority outranks equal law, the threat is political, not merely-
 --- phase 3 ---
-[t20] @A3-2 <ovl> Martha(MOD): Okay, time. And now we move on to round three. Round three, closing statements from each debater in turn. And here to make her closing statement, Cecilia.
-[t21] Cecilia(PRO): Bad memories are not sacred simply because they are old. When they trap someone in fear, shame, or helplessness, erasing their emotional grip can restore choice and peace. Nicholas is right that lessons matter, but lessons are not the same as wounds. We can preserve meaning while removing torment, giving people a future shaped by judgment rather than injury.
-[t22] @A4 <ovl> Martha(MOD): Ten seconds warning.
-[t23] Cecilia(PRO): The humane choice is not to preserve suffering for its own sake. Keep wisdom, release the wound, and let people live beyond what hurt them.
-[t24] @A2-2 Martha(MOD): I want to go to the other side, first, Nicholas.
-[t25] Nicholas(CON): Relief matters, but erasure goes too far. A bad memory can carry a warning, explain a reaction, or remind us whom to protect. Cecilia's distinction between lesson and wound sounds neat, yet removing the memory can weaken both. We should face painful memories with care, support, and honest reflection. Healing changes our relationship with the past; it does not require destroying the past.
-[t26] @A4 <ovl> Martha(MOD): Ten seconds for last word.
-[t27] <cut> Nicholas(CON): A person deserves peace, but peace built on deletion can leave them less prepared and less accountable. Keep the memory, reduce its pain, and learn from what happened-
-[t28] @A1 <ovl> Martha(MOD): Thank you, Nicholas. Your time is up.
-[t29] Martha(MOD): Thank you both for a thoughtful debate. This debate is now closed without declaring a winner.
+[t21] @A3-2 <ovl> Aaron(MOD): We're going to move now into our closing round. Eric, you are answering yes to the question, and this is your time for your closing statement.
+[t22] Eric(PRO): The strongest point is simple: private faith is not the issue. A political project that puts religious authority above equal law, excuses coercion, or seeks power without pluralism threatens the West before violence arrives. We should defend Muslim citizens' rights while confronting that ideology firmly. That is protection, not prejudice.
+[t23] @A2-2 Aaron(MOD): Oh, Kenneth go ahead.
+[t24] Kenneth(CON): Judge actions, not labels. Equal citizenship, lawful elections, and peaceful transfer can coexist with religious politics. Punish coercion directly, rather than calling every religious political voice a threat.
+[t25] <ovl> <cut> Eric(PRO): You still haven't answered the question about-
+[t26] @A5 <ovl> Aaron(MOD): Wait, let him answer the question.
+[t27] Kenneth(CON): about whether religious identity itself proves danger. It does not. A threat requires unlawful conduct or coercive aims, and those can be addressed without treating believers as enemies.
+[t28] @A4 <ovl> Aaron(MOD): Ten seconds, ten seconds.
+[t29] Kenneth(CON): That distinction protects security and liberty together; it rejects violence without inventing an enemy from faith.
+[t30] Aaron(MOD): Thank you both for the discussion. The question remains contested. Viewers can weigh the arguments. This debate is now closed.

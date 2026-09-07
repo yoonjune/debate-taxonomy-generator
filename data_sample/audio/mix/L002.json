@@ -1,449 +1,275 @@
 {
  "debate_id": "L002",
- "motion": "A U.S.-China space race is good for humanity",
+ "motion": "Better Elected Islamists Than Dictators",
  "speakers": {
   "MOD": {
-   "name": "Chloe",
-   "gender": "Female",
-   "voice_id": "MSP-PODCAST_5945_806",
-   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5945/MSP-PODCAST_5945_806.wav",
-   "wpm": 205.17
+   "name": "Nick",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3841_60",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3841/MSP-PODCAST_3841_60.wav",
+   "wpm": 170.31
   },
   "PRO": {
-   "name": "Carl",
-   "gender": "Male",
-   "voice_id": "MSP-PODCAST_4788_785",
-   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_4/MSP-PODCAST_4788/MSP-PODCAST_4788_785.wav",
-   "wpm": 177.94
+   "name": "Miriam",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
   },
   "CON": {
-   "name": "Roger",
-   "gender": "Male",
-   "voice_id": "MSP-PODCAST_6071_804",
-   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_6/MSP-PODCAST_6071/MSP-PODCAST_6071_804.wav",
-   "wpm": 168.17
+   "name": "Danielle",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
   }
  },
  "selective": [
   "A1",
-  "A5",
-  "B1"
+  "A2-1",
+  "B2"
  ],
- "crossfire_sec": 150,
- "xf_open_sec": 86.359,
- "crossfire_sec_actual": 150.0,
- "total_sec": 300.51,
- "ext": {
-  "a32": {
-   "file": "L002_ext_a32.wav",
-   "place_at_sec": 235.355,
-   "dur_sec": 20.671,
-   "src_i": 24
-  }
- },
- "flags": [],
- "dropped_turns": [
-  {
-   "src_i": 23,
-   "speaker": "CON",
-   "slot": "X15",
-   "text": "I grant that rivalry can challenge complacency, but that benefit is smaller than the danger of rushed decisions and hostile interpretation. Humanity needs dependable cooperation, not a race."
-  }
- ],
+ "total_sec": 247.1,
  "turns": [
   {
    "i": 0,
-   "src_i": 0,
    "speaker": "MOD",
    "code": null,
    "start_sec": 0.0,
-   "end_sec": 18.706,
-   "dur_sec": 18.706,
+   "end_sec": 18.68,
+   "dur_sec": 18.68,
    "overlap": false,
-   "text": "Today's motion is that a U.S.-China space race is good for humanity. Carl argues for it, and Roger argues against it. Each side gets thirty seconds to open, then we have two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue before each timed segment ends."
+   "text": "Tonight's motion is Better Elected Islamists Than Dictators. Miriam argues for it; Danielle argues against it. Each will have thirty seconds to open. Then they will question and answer in crossfire. Finally, each will give a thirty-second closing. I will give a ten-second cue before time expires. Keep answers focused, and address the motion directly."
   },
   {
    "i": 1,
-   "src_i": 1,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 18.906,
-   "end_sec": 36.906,
-   "dur_sec": 18.0,
+   "start_sec": 18.88,
+   "end_sec": 38.44,
+   "dur_sec": 19.56,
    "overlap": false,
-   "text": "A U.S.-China space race can turn rivalry into progress, pushing both countries to solve hard problems in space and on Earth. Competition brings investment, urgency, and useful discoveries. If it stays peaceful and focused on exploration, humanity gains new knowledge and stronger reasons to cooperate."
+   "text": "An elected Islamist party receives authority through a public choice, not a palace decree. That distinction matters because voters can test promises, organize opposition, and replace leaders. A dictatorship denies those peaceful routes before any policy is judged. We should not demand perfect partners before accepting elections; we should demand institutions strong enough to restrain whoever wins."
   },
   {
    "i": 2,
-   "src_i": 2,
    "speaker": "MOD",
-   "code": "A2-2",
-   "start_sec": 37.106,
-   "end_sec": 39.223,
-   "dur_sec": 2.118,
-   "overlap": false,
-   "text": "Roger, come on in your response."
+   "code": "A4",
+   "start_sec": 37.9,
+   "end_sec": 38.98,
+   "dur_sec": 1.08,
+   "overlap": true,
+   "text": "Ten seconds, Miriam."
   },
   {
    "i": 3,
-   "src_i": 3,
-   "speaker": "CON",
+   "speaker": "PRO",
    "code": null,
-   "start_sec": 39.423,
-   "end_sec": 59.38,
-   "dur_sec": 19.956,
+   "start_sec": 39.18,
+   "end_sec": 52.98,
+   "dur_sec": 13.8,
    "overlap": false,
-   "text": "A race sounds exciting, but rivalry makes safety and restraint harder. Each side may rush launches, hide information, or treat cooperation as weakness. Space technology can also serve surveillance and weapons, not just exploration. Humanity benefits from shared goals and careful rules, while a race rewards speed over judgment and makes dangerous mistakes more likely."
+   "text": "Religious voters are citizens; excluding their movement makes ballots decorative. Let an elected government face courts, a legislature, a free press, and another election. If it abuses office, remove it through those channels, rather than preserving a dictator because democracy might-"
   },
   {
    "i": 4,
-   "src_i": 4,
    "speaker": "MOD",
-   "code": "A4",
-   "start_sec": 59.423,
-   "end_sec": 60.835,
-   "dur_sec": 1.412,
+   "code": "A2-1",
+   "start_sec": 52.18,
+   "end_sec": 54.14,
+   "dur_sec": 1.96,
    "overlap": true,
-   "text": "You've got ten seconds."
+   "text": "Your time is up. Thank you. Danielle."
   },
   {
    "i": 5,
-   "src_i": 5,
    "speaker": "CON",
    "code": null,
-   "start_sec": 59.58,
-   "end_sec": 70.723,
-   "dur_sec": 11.143,
+   "start_sec": 54.34,
+   "end_sec": 72.06,
+   "dur_sec": 17.72,
    "overlap": false,
-   "text": "Even peaceful missions can become symbols of national pride, so leaders may take risks to avoid falling behind. We should explore together, with transparent standards and shared safeguards. A race invites-",
-   "cut_at_sec": 70.723,
-   "full_dur_sec": 14.043,
-   "ext_file": "L002_005.wav"
+   "text": "An election begins liberty; it does not guarantee it. An Islamist government can win office, then use religious authority to silence rivals, narrow rights, and rewrite the rules. A dictator is unjust, but an elected closed system still leaves citizens unsafe and unfree."
   },
   {
    "i": 6,
-   "src_i": 6,
    "speaker": "MOD",
-   "code": "A1",
-   "start_sec": 69.923,
-   "end_sec": 70.276,
-   "dur_sec": 0.353,
-   "overlap": true,
-   "text": "Time."
+   "code": "A3-1",
+   "start_sec": 72.26,
+   "end_sec": 74.94,
+   "dur_sec": 2.68,
+   "overlap": false,
+   "text": "Let me throw the discussion open between the two sides."
   },
   {
    "i": 7,
-   "src_i": 7,
-   "speaker": "MOD",
-   "code": "A3-1",
-   "start_sec": 70.476,
-   "end_sec": 86.359,
-   "dur_sec": 15.882,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 75.14,
+   "end_sec": 87.1,
+   "dur_sec": 11.96,
    "overlap": false,
-   "text": "Thank you, Roger. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+   "text": "I reject the assumption that an Islamist victory automatically ends democracy. The real question is whether voters retain legal protections and a peaceful remedy. Under dictatorship, they have neither, whatever the ruler promises or claims."
   },
   {
    "i": 8,
-   "src_i": 8,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 86.559,
-   "end_sec": 96.088,
-   "dur_sec": 9.529,
+   "start_sec": 87.3,
+   "end_sec": 98.62,
+   "dur_sec": 11.32,
    "overlap": false,
-   "text": "A competition to build a lunar base could produce cheaper launch systems and better life-support tools. Those tools would help future explorers and improve resilience on Earth."
+   "text": "Whenever voters freely choose an Islamist government, it is better than any dictatorship, because citizens retain a peaceful route to replace leaders, criticize policy, and demand accountability through public institutions and courts."
   },
   {
    "i": 9,
-   "src_i": 9,
    "speaker": "CON",
    "code": null,
-   "start_sec": 96.924,
-   "end_sec": 106.454,
-   "dur_sec": 9.529,
+   "start_sec": 98.82,
+   "end_sec": 111.42,
+   "dur_sec": 12.6,
    "overlap": false,
-   "text": "You assume the race produces useful tools, but competing programs can duplicate wasteful work and hide failures. Public money may chase prestige instead of urgent needs, and-"
+   "text": "Your promise of institutions is too vague. Courts and legislatures can be captured by a winning movement, while religious claims make dissent look immoral. If safeguards depend on the victor's restraint, they are not safeguards at all."
   },
   {
    "i": 10,
-   "src_i": 10,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 105.554,
-   "end_sec": 115.789,
-   "dur_sec": 10.235,
-   "overlap": true,
-   "text": "But if duplication creates rival solutions, doesn't that improve reliability and lower costs? You are treating competition as waste when it can expose weaknesses before people depend on them."
+   "start_sec": 111.62,
+   "end_sec": 122.78,
+   "dur_sec": 11.16,
+   "overlap": false,
+   "text": "Here is a concrete limit: if an elected Islamist government cancels elections, bans opposition, and makes peaceful removal impossible, it can be worse than a dictator who permits an orderly succession of power."
   },
   {
    "i": 11,
-   "src_i": 11,
-   "speaker": "CON",
-   "code": null,
-   "start_sec": 116.063,
-   "end_sec": 125.592,
-   "dur_sec": 9.529,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 122.98,
+   "end_sec": 127.26,
+   "dur_sec": 4.28,
    "overlap": false,
-   "text": "No, competition does not reliably expose weaknesses before use; secrecy can conceal them. Rival programs may improve hardware, but public safety requires openness, which a race undermines."
+   "text": "You're arguing that an elected Islamist government can be worse than a dictator now?"
   },
   {
    "i": 12,
-   "src_i": 12,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 126.061,
-   "end_sec": 136.649,
-   "dur_sec": 10.588,
+   "start_sec": 127.46,
+   "end_sec": 139.1,
+   "dur_sec": 11.64,
    "overlap": false,
-   "text": "Then the real issue is how governments share launch sites and research facilities. Clear licensing, inspection, and emergency agreements could prevent bottlenecks while letting each country build its own capacity."
+   "text": "Those statements fit because my comparison concerns voters' choice and the accountability that follows. A government that destroys elections destroys the condition making it preferable; before that breach, peaceful removal remains the decisive advantage."
   },
   {
    "i": 13,
-   "src_i": 13,
-   "speaker": "MOD",
-   "code": "B1",
-   "start_sec": 136.849,
-   "end_sec": 141.79,
-   "dur_sec": 4.941,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 139.3,
+   "end_sec": 150.06,
+   "dur_sec": 10.76,
    "overlap": false,
-   "text": "We are talking about a u.s.-china space race is good for humanity right now."
+   "text": "Families worry about jobs, prices, and schooling, and those pressures decide elections. But hardship is why rulers need public accountability. On this motion, elected Islamists remain preferable when citizens can remove them peacefully."
   },
   {
    "i": 14,
-   "src_i": 14,
    "speaker": "PRO",
    "code": null,
-   "start_sec": 141.99,
-   "end_sec": 152.578,
-   "dur_sec": 10.588,
+   "start_sec": 150.26,
+   "end_sec": 162.3,
+   "dur_sec": 12.04,
    "overlap": false,
-   "text": "The motion asks whether the race is good for humanity, and regulated competition can make exploration faster and safer. Rival goals create pressure to improve while agreements limit reckless behavior."
+   "text": "Yes, peaceful removal is the safeguard I mean, not a promise that every Islamist cabinet will behave well. Danielle's alternative protects no better rights; dictatorship makes accountability impossible by placing one ruler beyond effective challenge."
   },
   {
    "i": 15,
-   "src_i": 15,
    "speaker": "CON",
    "code": null,
-   "start_sec": 153.415,
-   "end_sec": 163.651,
-   "dur_sec": 10.235,
+   "start_sec": 162.5,
+   "end_sec": 175.5,
+   "dur_sec": 13.0,
    "overlap": false,
-   "text": "Budgets also shape schools, hospitals, and basic infrastructure, so spending choices matter. Still, even a carefully funded program remains a race, and its rivalry can make human welfare secondary."
+   "text": "You called peaceful removal the decisive advantage, but your exception admits an elected Islamist government can be worse than a dictator. That is not a safeguard; it is a warning that ballots can empower leaders who then-"
   },
   {
    "i": 16,
-   "src_i": 16,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 163.855,
-   "end_sec": 174.443,
-   "dur_sec": 10.588,
-   "overlap": false,
-   "text": "You have shifted from whether the race helps humanity to whether budgets have competing needs. A program can be worthwhile without ignoring essentials, especially when its inventions serve many people."
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 174.7,
+   "end_sec": 186.98,
+   "dur_sec": 12.28,
+   "overlap": true,
+   "text": "We are about to hear brief closing remarks from each debater in turn. On to round three, closing statements. First summarizing her position in support of the motion whether elected Islamist governments are better than dictators, Miriam."
   },
   {
    "i": 17,
-   "src_i": 17,
-   "speaker": "CON",
+   "speaker": "PRO",
    "code": null,
-   "start_sec": 174.967,
-   "end_sec": 184.849,
-   "dur_sec": 9.882,
+   "start_sec": 187.18,
+   "end_sec": 204.82,
+   "dur_sec": 17.64,
    "overlap": false,
-   "text": "When two governments compete without trusted communication, the race is harmful because a small incident can trigger dangerous escalation. Under that condition, exploration gains cannot outweigh the risk."
+   "text": "This decision turns on what happens when power goes wrong. Dictators close the door before citizens can act; elected Islamist governments at least face a route through votes, courts, and opposition. The choice is not perfection versus danger. It is unaccountable power versus a chance to correct it."
   },
   {
    "i": 18,
-   "src_i": 18,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 185.072,
-   "end_sec": 194.248,
-   "dur_sec": 9.176,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 205.02,
+   "end_sec": 206.9,
+   "dur_sec": 1.88,
    "overlap": false,
-   "text": "That condition supports safeguards, not abandoning competition. If direct communication, inspections, and limits are built in, rivalry can remain peaceful while accelerating discoveries that benefit humanity."
+   "text": "So, let's let Danielle jump in. Okay."
   },
   {
    "i": 19,
-   "src_i": 19,
    "speaker": "CON",
    "code": null,
-   "start_sec": 195.076,
-   "end_sec": 204.958,
-   "dur_sec": 9.882,
+   "start_sec": 207.1,
+   "end_sec": 226.58,
+   "dur_sec": 19.48,
    "overlap": false,
-   "text": "Space competition can be harmful even when individual projects are peaceful, because national pressure distorts priorities and makes cooperation fragile. Limited safeguards do not remove that broader pattern."
+   "text": "This decision turns on whether an election protects liberty after election night. A movement can win lawfully and then weaken courts, silence opponents, and claim sacred authority for ordinary political choices. Once removal becomes impossible, the ballot has served as a ladder into permanent rule. Citizens deserve safeguards before we call that bargain better."
   },
   {
    "i": 20,
-   "src_i": 20,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 205.656,
-   "end_sec": 213.773,
-   "dur_sec": 8.118,
-   "overlap": false,
-   "text": "If peaceful safeguards cannot make competition worthwhile, what evidence would show that shared exploration alone will receive enough funding and urgency to succeed?"
-  },
-  {
-   "i": 21,
-   "src_i": 21,
-   "speaker": "CON",
-   "code": null,
-   "start_sec": 214.283,
-   "end_sec": 224.165,
-   "dur_sec": 9.882,
-   "overlap": false,
-   "text": "A joint mission can divide costs, share data, and let each country check the other's work. That shows cooperation can deliver exploration without turning science into a contest."
-  },
-  {
-   "i": 22,
-   "src_i": 22,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 224.403,
-   "end_sec": 234.638,
-   "dur_sec": 10.235,
-   "overlap": false,
-   "text": "A joint mission proves cooperation is useful, not that competition is harmful. Rival teams can still contribute data, challenge weak designs, and keep a shared project from becoming complacent."
-  },
-  {
-   "i": 23,
-   "src_i": 25,
    "speaker": "MOD",
    "code": "A4",
-   "start_sec": 226.359,
-   "end_sec": 228.476,
-   "dur_sec": 2.118,
-   "overlap": true,
-   "text": "Ten seconds, and then closing statements."
-  },
-  {
-   "i": 24,
-   "src_i": 24,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 235.355,
-   "end_sec": 237.159,
-   "dur_sec": 1.804,
-   "overlap": false,
-   "text": "You have not shown that-",
-   "ext_file": "L002_ext_a32.wav",
-   "cut_at_sec": 237.159,
-   "full_dur_sec": 10.588
-  },
-  {
-   "i": 25,
-   "src_i": 26,
-   "speaker": "MOD",
-   "code": "A3-2",
-   "start_sec": 236.359,
-   "end_sec": 244.476,
-   "dur_sec": 8.118,
-   "overlap": true,
-   "text": "But now, it is time to bring this all home with our closing round. Carl for your closing statement, you are up first."
-  },
-  {
-   "i": 26,
-   "src_i": 27,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 244.676,
-   "end_sec": 262.676,
-   "dur_sec": 18.0,
-   "overlap": false,
-   "text": "This debate shows that competition and cooperation need not be opposites. A peaceful U.S.-China space race can speed innovation, strengthen safety through rival testing, and inspire shared standards. With safeguards, humanity gains exploration, useful technology, and momentum that a slower arrangement might never create."
-  },
-  {
-   "i": 27,
-   "src_i": 28,
-   "speaker": "MOD",
-   "code": "A2-2",
-   "start_sec": 262.876,
-   "end_sec": 264.994,
-   "dur_sec": 2.118,
-   "overlap": false,
-   "text": "I'm going to let Roger answer."
-  },
-  {
-   "i": 28,
-   "src_i": 29,
-   "speaker": "CON",
-   "code": null,
-   "start_sec": 265.194,
-   "end_sec": 275.042,
-   "dur_sec": 9.848,
-   "overlap": false,
-   "text": "The central danger is incentive, not imagination. A race rewards speed, secrecy, and national pride, making accidents and escalation more likely while diverting resources from immediate human needs."
-  },
-  {
-   "i": 29,
-   "src_i": 30,
-   "speaker": "PRO",
-   "code": null,
-   "start_sec": 274.142,
-   "end_sec": 276.442,
-   "dur_sec": 2.3,
-   "overlap": true,
-   "text": "But safeguards can restrain those incentives, and-",
-   "cut_at_sec": 276.442,
-   "full_dur_sec": 9.529,
-   "ext_file": "L002_030.wav"
-  },
-  {
-   "i": 30,
-   "src_i": 31,
-   "speaker": "MOD",
-   "code": "A5",
-   "start_sec": 275.642,
-   "end_sec": 277.407,
-   "dur_sec": 1.765,
-   "overlap": true,
-   "text": "Just let him finish, please."
-  },
-  {
-   "i": 31,
-   "src_i": 32,
-   "speaker": "CON",
-   "code": null,
-   "start_sec": 277.607,
-   "end_sec": 287.85,
-   "dur_sec": 10.242,
-   "overlap": false,
-   "text": "The benefits remain uncertain, while the risks are built into rivalry itself. Even careful agreements can weaken under pressure, so exploration should proceed through cooperation, not a race."
-  },
-  {
-   "i": 32,
-   "src_i": 33,
-   "speaker": "MOD",
-   "code": "A4",
-   "start_sec": 285.194,
-   "end_sec": 286.606,
-   "dur_sec": 1.412,
+   "start_sec": 225.92,
+   "end_sec": 227.24,
+   "dur_sec": 1.32,
    "overlap": true,
    "text": "You have ten seconds."
   },
   {
-   "i": 33,
-   "src_i": 34,
+   "i": 21,
    "speaker": "CON",
    "code": null,
-   "start_sec": 288.05,
-   "end_sec": 293.959,
-   "dur_sec": 5.909,
+   "start_sec": 227.44,
+   "end_sec": 241.48,
+   "dur_sec": 14.04,
    "overlap": false,
-   "text": "Humanity needs shared progress and restraint, not competition that can turn discovery into danger."
+   "text": "Democracy is valuable because it limits power, not because every winner deserves trust. If an Islamist government keeps elections meaningful, it may be challenged. If it captures the state, voters cannot correct the choice. That is why a hopeful promise cannot outweigh a real-"
   },
   {
-   "i": 34,
-   "src_i": 35,
+   "i": 22,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 240.82,
+   "end_sec": 242.14,
+   "dur_sec": 1.32,
+   "overlap": true,
+   "text": "Danielle, her time is up."
+  },
+  {
+   "i": 23,
    "speaker": "MOD",
    "code": null,
-   "start_sec": 294.159,
-   "end_sec": 300.512,
-   "dur_sec": 6.353,
+   "start_sec": 242.34,
+   "end_sec": 247.1,
+   "dur_sec": 4.76,
    "overlap": false,
-   "text": "Thank you both for a thoughtful debate; that concludes our discussion, and we leave the question with you."
+   "text": "Thank you both. This debate is closed. We have heard both arguments, and no winner is declared tonight."
   }
  ]
 }

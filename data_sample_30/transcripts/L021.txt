@@ -1,0 +1,38 @@
+L021  |  Don't bring extinct creatures back to life
+  MOD=Aiden   PRO=Mustafa   CON=Jacob
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Aiden(MOD): Welcome to this debate on the motion, Don't bring extinct creatures back to life. Mustafa will argue for the motion, and Jacob will argue against it. Each speaker gets thirty seconds to open, then two and a half minutes of crossfire. We will finish with thirty-second closings, and I will give a ten-second cue.
+[t01] Mustafa(PRO): Bringing extinct creatures back creates risks we cannot fully predict, from disrupted habitats to suffering in animals designed for a vanished world. We should protect living species instead of chasing resurrection. The responsible choice is to leave extinction final.
+[t02] @A2-2 Aiden(MOD): Okay. Go on, Jacob.
+[t03] Jacob(CON): Extinction is not automatically a reason to forbid restoration. Some extinct creatures disappeared because people changed their habitats or hunted them, so bringing them back could repair damage we helped cause. Careful research could limit risks, protect ecosystems, and teach us how life responds to change. A blanket ban throws away possible knowledge and possible repair.
+[t04] @A4 <ovl> Aiden(MOD): You have ten seconds.
+[t05] <cut> Jacob(CON): It also treats every extinct creature as equally dangerous, though a controlled project is not the same as releasing animals everywhere. We can set boundaries, test effects, and stop when harm-
+[t06] @A1 <ovl> Aiden(MOD): Jacob, his time is up.
+--- phase 2 ---
+[t07] @A3-1 Aiden(MOD): And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t08] Jacob(CON): Because a chance to repair damage deserves evaluation, not automatic rejection. You assume uncertainty settles the question, but careful trials can reveal risks before release and keep restoration responsible.
+[t09] Mustafa(PRO): When a species would need an ecosystem that no longer exists, bringing it back would create suffering and disruption. In that case, leaving extinction final protects both nature and the animal.
+[t10] Jacob(CON): Your ecosystem point assumes restoration must copy the past completely. A limited habitat can be prepared first, so missing conditions are a design challenge, not proof that revival is wrong.
+[t11] Mustafa(PRO): Reviving extinct creatures is broadly a poor choice because ecosystems cannot be rebuilt with confidence. Even promising projects can shift food chains, spread disease, and consume protection that living species urgently need.
+[t12] Jacob(CON): If your concern is uncertain harm, why should uncertainty automatically defeat every carefully contained project instead of allowing evidence to decide whether restoration is safe?
+[t13] <cut> Mustafa(PRO): I grant that containment can reduce some danger. But it cannot recreate every lost relationship or predict every consequence, so society should leave extinct creatures gone rather than gamble with-
+[t14] <ovl> Jacob(CON): Wait - reduced danger matters, and your gamble language hides the choice. Refusing restoration can preserve damage caused by humans, while a controlled project may repair habitats and prevent.
+[t15] Mustafa(PRO): I believe no extinct creature should ever be brought back to life. That principle keeps human ambition from turning ecosystems into experiments and protects living species from reckless interference.
+[t16] Jacob(CON): Your absolute principle is the weak point. It rejects even a harmless, contained restoration before evidence exists, confusing moral certainty with responsible judgment about a particular case.
+[t17] Mustafa(PRO): This extinct creature should be brought back to life, because restoring its lost role could heal a damaged habitat and correct a human-caused disappearance without threatening nearby species.
+[t18] @B2 Aiden(MOD): But doesn't your argument for no extinct creature should ever be brought back to life fight your argument that this extinct creature should be brought back to life?
+[t19] Mustafa(PRO): My rule protects ecosystems from a general program of resurrection, while this case concerns one deliberate repair where restoration itself serves protection. I reject reckless revival and support this carefully chosen exception.
+[t20] Jacob(CON): I grant that some revivals could cause real ecological harm. But your exception still depends on predictions no one can guarantee, so why should that uncertainty make banning restoration the safer answer?
+[t21] Mustafa(PRO): That uncertainty is exactly why I support leaving extinct creatures alone, not why I should approve an exception. A possible repair cannot justify exposing living ecosystems to irreversible mistakes.
+[t22] @A4 <ovl> Aiden(MOD): Ten seconds remaining in this round.
+[t23] <cut> Jacob(CON): The weakest point is calling refusal safer without comparing harms-
+--- phase 3 ---
+[t24] @A3-2 <ovl> Aiden(MOD): That's time. So now we're gonna head to our closing round. Mustafa, you are up first. Your closing statement, please.
+[t25] Mustafa(PRO): Jacob's best point is that some extinctions involve human harm, but good intentions cannot restore vanished ecosystems safely. Revived animals may suffer and disrupt living species. Leaving extinct creatures gone avoids irreversible risks and directs care toward life still here.
+[t26] @A2-2 Aiden(MOD): Then Jacob, it's yours.
+[t27] Jacob(CON): Mustafa is right that careless revival could cause harm, but that does not support a universal ban. Some extinctions reflect damage humans caused, and restoration may help repair those ecosystems. We can choose limited projects, study their effects, and stop them when danger appears. The motion forbids even that careful possibility. It replaces judgment with fear and leaves no room for responsible correction.
+[t28] @A4 <ovl> Aiden(MOD): Ten seconds, Jacob.
+[t29] Jacob(CON): We should judge each proposal by its risks and benefits, not by extinction alone. Careful restoration can heal damage, expand knowledge, and protect nature. A blanket ban is too rigid.
+[t30] Aiden(MOD): Thank you both; that concludes the debate without a decision about who prevailed.

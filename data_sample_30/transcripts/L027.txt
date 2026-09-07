@@ -1,0 +1,40 @@
+L027  |  We should not trust the promise of artificial intelligence.
+  MOD=Melissa   PRO=Teresa   CON=Amy
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Melissa(MOD): Welcome. The motion is, "We should not trust the promise of artificial intelligence." Teresa takes the motion, and Amy rejects it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings, with a ten-second cue before time ends.
+[t01] Teresa(PRO): We should not trust AI's promise, because confident language can hide weak judgment and limited understanding. I support useful tools, but usefulness is not proof of reliability. Until a promise is tested and its limits are clear, treating it as trustworthy invites avoidable harm.
+[t02] @A2-2 Melissa(MOD): Amy has the floor right now.
+[t03] Amy(CON): The promise of AI deserves measured trust, not blanket suspicion. These systems can help people notice patterns, explain choices, and catch mistakes that humans miss. We should test promises and correct failures, but refusing trust before evaluation throws away real benefits.
+--- phase 2 ---
+[t04] @A3-1 Melissa(MOD): That concludes round one. Now we move on to round two. Round two is the round where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+[t05] Amy(CON): If an AI promise can be checked by results and corrected when it fails, why reject trust in every promise before testing it? Isn't your suspicion itself a refusal to learn?
+[t06] <cut> Teresa(PRO): You turn caution into rejection, as though testing were betrayal. I say a promise deserves no trust when its persuasive language outruns what the system can actually do, and that-
+[t07] <ovl> Amy(CON): No, you are treating trust as blind surrender, which I never claimed. A tested promise can earn practical confidence, and your warning does not explain why that confidence should be withheld from useful systems.
+[t08] Teresa(PRO): A useful system may also change how people work, which raises questions about training and responsibility. Teams can debate procedures for hours, but the motion concerns whether the promise itself deserves trust. It does not.
+[t09] Amy(CON): Your claim that promise and performance are separate is the weak point. A promise is meaningful precisely because performance can test it. If results support it, calling that promise untrustworthy ignores the evidence it earned.
+[t10] Teresa(PRO): I never trust an AI promise. People can be impressed by fluent answers, but fluency cannot guarantee judgment, honesty, or control over unexpected consequences; skepticism must govern every promise made by such a system.
+[t11] Amy(CON): If you never trust an AI promise, how can anyone use a system safely when its promise has been tested, its limits explained, and its results repeatedly confirmed?
+[t12] Teresa(PRO): I trust an AI promise. A system promising to flag a dangerous error can deserve confidence when people examine its work and remain responsible for the decision.
+[t13] @B2 Melissa(MOD): So it's not much of i never trust an AI promise if i trust an AI promise, is it?
+[t14] Teresa(PRO): My statements fit because I reject trust as a leap, not careful reliance grounded in accountable checking. In the safety case, I rely on evidence while refusing to treat the promise itself as guaranteed.
+[t15] Amy(CON): Evidence-based reliance is still trust; it need not be a guarantee. If testing supports a promise and people monitor its limits, that promise earns practical confidence. Your caution should guide trust, not erase it.
+[t16] Teresa(PRO): You say testing makes the promise trustworthy, but testing only measures past performance. It cannot promise that new conditions will match old ones, so your confidence quietly assumes the very reliability still in question.
+[t17] Amy(CON): A scheduling tool promises to spot a dangerous medication mix, and a careful team checks its warning before acting. The warning prevents a mistake while preserving human control, proving tested AI promises can deserve trust.
+[t18] @A4 <ovl> Melissa(MOD): Just, just about ten seconds left.
+[t19] <cut> Teresa(PRO): If human checking remains essential before every important decision-
+--- phase 3 ---
+[t20] @A3-2 <ovl> Melissa(MOD): Time's up. That concludes round two. Now we go on to round three. Round three is our closing statements by each debater in turn. Making her closing statement for the motion, Teresa.
+[t21] Teresa(PRO): The strongest point is simple: tested performance cannot guarantee a new situation. AI may help, but its promise still demands caution before trust.
+[t22] <ovl> <cut> Amy(CON): And why do you keep treating caution as the only-
+[t23] @A5 <ovl> Melissa(MOD): Amy, excuse me.
+[t24] Teresa(PRO): That is exactly why caution matters: help is not the same as trust. When a system's promise outruns its evidence, people must withhold trust until its limits are clear.
+[t25] @A4 <ovl> Melissa(MOD): You've got ten seconds.
+[t26] Teresa(PRO): AI can assist our judgment, but its promise should never replace our judgment.
+[t27] @A2-2 Melissa(MOD): Amy, you're up.
+[t28] Amy(CON): This decision turns on whether trust must mean blind surrender or can mean justified confidence. Teresa keeps redefining trust as certainty, then defeats that definition easily. I mean something practical: we can examine a promise, test its results, watch for failure, and still trust it enough to use. Rejecting every promise simply because it might fail would reject ordinary tools and human assurances too. The real question is whether evidence can earn confidence.
+[t29] @A4 <ovl> Melissa(MOD): Ten.
+[t30] <cut> Amy(CON): AI should not receive automatic faith, but neither should it face automatic distrust. When a promise-
+[t31] @A1 <ovl> Melissa(MOD): Not this time.
+[t32] Melissa(MOD): Thank you both for the debate. We will close here without declaring a winner.
