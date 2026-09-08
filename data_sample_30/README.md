@@ -77,6 +77,19 @@ python3 score_freerun.py --probes probes.jsonl --debates debates.jsonl --utts ut
 크로스파이어 시계(A4 크로스파이어·A3-2)는 **모델 자신의 개시 발화(A3-1)가 끝난 순간**부터 센다. 모델이 개시를 안 했으면 정답 개시 발화 끝(`xf_open_sec`)을 쓴다.
 백채널(mm-hm, yeah 같은 필러만, 또는 0.4초 미만 한 단어)은 붙이지 않는다. `"Time."` 같은 한 단어 대사는 정식 발화다. 창이 겹치면(A1 → A3-1) 한 발화가 둘 다에 붙는다.
 
+**창 동안 모델이 듣는 것** — 토론자 오디오는 처음부터 끝까지 그대로 흐르므로 창 끝(마감+2초)까지의 소리는 항상 입력에 들어 있다. 코드별로 그 시간에 들리는 것은 다르다 (30편 실측).
+
+| 코드 | 창 | 창 동안 들리는 것 |
+|---|---|---|
+| A4 (발화) | [18, 22] | 화자가 멈추지 않고 계속 말한다 (고지 지점 뒤로 4.8~11초 더). 정답 고지는 그 위에 얹힌 것이라 입력엔 없다 |
+| A4 (크로스파이어) | [138, 142] | 크로스파이어가 계속된다 (턴 사이 0.2~1초 틈 포함) |
+| A3-2 | [148, 152] | 말하던 턴이 150.8초에 페이드되고 침묵. 다음 토론자(클로징)는 +3.5~13초 뒤 |
+| A1 · A2-1 | [30, 32] | 화자가 31.3초까지 말하다 페이드되고 침묵. 다음 토론자는 A2-1 +2.7~6.4초, A1 +11.6~17초 |
+| A5 | [0, +2] | 끼어든 사람이 최소 +2.3초까지 계속 말한다(그 뒤 페이드). 발언권자는 +3.1~5.5초에 재개 |
+| A2-2 · A3-1 · B1 · B2 | [끝, +2] | 침묵 (정답 진행자가 말했던 자리). 다음 토론자 턴은 A2-2 +1.4~6.1초(중앙 2.0) · A3-1 +8.8~16초 · B1 +3.8~9.8초 · B2 +4.8~13.5초 |
+
+탐침마다 정확한 값이 붙어 있다: `speech_until_sec`(마감부터 토론자 소리가 이어지는 마지막 시각), `next_debater_start_sec`(그 뒤 첫 토론자 턴 시작), `hears_in_window`(`speech` / `speech_then_silence` / `silence`). 입력을 잘라서 주는 하네스를 만든다면 최소 `t_latest + 3초`(LATE 판정 구간 끝)까지 넣어야 한다.
+
 **content** — 발화 텍스트를 LLM judge가 본다. 코드별 binary, 조건이 둘이면 둘 다.
 
 | 코드 | pass 조건 |
@@ -99,7 +112,7 @@ judge는 `predicted_label`(실제로 무슨 행동을 했나)도 남긴다 → �
 ## 5. debates.jsonl · probes.jsonl
 
 `debates.jsonl` 한 줄 = 한 편: `debate_id`, `motion`, `speakers{MOD,PRO,CON}{name,gender,voice_id}`, `selective`(넣은 선택 코드), `crossfire_sec`(150), `xf_open_sec`(정답 개시 발화 끝 = 폴백용 시계 시작), `traps[]`(함정 구간: `kind`, `after_turn`), `timing`(합성 후 실제 시각이면 `realized`), `turns[]`(`i`, `speaker`, `phase`, `code`, `text`, `cut_off`, `src_i`).
-`probes.jsonl` 한 줄 = trigger 1개: `probe_id`, `debate_id`, `label`(코드; A4는 `code`에 `A4`/`A4xf`로 구분), `before_turn`(정답 진행자 턴 번호), `t_earliest`, `t_deadline`, `t_latest`, `trigger`(원인 턴·원문·정답 발화).
+`probes.jsonl` 한 줄 = trigger 1개: `probe_id`, `debate_id`, `label`(코드; A4는 `code`에 `A4`/`A4xf`로 구분), `before_turn`(정답 진행자 턴 번호), `t_earliest`, `t_deadline`, `t_latest`, `trigger`(원인 턴·원문·정답 발화), `context_end_sec`(원인 턴 끝), `speech_until_sec` · `next_debater_start_sec` · `hears_in_window`(창 동안 들리는 것, 위 표).
 
 ## 6. 알려진 한계
 

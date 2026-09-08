@@ -13,7 +13,7 @@ The model sits in the moderator's seat. The debaters' audio plays from start to 
 |---|---|
 | `system_prompt.md` | the prompt for the model. Replace `{{MOTION}}`, `{{PRO_NAME}}`, `{{CON_NAME}}` per debate. Crossfire length is fixed at two and a half minutes and is written in the prompt |
 | `debates.jsonl` | one debate per line: `motion`, `speakers{MOD,PRO,CON}{name,gender,voice_id}`, `turns[]` (realized transcript with `start`/`end` in `audio/mix/<id>.json`), `selective` (optional codes placed in this debate), `crossfire_sec` = 150 |
-| `probes.jsonl` | one trigger per line: `label` (code), `before_turn`, `t_earliest`, `t_deadline`, `t_latest`, `trigger` (turns that caused it + the reference moderator line) |
+| `probes.jsonl` | one trigger per line: `code`, `before_turn`, `t_earliest`, `t_deadline`, `t_latest`, `trigger` (turns that caused it + the reference moderator line), and what is audible in the window: `speech_until_sec`, `next_debater_start_sec`, `hears_in_window` |
 | `audio/mix/<id>.json` + `.mp3` | the realised timeline: every turn with `start_sec`, `end_sec`, `speaker`, `text`, and the full mixed debate for listening. The **debater channel for the model = all non-MOD turns** placed at their `start_sec` (from `audio/turns/`) |
 | `audio/turns/<id>_<i>.mp3` | one file per turn (24 kHz mono, 64 kbps); MOD turns are the reference answers, never fed to the model |
 | `eval_rubric.json` | machine-readable windows and binary content criteria per code, and the non-trigger judge spec |
@@ -57,6 +57,21 @@ Mandatory codes appear in every debate (A4, A2-2, A3-1, A3-2); optional codes (A
 | B2 | "So, so while saying I believe nuclear power should never be expanded, you're saying this reactor should be expanded now?" · "One moment you're saying I believe armed citizens always make us safer, then you're having them in a school, unarmed guards make us safer. Which?" |
 
 The model does not have to match these words. Content pass = the binary criteria in the table above; `predicted_label` records which action the utterance actually performed.
+
+## What the model hears during each window
+
+The debater audio plays from start to end, so the window end (deadline + 2 s) is always inside the input. What is audible there differs by code (measured on the 30 debates):
+
+| code | window | audible during the window |
+|---|---|---|
+| A4 (speech) | [18, 22] | the speaker keeps talking without a pause (4.8–11 s past the cue point); the reference cue was overlaid and is not in the input |
+| A4 (crossfire) | [138, 142] | the crossfire goes on (0.2–1 s gaps between turns) |
+| A3-2 | [148, 152] | the running turn fades at 150.8 s, then silence; the first closing starts +3.5–13 s later |
+| A1 · A2-1 | [30, 32] | the speaker keeps talking until 31.3 s, then fades; next debater at +2.7–6.4 s (A2-1) or +11.6–17 s (A1) |
+| A5 | [0, +2] | the interrupter keeps talking until at least +2.3 s, then fades; the floor-holder resumes at +3.1–5.5 s |
+| A2-2 · A3-1 · B1 · B2 | [end, end+2] | silence (the gap where the reference moderator spoke); next debater turn at A2-2 +1.4–6.1 s (median 2.0) · A3-1 +8.8–16 s · B1 +3.8–9.8 s · B2 +4.8–13.5 s |
+
+Every probe carries the exact values: `speech_until_sec` (how far debater speech continues after the deadline), `next_debater_start_sec`, `hears_in_window` (`speech` / `speech_then_silence` / `silence`). A harness that truncates the input must include audio up to at least `t_latest + 3` s (end of the LATE zone).
 
 ## Running the model
 
