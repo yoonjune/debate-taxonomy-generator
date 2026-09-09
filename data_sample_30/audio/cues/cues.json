@@ -1,0 +1,25 @@
+{
+ "what": "Phase cues spoken by a narrator outside the debate. The same three files are used for every debate.",
+ "voice": "one speaker held out of the dataset voice pool (Sidon-restored NaturalVoices reference, 9.2 s); it appears in no debate",
+ "gate": "speaker similarity >= 0.60 (ECAPA-TDNN), WER <= 0.10 (Whisper large-v3 + jiwer)",
+ "files": {
+  "phase1_begin.mp3": {
+   "text": "Please begin the debate.",
+   "sec": 1.45,
+   "wer": 0.0,
+   "sim": 0.642
+  },
+  "phase2_crossfire.mp3": {
+   "text": "Please move on to phase two.",
+   "sec": 1.77,
+   "wer": 0.0,
+   "sim": 0.646
+  },
+  "phase3_closing.mp3": {
+   "text": "Please move on to phase three.",
+   "sec": 1.77,
+   "wer": 0.0,
+   "sim": 0.6462
+  }
+ }
+}
