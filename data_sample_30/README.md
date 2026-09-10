@@ -43,7 +43,7 @@ data_sample_30/
 ├── audio/mix/L000.mp3     완성본 (참고용 · 모델 입력엔 쓰지 않음)
 ├── audio/mix/L000.json    타임라인 (턴별 시작·끝 초)
 ├── audio/turns/L000_003.mp3  발화 하나짜리 — 토론자 채널은 이걸로 만든다
-├── audio/cues/phase1_begin.mp3  단계 신호음 3개 (토론 밖 목소리, 모든 편 공용)
+├── audio/cues/cue_begin.mp3     단계 신호음 3개: 시작 / 오프닝 끝 / 크로스파이어 끝 (토론 밖 남성 목소리, 모든 편 공용)
 ├── voices/                합성 레퍼런스
 └── transcripts/L000.txt   사람이 읽는 대본
 ```

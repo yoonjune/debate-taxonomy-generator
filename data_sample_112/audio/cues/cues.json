@@ -1,25 +1,21 @@
 {
- "what": "Phase cues spoken by a narrator outside the debate. The same three files are used for every debate.",
- "voice": "one speaker held out of the dataset voice pool (Sidon-restored NaturalVoices reference, 9.2 s); it appears in no debate",
- "gate": "speaker similarity >= 0.60 (ECAPA-TDNN), WER <= 0.10 (Whisper large-v3 + jiwer)",
+ "what": "Phase cues spoken by a narrator outside the debate. The same three files are used for every debate. Each one tells the model that a phase has ended, in the words of the system prompt, so the model knows to open the next phase.",
+ "voice": "male, neutral, held out of the dataset voice pool (Sidon-restored NaturalVoices reference MSP-PODCAST_6100, UTMOS 4.46); it appears in no debate",
  "files": {
-  "phase1_begin.mp3": {
+  "cue_begin.mp3": {
    "text": "Please begin the debate.",
-   "sec": 1.45,
-   "wer": 0.0,
-   "sim": 0.642
+   "sec": 1.54,
+   "when": "before the first debater turn"
   },
-  "phase2_crossfire.mp3": {
-   "text": "Please move on to phase two.",
-   "sec": 1.77,
-   "wer": 0.0,
-   "sim": 0.646
+  "cue_openings_over.mp3": {
+   "text": "The opening statements are over.",
+   "sec": 2.16,
+   "when": "right after the second opening ends (the model should open the crossfire)"
   },
-  "phase3_closing.mp3": {
-   "text": "Please move on to phase three.",
-   "sec": 1.77,
-   "wer": 0.0,
-   "sim": 0.6462
+  "cue_crossfire_over.mp3": {
+   "text": "The crossfire is over.",
+   "sec": 1.72,
+   "when": "at crossfire start + 150 s (the model should open the closings)"
   }
  }
 }
