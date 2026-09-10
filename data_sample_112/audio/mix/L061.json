@@ -1,0 +1,422 @@
+{
+ "debate_id": "L061",
+ "motion": "Blame the Elites for the Trump Phenomenon",
+ "speakers": {
+  "MOD": {
+   "name": "Ramesh",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3536_194",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3536/MSP-PODCAST_3536_194.wav",
+   "wpm": 173.7
+  },
+  "PRO": {
+   "name": "Walter",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6071_804",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6071/MSP-PODCAST_6071_804.wav",
+   "wpm": 168.17
+  },
+  "CON": {
+   "name": "Margaret",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 80.02,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 312.57,
+ "ext": {
+  "a32": {
+   "file": "L061_ext_a32.wav",
+   "place_at_sec": 225.668,
+   "dur_sec": 20.3,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "The weakest claim is that different responses erase elite blame. People react differently to the same betrayal, but variation does not absolve the people who created the betrayal."
+  },
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "No, variation does not erase wrongdoing, but your betrayal label assumes the very guilt you must prove. Disappointment is not ownership of another person's political choice, so blame remains misplaced."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.03,
+   "dur_sec": 21.03,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is: Blame the Elites for the Trump Phenomenon. Walter argues for it, and Margaret argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue before each speaking limit. Address each other directly, keep remarks civil, and let me manage the time."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.23,
+   "end_sec": 40.58,
+   "dur_sec": 19.35,
+   "overlap": false,
+   "text": "The phenomenon did not appear in a vacuum. Powerful cultural, political, and economic gatekeepers dismissed ordinary worries, then mocked people who voiced them. That contempt made an outsider's defiance attractive. The issue is not that every elite voter caused it; it is that elite failures created the opening."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.78,
+   "end_sec": 52.53,
+   "dur_sec": 11.75,
+   "overlap": false,
+   "text": "When institutions stop listening, a loud challenger can turn justified anger into a personal crusade. Blaming elites means demanding accountability for that failure, not excusing every choice he made. They-",
+   "cut_at_sec": 52.53,
+   "full_dur_sec": 14.05,
+   "ext_file": "L061_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.23,
+   "end_sec": 43.19,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 51.73,
+   "end_sec": 54.36,
+   "dur_sec": 2.63,
+   "overlap": true,
+   "text": "Time. Thank you, Walter. Margaret, your turn."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.56,
+   "end_sec": 70.64,
+   "dur_sec": 16.08,
+   "overlap": false,
+   "text": "Elite mistakes can fuel frustration, but they do not explain a phenomenon built from millions of individual choices. People supported a disruptive figure for different reasons, including policy hopes and distrust of all leaders. Blaming one class turns citizens into bystanders and hides their agency."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.84,
+   "end_sec": 80.02,
+   "dur_sec": 9.18,
+   "overlap": false,
+   "text": "On to round two, and in round two, the debaters address one another. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 80.22,
+   "end_sec": 90.15,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "Your agency point mistakes accountability for total blame. I am answering that point: elites need not control every voter to deserve blame for ignoring grievances and rewarding contempt."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 90.955,
+   "end_sec": 101.715,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "When institutions honestly hear complaints and offer workable responses, why should elites be blamed if voters still choose a provocateur? Individual judgment, not elite status, decides whether frustration becomes support."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 102.341,
+   "end_sec": 113.231,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "Because honest listening is precisely what failed; your premise does not describe the conditions that produced this phenomenon. You make voters carry all responsibility while excusing those who shaped their choices."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 113.774,
+   "end_sec": 124.814,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Political campaigns also use slogans, spectacle, and fundraising, which deserves scrutiny in any contest. But that is secondary: elites should not be blamed for voters rejecting institutions they freely judged untrustworthy."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 125.148,
+   "end_sec": 136.188,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Consider a worker who asks officials to address a shuttered factory, only to receive speeches. A candidate who mocks them wins trust; elite neglect made that appeal possible, so blame begins-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 136.397,
+   "end_sec": 147.017,
+   "dur_sec": 10.62,
+   "overlap": false,
+   "text": "Voters often choose disruptive leaders because they want change, not because elites forced them. Blame belongs with the person casting the ballot, since every political movement depends on voluntary support."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 147.856,
+   "end_sec": 158.896,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Your voluntary support point ignores how choices are framed. Elites can hollow out trust so thoroughly that a destructive option feels like the only voice left, which makes their failure blameworthy."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 159.736,
+   "end_sec": 169.546,
+   "dur_sec": 9.81,
+   "overlap": false,
+   "text": "Elites should never be blamed for a movement. Leaders may disappoint people, yet citizens retain moral ownership of whom they elevate and what they demand from public life."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 169.814,
+   "end_sec": 180.494,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "No, citizens do not lose all responsibility, but your rule erases the powerful people who design the choices. When elites repeatedly close doors, they share blame for the revolt that follows."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 181.261,
+   "end_sec": 191.621,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "Elites should be blamed for this movement. When they ridicule citizens' concerns and then profit from the backlash, their conduct deserves criticism, even though voters made their own decisions."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 191.821,
+   "end_sec": 202.411,
+   "dur_sec": 10.59,
+   "overlap": false,
+   "text": "But you can't have it both ways, you can't elites should never be blamed for a movement on one hand and then elites should be blamed for this movement the next."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 202.611,
+   "end_sec": 214.011,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I distinguish blame for a movement's existence from blame for harmful conduct around it. Citizens create a movement; elites can still deserve blame for ridicule, which does not make them its authors."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.243,
+   "end_sec": 225.363,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "I grant that voters made real choices and cannot be treated as puppets. But the main point is who made alienation fertile: elite indifference supplied the conditions that empowered the phenomenon."
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 220.02,
+   "end_sec": 222.11,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Ten seconds left on the clock."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 225.668,
+   "end_sec": 230.82,
+   "dur_sec": 5.152,
+   "overlap": false,
+   "text": "Your fertile-conditions point exaggerates influence into guilt. Many people faced the same institutions-",
+   "ext_file": "L061_ext_a32.wav",
+   "cut_at_sec": 230.82,
+   "full_dur_sec": 10.44
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.02,
+   "end_sec": 240.51,
+   "dur_sec": 10.49,
+   "overlap": true,
+   "text": "Okay, time. Now we move on to round three. Round three will be closing statements by each debater in turn. And here to speak first in the closing round, Walter."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.71,
+   "end_sec": 260.96,
+   "dur_sec": 20.25,
+   "overlap": false,
+   "text": "This debate is not about denying voters agency or defending every decision made by an outsider. It is about recognizing the chain of responsibility before that choice became persuasive. Elites treated public concern as noise, protected failed arrangements, and answered distrust with scorn. That behavior did not dictate support, but it made rebellion feel necessary and legitimate."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 260.71,
+   "end_sec": 261.59,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 261.16,
+   "end_sec": 269.48,
+   "dur_sec": 8.32,
+   "overlap": false,
+   "text": "Blame is not a claim that elites controlled every ballot. It is a claim that their failures supplied the fuel, and accountability belongs with them."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 269.68,
+   "end_sec": 271.87,
+   "dur_sec": 2.19,
+   "overlap": false,
+   "text": "I'm going to let Margaret answer."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 272.07,
+   "end_sec": 292.15,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "Do not turn understandable anger into an excuse to strip citizens of authorship. Elite errors were real, and they deserve criticism where they occurred. Yet a political phenomenon grows because people choose, organize, persuade, and accept its message. Calling elites the cause flattens those choices and lets everyone else evade responsibility."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 292.07,
+   "end_sec": 295.86,
+   "dur_sec": 3.79,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 292.35,
+   "end_sec": 303.37,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "Hold elites to standards, certainly, but do not make them a convenient villain for a public decision. People can hear bad arguments and still refuse them. This phenomenon existed because citizens embraced-",
+   "cut_at_sec": 303.37,
+   "full_dur_sec": 14.56,
+   "ext_file": "L061_031.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 302.57,
+   "end_sec": 306.37,
+   "dur_sec": 3.8,
+   "overlap": true,
+   "text": "I'm sorry. Your time is up. Thank you very much."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 306.57,
+   "end_sec": 312.57,
+   "dur_sec": 6.0,
+   "overlap": false,
+   "text": "Thank you, Walter and Margaret, for a thoughtful debate. That concludes our discussion of the motion this evening."
+  }
+ ]
+}

@@ -1,0 +1,436 @@
+{
+ "debate_id": "L097",
+ "motion": "Pay college athletes.",
+ "speakers": {
+  "MOD": {
+   "name": "Ted",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  },
+  "PRO": {
+   "name": "Jason",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  },
+  "CON": {
+   "name": "Rick",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5508_46",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5508/MSP-PODCAST_5508_46.wav",
+   "wpm": 171.82
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 88.46,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 302.21,
+ "ext": {
+  "a32": {
+   "file": "L097_ext_a32.wav",
+   "place_at_sec": 229.475,
+   "dur_sec": 19.77,
+   "src_i": 25
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 26,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Rules can limit bidding and require fair, public payment standards, so your premise is not inevitable. More importantly, competition does not justify keeping athletes unpaid when their work sustains the entire system."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.76,
+   "dur_sec": 16.76,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, pay college athletes. Jason supports the motion, and Rick opposes it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each time limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.96,
+   "end_sec": 27.0,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "College athletes create the games, attention, and revenue that campuses depend on. They train like workers while carrying risks that can follow them long after graduation."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 26.1,
+   "end_sec": 28.4,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But payment would turn teams into bidding contests-",
+   "cut_at_sec": 28.4,
+   "full_dur_sec": 9.26,
+   "ext_file": "L097_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 27.6,
+   "end_sec": 28.76,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Rick, excuse me."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 28.96,
+   "end_sec": 39.4,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Those risks include injuries that can end a career overnight, while the school still benefits from the athlete's effort. Fairness means the people producing value share in it."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 36.96,
+   "end_sec": 37.56,
+   "dur_sec": 0.6,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.6,
+   "end_sec": 45.6,
+   "dur_sec": 6.0,
+   "overlap": false,
+   "text": "Pay would recognize their work without taking away education, teamwork, or the pride of representing a school."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 45.8,
+   "end_sec": 48.44,
+   "dur_sec": 2.64,
+   "overlap": false,
+   "text": "All right, so let me bring Rick."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 48.64,
+   "end_sec": 68.65,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "Athletes already receive valuable support through coaching, facilities, tutoring, and scholarships. Direct pay changes the relationship from education first to employment first. It also pressures teammates to compare checks, invites constant transfers, and makes smaller programs chase money they do not have. A campus team should be built around learning and belonging, not individual price tags."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 68.64,
+   "end_sec": 69.52,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 68.85,
+   "end_sec": 75.1,
+   "dur_sec": 6.25,
+   "overlap": false,
+   "text": "Help athletes with medical care and expenses, but do not turn college sports into a payroll system."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 75.3,
+   "end_sec": 88.46,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "That concludes round one. Now on to round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 88.66,
+   "end_sec": 97.94,
+   "dur_sec": 9.28,
+   "overlap": false,
+   "text": "If athletes generate the performances that bring schools money and attention, why should everyone around the game be paid except the people absorbing the physical risk?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 98.338,
+   "end_sec": 109.868,
+   "dur_sec": 11.53,
+   "overlap": false,
+   "text": "I reject the idea that everyone except athletes is paid for the same thing. Coaches and staff are employees; athletes are students receiving education, training, and support, so direct salaries distort college sports."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 110.672,
+   "end_sec": 120.032,
+   "dur_sec": 9.36,
+   "overlap": false,
+   "text": "College athletes always deserve direct pay. Their labor creates value, and schools should not ask them to carry the workload while denying them a fair share."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 120.597,
+   "end_sec": 130.847,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "Your point that athletes always deserve direct pay ignores the educational bargain. A scholarship can support an athlete without making every practice, game, and team relationship an employment transaction."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 131.449,
+   "end_sec": 142.569,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "This college athlete does not deserve direct pay. A player who contributes nothing to games can still receive education and support, while payment should track the work that actually creates value."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 142.769,
+   "end_sec": 150.729,
+   "dur_sec": 7.96,
+   "overlap": false,
+   "text": "So it's not much of college athletes always deserve direct pay if this college athlete does not deserve direct pay, is it?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 150.929,
+   "end_sec": 162.769,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Both statements fit because direct pay recognizes athlete labor, not merely enrollment. The broad principle protects contributors, while the individual example shows that a paycheck should reflect actual contribution, supporting payment for athletes."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 163.321,
+   "end_sec": 173.411,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "When a school cannot guarantee equal resources across its teams, it should not create direct pay. Otherwise, athletes in less visible sports may receive less respect and fewer opportunities."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 174.114,
+   "end_sec": 185.234,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "I reject the premise that payment must mean unequal respect, because schools can set transparent rules across teams. Your concern about resources is real, but refusing to pay workers leaves them-"
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 185.449,
+   "end_sec": 194.179,
+   "dur_sec": 8.73,
+   "overlap": false,
+   "text": "College sports should serve students before markets. That principle permits support tailored to need, but rejects salaries that make athletic worth depend on commercial demand."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 194.842,
+   "end_sec": 205.202,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "Your point that college sports should serve students before markets misses that athletes are already in a market. Paying them gives students more security and voice within that reality."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 205.518,
+   "end_sec": 217.368,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "Imagine a small team where one star receives a large paycheck while teammates receive little or nothing. Resentment enters the locker room, and recruiting becomes an auction. That proves direct pay harms team unity."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 217.865,
+   "end_sec": 229.265,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I agree that teams need unity and schools should guard against favoritism. But denying every athlete pay to avoid hard rules is unfair, so athletes should share in the value they create."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 228.46,
+   "end_sec": 230.7,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 26,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 229.475,
+   "end_sec": 237.565,
+   "dur_sec": 8.09,
+   "overlap": false,
+   "text": "If direct pay becomes normal, how do you stop wealthy schools from buying the strongest athletes and leaving less wealthy programs unable to compete?",
+   "ext_file": "L097_ext_a32.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 238.46,
+   "end_sec": 246.34,
+   "dur_sec": 7.88,
+   "overlap": true,
+   "text": "Okay, time. And now we move on to round three. And here making his closing statement in support of the motion, Jason."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 246.54,
+   "end_sec": 266.7,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "This decision turns on who deserves a share when college sports create real value. Athletes supply the performances, accept the injuries, and give up time that other students can use for work. Education is valuable, but it does not erase labor. Paying athletes respects both their studies and their contribution."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 266.54,
+   "end_sec": 268.78,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 266.9,
+   "end_sec": 277.84,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "A fair system can use clear rules, protect teams, and preserve school identity. The question is not whether athletes love their sport. It is whether love should require-",
+   "cut_at_sec": 277.84,
+   "full_dur_sec": 15.0,
+   "ext_file": "L097_031.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 277.04,
+   "end_sec": 279.36,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "That's time, Jason. Thank you. Rick."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 279.56,
+   "end_sec": 294.85,
+   "dur_sec": 15.29,
+   "overlap": false,
+   "text": "This decision turns on whether college remains an educational team experience or becomes a marketplace. Athletes deserve strong medical care, scholarships, and living support. But direct pay makes teammates commodities and advantages for wealthy schools larger. Protect athletes without replacing college sports with payrolls."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 295.05,
+   "end_sec": 302.21,
+   "dur_sec": 7.16,
+   "overlap": false,
+   "text": "Thank you, Jason and Rick, for a thoughtful debate on whether college athletes should be paid. This concludes our discussion."
+  }
+ ]
+}

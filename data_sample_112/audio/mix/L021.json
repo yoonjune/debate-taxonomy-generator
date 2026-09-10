@@ -1,0 +1,411 @@
+{
+ "debate_id": "L021",
+ "motion": "Trump won the Iran war.",
+ "speakers": {
+  "MOD": {
+   "name": "Mitchell",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0341_111",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0341/MSP-PODCAST_0341_111.wav",
+   "wpm": 167.28
+  },
+  "PRO": {
+   "name": "Paul",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6582_423",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6582/MSP-PODCAST_6582_423.wav",
+   "wpm": 164.89
+  },
+  "CON": {
+   "name": "Steve",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6676_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6676/MSP-PODCAST_6676_448.wav",
+   "wpm": 170.22
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 70.2,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 301.31,
+ "ext": {
+  "a32": {
+   "file": "L021_ext_a32.wav",
+   "place_at_sec": 210.222,
+   "dur_sec": 35.71,
+   "src_i": 16
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 17,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "I grant that imposed costs and changed behavior can matter. But those effects do not prove the war's central aims were achieved, so the missing settlement remains decisive: Trump did not win the Iran war."
+  },
+  {
+   "src_i": 18,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Steve's missing-settlement point treats one outcome as the only proof of victory. A war can end with leverage, deterrence, and an altered balance; those are the results Trump secured, so his side won."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 22.3,
+   "dur_sec": 22.3,
+   "overlap": false,
+   "text": "Today's motion is that Trump won the Iran war. Paul argues for it, and Steve argues against it. Each gets thirty seconds to open; then crossfire lasts two and a half minutes, with a ten-second cue. Finally, each gets thirty seconds to close. Keep it focused, answer the other side, and make your case. I will enforce limits and hand over when time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 22.5,
+   "end_sec": 35.95,
+   "dur_sec": 13.45,
+   "overlap": false,
+   "text": "The war was not just missiles; it was a contest of pressure, bargaining, and consequences. Trump forced Iran to face costs while keeping leverage for a settlement. Winning means changing the strategic balance, and his policy did that."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.15,
+   "end_sec": 38.03,
+   "dur_sec": 1.88,
+   "overlap": false,
+   "text": "Let's hear from Steve."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 38.23,
+   "end_sec": 53.51,
+   "dur_sec": 15.28,
+   "overlap": false,
+   "text": "That claim confuses pressure with victory. Iran still had its own government, defenses, and choices, while no durable settlement followed. A war is won when the opponent is decisively compelled, not when a leader announces success; by that measure, Trump did not win."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 53.71,
+   "end_sec": 70.2,
+   "dur_sec": 16.49,
+   "overlap": false,
+   "text": "All right, we've just heard opening arguments on the resolution, whether trump won the iran war through strategic victory, and now we're going to give our debaters a chance to respond to one another. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 70.4,
+   "end_sec": 83.85,
+   "dur_sec": 13.45,
+   "overlap": false,
+   "text": "Paul says changing the strategic balance proves victory, but he never identifies a surrendered aim or completed objective. Pressure can be real and still fall short; without a clear end state, calling it a win is political labeling."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 84.666,
+   "end_sec": 98.036,
+   "dur_sec": 13.37,
+   "overlap": false,
+   "text": "If victory means forcing an opponent to abandon its immediate plan, then Trump's campaign qualifies: Iran altered its behavior under pressure. Steve, what stronger test do you apply when battlefield defeat is not the only route to winning?"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 98.341,
+   "end_sec": 110.591,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "I apply the test of achieved objectives, not merely altered behavior. Iran adapting under pressure is not surrender, and without a settled result, your definition turns any temporary pause into a victory for the motion."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 111.355,
+   "end_sec": 122.645,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "A war can be won through sustained political leverage even when no formal surrender occurs. The relevant question is whether Trump's pressure produced a stronger position than Iran held before the fighting."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 123.615,
+   "end_sec": 137.305,
+   "dur_sec": 13.69,
+   "overlap": false,
+   "text": "The argument also raises a broader issue about how leaders communicate risk, because public confidence can shape negotiations. But communication is not the resolution; the record here still shows no decisive victory, so Trump did not win the war."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.948,
+   "end_sec": 148.838,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "A leader never wins a war without achieving lasting peace. Yet victory can still mean imposing the terms that govern the next stage, and Trump's pressure left Iran negotiating from weakness."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.418,
+   "end_sec": 161.748,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "Paul's claim about political leverage cannot survive his own rule about lasting peace. Negotiating from weakness is not peace, and calling an unfinished conflict a win lowers the standard until every failed objective looks successful."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 162.618,
+   "end_sec": 173.908,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "This leader wins a war without achieving lasting peace. The opposing government can remain, the conflict can continue, and victory can still belong to the side that imposed the decisive strategic cost."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 174.108,
+   "end_sec": 182.858,
+   "dur_sec": 8.75,
+   "overlap": false,
+   "text": "You said a leader never wins a war without achieving lasting peace, but you see it as this leader wins a war without achieving lasting peace."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 183.058,
+   "end_sec": 196.908,
+   "dur_sec": 13.85,
+   "overlap": false,
+   "text": "Those statements use victory at two levels: my rule describes complete strategic success, while this case describes a war won through imposed costs before peace arrives. Both points stand, and the motion concerns who won, not whether peace followed."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 197.594,
+   "end_sec": 209.684,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "The weakest part is Paul's claim that both points stand. If lasting peace is required for winning, then peace cannot be optional in this case; changing the definition after the fact does not establish victory."
+  },
+  {
+   "i": 16,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 210.2,
+   "end_sec": 212.45,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 17,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 210.222,
+   "end_sec": 221.0,
+   "dur_sec": 10.778,
+   "overlap": false,
+   "text": "Steve, if a side can impose decisive costs, change the opponent's behavior, and gain leverage without a formal surrender, what exactly prevents that outcome from counting as a win in this-",
+   "ext_file": "L021_ext_a32.wav",
+   "cut_at_sec": 221.0,
+   "full_dur_sec": 11.21
+  },
+  {
+   "i": 18,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 220.2,
+   "end_sec": 229.41,
+   "dur_sec": 9.21,
+   "overlap": true,
+   "text": "We're going to move now into our closing round. Paul, you are answering yes to the question, and this is your time for your closing statement."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 229.61,
+   "end_sec": 239.54,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "My strongest point is simple: victory can come through leverage, not surrender. Trump changed the balance and forced Iran to respond from weakness; that is why he won."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 238.64,
+   "end_sec": 240.94,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But that treats pressure as victory and ignores-",
+   "cut_at_sec": 240.94,
+   "full_dur_sec": 10.17,
+   "ext_file": "L021_022.wav"
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 240.14,
+   "end_sec": 242.5,
+   "dur_sec": 2.36,
+   "overlap": true,
+   "text": "Please could you let him finish, please?"
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.7,
+   "end_sec": 253.11,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "That is precisely why leverage matters: Iran's resistance did not erase the strategic cost imposed on it. Winning this war means emerging with the stronger position, and Trump did."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 249.61,
+   "end_sec": 250.88,
+   "dur_sec": 1.27,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 253.31,
+   "end_sec": 259.0,
+   "dur_sec": 5.69,
+   "overlap": false,
+   "text": "The balance shifted, the pressure worked, and that is a win."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 259.2,
+   "end_sec": 262.07,
+   "dur_sec": 2.87,
+   "overlap": false,
+   "text": "Paul, let me, let me bring in Steve."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 262.27,
+   "end_sec": 285.31,
+   "dur_sec": 23.04,
+   "overlap": false,
+   "text": "The central question is not whether pressure existed; it is whether the war produced victory. Paul keeps offering fragments: costs, leverage, altered behavior. None is a completed objective. Iran remained capable of resisting, no lasting settlement followed, and the claimed win depends on redefining success after the fact. That is not victory; it is an argument that defeat can be renamed. And there's another problem."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 282.27,
+   "end_sec": 284.36,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 285.51,
+   "end_sec": 293.57,
+   "dur_sec": 8.06,
+   "overlap": false,
+   "text": "The other side asks you to accept a win without peace, surrender, or a settled objective. That standard makes every costly stalemate look-",
+   "cut_at_sec": 293.57,
+   "full_dur_sec": 14.92,
+   "ext_file": "L021_030.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 292.77,
+   "end_sec": 295.02,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "I'm sorry, his time is up."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 295.22,
+   "end_sec": 301.31,
+   "dur_sec": 6.09,
+   "overlap": false,
+   "text": "Thank you both for your arguments. That concludes the debate, and I will not declare a winner."
+  }
+ ]
+}

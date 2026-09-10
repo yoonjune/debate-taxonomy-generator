@@ -1,0 +1,38 @@
+L107  |  The President Has Constitutional Power To Target And Kill U.S. Citizens Abroad
+  MOD=Leo   PRO=Jonas   CON=Rod
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Leo(MOD): Welcome. Tonight's motion is the president can constitutionally target and kill citizens abroad. Jonas supports the motion, and Rod opposes it. Each has thirty seconds for opening remarks, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. Keep answers direct and allow each other to speak.
+[t01] Jonas(PRO): The Constitution makes the President commander in war, not a helpless observer when a citizen joins an enemy force abroad. Due process can fit wartime reality. Targeting an imminent operational threat against the nation in combat is constitutional self-defense, not punishment.
+[t02] @A2-2 Leo(MOD): Rod against the motion, please.
+[t03] Rod(CON): Constitutional power to defend the country is not a blank check to kill citizens without charge, hearing, or neutral review. A label from the executive cannot replace due process. If the President alone selects the target, who protects an innocent citizen or tests the evidence before death?
+[t04] Rod(CON): That irreversible act needs constitutional process, because a mistaken strike cannot be repaired afterward at all.
+[t05] @A4 <ovl> Leo(MOD): Ten seconds, ten seconds.
+--- phase 2 ---
+[t06] @A3-1 Leo(MOD): We have just heard opening arguments on the president can constitutionally target and kill citizens abroad, and now we're going to give our debaters a chance to respond to one another. You have two and a half minutes, starting when I stop talking.
+[t07] Jonas(PRO): The President does not act alone: constitutional limits and later judicial review remain. Your demand for a hearing before stopping an active foreign enemy makes defense impossible, and treats combat as criminal punishment.
+[t08] Rod(CON): Imagine a citizen overseas is wrongly identified from a hurried report and killed while traveling. No hearing corrects that error, and family loses everything. That proves unchecked executive targeting cannot be constitutional.
+[t09] Jonas(PRO): That consequence also makes me think about detention after capture, where soldiers must decide who guards a suspect. Barracks rules, transport risks, and questioning methods shape whether a captured fighter can be held.
+[t10] @B1 Leo(MOD): This House believes the president can constitutionally target and kill citizens abroad.
+[t11] Jonas(PRO): The motion asks whether the President may target a citizen abroad who is fighting for an enemy force. In active combat, command authority includes stopping that threat when capture is not feasible.
+[t12] Rod(CON): Your phrase "not feasible" is the weakest part of your case, because the executive defines it alone. Convenience, fear, or poor planning could become a death sentence without any independent constitutional check.
+[t13] Jonas(PRO): If an armed citizen abroad directs an imminent attack and capture would endanger troops, what constitutional rule requires the President to let that attack proceed? Your answer cannot turn battlefield defense into surrender.
+[t14] Rod(CON): When capture would endanger troops during an active attack, force may be necessary, but necessity does not erase citizenship. The Constitution still forbids the President from being prosecutor, judge, and executioner.
+[t15] Jonas(PRO): A citizen abroad guides an enemy unit toward troops and triggers an attack from a hidden position. Waiting for arrest lets the attack continue. Stopping that operational threat protects lives, proving the authority is defensive.
+[t16] Rod(CON): Government power over citizens must remain bounded by the Constitution, even during danger. Yet battlefield force against an enemy fighter is not punishment, and the executive may direct it.
+[t17] Jonas(PRO): Commanders also decide uniforms, supplies, and where exhausted troops sleep; those choices affect discipline. But this motion concerns a citizen actively fighting abroad, and constitutional command authority can target that enemy threat.
+[t18] Rod(CON): Your claim depends on someone simply calling a citizen an active fighter. That label is not proof, and command authority cannot replace a neutral process before the government makes an irreversible killing decision.
+[t19] Jonas(PRO): What process can occur quickly enough when a citizen abroad is directing an attack that will happen within moments? Explain how your rule protects troops without denying the President authority to stop the attack.
+[t20] @A4 <ovl> Leo(MOD): Ten.
+--- phase 3 ---
+[t21] @A3-2 <ovl> Leo(MOD): That's time. We are about to hear brief closing remarks from each debater in turn. On to round three, closing statements. First summarizing his position in support of the motion the president can constitutionally target and kill citizens abroad, Jonas.
+[t22] Jonas(PRO): Rod's strongest concern is error, and error deserves serious limits and accountability. But the Constitution does not require the President to let an imminent enemy attack succeed because its commander holds citizenship. War power exists to defend the country against operational threats abroad. Due process cannot mean a courtroom before every act of combat. That is why the decisive question is
+[t23] @A4 <ovl> Leo(MOD): You have ten seconds.
+[t24] <cut> Jonas(PRO): whether the target is an enemy operational threat in active conflict, not whether citizenship creates immunity. Where capture cannot safely stop that threat, the President's command-
+[t25] @A2-1 <ovl> Leo(MOD): Time. Thank you, Jonas. Rod, your turn.
+[t26] Rod(CON): Jonas's best argument is that the President must protect troops from immediate attack. Protection is vital, but it does not turn one official's accusation into a constitutional death warrant. Citizenship carries due process precisely when government power is at its most final. The President may respond to direct combat, yet targeting citizens abroad demands limits beyond executive choice. The Constitution separates power because
+[t27] @A4 <ovl> Leo(MOD): I can give you ten seconds to do this.
+[t28] <cut> Rod(CON): a mistaken killing cannot be reviewed after it happens. Jonas calls this defense, but his rule lets the executive define threat, evidence, and necessity alone-
+[t29] @A1 <ovl> Leo(MOD): Please come to an end, we're running out of time, thank you.
+[t30] Leo(MOD): Thank you, Jonas and Rod, for a thoughtful debate; this concludes our discussion of the motion tonight here.

@@ -1,0 +1,421 @@
+{
+ "debate_id": "L067",
+ "motion": "Palestinians risk becoming their own worst enemy",
+ "speakers": {
+  "MOD": {
+   "name": "Daisy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0929_326",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0929/MSP-PODCAST_0929_326.wav",
+   "wpm": 180.84
+  },
+  "PRO": {
+   "name": "Christina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4100_1134",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4100/MSP-PODCAST_4100_1134.wav",
+   "wpm": 166.01
+  },
+  "CON": {
+   "name": "Sarah",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3502_919",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3502/MSP-PODCAST_3502_919.wav",
+   "wpm": 167.47
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 64.58,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 289.23,
+ "ext": {
+  "a32": {
+   "file": "L067_ext_a32.wav",
+   "place_at_sec": 207.333,
+   "dur_sec": 32.25,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Your word 'protection' does the least work here. Warning about internal failures may be useful, but calling Palestinians their own worst enemy erases far greater forces harming them."
+  },
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X16",
+   "text": "Sarah, if leaders suppress warnings that protect civilians, why should Palestinians pretend the damage is only external? Isn't naming that danger necessary to prevent them becoming their own worst enemy?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.75,
+   "dur_sec": 19.75,
+   "overlap": false,
+   "text": "Welcome to tonight's debate. The motion is: Palestinians risk becoming their own worst enemy; Christina speaks for it, and Sarah speaks against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire and thirty-second closings; I will give a ten-second cue. Address the motion directly and let each other finish."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.95,
+   "end_sec": 33.71,
+   "dur_sec": 13.76,
+   "overlap": false,
+   "text": "Palestinians face severe outside pressure, and blaming them is wrong. But can any people protect their future if armed factions silence critics, risk civilian lives without consent, and make compromise or debate treason? That danger makes the motion true."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 33.91,
+   "end_sec": 35.84,
+   "dur_sec": 1.93,
+   "overlap": false,
+   "text": "We've got your point. Sarah."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 36.04,
+   "end_sec": 51.31,
+   "dur_sec": 15.27,
+   "overlap": false,
+   "text": "This motion turns a people under enormous pressure into the main threat to themselves. Palestinians can debate strategy, resist injustice, and protect their community without becoming enemies of their own cause. The real danger is denying them agency and judging survival as self-harm."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 51.51,
+   "end_sec": 64.58,
+   "dur_sec": 13.07,
+   "overlap": false,
+   "text": "That concludes round one. Now we move on to round two and in round two the debaters have a conversation, address one another directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 64.78,
+   "end_sec": 74.5,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "No, treating every compromise as treason is not inevitable, and Palestinians are not defined by armed factions. Your claim mistakes contested leadership for a whole people's self-destruction."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 75.179,
+   "end_sec": 86.229,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "I agree that no whole people is defined by factions. But when factions punish dissent and reject accountable choices, they can trap Palestinians in suffering; recognizing that risk supports the motion."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 86.488,
+   "end_sec": 96.818,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "Your phrase 'accountable choices' is empty when people lack safety and control over daily life. Calling constrained decisions self-harm shifts responsibility away from those imposing the constraints on them."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 97.625,
+   "end_sec": 108.745,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "External pressure is real, but it does not excuse leaders who endanger their own civilians. If criticism is branded betrayal, how can Palestinians correct harmful choices and keep their cause credible?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 109.007,
+   "end_sec": 118.727,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "On your 'criticism is betrayal' point, Palestinians do argue, organize, and challenge leaders. You assume internal disagreement proves collective self-sabotage, but it proves a society refusing silence."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 119.399,
+   "end_sec": 129.649,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "When local leaders silence peaceful critics, Palestinians risk weakening the unity and judgment they need. In that specific situation, refusing honest correction can make them their own worst enemy."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 129.89,
+   "end_sec": 141.2,
+   "dur_sec": 11.31,
+   "overlap": false,
+   "text": "People also need schools, work, and room to grieve, not constant arguments over slogans. Those needs show why reducing Palestinians to their leaders is wrong; they are not their own worst enemy."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 141.845,
+   "end_sec": 152.525,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Ordinary families are not identical to their leaders, and I accept that distinction. Yet the motion warns of a risk: silencing those families' criticism lets destructive leadership damage their future."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.734,
+   "end_sec": 162.904,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "Your 'risk' claim is so broad that any oppressed community could be blamed for harms done to it. A possibility is not proof that Palestinians are their own worst enemy."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 163.786,
+   "end_sec": 174.266,
+   "dur_sec": 10.48,
+   "overlap": false,
+   "text": "People facing oppression need internal debate as much as they need solidarity. A movement that protects dissent is stronger; when it abandons that principle, it risks serving its people badly."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 174.48,
+   "end_sec": 184.27,
+   "dur_sec": 9.79,
+   "overlap": false,
+   "text": "Your 'internal debate' point actually undermines you: debate exists because Palestinians are not marching blindly toward self-destruction. You turn a safeguard into evidence of the danger you claim."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 184.601,
+   "end_sec": 195.571,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "Imagine a neighborhood committee warning that a planned attack will bring retaliation on nearby families, then being threatened into silence. The harm falls on Palestinians first, proving the risk is real."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 195.955,
+   "end_sec": 206.855,
+   "dur_sec": 10.9,
+   "overlap": false,
+   "text": "I reject the premise that a threatened committee represents Palestinians as a people. Your example condemns coercion, but it cannot show that the community resisting coercion is its own worst enemy."
+  },
+  {
+   "i": 18,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 204.58,
+   "end_sec": 206.54,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds, both of you."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 207.333,
+   "end_sec": 215.38,
+   "dur_sec": 8.047,
+   "overlap": false,
+   "text": "I agree coercion is dangerous and must be opposed. But denying that it can arise within Palestinian politics leaves families without a warning; facing-",
+   "ext_file": "L067_ext_a32.wav",
+   "cut_at_sec": 215.38,
+   "full_dur_sec": 11.13
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 214.58,
+   "end_sec": 220.34,
+   "dur_sec": 5.76,
+   "overlap": true,
+   "text": "Okay, time. We have to move on to our closing round. Christina, the floor is yours."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 220.54,
+   "end_sec": 240.31,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "Sarah rightly says outside pressure causes immense harm. Nothing I have said removes that responsibility. But a people can be wronged from outside and still be endangered when leaders silence criticism, treat civilian safety as expendable, or block accountable choices. The motion names a risk, not a verdict on every Palestinian."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.51,
+   "end_sec": 251.84,
+   "dur_sec": 11.33,
+   "overlap": false,
+   "text": "If Palestinians cannot challenge harmful decisions, the costs are paid by their families and their future. That is why honest internal accountability is not betrayal; it is the safeguard against becoming their own-",
+   "cut_at_sec": 251.84,
+   "full_dur_sec": 14.17,
+   "ext_file": "L067_025.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 240.54,
+   "end_sec": 242.07,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 251.04,
+   "end_sec": 255.05,
+   "dur_sec": 4.01,
+   "overlap": true,
+   "text": "I'm going to stop you there, Christina, we're out of time. Sarah."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 255.25,
+   "end_sec": 265.29,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "Christina's best point is that silencing criticism harms families, and I agree. But that condemns coercive actors, not Palestinians, who remain more than their failures."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 264.39,
+   "end_sec": 266.69,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "Listen, Sarah. Your answer avoids the central-",
+   "cut_at_sec": 266.69,
+   "full_dur_sec": 7.85,
+   "ext_file": "L067_028.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 265.89,
+   "end_sec": 266.77,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Hold on."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.97,
+   "end_sec": 277.02,
+   "dur_sec": 10.05,
+   "overlap": false,
+   "text": "who remain more than their failures. People resisting silencing are not the enemy; they are proof that Palestinians can defend themselves without accepting this label."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 275.25,
+   "end_sec": 277.21,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 277.22,
+   "end_sec": 282.91,
+   "dur_sec": 5.69,
+   "overlap": false,
+   "text": "They need solidarity with their humanity, not a claim that turns their struggle into self-blame."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 283.11,
+   "end_sec": 289.23,
+   "dur_sec": 6.12,
+   "overlap": false,
+   "text": "Thank you, Christina and Sarah, for a thoughtful debate. That now concludes our discussion of tonight's motion."
+  }
+ ]
+}

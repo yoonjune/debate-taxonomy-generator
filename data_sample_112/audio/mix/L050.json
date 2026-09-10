@@ -1,0 +1,433 @@
+{
+ "debate_id": "L050",
+ "motion": "The U.S. should ban TikTok.",
+ "speakers": {
+  "MOD": {
+   "name": "Aiden",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5548_380",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5548/MSP-PODCAST_5548_380.wav",
+   "wpm": 161.43
+  },
+  "PRO": {
+   "name": "Emma",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "CON": {
+   "name": "Larry",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4043_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4043/MSP-PODCAST_4043_33.wav",
+   "wpm": 168.26
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 94.07,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 309.16,
+ "ext": {
+  "a32": {
+   "file": "L050_ext_a32.wav",
+   "place_at_sec": 233.476,
+   "dur_sec": 35.56,
+   "src_i": 24
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "No, protecting people does not require banning a platform; that is your false premise. We can demand audits and punish violations, while preserving lawful speech, so the United States should not ban TikTok."
+  },
+  {
+   "src_i": 26,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Picture a local emergency where false clips are boosted faster than corrections, confusing families before anyone can respond. A ban removes that ready-made channel for manipulation, proving national safety outweighs keeping TikTok."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.25,
+   "dur_sec": 20.25,
+   "overlap": false,
+   "text": "Welcome. The motion is that the U.S. should ban TikTok; Emma supports it, and Larry opposes it. Each speaker gets thirty seconds for openings, followed by two and a half minutes of crossfire. Keep remarks respectful, answer directly, and avoid interruptions during openings. Then each gets thirty seconds for closings, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.45,
+   "end_sec": 40.73,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "TikTok is not just entertainment. Its design can learn what holds a young person's attention, then feed more of it without meaningful public accountability. A foreign-controlled platform should not have that leverage over American habits and information. A ban is a clear boundary, while users can still create, watch, and connect elsewhere. And the risk does not stop with attention."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.45,
+   "end_sec": 41.82,
+   "dur_sec": 1.37,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.93,
+   "end_sec": 49.89,
+   "dur_sec": 8.96,
+   "overlap": false,
+   "text": "Government has a duty to prevent a hostile power from shaping private feeds at scale. That is why the United States should ban TikTok."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 50.09,
+   "end_sec": 53.11,
+   "dur_sec": 3.02,
+   "overlap": false,
+   "text": "Emma, let me, let me bring in Larry."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.31,
+   "end_sec": 63.27,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "A ban would punish millions for using a tool that lets ordinary people speak, learn, and earn. Government should address proven misconduct, not erase an entire forum when the danger lies in"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 62.37,
+   "end_sec": 64.67,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "Larry, you keep saying proven misconduct, but-",
+   "cut_at_sec": 64.67,
+   "full_dur_sec": 8.92,
+   "ext_file": "L050_006.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 63.87,
+   "end_sec": 65.8,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "Yes. You go ahead, Larry."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 66.0,
+   "end_sec": 76.35,
+   "dur_sec": 10.35,
+   "overlap": false,
+   "text": "how hidden influence works, and suspicion is not enough to silence everyone. If control is the concern, why not require transparency, data limits, and independent review instead?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 73.31,
+   "end_sec": 74.76,
+   "dur_sec": 1.45,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 76.55,
+   "end_sec": 82.16,
+   "dur_sec": 5.61,
+   "overlap": false,
+   "text": "Rules can restrain harm without banning TikTok, so the United States should reject a ban."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 82.36,
+   "end_sec": 94.07,
+   "dur_sec": 11.71,
+   "overlap": false,
+   "text": "And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 94.27,
+   "end_sec": 106.11,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "No, transparency and data limits cannot solve a platform whose owner may still control hidden recommendations. You ask us to trust rules that arrive after influence spreads, while a ban removes that leverage."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 106.638,
+   "end_sec": 119.158,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Consider a small craft seller who posts short demonstrations, answers questions, and finds customers without paying a gatekeeper. A ban can erase that livelihood overnight, proving broad censorship harms ordinary voices and should be rejected."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 119.531,
+   "end_sec": 131.291,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Your seller point ignores the platform behind the seller. People can sell and speak through other services, but no convenience justifies leaving a foreign-controlled feed able to steer attention nationwide, so ban it."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 132.0,
+   "end_sec": 143.76,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "That nationwide concern also raises the question of family authority over screens. Parents can set bedtime limits, discuss addictive design, and teach judgment; those daily choices shape healthier habits than punishment from above."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 143.96,
+   "end_sec": 152.25,
+   "dur_sec": 8.29,
+   "overlap": false,
+   "text": "No, whether the United States should ban the TikTok app, whether the United States should ban the TikTok app. Those are the key words."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.45,
+   "end_sec": 163.58,
+   "dur_sec": 11.13,
+   "overlap": false,
+   "text": "The question is whether the United States should ban TikTok, and it should not. A government ban trades one feared influence for a certain loss of speech, work, and choice for every user."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 164.115,
+   "end_sec": 175.155,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Your weakest claim is that a ban merely removes choice. Choice is hollow when a hidden system curates what people see, especially young users, and leaving that system untouched means accepting-"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 174.255,
+   "end_sec": 185.065,
+   "dur_sec": 10.81,
+   "overlap": true,
+   "text": "No, Emma, the system is not beyond control. We regulate harmful practices in many settings, and demanding safeguards from a platform preserves users' rights while addressing abuse directly without a ban."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 185.859,
+   "end_sec": 197.979,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Imagine a teenager searching for harmless fitness clips, then being repeatedly pushed toward extreme material because outrage keeps attention. Removing that recommendation machine protects users before manipulation deepens, proving a TikTok ban is justified."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 198.8,
+   "end_sec": 209.56,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Young people also need better media education, and families should teach skepticism about every feed. But education and enforceable disclosure beat prohibition, so the United States should not ban TikTok."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 210.233,
+   "end_sec": 221.273,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "If disclosure is enough, Larry, how can users verify or challenge an algorithm they cannot see, and why should the United States leave that power in place rather than ban TikTok?"
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 222.147,
+   "end_sec": 233.267,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "I agree users deserve clearer explanations of recommendations. But uncertainty about an algorithm is not proof that government may silence a whole forum, and the United States should not ban TikTok."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 233.476,
+   "end_sec": 244.87,
+   "dur_sec": 11.394,
+   "overlap": false,
+   "text": "Your weakest move is calling a ban silence, because users keep their voices and other outlets. Why should one company's access to Americans outweigh protecting them from a platform they cannot meaningfully-",
+   "ext_file": "L050_ext_a32.wav",
+   "cut_at_sec": 244.87,
+   "full_dur_sec": 11.84
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 234.07,
+   "end_sec": 236.16,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Ten seconds left on the clock."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 244.07,
+   "end_sec": 250.08,
+   "dur_sec": 6.01,
+   "overlap": true,
+   "text": "And that's time. Okay. Let's all redeem ourselves with our closing statements. So Emma, you're up first."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 250.28,
+   "end_sec": 270.84,
+   "dur_sec": 20.56,
+   "overlap": false,
+   "text": "Larry's best argument is that a ban burdens speakers and small businesses. That cost matters, but it does not require preserving one particular platform when other ways to reach people remain. The deeper issue is whether a foreign-controlled recommendation system may shape American attention behind closed doors. There is a further reason this risk cannot be managed away."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 270.28,
+   "end_sec": 272.37,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 271.04,
+   "end_sec": 281.58,
+   "dur_sec": 10.54,
+   "overlap": false,
+   "text": "A ban does not erase expression; it ends one risky channel while alternatives remain. Disclosure rules depend on catching decisions after damage. If we wait for proof, families-",
+   "cut_at_sec": 281.58,
+   "full_dur_sec": 14.92,
+   "ext_file": "L050_031.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 280.78,
+   "end_sec": 283.75,
+   "dur_sec": 2.97,
+   "overlap": true,
+   "text": "Emma, you're rather going on. Thank you. Larry."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 283.95,
+   "end_sec": 302.15,
+   "dur_sec": 18.2,
+   "overlap": false,
+   "text": "Emma is right that opaque recommendations deserve scrutiny, but a ban is a blunt answer that punishes users without proving each one is harmed. We can require transparency, limits, and penalties for abuse. Defending security should mean controlling misconduct, not deleting a forum, so the United States should not ban TikTok."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 302.35,
+   "end_sec": 309.16,
+   "dur_sec": 6.81,
+   "overlap": false,
+   "text": "Thank you, Emma and Larry, for a spirited exchange, and thank you for joining this debate. We are now concluded."
+  }
+ ]
+}

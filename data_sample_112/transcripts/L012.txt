@@ -1,0 +1,36 @@
+L012  |  Trump was right to roll back soft power efforts in the Middle East.
+  MOD=Andrew   PRO=Bob   CON=Ingrid
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Andrew(MOD): Today we debate whether trump was right to roll back soft power efforts in the Middle East. Bob argues for the motion, and Ingrid argues against it. Each gets thirty seconds to open, then two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue before time runs out.
+[t01] Bob(PRO): I support the motion because soft power efforts often promise influence while delivering dependence, delay, and empty symbolism. A rollback can focus resources on clear security goals and respect local choices. Strategic restraint is not surrender; it is a better way to protect American interests.
+[t02] @A2-2 Andrew(MOD): All right, let her answer.
+[t03] Ingrid(CON): I oppose the motion because influence cannot be rebuilt instantly after being discarded. Dialogue, cultural ties, and patient diplomacy prevent crises before force becomes necessary. Rolling them back may look efficient, but it leaves fewer tools for protecting interests and supporting stability.
+--- phase 2 ---
+[t04] @A3-1 Andrew(MOD): That concludes round one. We're in round two where the debaters are going to be able to talk directly to each other. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t05] Ingrid(CON): If rolling back soft power protects American interests, what replaces the trust and access that diplomacy built? Can you name a substitute that prevents misunderstandings before they become security crises?
+[t06] Bob(PRO): That logic also matters in emergency planning: a town that keeps backup radios, local translators, and trusted messengers can coordinate when phones fail. The lesson is that resilient communication protects people during storms, outages, and evacuations.
+[t07] @B1 Andrew(MOD): But, how do you relate that to trump was right to roll back soft power in the middle east? Land that on trump was right to roll back soft power in the middle east.
+[t08] Bob(PRO): The motion asks whether rollback was right, and it was because influence without clear results can drain attention from urgent security needs. A leaner approach preserves essential contacts while rejecting costly, unfocused programs.
+[t09] Ingrid(CON): No rollback of soft power should ever weaken America's voice. Influence depends on steady relationships, and abandoning them makes every later negotiation harder, less trusted, and less effective.
+[t10] Bob(PRO): I reject the premise that rollback means abandoning every relationship; it means ending ineffective efforts. Keeping essential contacts while cutting symbolic programs gives American policy clearer priorities and stronger leverage.
+[t11] Ingrid(CON): This rollback should weaken America's voice. Cutting visible engagement tells partners that patience is temporary, so they will trust future promises less and hedge against American influence.
+[t12] @B2 Andrew(MOD): But you can't have it both ways, you can't no rollback of soft power should ever weaken America's voice on one hand and then this rollback should weaken America's voice the next.
+[t13] Ingrid(CON): Both statements describe my position: no rollback should ever weaken America's voice as a principle, yet this rollback should weaken America's voice in practice. The contradiction is only apparent because the policy itself exposes the cost of abandoning trust.
+[t14] <cut> Bob(PRO): The weakest part is calling that contradiction only apparent. If this rollback weakens America's voice, then preserving every soft power effort cannot be justified merely by saying trust matters; the real issue is whether those efforts produce results, and many do not-
+[t15] <ovl> Ingrid(CON): No, the results cannot be judged only by immediate visibility. Quiet relationships can prevent escalation, and once cut, they are difficult to restore; that makes the rollback reckless even when some programs were weak.
+[t16] Bob(PRO): Picture officials spending months funding polished outreach while a neighboring crisis receives no timely response. Redirecting that effort to direct security work gives leaders usable capacity when danger rises. That proves rollback can make policy more effective.
+[t17] @A4 <ovl> Andrew(MOD): Ten seconds left, both of you.
+[t18] <cut> Ingrid(CON): That example assumes outreach caused the neglected response, which it does not. A government can fund diplomacy-
+--- phase 3 ---
+[t19] @A3-2 <ovl> Andrew(MOD): Okay, time. Okay, now we're gonna pivot to our closing round. Bob, you are up first.
+[t20] Bob(PRO): The strongest point is that rollback is not abandonment. It separates useful contact from expensive symbolism and directs attention toward concrete security needs. A government with fewer, clearer tools can act more credibly and protect its interests.
+[t21] @A2-2 Andrew(MOD): Thanks very much, Bob, and Ingrid you get the last word.
+[t22] Ingrid(CON): The rollback confuses efficiency with influence. Relationships take time, and discarding them reduces trust before the next crisis arrives. That makes the policy shortsighted.
+[t23] <ovl> <cut> Bob(PRO): No, that ignores the cost of programs that deliver-
+[t24] @A5 <ovl> Andrew(MOD): Can you let her finish and then come back, thank you very much.
+[t25] Ingrid(CON): The issue is not keeping everything unchanged. It is preserving enough steady engagement to maintain trust, access, and early warnings before a crisis forces a costlier response.
+[t26] @A4 <ovl> Andrew(MOD): Ten seconds for last word.
+[t27] Ingrid(CON): Rolling back that foundation weakens influence, so it was not the right choice.
+[t28] Andrew(MOD): Thank you both for the debate; that concludes our discussion without declaring a winner.

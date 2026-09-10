@@ -1,13 +1,13 @@
 ---
 name: moderator-duplex-eval
-description: Evaluate a full-duplex speech model as the MODERATOR of a synthetic three-person Oxford-style debate (MOD/PRO/CON). Use when asked to run, score, or explain the moderator benchmark (data_sample_30/), to build the model's input from debates.jsonl + audio, to score a free-run with score_freerun.py, or to explain the nine moderator actions A1, A2-1, A2-2, A3-1, A3-2, A4, A5, B1, B2 and their timing windows.
+description: Evaluate a full-duplex speech model as the MODERATOR of a synthetic three-person Oxford-style debate (MOD/PRO/CON). Use when asked to run, score, or explain the moderator benchmark (data_sample_112/), to build the model's input from debates.jsonl + audio, to score a free-run with score_freerun.py, or to explain the nine moderator actions A1, A2-1, A2-2, A3-1, A3-2, A4, A5, B1, B2 and their timing windows.
 ---
 
 # Moderator duplex eval
 
 The model sits in the moderator's seat. The debaters' audio plays from start to end exactly as recorded. The model's own channel is open for the whole debate: nothing is forced into it, nothing is muted. We record everything it says and score two things at every point where the reference moderator spoke (a *trigger*): **when** it spoke (timing window) and **what** it said (binary content rubric). Everything it says elsewhere is logged and judged separately.
 
-## Data (data_sample_30/)
+## Data (data_sample_112/)
 
 | file | what |
 |---|---|

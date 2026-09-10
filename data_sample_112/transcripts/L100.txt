@@ -1,0 +1,39 @@
+L100  |  Replace Private Insurance with Medicare for All
+  MOD=Dante   PRO=Anthony   CON=Tony
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Dante(MOD): Welcome to our debate on the motion, Replace Private Insurance with Medicare for All. Anthony argues for the motion, and Tony argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire. They then receive thirty-second closings, and I will give a ten-second cue.
+[t01] Anthony(PRO): Private insurance makes health care a product people must buy, often when they are sick and frightened. Medicare for All would give everyone a dependable public guarantee, instead of tying care to an employer, a plan, or a confusing network. That means patients could seek care without fearing a bill they cannot meet.
+[t02] <cut> Anthony(PRO): And it would let doctors focus on treatment rather than competing forms and approval games. A shared program can bargain fairly, simplify payment, and make health security a right rather than a reward-
+[t03] @A4 <ovl> Dante(MOD): Ten seconds.
+[t04] @A2-1 <ovl> Dante(MOD): Time's up, Anthony. Thank you. Tony, please.
+[t05] Tony(CON): Health care needs a strong safety net, but replacing every private plan hands too much control to one system. People have different needs and priorities. Keeping private insurance alongside public coverage preserves choice, encourages responsive service, and avoids forcing patients into a single benefit design.
+--- phase 2 ---
+[t06] @A3-1 Dante(MOD): We're going to move into our proverbial free-for-all session. You have two and a half minutes, starting when I stop talking.
+[t07] Tony(CON): Consider a patient whose preferred doctor is outside the public plan's payment rules. Under one national system, that relationship can disappear. That loss of personal choice proves replacement risks harming patients.
+[t08] Anthony(PRO): That relationship need not disappear, because Medicare for All can pay any qualified doctor without narrow private networks. Your example assumes public coverage means less choice, when private plans already deny doctors and care.
+[t09] Tony(CON): If one public program sets the benefits, how can a patient choose a plan that better fits unusual needs or values? Why should every family lose that option?
+[t10] Anthony(PRO): Every patient should always receive identical public coverage. Private plans call choice freedom, but it often means choosing among exclusions, deductibles, and networks that punish illness instead of supporting care.
+[t11] Tony(CON): Your identical-coverage claim is the weak point. A young worker, a parent, and someone needing specialized care do not want identical priorities, so one package replaces choice with bureaucracy.
+[t12] Anthony(PRO): A patient needing a rare treatment cannot use the standard benefit. This patient does not receive identical public coverage.
+[t13] @B2 Dante(MOD): Well you're every patient should always receive identical public coverage and then you're this patient does not receive identical public coverage. Which?
+[t14] Anthony(PRO): Equal public coverage means equal membership and a guaranteed floor, not identical clinical decisions for every body. A rare treatment is care under that shared guarantee, which is why public coverage remains the fairer system.
+[t15] <cut> Tony(CON): That answer changes identical coverage into a flexible promise whenever it becomes inconvenient. If benefits vary by patient, officials decide the limits, and patients cannot choose another plan when they need-
+[t16] <ovl> Anthony(PRO): But private insurers already decide limits, often behind opaque rules and profit targets. A public system makes the guarantee visible and accountable, while your alternative leaves patients bargaining alone after illness strikes.
+[t17] Tony(CON): On your accountability point, visibility does not create choice. When a public agency rejects a treatment or delays payment, replacing private coverage gives patients no competing plan to turn toward.
+[t18] Anthony(PRO): The competing-plan claim ignores that private alternatives often reject the same care through networks, prior approval, or unaffordable costs. Switching paperwork is not meaningful choice when sickness makes coverage unusable.
+[t19] Tony(CON): I agree that private plans can be confusing and unfair. But the main issue is whether abolition improves care; preserving public help plus private options lets people escape bad plans without trapping everyone in one.
+[t20] @A4 <ovl> Dante(MOD): Ten seconds left, both of you.
+[t21] <cut> Anthony(PRO): A worker changes jobs, then discovers the new plan excludes the specialist who manages his condition. Medicare for All keeps his coverage-
+--- phase 3 ---
+[t22] @A3-2 <ovl> Dante(MOD): Time. And that concludes round two. So we move on to round three. And first up, to argue the yes position, once again, Anthony.
+[t23] Anthony(PRO): This decision turns on what freedom means when someone is sick: a menu of costly plans, or a reliable guarantee of care. Tony calls private options choice, yet those options can vanish with a job change, a denial, or a network rule. Medicare for All gives everyone a stable foundation and removes that insecurity.
+[t24] @A4 <ovl> Dante(MOD): I can give you ten seconds to wrap this round.
+[t25] Anthony(PRO): Choose the system that makes care dependable for everyone, not conditional on private insurance.
+[t26] @A2-2 Dante(MOD): Thank you very much. We're going to move next to Tony.
+[t27] Tony(CON): Anthony's best point is continuity, and public coverage should absolutely protect people when work or health changes. But continuity does not require abolishing every private plan. A single program can create new limits, payment disputes, and benefit rules with no alternative for patients. Keep a strong public guarantee, while preserving options and competition.
+[t28] @A4 <ovl> Dante(MOD): Ten seconds for last word.
+[t29] <cut> Tony(CON): The motion asks for replacement, not improvement, and that is too blunt. Patients should be able to seek another plan when one system fails them. Public support matters, but private coverage can add-
+[t30] @A1 <ovl> Dante(MOD): I have to step in because we hit our time limit.
+[t31] Dante(MOD): Thank you both for a thoughtful debate on replacing private insurance with Medicare for All. This debate is now concluded.

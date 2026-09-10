@@ -1,0 +1,405 @@
+{
+ "debate_id": "L102",
+ "motion": "China is destined for regional dominance.",
+ "speakers": {
+  "MOD": {
+   "name": "Abigail",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  },
+  "PRO": {
+   "name": "Genevieve",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4100_1134",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4100/MSP-PODCAST_4100_1134.wav",
+   "wpm": 166.01
+  },
+  "CON": {
+   "name": "Bonnie",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3502_919",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3502/MSP-PODCAST_3502_919.wav",
+   "wpm": 167.47
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 93.77,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 310.87,
+ "ext": {
+  "a32": {
+   "file": "L102_ext_a32.wav",
+   "place_at_sec": 233.558,
+   "dur_sec": 33.75,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "I grant that coordinated neighbors can raise costs for China. But raising costs is not removing centrality: their coordination still reacts to Chinese power, which is why dominance remains China's destination."
+  },
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Picture a smaller coastal state whose fishing grounds are restricted after it rejects China's demand. Its leaders spend resources on patrols and seek outside partners, showing coercive pressure breeds insecurity and resistance, not regional dominance."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.96,
+   "dur_sec": 19.96,
+   "overlap": false,
+   "text": "Tonight's motion is that China is destined for regional dominance. Genevieve speaks for the motion, and Bonnie speaks against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address the motion directly, listen to each other, and keep remarks within the time provided."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.16,
+   "end_sec": 40.09,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "China's rise gives it the scale to shape the choices around it. Its markets, industry, and military reach make neighboring governments calculate around China, whether they welcome that fact or not. Dominance does not mean every neighbor obeys every request. It means China becomes the central power no regional decision can ignore for long."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.16,
+   "end_sec": 41.76,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.29,
+   "end_sec": 49.02,
+   "dur_sec": 8.73,
+   "overlap": false,
+   "text": "That central position will deepen because alternatives must work through China, not around it. That is why regional dominance is the likely destination."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 49.22,
+   "end_sec": 55.55,
+   "dur_sec": 6.33,
+   "overlap": false,
+   "text": "Okay, Genevieve, thank you very much indeed. Could I now please ask Bonnie to speak against the motion."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 55.75,
+   "end_sec": 75.57,
+   "dur_sec": 19.82,
+   "overlap": false,
+   "text": "Genevieve treats size as destiny, but regional dominance depends on willing partners and durable trust. Neighbors can trade with China while building their own defenses, ties, and institutions, precisely because they fear dependence. Power creates influence, certainly, yet influence is not command, and resistance can keep a region plural and open."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 75.75,
+   "end_sec": 77.15,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 75.77,
+   "end_sec": 81.37,
+   "dur_sec": 5.6,
+   "overlap": false,
+   "text": "No country is fated to lead neighbors who retain choices, confidence, and reasons to cooperate elsewhere."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 81.57,
+   "end_sec": 93.77,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Now we're gonna move into the second section of the evening. And that's where the debaters can talk directly to one another. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 93.97,
+   "end_sec": 104.62,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "Your trust point mistakes caution for a veto. Governments may hedge, but when supply chains, security disputes, and investment all run through China, hedging still confirms its central regional dominance."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 105.174,
+   "end_sec": 115.354,
+   "dur_sec": 10.18,
+   "overlap": false,
+   "text": "China will remain important; I grant that. But your centrality point confuses commerce with control: neighbors can choose other partners, and those choices prevent China from becoming regionally dominant."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.33,
+   "end_sec": 126.69,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "When neighboring states need Chinese markets during a regional crisis, China can set the terms of cooperation. Under that condition, its leverage makes regional dominance real, not merely symbolic."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 127.409,
+   "end_sec": 138.169,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Arguments about cultural exchange can matter, since ideas travel with goods and students. Still, prestige is not rule; on the motion, neighbors retain enough agency to block Chinese regional dominance."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 138.634,
+   "end_sec": 149.364,
+   "dur_sec": 10.73,
+   "overlap": false,
+   "text": "Across the region, power follows the state that others must consult before acting. China's size ensures that consultation even where no crisis exists, making its dominance broader than a single emergency."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 150.207,
+   "end_sec": 160.547,
+   "dur_sec": 10.34,
+   "overlap": false,
+   "text": "I believe regional dominance never requires coercion. If a leading state must force compliance, it has exposed dependence on fear, not earned authority, so China's pressure disproves its destiny."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.05,
+   "end_sec": 172.18,
+   "dur_sec": 11.13,
+   "overlap": false,
+   "text": "Your coercion point assumes influence must be loved to count. China can shape outcomes through incentives, bargaining, and pressure; the fact that others resist proves it is the power they must answer."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 172.973,
+   "end_sec": 183.653,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "This regional dominance requires coercion. In a dispute over sea access, neighbors will coordinate against that pressure for lasting security and commerce, proving China cannot be destined to lead them."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 183.853,
+   "end_sec": 189.693,
+   "dur_sec": 5.84,
+   "overlap": false,
+   "text": "Well you're regional dominance never requires coercion and then you're this regional dominance requires coercion. Which?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 189.893,
+   "end_sec": 201.233,
+   "dur_sec": 11.34,
+   "overlap": false,
+   "text": "In my first statement, dominance means lasting leadership; in my second, I meant China's attempted regional dominance. Coercion defines that attempt, while it never creates genuine leadership, so my side remains unchanged."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 201.706,
+   "end_sec": 211.956,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "What power can replace China's economic pull across the region, and how can your coalition endure when each member depends on trade? You cannot answer that without conceding that-"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 211.056,
+   "end_sec": 221.526,
+   "dur_sec": 10.47,
+   "overlap": true,
+   "text": "I can: dependence gives China leverage, not obedience. If partners fear a dominant supplier, they can share alternatives and bargain together, so your supposed inevitability is exactly what collective resistance defeats."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 222.419,
+   "end_sec": 232.749,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "Your weakest claim is that alternatives can simply be shared. Building them takes time and coordination, while China already supplies scale, infrastructure, and bargaining weight that makes it regionally dominant."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 233.558,
+   "end_sec": 243.608,
+   "dur_sec": 10.05,
+   "overlap": false,
+   "text": "Your shared alternatives point ignores that cooperation can grow precisely under pressure. When several neighbors pool purchases and security efforts, China faces limits, not a destined regional throne.",
+   "ext_file": "L102_ext_a32.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 233.77,
+   "end_sec": 236.41,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "About ten seconds left in the crossfire."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 243.77,
+   "end_sec": 251.73,
+   "dur_sec": 7.96,
+   "overlap": true,
+   "text": "Time. All right, that concludes this round. And now we move on to our closing round. And Genevieve, you are speaking first."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 251.93,
+   "end_sec": 271.86,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "This decision turns on whether a region can avoid its largest, most connected power indefinitely. Bonnie offers resistance, but resistance itself is organized around China's weight. Countries may dislike that weight and still adjust their trade, security, and diplomacy to it. Destiny here means a durable central position, not universal obedience."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 271.93,
+   "end_sec": 273.17,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Genevieve, ten seconds."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 272.06,
+   "end_sec": 283.23,
+   "dur_sec": 11.17,
+   "overlap": false,
+   "text": "The question is whether any neighbor can remove China from the center of regional choices. That remains the test. Every response must account for its power, markets, and military reach, so the motion-",
+   "cut_at_sec": 283.23,
+   "full_dur_sec": 13.61,
+   "ext_file": "L102_029.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 282.43,
+   "end_sec": 287.35,
+   "dur_sec": 4.92,
+   "overlap": true,
+   "text": "You're out of time. And here to summarize her position, Bonnie."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 287.55,
+   "end_sec": 304.67,
+   "dur_sec": 17.12,
+   "overlap": false,
+   "text": "Genevieve's best point is that China cannot be ignored, but being central is not the same as commanding a region. Neighbors can coordinate, diversify, and refuse imposed choices when pressure rises. China will matter greatly, yet no country is destined to overcome independent neighbors, so reject the motion."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 304.87,
+   "end_sec": 310.87,
+   "dur_sec": 6.0,
+   "overlap": false,
+   "text": "Thank you, Genevieve and Bonnie, for a thoughtful debate; this concludes our discussion of the motion tonight."
+  }
+ ]
+}

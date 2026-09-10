@@ -1,0 +1,41 @@
+L099  |  Elite universities should reinstate the SAT.
+  MOD=Nadine   PRO=Jeffrey   CON=Robert
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Nadine(MOD): Welcome. Tonight's motion is that elite universities should reinstate the SAT. Jeffrey supports it, and Robert opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue. Please address each other directly and keep remarks focused on the motion.
+[t01] Jeffrey(PRO): The SAT should return because it gives applicants from every school one common academic signal. Grades, course labels, and recommendations mean different things across classrooms. A well-designed test cannot decide admission alone, but it can reveal preparation that polished applications hide. Without that shared measure, selectors lean harder on signals families can purchase.
+[t02] @A4 <ovl> Nadine(MOD): Just, just about ten seconds left.
+[t03] <cut> Jeffrey(PRO): That matters especially when an applicant has mastered demanding material but lacks costly coaching or elaborate activities. Reinstate the SAT as one useful check, not a gate, and admissions-
+[t04] @A2-1 <ovl> Nadine(MOD): Time's up, Jeffrey. Thank you. Robert, please.
+[t05] Robert(CON): Jeffrey treats one exam as an equalizer, but access to preparation, calm testing space, and repeated attempts is unequal. Admissions can compare transcripts, essays, and context without reviving a single high-pressure filter. Elite universities should judge sustained work, not one Saturday performance.
+--- phase 2 ---
+[t06] @A3-1 Nadine(MOD): So that concludes round one. Now we move on to round two and in round two the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t07] Jeffrey(PRO): Your equalizer objection ignores the alternative: opaque judgments about polish and fit. A shared test score gives a strong student from an unfamiliar school evidence that selectors can compare fairly.
+[t08] Robert(CON): If unequal preparation worries you, the real remedy is public funding for tutoring, quiet study rooms, and transportation to testing sites. Those support policies determine whether students can prepare at all.
+[t09] @B1 Nadine(MOD): Can we please go back to the question at hand? We're going to go back to the question at issue.
+[t10] Robert(CON): On reinstating the SAT, universities should not revive a hurdle whose result reflects unequal preparation. Better support is valuable, but it does not make one timed score a sound admissions requirement.
+[t11] Jeffrey(PRO): If transcripts already show context, why deny applicants a common way to demonstrate mastery beyond local grading habits? Should elite universities really rely more on private impressions than comparable academic evidence?
+[t12] Robert(CON): Families also need clearer aid letters and simpler applications, because confusing paperwork distorts who applies. But your question assumes scores are more neutral than context; elite universities should not reinstate the SAT.
+[t13] <cut> Jeffrey(PRO): Consider a student at a school where top grades come easily and advanced courses are scarce. A SAT result can show readiness beside applicants with inflated records; that is why reinstatement gives overlooked ability a-
+[t14] <ovl> Robert(CON): That example proves the opposite: a score may expose coaching, not talent. Why make students repeat a stressful contest when their years of classroom work already show what they can do?
+[t15] Jeffrey(PRO): No, transcripts do not always show comparable rigor, because schools use different scales and offerings. You call the SAT a contest, yet removing it leaves admissions even more dependent on unreviewable preferences.
+[t16] Robert(CON): I agree no score should outweigh a student's full record. But reinstatement invites schools to treat a timed exam as credibility, and that burden falls hardest on students already navigating uneven opportunity.
+[t17] Jeffrey(PRO): If no score should outweigh the record, why not use it as one modest check alongside that record? What evidence would let an applicant challenge unfair grades without a common assessment?
+[t18] Robert(CON): Your modest check point fails because elite admissions rarely treat extra measures modestly; they become sorting tools. An applicant can challenge unfair grades through work samples, teacher context, and demanding coursework.
+[t19] Jeffrey(PRO): At a small school, a student may earn excellent marks in classes outsiders do not recognize. A high SAT score supplies readable evidence of mastery, proving reinstatement can widen recognition.
+[t20] @A4 <ovl> Nadine(MOD): Ten seconds remaining in this round.
+[t21] <cut> Robert(CON): Your small-school example assumes a test translates mastery better than the teachers-
+--- phase 3 ---
+[t22] @A3-2 <ovl> Nadine(MOD): Time. On to round three, closing statements. Our motion is elite universities should reinstate the SAT for admissions, and here to summarize his position supporting this motion, Jeffrey.
+[t23] Jeffrey(PRO): Reinstating the SAT does not mean worshipping a number. It means giving applicants one portable way to show academic readiness when local records are difficult to compare.
+[t24] <ovl> <cut> Robert(CON): But that measure does not create equal opportunity-
+[t25] @A5 <ovl> Nadine(MOD): Robert, excuse me.
+[t26] Jeffrey(PRO): that number, while the rest of their record explains opportunity and effort. A common benchmark does not replace context; it lets context be read beside demonstrated skill.
+[t27] @A4 <ovl> Nadine(MOD): Ten seconds please.
+[t28] Jeffrey(PRO): Used carefully, the SAT broadens the evidence and makes elite admissions less opaque.
+[t29] @A2-2 Nadine(MOD): Please, Robert. That's where I was going next.
+[t30] Robert(CON): The strongest case against reinstatement is simple: fairness cannot rest on a test families experience so differently. Coaching, time, and testing conditions shape results before admissions readers ever see them. Universities already have richer evidence of persistence, curiosity, and achievement. Adding the SAT makes one pressured performance more powerful than it deserves, especially when
+[t31] @A4 <ovl> Nadine(MOD): Ten seconds from this side?
+[t32] Robert(CON): the students with the least support face the steepest risk. Elite universities should evaluate whole records, not reinstate the SAT.
+[t33] Nadine(MOD): Thank you, Jeffrey and Robert, for a thoughtful debate. This concludes our discussion of the motion tonight.

@@ -1,0 +1,41 @@
+L060  |  The international community has a moral and legal obligation to intervene to protect civilians from mass atrocities.
+  MOD=Justine   PRO=Bella   CON=Paula
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Justine(MOD): Welcome to our debate on whether the international community has a moral and legal obligation to intervene to protect civilians from mass atrocities. Bella supports the motion, and Paula opposes it. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue before each timed speech ends.
+[t01] Bella(PRO): When civilians face organized slaughter, distance does not erase duty. Law matters because it turns our shared humanity into a promise of protection in practice.
+[t02] <ovl> <cut> Paula(CON): But who decides what counts as protection when-
+[t03] @A5 <ovl> Justine(MOD): Can you let her answer the point please?
+[t04] Bella(PRO): and that promise means acting when authorities are the threat, not merely expressing grief afterward. Carefully limited protection can stop killing before whole communities disappear.
+[t05] @A4 <ovl> Justine(MOD): I can give you ten seconds to do this.
+[t06] Bella(PRO): If law shields people only after they are dead, it has failed its purpose entirely.
+[t07] @A2-2 Justine(MOD): Okay. I need to let Paula back into this conversation. So Paula, jump on in please.
+[t08] Paula(CON): Atrocities demand compassion, but an automatic duty to intervene invites powerful outsiders to choose wars for everyone else. Legal duties need clear limits, consent, and accountability. Otherwise intervention can replace one danger with occupation, retaliation, and a longer conflict civilians cannot safely escape.
+--- phase 2 ---
+[t09] @A3-1 Justine(MOD): The time period of uninterrupted speaking is over. We're going to move into the portion of the evening now where the debaters debate one another. It runs two and a half minutes, starting the moment I stop. Go.
+[t10] Bella(PRO): Your automatic-duty point mistakes obligation for a blank check. The motion requires protection from mass atrocities, so lawful intervention must be necessary and proportionate; refusing every duty leaves victims abandoned when help is possible.
+[t11] Paula(CON): I agree that grief alone is not enough; people need real protection. But your necessity test lets outsiders judge another society, and that discretion turns a claimed duty into permission for coercion.
+[t12] Bella(PRO): Intervention also strains budgets and sends families into political arguments at home, concerns worth hearing. Yet the motion is about civilians facing mass atrocities, and their immediate survival creates an obligation to protect.
+[t13] Paula(CON): You say necessity and proportionality control intervention, but who has authority to make that life-or-death finding? If competing outsiders claim necessity, why should civilians trust your obligation rather than fear another war?
+[t14] <cut> Bella(PRO): Imagine armed forces surrounding a neighborhood, blocking exits, and preparing to kill every household by dawn. A protective mission that opens escape routes saves lives, proving obligation matters when rescue is still-
+[t15] <ovl> Paula(CON): Still possible according to whom? Your escape-route example assumes outsiders know the fighters, the civilians, and the consequences; a rushed mission can turn that neighborhood into a battlefield and worsen its danger.
+[t16] Bella(PRO): When a credible mandate identifies an ongoing mass atrocity and protection can be limited to civilians, intervention is required. Those conditions answer your uncertainty without making helpless bystanders the price of caution.
+[t17] Paula(CON): Clear limits can reduce some risks, and I welcome efforts to protect civilians. But your mandate may be delayed, contested, or captured by interests, so calling intervention a legal obligation still gives outsiders dangerous power.
+[t18] Bella(PRO): The world cannot treat mass slaughter as someone else's private affair. Even where the exact response is disputed, the international community owes civilians protection, because sovereignty never cancels their basic claims to life.
+[t19] Paula(CON): If sovereignty never cancels basic claims, do you permit outsiders to impose protection even when local people reject them? How does your rule prevent a rescue mission from becoming control imposed without consent?
+[t20] Bella(PRO): A patrol reaches families trapped between armed groups, separates the attackers, and escorts civilians to safety while aid arrives. That limited protection preserves lives and proves intervention can meet a duty without ruling anyone.
+[t21] Paula(CON): Your patrol is the weakest part of your case because it imagines clean separation and safe escorts. Real interveners can misidentify attackers, draw fire toward families, and remain after the emergency, which defeats your certainty.
+[t22] @A4 <ovl> Justine(MOD): Ten seconds, both of you.
+[t23] <cut> Bella(PRO): Your misidentification point describes a risk, not a reason to-
+--- phase 3 ---
+[t24] @A3-2 <ovl> Justine(MOD): That's time. Okay, now we're gonna pivot to our closing round. Bella, you are up first.
+[t25] Bella(PRO): Deciding this motion turns on whether borders excuse us from protecting people marked for destruction. Paula asks us to fear misuse, and those risks demand strict limits. But limits guide a duty; they do not erase it when authorities are murdering civilians. The legal and moral question is whether vulnerable lives create responsibilities beyond sympathy, and they do.
+[t26] @A4 <ovl> Justine(MOD): You have ten seconds.
+[t27] Bella(PRO): A duty to intervene is not a license for conquest. It demands lawful, limited action when civilians face destruction; that is this motion's standard.
+[t28] @A2-2 Justine(MOD): Thank you very much. We now turn to Paula who is going to speak against the motion.
+[t29] Paula(CON): Deciding this motion turns on who bears responsibility when intervention goes wrong. Bella calls limits a guide, but they cannot make uncertain force harmless or legitimate. A legal obligation pressures outsiders to act even when knowledge is thin and consent is absent. The better moral rule is to assist, negotiate, shelter, and punish abuses without claiming a duty to intervene.
+[t30] @A4 <ovl> Justine(MOD): Paula, ten seconds.
+[t31] <cut> Paula(CON): Assist victims, pursue abusers, and support safe refuge, yes. But do not turn compassion into an outside power to use force whenever it chooses. The safer moral path protects-
+[t32] @A1 <ovl> Justine(MOD): I'm sorry, her time is up.
+[t33] Justine(MOD): Thank you, Bella and Paula, for this thoughtful debate; our discussion of the motion concludes here.

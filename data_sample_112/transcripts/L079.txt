@@ -1,0 +1,38 @@
+L079  |  Unions work for the economy.
+  MOD=Annette   PRO=Mari   CON=Wendy
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Annette(MOD): Welcome. The motion is, "Unions work for the economy." Mari supports it, and Wendy opposes it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each time limit.
+[t01] Mari(PRO): Unions give workers a way to raise pay and fix unsafe conditions without quitting. That stability helps families plan and helps employers keep trained people. Bargaining gives management one clear partner instead of private disputes. The key is whether shared gains spread through the whole economy.
+[t02] <cut> Mari(PRO): That question matters because consumer demand comes from ordinary paychecks, not merely executive savings. A union contract can turn insecure work into steady spending and stop skilled workers leaving when management refuses to listen-
+[t03] @A4 <ovl> Annette(MOD): Well, now it's ten.
+[t04] @A2-1 <ovl> Annette(MOD): Thank you. Time is up on that. And now Wendy.
+[t05] Wendy(CON): Better pay can help a household, but forcing one bargain on a workplace can make it rigid. Small employers need room to reward effort, change schedules, and survive lean periods. If a union protects one group by raising costs, why should everyone else pay through lost jobs?
+--- phase 2 ---
+[t06] @A3-1 Annette(MOD): And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Mari(PRO): No, wages are not simply a cost; they are also spending that keeps businesses open. Your question ignores that employers benefit when trained workers stay, so unions can strengthen the economy rather than weaken it.
+[t08] Wendy(CON): No union should ever control a workplace. When bargaining can block needed changes or shield poor performance, owners lose the ability to adapt, and the wider economy loses flexible jobs and affordable goods.
+[t09] Mari(PRO): You say flexibility matters, but flexibility without a counterweight can mean arbitrary cuts and fear. Would you deny workers any organized voice when a manager repeatedly ignores dangerous equipment and punishes anyone who complains?
+[t10] Wendy(CON): No, workers need a voice. This union should control a workplace when members choose daily rules, but that choice can lock out newcomers and burden customers, so unions still fail the economy.
+[t11] @B2 Annette(MOD): Wendy said no union should ever control a workplace, but this union should control a workplace.
+[t12] Wendy(CON): Both statements fit because my first use of control means total command, while this union should control a workplace through a vote on daily rules. A voice is useful; power held by one group is not.
+[t13] Mari(PRO): Debate over who brings coffee or picks the shift music can get petty, and unions sometimes handle those matters. What matters is bargaining over pay and safety, which gives workers security and keeps demand moving.
+[t14] Wendy(CON): When a workplace has one powerful employer and workers cannot realistically leave, union representation can prevent abuse. That narrow benefit does not show unions work for the economy, because costs still spread beyond that workplace.
+[t15] Mari(PRO): Your narrow-benefit argument collapses because abuse is not separate from the economy; injured, underpaid workers cannot sustain their households or local shops. Preventing that harm is precisely how unions make economic activity steadier.
+[t16] Wendy(CON): Unions can protect workers in many workplaces, but protection for a group does not automatically create economic health for everyone. The economy also needs open hiring, investment, and room to adjust.
+[t17] Mari(PRO): I grant that a badly designed contract can delay a needed change. But your main claim treats fair pay as a burden, when it becomes spending, retention, and stability; unions work for the economy.
+[t18] Wendy(CON): On your fair-pay point, spending does not appear from nowhere; employers facing higher labor costs may cut hours, hiring, or investment. Retention helps some workplaces, but rigid bargaining can harm the broader economy.
+[t19] @A4 <ovl> Annette(MOD): Ten seconds, and then closing statements.
+[t20] <cut> Mari(PRO): Imagine a repair shop where worn guards injure workers until a union demands replacement and training. Workers stay healthy-
+--- phase 3 ---
+[t21] @A3-2 <ovl> Annette(MOD): That's time. Now we move on to Round Three. Round Three are closing statements by each debater in turn. Making her closing statement in support of the resolution, Mari.
+[t22] Mari(PRO): The central issue is whether workers share enough power to make the economy durable. Unions turn unsafe, unstable jobs into bargaining relationships, so workers can stay, spend, and build skills. Employers gain experienced staff and clearer communication. That is not a side benefit; it is the economic foundation we should protect.
+[t23] @A4 <ovl> Annette(MOD): Ten seconds from this side?
+[t24] Mari(PRO): When workers can bargain, prosperity reaches beyond the workplace and unions work for the economy.
+[t25] @A2-2 Annette(MOD): Let's let Wendy respond.
+[t26] Wendy(CON): An economy needs jobs that can adapt, not rules that hand one group power over every decision. Unions may solve a problem inside one workplace, yet their demands can raise costs for people outside it. The motion asks about the whole economy. On that test, flexibility, investment, and open opportunity matter more than collective pressure.
+[t27] @A4 <ovl> Annette(MOD): You have ten seconds left.
+[t28] <cut> Wendy(CON): Workers deserve safety and respect, but they do not need an institution that blocks change. Let employers and workers make direct arrangements, because when a contract freezes choices-
+[t29] @A1 <ovl> Annette(MOD): I'm sorry, I'm sorry. Hit time.
+[t30] Annette(MOD): Thank you both for a thoughtful debate on the motion. This concludes our discussion.

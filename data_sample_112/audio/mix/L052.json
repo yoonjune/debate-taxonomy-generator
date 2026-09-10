@@ -1,0 +1,412 @@
+{
+ "debate_id": "L052",
+ "motion": "Constitutional free speech principles can save social media companies from themselves.",
+ "speakers": {
+  "MOD": {
+   "name": "Mari",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "PRO": {
+   "name": "Joan",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5287_206",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5287/MSP-PODCAST_5287_206.wav",
+   "wpm": 169.41
+  },
+  "CON": {
+   "name": "James",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4043_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4043/MSP-PODCAST_4043_33.wav",
+   "wpm": 168.26
+  }
+ },
+ "selective": [
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 79.1,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 294.13,
+ "ext": {
+  "a32": {
+   "file": "L052_ext_a32.wav",
+   "place_at_sec": 223.002,
+   "dur_sec": 20.88,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "What limiting principle stops your flexible judgment from becoming whatever protects revenue today? If users cannot appeal to speech-based safeguards, why should they trust the next moderation reversal?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.09,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "Welcome to our debate on whether constitutional free speech principles can save social media companies from themselves. Joan supports the motion, and James opposes it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire. They then have thirty-second closings. I will give a ten-second cue before each timed section ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.29,
+   "end_sec": 35.21,
+   "dur_sec": 14.92,
+   "overlap": false,
+   "text": "Companies built public forums, then tried to govern them by instinct. Constitutional principles offer durable limits: viewpoint neutrality, clear rules, and room for criticism. Those guardrails reduce panic-driven censorship and rebuild trust, so they can save platforms from their own worst impulses."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 35.41,
+   "end_sec": 36.77,
+   "dur_sec": 1.36,
+   "overlap": false,
+   "text": "Okay. Go on, James."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 36.97,
+   "end_sec": 57.33,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Constitutional rules restrain government because government has unique power; platforms are private communities with different duties. They must limit harassment, fraud, and manipulation while serving many kinds of users. Treating every moderation choice like state censorship freezes needed judgment. A rigid free speech model can protect loud abusers and drive ordinary voices away."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 56.97,
+   "end_sec": 58.57,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 57.53,
+   "end_sec": 66.57,
+   "dur_sec": 9.04,
+   "overlap": false,
+   "text": "Platforms need accountable policies, not borrowed constitutional slogans. Their failures come from poor enforcement and design, which those principles cannot automatically repair."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 66.77,
+   "end_sec": 79.1,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "And now we move on to round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 79.3,
+   "end_sec": 89.2,
+   "dur_sec": 9.9,
+   "overlap": false,
+   "text": "Your claim that constitutional principles freeze judgment mistakes a framework for a ban. Due process and viewpoint neutrality guide decisions without preventing action against threats, fraud, or harassment."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 90.016,
+   "end_sec": 102.136,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "People also worry about who owns their posts and whether feeds waste their attention. Those are real design disputes, but they do not make constitutional doctrine a cure; platforms still need flexible, private moderation."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 102.865,
+   "end_sec": 115.255,
+   "dur_sec": 12.39,
+   "overlap": false,
+   "text": "Imagine a platform deleting a worker's calm criticism after a powerful advertiser complains. A viewpoint-neutral rule keeps that criticism visible and requires reasons for removal. That protects debate and proves constitutional principles restrain self-serving moderation."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 115.853,
+   "end_sec": 126.893,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "No, that example does not show neutrality saved anyone; it assumes a simple rule solves pressure. Advertiser influence can be checked by transparent contracts and independent review, without importing constitutional law."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 127.536,
+   "end_sec": 138.296,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "I agree transparent contracts help, but they can be rewritten whenever pressure rises. Constitutional principles supply a public standard users can invoke when private managers decide dissent is inconvenient, and-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 137.396,
+   "end_sec": 148.796,
+   "dur_sec": 11.4,
+   "overlap": true,
+   "text": "No, private managers need not accept a rule designed for government. Constitutional language invites endless fights over every removal, while clear community standards let platforms protect users and adapt to new harms."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 149.677,
+   "end_sec": 159.497,
+   "dur_sec": 9.82,
+   "overlap": false,
+   "text": "Every platform rule should protect dissent. If companies must explain and defend restrictions against that baseline, they cannot quietly turn their own preferences into limits on public conversation."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 160.293,
+   "end_sec": 170.973,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "If a platform follows your model, why should a person targeted by coordinated abuse wait for a constitutional-style dispute before relief? Answer that: who protects them while process drags on?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 171.224,
+   "end_sec": 180.584,
+   "dur_sec": 9.36,
+   "overlap": false,
+   "text": "A product-praise page should remove criticism. This platform rule should silence dissent, because its owner may define a focused space rather than host every hostile reply."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 180.784,
+   "end_sec": 187.304,
+   "dur_sec": 6.52,
+   "overlap": false,
+   "text": "So, so while saying every platform rule should protect dissent, you're saying this platform rule should silence dissent?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.504,
+   "end_sec": 199.624,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "The first statement describes a platform's general public duty; the second protects a narrowly defined page from being hijacked. Constitutional reasoning distinguishes a broad forum from a bounded expressive space, so both principles stand."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 200.392,
+   "end_sec": 210.732,
+   "dur_sec": 10.34,
+   "overlap": false,
+   "text": "I agree users deserve reasons when speech is removed. But your distinction proves my point: companies need context-sensitive judgment, while constitutional slogans create false certainty and cannot save them."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 211.236,
+   "end_sec": 222.636,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Your context point does not defeat constitutional principles; it shows why principled boundaries matter. A company can weigh context, yet still give notice, equal treatment, and a real chance to challenge removal."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 219.1,
+   "end_sec": 221.42,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds, and then closing statements."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 223.002,
+   "end_sec": 229.9,
+   "dur_sec": 6.898,
+   "overlap": false,
+   "text": "Equal treatment is your weakest promise, because platforms routinely face unequal risks from different speakers and settings. Forcing identical-",
+   "ext_file": "L052_ext_a32.wav",
+   "cut_at_sec": 229.9,
+   "full_dur_sec": 10.6
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 229.1,
+   "end_sec": 237.35,
+   "dur_sec": 8.25,
+   "overlap": true,
+   "text": "That's time. First, onto round three, closing statements from each debater in turn. First, to summarize her position in favor of the motion, Joan."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 237.55,
+   "end_sec": 247.51,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "The core point remains: companies fail when secret, shifting judgments replace principled restraint. Free speech protections give users a stable standard and platforms discipline against self-serving censorship."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 246.61,
+   "end_sec": 248.91,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "Answer this: why should a private service be governed-",
+   "cut_at_sec": 248.91,
+   "full_dur_sec": 10.33,
+   "ext_file": "L052_025.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 248.11,
+   "end_sec": 251.16,
+   "dur_sec": 3.05,
+   "overlap": true,
+   "text": "Okay, you've had a chance to speak. Please just let her."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 251.36,
+   "end_sec": 261.72,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "and that discipline matters most when pressure is highest. Companies can still remove threats and fraud, but must give reasons instead of treating criticism as a problem to erase."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 257.55,
+   "end_sec": 258.79,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 261.92,
+   "end_sec": 267.84,
+   "dur_sec": 5.92,
+   "overlap": false,
+   "text": "That is how constitutional principles can save platforms from their own fearful, self-interested decisions."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 268.04,
+   "end_sec": 270.68,
+   "dur_sec": 2.64,
+   "overlap": false,
+   "text": "Let me bring back James, please. Thanks."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 270.88,
+   "end_sec": 288.0,
+   "dur_sec": 17.12,
+   "overlap": false,
+   "text": "My opponent offers appealing safeguards, but constitutional principles are not a cure for private governance. Platforms need transparent rules, skilled judgment, and remedies that fit changing harms. Turning their choices into constitutional disputes makes moderation slower and less humane. That cannot save them; it can deepen the failures."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 288.2,
+   "end_sec": 294.13,
+   "dur_sec": 5.93,
+   "overlap": false,
+   "text": "Thank you both for the debate. That concludes our discussion of this motion. Good night, and thank you."
+  }
+ ]
+}

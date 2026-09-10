@@ -1,0 +1,385 @@
+{
+ "debate_id": "L014",
+ "motion": "The future will be abundant.",
+ "speakers": {
+  "MOD": {
+   "name": "Danielle",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0773_622",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0773/MSP-PODCAST_0773_622.wav",
+   "wpm": 181.03
+  },
+  "PRO": {
+   "name": "Wayne",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3841_60",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3841/MSP-PODCAST_3841_60.wav",
+   "wpm": 170.31
+  },
+  "CON": {
+   "name": "Gabriel",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4814_946",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4814/MSP-PODCAST_4814_946.wav",
+   "wpm": 172.38
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 84.48,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 309.63,
+ "ext": {
+  "a32": {
+   "file": "L014_ext_a32.wav",
+   "place_at_sec": 226.379,
+   "dur_sec": 26.05,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "I grant that expanding capability can lower some costs, but lower costs do not erase ownership or political power. If essentials remain controlled by a few, innovation can deepen dependence, so the future is not reliably abundant."
+  },
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Exclusion is not inevitable; that is exactly the point. Broader skills, cheaper production, and shared knowledge give more people ways to challenge concentrated control, so expanding capability makes abundance the stronger prediction."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.45,
+   "dur_sec": 19.45,
+   "overlap": false,
+   "text": "The motion is that the future will be abundant. Wayne takes the yes position, and Gabriel takes the no position. Each opening gets thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each limit, and the crossfire will have its own ten-second warning."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.65,
+   "end_sec": 40.29,
+   "dur_sec": 20.64,
+   "overlap": false,
+   "text": "Abundance is not just having more goods; it is having more choices, useful tools, and chances to solve problems. Human knowledge builds on itself, so each generation starts with better ways to create, share, and repair. Energy, information, and production are becoming easier to access. That expanding ability gives ordinary people a stronger foundation for a richer future."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.65,
+   "end_sec": 41.05,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.49,
+   "end_sec": 50.95,
+   "dur_sec": 10.46,
+   "overlap": false,
+   "text": "The other side may warn that progress can be uneven, and I accept that access matters. But uneven access is a problem abundance can help solve, because lower costs and wider-",
+   "cut_at_sec": 50.95,
+   "full_dur_sec": 19.24,
+   "ext_file": "L014_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 50.15,
+   "end_sec": 53.15,
+   "dur_sec": 3.0,
+   "overlap": true,
+   "text": "Okay, time. Thank you, Wayne. Gabriel, your opening."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.35,
+   "end_sec": 71.31,
+   "dur_sec": 17.96,
+   "overlap": false,
+   "text": "More capability does not guarantee abundance for everyone. Resources can remain controlled, waste can grow, and new tools can widen the gap between people who benefit and people who are excluded. A future may contain impressive inventions while ordinary life becomes less secure, so the motion promises far more than progress can prove."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.51,
+   "end_sec": 84.48,
+   "dur_sec": 12.97,
+   "overlap": false,
+   "text": "Now we move on to round two. And in round two, the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 84.68,
+   "end_sec": 99.0,
+   "dur_sec": 14.32,
+   "overlap": false,
+   "text": "No, abundance does not follow simply from better tools; control decides who receives their benefits. If new capacity serves a narrow group while others lose work, security, or access, calling the future abundant hides the shortage experienced by most people."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 99.642,
+   "end_sec": 112.802,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "You say control cancels abundance, but control is not permanent or uniform. New tools let more people produce, learn, and organize without waiting for a gatekeeper, so scarcity loses its grip when capability spreads across communities and-"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 113.309,
+   "end_sec": 125.429,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "If access remains concentrated, then the future will not be abundant for the people left outside it. A plentiful system that ordinary families cannot afford is abundance on paper, not abundance in lived experience."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 126.288,
+   "end_sec": 140.928,
+   "dur_sec": 14.64,
+   "overlap": false,
+   "text": "Affordability also improves when people can make, repair, and exchange more locally, rather than depending on one fragile supplier. Communities can build stronger habits around sharing and resilience. That growing ability to meet needs is why the future will be abundant."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 141.866,
+   "end_sec": 154.996,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "If abundance depends on communities constantly adapting and sharing, what happens when a crisis breaks their supplies, trust, or ability to cooperate? Would you still call that future abundant when basic needs become uncertain for many people?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 155.224,
+   "end_sec": 166.984,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "That benefit appears first in a small workshop that can share tools, designs, and repairs. When neighbors coordinate production, the real test becomes whether that workshop stays open, affordable, and useful during shortages."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 167.184,
+   "end_sec": 175.724,
+   "dur_sec": 8.54,
+   "overlap": false,
+   "text": "No, the future will be abundant for ordinary people everywhere, the future will be abundant for ordinary people everywhere. Those are the key words."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 175.924,
+   "end_sec": 188.444,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "The motion asks whether the future will be abundant, and that workshop shows why I say yes: people can create more solutions with fewer barriers. Even during shortages, shared capability expands what communities can provide."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 189.265,
+   "end_sec": 200.235,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "Systems can produce plenty without making life secure for everyone. When access is unequal, abundance may exist in the economy while scarcity remains the daily reality for those with the least power."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 201.139,
+   "end_sec": 213.659,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Your weakest point is treating unequal access as permanent scarcity. Inequality is real, but it can be reduced when knowledge, tools, and production become cheaper and more distributed, which is precisely the trend supporting abundance."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.313,
+   "end_sec": 225.713,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Imagine a household surrounded by advanced devices but unable to afford power, repairs, or housing. The technology exists, yet the family faces deprivation, proving that innovation alone cannot make the future abundant."
+  },
+  {
+   "i": 18,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 224.48,
+   "end_sec": 226.72,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "Ten seconds remaining in this round."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 226.379,
+   "end_sec": 235.28,
+   "dur_sec": 8.901,
+   "overlap": false,
+   "text": "If better tools lower the cost of power, repairs, and housing, why assume families will remain locked out instead of gaining new ways to provide those needs-",
+   "ext_file": "L014_ext_a32.wav",
+   "cut_at_sec": 235.28,
+   "full_dur_sec": 12.8
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 234.48,
+   "end_sec": 243.61,
+   "dur_sec": 9.13,
+   "overlap": true,
+   "text": "And that's time. And that concludes round two. So we move on to round three. And first up, to argue the yes position, once again, Wayne."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 243.81,
+   "end_sec": 264.17,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "My strongest point is that abundance means expanded capability, not a promise that every problem disappears. People can learn, create, repair, and cooperate with tools that become more accessible over time. That changes the balance between dependence and self-reliance. Even when access is imperfect, a society with more ways to meet needs has more options, resilience, and room to improve."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 263.81,
+   "end_sec": 265.05,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Wayne, ten seconds."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 264.37,
+   "end_sec": 273.33,
+   "dur_sec": 8.96,
+   "overlap": false,
+   "text": "Gabriel is right that access matters, but expanding capability gives people leverage to widen access. That is why the future will be abundant."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 273.53,
+   "end_sec": 276.09,
+   "dur_sec": 2.56,
+   "overlap": false,
+   "text": "All right, so let me bring Gabriel."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 276.29,
+   "end_sec": 296.57,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Wayne's best argument is that better tools create more options. But options are not abundance when people lack ownership, income, power, or reliable access to essentials. A workshop may help one neighborhood, while a wider system still concentrates resources and shifts risks onto everyone else. Progress can increase capacity without improving ordinary life, so the motion remains an unjustified promise."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 296.29,
+   "end_sec": 298.17,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 296.77,
+   "end_sec": 302.38,
+   "dur_sec": 5.61,
+   "overlap": false,
+   "text": "More capacity may help, but without fair access and security, the future will not be abundant."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 302.58,
+   "end_sec": 309.63,
+   "dur_sec": 7.05,
+   "overlap": false,
+   "text": "Thank you both for taking part. That concludes the debate; the question of whether the future will be abundant remains open."
+  }
+ ]
+}

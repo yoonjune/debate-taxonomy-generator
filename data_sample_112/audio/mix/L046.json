@@ -1,0 +1,405 @@
+{
+ "debate_id": "L046",
+ "motion": "Big government is stifling the American spirit.",
+ "speakers": {
+  "MOD": {
+   "name": "Carissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1215_339",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1215/MSP-PODCAST_1215_339.wav",
+   "wpm": 172.99
+  },
+  "PRO": {
+   "name": "Stanley",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  },
+  "CON": {
+   "name": "Elise",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 93.56,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 296.1,
+ "ext": {
+  "a32": {
+   "file": "L046_ext_a32.wav",
+   "place_at_sec": 233.239,
+   "dur_sec": 29.62,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "If government keeps adding rules that discourage a harmless new business, what protects that person's freedom to act when officials value procedure over initiative?"
+  },
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "The premise assumes officials value procedure over initiative, but good government can remove needless barriers while keeping safeguards. That possibility defeats the claim that its size alone stifles spirit."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.8,
+   "dur_sec": 18.8,
+   "overlap": false,
+   "text": "Welcome to the debate on whether big government is stifling the American spirit. Stanley takes the PRO side, and Elise takes the CON side. Each speaker gets thirty seconds to open, then we have two and a half minutes of crossfire. We finish with thirty-second closings, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.0,
+   "end_sec": 40.0,
+   "dur_sec": 21.0,
+   "overlap": false,
+   "text": "Big government is stifling the American spirit because it replaces initiative with permission. When rules multiply, people spend energy navigating offices instead of building, serving, and taking risks. Government should protect basic rights, not manage every choice. A free spirit needs room to fail, learn, and try again. That room is shrinking as officials decide more of daily life."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.0,
+   "end_sec": 40.52,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.2,
+   "end_sec": 50.3,
+   "dur_sec": 10.1,
+   "overlap": false,
+   "text": "Elise may call those rules protection, but protection becomes control when citizens must ask permission for ordinary work. The result is not security; it is hesitation, dependence-",
+   "cut_at_sec": 50.3,
+   "full_dur_sec": 16.0,
+   "ext_file": "L046_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 49.5,
+   "end_sec": 51.68,
+   "dur_sec": 2.18,
+   "overlap": true,
+   "text": "That's time, Stanley. Thank you. Elise."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.88,
+   "end_sec": 72.08,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "Stanley confuses government with every frustrating rule. Big government can provide public goods that individual effort cannot, including safe roads, schools, emergency response, and fair standards. Those foundations do not crush initiative; they let more people participate. Freedom is not merely the absence of rules. It is also having enough security and opportunity to act boldly."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 71.88,
+   "end_sec": 73.76,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 72.28,
+   "end_sec": 78.2,
+   "dur_sec": 5.92,
+   "overlap": false,
+   "text": "Smart government expands the number of people who can take risks, so big government is not inherently stifling."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 78.4,
+   "end_sec": 93.56,
+   "dur_sec": 15.16,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 93.76,
+   "end_sec": 105.16,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "You answered with services, not with the growing control I described. A road may help people move, but layers of permits and mandates can still decide who may work, build, or innovate."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 105.568,
+   "end_sec": 112.728,
+   "dur_sec": 7.16,
+   "overlap": false,
+   "text": "Do you oppose government whenever it limits a private choice, or can necessary limits protect everyone without stifling initiative and-"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 111.828,
+   "end_sec": 123.278,
+   "dur_sec": 11.45,
+   "overlap": true,
+   "text": "I oppose needless control, and your question assumes officials can reliably separate necessary from needless. They rarely do. Once government claims authority over choices, ambition becomes compliance, and compliance is not freedom."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 123.663,
+   "end_sec": 132.583,
+   "dur_sec": 8.92,
+   "overlap": false,
+   "text": "When a rule prevents one person's action from imposing clear harm on others, government can limit that action without stifling the broader spirit of initiative."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 132.814,
+   "end_sec": 143.854,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Your weakest point is calling officials reliable judges of harm. That standard expands quickly, because almost any decision can be described as affecting others. Vague authority invites control, not merely protection."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 144.498,
+   "end_sec": 154.498,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "Government should protect shared conditions for freedom, while private choices should remain broadly open. Strong public foundations and wide personal liberty are compatible, because they govern different scopes."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 154.855,
+   "end_sec": 165.615,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "You say those scopes stay separate, but modern government keeps expanding the definition of shared conditions. It reaches workplaces, speech, purchases, and personal habits, turning ordinary independence into supervised behavior."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 166.166,
+   "end_sec": 178.286,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "If a workplace needs a license, an inspector may demand forms, revisions, and another visit. Then the owner hires someone to manage filings, waits beside a telephone, and learns which office prefers blue folders."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 178.486,
+   "end_sec": 184.166,
+   "dur_sec": 5.68,
+   "overlap": false,
+   "text": "We're talking about the practicality or the morality of big government is stifling the american spirit."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 184.366,
+   "end_sec": 196.126,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "The motion asks whether government stifles the American spirit, and these burdens do not prove that it does. They show administration can be improved, while public rules still protect broad freedom and participation."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 196.618,
+   "end_sec": 208.818,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Even the debate over licenses reveals the problem: people must master bureaucracy before serving neighbors. More broadly, a community loses confidence when every mistake risks punishment. That is why big government stifles the spirit."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 209.31,
+   "end_sec": 220.71,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "That argument treats paperwork as proof of oppression, which is too weak. A manageable filing burden does not erase initiative, and removing standards could let powerful actors shift costs onto everyone else."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 221.161,
+   "end_sec": 232.281,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "A person with a useful home business may abandon it after repeated permits, inspections, and fees consume the savings needed to begin. That lost attempt proves excessive government can stifle initiative."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 233.239,
+   "end_sec": 243.459,
+   "dur_sec": 10.22,
+   "overlap": false,
+   "text": "The example shows poor administration, not big government itself. Simplifying permits can preserve safety while welcoming enterprise, so reform supports my case that government need not stifle the spirit.",
+   "ext_file": "L046_ext_a32.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 233.56,
+   "end_sec": 234.06,
+   "dur_sec": 0.5,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 243.56,
+   "end_sec": 247.15,
+   "dur_sec": 3.59,
+   "overlap": true,
+   "text": "That's time. This concludes round two of the debate. Stanley."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 247.35,
+   "end_sec": 267.55,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "The strongest point is simple: government power tends to spread beyond its original purpose. A permit meant to protect safety becomes fees, delays, inspections, and fear of making an unauthorized choice. Elise says reform can fix that, but citizens still face the system before reform arrives. When ordinary initiative depends on official approval, the American spirit is being stifled."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 267.35,
+   "end_sec": 268.59,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Stanley."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 267.75,
+   "end_sec": 273.83,
+   "dur_sec": 6.08,
+   "overlap": false,
+   "text": "Freedom requires room to act first, not permission after bureaucracy has drained the will to act."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 274.03,
+   "end_sec": 275.53,
+   "dur_sec": 1.5,
+   "overlap": false,
+   "text": "Elise has the floor."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.73,
+   "end_sec": 292.05,
+   "dur_sec": 16.32,
+   "overlap": false,
+   "text": "Stanley's best argument describes frustrating bureaucracy, not an unavoidable result of big government. Public institutions can provide security, opportunity, and fair limits while simplifying needless rules. The American spirit is strengthened when more people have the foundation to participate, so size alone does not prove suppression."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 292.25,
+   "end_sec": 296.1,
+   "dur_sec": 3.85,
+   "overlap": false,
+   "text": "Thank you both for taking part. This debate is now closed."
+  }
+ ]
+}

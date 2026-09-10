@@ -1,0 +1,436 @@
+{
+ "debate_id": "L096",
+ "motion": "The government should use equity proactively as an instrument of economic policy rather than only as a last resort in a crisis.",
+ "speakers": {
+  "MOD": {
+   "name": "Miriam",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1215_339",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1215/MSP-PODCAST_1215_339.wav",
+   "wpm": 172.99
+  },
+  "PRO": {
+   "name": "Jorge",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2392_110",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2392/MSP-PODCAST_2392_110.wav",
+   "wpm": 165.84
+  },
+  "CON": {
+   "name": "Philip",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 81.52,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 313.84,
+ "ext": {
+  "a32": {
+   "file": "L096_ext_a32.wav",
+   "place_at_sec": 219.673,
+   "dur_sec": 37.6,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "That risk is real, but clinics also suffer when public support gives away successful returns; balanced portfolios soften losses. We are debating whether equity may be proactive, not whether every stake must be huge."
+  },
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I grant that public support can create value worth protecting. Yet proactive ownership makes government a routine investor, exposing shared budgets to choices officials cannot truly price; equity belongs as a last resort."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.56,
+   "dur_sec": 20.56,
+   "overlap": false,
+   "text": "Welcome. The motion is: the government should use equity proactively as an instrument of economic policy rather than only as a last resort in a crisis. Jorge supports it, and Philip opposes it. Each speaker has thirty seconds for openings, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.76,
+   "end_sec": 30.64,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "When the public helps build promising firms, it should share their upside. Proactive equity gives government a stake before markets fail, so gains can fund."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 29.74,
+   "end_sec": 32.04,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "You cannot treat public ownership like a savings-",
+   "cut_at_sec": 32.04,
+   "full_dur_sec": 8.56,
+   "ext_file": "L096_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 31.24,
+   "end_sec": 32.24,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Let him finish."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 32.44,
+   "end_sec": 42.8,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "families rely on. It can back useful work early, share returns broadly, and reduce dependence on emergency rescues after private risks have already grown."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.76,
+   "end_sec": 41.92,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 43.0,
+   "end_sec": 49.0,
+   "dur_sec": 6.0,
+   "overlap": false,
+   "text": "That is steady economic policy, not a desperate rescue when choices have vanished."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 49.2,
+   "end_sec": 51.52,
+   "dur_sec": 2.32,
+   "overlap": false,
+   "text": "Philip, why don't you take it."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.72,
+   "end_sec": 69.2,
+   "dur_sec": 17.48,
+   "overlap": false,
+   "text": "Public ownership can be necessary when collapse threatens everyone. But making it routine invites political bets with money people cannot refuse to supply. Markets direct risk through voluntary choices; government should set fair rules and intervene only when danger demands it. Why should officials own businesses without trouble existing?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.4,
+   "end_sec": 81.52,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Now onto round two. And round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 81.72,
+   "end_sec": 93.2,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Officials need not own businesses without purpose; they can take limited stakes where public support creates value. Your voluntary-choice claim misses that taxpayers already bear failures without sharing ordinary success in return."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 94.188,
+   "end_sec": 105.228,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "When a project needs public infrastructure before any buyer can benefit, a temporary equity stake may be sensible. Outside that condition, officials lack the knowledge and discipline that private investors face."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 106.163,
+   "end_sec": 118.603,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Public stakes can also make citizens care more about how firms are run, including workplace conduct and training. But that is secondary; the motion is about sharing value early, before crisis forces a worse bargain."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 119.506,
+   "end_sec": 131.706,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Your weakest point is that early ownership creates value merely because government shares returns. Sharing a return does not create it; it shifts risk from chosen investors to people who may reject the project."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 132.679,
+   "end_sec": 144.439,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "You say risk should stay with chosen investors, yet public grants, roads, and research often make ventures possible. If the public supplies that foundation, why should it receive nothing when the venture thrives?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 145.156,
+   "end_sec": 158.316,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "A town funds a workshop, then officials buy shares in a fashionable maker that soon closes, leaving less money for repairs. That answers you: public support does not justify routine ownership, and this proves restraint protects taxpayers."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 158.74,
+   "end_sec": 170.14,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "That example shows poor judgment, not a flaw in equity itself; private investors also lose money. The answer is transparent limits and diversified stakes, so public contributions can earn returns before emergencies."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 170.984,
+   "end_sec": 182.384,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Government is poorly suited to running ordinary businesses, because day-to-day decisions need independence. Economic policy should usually leave ownership private, and crisis action remains available when systemic harm cannot otherwise be contained."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 182.969,
+   "end_sec": 194.349,
+   "dur_sec": 11.38,
+   "overlap": false,
+   "text": "Your point about ordinary management is beside the proposal: equity can be passive, with clear boundaries. The issue is whether public investment should capture some upside, and it plainly should do so."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 194.967,
+   "end_sec": 206.087,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Passive ownership is your weakest answer, because someone still chooses the firms, price, and exit. Clear boundaries cannot remove political pressure, so your upside comes with hidden favoritism and avoidable losses."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.595,
+   "end_sec": 218.715,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "If political pressure is the concern, why reject rules that bar ministers from selecting firms and require independent managers? Would you really leave public money with only downside whenever government helps create a market?"
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 219.673,
+   "end_sec": 232.32,
+   "dur_sec": 12.647,
+   "overlap": false,
+   "text": "Imagine an independent board buys shares in a new supplier, but its losses still reduce funds for clinics when demand fades. That answers you: insulation changes the messenger, not the public exposure, proving equity should remain-",
+   "ext_file": "L096_ext_a32.wav",
+   "cut_at_sec": 232.32,
+   "full_dur_sec": 13.24
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 221.52,
+   "end_sec": 223.76,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "Ten seconds remaining in this round."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 231.52,
+   "end_sec": 242.05,
+   "dur_sec": 10.53,
+   "overlap": true,
+   "text": "That's time. And that concludes round two. And now we're going to move on to round three. Here to argue in his closing statement, in support of this motion, Jorge."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.25,
+   "end_sec": 263.17,
+   "dur_sec": 20.92,
+   "overlap": false,
+   "text": "Philip treats every public stake as political meddling, but design matters. Independent management, published limits, and diversified holdings can protect against favoritism. The stronger principle is simple: when public action helps create future value, people deserve a share of it. Waiting for collapse means buying only after choices have narrowed and losses have spread. That is why timing matters."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 262.25,
+   "end_sec": 264.05,
+   "dur_sec": 1.8,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 263.37,
+   "end_sec": 273.55,
+   "dur_sec": 10.18,
+   "overlap": false,
+   "text": "It is not government running every shop. It matches public risk with public reward where early support shapes a market. Rejecting it leaves us paying when ventures-",
+   "cut_at_sec": 273.55,
+   "full_dur_sec": 14.13,
+   "ext_file": "L096_028.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 272.75,
+   "end_sec": 275.31,
+   "dur_sec": 2.56,
+   "overlap": true,
+   "text": "Your time is up. Thank you. Philip."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.51,
+   "end_sec": 296.15,
+   "dur_sec": 20.64,
+   "overlap": false,
+   "text": "Jorge promises careful safeguards, yet safeguards cannot make political ownership neutral. Officials still decide which firms get public capital, and failures still land on shared budgets. A crisis is different because the danger is immediate and the alternative may be wider collapse. Outside that narrow role, government should build fair conditions for enterprise, not become a standing investor."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 295.51,
+   "end_sec": 296.67,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Philip, ten seconds."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 296.35,
+   "end_sec": 306.81,
+   "dur_sec": 10.46,
+   "overlap": false,
+   "text": "The other side calls this a tool, but tools have costs and users cannot escape the bill. Equity may rescue a system when failure threatens everyone; making it proactive-",
+   "cut_at_sec": 306.81,
+   "full_dur_sec": 14.24,
+   "ext_file": "L096_032.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 306.01,
+   "end_sec": 307.97,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "I'm sorry, you've hit time."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 308.17,
+   "end_sec": 313.84,
+   "dur_sec": 5.67,
+   "overlap": false,
+   "text": "Thank you both for a clear exchange on this motion; that concludes our debate here today."
+  }
+ ]
+}

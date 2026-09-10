@@ -1,0 +1,39 @@
+L084  |  Diplomacy with Iran is going nowhere.
+  MOD=Daisy   PRO=Alina   CON=Marcia
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Daisy(MOD): Welcome. Tonight's motion is that diplomacy with Iran is going nowhere. Alina speaks for it, and Marcia speaks against it. Each opening is thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. The rules are simple: address the motion and one another directly, and let each speaker finish.
+[t01] Alina(PRO): Talks have produced pauses and promises, but no durable change in the conduct that prompted them. When every opening becomes another delay for those seeking a real settlement, diplomacy is not progress. It is a different label for stalemate now.
+[t02] @A2-2 Daisy(MOD): Let me take your point to Marcia then.
+[t03] Marcia(CON): Diplomacy is not a straight path, and silence between meetings does not mean failure. It keeps channels open, tests intentions, and prevents worse choices from becoming automatic. Calling it nowhere ignores the value of keeping a path available when pressure rises.
+--- phase 2 ---
+[t04] @A3-1 Daisy(MOD): And that concludes Round One. Now, we move on to Round Two. And Round Two are where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t05] Marcia(CON): If talks are going nowhere, what alternative do you want when a misunderstanding could harden into danger for either side? Do you really think shutting the channel makes restraint easier?
+[t06] Alina(PRO): Your channel point mistakes contact for achievement. A channel can remain open while the same demands, delays, and distrust repeat year after year; why call that movement rather than a managed stalemate?
+[t07] Marcia(CON): That stalemate can still protect people waiting for permission to visit relatives or recover personal belongings across borders. Those small arrangements shape family trust long after officials stop speaking about them.
+[t08] @B1 Daisy(MOD): It's getting a little bit off the whether diplomacy with Iran is truly going nowhere issue. Fair enough? But that's why I stopped you. Marcia to respond.
+[t09] Marcia(CON): The question is whether diplomacy with Iran is going nowhere, and it is not: continued contact preserves choices and can turn a narrow opening into practical progress when circumstances shift.
+[t10] Alina(PRO): When both sides can verify a limited step, diplomacy goes nowhere unless that step changes behavior afterward. A signed phrase without follow-through is merely another pause, not a path forward.
+[t11] Marcia(CON): Private business hopes can make negotiators sound optimistic, and cultural exchanges can ease suspicion. But those are side benefits; diplomacy is moving when it secures real reciprocal steps, so it is not nowhere.
+[t12] Alina(PRO): You say contact preserves choices, but what choice has it produced when the same disputes return unchanged, and how can repeated meetings count as progress in practice?
+[t13] <cut> Marcia(CON): Your repeated-meetings point assumes progress must be immediate. Meetings can clarify limits, prevent rash moves, and prepare agreements; you dismiss the patient work that makes change possible when conditions-
+[t14] Alina(PRO): Diplomacy that rewards delay goes nowhere, because leverage disappears when delay has no cost. Across every format, progress requires consequences for refusal, not another meeting that postpones them in practice.
+[t15] Marcia(CON): I agree that a meeting alone is not success. But your demand for consequences before engagement can close the very channel needed to test steps, so diplomacy can still move forward.
+[t16] Alina(PRO): Your weakest claim is that pressure and engagement conflict. Talks without leverage fail, but leverage without credible talks only hardens positions; that combination is why today's diplomacy remains stuck.
+[t17] Marcia(CON): Imagine negotiators arranging a short pause so a detained traveler can return home and families avoid a dangerous misunderstanding. That practical result proves diplomacy can deliver movement, not nowhere.
+[t18] @A4 <ovl> Daisy(MOD): Ten seconds left on the clock.
+[t19] <cut> Alina(PRO): Your traveler example is humane, but how does one temporary arrangement show that the central disputes are advancing-
+--- phase 3 ---
+[t20] @A3-2 <ovl> Daisy(MOD): Time. And now we move on to round three. Round three, closing statements from each debater in turn. And here to make her closing statement, Alina.
+[t21] Alina(PRO): Deciding this motion turns on the difference between activity and movement. Marcia asks us to value open channels and small arrangements, but those matter only if they change the larger pattern of delay and refusal. When talks repeatedly preserve contact without producing that change, the process is not advancing; it is being managed.
+[t22] @A4 <ovl> Daisy(MOD): You have ten seconds.
+[t23] Alina(PRO): That is why the record of repeated diplomacy supports the motion, rather than hopeful intention alone.
+[t24] @A2-2 Daisy(MOD): Thank you very much. We're going to move next to Marcia.
+[t25] Marcia(CON): Open channels are not empty activity; they prevent errors and create room for limited deals. The question is whether that room can grow into something.
+[t26] <ovl> <cut> Alina(PRO): But an open room is not an outcome-
+[t27] @A5 <ovl> Daisy(MOD): Hold on.
+[t28] Marcia(CON): something durable, and diplomacy gives it that chance by keeping both sides engaged. Rejecting every imperfect step guarantees less understanding and fewer paths toward agreement later.
+[t29] @A4 <ovl> Daisy(MOD): You have ten seconds left.
+[t30] Marcia(CON): That continuing possibility is precisely why diplomacy with Iran is not going nowhere.
+[t31] Daisy(MOD): Thank you, Alina and Marcia, for a thoughtful debate on this motion today; this debate is now concluded.

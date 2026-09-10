@@ -1,0 +1,441 @@
+{
+ "debate_id": "L076",
+ "motion": "Gulf Arabs value profit over people",
+ "speakers": {
+  "MOD": {
+   "name": "Pete",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6582_423",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6582/MSP-PODCAST_6582_423.wav",
+   "wpm": 164.89
+  },
+  "PRO": {
+   "name": "Gloria",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  },
+  "CON": {
+   "name": "Stephen",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3967_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_3967/MSP-PODCAST_3967_54.wav",
+   "wpm": 161.46
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 101.4,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 315.24,
+ "ext": {
+  "a32": {
+   "file": "L076_ext_a32.wav",
+   "place_at_sec": 250.372,
+   "dur_sec": 23.57,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Your weakest point is that family kindness settles public power. Relatives helping after harm is admirable, but it does not excuse systems that allow harm for savings; repair afterward cannot outrank prevention beforehand."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.89,
+   "dur_sec": 20.89,
+   "overlap": false,
+   "text": "Welcome to this debate on the motion, Gulf Arabs value profit over people. Gloria supports the motion, and Stephen opposes it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue before each timed segment ends. Keep your remarks direct and address the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.09,
+   "end_sec": 41.17,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "The motion is about priorities shown by power, not the kindness of every individual. Across wealthy Gulf societies, leaders and major employers repeatedly place rapid returns above workers' safety, voice, and security. When income depends on cheap, replaceable labor, human needs become costs to trim. I will show how that logic shapes daily choices."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.09,
+   "end_sec": 42.33,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Gloria."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.37,
+   "end_sec": 52.39,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "Take housing: when a company can save money by crowding workers into unsafe rooms, it often does. The worker's discomfort is treated as less important than the margin-",
+   "cut_at_sec": 52.39,
+   "full_dur_sec": 14.24,
+   "ext_file": "L076_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 51.59,
+   "end_sec": 55.52,
+   "dur_sec": 3.93,
+   "overlap": true,
+   "text": "Gloria, I have to stop you, that's time. Stephen, go ahead."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 55.72,
+   "end_sec": 75.41,
+   "dur_sec": 19.69,
+   "overlap": false,
+   "text": "This motion asks us to judge millions of people by a single harsh motive. Economic growth can be abused, but abuse by a boss or official does not prove a whole culture values money over life. Families, neighbors, and workers routinely make costly choices for one another. The question is whether profit always wins."
+  },
+  {
+   "i": 6,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 75.61,
+   "end_sec": 87.02,
+   "dur_sec": 11.41,
+   "overlap": false,
+   "text": "If we call every business decision proof of cruelty, we erase tradeoffs and deny people agency. I will explain why protecting jobs, supporting relatives, and building stable communities can-",
+   "cut_at_sec": 87.02,
+   "full_dur_sec": 14.09,
+   "ext_file": "L076_007.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 75.72,
+   "end_sec": 77.16,
+   "dur_sec": 1.44,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 86.22,
+   "end_sec": 88.31,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Stephen, his time is up."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 88.51,
+   "end_sec": 101.4,
+   "dur_sec": 12.89,
+   "overlap": false,
+   "text": "Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 101.6,
+   "end_sec": 113.8,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Your weakest point is calling this a judgment of every individual. It is a judgment of prevailing priorities: when those with power repeatedly accept preventable hardship to protect returns, people clearly rank below profit."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 114.355,
+   "end_sec": 126.685,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "I am answering your prevailing priorities point. You treat hardship as proof that profit is the chosen goal, yet hardship can come from poor enforcement, limited options, or bad leadership; none makes a people profit-first."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 127.345,
+   "end_sec": 139.175,
+   "dur_sec": 11.83,
+   "overlap": false,
+   "text": "Advertising may polish a country's image, and that is worth questioning. But the motion turns on conduct: when powerful employers can cut costs by shifting danger onto workers, the pattern shows profit over people."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 139.959,
+   "end_sec": 151.489,
+   "dur_sec": 11.53,
+   "overlap": false,
+   "text": "No, I reject the premise that employers can freely shift danger without consequences. Families, customers, and workers push back, while safety rules and moral duties constrain business; isolated failures cannot define Gulf Arabs."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 152.034,
+   "end_sec": 163.434,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "When a worker cannot safely challenge an employer, profit has a clear advantage over that person's welfare. That imbalance lets those controlling work treat human dignity as an expense, confirming the motion."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 164.013,
+   "end_sec": 176.983,
+   "dur_sec": 12.97,
+   "overlap": false,
+   "text": "Consider a shop owner who keeps staff through a slow season, paying them despite smaller returns so households can stay secure. That choice protects people rather than maximizing profit, proving the motion ignores the human commitments that-"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 176.083,
+   "end_sec": 187.843,
+   "dur_sec": 11.76,
+   "overlap": true,
+   "text": "That is one generous owner, not an answer. A system can celebrate personal loyalty while still rewarding employers who squeeze vulnerable workers; your example proves exceptions exist, not that profit stops governing priorities."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 188.655,
+   "end_sec": 200.585,
+   "dur_sec": 11.93,
+   "overlap": false,
+   "text": "I am answering your system point. You assume a market reward proves a shared moral value, but workers negotiate, families support them, and communities condemn exploitation; those forces show people are not beneath profit."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 200.879,
+   "end_sec": 212.249,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "Profit pressures shape decisions across powerful institutions, not only workplaces. Whenever returns become the main test, safety, housing, and voice are easily postponed; that recurring hierarchy is why the motion is true."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 212.84,
+   "end_sec": 224.53,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "No, returns are not the main test for a people. You confuse visible commercial decisions with every moral decision, while care within families and communities often costs money and receives no public notice."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 225.527,
+   "end_sec": 237.207,
+   "dur_sec": 11.68,
+   "overlap": false,
+   "text": "Private care is real, and I do not deny it. But the motion concerns public priorities under power: if vulnerable workers repeatedly bear the sacrifice while returns are protected, profit is valued over people."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 237.419,
+   "end_sec": 249.989,
+   "dur_sec": 12.57,
+   "overlap": false,
+   "text": "Consider relatives who pool savings to help an injured worker recover, even though they lose business income and delay purchases. They choose care over gain when it matters, proving profit does not define Gulf Arab values."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 241.4,
+   "end_sec": 244.29,
+   "dur_sec": 2.89,
+   "overlap": true,
+   "text": "About ten seconds left in the crossfire."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 250.372,
+   "end_sec": 252.2,
+   "dur_sec": 1.828,
+   "overlap": false,
+   "text": "I am answering your prevention point-",
+   "ext_file": "L076_ext_a32.wav",
+   "cut_at_sec": 252.2,
+   "full_dur_sec": 11.53
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 251.4,
+   "end_sec": 261.57,
+   "dur_sec": 10.17,
+   "overlap": true,
+   "text": "Okay, time. Now we move on to Round Three. Round Three are closing statements by each debater in turn. Making her closing statement in support of the resolution, Gloria."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 261.77,
+   "end_sec": 277.41,
+   "dur_sec": 15.64,
+   "overlap": false,
+   "text": "The key evidence is the imbalance of power: when workers cannot challenge those controlling jobs, their safety and dignity are treated as costs. Private generosity cannot erase repeated public choices. Judge priorities by who carries the sacrifice, and the answer is people, not profit."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 277.61,
+   "end_sec": 280.9,
+   "dur_sec": 3.29,
+   "overlap": false,
+   "text": "I want to give the floor to Stephen."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.1,
+   "end_sec": 290.95,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "This decision turns on whether painful economic failures prove a whole people prize money above humanity. They do not. We must distinguish exploitation from values."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 290.05,
+   "end_sec": 292.35,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But you cannot separate values from choices made-",
+   "cut_at_sec": 292.35,
+   "full_dur_sec": 9.01,
+   "ext_file": "L076_029.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 291.55,
+   "end_sec": 293.09,
+   "dur_sec": 1.54,
+   "overlap": true,
+   "text": "Let him just finish."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 293.29,
+   "end_sec": 303.3,
+   "dur_sec": 10.01,
+   "overlap": false,
+   "text": "Values are shown in the sacrifices people make for kin, neighbors, and workers, not merely in flawed institutions. That distinction fairly decides this motion."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 301.1,
+   "end_sec": 303.67,
+   "dur_sec": 2.57,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 303.5,
+   "end_sec": 309.03,
+   "dur_sec": 5.53,
+   "overlap": false,
+   "text": "Reject a claim that turns complex human commitments into one cold motive for everyone."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 309.23,
+   "end_sec": 315.24,
+   "dur_sec": 6.01,
+   "overlap": false,
+   "text": "Thank you, Gloria and Stephen, for a direct exchange; this debate on the motion is now closed."
+  }
+ ]
+}

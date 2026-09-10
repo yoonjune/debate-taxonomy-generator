@@ -1,0 +1,34 @@
+L106  |  It is better to have more domestic surveillance than to have another 9/11.
+  MOD=Daphne   PRO=Gavin   CON=Carissa
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Daphne(MOD): Welcome to our debate on the motion: is it better to have more domestic surveillance than to have another 9/11? Gavin argues for it, and Carissa argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Each side then has thirty seconds for closings, and I will give a ten-second cue before time ends.
+[t01] Gavin(PRO): Preventing mass violence is a government's first duty. More domestic surveillance, limited to finding credible threats and checked by courts, can reveal preparation before people die. Privacy matters, but after another attack, lost lives cannot be restored; careful surveillance is the better choice.
+[t02] @A2-2 Daphne(MOD): Let's hear from Carissa.
+[t03] Carissa(CON): The choice is false because surveillance can grow without stopping violence. Giving the state more access makes ordinary people suspects and creates power that will be misused. Security works best through focused investigation, not permanent watching of everyone.
+--- phase 2 ---
+[t04] @A3-1 Daphne(MOD): And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t05] Carissa(CON): Your weakest claim is that careful surveillance stays limited. Once officials collect private lives, the definition of a threat expands, and checks often arrive after the intrusion has already happened.
+[t06] Gavin(PRO): You call oversight late, but oversight depends on actual records: who approved access, who reviewed it, and who stored it. That means training staff, securing offices, classifying documents, and building public trust in administration.
+[t07] @B1 Daphne(MOD): But we're asking whether more domestic surveillance is better than another nine eleven. That's the question here.
+[t08] Gavin(PRO): I reject the idea that administration is separate from whether surveillance is better than another nine eleven. The question is whether accountable tools that expose dangerous planning are preferable to preventable mass death, and they are.
+[t09] Carissa(CON): No resident should ever be watched without cause. Broad surveillance starts by collecting information before suspicion exists, so it reverses the basic duty to treat people as free unless evidence points otherwise.
+[t10] Gavin(PRO): Your no-watch-without-cause rule fails because evidence of a plan can be hidden across small, harmless-looking contacts. Limited pattern review supplies the cause for investigation; it does not make every resident guilty.
+[t11] Carissa(CON): This resident should be watched without cause. The alternative is not mass collection but investigators following conduct they can explain openly, which protects safety without making surveillance the default.
+[t12] @B2 Daphne(MOD): They do no resident should ever be watched without cause or they should this resident should be watched without cause?
+[t13] Carissa(CON): Both statements express the same demand: power must answer to human judgment. A universal warning rejects routine monitoring, while the individual statement recognizes a hard case; neither makes blanket surveillance better.
+[t14] Gavin(PRO): Data storage also needs strict deletion rules, because old information can become a temptation for officials. But those safeguards support my point: targeted domestic surveillance with limits is better than leaving a credible attack unseen.
+[t15] <cut> Carissa(CON): I grant that investigators need tools when danger is real. But your main claim turns every private life into a possible file, and that damage is not worth avoiding one catastrophe by-
+[t16] <ovl> Gavin(PRO): Carissa, your file point ignores that a narrow system need not keep every detail forever. Review can flag a linked plan, prompt a warrant, and delete irrelevant material, preventing violence while preserving ordinary privacy.
+[t17] Carissa(CON): Your deletion point assumes officials will reliably erase what they collect. The harm occurs at collection too: people alter lawful speech when they know private contacts may be examined, so surveillance weakens the society it claims to defend.
+[t18] @A4 <ovl> Daphne(MOD): Ten seconds please.
+[t19] <cut> Gavin(PRO): Will you answer this: if investigators see separate warning signs that form-
+--- phase 3 ---
+[t20] @A3-2 <ovl> Daphne(MOD): It's just in time for us to go to our closing round. And Gavin, you are up first on that. Your closing remarks come now, it's your turn.
+[t21] Gavin(PRO): This decision turns on what we owe people when a preventable catastrophe is forming. Carissa rightly fears unchecked power, but that is an argument for warrants, review, limits, and deletion, not blindness. A narrowly supervised system can connect warning signs before violence begins. The real choice is between accountable prevention and discovering too late that lives could have been saved.
+[t22] @A4 <ovl> Daphne(MOD): Ten seconds, Gavin.
+[t23] <cut> Gavin(PRO): Privacy deserves protection, and every surveillance power must face clear boundaries. Yet boundaries do not erase the need to detect coordinated danger. When the evidence is scattered, refusing-
+[t24] @A2-1 <ovl> Daphne(MOD): Thank you. Time is up on that. And now Carissa.
+[t25] Carissa(CON): This motion turns on whether fear permits treating private life as raw material for the state. Prevention matters, but broad surveillance spreads suspicion, chills lawful life, and creates abuse before any attack occurs. Choose focused evidence and accountable investigation, because freedom is part of the security we are defending.
+[t26] Daphne(MOD): Thank you, Gavin and Carissa, for a spirited debate on a difficult question; this concludes our discussion.

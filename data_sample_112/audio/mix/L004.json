@@ -1,0 +1,407 @@
+{
+ "debate_id": "L004",
+ "motion": "More clicks, fewer bricks: The lecture hall is obsolete.",
+ "speakers": {
+  "MOD": {
+   "name": "Bella",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  },
+  "PRO": {
+   "name": "Alina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1239_11",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1239/MSP-PODCAST_1239_11.wav",
+   "wpm": 174.36
+  },
+  "CON": {
+   "name": "Roger",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5508_46",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5508/MSP-PODCAST_5508_46.wav",
+   "wpm": 171.82
+  }
+ },
+ "selective": [
+  "A1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 89.89,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 293.12,
+ "ext": {
+  "a32": {
+   "file": "L004_ext_a32.wav",
+   "place_at_sec": 235.475,
+   "dur_sec": 22.21,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "No learning function always requires a building, but that question narrows education to functions that can be listed. Schools also cultivate belonging, habits, and responsibility, which physical presence strengthens; that makes the hall valuable, not obsolete."
+  },
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Your answer replaces necessity with atmosphere and habit. Belonging and responsibility can be built through sustained communities without forced travel, while digital access adds flexibility; usefulness is not enough to keep an outdated default."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.17,
+   "dur_sec": 18.17,
+   "overlap": false,
+   "text": "Today's motion is, \"More clicks, fewer bricks: The lecture hall is obsolete.\" Alina argues for it, and Roger argues against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire. Each closing gets thirty seconds, with a ten-second cue before time. I will enforce those limits."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.37,
+   "end_sec": 38.57,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "The lecture hall was built for one speaker, one pace, and rows of silent listeners. Digital learning removes those limits: students can pause, replay, question, and practice when the idea is difficult. It also reaches people who cannot travel, work irregular hours, or learn well in a crowded room. The old structure now blocks access and interaction."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.37,
+   "end_sec": 39.97,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.77,
+   "end_sec": 44.06,
+   "dur_sec": 5.29,
+   "overlap": false,
+   "text": "When learning works anywhere and anytime, the lecture hall is no longer essential."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 44.26,
+   "end_sec": 45.86,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Okay. Roger, you're in."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 46.06,
+   "end_sec": 65.99,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "A screen can deliver information, but education is more than delivery. In a shared room, students notice confusion, test ideas aloud, and build trust with people they did not choose. A teacher can respond to the room, not just to typed reactions. Digital tools belong in education, but replacing the hall throws away valuable human contact."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 66.06,
+   "end_sec": 67.43,
+   "dur_sec": 1.37,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 66.19,
+   "end_sec": 77.36,
+   "dur_sec": 11.17,
+   "overlap": false,
+   "text": "Convenience is not the same as learning. Without a common place, attention scatters, discussion thins, and students can disappear unnoticed. The lecture hall can change, but calling it obsolete-",
+   "cut_at_sec": 77.36,
+   "full_dur_sec": 15.45,
+   "ext_file": "L004_007.wav"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 76.56,
+   "end_sec": 78.16,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 78.36,
+   "end_sec": 89.89,
+   "dur_sec": 11.53,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two. In round two, the debaters address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 90.09,
+   "end_sec": 102.34,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "No, the premise that shared space is required for serious learning is false. A live online seminar can let students question, collaborate, and revisit material while removing barriers that make physical attendance unequal and inefficient."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 102.86,
+   "end_sec": 114.98,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "You answer access, not the lecture hall's value. Online tools may widen entry, but they cannot reliably create attention, spontaneous exchange, or a teacher's immediate sense of the room, so replacing the hall risks-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 114.08,
+   "end_sec": 126.49,
+   "dur_sec": 12.41,
+   "overlap": true,
+   "text": "You are treating a familiar setting as a learning outcome. Attention can be designed online, exchange can happen in real time, and teachers can read questions as they arise; the building adds cost, not understanding."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 127.467,
+   "end_sec": 137.797,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "You dismiss the setting's role too quickly. Every serious lesson needs a physical room. Shared presence gives learning a dependable center, and no platform can fully replace that social discipline."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 138.704,
+   "end_sec": 151.224,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Imagine a student replaying a difficult explanation at midnight, asking questions in a shared channel, and submitting practice for quick feedback. That flexibility keeps learning moving, proving the lecture hall is obsolete as the default."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.178,
+   "end_sec": 163.308,
+   "dur_sec": 11.13,
+   "overlap": false,
+   "text": "This serious lesson does not need a physical room. A class can still gain focus, trust, and useful discussion through a carefully led online meeting, yet physical classrooms remain valuable across education."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 163.508,
+   "end_sec": 170.878,
+   "dur_sec": 7.37,
+   "overlap": false,
+   "text": "So it's not much of every serious lesson needs a physical room if this serious lesson does not need a physical room, is it?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 171.078,
+   "end_sec": 182.768,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "I hold both statements because the general need for a room reflects education's social core, while this particular lesson can work online. One exception does not erase the broader value of physical teaching spaces."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 183.635,
+   "end_sec": 195.565,
+   "dur_sec": 11.93,
+   "overlap": false,
+   "text": "Your exception concedes the central point: if a serious lesson can succeed without a room, the room is not essential. Calling it broadly valuable does not justify making every learner travel there for instruction."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 195.959,
+   "end_sec": 209.489,
+   "dur_sec": 13.53,
+   "overlap": false,
+   "text": "I grant that online lessons can succeed in some cases. But success in one flexible class does not prove that screens can replace mentoring, shared attention, and the unplanned questions that make learning deeper; the hall remains useful."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 210.328,
+   "end_sec": 222.418,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Your appeal to unplanned questions is weakest because online discussion can be live, visible, and open to everyone. Physical proximity may feel richer, but feeling richer is not proof that the building improves learning."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 223.407,
+   "end_sec": 235.087,
+   "dur_sec": 11.68,
+   "overlap": false,
+   "text": "Picture a shy student who never posts online and quietly falls behind while the teacher sees only a silent screen. In a room, small signs invite intervention; that shared visibility proves physical teaching still matters."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 229.89,
+   "end_sec": 232.06,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 235.475,
+   "end_sec": 240.69,
+   "dur_sec": 5.215,
+   "overlap": false,
+   "text": "If a student can receive immediate feedback, join discussion, and review every lesson online, what learning-",
+   "ext_file": "L004_ext_a32.wav",
+   "cut_at_sec": 240.69,
+   "full_dur_sec": 9.21
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 239.89,
+   "end_sec": 244.38,
+   "dur_sec": 4.49,
+   "overlap": true,
+   "text": "Time. Let's move on now to our closing round. Alina, you're up first."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 244.58,
+   "end_sec": 264.86,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Roger's best point is that shared spaces can support belonging and notice students who struggle. I concede that benefit, but it does not require a lecture hall as the standard. Online communities can provide feedback, discussion, and care while letting learners replay lessons and participate despite distance, work, disability, or timing. More clicks means broader access and better control; fewer bricks means education serves people, instead of making people serve a building."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 264.58,
+   "end_sec": 265.82,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 265.06,
+   "end_sec": 270.27,
+   "dur_sec": 5.21,
+   "overlap": false,
+   "text": "The lecture hall may remain an option, but it is obsolete as education's default."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 270.47,
+   "end_sec": 272.07,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "What about that, Roger?"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 272.27,
+   "end_sec": 287.63,
+   "dur_sec": 15.36,
+   "overlap": false,
+   "text": "Alina shows that digital learning is useful, but useful is not obsolete. Education depends on attention, trust, belonging, and teachers noticing people, not merely content reaching them. Online spaces can supplement the hall, while shared rooms preserve human connection that software cannot guarantee."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 287.83,
+   "end_sec": 293.12,
+   "dur_sec": 5.29,
+   "overlap": false,
+   "text": "Thank you both for presenting your cases; this debate is now closed without declaring a winner."
+  }
+ ]
+}

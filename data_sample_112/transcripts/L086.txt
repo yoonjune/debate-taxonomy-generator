@@ -1,0 +1,35 @@
+L086  |  It is ethical to cooperate with Chinese state institutions to secure incremental change.
+  MOD=Clive   PRO=Jillian   CON=Billy
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Clive(MOD): Welcome. Today's motion is: It is ethical to cooperate with Chinese state institutions to secure incremental change. Jillian supports it, and Billy opposes it. Each has thirty seconds for an opening, followed by two and a half minutes of crossfire. Then come thirty-second closings; I will give a ten-second cue before each time limit.
+[t01] Jillian(PRO): Cooperation is not approval. It is a disciplined way to widen room for safer work, fairer treatment, and honest discussion where direct refusal may leave people with nothing. I would judge each engagement by the protections it wins and the leverage it preserves. Walking away can feel pure, but it can also abandon those seeking small, real openings.
+[t02] @A4 <ovl> Clive(MOD): I can give you ten seconds to wrap this round.
+[t03] Jillian(PRO): Incremental change is ethical when it leaves people more able to speak, organize, and resist harm tomorrow than they were yesterday. That is responsibility, not surrender.
+[t04] @A2-2 Clive(MOD): All right, let's give Billy a chance to reply.
+[t05] Billy(CON): My opponent treats contact as leverage, but the stronger party often controls the terms and the story. Incremental concessions can quiet criticism while leaving coercion intact. Ethical action must avoid lending legitimacy to institutions that can take the benefit of cooperation and deny the promised change.
+--- phase 2 ---
+[t06] @A3-1 Clive(MOD): That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Billy(CON): No cooperation with state institutions should ever be ethical. Their power lets them convert even careful partnership into a display of consent, so refusing cooperation protects the independence needed to demand real change.
+[t08] Jillian(PRO): Your consent point assumes refusal keeps outsiders independent, but isolation can remove the only channel through which affected people press for improvements. Ethical cooperation sets boundaries, publishes demands, and leaves when those boundaries are violated.
+[t09] Billy(CON): Cooperation to release a detained child should be ethical. Yet the motion endorses a continuing approach, and that approach lets powerful institutions choose token reforms while preserving control over everyone else.
+[t10] @B2 Clive(MOD): I must ask you to stop, thank you Billy, thank you very much indeed. You've slightly destroyed your own argument there, you said that no cooperation with state institutions should ever be ethical and then cooperation to release a detained child should be ethical.
+[t11] Billy(CON): Both statements express the same moral priority: people must not be abandoned, yet institutions must not gain a general license through partnership. A rescue is mercy; calling cooperation itself ethical is still wrong.
+[t12] Jillian(PRO): No, those statements do not fit, because an absolute rule cannot permit the cooperation it bans. Your rescue example proves that engagement can be ethical; the real question is whether careful, limited engagement can secure gains.
+[t13] Billy(CON): Careful limits depend on written promises, then on inspectors, meeting notes, complaint forms, and staff training records. Once those records are filed, the dispute becomes who signed which form, who stored it, and whether the copier worked.
+[t14] @B1 Clive(MOD): Okay, I'm not sure that that's getting to cooperating with Chinese state institutions for incremental change, which I think is a little bit more on point.
+[t15] Billy(CON): The motion asks whether cooperation with Chinese state institutions for incremental change is ethical, and I say no. Even limited partnerships risk making gradual improvement an excuse for outsiders to overlook continuing abuse.
+[t16] Jillian(PRO): Trust also depends on who attends meetings and whether translators make residents feel heard, details that deserve care. But the motion is simpler: cooperation is ethical when it wins enforceable space for people to protect themselves.
+[t17] Billy(CON): If cooperation is ethical whenever it gains some space, how do you stop officials from displaying that project as proof that their wider conduct deserves approval? Please answer how your boundary prevents that laundering.
+[t18] <cut> Jillian(PRO): Public terms and independent exit rights answer that concern. In one housing office, partners secure accessible entrances and a complaint desk run by residents; people gain tools to challenge officials, proving limited cooperation can build-
+[t19] @A4 <ovl> Clive(MOD): Ten seconds left on the crossfire.
+--- phase 3 ---
+[t20] @A3-2 <ovl> Clive(MOD): And that's time. I want to move into our third round, which is basically closing statements from each of you. And Jillian, you again, get to go first on this.
+[t21] Jillian(PRO): Deciding this motion turns on whether ethics demands distance or demands useful responsibility to people living under constraint. Cooperation is justified only with clear goals, public limits, and an ability to leave. When it expands people's power rather than an institution's image, incremental change is worth pursuing.
+[t22] @A2-2 Clive(MOD): You guys want to respond? Billy.
+[t23] Billy(CON): Deciding this motion turns on who bears the moral cost when cooperation fails. The people facing control may be used as evidence of reform while outsiders claim progress. Small projects can offer relief, and I do not dismiss that relief. But ethical partnership cannot rest on promises made by the very power that may revoke them.
+[t24] @A4 <ovl> Clive(MOD): Ten.
+[t25] <cut> Billy(CON): That is why refusal preserves a line: do not trade moral independence for access controlled by another party. Jillian calls this caution abandonment, but accountability requires refusing arrangements that turn rights into favors-
+[t26] @A1 <ovl> Clive(MOD): Time out. Time out.
+[t27] Clive(MOD): Thank you, Jillian and Billy, for a spirited discussion; that concludes our debate on this motion today.

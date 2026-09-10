@@ -1,0 +1,416 @@
+{
+ "debate_id": "L100",
+ "motion": "Replace Private Insurance with Medicare for All",
+ "speakers": {
+  "MOD": {
+   "name": "Dante",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3981_550",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_3981/MSP-PODCAST_3981_550.wav",
+   "wpm": 173.5
+  },
+  "PRO": {
+   "name": "Anthony",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6071_804",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6071/MSP-PODCAST_6071_804.wav",
+   "wpm": 168.17
+  },
+  "CON": {
+   "name": "Tony",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 75.29,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 306.07,
+ "ext": {
+  "a32": {
+   "file": "L100_ext_a32.wav",
+   "place_at_sec": 219.12,
+   "dur_sec": 24.09,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Continuity is valuable, but your example assumes one program can preserve every doctor and treatment. If its payment rules drive a specialist away, the patient has no private alternative, which is why replacement is risky."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.18,
+   "dur_sec": 18.18,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, Replace Private Insurance with Medicare for All. Anthony argues for the motion, and Tony argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire. They then receive thirty-second closings, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.38,
+   "end_sec": 38.13,
+   "dur_sec": 19.75,
+   "overlap": false,
+   "text": "Private insurance makes health care a product people must buy, often when they are sick and frightened. Medicare for All would give everyone a dependable public guarantee, instead of tying care to an employer, a plan, or a confusing network. That means patients could seek care without fearing a bill they cannot meet."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.33,
+   "end_sec": 49.68,
+   "dur_sec": 11.35,
+   "overlap": false,
+   "text": "And it would let doctors focus on treatment rather than competing forms and approval games. A shared program can bargain fairly, simplify payment, and make health security a right rather than a reward-",
+   "cut_at_sec": 49.68,
+   "full_dur_sec": 14.03,
+   "ext_file": "L100_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.38,
+   "end_sec": 39.26,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 48.88,
+   "end_sec": 51.52,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "Time's up, Anthony. Thank you. Tony, please."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.72,
+   "end_sec": 67.73,
+   "dur_sec": 16.01,
+   "overlap": false,
+   "text": "Health care needs a strong safety net, but replacing every private plan hands too much control to one system. People have different needs and priorities. Keeping private insurance alongside public coverage preserves choice, encourages responsive service, and avoids forcing patients into a single benefit design."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 67.93,
+   "end_sec": 75.29,
+   "dur_sec": 7.36,
+   "overlap": false,
+   "text": "We're going to move into our proverbial free-for-all session. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 75.49,
+   "end_sec": 86.61,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Consider a patient whose preferred doctor is outside the public plan's payment rules. Under one national system, that relationship can disappear. That loss of personal choice proves replacement risks harming patients."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 87.27,
+   "end_sec": 99.39,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "That relationship need not disappear, because Medicare for All can pay any qualified doctor without narrow private networks. Your example assumes public coverage means less choice, when private plans already deny doctors and care."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 100.262,
+   "end_sec": 110.342,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "If one public program sets the benefits, how can a patient choose a plan that better fits unusual needs or values? Why should every family lose that option?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 110.948,
+   "end_sec": 121.708,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Every patient should always receive identical public coverage. Private plans call choice freedom, but it often means choosing among exclusions, deductibles, and networks that punish illness instead of supporting care."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 122.152,
+   "end_sec": 132.592,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Your identical-coverage claim is the weak point. A young worker, a parent, and someone needing specialized care do not want identical priorities, so one package replaces choice with bureaucracy."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 132.936,
+   "end_sec": 139.666,
+   "dur_sec": 6.73,
+   "overlap": false,
+   "text": "A patient needing a rare treatment cannot use the standard benefit. This patient does not receive identical public coverage."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 139.866,
+   "end_sec": 147.826,
+   "dur_sec": 7.96,
+   "overlap": false,
+   "text": "Well you're every patient should always receive identical public coverage and then you're this patient does not receive identical public coverage. Which?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 148.026,
+   "end_sec": 160.356,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "Equal public coverage means equal membership and a guaranteed floor, not identical clinical decisions for every body. A rare treatment is care under that shared guarantee, which is why public coverage remains the fairer system."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 161.334,
+   "end_sec": 172.374,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "That answer changes identical coverage into a flexible promise whenever it becomes inconvenient. If benefits vary by patient, officials decide the limits, and patients cannot choose another plan when they need-"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 171.474,
+   "end_sec": 182.844,
+   "dur_sec": 11.37,
+   "overlap": true,
+   "text": "But private insurers already decide limits, often behind opaque rules and profit targets. A public system makes the guarantee visible and accountable, while your alternative leaves patients bargaining alone after illness strikes."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 183.048,
+   "end_sec": 193.808,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "On your accountability point, visibility does not create choice. When a public agency rejects a treatment or delays payment, replacing private coverage gives patients no competing plan to turn toward."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 194.313,
+   "end_sec": 205.073,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "The competing-plan claim ignores that private alternatives often reject the same care through networks, prior approval, or unaffordable costs. Switching paperwork is not meaningful choice when sickness makes coverage unusable."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 205.83,
+   "end_sec": 218.35,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "I agree that private plans can be confusing and unfair. But the main issue is whether abolition improves care; preserving public help plus private options lets people escape bad plans without trapping everyone in one."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 215.29,
+   "end_sec": 217.61,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left, both of you."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 219.12,
+   "end_sec": 226.09,
+   "dur_sec": 6.97,
+   "overlap": false,
+   "text": "A worker changes jobs, then discovers the new plan excludes the specialist who manages his condition. Medicare for All keeps his coverage-",
+   "ext_file": "L100_ext_a32.wav",
+   "cut_at_sec": 226.09,
+   "full_dur_sec": 11.37
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 225.29,
+   "end_sec": 233.93,
+   "dur_sec": 8.64,
+   "overlap": true,
+   "text": "Time. And that concludes round two. So we move on to round three. And first up, to argue the yes position, once again, Anthony."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 234.13,
+   "end_sec": 254.22,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "This decision turns on what freedom means when someone is sick: a menu of costly plans, or a reliable guarantee of care. Tony calls private options choice, yet those options can vanish with a job change, a denial, or a network rule. Medicare for All gives everyone a stable foundation and removes that insecurity."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 254.13,
+   "end_sec": 257.26,
+   "dur_sec": 3.13,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 254.42,
+   "end_sec": 260.29,
+   "dur_sec": 5.87,
+   "overlap": false,
+   "text": "Choose the system that makes care dependable for everyone, not conditional on private insurance."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 260.49,
+   "end_sec": 264.09,
+   "dur_sec": 3.6,
+   "overlap": false,
+   "text": "Thank you very much. We're going to move next to Tony."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 264.29,
+   "end_sec": 284.37,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "Anthony's best point is continuity, and public coverage should absolutely protect people when work or health changes. But continuity does not require abolishing every private plan. A single program can create new limits, payment disputes, and benefit rules with no alternative for patients. Keep a strong public guarantee, while preserving options and competition."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 284.29,
+   "end_sec": 286.1,
+   "dur_sec": 1.81,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 284.57,
+   "end_sec": 295.59,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "The motion asks for replacement, not improvement, and that is too blunt. Patients should be able to seek another plan when one system fails them. Public support matters, but private coverage can add-",
+   "cut_at_sec": 295.59,
+   "full_dur_sec": 15.72,
+   "ext_file": "L100_030.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 294.79,
+   "end_sec": 298.87,
+   "dur_sec": 4.08,
+   "overlap": true,
+   "text": "I have to step in because we hit our time limit."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 299.07,
+   "end_sec": 306.07,
+   "dur_sec": 7.0,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate on replacing private insurance with Medicare for All. This debate is now concluded."
+  }
+ ]
+}

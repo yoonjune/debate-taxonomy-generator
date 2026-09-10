@@ -1,0 +1,38 @@
+L004  |  More clicks, fewer bricks: The lecture hall is obsolete.
+  MOD=Bella   PRO=Alina   CON=Roger
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Bella(MOD): Today's motion is, "More clicks, fewer bricks: The lecture hall is obsolete." Alina argues for it, and Roger argues against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire. Each closing gets thirty seconds, with a ten-second cue before time. I will enforce those limits.
+[t01] Alina(PRO): The lecture hall was built for one speaker, one pace, and rows of silent listeners. Digital learning removes those limits: students can pause, replay, question, and practice when the idea is difficult. It also reaches people who cannot travel, work irregular hours, or learn well in a crowded room. The old structure now blocks access and interaction.
+[t02] @A4 <ovl> Bella(MOD): Ten seconds, ten seconds.
+[t03] Alina(PRO): When learning works anywhere and anytime, the lecture hall is no longer essential.
+[t04] @A2-2 Bella(MOD): Okay. Roger, you're in.
+[t05] Roger(CON): A screen can deliver information, but education is more than delivery. In a shared room, students notice confusion, test ideas aloud, and build trust with people they did not choose. A teacher can respond to the room, not just to typed reactions. Digital tools belong in education, but replacing the hall throws away valuable human contact.
+[t06] @A4 <ovl> Bella(MOD): Well, now it's ten.
+[t07] <cut> Roger(CON): Convenience is not the same as learning. Without a common place, attention scatters, discussion thins, and students can disappear unnoticed. The lecture hall can change, but calling it obsolete-
+[t08] @A1 <ovl> Bella(MOD): Time out. Time out.
+--- phase 2 ---
+[t09] @A3-1 Bella(MOD): And that concludes round one. Now we move on to round two. In round two, the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+[t10] Alina(PRO): No, the premise that shared space is required for serious learning is false. A live online seminar can let students question, collaborate, and revisit material while removing barriers that make physical attendance unequal and inefficient.
+[t11] <cut> Roger(CON): You answer access, not the lecture hall's value. Online tools may widen entry, but they cannot reliably create attention, spontaneous exchange, or a teacher's immediate sense of the room, so replacing the hall risks-
+[t12] <ovl> Alina(PRO): You are treating a familiar setting as a learning outcome. Attention can be designed online, exchange can happen in real time, and teachers can read questions as they arise; the building adds cost, not understanding.
+[t13] Roger(CON): You dismiss the setting's role too quickly. Every serious lesson needs a physical room. Shared presence gives learning a dependable center, and no platform can fully replace that social discipline.
+[t14] Alina(PRO): Imagine a student replaying a difficult explanation at midnight, asking questions in a shared channel, and submitting practice for quick feedback. That flexibility keeps learning moving, proving the lecture hall is obsolete as the default.
+[t15] Roger(CON): This serious lesson does not need a physical room. A class can still gain focus, trust, and useful discussion through a carefully led online meeting, yet physical classrooms remain valuable across education.
+[t16] @B2 Bella(MOD): So it's not much of every serious lesson needs a physical room if this serious lesson does not need a physical room, is it?
+[t17] Roger(CON): I hold both statements because the general need for a room reflects education's social core, while this particular lesson can work online. One exception does not erase the broader value of physical teaching spaces.
+[t18] Alina(PRO): Your exception concedes the central point: if a serious lesson can succeed without a room, the room is not essential. Calling it broadly valuable does not justify making every learner travel there for instruction.
+[t19] Roger(CON): I grant that online lessons can succeed in some cases. But success in one flexible class does not prove that screens can replace mentoring, shared attention, and the unplanned questions that make learning deeper; the hall remains useful.
+[t20] Alina(PRO): Your appeal to unplanned questions is weakest because online discussion can be live, visible, and open to everyone. Physical proximity may feel richer, but feeling richer is not proof that the building improves learning.
+[t21] Roger(CON): Picture a shy student who never posts online and quietly falls behind while the teacher sees only a silent screen. In a room, small signs invite intervention; that shared visibility proves physical teaching still matters.
+[t22] @A4 <ovl> Bella(MOD): Ten seconds left in this round.
+[t23] <cut> Alina(PRO): If a student can receive immediate feedback, join discussion, and review every lesson online, what learning-
+--- phase 3 ---
+[t24] @A3-2 <ovl> Bella(MOD): Time. Let's move on now to our closing round. Alina, you're up first.
+[t25] Alina(PRO): Roger's best point is that shared spaces can support belonging and notice students who struggle. I concede that benefit, but it does not require a lecture hall as the standard. Online communities can provide feedback, discussion, and care while letting learners replay lessons and participate despite distance, work, disability, or timing. More clicks means broader access and better control; fewer bricks means education serves people, instead of making people serve a building.
+[t26] @A4 <ovl> Bella(MOD): Well, now ten.
+[t27] Alina(PRO): The lecture hall may remain an option, but it is obsolete as education's default.
+[t28] @A2-2 Bella(MOD): What about that, Roger?
+[t29] Roger(CON): Alina shows that digital learning is useful, but useful is not obsolete. Education depends on attention, trust, belonging, and teachers noticing people, not merely content reaching them. Online spaces can supplement the hall, while shared rooms preserve human connection that software cannot guarantee.
+[t30] Bella(MOD): Thank you both for presenting your cases; this debate is now closed without declaring a winner.

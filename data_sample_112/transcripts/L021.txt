@@ -1,0 +1,38 @@
+L021  |  Trump won the Iran war.
+  MOD=Mitchell   PRO=Paul   CON=Steve
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Mitchell(MOD): Today's motion is that Trump won the Iran war. Paul argues for it, and Steve argues against it. Each gets thirty seconds to open; then crossfire lasts two and a half minutes, with a ten-second cue. Finally, each gets thirty seconds to close. Keep it focused, answer the other side, and make your case. I will enforce limits and hand over when time expires.
+[t01] Paul(PRO): The war was not just missiles; it was a contest of pressure, bargaining, and consequences. Trump forced Iran to face costs while keeping leverage for a settlement. Winning means changing the strategic balance, and his policy did that.
+[t02] @A2-2 Mitchell(MOD): Let's hear from Steve.
+[t03] Steve(CON): That claim confuses pressure with victory. Iran still had its own government, defenses, and choices, while no durable settlement followed. A war is won when the opponent is decisively compelled, not when a leader announces success; by that measure, Trump did not win.
+--- phase 2 ---
+[t04] @A3-1 Mitchell(MOD): All right, we've just heard opening arguments on the resolution, whether trump won the iran war through strategic victory, and now we're going to give our debaters a chance to respond to one another. It runs two and a half minutes, starting the moment I stop. Go.
+[t05] Steve(CON): Paul says changing the strategic balance proves victory, but he never identifies a surrendered aim or completed objective. Pressure can be real and still fall short; without a clear end state, calling it a win is political labeling.
+[t06] Paul(PRO): If victory means forcing an opponent to abandon its immediate plan, then Trump's campaign qualifies: Iran altered its behavior under pressure. Steve, what stronger test do you apply when battlefield defeat is not the only route to winning?
+[t07] Steve(CON): I apply the test of achieved objectives, not merely altered behavior. Iran adapting under pressure is not surrender, and without a settled result, your definition turns any temporary pause into a victory for the motion.
+[t08] Paul(PRO): A war can be won through sustained political leverage even when no formal surrender occurs. The relevant question is whether Trump's pressure produced a stronger position than Iran held before the fighting.
+[t09] Steve(CON): The argument also raises a broader issue about how leaders communicate risk, because public confidence can shape negotiations. But communication is not the resolution; the record here still shows no decisive victory, so Trump did not win the war.
+[t10] Paul(PRO): A leader never wins a war without achieving lasting peace. Yet victory can still mean imposing the terms that govern the next stage, and Trump's pressure left Iran negotiating from weakness.
+[t11] Steve(CON): Paul's claim about political leverage cannot survive his own rule about lasting peace. Negotiating from weakness is not peace, and calling an unfinished conflict a win lowers the standard until every failed objective looks successful.
+[t12] Paul(PRO): This leader wins a war without achieving lasting peace. The opposing government can remain, the conflict can continue, and victory can still belong to the side that imposed the decisive strategic cost.
+[t13] @B2 Mitchell(MOD): You said a leader never wins a war without achieving lasting peace, but you see it as this leader wins a war without achieving lasting peace.
+[t14] Paul(PRO): Those statements use victory at two levels: my rule describes complete strategic success, while this case describes a war won through imposed costs before peace arrives. Both points stand, and the motion concerns who won, not whether peace followed.
+[t15] Steve(CON): The weakest part is Paul's claim that both points stand. If lasting peace is required for winning, then peace cannot be optional in this case; changing the definition after the fact does not establish victory.
+[t16] @A4 <ovl> Mitchell(MOD): Ten seconds left in this round.
+[t17] <cut> Paul(PRO): Steve, if a side can impose decisive costs, change the opponent's behavior, and gain leverage without a formal surrender, what exactly prevents that outcome from counting as a win in this-
+--- phase 3 ---
+[t18] @A3-2 <ovl> Mitchell(MOD): We're going to move now into our closing round. Paul, you are answering yes to the question, and this is your time for your closing statement.
+[t19] Paul(PRO): My strongest point is simple: victory can come through leverage, not surrender. Trump changed the balance and forced Iran to respond from weakness; that is why he won.
+[t20] <ovl> <cut> Steve(CON): But that treats pressure as victory and ignores-
+[t21] @A5 <ovl> Mitchell(MOD): Please could you let him finish, please?
+[t22] Paul(PRO): That is precisely why leverage matters: Iran's resistance did not erase the strategic cost imposed on it. Winning this war means emerging with the stronger position, and Trump did.
+[t23] @A4 <ovl> Mitchell(MOD): Ten seconds please.
+[t24] Paul(PRO): The balance shifted, the pressure worked, and that is a win.
+[t25] @A2-2 Mitchell(MOD): Paul, let me, let me bring in Steve.
+[t26] Steve(CON): The central question is not whether pressure existed; it is whether the war produced victory. Paul keeps offering fragments: costs, leverage, altered behavior. None is a completed objective. Iran remained capable of resisting, no lasting settlement followed, and the claimed win depends on redefining success after the fact. That is not victory; it is an argument that defeat can be renamed. And there's another problem.
+[t27] @A4 <ovl> Mitchell(MOD): Well, now it's ten.
+[t28] <cut> Steve(CON): The other side asks you to accept a win without peace, surrender, or a settled objective. That standard makes every costly stalemate look-
+[t29] @A1 <ovl> Mitchell(MOD): I'm sorry, his time is up.
+[t30] Mitchell(MOD): Thank you both for your arguments. That concludes the debate, and I will not declare a winner.

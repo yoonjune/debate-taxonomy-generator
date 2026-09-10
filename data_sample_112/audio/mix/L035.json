@@ -1,0 +1,459 @@
+{
+ "debate_id": "L035",
+ "motion": "Spy on me, I'd rather be safe",
+ "speakers": {
+  "MOD": {
+   "name": "Amy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  },
+  "PRO": {
+   "name": "Hina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2943_167",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2943/MSP-PODCAST_2943_167.wav",
+   "wpm": 160.94
+  },
+  "CON": {
+   "name": "Cecilia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5920_66",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5920/MSP-PODCAST_5920_66.wav",
+   "wpm": 171.3
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 86.49,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 318.66,
+ "ext": {
+  "a32": {
+   "file": "L035_ext_a32.wav",
+   "place_at_sec": 232.272,
+   "dur_sec": 21.1,
+   "src_i": 25
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 26,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "What should I choose when credible danger exists and privacy cannot reveal it: accept limited spying, or risk preventable harm? Choosing protection in that case is why I support the motion."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.16,
+   "dur_sec": 19.16,
+   "overlap": false,
+   "text": "The motion is, \"Spy on me, I'd rather be safe.\" Hina supports it, while Cecilia opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue, and I may stop anyone who runs past the time or breaks the rules."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.36,
+   "end_sec": 28.97,
+   "dur_sec": 9.61,
+   "overlap": false,
+   "text": "I support the motion because careful monitoring can prevent serious harm before it reaches me. Safety sometimes requires giving up a little privacy."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 28.07,
+   "end_sec": 30.37,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But giving up privacy is not a little thing-",
+   "cut_at_sec": 30.37,
+   "full_dur_sec": 8.81,
+   "ext_file": "L035_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 29.57,
+   "end_sec": 31.53,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Just let her finish, please."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 31.73,
+   "end_sec": 41.98,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "Privacy matters, but protection matters more when a real danger is possible. Limited, accountable observation can spot threats early without treating every personal moment as suspicious."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.36,
+   "end_sec": 40.96,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 42.18,
+   "end_sec": 48.03,
+   "dur_sec": 5.85,
+   "overlap": false,
+   "text": "If sensible safeguards reduce serious danger, accepting some observation is the safer choice."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 48.23,
+   "end_sec": 49.83,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Cecilia has the floor."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 50.03,
+   "end_sec": 70.39,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "I oppose the motion because safety is not guaranteed by constant surveillance. Spying can misread innocent behavior, expose private information, and make people afraid to speak freely. A watched person may obey, but obedience is not the same as security. Real safety needs trust, clear limits, and a genuine reason for scrutiny, not suspicion aimed at everyone."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 70.03,
+   "end_sec": 71.27,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 70.59,
+   "end_sec": 79.32,
+   "dur_sec": 8.73,
+   "overlap": false,
+   "text": "Even well-meant spying can spread beyond its original purpose. I would rather protect safety through specific evidence and fair oversight than surrender privacy as a habit."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 79.52,
+   "end_sec": 86.49,
+   "dur_sec": 6.97,
+   "overlap": false,
+   "text": "And now we move on to more free-wheeling discussion. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 86.69,
+   "end_sec": 97.74,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "No, the premise is not that all spying is harmless; the point is that justified monitoring can protect me. If a credible threat exists, refusing every intrusion puts privacy above safety."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 97.981,
+   "end_sec": 108.551,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "I grant that a credible threat may justify investigation, but that is narrower than spying on me generally. Broad surveillance creates errors and fear, so privacy remains the safer default."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 109.373,
+   "end_sec": 119.543,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "Would you really reject monitoring when there is a clear warning that someone may harm me? If your answer is no, you already accept that safety can outweigh privacy."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 120.158,
+   "end_sec": 132.488,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "People also worry about who controls the information and how long it remains available. Those concerns reach beyond one private dispute, but they return us to the motion: spying is not automatically the safer choice."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 133.005,
+   "end_sec": 144.135,
+   "dur_sec": 11.13,
+   "overlap": false,
+   "text": "The control concern does not defeat my point about prevention. The safer response is supervised spying with strict limits, because refusing useful warnings can leave danger invisible until it is too late."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 145.013,
+   "end_sec": 155.663,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "The weakest point is the promise that supervision solves misuse. Supervisors can still misunderstand context or abuse access, and the person watched may never know; that uncertainty makes privacy safer."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 156.175,
+   "end_sec": 166.025,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "When there is specific evidence of an immediate threat, spying can be the safer choice because it may reveal danger before harm occurs. That is protection, not curiosity."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 166.342,
+   "end_sec": 177.382,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "I accept that targeted monitoring may help in an immediate crisis, but most people are not facing one. Turning that exception into a general preference makes ordinary privacy the safer rule."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 178.29,
+   "end_sec": 187.93,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "Safety should guide the choice whenever personal privacy and serious protection genuinely collide. Even outside emergencies, accepting limited observation can prevent risks that would otherwise remain hidden."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 188.13,
+   "end_sec": 199.89,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Imagine a private message misunderstood as a threat; spying exposes intimate details, spreads suspicion, and damages an innocent person's relationships and freedom. That proves surveillance can create the harm it claims to preve-"
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 198.99,
+   "end_sec": 209.0,
+   "dur_sec": 10.01,
+   "overlap": true,
+   "text": "No, that example assumes spying is careless. A proper review can distinguish a misunderstood message from a real threat, while no review leaves me unable to prevent danger."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 209.878,
+   "end_sec": 220.208,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "That answer depends on perfect judgment, which no review can provide. Even a careful process can expose harmless details and impose fear, so avoiding unnecessary spying protects people better."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 220.665,
+   "end_sec": 231.395,
+   "dur_sec": 10.73,
+   "overlap": false,
+   "text": "The question is not whether judgment is perfect; it is whether safeguards can make monitoring worthwhile. If a serious risk is plausible, a narrow search can protect me better than blindness."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 226.49,
+   "end_sec": 229.82,
+   "dur_sec": 3.33,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 26,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 232.272,
+   "end_sec": 237.29,
+   "dur_sec": 5.018,
+   "overlap": false,
+   "text": "I grant that a narrow search can sometimes find danger, but possibility alone cannot justify watching-",
+   "ext_file": "L035_ext_a32.wav",
+   "cut_at_sec": 237.29,
+   "full_dur_sec": 10.17
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 236.49,
+   "end_sec": 246.85,
+   "dur_sec": 10.36,
+   "overlap": true,
+   "text": "Time's up. I want to move into our third round, which is basically closing statements from each of you. And Hina, you again, get to go first on this."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 247.05,
+   "end_sec": 266.98,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "The strongest point is prevention. Privacy is valuable, but it cannot protect me from a danger it hides. When monitoring is limited, justified, and reviewed, it can reveal threats early and give me a chance to act. I am not defending curiosity or unlimited access; I am defending safety when the risks are real."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 267.05,
+   "end_sec": 269.29,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 267.18,
+   "end_sec": 278.35,
+   "dur_sec": 11.17,
+   "overlap": false,
+   "text": "A careful society can set boundaries while still watching for serious danger. If the choice is modest intrusion or preventable harm, I would choose-",
+   "cut_at_sec": 278.35,
+   "full_dur_sec": 13.16,
+   "ext_file": "L035_031.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 277.55,
+   "end_sec": 281.48,
+   "dur_sec": 3.93,
+   "overlap": true,
+   "text": "You're out of time. And here to summarize her position, Cecilia."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.68,
+   "end_sec": 302.01,
+   "dur_sec": 20.33,
+   "overlap": false,
+   "text": "This motion turns a difficult exception into a personal rule. The real question is not whether spying can ever help; it is whether surrendering privacy should be our safer starting point. Surveillance can misread ordinary life, spread sensitive details, and chill honest speech. Safety built on constant suspicion leaves people less free and not necessarily safer."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 301.68,
+   "end_sec": 303.88,
+   "dur_sec": 2.2,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 34,
+   "src_i": 35,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 302.21,
+   "end_sec": 311.25,
+   "dur_sec": 9.04,
+   "overlap": false,
+   "text": "Choose evidence, warrants, and narrow investigations when danger is real. Do not make privacy the price of feeling secure; protecting both rights and safety is the wiser choice."
+  },
+  {
+   "i": 35,
+   "src_i": 36,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 311.45,
+   "end_sec": 318.66,
+   "dur_sec": 7.21,
+   "overlap": false,
+   "text": "Thank you both for your arguments. This debate is now closed, with the tension between privacy and safety left for consideration."
+  }
+ ]
+}

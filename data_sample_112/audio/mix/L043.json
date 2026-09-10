@@ -1,0 +1,347 @@
+{
+ "debate_id": "L043",
+ "motion": "We should legalize the market for human organs",
+ "speakers": {
+  "MOD": {
+   "name": "Joshua",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4043_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4043/MSP-PODCAST_4043_33.wav",
+   "wpm": 168.26
+  },
+  "PRO": {
+   "name": "Rima",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "CON": {
+   "name": "Emma",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0930_576",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0930/MSP-PODCAST_0930_576.wav",
+   "wpm": 181.81
+  }
+ },
+ "selective": [
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 77.96,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 266.49,
+ "ext": {
+  "a32": {
+   "file": "L043_ext_a32.wav",
+   "place_at_sec": 215.76,
+   "dur_sec": 32.26,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "You argue that enforcement alone cannot solve pressure, but prohibition leaves pressure in an unregulated market. Legal rules can ban coercion, require independent consent, and provide care, so legalization offers the safer response."
+  },
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "If money determines who can obtain an organ, how can you call the system fair when a poor patient's life depends on a wealthy patient's budget?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.11,
+   "dur_sec": 17.11,
+   "overlap": false,
+   "text": "Welcome. Today we debate whether we should legalize the market for human organs. Rima argues for the motion, and Emma argues against it. Each side gets thirty seconds to open, then two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.31,
+   "end_sec": 30.91,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "Legalizing organ sales can replace dangerous black markets with clear rules, screening, and consent. It can let people choose a lawful exchange while helping patients who might otherwise wait helplessly. Regulation is safer than pretending demand will disappear."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 31.11,
+   "end_sec": 33.07,
+   "dur_sec": 1.96,
+   "overlap": false,
+   "text": "Go ahead. Go ahead, Emma."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 33.27,
+   "end_sec": 53.55,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "A market would turn human need into bargaining power. People with money could treat bodies as inventory, while people in poverty might feel pushed toward surgery they cannot safely refuse. Consent is not truly free when rent, food, or family survival depends on a buyer's offer. Even careful rules cannot remove that pressure, and private profit would reward cutting corners. The central danger is coercion and exploitation."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 53.27,
+   "end_sec": 55.21,
+   "dur_sec": 1.94,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.75,
+   "end_sec": 62.71,
+   "dur_sec": 8.96,
+   "overlap": false,
+   "text": "Organs are not ordinary goods, because sellers bear lasting physical risks while buyers gain life itself. Donation should remain an act of solidarity, not a transaction that prices desperate bodies."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 62.91,
+   "end_sec": 77.96,
+   "dur_sec": 15.05,
+   "overlap": false,
+   "text": "And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 78.16,
+   "end_sec": 86.71,
+   "dur_sec": 8.55,
+   "overlap": false,
+   "text": "If a poor person accepts payment because her family may go hungry without it, what makes that choice genuinely voluntary rather than economic coercion?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 87.702,
+   "end_sec": 100.142,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Yes, payment can reflect a serious sacrifice, much like compensation for other risky work. Hospitals would still need strict oversight and follow-up care. Bringing that exchange into law makes organ access safer and more accountable."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 100.691,
+   "end_sec": 112.811,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "That premise is false: legality does not make a desperate choice free. Oversight can inspect surgery, but it cannot erase hunger, unequal bargaining power, or the pressure that makes selling an organ seem necessary."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 113.495,
+   "end_sec": 126.655,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "A neighboring issue is how society should fund transplant care. Public insurance, sliding fees, and emergency assistance can widen access, while hospitals can coordinate donors and recipients through transparent rules. Those policies protect fairness in medical access."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 126.855,
+   "end_sec": 134.465,
+   "dur_sec": 7.61,
+   "overlap": false,
+   "text": "No, we should legalize the market for human organs, we should legalize the market for human organs. Those are the key words."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 134.665,
+   "end_sec": 145.705,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Every organ donation should remain unpaid. But a regulated organ market can distinguish a voluntary gift from a paid exchange, giving adults another lawful path while keeping medical safeguards in place."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 146.255,
+   "end_sec": 158.775,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "You say every organ donation should remain unpaid, yet your proposal depends on paying for organs. Calling the transaction a market does not remove its pressure; it turns desperation into supply, so legalization remains unsafe."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 159.583,
+   "end_sec": 169.223,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "This organ donation should be paid. A consenting adult who accepts a regulated payment deserves protection, and denying that option leaves the exchange hidden and more dangerous."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 169.423,
+   "end_sec": 176.873,
+   "dur_sec": 7.45,
+   "overlap": false,
+   "text": "So one moment it's every organ donation should remain unpaid and the next moment it's this organ donation should be paid?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 177.073,
+   "end_sec": 188.473,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "The first statement describes a gift, where no payment belongs; the second describes a market transaction, where payment is the defining feature. Keeping both categories clear supports a lawful market with safeguards."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 189.18,
+   "end_sec": 201.51,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "Those categories do not remove the power imbalance between them. A market still invites vulnerable people to sell body parts, while wealthy recipients gain priority through money, so the proposal makes inequality part of treatment."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.255,
+   "end_sec": 214.775,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Imagine a screened adult receives fair payment, lifelong medical follow-up, and an enforceable contract instead of meeting an anonymous broker. That lawful route can replace hidden risks with accountability, proving regulation is safer than prohibition."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 215.76,
+   "end_sec": 227.05,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "I grant that hidden brokers can harm people, and better enforcement is useful. But legal payment would expand the incentive to recruit desperate sellers; preventing that exploitation requires rejecting the market itself.",
+   "ext_file": "L043_ext_a32.wav"
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 217.96,
+   "end_sec": 220.28,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left on the clock."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 227.96,
+   "end_sec": 236.53,
+   "dur_sec": 8.57,
+   "overlap": true,
+   "text": "Time's up. So that concludes the conversation portion. And now we're going to go to a closing round. And Rima, it goes to you first."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 236.73,
+   "end_sec": 248.85,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "This debate turns on whether we control demand or abandon it to secrecy. Legalization can require consent, screening, follow-up care, and penalties for coercion. A regulated market protects people better than a forbidden one."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 249.05,
+   "end_sec": 250.65,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Emma, over to you."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 250.85,
+   "end_sec": 262.97,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "The decision turns on whether desperation can become a fair bargain. It cannot. Payment makes poverty a reason to risk permanent harm, while wealth buys access, so human organs should remain outside the market."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 263.17,
+   "end_sec": 266.49,
+   "dur_sec": 3.32,
+   "overlap": false,
+   "text": "Thank you both for your arguments; that concludes the debate."
+  }
+ ]
+}

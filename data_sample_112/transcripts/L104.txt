@@ -1,0 +1,36 @@
+L104  |  Taiwan is indefensible.
+  MOD=Danielle   PRO=Russell   CON=Jillian
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Danielle(MOD): Welcome to our debate on the motion, Taiwan is indefensible. Russell argues for the motion, and Jillian argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. We then have thirty-second closings, with a ten-second cue.
+[t01] Russell(PRO): Taiwan may resist, but resistance is not the same as being defensible. A stronger attacker can isolate it, disrupt supplies, and dictate the timing of any fight. When survival depends on outside rescue arriving under pressure, its defense is fundamentally insecure.
+[t02] @A2-2 Danielle(MOD): Jillian, take the response.
+[t03] Jillian(CON): Indefensible means no workable defense, not merely a difficult one. Taiwan can prepare its terrain, population, and forces to make attack costly and uncertain. If an attacker cannot secure control without unacceptable risk, the island is defensible.
+--- phase 2 ---
+[t04] @A3-1 Danielle(MOD): And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. It runs two and a half minutes, starting the moment I stop. Go.
+[t05] Russell(PRO): A blockade can stop fuel, food, and repair parts before a landing begins. Families and defenders then face shortages without a direct battle. That proves Taiwan can be coerced into defeat.
+[t06] Jillian(CON): On your blockade point, shortages are serious, but they do not equal surrender. Stockpiles, dispersed distribution, and local production can keep resistance alive. A blockade proves pressure, not indefensibility.
+[t07] Russell(PRO): Those stockpiles must move through ports, trucks, depots, and neighborhood delivery routes. Then officials must decide who receives scarce fuel first, and warehouse managers must track spoiled goods.
+[t08] @B1 Danielle(MOD): But we're getting a little bit off the central question of whether taiwan is defensible.
+[t09] Russell(PRO): The central question is whether Taiwan can sustain defense against determined attack, and those supply links are vulnerable. Preparation merely creates targets an attacker can steadily exhaust. That leaves Taiwan indefensible.
+[t10] Jillian(CON): Civil defense also builds trust between neighbors, though training schedules and emergency radios are not the main issue. The main issue is whether control can be denied. Prepared communities make occupation and conquest far harder.
+[t11] Russell(PRO): No island facing a stronger power is ever defensible. Distance lets the stronger power choose blockade, strikes, or landing pressure while defenders wait. Taiwan faces that basic disadvantage.
+[t12] Jillian(CON): A defender using hidden coastal positions can force an approaching force to slow, scatter, and abandon exposed equipment. That delay lets local units respond and civilians move. It proves Taiwan can deny quick conquest.
+[t13] Russell(PRO): This island facing a stronger power is defensible. Its defenders can exploit difficult terrain and prepared positions, even while their wider situation remains grim. That still supports the motion.
+[t14] @B2 Danielle(MOD): One moment you're saying no island facing a stronger power is ever defensible, then you're having them this island facing a stronger power is defensible. Which?
+[t15] Russell(PRO): I mean the first claim as a judgment about lasting military survival, while the second describes defenses that impose costs. Both can be true because costly resistance does not produce secure defense.
+[t16] <cut> Jillian(CON): I grant that outside help may arrive slowly, but your main claim wrongly treats delay as defeat. A defender needs only prevent lasting control, and Taiwan can make control-
+[t17] <ovl> Russell(PRO): How can denying lasting control matter if civilians lose fuel, communications, and safe movement first? Your standard ignores the human cost of waiting for an attacker to leave. That confirms indefensibility.
+[t18] Jillian(CON): No, denying control does not ignore civilians; it protects them from imposed rule. Your human-cost premise assumes collapse is inevitable. Organized local defense preserves choices and makes conquest fail.
+[t19] @A4 <ovl> Danielle(MOD): Ten seconds to go in this round.
+--- phase 3 ---
+[t20] @A3-2 <ovl> Danielle(MOD): We've come up against the clock, so we're going to move now to our closing statements. Russell, the stage is all yours.
+[t21] Russell(PRO): Jillian's best argument is that preparation can deny an attacker quick control. But slowing an attack is not the same as securing survival. Taiwan remains dependent on vulnerable supply lines and outside decisions. Those weaknesses let a stronger power choose pressure until defense fails.
+[t22] <cut> Russell(PRO): The question is not whether defenders can fight courageously. It is whether they can reliably prevent coercion, isolation, and eventual loss of control. When every lifeline can be squeezed-
+[t23] @A4 <ovl> Danielle(MOD): Ten seconds, ten seconds.
+[t24] @A2-1 <ovl> Danielle(MOD): That's time, Russell. Thank you. Jillian.
+[t25] Jillian(CON): This decision turns on what indefensible actually means. Russell shows that Taiwan faces danger, isolation, and painful tradeoffs, but danger is not impossibility. Defense succeeds when it denies an attacker reliable control at acceptable risk. Prepared people, dispersed forces, and difficult access can do exactly that.
+[t26] @A4 <ovl> Danielle(MOD): Ten seconds warning.
+[t27] Jillian(CON): A hard defense remains a defense, so Taiwan is not indefensible.
+[t28] Danielle(MOD): Thank you, Russell and Jillian, for a thoughtful debate. That concludes our discussion of this motion.

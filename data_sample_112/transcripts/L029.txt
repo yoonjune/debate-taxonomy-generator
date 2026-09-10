@@ -1,0 +1,39 @@
+L029  |  It is time for the Arab League to disband
+  MOD=Chloe   PRO=Nicholas   CON=Pamela
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Chloe(MOD): Tonight's motion is, It is time for the Arab League to disband. Nicholas supports the motion, and Pamela opposes it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire. Then each gives a thirty-second closing, with a ten-second cue before each limit. I will enforce those times.
+[t01] Nicholas(PRO): The Arab League has had decades to turn shared language into dependable action, yet its members still face crises without a united response. A body that cannot coordinate diplomacy, prevent escalation, or deliver meaningful decisions becomes a symbol rather than a solution. Keeping it alive consumes attention that better regional cooperation could use
+[t02] @A4 <ovl> Chloe(MOD): Ten seconds please.
+[t03] Nicholas(PRO): Disbanding it would clear space for a smaller, more honest arrangement built around results.
+[t04] @A2-2 Chloe(MOD): And let Pamela respond.
+[t05] Pamela(CON): The Arab League is imperfect, but imperfection does not prove that disbanding it is wise. It gives neighboring states a standing forum, preserves communication when relations are tense, and keeps regional concerns visible. Removing that forum would not erase conflict; it would remove one channel for managing it. Reform is difficult, but disappearance is irreversible
+[t06] @A4 <ovl> Chloe(MOD): You have ten seconds.
+[t07] Pamela(CON): A weak institution can be repaired; a vanished institution cannot help anyone. The motion confuses frustration with a sound solution.
+--- phase 2 ---
+[t08] @A3-1 Chloe(MOD): That concludes round one. We're in round two where the debaters are going to be able to talk directly to each other. Two and a half minutes on the clock, starting the moment I stop talking.
+[t09] Nicholas(PRO): You say the League's forum has value, but a forum that repeatedly produces no common action cannot justify its continued existence. Communication alone is not enough when the structure blocks more effective cooperation.
+[t10] Pamela(CON): No regional institution should ever be abandoned. The League's flaws call for reform, because continuity preserves dialogue that sudden disbanding would destroy.
+[t11] Nicholas(PRO): You claim continuity preserves dialogue; what concrete function requires this League rather than a redesigned forum with clearer duties and real consequences?
+[t12] Pamela(CON): This regional institution should be abandoned, but the League should remain. Its problems demand a different structure, not the disappearance of the region's shared table.
+[t13] @B2 Chloe(MOD): But doesn't your argument for no regional institution should ever be abandoned fight your argument that this regional institution should be abandoned?
+[t14] Pamela(CON): Those statements distinguish a failing structure from the purpose it serves: discard an ineffective institution in principle, while preserving this League's forum through reform. The League can change without vanishing, so I still oppose disbanding it.
+[t15] Nicholas(PRO): If the League cannot coordinate during a serious regional crisis, disbanding it becomes responsible rather than reckless. That condition is already met whenever members treat its decisions as optional.
+[t16] Pamela(CON): People also argue about its ceremonies and public image, but symbolism is not the central issue. The real question is whether reform can make the forum useful, and that possibility means disbanding it is premature.
+[t17] Nicholas(PRO): Any body that repeatedly fails its essential duty loses its claim to continue, even if some conversations remain useful. A few meetings cannot outweigh a structure that cannot produce collective action.
+[t18] <cut> Pamela(CON): If occasional failure makes an institution illegitimate, why should any regional forum survive its first serious crisis, and why not reform the League instead of-
+[t19] <ovl> Nicholas(PRO): I reject that premise: this is not one crisis but a continuing failure. Reform has been the standing excuse, while the League's existence keeps delaying a structure that could actually work.
+[t20] Pamela(CON): Imagine rival governments refusing contact after a sudden border clash; the League's permanent channel lets them meet before threats become fighting. That practical contact proves preserving the League can prevent worse harm.
+[t21] Nicholas(PRO): Your example proves only that contact matters, not that this institution must provide it. A hotline, council, or temporary coalition could create contact without preserving a failing shell.
+[t22] Pamela(CON): You dismiss the institution as a shell, but replacing it during a crisis would create dangerous delay and uncertainty. The existing channel is available now, so reform is safer than disbanding it.
+[t23] @A4 <ovl> Chloe(MOD): Ten seconds left in this round.
+[t24] <cut> Nicholas(PRO): No, keeping an available channel does not prove this League deserves-
+--- phase 3 ---
+[t25] @A3-2 <ovl> Chloe(MOD): And that's time. And now we move on to round three. And here making his closing statement in support of the motion, Nicholas.
+[t26] Nicholas(PRO): The strongest point is simple: dialogue is not the same as effective cooperation. Pamela's examples show that contact matters, but they do not show that the Arab League is the right vessel for it. A structure that repeatedly fails to act becomes an obstacle, because it encourages leaders to mistake meetings for progress. Disbanding it would make room for clearer commitments and accountable regional work
+[t27] @A4 <ovl> Chloe(MOD): You've got ten seconds.
+[t28] <cut> Nicholas(PRO): We should preserve the goal of cooperation, not protect an institution merely because it is familiar. The League has had its chance-
+[t29] @A2-1 <ovl> Chloe(MOD): Nicholas, that's your time. Thank you. And now, Pamela.
+[t30] Pamela(CON): The League's shortcomings are real, but disbanding it removes a standing channel without guaranteeing anything better. Reform preserves contact, memory, and the possibility of joint action. That is why this institution should change, not disappear.
+[t31] Chloe(MOD): Thank you both. The debate is closed, with no winner declared.

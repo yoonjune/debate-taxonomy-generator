@@ -1,0 +1,399 @@
+{
+ "debate_id": "L003",
+ "motion": "Income inequality impairs the American dream of upward mobility",
+ "speakers": {
+  "MOD": {
+   "name": "Helen",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0929_326",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0929/MSP-PODCAST_0929_326.wav",
+   "wpm": 180.84
+  },
+  "PRO": {
+   "name": "Christina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  },
+  "CON": {
+   "name": "Sarah",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4100_1134",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4100/MSP-PODCAST_4100_1134.wav",
+   "wpm": 166.01
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 81.0,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 306.58,
+ "ext": {
+  "a32": {
+   "file": "L003_ext_a32.wav",
+   "place_at_sec": 221.802,
+   "dur_sec": 35.06,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "That example proves mobility can happen, not that inequality leaves it unharmed. If beginning required scarce time, training, and a cushion, unequal income narrowed who could follow that path or recover."
+  },
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I grant that some people need a cushion to start, but unequal outcomes are not automatically failed mobility. The question is whether routes remain available, and they do; opportunity can turn effort into advancement."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.32,
+   "dur_sec": 17.32,
+   "overlap": false,
+   "text": "Today we debate whether income inequality impairs the American dream of upward mobility. Christina argues for the motion; Sarah argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each gives a thirty-second closing, with a ten-second cue before time ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.52,
+   "end_sec": 35.72,
+   "dur_sec": 18.2,
+   "overlap": false,
+   "text": "Income inequality does more than create different paychecks; it changes who can turn effort into a secure life. When wealth buys better schools, safer homes, time to train, and room to recover from mistakes, talent matters less. Upward mobility may remain possible, but inequality makes the American dream harder to reach."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 35.92,
+   "end_sec": 39.69,
+   "dur_sec": 3.77,
+   "overlap": false,
+   "text": "All right. Sarah, do you want to come back on that?"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 39.89,
+   "end_sec": 59.66,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "I agree that unequal resources can make some paths steeper, but that does not prove the dream is impaired. People still rise through persistence, skills, entrepreneurship, and choices that open new opportunities. Inequality can reflect different goals and rewards, while mobility measures whether someone can move ahead."
+  },
+  {
+   "i": 4,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 59.86,
+   "end_sec": 65.91,
+   "dur_sec": 6.05,
+   "overlap": false,
+   "text": "The possibility of rising keeps the dream alive for anyone willing to pursue it."
+  },
+  {
+   "i": 5,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 59.89,
+   "end_sec": 61.42,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 66.11,
+   "end_sec": 81.0,
+   "dur_sec": 14.89,
+   "overlap": false,
+   "text": "Okay. So now, we know where each of you stand and why. We'll be diving into discussion on our question, income inequality impairs the American dream of upward mobility. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 81.2,
+   "end_sec": 92.49,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "Possibility alone is not enough when starting points differ sharply. Saying people can rise ignores how unequal access to stability, preparation, and second chances filters who can actually convert effort into progress."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 93.126,
+   "end_sec": 105.056,
+   "dur_sec": 11.93,
+   "overlap": false,
+   "text": "I grant that starting resources can affect the route, but you treat each gap as a barrier. Unequal outcomes can coexist with real ladders, and those ladders keep upward mobility compatible with the dream."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 105.785,
+   "end_sec": 118.995,
+   "dur_sec": 13.21,
+   "overlap": false,
+   "text": "No, I do not treat each gap as a barrier; I mean accumulated barriers narrow access to ladders. If mobility depends on resources many families cannot secure, inequality is not merely different rewards; it impairs the dream."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 119.218,
+   "end_sec": 131.788,
+   "dur_sec": 12.57,
+   "overlap": false,
+   "text": "When a family faces sudden hardship and has no savings to absorb it, inequality can block a promising person's next step. Under that condition, the problem is not effort; it is unequal room to withstand failure."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 132.074,
+   "end_sec": 143.364,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "If equally capable people work equally hard, but only one can afford training after a setback, how is that equal chance rather than impaired mobility? Explain the ladder, not merely its existence."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 144.174,
+   "end_sec": 155.784,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "People do not need identical resources for mobility to exist. Even where hardship makes one next step harder, the broader system can still reward learning, initiative, and persistence with genuine chances to advance."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 156.252,
+   "end_sec": 169.142,
+   "dur_sec": 12.89,
+   "overlap": false,
+   "text": "Families also make choices about work, saving, and what risks to take, and those choices shape a household's path. But choices operate within unequal room to recover, so inequality still impairs the upward mobility the dream promises."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 169.55,
+   "end_sec": 183.08,
+   "dur_sec": 13.53,
+   "overlap": false,
+   "text": "I grant that recovery room matters, but you treat unequal capacity as proof mobility fails. A person can face a harder route and advance through skill, effort, and opportunity; a steeper route does not show the dream is-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 182.18,
+   "end_sec": 194.67,
+   "dur_sec": 12.49,
+   "overlap": true,
+   "text": "But a route made harder because wealth buys preparation is not merely different; it is a gate. When one setback ends one person's climb but barely slows another, inequality has impaired mobility, not just changed outcomes."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 195.046,
+   "end_sec": 208.016,
+   "dur_sec": 12.97,
+   "overlap": false,
+   "text": "I am answering the claim that a harder route is automatically a gate. It is not: people often build skills, find new work, or recover through support, so one setback cannot define the chance to move upward."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 208.562,
+   "end_sec": 221.132,
+   "dur_sec": 12.57,
+   "overlap": false,
+   "text": "If those ladders are genuinely open, why does access to training, time, and recovery track wealth so closely? Can you call mobility equally real when unequal income decides who can keep climbing after an ordinary setback?"
+  },
+  {
+   "i": 18,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 221.0,
+   "end_sec": 223.17,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 221.802,
+   "end_sec": 231.8,
+   "dur_sec": 9.998,
+   "overlap": false,
+   "text": "A person learns a trade, starts a small service, and hires help; unequal earnings there reflect expanded value, not blocked mobility. It proves income differences can reward progress-",
+   "ext_file": "L003_ext_a32.wav",
+   "cut_at_sec": 231.8,
+   "full_dur_sec": 11.6
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 231.0,
+   "end_sec": 235.36,
+   "dur_sec": 4.36,
+   "overlap": true,
+   "text": "Okay, time. Let's go to closing statements now. Christina, are you ready?"
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 235.56,
+   "end_sec": 257.17,
+   "dur_sec": 21.61,
+   "overlap": false,
+   "text": "Sarah's best point is that mobility still occurs, and I agree: people can rise. But a few success stories do not answer who gets the training, time, savings, and second chances that make rising possible. When unequal income controls those foundations, it narrows the ladder before effort begins. The motion asks whether inequality impairs the dream, not whether every path disappears."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 255.56,
+   "end_sec": 257.52,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 257.37,
+   "end_sec": 266.86,
+   "dur_sec": 9.49,
+   "overlap": false,
+   "text": "The dream is strongest when effort matters more than inherited room to maneuver. Judge the system by ordinary families' chances, not exceptional escapes; inequality-",
+   "cut_at_sec": 266.86,
+   "full_dur_sec": 13.93,
+   "ext_file": "L003_025.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 266.06,
+   "end_sec": 268.3,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "That's time, Christina. Thank you. Sarah."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 268.5,
+   "end_sec": 288.27,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "The issue turns on what the motion claims. If it says inequality can create obstacles, that is true; if it says inequality proves the dream is impaired, that is too broad. Mobility means moving ahead, and people do through learning, work, risk, and opportunity. Unequal rewards can accompany movement rather than destroy it."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 288.47,
+   "end_sec": 299.8,
+   "dur_sec": 11.33,
+   "overlap": false,
+   "text": "Inequality may make some journeys uneven, but uneven is not impossible. The dream survives when people gain skills, take risks, and improve their position; opportunity can remain real-",
+   "cut_at_sec": 299.8,
+   "full_dur_sec": 14.09,
+   "ext_file": "L003_029.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 288.5,
+   "end_sec": 289.87,
+   "dur_sec": 1.37,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 299.0,
+   "end_sec": 301.09,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "I'm sorry, I'm sorry. Hit time."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 301.29,
+   "end_sec": 306.58,
+   "dur_sec": 5.29,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate; this concludes the discussion without declaring a winner."
+  }
+ ]
+}

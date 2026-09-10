@@ -1,0 +1,401 @@
+{
+ "debate_id": "L030",
+ "motion": "Society should legalize psychedelics.",
+ "speakers": {
+  "MOD": {
+   "name": "Albert",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6582_423",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6582/MSP-PODCAST_6582_423.wav",
+   "wpm": 164.89
+  },
+  "PRO": {
+   "name": "Wendy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "CON": {
+   "name": "Ahmed",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5548_380",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5548/MSP-PODCAST_5548_380.wav",
+   "wpm": 161.43
+  }
+ },
+ "selective": [
+  "A1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 85.3,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 306.6,
+ "ext": {
+  "a32": {
+   "file": "L030_ext_a32.wav",
+   "place_at_sec": 233.921,
+   "dur_sec": 24.04,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "If strict screening and potency limits are essential to your proposal, why legalize psychedelics before every seller can reliably follow them? Wouldn't that gamble with vulnerable people while enforcement catches up?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 14.97,
+   "dur_sec": 14.97,
+   "overlap": false,
+   "text": "Tonight's motion is whether society should legalize psychedelics. Wendy supports it, while Ahmed opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue, then each speaker gets a thirty-second closing."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.17,
+   "end_sec": 35.45,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Criminal bans push adults toward unknown strength, unsafe settings, and underground sellers. Legalization can bring age limits, testing, clear labels, and emergency guidance into the open. It also lets people seek help without fearing arrest, while separating personal use from genuinely dangerous conduct. The goal is responsible access, not careless use."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 35.17,
+   "end_sec": 38.86,
+   "dur_sec": 3.69,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 35.65,
+   "end_sec": 40.94,
+   "dur_sec": 5.29,
+   "overlap": false,
+   "text": "A regulated system reduces preventable harm while respecting adult choice."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 41.14,
+   "end_sec": 43.55,
+   "dur_sec": 2.41,
+   "overlap": false,
+   "text": "Let's have Ahmed take this one."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 43.75,
+   "end_sec": 64.0,
+   "dur_sec": 20.25,
+   "overlap": false,
+   "text": "Psychedelics can distort judgment, trigger panic, and expose vulnerable people to lasting psychological harm. Legalization would make these risks easier to encounter, especially when commercial pressure rewards stronger products and wider sales. Rules cannot erase unpredictable reactions or guarantee safe supervision. Society should protect people before normalizing substances that can overwhelm them."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 63.75,
+   "end_sec": 65.6,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 64.2,
+   "end_sec": 72.61,
+   "dur_sec": 8.41,
+   "overlap": false,
+   "text": "Treatment and research can continue without broad legal access. Caution is the responsible policy when the harms can be permanent."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 72.81,
+   "end_sec": 85.3,
+   "dur_sec": 12.49,
+   "overlap": false,
+   "text": "And that concludes round one. Now, onto round two where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 85.5,
+   "end_sec": 98.87,
+   "dur_sec": 13.37,
+   "overlap": false,
+   "text": "If prohibition has failed to prevent use, why defend a system that leaves potency unknown and people afraid to seek medical help? What safer mechanism does your approach actually provide for adults who will use these substances anyway?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 99.817,
+   "end_sec": 114.707,
+   "dur_sec": 14.89,
+   "overlap": false,
+   "text": "Imagine an inexperienced user taking a powerful dose alone, panicking, and harming himself before help arrives. A legal market would make that decision seem ordinary, not safe. That example proves easier access can expand serious danger faster than safeguards can contain it."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 114.972,
+   "end_sec": 126.372,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "When access is limited to adults, products are tested, and guidance is required, legalization gives people safer information than prohibition does. Under those conditions, regulation reduces the risks your side leaves underground."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 127.249,
+   "end_sec": 140.129,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Even ordinary consumer rules are difficult to enforce when products vary and impairment is hard to measure. Families and workplaces then face difficult choices about responsibility and safety. Those enforcement problems still weigh against legalizing psychedelics."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 140.732,
+   "end_sec": 150.822,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "Legalization is broadly preferable to blanket prohibition because it replaces secrecy with standards, accountability, and avenues for help. That broader shift still includes strict limits where risk is highest."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 151.808,
+   "end_sec": 162.698,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "I reject the premise that replacing a ban with standards makes access safe; oversight can fail, labels can be ignored, and a frightened person may still take a dose that overwhelms-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.798,
+   "end_sec": 172.288,
+   "dur_sec": 10.49,
+   "overlap": true,
+   "text": "But failure of some safeguards does not justify preserving a system with none; regulated sellers can test products, explain risks, and connect users to help, which prohibition cannot do consistently."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 172.928,
+   "end_sec": 186.778,
+   "dur_sec": 13.85,
+   "overlap": false,
+   "text": "That same uncertainty affects workplace impairment policies, where supervisors must judge whether a person's conduct is dangerous or merely unusual. Disputes over discipline can damage trust, careers, and family stability, especially when employers lack reliable ways to interpret behavior."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 186.978,
+   "end_sec": 191.388,
+   "dur_sec": 4.41,
+   "overlap": false,
+   "text": "We'll call it society should legalize psychedelics for responsible adult use then."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 191.588,
+   "end_sec": 205.188,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "The motion asks whether society should legalize psychedelics, and the answer remains no because widespread access would increase exposure before institutions can manage impairment. A narrow research exception does not justify turning use into an ordinary legal option."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.099,
+   "end_sec": 218.979,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "You say legal access would increase exposure, but that assumes prohibition prevents exposure now. It does not; regulation can limit sales, require education, and make adverse reactions visible, while underground use hides both products and harms."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 219.601,
+   "end_sec": 233.451,
+   "dur_sec": 13.85,
+   "overlap": false,
+   "text": "Your weakest point is that visibility equals safety. A warning label cannot predict who will panic, lose judgment, or suffer lasting effects, and legal sellers still have incentives to encourage repeat use. Visibility does not remove the underlying danger."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 225.3,
+   "end_sec": 227.79,
+   "dur_sec": 2.49,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 233.921,
+   "end_sec": 236.1,
+   "dur_sec": 2.179,
+   "overlap": false,
+   "text": "I reject the premise that regulation merely-",
+   "ext_file": "L030_ext_a32.wav",
+   "cut_at_sec": 236.1,
+   "full_dur_sec": 12.8
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 235.3,
+   "end_sec": 240.03,
+   "dur_sec": 4.73,
+   "overlap": true,
+   "text": "Time. First we have closing statements. I will ask Wendy to speak first."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.23,
+   "end_sec": 257.52,
+   "dur_sec": 17.29,
+   "overlap": false,
+   "text": "Ahmed's best argument is that risks are unpredictable, but prohibition does not make those risks disappear. Legalization allows tested products, age limits, honest information, and help without fear of punishment. A regulated system is not perfect, but it is safer and more accountable than the underground system we have."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 257.72,
+   "end_sec": 266.21,
+   "dur_sec": 8.49,
+   "overlap": false,
+   "text": "Thank you, Wendy. And that is the motion, society should legalize psychedelics for responsible adult use. And here to argue against the motion, Ahmed."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.41,
+   "end_sec": 286.65,
+   "dur_sec": 20.24,
+   "overlap": false,
+   "text": "Wendy's strongest point is that regulation can improve information and access to help. But those safeguards cannot reliably predict panic, dangerous judgment, or lasting psychological effects, and legal markets create pressure to expand use. Research and treatment should remain available, yet that does not require ordinary legal access. Society should not normalize a risk it cannot control."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 286.41,
+   "end_sec": 289.27,
+   "dur_sec": 2.86,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 286.85,
+   "end_sec": 297.71,
+   "dur_sec": 10.86,
+   "overlap": false,
+   "text": "Good intentions cannot guarantee safe reactions or responsible sellers. Until those dangers can be managed reliably, keeping psychedelics illegal is the more cautious-",
+   "cut_at_sec": 297.71,
+   "full_dur_sec": 13.61,
+   "ext_file": "L030_029.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 296.91,
+   "end_sec": 299.99,
+   "dur_sec": 3.08,
+   "overlap": true,
+   "text": "I'm gonna cut you off just for time."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 300.19,
+   "end_sec": 306.6,
+   "dur_sec": 6.41,
+   "overlap": false,
+   "text": "Thank you both for taking part. That concludes this debate, with the question left for listeners to consider."
+  }
+ ]
+}

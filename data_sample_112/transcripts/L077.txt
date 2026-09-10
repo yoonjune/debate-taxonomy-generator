@@ -1,0 +1,37 @@
+L077  |  Alcoholics Anonymous works.
+  MOD=Franklin   PRO=Margaret   CON=Emma
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Franklin(MOD): Welcome. The motion is that Alcoholics Anonymous works. Margaret supports it, and Emma opposes it. Each speaker has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. Please address each other directly and keep remarks focused on the motion. I will enforce those limits fairly.
+[t01] Margaret(PRO): Alcoholics Anonymous works because it gives people a repeatable way to stop drinking and remain connected when urges return. Its meetings replace isolation with honest routine and people who understand the struggle. The program asks members to take responsibility one day at a time. That practical support deserves closer attention.
+[t02] <cut> Margaret(PRO): That choice matters. It gives people a place to return after a bad day and hear from others who understand. By turning private struggle into regular support, it helps members stay sober, especially when-
+[t03] @A4 <ovl> Franklin(MOD): Just, just about ten seconds left.
+[t04] @A2-1 <ovl> Franklin(MOD): Margaret, I have to stop you, that's time. Emma, go ahead.
+[t05] Emma(CON): Alcoholics Anonymous may help some people, but the motion says it works broadly and reliably. One format built around meetings, stories, and surrender cannot fit every person facing alcohol problems. Some need privacy, medical care, different beliefs, or a plan that does not make recovery depend on a group. That gap matters.
+[t06] @A4 <ovl> Franklin(MOD): I can give you ten seconds to wrap this round.
+[t07] Emma(CON): A helpful option is not the same as a method that works for everyone reliably.
+--- phase 2 ---
+[t08] @A3-1 Franklin(MOD): And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly. You have two and a half minutes, starting when I stop talking.
+[t09] Margaret(PRO): Your fit point mistakes a program's limits for failure. Alcoholics Anonymous does not promise identical results, but it works by offering a steady path and fellowship to people who choose it.
+[t10] Emma(CON): Meeting rooms need coffee, chairs, and volunteers, and those small duties can make a gathering feel welcoming. But welcome alone is not recovery; the motion fails because attendance cannot guarantee change.
+[t11] Margaret(PRO): You're right that a friendly room alone cannot cure anyone. But you reduce the program to attendance, while mutual accountability, guidance, and daily practices give willing members tools that make Alcoholics Anonymous work.
+[t12] Emma(CON): You call accountability a tool, but who unlocks the room, handles donations, and decides whether late arrivals disrupt the circle? Those practical burdens fall on volunteers, and arguments over schedules can exhaust them.
+[t13] @B1 Franklin(MOD): Come back to the whether Alcoholics Anonymous works for people with alcohol problems, will you?
+[t14] Emma(CON): Yes, the question is whether the program works, and forced participation reveals its weakness. No member should ever be pressured to speak; a recovery method built around group disclosure cannot work for everyone.
+[t15] Margaret(PRO): Forced participation is your weakest point, because Alcoholics Anonymous does not require every member to speak. You treat misuse by a group as the program itself, ignoring the choice and flexibility that let it work.
+[t16] Emma(CON): A silent member should be pressured to speak. If someone hides behind silence, firm group pressure may expose denial, yet that need for pressure shows Alcoholics Anonymous does not work as a reliable recovery method.
+[t17] @B2 Franklin(MOD): So one moment it's no member should ever be pressured to speak and the next moment it's a silent member should be pressured to speak?
+[t18] Emma(CON): Those statements fit because pressure can mean either coercion or a direct challenge from peers. I reject coercion, yet I support candid challenge; the ambiguity itself shows why this program cannot reliably work for everyone.
+[t19] Margaret(PRO): I agree that candid peers can sometimes break through denial. But calling a direct challenge incompatible with the program ignores consent and trust, while its enduring network helps people practice sobriety, so it works.
+[t20] Emma(CON): Consider a newcomer told to share painful memories before she is ready; she leaves, drinks, and avoids help afterward. Does that look like reliable help? It proves the program can be unsafe and unreliable.
+[t21] Margaret(PRO): No, it does not prove the program works; it proves that group failed its principles. Your example attacks bad conduct, not a voluntary support system that gives people accountability, belonging, and a workable path.
+[t22] @A4 <ovl> Franklin(MOD): Ten seconds, both of you.
+--- phase 3 ---
+[t23] @A3-2 <ovl> Franklin(MOD): And that's time. That concludes Round two of this debate. But first, on to round three, closing statements. First, to summarize her position in support of this motion, whether Alcoholics Anonymous works for people with alcohol problems, Margaret.
+[t24] Margaret(PRO): Emma's best argument is that a pressured newcomer may leave harmed, and that risk deserves care. But coercion violates the voluntary fellowship I defend, not its purpose. Alcoholics Anonymous works by joining accountability, shared experience, and repeated chances to choose sobriety.
+[t25] @A2-2 Franklin(MOD): Then Emma, it's yours.
+[t26] Emma(CON): Margaret says harmful meetings are merely bad versions of the program, but people cannot recover from an abstract ideal. They encounter actual rooms, social pressure, and uneven advice. A method that depends heavily on the right group and right moment cannot be called reliable. It may offer comfort, yet comfort is not proof.
+[t27] @A4 <ovl> Franklin(MOD): You have ten seconds left.
+[t28] Emma(CON): People deserve help that fits them without pressure or a single prescribed culture. Because this program cannot reliably provide that fit, the motion is false.
+[t29] Franklin(MOD): Thank you, Margaret and Emma, for a thoughtful debate. This concludes our discussion of whether Alcoholics Anonymous works today.

@@ -1,0 +1,428 @@
+{
+ "debate_id": "L000",
+ "motion": "This House has no confidence in Bahrain's promise to reform.",
+ "speakers": {
+  "MOD": {
+   "name": "Patrick",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6676_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6676/MSP-PODCAST_6676_448.wav",
+   "wpm": 170.22
+  },
+  "PRO": {
+   "name": "Carissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  },
+  "CON": {
+   "name": "Nate",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0177_72",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0177/MSP-PODCAST_0177_72.wav",
+   "wpm": 170.28
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 100.79,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 316.24,
+ "ext": {
+  "a32": {
+   "file": "L000_ext_a32.wav",
+   "place_at_sec": 242.931,
+   "dur_sec": 31.97,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Your demand for proportional confidence is fair, but it does not prove that confidence must be absent now. Existing changes and continued commitments justify cautious support, not a sweeping rejection."
+  },
+  {
+   "src_i": 25,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "When a promised safeguard exists only in official language and people cannot safely test it, the harm is continued fear disguised as reform. That proves this House should withhold confidence."
+  },
+  {
+   "src_i": 26,
+   "speaker": "CON",
+   "slot": "X16",
+   "text": "I grant that safeguards must be tested in practice, but limited evidence is still evidence. Bahrain's reform path deserves scrutiny and pressure, not a final verdict that denies genuine progress."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.53,
+   "dur_sec": 19.53,
+   "overlap": false,
+   "text": "Welcome to the debate on the motion, this House has no confidence in Bahrain's promise to reform. Carissa supports the motion, and Nate opposes it. Each side gets thirty seconds to open, followed by two and a half minutes of crossfire. Then each side gets thirty seconds to close. I will give a ten-second cue before each limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.73,
+   "end_sec": 39.81,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "Bahrain has promised reform before, yet the pattern has been delay, restriction, and selective change. A promise deserves confidence only when people can test it openly and safely. Instead, critics still face pressure, while official language asks us to trust intentions rather than results. That gap is the central reason this House should withhold confidence."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.73,
+   "end_sec": 41.18,
+   "dur_sec": 1.45,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.01,
+   "end_sec": 51.03,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "Nate may point to small adjustments, but limited gestures do not establish a reliable direction. Confidence cannot rest on announcements alone; it needs independent checks, visible rights, and consequences when promises-",
+   "cut_at_sec": 51.03,
+   "full_dur_sec": 17.4,
+   "ext_file": "L000_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 50.23,
+   "end_sec": 52.72,
+   "dur_sec": 2.49,
+   "overlap": true,
+   "text": "Your time is up. Thank you. Nate."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.92,
+   "end_sec": 73.23,
+   "dur_sec": 20.31,
+   "overlap": false,
+   "text": "This motion asks us to reject confidence entirely, but Bahrain's record is not simply frozen. Institutions have changed, laws can be revised, and public commitments create a basis for further progress. Reform is rarely immediate or perfect, yet dismissing every promise removes any incentive to continue. We should judge movement fairly, not demand perfection before recognizing it."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 72.92,
+   "end_sec": 73.33,
+   "dur_sec": 0.41,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 73.43,
+   "end_sec": 84.22,
+   "dur_sec": 10.79,
+   "overlap": false,
+   "text": "Carissa treats imperfect progress as proof of bad faith, but that confuses caution with failure. A promise can be credible when it opens space for gradual improvement and gives people a framework for-",
+   "cut_at_sec": 84.22,
+   "full_dur_sec": 18.4,
+   "ext_file": "L000_007.wav"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 83.42,
+   "end_sec": 86.71,
+   "dur_sec": 3.29,
+   "overlap": true,
+   "text": "I have to step in because we hit our time limit."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 86.91,
+   "end_sec": 100.79,
+   "dur_sec": 13.88,
+   "overlap": false,
+   "text": "That concludes round one. So, now, on to round two where the debaters can address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 100.99,
+   "end_sec": 110.22,
+   "dur_sec": 9.23,
+   "overlap": false,
+   "text": "You say promises cannot earn confidence without completed reform. Why should gradual legal and institutional changes count for nothing when they create routes to further progress?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 110.762,
+   "end_sec": 122.882,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "They do not count for nothing; they count as limited evidence. But your premise is wrong if you treat announced change as reliable reform, because Bahrain can reverse or narrow it without real accountability."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 123.315,
+   "end_sec": 134.785,
+   "dur_sec": 11.47,
+   "overlap": false,
+   "text": "A revised rule that lets families challenge an unfair decision gives people a practical remedy they lacked before. That kind of change shows promises can improve daily life, not merely decorate speeches-"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 133.885,
+   "end_sec": 144.325,
+   "dur_sec": 10.44,
+   "overlap": true,
+   "text": "No, a remedy on paper proves little if people fear using it; the real issue is whether Bahrain protects those who test the promise, which it has not shown."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 144.867,
+   "end_sec": 155.867,
+   "dur_sec": 11.0,
+   "overlap": false,
+   "text": "People also need stability while reforms develop, because sudden demands can unsettle services, courts, and ordinary life. That broader stability matters, but it still supports measured confidence in Bahrain's reform path."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 156.74,
+   "end_sec": 167.42,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Stability is the weakest part of that argument: repression can look stable while hiding unresolved grievances. Without public accountability, your measured confidence simply rewards quiet pressure and calls it progress."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 168.279,
+   "end_sec": 179.829,
+   "dur_sec": 11.55,
+   "overlap": false,
+   "text": "You are answering a claim I did not make. I am not praising silence; I am saying visible changes and continued engagement are stronger evidence than your blanket refusal to trust any promise."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 180.299,
+   "end_sec": 190.809,
+   "dur_sec": 10.51,
+   "overlap": false,
+   "text": "I reject the blanket characterization; I reject confidence because the evidence remains controlled and reversible. Engagement is useful, but it must be paired with consequences when Bahrain fails to reform."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 191.429,
+   "end_sec": 203.199,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "If outside partners attach conditions to every conversation, cooperation becomes harder and officials may retreat from useful changes. Clear diplomatic channels should therefore be designed to preserve trust and keep reform discussions productive."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 203.399,
+   "end_sec": 208.159,
+   "dur_sec": 4.76,
+   "overlap": false,
+   "text": "We are debating this house has no confidence in Bahrain's promise to reform."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 208.359,
+   "end_sec": 220.129,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "The motion asks whether confidence is justified, and continued engagement is part of that judgment. Bahrain's promises should be tested through dialogue and gradual results, so this House should not reject them outright."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 220.807,
+   "end_sec": 230.887,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "What concrete safeguard would make you withdraw confidence if Bahrain breaks this promise? Without a clear consequence, why should anyone treat your trust as more than hopeful language?"
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 231.224,
+   "end_sec": 241.974,
+   "dur_sec": 10.75,
+   "overlap": false,
+   "text": "Your question assumes confidence means unconditional trust, which it does not. We can support a reform direction while criticizing failures, so your demand for total withdrawal sets up a false choice."
+  },
+  {
+   "i": 23,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 240.79,
+   "end_sec": 242.39,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.931,
+   "end_sec": 251.59,
+   "dur_sec": 8.659,
+   "overlap": false,
+   "text": "I am not demanding unconditional distrust; I am demanding confidence proportionate to proof. Your position still offers no standard for deciding when promises have failed-",
+   "ext_file": "L000_ext_a32.wav",
+   "cut_at_sec": 251.59,
+   "full_dur_sec": 10.44
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 250.79,
+   "end_sec": 258.9,
+   "dur_sec": 8.11,
+   "overlap": true,
+   "text": "And that's time. All right, we're moving down to the home stretch in our final round. Carissa, you go first for this one as well."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.1,
+   "end_sec": 279.46,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Nate's best argument is that gradual change deserves cautious support. I agree that small changes matter, but they cannot carry the weight of confidence when access, accountability, and safety remain uncertain. Bahrain asks us to trust promises while limiting the means to verify them. This House is not declaring reform impossible; it is judging whether confidence is earned now."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 279.1,
+   "end_sec": 282.15,
+   "dur_sec": 3.05,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 28,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 279.66,
+   "end_sec": 288.62,
+   "dur_sec": 8.96,
+   "overlap": false,
+   "text": "A promise without protection for those who test it is only reassurance. Until Bahrain makes reform visible, durable, and accountable, withholding confidence is the responsible judgment."
+  },
+  {
+   "i": 29,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 288.82,
+   "end_sec": 292.35,
+   "dur_sec": 3.53,
+   "overlap": false,
+   "text": "Thanks very much, Carissa, and Nate you get the last word."
+  },
+  {
+   "i": 30,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 292.55,
+   "end_sec": 310.67,
+   "dur_sec": 18.12,
+   "overlap": false,
+   "text": "Carissa is right that promises must be tested, but she turns incomplete progress into grounds for rejecting confidence altogether. Bahrain's commitments can be challenged, strengthened, and judged over time. Cautious confidence keeps pressure and dialogue alive; total distrust throws away that leverage. The better verdict is to recognize reform while demanding more."
+  },
+  {
+   "i": 31,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 310.87,
+   "end_sec": 316.24,
+   "dur_sec": 5.37,
+   "overlap": false,
+   "text": "Thank you both for taking part; that concludes the debate, and no winner is being declared."
+  }
+ ]
+}

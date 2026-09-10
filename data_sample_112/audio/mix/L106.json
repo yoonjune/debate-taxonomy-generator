@@ -1,0 +1,364 @@
+{
+ "debate_id": "L106",
+ "motion": "It is better to have more domestic surveillance than to have another 9/11.",
+ "speakers": {
+  "MOD": {
+   "name": "Daphne",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5176_495",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5176/MSP-PODCAST_5176_495.wav",
+   "wpm": 178.76
+  },
+  "PRO": {
+   "name": "Gavin",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  },
+  "CON": {
+   "name": "Carissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 65.33,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 283.75,
+ "ext": {
+  "a32": {
+   "file": "L106_ext_a32.wav",
+   "place_at_sec": 211.92,
+   "dur_sec": 22.93,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Your weakest point is treating connection as proof. Separate warning signs can describe innocent lives, and linking them through broad surveillance invites false suspicion rather than the focused evidence that real prevention requires."
+  },
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Imagine investigators finding repeated messages about a crowded gathering, a route map, and material purchases. Connecting those clues early can stop the attack without punishing anyone, proving limited surveillance is the safer choice."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.64,
+   "dur_sec": 21.64,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion: is it better to have more domestic surveillance than to have another 9/11? Gavin argues for it, and Carissa argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Each side then has thirty seconds for closings, and I will give a ten-second cue before time ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.84,
+   "end_sec": 37.2,
+   "dur_sec": 15.36,
+   "overlap": false,
+   "text": "Preventing mass violence is a government's first duty. More domestic surveillance, limited to finding credible threats and checked by courts, can reveal preparation before people die. Privacy matters, but after another attack, lost lives cannot be restored; careful surveillance is the better choice."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 37.4,
+   "end_sec": 38.92,
+   "dur_sec": 1.52,
+   "overlap": false,
+   "text": "Let's hear from Carissa."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 39.12,
+   "end_sec": 52.72,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "The choice is false because surveillance can grow without stopping violence. Giving the state more access makes ordinary people suspects and creates power that will be misused. Security works best through focused investigation, not permanent watching of everyone."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 52.92,
+   "end_sec": 65.33,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 65.53,
+   "end_sec": 76.29,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Your weakest claim is that careful surveillance stays limited. Once officials collect private lives, the definition of a threat expands, and checks often arrive after the intrusion has already happened."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 76.64,
+   "end_sec": 88.84,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "You call oversight late, but oversight depends on actual records: who approved access, who reviewed it, and who stored it. That means training staff, securing offices, classifying documents, and building public trust in administration."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 89.04,
+   "end_sec": 95.08,
+   "dur_sec": 6.04,
+   "overlap": false,
+   "text": "But we're asking whether more domestic surveillance is better than another nine eleven. That's the question here."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 95.28,
+   "end_sec": 108.08,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "I reject the idea that administration is separate from whether surveillance is better than another nine eleven. The question is whether accountable tools that expose dangerous planning are preferable to preventable mass death, and they are."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 108.613,
+   "end_sec": 120.093,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "No resident should ever be watched without cause. Broad surveillance starts by collecting information before suspicion exists, so it reverses the basic duty to treat people as free unless evidence points otherwise."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 120.383,
+   "end_sec": 131.503,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Your no-watch-without-cause rule fails because evidence of a plan can be hidden across small, harmless-looking contacts. Limited pattern review supplies the cause for investigation; it does not make every resident guilty."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 131.774,
+   "end_sec": 142.134,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "This resident should be watched without cause. The alternative is not mass collection but investigators following conduct they can explain openly, which protects safety without making surveillance the default."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 142.334,
+   "end_sec": 149.494,
+   "dur_sec": 7.16,
+   "overlap": false,
+   "text": "They do no resident should ever be watched without cause or they should this resident should be watched without cause?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.694,
+   "end_sec": 160.814,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Both statements express the same demand: power must answer to human judgment. A universal warning rejects routine monitoring, while the individual statement recognizes a hard case; neither makes blanket surveillance better."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.204,
+   "end_sec": 173.724,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Data storage also needs strict deletion rules, because old information can become a temptation for officials. But those safeguards support my point: targeted domestic surveillance with limits is better than leaving a credible attack unseen."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 174.575,
+   "end_sec": 186.025,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "I grant that investigators need tools when danger is real. But your main claim turns every private life into a possible file, and that damage is not worth avoiding one catastrophe by-"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 185.125,
+   "end_sec": 197.325,
+   "dur_sec": 12.2,
+   "overlap": true,
+   "text": "Carissa, your file point ignores that a narrow system need not keep every detail forever. Review can flag a linked plan, prompt a warrant, and delete irrelevant material, preventing violence while preserving ordinary privacy."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 197.793,
+   "end_sec": 211.393,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "Your deletion point assumes officials will reliably erase what they collect. The harm occurs at collection too: people alter lawful speech when they know private contacts may be examined, so surveillance weakens the society it claims to defend."
+  },
+  {
+   "i": 18,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 205.33,
+   "end_sec": 206.57,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 211.92,
+   "end_sec": 216.13,
+   "dur_sec": 4.21,
+   "overlap": false,
+   "text": "Will you answer this: if investigators see separate warning signs that form-",
+   "ext_file": "L106_ext_a32.wav",
+   "cut_at_sec": 216.13,
+   "full_dur_sec": 11.04
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 215.33,
+   "end_sec": 225.33,
+   "dur_sec": 10.0,
+   "overlap": true,
+   "text": "It's just in time for us to go to our closing round. And Gavin, you are up first on that. Your closing remarks come now, it's your turn."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 225.53,
+   "end_sec": 246.81,
+   "dur_sec": 21.28,
+   "overlap": false,
+   "text": "This decision turns on what we owe people when a preventable catastrophe is forming. Carissa rightly fears unchecked power, but that is an argument for warrants, review, limits, and deletion, not blindness. A narrowly supervised system can connect warning signs before violence begins. The real choice is between accountable prevention and discovering too late that lives could have been saved."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 245.53,
+   "end_sec": 246.77,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Gavin."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 247.01,
+   "end_sec": 256.83,
+   "dur_sec": 9.82,
+   "overlap": false,
+   "text": "Privacy deserves protection, and every surveillance power must face clear boundaries. Yet boundaries do not erase the need to detect coordinated danger. When the evidence is scattered, refusing-",
+   "cut_at_sec": 256.83,
+   "full_dur_sec": 15.0,
+   "ext_file": "L106_025.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 256.03,
+   "end_sec": 259.75,
+   "dur_sec": 3.72,
+   "overlap": true,
+   "text": "Thank you. Time is up on that. And now Carissa."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 259.95,
+   "end_sec": 277.43,
+   "dur_sec": 17.48,
+   "overlap": false,
+   "text": "This motion turns on whether fear permits treating private life as raw material for the state. Prevention matters, but broad surveillance spreads suspicion, chills lawful life, and creates abuse before any attack occurs. Choose focused evidence and accountable investigation, because freedom is part of the security we are defending."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 277.63,
+   "end_sec": 283.75,
+   "dur_sec": 6.12,
+   "overlap": false,
+   "text": "Thank you, Gavin and Carissa, for a spirited debate on a difficult question; this concludes our discussion."
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+L013  |  Bitcoin is more than a bubble and here to stay.
+  MOD=Monica   PRO=Nadine   CON=Jerry
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Monica(MOD): Today we debate the motion, bitcoin is more than a bubble and here to stay. Nadine argues for it, and Jerry argues against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire. Then each side gets a thirty-second closing, with a ten-second cue.
+[t01] Nadine(PRO): Bitcoin is more than a bubble because it performs a real function: it lets people transfer value without relying on one central gatekeeper. Its price swings are serious, but volatility does not erase usefulness, growing acceptance, or the network built around it. This is an emerging asset, not merely empty excitement.
+[t02] @A4 <ovl> Monica(MOD): I can give you ten seconds to do this.
+[t03] Nadine(PRO): A bubble can burst and vanish; bitcoin has adapted through setbacks, proving durable value and lasting demand.
+[t04] @A2-2 Monica(MOD): Please, Jerry. That's where I was going next.
+[t05] Jerry(CON): Bitcoin may be useful to some people, but usefulness alone does not make its price sustainable. Its value depends heavily on new buyers believing they can sell higher, while its sharp swings expose that weakness. A technology can remain available and still fail as a lasting store of value.
+--- phase 2 ---
+[t06] @A3-1 Monica(MOD): Now we go on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Jerry(CON): When confidence drops, holders rush to sell and the price can collapse before ordinary users can react. That shows speculation drives bitcoin more than stable value, so it remains fundamentally bubble-like.
+[t08] Nadine(PRO): Your example shows price risk, not disappearance or uselessness. Markets can punish an asset while its network keeps serving users, which is why volatility does not prove bitcoin is only a bubble.
+[t09] Jerry(CON): When an asset's main appeal is resale rather than spending, its price rests on speculation. Bitcoin's limited everyday use means that condition applies here, so its market cannot prove lasting value.
+[t10] <cut> Nadine(PRO): You say resale is the main appeal, but that ignores people using bitcoin to move value, save outside fragile systems, and transact across borders. Those uses give it substance, even when prices fall, so your condition is-
+[t11] <ovl> Jerry(CON): But those uses remain tiny beside trading, and people accept bitcoin largely because they expect appreciation. A payment tool that behaves like a lottery ticket still supports my warning.
+[t12] Nadine(PRO): If bitcoin were only a lottery ticket, why would users keep transferring and holding it after repeated crashes? Doesn't continued use show a network with value beyond short-term speculation?
+[t13] Jerry(CON): No highly volatile asset should be trusted as everyday money. Even useful networks can exist without making their token a durable store of value, which is the broader problem here.
+[t14] Nadine(PRO): You quietly shift from bitcoin's survival to perfect stability. The motion does not require a fixed price; it asks whether bitcoin is more than a bubble and here to stay, and your own point admits the network can persist.
+[t15] Jerry(CON): The urgent issue is how governments should regulate digital assets, protect consumers, and prevent anonymous transfers from funding fraud. Clear licensing, reporting rules, and enforcement are needed before this market can be treated responsibly.
+[t16] @B1 Monica(MOD): Wait, can you frame your question more towards, to something that feeds into bitcoin is more than a bubble and here to stay?
+[t17] Jerry(CON): Bitcoin's future under the motion depends on whether its market can sustain trust beyond speculation, and weak consumer protection makes that trust fragile. Regulation cannot manufacture genuine value.
+[t18] Nadine(PRO): Consumer protection also matters for wallets and exchanges, but that is a separate safeguard, not proof of a bubble. Bitcoin's continuing use through failures shows a resilient system that can remain here.
+[t19] Jerry(CON): What makes you call bitcoin durable when its price and public interest depend so heavily on newcomers? Without constant fresh demand, what supports your claim that it will stay?
+[t20] @A4 <ovl> Monica(MOD): Ten seconds, both of you.
+[t21] <cut> Jerry(CON): That example proves only that transfers-
+--- phase 3 ---
+[t22] @A3-2 <ovl> Monica(MOD): Time. And now, we move on to Round three. Here up first in the round of closing statements, arguing for the resolution, Nadine.
+[t23] Nadine(PRO): Jerry's best point is that volatility can hurt people who treat bitcoin as a stable store of value. I agree that caution matters, but the motion does not promise stability. It asks whether bitcoin is more than a bubble and here to stay. Its functioning network, independent access, and persistent use answer yes. Bubbles depend on excitement alone; bitcoin has utility that remains after excitement fades.
+[t24] @A4 <ovl> Monica(MOD): Ten seconds warning.
+[t25] <cut> Nadine(PRO): Price swings can change who participates, but they do not erase the system or the reasons people use it. Bitcoin has become part-
+[t26] @A2-1 <ovl> Monica(MOD): You're out of time. And here to summarize his position, Jerry.
+[t27] Jerry(CON): Nadine says survival proves value, but mere survival proves little. A network can persist while its token remains dangerously speculative, and bitcoin still lacks stable everyday demand.
+[t28] <ovl> <cut> Nadine(PRO): That ignores real users and the network's independence-
+[t29] @A5 <ovl> Monica(MOD): Just let him finish, please.
+[t30] Jerry(CON): Let me finish the central distinction: usefulness does not guarantee a lasting price or lasting demand. If most holders await higher prices, the bubble remains the strongest explanation.
+[t31] @A4 <ovl> Monica(MOD): You have ten seconds left.
+[t32] Jerry(CON): Bitcoin may survive as technology, but the motion claims more: lasting value beyond a bubble, which remains unproven.
+[t33] Monica(MOD): Thank you both for the thoughtful debate. The debate is now closed.

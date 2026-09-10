@@ -1,0 +1,39 @@
+L033  |  Abolish the Death Penalty
+  MOD=Nick   PRO=Larry   CON=Christina
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Nick(MOD): Today we debate the motion, whether we should abolish the death penalty in our justice system. Larry argues for it, and Christina argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire. Then each gets a thirty-second closing, with a ten-second cue before time.
+[t01] Larry(PRO): The death penalty gives government an irreversible power it cannot safely use. Courts can be wrong, witnesses can lie, and evidence can be misunderstood. A prison sentence protects the public without making correction impossible. Abolition also rejects the idea that justice requires taking a life. We can condemn terrible crimes while keeping punishment humane and reversible.
+[t02] @A4 <ovl> Nick(MOD): I can give you ten seconds to wrap this round.
+[t03] <cut> Larry(PRO): Even when a crime is horrifying, execution adds no protection that permanent imprisonment cannot provide. It also risks turning a flawed verdict into a final-
+[t04] @A2-1 <ovl> Nick(MOD): Your time is up. Thank you. Christina.
+[t05] Christina(CON): The death penalty is not only about revenge; it recognizes the seriousness of deliberate killing and protects society from the worst offenders. Larry points to mistakes, but that supports careful trials and appeals, not automatic abolition. Some crimes are so calculated and destructive that permanent punishment may not match their gravity. Justice must consider victims as well as defendants.
+[t06] @A4 <ovl> Nick(MOD): Well, now ten.
+[t07] Christina(CON): Abolition also removes a punishment that can prevent a killer from ever returning to society. The state should retain that option for the most extreme cases.
+--- phase 2 ---
+[t08] @A3-1 Nick(MOD): And that concludes opening statements in this debate. And now we move on to Round two. In Round two, the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t09] Christina(CON): Larry treats every execution as an avoidable mistake, but that is not his actual argument. A serious legal process can distinguish uncertainty from overwhelming proof and reserve execution for the clearest cases.
+[t10] Larry(PRO): When reliable imprisonment can protect the public, execution is unnecessary and should be abolished. The state should not choose an irreversible punishment simply because a crime provokes understandable anger.
+[t11] Christina(CON): I reject the premise that imprisonment always protects the public equally, because some offenders may escape or kill inside prison. Abolition removes the strongest safeguard for exceptional cases.
+[t12] Larry(PRO): A justice system should not take an irreversible life when it can protect everyone through secure imprisonment. Punishment can be severe, lasting, and humane without making error impossible to repair.
+[t13] Christina(CON): Imagine a convicted killer who escapes custody and kills again; execution would have prevented that danger permanently. That example proves society needs the option of final protection.
+[t14] Larry(PRO): That escape example does not justify execution, because secure imprisonment can prevent release and protect people inside prison. The point is not whether danger matters; it is whether killing is necessary.
+[t15] Christina(CON): Security depends on locked doors, trained guards, working systems, and constant supervision. When one part fails, families suffer, officials investigate, and communities demand accountability for every broken promise.
+[t16] @B1 Nick(MOD): I feel we're getting a little bit off the topic of whether we should abolish the death penalty in our justice system. So, I want you to come in and bring it back around to that.
+[t17] Christina(CON): The motion still fails because abolition removes a final safeguard when imprisonment breaks down. A government that cannot guarantee perfect custody should not surrender its strongest protection.
+[t18] Larry(PRO): I reject the premise that imperfect custody makes execution necessary, because stronger confinement can address that risk without killing anyone. Abolition keeps punishment firm while leaving room to correct a wrongful conviction.
+[t19] Christina(CON): Families also face years of hearings, appeals, and uncertainty after a terrible crime. Those procedures matter, but the motion asks whether society should permanently discard its strongest punishment.
+[t20] Larry(PRO): A person wrongly convicted and executed cannot be freed, compensated, or reunited with family. Abolition prevents that irreversible harm, proving justice must leave room for correction.
+[t21] Christina(CON): Wrongful convictions are a real concern, but they argue for better evidence and review, not for treating every murderer as beyond the ultimate penalty. The motion weakens justice for the clearest cases.
+[t22] @A4 <ovl> Nick(MOD): Ten seconds left, then we go to closings.
+[t23] <cut> Larry(PRO): Christina calls abolition a weakness, yet permanent imprisonment still removes an offender from society. Her claim adds a second irreversible harm-
+--- phase 3 ---
+[t24] @A3-2 <ovl> Nick(MOD): Okay, time. Okay, now we're gonna pivot to our closing round. Larry, you are up first.
+[t25] Larry(PRO): The death penalty is unnecessary, irreversible, and vulnerable to human error. Permanent imprisonment protects society while allowing courts to correct mistakes. Abolishing execution gives justice strength without giving the state permission to kill.
+[t26] @A2-2 Nick(MOD): Would you like to take it, Christina? You started to speak.
+[t27] Christina(CON): The strongest point is public safety. Larry assumes imprisonment will always contain the most dangerous offenders, but systems fail and people can escape. The death penalty is not for ordinary crimes; it is reserved for the worst cases after serious review. Removing it entirely leaves society without a final safeguard when protection must be certain.
+[t28] <cut> Christina(CON): Abolition may sound merciful, but justice must also honor victims and prevent future harm. For the clearest, most extreme crimes, society-
+[t29] @A4 <ovl> Nick(MOD): You have ten seconds left.
+[t30] @A1 <ovl> Nick(MOD): I'm sorry, I'm sorry. Hit time.
+[t31] Nick(MOD): Thank you both for presenting your cases and engaging in the debate. This debate is now closed.

@@ -1,0 +1,400 @@
+{
+ "debate_id": "L068",
+ "motion": "Hezbollah had no right to fight a war on Lebanon's behalf",
+ "speakers": {
+  "MOD": {
+   "name": "Martin",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4930_104",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4930/MSP-PODCAST_4930_104.wav",
+   "wpm": 173.57
+  },
+  "PRO": {
+   "name": "Mari",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "CON": {
+   "name": "Greg",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0341_111",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0341/MSP-PODCAST_0341_111.wav",
+   "wpm": 167.28
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 86.22,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 299.44,
+ "ext": {
+  "a32": {
+   "file": "L068_ext_a32.wav",
+   "place_at_sec": 226.095,
+   "dur_sec": 20.69,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Would you deny a threatened village any organized defense while it waits for distant approval? No, because people may protect themselves when danger is immediate and plainly real."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 22.25,
+   "dur_sec": 22.25,
+   "overlap": false,
+   "text": "Welcome to this debate. Tonight's motion is Hezbollah had no right to fight a war on Lebanon's behalf. Mari argues for it and Greg argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before time expires. Keep responses direct, and let the other speaker finish."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 22.45,
+   "end_sec": 37.24,
+   "dur_sec": 14.79,
+   "overlap": false,
+   "text": "Hezbollah could not claim the authority of an entire country simply by acting in its name. War places every family at risk, so only accountable national institutions can make that choice. A party with its own fighters cannot substitute itself for Lebanon."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 37.44,
+   "end_sec": 40.25,
+   "dur_sec": 2.81,
+   "overlap": false,
+   "text": "So, let's let Greg jump in. Okay."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 40.45,
+   "end_sec": 60.53,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "The question is not whether every decision made in war was wise. It is whether people facing attack may defend their communities when their state cannot protect them. A movement rooted among those communities can resist aggression and express a real demand for safety. Denying that role ignores the people who depend on it."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 60.45,
+   "end_sec": 64.31,
+   "dur_sec": 3.86,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 60.73,
+   "end_sec": 71.75,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "who have no other shield. Their consent can give resistance a public mandate, even when formal institutions are weak. The harder question is how that mandate is kept accountable, and whether-",
+   "cut_at_sec": 71.75,
+   "full_dur_sec": 13.91,
+   "ext_file": "L068_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 70.95,
+   "end_sec": 73.58,
+   "dur_sec": 2.63,
+   "overlap": true,
+   "text": "Thank you, Greg. Your time is up."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 73.78,
+   "end_sec": 86.22,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Thank you, Greg. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 86.42,
+   "end_sec": 96.78,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "I agree that communities need protection when institutions fail. But protection is not a blank check to launch war for everyone; consent needs a lawful national decision before combat."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 97.477,
+   "end_sec": 108.047,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "Where a state truly cannot defend people under attack, community resistance may have legitimacy. In that situation, waiting for permission can leave families defenseless and abandons their right to safety."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 108.492,
+   "end_sec": 118.852,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "War also leaves ruined homes, displaced children, and bitter memories that last beyond any ceasefire. But the motion is authority: Hezbollah could not appoint itself to decide Lebanon's fate."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 119.688,
+   "end_sec": 128.018,
+   "dur_sec": 8.33,
+   "overlap": false,
+   "text": "People do not lose the right to resist merely because institutions are imperfect. Does a community's right of self-defense vanish while officials fail to act?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 128.729,
+   "end_sec": 140.129,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "No, people retain a right to safety, but that does not give one faction the right to speak for all of them. Self-defense belongs to people, not an unaccountable force claiming Lebanon."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 140.898,
+   "end_sec": 150.348,
+   "dur_sec": 9.45,
+   "overlap": false,
+   "text": "Disarmament cannot be imposed by simply collecting weapons and calling that peace. It requires guarantees, local trust, and protection against future attacks; otherwise, civilians are left exposed."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 150.548,
+   "end_sec": 155.208,
+   "dur_sec": 4.66,
+   "overlap": false,
+   "text": "We're talking about whether hezbollah had the right to fight on Lebanon's behalf."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 155.408,
+   "end_sec": 165.228,
+   "dur_sec": 9.82,
+   "overlap": false,
+   "text": "Resistance always deserves a voice. When people face danger, silencing those who organize defense treats them as spectators rather than citizens with a stake in survival and dignity."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 165.533,
+   "end_sec": 176.053,
+   "dur_sec": 10.52,
+   "overlap": false,
+   "text": "Who gave Hezbollah permission to expose every Lebanese household to retaliation? You cannot point to a national decision, because none was secured before it claimed that immense power for Lebanon."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 176.793,
+   "end_sec": 187.293,
+   "dur_sec": 10.5,
+   "overlap": false,
+   "text": "This hostage-taking resistance does not deserve a voice. Yet its broader claim to defend communities shows why rejecting all resistance would deny people any means of survival in a crisis."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 187.493,
+   "end_sec": 192.893,
+   "dur_sec": 5.4,
+   "overlap": false,
+   "text": "Greg said resistance always deserves a voice, but this hostage-taking resistance does not deserve a voice."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 193.093,
+   "end_sec": 202.623,
+   "dur_sec": 9.53,
+   "overlap": false,
+   "text": "I keep both: resistance is a people's claim to be heard, while this group's hostage-taking forfeits its claim to represent that cause. Can you see the difference?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.954,
+   "end_sec": 213.634,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Yes, a cause differs from its spokesman, but neither gives a faction authority to choose war for Lebanon. Your distinction still leaves ordinary people without a say in the decision."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.555,
+   "end_sec": 225.145,
+   "dur_sec": 10.59,
+   "overlap": false,
+   "text": "Imagine a border village under attack while officials issue speeches and no protection arrives. Local defenders repel the assault and families remain; that proves resistance can exercise a necessary right."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 226.095,
+   "end_sec": 236.575,
+   "dur_sec": 10.48,
+   "overlap": false,
+   "text": "I grant that abandoned villages need immediate defense. But immediate defense is not authority to widen a war, define a nation, and accept suffering for people who never chose you.",
+   "ext_file": "L068_ext_a32.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 226.22,
+   "end_sec": 228.51,
+   "dur_sec": 2.29,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 236.22,
+   "end_sec": 244.82,
+   "dur_sec": 8.6,
+   "overlap": true,
+   "text": "We're going to move now into our closing round. Mari, you are answering yes to the question, and this is your time for your closing statement."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 245.02,
+   "end_sec": 265.38,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Deciding this motion turns on the difference between a people's right to safety and one armed party's claim to rule in their name. Lebanon is not a prize that any faction may risk through its own command. A genuine national mandate requires accountable consent, not just supporters. Once war touches everyone, the decision belongs to everyone, and"
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 265.02,
+   "end_sec": 266.54,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "Mari, ten seconds."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 265.58,
+   "end_sec": 274.46,
+   "dur_sec": 8.88,
+   "overlap": false,
+   "text": "that is why self-defense cannot become self-appointment. Hezbollah could defend supporters, but it had no right to fight a war on Lebanon's behalf."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 274.66,
+   "end_sec": 277.12,
+   "dur_sec": 2.46,
+   "overlap": false,
+   "text": "Thank you Mari. Greg, closing statement."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 277.32,
+   "end_sec": 293.17,
+   "dur_sec": 15.85,
+   "overlap": false,
+   "text": "Communities under attack cannot be told that their safety must wait for perfect institutions. When the state fails to shield them, organized resistance can carry their right to defend themselves. The motion denies that lived necessity and erases the public role such resistance can hold."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 293.37,
+   "end_sec": 299.44,
+   "dur_sec": 6.07,
+   "overlap": false,
+   "text": "Thank you, Mari and Greg, for a debate, and thank you for listening; this debate is now closed."
+  }
+ ]
+}

@@ -1,0 +1,380 @@
+{
+ "debate_id": "L008",
+ "motion": "Islam is a religion of peace.",
+ "speakers": {
+  "MOD": {
+   "name": "Theodore",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1656_617",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1656/MSP-PODCAST_1656_617.wav",
+   "wpm": 172.62
+  },
+  "PRO": {
+   "name": "Rachel",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  },
+  "CON": {
+   "name": "Russell",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3001_778",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_3001/MSP-PODCAST_3001_778.wav",
+   "wpm": 164.22
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 70.97,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 281.49,
+ "ext": {
+  "a32": {
+   "file": "L008_ext_a32.wav",
+   "place_at_sec": 214.454,
+   "dur_sec": 24.73,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Imagine a community leader citing sacred authority to attack a peaceful minority. The victims experience that teaching as permission, not distortion. That concrete danger proves the motion is too broad and should be rejected."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.77,
+   "dur_sec": 15.77,
+   "overlap": false,
+   "text": "Today's motion is, \"Islam is a religion of peace.\" Rachel argues for it, and Russell argues against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire. Then each side gets a thirty-second closing, with a ten-second cue before time."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.97,
+   "end_sec": 30.54,
+   "dur_sec": 14.57,
+   "overlap": false,
+   "text": "I support the motion because Islam teaches peace, mercy, and responsibility toward others. Violent acts by some followers do not define the faith itself, just as crimes by some citizens do not define every citizen. Its central moral direction is peaceful."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 30.74,
+   "end_sec": 32.51,
+   "dur_sec": 1.77,
+   "overlap": false,
+   "text": "Let him come back on that."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 32.71,
+   "end_sec": 52.27,
+   "dur_sec": 19.56,
+   "overlap": false,
+   "text": "I oppose the motion because calling Islam a religion of peace overlooks teachings and traditions that have been used to justify violence. A label should reflect the whole record, not only its gentler passages. When a religion can authorize conflict against outsiders, the peaceful label becomes misleading."
+  },
+  {
+   "i": 4,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.47,
+   "end_sec": 58.71,
+   "dur_sec": 6.24,
+   "overlap": false,
+   "text": "Peaceful language exists, but its violent permissions still make the motion false."
+  },
+  {
+   "i": 5,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 52.71,
+   "end_sec": 54.62,
+   "dur_sec": 1.91,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 58.91,
+   "end_sec": 70.97,
+   "dur_sec": 12.06,
+   "overlap": false,
+   "text": "Now, on to round two. This is our middle round in which the debaters talk directly to one another. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 71.17,
+   "end_sec": 82.46,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "I believe Islam always calls people toward peace. Its central teachings give believers a moral duty to protect life, restrain anger, and seek justice without turning faith into a license for violence."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 82.696,
+   "end_sec": 95.906,
+   "dur_sec": 13.21,
+   "overlap": false,
+   "text": "Rachel, if Islam always calls people toward peace, how do you explain believers who sincerely use Islamic teachings to defend violence against civilians? Can a religion be peaceful when its own texts are invoked for that purpose?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.547,
+   "end_sec": 109.677,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "In the case of believers who sincerely use Islamic teachings to defend violence, Islam does not call people toward peace. That case shows how people can distort a faith while the motion still describes its moral core."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 109.877,
+   "end_sec": 116.047,
+   "dur_sec": 6.17,
+   "overlap": false,
+   "text": "Rachel said i believe Islam always calls people toward peace, but islam does not call people toward peace."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.247,
+   "end_sec": 127.137,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "My first statement describes Islam's teaching, while my second describes what happens when believers misuse it. The religion's direction remains peaceful even when a follower rejects that direction and acts violently."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 128.123,
+   "end_sec": 141.363,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "That misuse raises a wider policy question: should schools, courts, and public agencies treat religious claims as protected belief when those claims influence conduct? Equal rules need clear limits, especially when belief is used to excuse harm."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 141.563,
+   "end_sec": 146.893,
+   "dur_sec": 5.33,
+   "overlap": false,
+   "text": "Please address the issue that I did raise, which is islam is a religion of peace."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 147.093,
+   "end_sec": 160.853,
+   "dur_sec": 13.76,
+   "overlap": false,
+   "text": "The motion asks whether Islam is a religion of peace, and its violent permissions matter to that answer. A tradition that can be used to command violence cannot honestly be described as peaceful without ignoring part of what it teaches."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.414,
+   "end_sec": 174.864,
+   "dur_sec": 13.45,
+   "overlap": false,
+   "text": "I grant that violent interpretations deserve serious criticism, but Russell treats misuse as the faith's essence. That confuses a religion's principles with a follower's choice, and Islam's principles still direct believers toward peace, mercy, and human dignity when-"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 173.964,
+   "end_sec": 187.044,
+   "dur_sec": 13.08,
+   "overlap": true,
+   "text": "I interrupt because that distinction is the whole dispute. If the principles can support opposite commands, you cannot simply declare the peaceful reading authentic and dismiss the violent reading as misuse; the motion requires a fuller standard."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.929,
+   "end_sec": 199.859,
+   "dur_sec": 11.93,
+   "overlap": false,
+   "text": "Russell says opposite interpretations make the peaceful description impossible. They do not: the existence of misuse does not erase a faith's dominant moral teaching, and Islam's call to mercy and restraint supports the motion."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 200.529,
+   "end_sec": 213.749,
+   "dur_sec": 13.22,
+   "overlap": false,
+   "text": "Rachel's weakest claim is that a dominant teaching settles the question. It does not. The motion says Islam is a religion of peace, not merely that peaceful teachings exist; permissions for violence make that broad claim unsound."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 210.97,
+   "end_sec": 212.98,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "Ten seconds left, both of you."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.454,
+   "end_sec": 221.77,
+   "dur_sec": 7.315,
+   "overlap": false,
+   "text": "I reject the premise that any permission for violence cancels a religion's peaceful identity. Russell's standard would make every tradition defined-",
+   "ext_file": "L008_ext_a32.wav",
+   "cut_at_sec": 221.77,
+   "full_dur_sec": 12.41
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 220.97,
+   "end_sec": 226.55,
+   "dur_sec": 5.58,
+   "overlap": true,
+   "text": "Okay, time. So now we move on to our closing round. Rachel, you have the floor first."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 226.75,
+   "end_sec": 241.24,
+   "dur_sec": 14.49,
+   "overlap": false,
+   "text": "This motion turns on what defines a religion: its central moral teaching or every harmful act committed in its name. Islam's central teachings emphasize mercy, justice, restraint, and peace. Misuse by followers cannot overturn that identity, so the motion is true."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 241.44,
+   "end_sec": 243.13,
+   "dur_sec": 1.69,
+   "overlap": false,
+   "text": "Let Russell respond to it."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 243.33,
+   "end_sec": 272.24,
+   "dur_sec": 28.91,
+   "overlap": false,
+   "text": "Rachel's best point is that Islam contains teachings about mercy and peace. I accept that those teachings exist, but they do not answer the whole question. A religion should not receive a peaceful label while its authority can also be used to justify violence. That contradiction matters because beliefs guide real choices. If the tradition permits competing readings, we must judge the danger as well as the ideal. The motion asks for a broad description, and broad descriptions must face the full record."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 263.33,
+   "end_sec": 265.19,
+   "dur_sec": 1.86,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 272.44,
+   "end_sec": 274.63,
+   "dur_sec": 2.19,
+   "overlap": false,
+   "text": "Islam may inspire peaceful conduct-",
+   "cut_at_sec": 274.63,
+   "full_dur_sec": 14.32,
+   "ext_file": "L008_027.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 273.83,
+   "end_sec": 276.0,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "I'm sorry, you've hit time."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 276.2,
+   "end_sec": 281.49,
+   "dur_sec": 5.29,
+   "overlap": false,
+   "text": "Thank you both for taking part. This debate is now closed without declaring a winner."
+  }
+ ]
+}

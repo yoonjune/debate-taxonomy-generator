@@ -1,0 +1,427 @@
+{
+ "debate_id": "L045",
+ "motion": "Women are superior to men",
+ "speakers": {
+  "MOD": {
+   "name": "Kara",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2943_167",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2943/MSP-PODCAST_2943_167.wav",
+   "wpm": 160.94
+  },
+  "PRO": {
+   "name": "Dennis",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5993_347",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5993/MSP-PODCAST_5993_347.wav",
+   "wpm": 163.88
+  },
+  "CON": {
+   "name": "Michelle",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 78.7,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 287.15,
+ "ext": {
+  "a32": {
+   "file": "L045_ext_a32.wav",
+   "place_at_sec": 226.215,
+   "dur_sec": 21.75,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Your household example only shows that abilities can overlap, not that the sexes contribute equally overall. One shared task cannot erase women's broader advantage, so it does not defeat the motion."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.05,
+   "dur_sec": 17.05,
+   "overlap": false,
+   "text": "The motion is: women are superior to men. Dennis argues for it, and Michelle argues against it. Each side gets thirty seconds to open, then we have two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue before the relevant limits."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.25,
+   "end_sec": 30.85,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "Women are superior because they more often combine judgment, empathy, and persistence when decisions affect other people. Men can show those qualities too, but women display the stronger balance, which makes them superior in the motion's broad sense."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 31.05,
+   "end_sec": 33.46,
+   "dur_sec": 2.41,
+   "overlap": false,
+   "text": "Michelle, you wanted to come in briefly."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 33.66,
+   "end_sec": 53.27,
+   "dur_sec": 19.61,
+   "overlap": false,
+   "text": "I reject the idea that one sex is superior as a whole. Women may excel in empathy, while men may excel in other abilities, but human worth and capability do not form a single ladder. Calling women superior turns useful differences into a sweeping verdict. No sex owns wisdom, courage, or leadership."
+  },
+  {
+   "i": 4,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.47,
+   "end_sec": 64.96,
+   "dur_sec": 11.49,
+   "overlap": false,
+   "text": "And that verdict also ignores the many men who protect families, accept difficult duties, and improve their communities without seeking praise. If superiority means a better kind of person, neither sex earns-",
+   "cut_at_sec": 64.96,
+   "full_dur_sec": 15.77,
+   "ext_file": "L045_005.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 53.66,
+   "end_sec": 55.43,
+   "dur_sec": 1.77,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 64.16,
+   "end_sec": 66.25,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Thank you, Michelle. Your time is up."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 66.45,
+   "end_sec": 78.7,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "And now we move on to round two. And round two is a more conversational round. The debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 78.9,
+   "end_sec": 91.37,
+   "dur_sec": 12.47,
+   "overlap": false,
+   "text": "Picture a family crisis where someone must listen, organize help, and keep trust intact. The woman who steadies everyone while solving the problem shows why women's broader practical judgment makes them superior in the motion."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 92.243,
+   "end_sec": 102.923,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "That example proves one woman handled one crisis well; it never compares her with men or establishes a sex-wide ranking. A moving story cannot turn individual strength into female superiority."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 103.474,
+   "end_sec": 111.794,
+   "dur_sec": 8.32,
+   "overlap": false,
+   "text": "I believe women always bring stronger judgment to shared decisions. That steadiness, especially when emotions and consequences collide, is why women are superior overall."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 112.082,
+   "end_sec": 122.412,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "I reject the premise that stronger judgment belongs to one sex in every decision. People contribute differently, and your story still gives no fair basis for ranking women above men."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 123.273,
+   "end_sec": 133.713,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Here, women do not bring stronger judgment to this decision. A man may recognize the practical answer more clearly, yet women remain superior overall in judgment and social understanding."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 133.913,
+   "end_sec": 145.763,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "I'm puzzled by your stand. On the one hand i believe women always bring stronger judgment to shared decisions and on the other hand here, women do not bring stronger judgment to this decision."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 145.963,
+   "end_sec": 156.823,
+   "dur_sec": 10.86,
+   "overlap": false,
+   "text": "Those statements can stand together because overall superiority concerns the fuller pattern of judgment, not winning every isolated choice. A single decision can favor a man without erasing women's broader advantage."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 157.429,
+   "end_sec": 167.92,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "When people are judged by their actual conduct rather than their sex, neither group is inherently superior. That standard respects excellent women and excellent men without inventing a universal ranking."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 168.511,
+   "end_sec": 180.451,
+   "dur_sec": 11.94,
+   "overlap": false,
+   "text": "Families also pass down habits, expectations, and responsibilities, which can shape how people decide under pressure. But those influences are not the motion itself; the motion asks who is generally superior, and women are."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 180.98,
+   "end_sec": 191.42,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Across human ability, neither sex is inherently superior. In any particular setting, one group or the other may have an advantage, but that limited truth cannot support the motion."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 192.133,
+   "end_sec": 202.683,
+   "dur_sec": 10.55,
+   "overlap": false,
+   "text": "I reject the premise that occasional advantages settle the question. The motion concerns overall superiority, and women's stronger empathy, resilience, and cooperative judgment make their general contribution better than men's."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.058,
+   "end_sec": 214.348,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "I grant that empathy can improve decisions. But the main claim still treats selected virtues as a complete ranking, while men can equal or exceed women in judgment; the motion remains false."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.651,
+   "end_sec": 225.411,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Your point about men matching women in some virtues does not defeat my claim. Superiority can rest on the wider combination of empathy, resilience, and judgment women more consistently provide."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 218.7,
+   "end_sec": 219.58,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 226.215,
+   "end_sec": 229.5,
+   "dur_sec": 3.285,
+   "overlap": false,
+   "text": "A woman and a man may divide a household task, and each-",
+   "ext_file": "L045_ext_a32.wav",
+   "cut_at_sec": 229.5,
+   "full_dur_sec": 10.73
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 228.7,
+   "end_sec": 234.9,
+   "dur_sec": 6.2,
+   "overlap": true,
+   "text": "And that's time. Okay. Let's all redeem ourselves with our closing statements. So Dennis, you're up first."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 235.1,
+   "end_sec": 244.63,
+   "dur_sec": 9.53,
+   "overlap": false,
+   "text": "This debate turns on the overall pattern, not on whether every woman wins every comparison. Women more often unite empathy, judgment, and resilience, which makes them superior."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 243.73,
+   "end_sec": 246.03,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No, one broad pattern cannot rank-",
+   "cut_at_sec": 246.03,
+   "full_dur_sec": 11.84,
+   "ext_file": "L045_026.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 245.23,
+   "end_sec": 247.64,
+   "dur_sec": 2.41,
+   "overlap": true,
+   "text": "Can you let him answer the point please?"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 247.84,
+   "end_sec": 257.81,
+   "dur_sec": 9.97,
+   "overlap": false,
+   "text": "The question is not whether men have virtues. It is whether women are generally superior, and their stronger balance of cooperation, judgment, and resilience answers yes."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 255.1,
+   "end_sec": 256.23,
+   "dur_sec": 1.13,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 258.01,
+   "end_sec": 263.66,
+   "dur_sec": 5.65,
+   "overlap": false,
+   "text": "Overlap between individuals does not erase a genuine overall advantage for women."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 263.86,
+   "end_sec": 266.1,
+   "dur_sec": 2.24,
+   "overlap": false,
+   "text": "Thank you Dennis. Michelle, closing statement."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.3,
+   "end_sec": 280.94,
+   "dur_sec": 14.64,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether sex can justify a universal ranking. It cannot: individuals differ, strengths overlap, and excellence is earned through conduct. Respect women without declaring men inferior; the fair conclusion is that women are not superior to men."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 281.14,
+   "end_sec": 287.15,
+   "dur_sec": 6.01,
+   "overlap": false,
+   "text": "Thank you both for the debate and for presenting the competing arguments; this debate is now closed."
+  }
+ ]
+}

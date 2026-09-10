@@ -1,0 +1,35 @@
+L006  |  Arab Governments are not interested in genuine reform
+  MOD=Danielle   PRO=Tom   CON=Charles
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Danielle(MOD): Today's motion is, arab governments are not interested in genuine reform. Tom argues for it; Charles argues against it. Each opening lasts thirty seconds. Crossfire lasts two and a half minutes, followed by thirty-second closings, with a ten-second cue. I will keep the exchange moving.
+[t01] Tom(PRO): Arab governments often announce reform, but they protect the power that matters: their own. They permit visible adjustments while blocking independent voices, real accountability, and peaceful transfers of power. That pattern shows they want reform's appearance, not genuine reform.
+[t02] @A2-2 Danielle(MOD): All right, Charles, take that on.
+[t03] Charles(CON): That claim treats every government as identical and every reform as a trick. Some governments open public debate, strengthen courts, and accept limits on officials. Imperfect progress is still genuine interest, so the motion goes too far.
+--- phase 2 ---
+[t04] @A3-1 Danielle(MOD): And that concludes round one. So now on to round two. They address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t05] Charles(CON): Your claim assumes that preserving power cancels every reform, but that is not true. A government can protect stability while expanding rights, and those real changes show interest in genuine reform.
+[t06] Tom(PRO): No Arab government ever gives citizens genuine reform. Announcements, councils, and new laws mean little when rulers keep final control and punish serious opposition.
+[t07] Charles(CON): Your absolute claim confuses incomplete reform with fake reform. If citizens gain a fair hearing or officials face new limits, that change matters even when the whole system remains imperfect.
+[t08] Tom(PRO): This Arab government gives citizens genuine reform. It creates a public council, but that council cannot question the ruling circle or force any answer.
+[t09] @B2 Danielle(MOD): So, so while saying no Arab government ever gives citizens genuine reform, you're saying this Arab government gives citizens genuine reform?
+[t10] Tom(PRO): I stand by both statements: one describes genuine reform, while the other describes what this government presents as reform. Its council exists, but calling that controlled arrangement genuine does not make it genuine.
+[t11] Charles(CON): Imagine a government allowing an independent local council to publish criticism, then accepting changes that reduce official power. Citizens gain a real check, and that concrete choice proves genuine reform can be pursued.
+[t12] Tom(PRO): That council would also need clear meeting rules, open agendas, and a fair way to record objections. When members rotate the chair and publish decisions, the process becomes harder to manipulate and easier to trust.
+[t13] @B1 Danielle(MOD): Wait, can you frame your question more towards, to something that feeds into arab governments are not interested in genuine reform?
+[t14] Tom(PRO): The motion asks whether governments are interested in genuine reform, and controlled councils answer it: they stage consultation without surrendering power. Real interest would welcome independent oversight, yet these governments keep oversight harmless.
+[t15] Charles(CON): You keep defining genuine reform as total surrender of power, which no reform movement requires. Independent oversight can begin small, and dismissing every first step only hides evidence against your motion.
+[t16] Tom(PRO): I grant that a small first step can matter, but the main issue is whether rulers accept change that can restrain them. When they block that point, their interest is in managed appearance, not genuine reform.
+[t17] Charles(CON): If a government expands citizens' rights, accepts criticism, and loses some control, what exactly would count as genuine reform for you?
+[t18] Tom(PRO): A ruler may permit a harmless public meeting while banning criticism of security offices. That example shows permission can be theater, proving the broader pattern is managed appearance rather than genuine reform.
+[t19] @A4 <ovl> Danielle(MOD): Ten seconds left in the crossfire.
+--- phase 3 ---
+[t20] @A3-2 <ovl> Danielle(MOD): That's time. Now we move on to round three. Round three will be closing statements. Here to make his closing statement in support of the resolution, Tom.
+[t21] Tom(PRO): Charles points to limited changes, but those do not answer the central question. Governments can allow harmless debate while blocking accountability and independent power. Their repeated choice to preserve control shows they are not interested in genuine reform.
+[t22] @A2-2 Danielle(MOD): Now his summation against the motion, Charles.
+[t23] Charles(CON): Tom's case depends on an impossible standard: unless governments surrender all control at once, he calls reform fake. But genuine reform can be partial, contested, and still real. When officials accept criticism, open courts, or share authority, they show interest through action. The motion erases those meaningful changes and mistakes imperfection for dishonesty.
+[t24] @A4 <ovl> Danielle(MOD): Ten seconds, ten seconds.
+[t25] <cut> Charles(CON): A government need not become perfect before reform counts. It must show that citizens gain rights and officials face limits. Those steps can grow through public pressure and continued scrutiny-
+[t26] @A1 <ovl> Danielle(MOD): Not this time.
+[t27] Danielle(MOD): Thank you both for taking part. That concludes the debate.

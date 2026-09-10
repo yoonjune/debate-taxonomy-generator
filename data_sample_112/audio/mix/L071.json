@@ -1,0 +1,405 @@
+{
+ "debate_id": "L071",
+ "motion": "Arab media needs no lessons in journalism from the West",
+ "speakers": {
+  "MOD": {
+   "name": "Joseph",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4814_946",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4814/MSP-PODCAST_4814_946.wav",
+   "wpm": 172.38
+  },
+  "PRO": {
+   "name": "Elias",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  },
+  "CON": {
+   "name": "Annie",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 61.23,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 287.49,
+ "ext": {
+  "a32": {
+   "file": "L071_ext_a32.wav",
+   "place_at_sec": 206.176,
+   "dur_sec": 25.33,
+   "src_i": 17
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 18,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "I grant that sharing a method can sometimes be harmless. But you keep treating Western guidance as necessary, while journalists can build and exchange their own standards; dependence is the real danger, so the motion stands."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.33,
+   "dur_sec": 18.33,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is: Arab media needs no lessons in journalism from the West. Elias supports the motion, and Annie opposes it. Each speaker has thirty seconds for an opening, followed by two and a half minutes of direct crossfire, then thirty-second closings. I will give a ten-second cue before time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.53,
+   "end_sec": 33.17,
+   "dur_sec": 14.64,
+   "overlap": false,
+   "text": "Journalism is not a gift that travels in one direction. Arab reporters know their languages, communities, risks, and stories better than distant instructors do. Exchange between equals is useful, but calling it Western lessons assumes authority that the motion rightly rejects."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 33.37,
+   "end_sec": 36.97,
+   "dur_sec": 3.6,
+   "overlap": false,
+   "text": "I want to give the floor to Annie."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 37.17,
+   "end_sec": 51.49,
+   "dur_sec": 14.32,
+   "overlap": false,
+   "text": "No tradition owns journalism, and useful lessons need not be patronizing. Reporters everywhere can learn methods for checking power, protecting sources, and correcting errors. Refusing lessons because of their origin can deny Arab audiences tools they deserve in difficult moments."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 51.69,
+   "end_sec": 61.23,
+   "dur_sec": 9.54,
+   "overlap": false,
+   "text": "Now we go on to round two. Round two is where the debaters address each other directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 61.43,
+   "end_sec": 74.64,
+   "dur_sec": 13.21,
+   "overlap": false,
+   "text": "I agree that local knowledge matters, and nobody should talk down to reporters. But your claim turns equal exchange into refusal: when an outside method helps verify a claim, rejecting it harms audiences, so the motion fails."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 75.091,
+   "end_sec": 86.931,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Newsrooms also need fair pay and safer equipment; those struggles matter, but they are not this motion. The question is who gets to teach journalism, and Arab reporters need partnership, not Western lessons."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 87.211,
+   "end_sec": 99.051,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "When local reporting is blocked by official pressure, outside editorial methods can help reporters preserve records and protect sources. In that specific situation, learning from elsewhere strengthens journalism, so the motion is false."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 99.746,
+   "end_sec": 110.106,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "Every newsroom should always reject lessons from the West. Why should reporters facing pressure accept guidance framed as superior, rather than trust their own professional judgment in their communities?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 110.391,
+   "end_sec": 121.521,
+   "dur_sec": 11.13,
+   "overlap": false,
+   "text": "They should not accept a superior hierarchy; that premise is exactly why I argue for shared learning, not obedience. Your blanket rejection still denies reporters useful practices, so the motion is false."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 121.744,
+   "end_sec": 133.514,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "This newsroom should not reject lessons from the West. If a reporter can learn safer verification from a foreign colleague, shutting that door serves pride, not the public; independence still supports the motion."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 133.714,
+   "end_sec": 142.204,
+   "dur_sec": 8.49,
+   "overlap": false,
+   "text": "So, so while saying every newsroom should always reject lessons from the West, you're saying this newsroom should not reject lessons from the West?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 142.404,
+   "end_sec": 154.164,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "The first rejects dependence dressed up as instruction; the second rejects closing one's ears to useful conversation. A newsroom can refuse Western authority while hearing individual colleagues, and that independence supports the motion."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 155.072,
+   "end_sec": 165.882,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "Learning can improve journalism in every newsroom, because scrutiny and correction are universal duties for audiences. When pressure blocks local reporting, that general need becomes urgent, and the motion remains false."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 166.819,
+   "end_sec": 179.619,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Imagine a reporter covering a neighborhood dispute: a Western consultant supplies a frame while local voices explain history it misses. Publishing that imported frame inflames distrust; local judgment protects audiences, proving no Western lessons are needed."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 180.537,
+   "end_sec": 192.657,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Your imported-frame example mistakes bad consulting for all learning. A reporter can adapt an outside verification checklist without silencing local voices; rejecting that help leaves errors unchallenged, which is why the motion is false."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 193.44,
+   "end_sec": 205.64,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "No, rejecting help does not leave errors unchallenged; local editors and audiences can test claims themselves. Your checklist point assumes credibility arrives from outside, but accountable local practice is enough, so the motion stands."
+  },
+  {
+   "i": 17,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 201.23,
+   "end_sec": 203.55,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 18,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 206.176,
+   "end_sec": 212.03,
+   "dur_sec": 5.854,
+   "overlap": false,
+   "text": "Your weakest word is 'enough.' Local practice is essential, but it does not make every newsroom able to learn-",
+   "ext_file": "L071_ext_a32.wav",
+   "cut_at_sec": 212.03,
+   "full_dur_sec": 12.33
+  },
+  {
+   "i": 19,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 211.23,
+   "end_sec": 218.92,
+   "dur_sec": 7.69,
+   "overlap": true,
+   "text": "That's time. And that concludes round two of this debate. Making his closing statement in support of the resolution, here is Elias."
+  },
+  {
+   "i": 20,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 219.12,
+   "end_sec": 239.13,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "Annie says methods can travel without hierarchy. But the issue is not whether reporters may talk; it is whether Arab media needs lessons from the West. It does not. Local reporters can test claims, protect sources, and develop standards rooted in the audiences they serve. Calling Western instruction necessary replaces partnership with dependence, and it"
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 239.12,
+   "end_sec": 241.05,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 239.33,
+   "end_sec": 250.42,
+   "dur_sec": 11.09,
+   "overlap": false,
+   "text": "invites outsiders to define success. Real exchange works when no side arrives as the teacher. Arab media deserves independent judgment, because the public pays when foreign templates-",
+   "cut_at_sec": 250.42,
+   "full_dur_sec": 14.24,
+   "ext_file": "L071_023.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 249.62,
+   "end_sec": 252.54,
+   "dur_sec": 2.92,
+   "overlap": true,
+   "text": "Elias, you're rather going on. Thank you. Annie."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 252.74,
+   "end_sec": 262.67,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "Your dependence argument confuses learning with obedience. Arab reporters keep judgment when they borrow useful practices, and audiences benefit when sources of insight remain open."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 261.77,
+   "end_sec": 264.07,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But that ignores who sets the standard-",
+   "cut_at_sec": 264.07,
+   "full_dur_sec": 9.28,
+   "ext_file": "L071_026.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 263.27,
+   "end_sec": 264.79,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "Let her finish, yeah."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 264.99,
+   "end_sec": 275.16,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "sources of insight remain open. You say lessons impose authority, yet journalists can judge each idea. Refusing that freedom is not independence; it weakens your motion."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 272.74,
+   "end_sec": 273.98,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.36,
+   "end_sec": 281.36,
+   "dur_sec": 6.0,
+   "overlap": false,
+   "text": "Arab media gains strength through judgment and open learning, so this motion must be rejected."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 281.56,
+   "end_sec": 287.49,
+   "dur_sec": 5.93,
+   "overlap": false,
+   "text": "Thank you, Elias and Annie, for a thoughtful debate. This concludes our discussion of the motion today."
+  }
+ ]
+}

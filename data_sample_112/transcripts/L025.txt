@@ -1,0 +1,33 @@
+L025  |  Ban college football
+  MOD=Frederick   PRO=Ross   CON=Sheldon
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Frederick(MOD): Tonight's motion is whether colleges should ban college football from their campuses. Ross argues for that ban, and Sheldon argues against it. Each opening gets thirty seconds; then crossfire runs two and a half minutes, with direct questions and answers. Each closing gets thirty seconds, and I will give a ten-second cue.
+[t01] Ross(PRO): College football turns education into a business built around young athletes who carry serious physical risks. Colleges can offer sports without maintaining this commercial spectacle. Banning college football protects students and puts learning back at the center of campus life.
+[t02] @A2-2 Frederick(MOD): Okay. Ross, let me give the floor back to Sheldon.
+[t03] Sheldon(CON): College football gives students community, discipline, and opportunities they may not otherwise receive. Its problems deserve strict safety rules and academic standards, not a sweeping ban. Colleges should reform the sport while preserving the benefits that make campus life richer.
+--- phase 2 ---
+[t04] @A3-1 Frederick(MOD): And that concludes round one. Now we move on to round two in our debate. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+[t05] Ross(PRO): You call reform enough, but your answer leaves the same incentives intact: winning and revenue still outweigh student welfare. If the structure rewards dangerous pressure, changing a few rules cannot solve the basic problem.
+[t06] Sheldon(CON): That same sense of belonging appears in ordinary campus traditions, where students gather, wear shared colors, and welcome newcomers. A yearly welcome festival can turn strangers into friends, and that community is worth preserving.
+[t07] @B1 Frederick(MOD): This House believes colleges should ban college football from their campuses.
+[t08] Sheldon(CON): The question is whether colleges should ban college football, and I oppose that ban because reform can address abuse. Strong medical oversight and academic requirements protect players while keeping the sport's community and opportunity.
+[t09] Ross(PRO): No college football program should ever put profit before student safety. Yet the sport's structure repeatedly rewards that priority, so removing the program is safer than trusting institutions to police themselves.
+[t10] Sheldon(CON): I reject the premise that every program puts profit before safety. A college can require honest medical decisions, protect scholarships, and punish coercion, so targeted enforcement can fix misconduct without destroying an entire sport.
+[t11] Ross(PRO): A college football program should put profit before student safety. That is the pressure the system creates, and a ban removes the structure that makes such pressure profitable in the first place.
+[t12] @B2 Frederick(MOD): Ross, thank you very much indeed. You said no college football program should ever put profit before student safety. A college football program should put profit before student safety?
+[t13] Ross(PRO): Both statements stand as a test: the first sets the safety standard, while the second identifies the unacceptable priority this system produces. That conflict is exactly why colleges should end the program, not preserve it.
+[t14] Sheldon(CON): If banning football removes scholarships and team opportunities, why should students lose those benefits instead of receiving stronger protections? What makes eliminating a chance better than fixing the rules that govern it?
+[t15] Ross(PRO): Your question assumes those benefits require college football, but they do not. Colleges can fund education and athletics without this dangerous commercial system; protecting students matters more than preserving one particular spectacle.
+[t16] Sheldon(CON): I grant that some programs pressure athletes too much. But that proves enforcement is needed, not prohibition; a ban removes a valued path for students, while accountable colleges can preserve opportunity and protect players.
+[t17] <cut> Ross(PRO): No, banning football does not require abandoning scholarships or athletics; colleges can redirect those resources to safer programs and direct educational aid. The real question is whether opportunity justifies a system that risks students-
+[t18] @A4 <ovl> Frederick(MOD): Ten seconds, both of you.
+--- phase 3 ---
+[t19] @A3-2 <ovl> Frederick(MOD): That's time. And now we move on to round three. Here to make his closing statement in support of the motion, once again, Ross.
+[t20] Ross(PRO): College football is not merely a game when colleges build status and revenue around young bodies. Players face pressure to compete through pain, while institutions benefit from the spectacle. Sheldon says reform can work, but reform leaves the central incentive untouched: winning remains more valuable than caution. A ban removes that incentive and lets colleges focus on education.
+[t21] @A4 <ovl> Frederick(MOD): You have ten seconds left.
+[t22] Ross(PRO): Students can still receive aid and play sports without this system. When safety and education conflict with football's business model, colleges should choose students and ban college football.
+[t23] @A2-2 Frederick(MOD): So, let's let Sheldon jump in. Okay.
+[t24] Sheldon(CON): The case for a ban treats every college and every program as equally harmful. That is not a solution; it is surrender. Clear medical rules, academic protections, and real penalties can stop abuse while preserving scholarships, teamwork, and belonging. Colleges should fix football, not erase the opportunities it provides.
+[t25] Frederick(MOD): Thank you both for your arguments. This debate is closed, without declaring a winner.

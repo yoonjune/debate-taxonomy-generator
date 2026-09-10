@@ -1,0 +1,401 @@
+{
+ "debate_id": "L089",
+ "motion": "The U.S. Should Adopt the 'Right to Be Forgotten' Online",
+ "speakers": {
+  "MOD": {
+   "name": "Daphne",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2324_468",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2324/MSP-PODCAST_2324_468.wav",
+   "wpm": 181.61
+  },
+  "PRO": {
+   "name": "Justine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "CON": {
+   "name": "Jeremy",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 75.32,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 302.23,
+ "ext": {
+  "a32": {
+   "file": "L089_ext_a32.wav",
+   "place_at_sec": 212.959,
+   "dur_sec": 41.04,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "PRO",
+   "slot": "X11",
+   "text": "Your weakest claim is that context solves the problem. Search snippets and hostile reposts rarely deliver context before a reader judges someone. A right to challenge irrelevant results addresses that first impression, so adoption is justified."
+  },
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "On your first-impression point, removal is a blunt cure for a real problem. People can answer false or unfair material, and platforms can improve labels and ranking. Government-backed hiding of truthful records risks more harm, so reject the motion."
+  },
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "A parent may have an old personal photo attached to a humiliating rumor that resurfaces whenever a child searches their name. The parent cannot realistically answer every copy forever. Removal from major searches restores dignity, proving we should adopt it."
+  },
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I grant that dignity matters when old material resurfaces. But a sweeping legal right invites endless disputes over relevance and truth, burdening speakers and readers. Narrow voluntary remedies are better than adopting the motion."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.12,
+   "dur_sec": 18.12,
+   "overlap": false,
+   "text": "Welcome to our debate on whether the U.S. should adopt the right to be forgotten online. Justine supports the motion, and Jeremy opposes it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire. Then come thirty-second closings, with a ten-second cue before time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.32,
+   "end_sec": 31.84,
+   "dur_sec": 13.52,
+   "overlap": false,
+   "text": "A permanent online past can turn one mistake into a lifelong sentence. This right lets ordinary people seek removal of irrelevant, damaging material while preserving public-interest information. The U.S. should give people that fair chance to move on."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 32.04,
+   "end_sec": 34.93,
+   "dur_sec": 2.89,
+   "overlap": false,
+   "text": "I'm going to let him respond to that."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 35.13,
+   "end_sec": 55.21,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "The internet is not merely a scrapbook of private mistakes; it is also a public record. Giving people a deletion right invites powerful actors to hide truthful information that others need to judge them. Search tools may be imperfect, but erasure creates a dangerous power over memory. Once removal becomes a legal demand,"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 55.13,
+   "end_sec": 56.73,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 55.41,
+   "end_sec": 66.43,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "platforms will remove first and ask questions later. A person harmed by an old post deserves context and compassion, but the answer is better speech, not forced disappearance. The public cannot-",
+   "cut_at_sec": 66.43,
+   "full_dur_sec": 14.92,
+   "ext_file": "L089_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 65.63,
+   "end_sec": 67.48,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "I'm sorry, you've hit time."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 67.68,
+   "end_sec": 75.32,
+   "dur_sec": 7.64,
+   "overlap": false,
+   "text": "And now we move on to more free-wheeling discussion. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 75.52,
+   "end_sec": 88.76,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "Suppose a landlord finds a truthful report that an applicant cheated tenants before. Your rule could bury that report from search results, leaving future tenants uninformed. That proves mandated forgetting can protect deception, so the motion fails."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 89.681,
+   "end_sec": 103.641,
+   "dur_sec": 13.96,
+   "overlap": false,
+   "text": "Online arguments also reward cruelty, and people can mute abusive accounts, but that is not enough. The motion concerns lasting search visibility of irrelevant harm. A legal removal process gives people control over stale personal material, supporting the motion."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 104.217,
+   "end_sec": 117.097,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Every truthful online record should always remain public. If a business owner repeatedly deceived customers, old reports help later customers avoid the same trap. Public access to truth protects ordinary people, so the motion should fail."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 118.023,
+   "end_sec": 131.183,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "I reject the premise that this right buries every truthful report; it weighs relevance, harm, and public interest. Your business example can remain available where consumers need it. The motion protects private people from needless permanent punishment."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 131.957,
+   "end_sec": 145.917,
+   "dur_sec": 13.96,
+   "overlap": false,
+   "text": "A teenager's truthful online record should not remain public. A foolish old post can shadow that person through school and work long after it means anything. Still, broad deletion authority would endanger public memory, so I oppose the motion."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 146.117,
+   "end_sec": 157.017,
+   "dur_sec": 10.9,
+   "overlap": false,
+   "text": "I'm puzzled by your stand. On the one hand every truthful online record should always remain public and on the other hand a teenager's truthful online record should not remain public."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 157.217,
+   "end_sec": 170.817,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "I mean that public truth deserves openness, while a young person's old record can deserve mercy. That tension calls for voluntary judgment and context, not a national legal right that forces removal. The motion remains the wrong tool."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 171.599,
+   "end_sec": 185.449,
+   "dur_sec": 13.85,
+   "overlap": false,
+   "text": "Imagine a worker whose old, misleading accusation appears first whenever anyone searches her name, although it was resolved years ago. She loses interviews before she can explain. A removal right restores a fair hearing, which proves the motion's value."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 186.154,
+   "end_sec": 199.034,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "I agree that a resolved accusation can be cruelly amplified. But search removal makes private gatekeepers decide what the public may find, and those decisions will favor people with money and influence, so the motion creates-"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 198.134,
+   "end_sec": 212.294,
+   "dur_sec": 14.16,
+   "overlap": true,
+   "text": "Why trust private gatekeepers more when they already rank and hide material without a clear legal standard? A right with appeals makes their choices accountable and protects people harmed by permanent search results. That is why we should adopt it."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 212.959,
+   "end_sec": 226.12,
+   "dur_sec": 13.161,
+   "overlap": false,
+   "text": "No, a formal right would not make gatekeepers neutral; it would give them legal pressure to suppress disputed information. Appeals take time and resources, while removal happens quickly. Keeping truth available with context is safer, so the motion-",
+   "ext_file": "L089_ext_a32.wav",
+   "cut_at_sec": 226.12,
+   "full_dur_sec": 13.96
+  },
+  {
+   "i": 19,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 215.32,
+   "end_sec": 217.64,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds, and then closing statements."
+  },
+  {
+   "i": 20,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 225.32,
+   "end_sec": 229.72,
+   "dur_sec": 4.4,
+   "overlap": true,
+   "text": "Time's up. Let's move on now to our closing round. Justine, you're up first."
+  },
+  {
+   "i": 21,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 229.92,
+   "end_sec": 250.0,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "This debate is about whether a person must carry an irrelevant online wound forever. Jeremy admits that old records can be cruel, yet offers voluntary fixes that leave people powerless against search engines. A careful legal process can protect public-interest reporting while removing stale, disproportionate harm. That balance gives ordinary people a real second chance,"
+  },
+  {
+   "i": 22,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 249.92,
+   "end_sec": 251.8,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 23,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 250.2,
+   "end_sec": 261.22,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "not a license for powerful people to hide wrongdoing. Reviewers can consider truth, relevance, and public value, rather than treating every search result as sacred. Without this right-",
+   "cut_at_sec": 261.22,
+   "full_dur_sec": 14.24,
+   "ext_file": "L089_027.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 260.42,
+   "end_sec": 266.62,
+   "dur_sec": 6.2,
+   "overlap": true,
+   "text": "Your time is up, Justine. Thank you. And here to summarize his position against the motion, Jeremy."
+  },
+  {
+   "i": 25,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.82,
+   "end_sec": 287.18,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "My strongest point is simple: the motion gives someone a legal lever to make truthful information harder to find. That lever will not be used only by vulnerable people with embarrassing pasts. It can shield those who want to escape scrutiny, and platforms will tend to remove material rather than risk disputes. Compassion matters, but public memory matters too, especially when others must make informed choices,"
+  },
+  {
+   "i": 26,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 286.82,
+   "end_sec": 289.71,
+   "dur_sec": 2.89,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 27,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 287.38,
+   "end_sec": 296.27,
+   "dur_sec": 8.89,
+   "overlap": false,
+   "text": "and context is better than compelled disappearance. Keep truthful records available, improve fairness around them, and reject this motion."
+  },
+  {
+   "i": 28,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 296.47,
+   "end_sec": 302.23,
+   "dur_sec": 5.76,
+   "overlap": false,
+   "text": "Thank you, Justine and Jeremy, for a thoughtful debate on the right to be forgotten online."
+  }
+ ]
+}

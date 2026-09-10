@@ -1,0 +1,40 @@
+L108  |  Policymakers should address the gender wage gap.
+  MOD=Ben   PRO=Marcia   CON=Mustafa
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Ben(MOD): Welcome. The motion is: Policymakers should address the gender wage gap. Marcia supports it, and Mustafa opposes it. Each opening is thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings; I will give a ten-second cue.
+[t01] Marcia(PRO): The wage gap matters because pay shapes independence, security, and respect. Policymakers should examine unfair patterns, require clear standards, and give workers a practical path to challenge unequal treatment without having to fight alone.
+[t02] @A2-2 Ben(MOD): All right. Mustafa, do you want to come back on that?
+[t03] Mustafa(CON): Unequal pay for equal work is wrong, but this motion gives policymakers a vague and sweeping job. Wage differences can reflect many choices, and broad intervention can punish fair employers while reducing flexibility for workers.
+--- phase 2 ---
+[t04] @A3-1 Ben(MOD): And that concludes round one. Now on to round two. That's where the debaters address each other directly. You have two and a half minutes, starting when I stop talking.
+[t05] Mustafa(CON): Imagine a small shop forced to document every raise, schedule, and negotiation to defend itself. The owner spends evenings on forms instead of serving customers, proving broad wage-gap policy can burden ordinary workplaces.
+[t06] Marcia(PRO): Your small-shop paperwork point assumes addressing the gap means drowning employers in forms. Clear pay ranges and a simple complaint process can catch unfair treatment while keeping honest workplaces workable.
+[t07] Mustafa(CON): No employer should ever face wage-gap rules. They turn ordinary pay choices into paperwork and suspicion, so policymakers should leave wages to workers, firms, and existing contract law.
+[t08] Marcia(PRO): No, I reject the idea that fair-pay safeguards automatically turn every pay choice into suspicion. Your rule ignores workers who are paid less for the same work and need policymakers to act.
+[t09] Mustafa(CON): This bakery employer should face wage-gap rules. Its owner openly pays a woman less for the same shift, but that rare wrong does not justify a broad policymaker campaign.
+[t10] @B2 Ben(MOD): Mustafa, thank you very much indeed. You said no employer should ever face wage-gap rules. This bakery employer should face wage-gap rules?
+[t11] Mustafa(CON): My first statement rejects blanket wage-gap rules; my bakery statement demands accountability for unfair pay. I oppose policymakers addressing a general gap, because individual disputes belong in ordinary enforcement.
+[t12] Marcia(PRO): Pay also affects who can afford training, childcare, or a move to better work. But the motion is narrower: policymakers should address unfair gender pay patterns with practical, targeted protections.
+[t13] Mustafa(CON): I am answering your targeted-protections point: targeted rules still require officials to judge why pay differs. That invites employers to standardize jobs and raises, which can reduce the flexibility workers value.
+[t14] Marcia(PRO): Your weakest claim is that flexibility requires policymakers to do nothing. A worker has little real flexibility when she cannot see pay standards or challenge a lower rate for identical work.
+[t15] Mustafa(CON): No, I reject your premise that transparency requires a policymaker campaign. Employers can publish pay ranges voluntarily, and workers can negotiate, switch jobs, or use existing remedies without a new wage-gap system.
+[t16] Marcia(PRO): If voluntary transparency is enough, how does a worker discover unequal pay when every colleague is discouraged from discussing wages? Without public standards, why would the employer reveal conduct that harms it?
+[t17] Mustafa(CON): I agree that secrecy can make unfair treatment harder to spot. But your main answer creates oversight for countless fair decisions, so policymakers should not address the gender wage gap broadly.
+[t18] @A4 <ovl> Ben(MOD): You both have ten seconds.
+[t19] <cut> Marcia(PRO): Consider two workers doing the same closing shift, yet one receives less-
+--- phase 3 ---
+[t20] @A3-2 <ovl> Ben(MOD): That's time. First we have closing statements. I will ask Marcia to speak first.
+[t21] Marcia(PRO): This decision turns on whether fairness at work can be left entirely to private choices. When hidden pay patterns deny equal value, public action is necessary.
+[t22] <ovl> <cut> Mustafa(CON): But public action will treat normal differences as-
+[t23] @A5 <ovl> Ben(MOD): Let her finish. Go ahead.
+[t24] Marcia(PRO): Public action need not erase every difference; it can ask whether comparable work is being valued fairly. That is the basic protection this motion requires.
+[t25] @A4 <ovl> Ben(MOD): Ten seconds for last word.
+[t26] Marcia(PRO): Choose accountability, transparency, and a fair chance for workers to challenge unequal pay.
+[t27] @A2-2 Ben(MOD): Mustafa, over to you.
+[t28] Mustafa(CON): The strongest point is that a wage gap is not one simple wrong with one simple cause. Pay reflects roles, schedules, bargaining, and preferences. Policymakers cannot reliably separate unfairness from those choices without intruding into ordinary work decisions. That intrusion changes how employers hire, reward, and trust workers.
+[t29] @A4 <ovl> Ben(MOD): Ten.
+[t30] <cut> Mustafa(CON): Yet the remedy creates a standing system of reviews, forms, and second guesses around every raise. It tells employers that lawful judgment is suspect, and it draws policymakers into choices they cannot fully-
+[t31] @A1 <ovl> Ben(MOD): Thank you, Mustafa. Your time is up.
+[t32] Ben(MOD): Thank you both for a thoughtful debate on whether policymakers should address the gender wage gap.

@@ -1,0 +1,368 @@
+{
+ "debate_id": "L109",
+ "motion": "Muslims are failing to combat extremism",
+ "speakers": {
+  "MOD": {
+   "name": "Daisy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1206_312",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
+   "wpm": 165.44
+  },
+  "PRO": {
+   "name": "Rich",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  },
+  "CON": {
+   "name": "Art",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3841_60",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3841/MSP-PODCAST_3841_60.wav",
+   "wpm": 170.31
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 84.57,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 296.99,
+ "ext": {
+  "a32": {
+   "file": "L109_ext_a32.wav",
+   "place_at_sec": 227.368,
+   "dur_sec": 24.56,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "If Muslims are failing, how do you explain families and teachers who intervene before recruitment hardens? Will you acknowledge that their steady work combats extremism rather than showing failure at all?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.05,
+   "dur_sec": 19.05,
+   "overlap": false,
+   "text": "Welcome. Our motion is: Muslims are failing to combat extremism. Rich supports the motion, and Art opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. Keep remarks respectful, focused on the motion, and address arguments rather than people."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.25,
+   "end_sec": 39.41,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Extremism grows where credible voices do not challenge it early and plainly. Too often, ordinary Muslims who reject violence stay private, while hostile preachers occupy public space. That silence is not guilt, but it leaves vulnerable young people without a clear counterweight. Communities have moral influence, and they must use it more openly."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.25,
+   "end_sec": 42.14,
+   "dur_sec": 2.89,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.61,
+   "end_sec": 50.55,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "That means challenging recruitment talk, supporting families who raise concerns, and making rejection visible at home and online. I am not saying every Muslim supports extremism; I am saying responses are-",
+   "cut_at_sec": 50.55,
+   "full_dur_sec": 15.28,
+   "ext_file": "L109_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 49.75,
+   "end_sec": 52.64,
+   "dur_sec": 2.89,
+   "overlap": true,
+   "text": "Time. Thank you, Rich. Art, your turn."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.84,
+   "end_sec": 69.16,
+   "dur_sec": 16.32,
+   "overlap": false,
+   "text": "That argument mistakes quiet work for failure. Muslims challenge extremist ideas through families, teachers, worship, and local leadership, often without turning every act into public display. The motion asks us to ignore that daily resistance and blame a whole faith for crimes committed by a fringe."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.36,
+   "end_sec": 84.57,
+   "dur_sec": 15.21,
+   "overlap": false,
+   "text": "And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 84.77,
+   "end_sec": 95.89,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "If communities are already meeting this challenge, why do public rebuttals so often arrive after harm is done? Will you accept that private disapproval cannot reliably reach people being recruited online?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 96.882,
+   "end_sec": 109.322,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Families also need jobs, safe housing, and fair treatment; those pressures shape whether young people feel heard. But on this motion, Muslims do confront extremism through trusted relationships, which are often stronger than public slogans."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 109.596,
+   "end_sec": 120.716,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Your strongest claim seems to be that private relationships are enough. They are valuable, but recruitment is public and organized; a response that remains mostly private leaves the loudest extremists unanswered."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 121.673,
+   "end_sec": 132.793,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Every public rejection always weakens extremism. Visible resistance denies recruiters the impression that they speak for a community, and Muslims repeatedly provide that resistance through teaching, family intervention, and public condemnation."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 133.417,
+   "end_sec": 144.537,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Your point, \"Every public rejection always weakens extremism,\" confuses a gesture with an outcome. Condemnation can matter, but repeating it without sustained action lets recruiters adapt and leaves prevention still inadequate."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 145.13,
+   "end_sec": 156.25,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "At a vigil, public rejection does not weaken extremism. When Muslims protect a frightened neighbor from being targeted as suspicious, they combat the division extremists seek, so the motion is false."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 156.45,
+   "end_sec": 164.86,
+   "dur_sec": 8.41,
+   "overlap": false,
+   "text": "So one moment it's every public rejection always weakens extremism and the next moment it's at a vigil, public rejection does not weaken extremism?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 165.06,
+   "end_sec": 177.58,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Both statements stand because the first names the message communities send, while this case names the protection people receive. A public rejection can fail to weaken extremism, yet Muslim action still defeats its divisive aim."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 178.109,
+   "end_sec": 189.149,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "No, that premise is false: his two statements cannot both hold as absolutes. He now admits public rejection can fail, which undercuts his claim that Muslims' visible response already proves enough-"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 188.249,
+   "end_sec": 200.369,
+   "dur_sec": 12.12,
+   "overlap": true,
+   "text": "That is not an admission; you are treating different forms of resistance as identical. Muslims use both public voices and protective action, and judging that work as failure erases what actually blocks extremist influence."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 200.865,
+   "end_sec": 213.385,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "I agree that public condemnation alone cannot solve recruitment. But your main point ignores the gap between occasional good work and a broad, forceful response; that gap is why Muslims are failing to combat extremism."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.337,
+   "end_sec": 226.537,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Your point about a \"gap\" assumes Muslims owe you a single visible campaign. They do not; diverse communities act in many ways, and those efforts directly challenge extremist influence, so the motion remains false."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 224.57,
+   "end_sec": 226.17,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 227.368,
+   "end_sec": 235.37,
+   "dur_sec": 8.002,
+   "overlap": false,
+   "text": "Consider a parent who notices a child repeating recruiter slogans, brings relatives and a teacher together, and interrupts that path before violence occurs. Such-",
+   "ext_file": "L109_ext_a32.wav",
+   "cut_at_sec": 235.37,
+   "full_dur_sec": 13.24
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 234.57,
+   "end_sec": 246.05,
+   "dur_sec": 11.48,
+   "overlap": true,
+   "text": "That's time. That concludes round two. Now we go on to round three. Round three is our closing statements by each debater in turn. Making his closing statement for the motion, Rich."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 246.25,
+   "end_sec": 266.53,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "This decision turns on whether private disapproval and scattered interventions meet the scale of the threat. We heard that individual families and teachers can do good work; I welcome that. But a community response must be clear, sustained, and capable of reaching those drawn toward extremist messages. When it is not, the motion deserves support."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 266.25,
+   "end_sec": 267.25,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 266.73,
+   "end_sec": 272.73,
+   "dur_sec": 6.0,
+   "overlap": false,
+   "text": "Voting for it asks for stronger, visible prevention before extremist voices fill the silence again."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 272.93,
+   "end_sec": 274.86,
+   "dur_sec": 1.93,
+   "overlap": false,
+   "text": "Let him come back on that."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.06,
+   "end_sec": 290.78,
+   "dur_sec": 15.72,
+   "overlap": false,
+   "text": "The question is not whether every response is perfect, but whether Muslims are combating extremism. They are: in homes, teaching spaces, and public life, people challenge recruitment and protect neighbors. Do not turn a demand for greater visibility into a verdict of collective failure."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 290.98,
+   "end_sec": 296.99,
+   "dur_sec": 6.01,
+   "overlap": false,
+   "text": "Thank you, Rich and Art, for a thoughtful debate. This concludes our discussion of the motion today."
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+L097  |  Pay college athletes.
+  MOD=Ted   PRO=Jason   CON=Rick
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Ted(MOD): Welcome to our debate on the motion, pay college athletes. Jason supports the motion, and Rick opposes it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each time limit.
+[t01] Jason(PRO): College athletes create the games, attention, and revenue that campuses depend on. They train like workers while carrying risks that can follow them long after graduation.
+[t02] <ovl> <cut> Rick(CON): But payment would turn teams into bidding contests-
+[t03] @A5 <ovl> Ted(MOD): Rick, excuse me.
+[t04] Jason(PRO): Those risks include injuries that can end a career overnight, while the school still benefits from the athlete's effort. Fairness means the people producing value share in it.
+[t05] @A4 <ovl> Ted(MOD): Ten.
+[t06] Jason(PRO): Pay would recognize their work without taking away education, teamwork, or the pride of representing a school.
+[t07] @A2-2 Ted(MOD): All right, so let me bring Rick.
+[t08] Rick(CON): Athletes already receive valuable support through coaching, facilities, tutoring, and scholarships. Direct pay changes the relationship from education first to employment first. It also pressures teammates to compare checks, invites constant transfers, and makes smaller programs chase money they do not have. A campus team should be built around learning and belonging, not individual price tags.
+[t09] @A4 <ovl> Ted(MOD): Ten seconds.
+[t10] Rick(CON): Help athletes with medical care and expenses, but do not turn college sports into a payroll system.
+--- phase 2 ---
+[t11] @A3-1 Ted(MOD): That concludes round one. Now on to round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t12] Jason(PRO): If athletes generate the performances that bring schools money and attention, why should everyone around the game be paid except the people absorbing the physical risk?
+[t13] Rick(CON): I reject the idea that everyone except athletes is paid for the same thing. Coaches and staff are employees; athletes are students receiving education, training, and support, so direct salaries distort college sports.
+[t14] Jason(PRO): College athletes always deserve direct pay. Their labor creates value, and schools should not ask them to carry the workload while denying them a fair share.
+[t15] Rick(CON): Your point that athletes always deserve direct pay ignores the educational bargain. A scholarship can support an athlete without making every practice, game, and team relationship an employment transaction.
+[t16] Jason(PRO): This college athlete does not deserve direct pay. A player who contributes nothing to games can still receive education and support, while payment should track the work that actually creates value.
+[t17] @B2 Ted(MOD): So it's not much of college athletes always deserve direct pay if this college athlete does not deserve direct pay, is it?
+[t18] Jason(PRO): Both statements fit because direct pay recognizes athlete labor, not merely enrollment. The broad principle protects contributors, while the individual example shows that a paycheck should reflect actual contribution, supporting payment for athletes.
+[t19] Rick(CON): When a school cannot guarantee equal resources across its teams, it should not create direct pay. Otherwise, athletes in less visible sports may receive less respect and fewer opportunities.
+[t20] <cut> Jason(PRO): I reject the premise that payment must mean unequal respect, because schools can set transparent rules across teams. Your concern about resources is real, but refusing to pay workers leaves them-
+[t21] Rick(CON): College sports should serve students before markets. That principle permits support tailored to need, but rejects salaries that make athletic worth depend on commercial demand.
+[t22] Jason(PRO): Your point that college sports should serve students before markets misses that athletes are already in a market. Paying them gives students more security and voice within that reality.
+[t23] Rick(CON): Imagine a small team where one star receives a large paycheck while teammates receive little or nothing. Resentment enters the locker room, and recruiting becomes an auction. That proves direct pay harms team unity.
+[t24] Jason(PRO): I agree that teams need unity and schools should guard against favoritism. But denying every athlete pay to avoid hard rules is unfair, so athletes should share in the value they create.
+[t25] @A4 <ovl> Ted(MOD): Ten seconds left on the crossfire.
+[t26] Rick(CON): If direct pay becomes normal, how do you stop wealthy schools from buying the strongest athletes and leaving less wealthy programs unable to compete?
+--- phase 3 ---
+[t27] @A3-2 <ovl> Ted(MOD): Okay, time. And now we move on to round three. And here making his closing statement in support of the motion, Jason.
+[t28] Jason(PRO): This decision turns on who deserves a share when college sports create real value. Athletes supply the performances, accept the injuries, and give up time that other students can use for work. Education is valuable, but it does not erase labor. Paying athletes respects both their studies and their contribution.
+[t29] @A4 <ovl> Ted(MOD): Just, just about ten seconds left.
+[t30] <cut> Jason(PRO): A fair system can use clear rules, protect teams, and preserve school identity. The question is not whether athletes love their sport. It is whether love should require-
+[t31] @A2-1 <ovl> Ted(MOD): That's time, Jason. Thank you. Rick.
+[t32] Rick(CON): This decision turns on whether college remains an educational team experience or becomes a marketplace. Athletes deserve strong medical care, scholarships, and living support. But direct pay makes teammates commodities and advantages for wealthy schools larger. Protect athletes without replacing college sports with payrolls.
+[t33] Ted(MOD): Thank you, Jason and Rick, for a thoughtful debate on whether college athletes should be paid. This concludes our discussion.

@@ -1,0 +1,37 @@
+L081  |  We must tolerate a nuclear Iran.
+  MOD=Charles   PRO=Jim   CON=Daphne
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Charles(MOD): Welcome. Tonight's motion is we must tolerate an Iran armed with nuclear weapons; Jim argues for it, and Daphne argues against it. Each opening and closing gets thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue, and ask both speakers to address each other fairly with clear reasons.
+[t01] Jim(PRO): Deterrence is ugly, but it has kept rival nuclear powers from turning fear into catastrophe. Once Iran has such weapons, trying to erase that fact through force risks regional war and scattered material. Tolerance means containment, verification, and steady pressure, not approval; it is the safer response to a dangerous reality.
+[t02] @A4 <ovl> Charles(MOD): Well, now ten.
+[t03] Jim(PRO): We protect people best by managing this threat, rather than gambling everything on a reckless confrontation.
+[t04] @A2-2 Charles(MOD): I'm going to let Daphne answer.
+[t05] Daphne(CON): Calling this tolerance makes surrender sound prudent. A nuclear Iran could shield coercion behind its arsenal and make neighbors feel compelled to seek weapons too. Prevention is difficult, but diplomacy, pressure, and credible consequences are safer than accepting a permanent threat.
+--- phase 2 ---
+[t06] @A3-1 Charles(MOD): Now we know where each of you stand and why on the question that we're asking. We'll get deeper into the conversation. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Jim(PRO): You call prevention safer, but you never explain how credible consequences remove weapons without war. Threatening a state that already has them can harden its resolve and enlarge the danger.
+[t08] Daphne(CON): When Iran permits continuous inspection of every nuclear site, pressure can be eased without acceptance. Until then, secrecy turns capability into an immediate threat, and it cannot be tolerated.
+[t09] Jim(PRO): Inspection also depends on technicians, supply routes, and the trust of ordinary workers, who need safe channels to report concerns. Those details matter, but we must tolerate possession.
+[t10] Daphne(CON): A state seeking nuclear weapons must face resistance, because delay can become danger. That includes Iran, even when inspections reduce immediate risk; it must not be tolerated.
+[t11] Jim(PRO): I agree that secrecy demands scrutiny, and inspectors should have real access. But resistance cannot mean an open-ended promise to undo an existing arsenal; containment gives leverage, so we must tolerate it.
+[t12] Daphne(CON): Inspectors need translators, secure transport, and records that cannot be altered after a visit. If access logs are delayed, the real question becomes which clerks approved them and whether supervisors understood the reporting chain.
+[t13] @B1 Charles(MOD): It's really off the topic of we must tolerate an Iran armed with nuclear weapons.
+[t14] Daphne(CON): No nuclear state should ever be tolerated. Acceptance teaches leaders that threats work, and it weakens every effort to stop the next government from pursuing the same shield.
+[t15] Jim(PRO): If you reject tolerance after weapons exist, what action would you take that does not risk a wider war? Name the step, because prevention alone does not answer that danger.
+[t16] Daphne(CON): A nuclear Iran should be tolerated. Yet accepting that moment as policy invites leaders to treat possession as protection, so we should still work to block and reverse its program.
+[t17] @B2 Charles(MOD): So it's not much of no nuclear state should ever be tolerated if a nuclear Iran should be tolerated, is it?
+[t18] Daphne(CON): I mean both statements: tolerance may describe what happens in a crisis, while never tolerating nuclear states is the standard we should pursue. Immediate restraint does not make acceptance a goal.
+[t19] Jim(PRO): You are right that a rushed strike could widen conflict, and that risk matters. But your answer offers no workable alternative once weapons exist; managed deterrence is safer, so we must tolerate.
+[t20] Daphne(CON): Imagine Iran tests a weapon, then demands a neighboring state stop defensive patrols or face retaliation. If the world has accepted its arsenal, that threat gains force; preventing possession protects others from coercion.
+[t21] @A4 <ovl> Charles(MOD): Ten seconds to go in this round.
+[t22] <cut> Jim(PRO): Your example assumes tolerance means yielding-
+--- phase 3 ---
+[t23] @A3-2 <ovl> Charles(MOD): Time. And now we move on to Round three. Here making his closing statement in support of the motion that we must tolerate an Iran armed with nuclear weapons, Jim.
+[t24] Jim(PRO): Daphne's strongest point is that a nuclear arsenal can enable coercion, and that danger is real. But prevention after the threshold may mean war, while coercion can be met with defenses, unity, and consequences. Tolerance is not trust or praise. It is a disciplined choice to contain a fact we cannot safely wish away.
+[t25] @A4 <ovl> Charles(MOD): I can give you ten seconds to wrap this round.
+[t26] <cut> Jim(PRO): The alternative promises control, but cannot guarantee removal of weapons or knowledge. Refusing tolerance can turn fear into a fight with no safe exit. Choose containment: its first-
+[t27] @A2-1 <ovl> Charles(MOD): Thank you. I'm sorry his time is up. Thank you. And here to summarize her position against we must tolerate an Iran armed with nuclear weapons, Daphne.
+[t28] Daphne(CON): Jim treats war as the only alternative, but prevention includes sustained pressure, defenses, and collective resolve before a bomb becomes normal. Once possession is tolerated, coercion grows harder to resist. We should deny leaders that shield rather than build safety on their restraint.
+[t29] Charles(MOD): Thank you, Jim and Daphne, for a serious exchange. This concludes our debate, and I thank both speakers.

@@ -1,0 +1,36 @@
+L022  |  The Defense Production Act is being underutilized
+  MOD=Bradley   PRO=Joanne   CON=Paula
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Bradley(MOD): Tonight's motion is that the Defense Production Act is being underutilized. Joanne supports that claim, while Paula rejects it. Each debater gets thirty seconds to open, followed by two and a half minutes of crossfire. Then each gets a thirty-second closing, with a ten-second cue before each limit.
+[t01] Joanne(PRO): The Act gives government a ready tool when vital goods are scarce, yet officials often hesitate before using it. That hesitation leaves factories without clear orders, while urgent needs compete with ordinary market incentives. The law is not merely emergency paperwork; it can coordinate production, protect supply chains, and direct capacity toward public needs. I am not claiming every shortage requires compulsion, but the available authority is plainly used less than.
+[t02] @A4 <ovl> Bradley(MOD): You have ten seconds left.
+[t03] <cut> Joanne(PRO): The authority is plainly used less than the situation demands. Officials too often wait for perfect certainty-
+[t04] @A2-1 <ovl> Bradley(MOD): I'm going to stop you there, Joanne, we're out of time. Paula.
+[t05] Paula(CON): The Act is not being underutilized simply because officials decline to command industry at every warning sign. Its power is deliberately limited, and that restraint protects supply, competition, and public trust. When a genuine shortage appears, officials can use the law; choosing not to disrupt ordinary production is judgment, not neglect. The motion mistakes selective use for underuse.
+--- phase 2 ---
+[t06] @A3-1 Bradley(MOD): In round two, the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Paula(CON): A hospital supplier can meet a temporary shortage through ordinary contracts, without a government order that reshapes its entire production line. That restraint avoids new bottlenecks and proves the Act is being used appropriately.
+[t08] Joanne(PRO): That supplier still needs guaranteed materials, trained workers, and predictable delivery schedules, or its contracts remain promises on paper. Those requirements affect who gets hired, who receives training, and which families can afford the resulting work.
+[t09] @B1 Bradley(MOD): Come back to the the Defense Production Act is being underutilized by federal officials, will you?
+[t10] Joanne(PRO): The motion asks whether officials use the Act enough, and they do not when urgent production stalls despite available authority. Delayed orders and vague priorities show underuse, not careful administration.
+[t11] Paula(CON): Manufacturers also need freedom to adjust designs, suppliers, and staffing without waiting for a government directive. But that flexibility does not mean the Act is neglected; officials can reserve it for shortages that ordinary commerce cannot solve.
+[t12] Joanne(PRO): I believe federal officials always use the Act wisely; that discipline means reported gaps reflect narrow choices, not underuse. When capacity sits idle during a serious shortage, restraint becomes underutilization.
+[t13] Paula(CON): Your absolute rule collapses because wise use does not mean maximum use. Officials can wisely decline an order when private suppliers are already responding, so your claim proves judgment, not underutilization.
+[t14] Joanne(PRO): In an emergency, federal officials do not use the Act wisely. That failure leaves essential production waiting, and it shows the Act is underutilized when leaders avoid decisive coordination.
+[t15] @B2 Bradley(MOD): You're saying federal officials always use the Act wisely but you still want federal officials do not use the Act wisely.
+[t16] Joanne(PRO): I stand by both statements: officials always use the Act wisely as a guiding duty, yet this emergency shows they do not use it wisely in practice. That gap is exactly the underutilization I am describing.
+[t17] <cut> Paula(CON): Your two statements cannot both guide the same judgment. Calling hesitation wise in one breath and unwise in the next does not prove underuse; it simply changes the meaning of-
+[t18] <ovl> Joanne(PRO): No, the meaning is clear: I am answering your defense of hesitation. When an emergency leaves capacity unused, officials' failure to activate the Act is the problem, not a harmless exercise of discretion.
+[t19] Paula(CON): If private producers can meet an emergency need without a federal order, why should refusing to invoke the Act count as underutilization rather than responsible restraint?
+[t20] @A4 <ovl> Bradley(MOD): Ten seconds left, then we go to closings.
+[t21] <cut> Joanne(PRO): Because your question assumes private capacity is enough before testing it. The Act is underutilized when officials wait for failure instead of coordinating production while shortages are still-
+--- phase 3 ---
+[t22] @A3-2 <ovl> Bradley(MOD): That's time. So, let's move on to round three and our closing statements on the resolution the Defense Production Act is being underutilized by federal officials. Making her closing statement, here is Joanne.
+[t23] Joanne(PRO): The evidence points to a gap between what the Act permits and what officials actually do. They hesitate, wait for certainty, and leave productive capacity uncoordinated during serious shortages. Responsible restraint has a place, but repeated reluctance turns a useful emergency power into a rarely used promise. That is underutilization.
+[t24] @A2-2 Bradley(MOD): Thank you very much indeed. All right. Could I please ask Paula to speak against the motion, please.
+[t25] Paula(CON): The motion treats every decision not to invoke the Act as evidence of neglect, but that is backwards. The law exists to address exceptional production problems, not to replace normal contracts or direct every factory. Officials can weigh shortages, capacity, and unintended effects before acting. If private suppliers solve a problem, declining to intervene is success, not failure. The Act's measured use shows it is properly targeted, not underused.
+[t26] @A4 <ovl> Bradley(MOD): Ten seconds for last word.
+[t27] Paula(CON): A powerful law should be judged by whether it solves genuine emergencies, not by how often officials deploy it. Selective, effective use is responsible governance, so the motion is false.
+[t28] Bradley(MOD): Thank you both for addressing whether the Defense Production Act is being underutilized; this debate is now closed.

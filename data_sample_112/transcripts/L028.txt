@@ -1,0 +1,41 @@
+L028  |  Psychedelics should be legalized for the treatment of mental health based on currently available evidence.
+  MOD=Gregory   PRO=Thomas   CON=Justine
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Gregory(MOD): Welcome to this debate on whether psychedelics should be legalized for treating mental health based on currently available evidence. Thomas will argue for the motion, and Justine will argue against it. Each opening lasts thirty seconds, crossfire lasts two and a half minutes, and each closing lasts thirty seconds. I will give a ten-second cue.
+[t01] Thomas(PRO): The evidence already suggests psychedelics can help some people when treatment is carefully screened, supervised, and followed up. Legalization would replace uncertain access with trained clinicians, clear safeguards, and honest monitoring. We should regulate a promising treatment, not bury it.
+[t02] @A2-2 Gregory(MOD): Thomas, let me let Justine, because I didn't hear from her.
+[t03] Justine(CON): The evidence is encouraging, but encouragement is not enough to legalize these drugs for mental-health treatment. We still face uncertainty about lasting benefits, serious reactions, and which patients may be harmed. A legal market could spread use faster than careful screening and follow-up can protect people.
+[t04] @A4 <ovl> Gregory(MOD): Ten seconds, ten seconds.
+[t05] Justine(CON): Compassion requires more than hope; it requires dependable safety. Until the evidence answers those gaps, supervised research and limited access are wiser than legalization.
+--- phase 2 ---
+[t06] @A3-1 Gregory(MOD): And that concludes round one. Now, onto round two where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Justine(CON): No, the current evidence does not justify broad legalization; promising results support more controlled investigation, not a wider system. Thomas is treating possibility as proof of readiness.
+[t08] Thomas(PRO): Picture a screened patient receiving supervised treatment, support during the experience, and follow-up afterward instead of searching for an unsafe source. That regulated pathway reduces hidden risks and shows why legalization can protect patients.
+[t09] Justine(CON): That clinic example assumes the safeguards will work everywhere. The point is that uncertain screening and follow-up can leave vulnerable patients exposed, so a hopeful example cannot establish readiness.
+[t10] Thomas(PRO): If carefully supervised treatment is safer than uncontrolled access, why keep it outside a legal medical framework where screening, training, and follow-up can be required?
+[t11] Justine(CON): The weakest part is your assumption that legalization guarantees care. It may permit treatment, but it cannot ensure enough trained providers, accurate screening, or reliable follow-up for every patient.
+[t12] Thomas(PRO): You are right that legalization alone cannot guarantee quality care. But that is an argument for licensing and enforceable standards, not prohibition; regulated access gives mental-health treatment a safer structure.
+[t13] Justine(CON): When a patient has a serious vulnerability that screening cannot reliably detect, legalization can expose that patient to severe distress or destabilization. Under that condition, caution protects patients.
+[t14] <cut> Thomas(PRO): Even with vulnerability screening, leaving treatment illegal can push desperate patients toward unsupervised use, without preparation, emergency support, or follow-up. A legal clinical route can prevent that harm and show why prohibition fails to-
+[t15] Justine(CON): A legal route may reduce some underground risks, yet legalization still expands exposure beyond the carefully selected patients in your example. The broader policy can therefore remain unjustified.
+[t16] Thomas(PRO): Training standards also matter because clinicians need guidance, just as they do for other powerful treatments. That broader medical issue is manageable; the motion still asks whether responsible legalization fits the evidence.
+[t17] Justine(CON): Your claim that the issue is manageable skips the central uncertainty. Unlike ordinary prescribing, these experiences can alter judgment and intensify distress, so missing evidence makes legalization premature.
+[t18] Thomas(PRO): The uncertainty is real, but uncertainty surrounds many accepted treatments. The main question is whether safeguards can reduce risk while offering possible relief, and regulated legalization does that better than secrecy.
+[t19] Justine(CON): That concern does not make uncertainty harmless; it shows why ordinary comparisons fail. If clinicians cannot reliably predict benefit and harm, legalization can outrun the evidence it claims to follow.
+[t20] @A4 <ovl> Gregory(MOD): You both have ten seconds.
+[t21] <cut> Thomas(PRO): A patient denied lawful care may turn to an untrained provider who offers no screening or emergency plan-
+--- phase 3 ---
+[t22] @A3-2 <ovl> Gregory(MOD): Okay, time. And that concludes round two. And now we're going to move on to round three. Here to argue in his closing statement, in support of this motion, Thomas.
+[t23] Thomas(PRO): This debate is not between careless access and perfect certainty. It is between regulated treatment and a system that leaves patients to hidden risks. The available evidence supports cautious legalization with screening, trained clinicians, informed consent, and follow-up. We can learn while protecting people.
+[t24] <cut> Thomas(PRO): Justine is right that safeguards must be real, but refusing legalization does not create certainty or safety. It denies patients a supervised option and leaves demand in less accountable hands. The responsible answer is-
+[t25] @A4 <ovl> Gregory(MOD): I'll give you ten more seconds to nail this.
+[t26] @A2-1 <ovl> Gregory(MOD): Your time is up. Thank you. Justine.
+[t27] Justine(CON): The strongest point is that hidden, unsafe access can harm people. But replacing one risk with legal treatment still requires evidence of durable benefit and predictable safety, which we do not yet have.
+[t28] <ovl> <cut> Thomas(PRO): But patients already face those risks, and a legal-
+[t29] @A5 <ovl> Gregory(MOD): Can we let her reply please?
+[t30] Justine(CON): The promise of accountability cannot substitute for proof that the treatment is dependable. When serious uncertainty remains, protecting vulnerable patients means controlled research and careful access, not legalization.
+[t31] @A4 <ovl> Gregory(MOD): Just, just about ten seconds left.
+[t32] Justine(CON): Hope matters, but current evidence supports caution rather than legalizing treatment broadly.
+[t33] Gregory(MOD): Thank you both for your thoughtful arguments. This debate is closed, with no winner declared.

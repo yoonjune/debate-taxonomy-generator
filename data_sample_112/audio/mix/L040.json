@@ -1,0 +1,427 @@
+{
+ "debate_id": "L040",
+ "motion": "Embrace the Common Core",
+ "speakers": {
+  "MOD": {
+   "name": "Martha",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1763_64",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1763/MSP-PODCAST_1763_64.wav",
+   "wpm": 173.81
+  },
+  "PRO": {
+   "name": "Karen",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4100_1134",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4100/MSP-PODCAST_4100_1134.wav",
+   "wpm": 166.01
+  },
+  "CON": {
+   "name": "Genevieve",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  }
+ },
+ "selective": [
+  "A1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 99.3,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 311.08,
+ "ext": {
+  "a32": {
+   "file": "L040_ext_a32.wav",
+   "place_at_sec": 237.539,
+   "dur_sec": 33.07,
+   "src_i": 24
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 25,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "No, continuity does not guarantee support; it makes targeted support easier to identify. Rejecting common standards would leave each school guessing, making transitions harder for the students who need consistency."
+  },
+  {
+   "src_i": 26,
+   "speaker": "CON",
+   "slot": "X16",
+   "text": "The weakest point is your claim that rejection means guessing. Schools can set rigorous local goals and share information without embracing one framework, so your benefit does not require the motion."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.77,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "Today we debate the motion, embrace the Common Core. Karen argues for it, and Genevieve argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, with a ten-second cue. Then each debater gets a thirty-second closing, also with a ten-second cue. Please address the motion and one another directly."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.97,
+   "end_sec": 39.9,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Embracing the Common Core gives students a shared foundation, so expectations do not collapse when families move or teachers change. It supports clear skills in reading, writing, and mathematics, while leaving room for local lessons and teacher judgment. That common starting point can help every child reach meaningful standards before opportunity gaps become permanent."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.97,
+   "end_sec": 42.22,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.1,
+   "end_sec": 45.55,
+   "dur_sec": 5.45,
+   "overlap": false,
+   "text": "A shared foundation makes improvement possible without demanding identical classrooms."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 45.75,
+   "end_sec": 49.2,
+   "dur_sec": 3.45,
+   "overlap": false,
+   "text": "All right. Let me bring it back to Genevieve."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 49.4,
+   "end_sec": 69.49,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "The Common Core promises fairness, but one framework cannot fit every child, classroom, or community. It can turn teaching into a race through a fixed sequence, even when students need different paths. It can also narrow learning toward what is easiest to test. Embracing it risks replacing judgment with compliance, not creating genuine opportunity."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 69.4,
+   "end_sec": 71.01,
+   "dur_sec": 1.61,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 69.69,
+   "end_sec": 80.7,
+   "dur_sec": 11.01,
+   "overlap": false,
+   "text": "A teacher may know that a student needs more time, a different book, or practical support, yet the framework can still push the class onward. Schools should build standards around children, not-",
+   "cut_at_sec": 80.7,
+   "full_dur_sec": 19.88,
+   "ext_file": "L040_007.wav"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 79.9,
+   "end_sec": 83.88,
+   "dur_sec": 3.98,
+   "overlap": true,
+   "text": "Please come to an end, we're running out of time, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 84.08,
+   "end_sec": 99.3,
+   "dur_sec": 15.22,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two. And round two is where the debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 99.5,
+   "end_sec": 109.22,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "A school that adopts one reading sequence can force a struggling child ahead before she is ready, replacing support with pace. That shows uniformity can harm learning."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 109.588,
+   "end_sec": 119.038,
+   "dur_sec": 9.45,
+   "overlap": false,
+   "text": "You're answering the risk of forced pace but ignoring the remedy: common expectations do not require one speed or one reading sequence; they can guide support and-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 118.138,
+   "end_sec": 127.908,
+   "dur_sec": 9.77,
+   "overlap": true,
+   "text": "Wait, Karen, that remedy depends on local freedom, which your embrace can pressure schools to abandon. A child may need another sequence entirely, and common rules can block it."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 128.237,
+   "end_sec": 136.967,
+   "dur_sec": 8.73,
+   "overlap": false,
+   "text": "If districts pair common standards with local curriculum and teacher judgment, embracing them can align goals without flattening instruction. That condition makes the motion worthwhile."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 137.337,
+   "end_sec": 148.817,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Families also need clear information about homework, schedules, and classroom choices. Those daily decisions shape trust at home, but trusting schools requires flexibility; embracing the Common Core still risks too much uniformity."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 149.731,
+   "end_sec": 158.701,
+   "dur_sec": 8.97,
+   "overlap": false,
+   "text": "Embracing common expectations helps all students, even when each classroom chooses different materials, pacing, and examples. Shared aims can support variety rather than erase it."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 159.505,
+   "end_sec": 169.505,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "A child who excels through hands-on projects may be labeled behind when a common sequence rewards worksheets instead. That concrete mismatch shows embracing the framework can misread ability."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 170.093,
+   "end_sec": 179.223,
+   "dur_sec": 9.13,
+   "overlap": false,
+   "text": "That example attacks poor implementation, not the common aim. A project can teach the same skills, so shared standards protect the goal while teachers choose the route."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 179.822,
+   "end_sec": 190.262,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Choosing the route also affects how teachers plan a week's work, group students, and explain progress to families. Those choices depend on preparation time, materials, and room for revision."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 190.462,
+   "end_sec": 195.752,
+   "dur_sec": 5.29,
+   "overlap": false,
+   "text": "Come back to the embrace the common core in our schools and classrooms, will you?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 195.952,
+   "end_sec": 205.322,
+   "dur_sec": 9.37,
+   "overlap": false,
+   "text": "The motion asks whether we should embrace the Common Core, and that mismatch matters: a framework that limits pace or sequence should not be embraced as a default."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.026,
+   "end_sec": 215.316,
+   "dur_sec": 9.29,
+   "overlap": false,
+   "text": "If shared standards allow projects, pacing, and local materials, what exactly prevents your preferred flexibility? Why reject a common goal because some schools may implement it poorly?"
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 216.16,
+   "end_sec": 226.92,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "I grant that shared goals can make expectations clearer. But clarity is not enough when the framework steers teaching toward uniform pacing and testing; rejecting the embrace protects professional judgment."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 227.221,
+   "end_sec": 237.071,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "A transfer student can enter a new classroom and recognize familiar skills, then receive targeted help instead of starting over. That continuity proves embracing common standards expands opportunity."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 237.539,
+   "end_sec": 248.589,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "Your continuity example assumes familiar skills guarantee useful support. They do not; a child can share a label yet need different content, pace, or language, so the common framework remains harmful.",
+   "ext_file": "L040_ext_a32.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 239.3,
+   "end_sec": 240.91,
+   "dur_sec": 1.61,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 249.3,
+   "end_sec": 256.54,
+   "dur_sec": 7.24,
+   "overlap": true,
+   "text": "Okay, time. So now we're gonna head to our closing round. Karen, you are up first. Your closing statement, please."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 256.74,
+   "end_sec": 276.67,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "The strongest case for embracing the Common Core is not identical teaching; it is a dependable destination. Students deserve clear expectations that travel with them, and teachers deserve a framework they can adapt. Common standards can expose gaps, support transfers, and preserve local creativity. When paired with judgment, they make fairness more practical."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 276.74,
+   "end_sec": 278.59,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 276.87,
+   "end_sec": 285.6,
+   "dur_sec": 8.73,
+   "overlap": false,
+   "text": "Genevieve has shown that poor implementation can hurt children, but that is an argument for wise use, not rejection. Embrace the common foundation and improve its application."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 285.8,
+   "end_sec": 288.53,
+   "dur_sec": 2.73,
+   "overlap": false,
+   "text": "And I want to take it to Genevieve."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 288.73,
+   "end_sec": 306.74,
+   "dur_sec": 18.01,
+   "overlap": false,
+   "text": "The central danger is treating a common framework as fairness itself. A child who needs another pace or path can be judged against the framework instead of supported by a teacher. Shared goals may help, but embracing this system invites uniformity where judgment matters most. We should trust adaptable local teaching, not one national template."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 306.94,
+   "end_sec": 311.08,
+   "dur_sec": 4.14,
+   "overlap": false,
+   "text": "Thank you both for taking part. This debate is now closed."
+  }
+ ]
+}

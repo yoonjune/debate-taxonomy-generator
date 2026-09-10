@@ -1,0 +1,390 @@
+{
+ "debate_id": "L055",
+ "motion": "Populism is the future of politics.",
+ "speakers": {
+  "MOD": {
+   "name": "Darius",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  },
+  "PRO": {
+   "name": "Rod",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0341_111",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0341/MSP-PODCAST_0341_111.wav",
+   "wpm": 167.28
+  },
+  "CON": {
+   "name": "Matthew",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4066_400",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4066/MSP-PODCAST_4066_400.wav",
+   "wpm": 162.5
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 80.16,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 309.68,
+ "ext": {
+  "a32": {
+   "file": "L055_ext_a32.wav",
+   "place_at_sec": 223.94,
+   "dur_sec": 23.44,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Rod's point about making listening unavoidable confuses pressure with a lasting political future. Pressure is valuable, but when it denies plural voices and complex tradeoffs, it cannot provide the durable politics people need."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.6,
+   "dur_sec": 19.6,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion that populism is the future of politics. Rod speaks for it, and Matthew speaks against it. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue before each timed statement ends, and explain the transitions clearly."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.8,
+   "end_sec": 33.44,
+   "dur_sec": 13.64,
+   "overlap": false,
+   "text": "Populism gives ordinary people a direct way to challenge distant power. When old parties stop listening, voters seek movements that speak plainly about daily pressures. That demand will keep reshaping politics, and it will not fade when campaigns end."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 33.64,
+   "end_sec": 35.6,
+   "dur_sec": 1.96,
+   "overlap": false,
+   "text": "It's Matthew's turn to talk."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 35.8,
+   "end_sec": 56.16,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Populism can expose real frustration, but a future needs more than a loud diagnosis. It often divides people into pure crowds and corrupt enemies, leaving little room for compromise. Politics must solve disputes among neighbors with different needs. That work depends on institutions, patience, and shared rules, not permanent populist conflict."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 55.8,
+   "end_sec": 58.04,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 56.36,
+   "end_sec": 65.4,
+   "dur_sec": 9.04,
+   "overlap": false,
+   "text": "Populism may remain a recurring force, especially during anger, yet recurrence is not destiny. The future belongs to politics that can govern after the applause fades."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 65.6,
+   "end_sec": 80.16,
+   "dur_sec": 14.56,
+   "overlap": false,
+   "text": "That concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 80.36,
+   "end_sec": 91.57,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "Matthew's point about compromise misses why populism grows. When institutions treat daily burdens as abstractions, plain demands restore accountability, and voters will keep choosing that direct pressure over politics that feels closed."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 92.476,
+   "end_sec": 103.956,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "You say pressure restores accountability, but consider a neighborhood meeting where one parent demands a louder playground. Who chooses the equipment, settles the schedule, and handles families who dislike noise after dark?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 104.156,
+   "end_sec": 112.116,
+   "dur_sec": 7.96,
+   "overlap": false,
+   "text": "Wait, can you frame your question more towards, to something that feeds into the motion that populism is the future of politics?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 112.316,
+   "end_sec": 124.746,
+   "dur_sec": 12.43,
+   "overlap": false,
+   "text": "On whether populism is the future of politics, that meeting shows why it is not. A demand may be sincere, yet governing requires balancing voices, not treating the loudest complaint as the people's entire will."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 125.059,
+   "end_sec": 137.179,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "When established parties repeatedly dismiss concerns people can see in their own lives, populism becomes the future because it offers them a language of control. Under that condition, polished promises cannot replace direct representation."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 137.63,
+   "end_sec": 149.67,
+   "dur_sec": 12.04,
+   "overlap": false,
+   "text": "I grant that ignored concerns can produce a justified backlash. But your main claim mistakes a corrective tool for a future: a movement built on resentment struggles to share power, and politics outlasts populism."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 149.941,
+   "end_sec": 162.461,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "No, backlash does not merely feed resentment; it tells leaders what polite systems conceal. You call it a corrective, but corrections become the future when elites keep refusing to change, and the demand for control-"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 161.561,
+   "end_sec": 173.041,
+   "dur_sec": 11.48,
+   "overlap": true,
+   "text": "No- you cannot call every lasting demand populism. People can demand control while rejecting leaders who claim exclusive ownership of the people, and that distinction keeps democratic politics from becoming populist politics."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 173.81,
+   "end_sec": 185.65,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Politics will always need ways for ordinary people to confront power, and populism supplies that language. Even where institutions respond well, its basic promise of popular control remains the direction politics will follow."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 186.02,
+   "end_sec": 197.86,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "If populism is the future, can it govern when half the public rejects its claim to speak for everyone? How do you protect dissent without abandoning the very us-against-them story that drives it?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 198.481,
+   "end_sec": 210.421,
+   "dur_sec": 11.94,
+   "overlap": false,
+   "text": "A town council plans to close its only market without hearing workers who rely on it. A populist campaign forces a public meeting, saves the market, and proves direct popular pressure can correct politics."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 211.193,
+   "end_sec": 223.393,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "I agree that public pressure can expose a bad decision. Yet your market example succeeds because people listen, revise plans, and protect minorities, while populism turns disagreement into betrayal; that is not politics' future."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 220.16,
+   "end_sec": 222.48,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left, both of you."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 223.94,
+   "end_sec": 230.96,
+   "dur_sec": 7.019,
+   "overlap": false,
+   "text": "No, populism does not require an us-against-them story; dissent is protected when ordinary people can challenge any leader. Your alternative trusts institutions-",
+   "ext_file": "L055_ext_a32.wav",
+   "cut_at_sec": 230.96,
+   "full_dur_sec": 11.4
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.16,
+   "end_sec": 243.04,
+   "dur_sec": 12.88,
+   "overlap": true,
+   "text": "And that's time. So onto round three. Round three, closing statements from each debater in turn, uninterrupted. And here to summarize his position in support of the motion that populism is the future of politics, Rod."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 243.24,
+   "end_sec": 263.25,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "This decision turns on what politics becomes when people feel unheard. Matthew asks us to trust systems to correct themselves, but their failures create the demand that populism answers. It is not simply anger. It is a lasting insistence that power answer ordinary people, and that insistence will shape every future contest."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 263.24,
+   "end_sec": 264.48,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 263.45,
+   "end_sec": 274.54,
+   "dur_sec": 11.09,
+   "overlap": false,
+   "text": "The question is not whether every populist voice is wise. It is whether the drive for direct control will define politics, and it will, because people will keep demanding-",
+   "cut_at_sec": 274.54,
+   "full_dur_sec": 14.09,
+   "ext_file": "L055_025.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 273.74,
+   "end_sec": 277.38,
+   "dur_sec": 3.64,
+   "overlap": true,
+   "text": "Thank you. Time is up on that. And now Matthew."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 277.58,
+   "end_sec": 297.35,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "The strongest point: being heard is not being governed well. Populism can raise a needed alarm, and I have granted that. But it survives by making one voice pure and every opponent suspect. A future worth choosing needs disagreement, compromise, and institutions strong enough to serve people without pretending they are one crowd."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 297.55,
+   "end_sec": 302.76,
+   "dur_sec": 5.21,
+   "overlap": false,
+   "text": "Choose a politics that hears the people, yet leaves room for all people."
+  },
+  {
+   "i": 28,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 297.58,
+   "end_sec": 298.46,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 302.96,
+   "end_sec": 309.68,
+   "dur_sec": 6.72,
+   "overlap": false,
+   "text": "Thank you both for a debate on this motion; that concludes our discussion, and we appreciate your arguments tonight."
+  }
+ ]
+}

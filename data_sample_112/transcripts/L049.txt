@@ -1,0 +1,38 @@
+L049  |  The Fed can manage a soft landing.
+  MOD=Trevor   PRO=Philip   CON=Nolan
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Trevor(MOD): Welcome to our debate on the motion, the Fed can manage a soft landing. Philip argues for the motion, while Nolan argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue.
+[t01] Philip(PRO): The Fed can slow demand without crushing it because its tools can be adjusted rather than simply switched on or off. A soft landing means easing inflation while preserving most jobs and productive activity. Careful, gradual decisions give the economy room to respond, so this is achievable.
+[t02] @A2-2 Trevor(MOD): Go ahead. Go ahead, Nolan.
+[t03] Nolan(CON): That sounds controlled in theory, but the Fed acts through delayed and uneven effects. By the time it sees weakness clearly, earlier restraint may already be pulling households and businesses down.
+[t04] <ovl> <cut> Philip(PRO): But those delays are precisely why officials can-
+[t05] @A5 <ovl> Trevor(MOD): No. Let Nolan come in. Please.
+[t06] Nolan(CON): pulling households and businesses down. Those same delayed effects mean officials are steering by old information, while workers and lenders are already making choices under pressure.
+[t07] @A4 <ovl> Trevor(MOD): I'll give you ten more seconds to nail this.
+[t08] Nolan(CON): They may aim carefully, but they cannot reliably undo momentum once tightening reaches the real economy.
+--- phase 2 ---
+[t09] @A3-1 Trevor(MOD): And that concludes opening statements and round one. Now, onto round two. This is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Philip(PRO): I agree that policy works with delays, and that makes the job difficult. But difficulty is not impossibility: the Fed can move gradually, read changing conditions, and avoid the sharp reversal that turns a slowdown into a crash.
+[t11] Nolan(CON): The deeper problem is who should bear the burden when prices rise, because public budgets and tax choices can shield families more directly than interest rates. Leaders should decide how relief is shared, instead of leaving lenders to reshape every household's choices.
+[t12] @B1 Trevor(MOD): Okay, again, it's not on our topic about whether the fed can manage a soft landing.
+[t13] Nolan(CON): On whether the Fed can manage a soft landing, I say no because it cannot precisely control how quickly borrowers cut spending or employers cut hiring. Its tools push broadly, so the landing can easily become a fall.
+[t14] Philip(PRO): If inflation pressure is already easing, the Fed can reduce restraint in measured steps before weak demand becomes a collapse. That specific window lets it protect jobs while still showing that price pressures will not be ignored.
+[t15] <cut> Nolan(CON): No, easing inflation does not mean the Fed can safely fine-tune the economy, because the effects of past moves may still be building. You call that a window, but it is more like a foggy road where brakes can-
+[t16] <ovl> Philip(PRO): The foggy-road image misses the point: a driver can slow early rather than wait for a cliff. The Fed has choices between doing nothing and slamming the brakes, and careful adjustment makes a soft landing possible.
+[t17] Nolan(CON): I grant that officials have more than one setting and can communicate their intentions. But each adjustment reaches families and firms differently, and that uneven response means the Fed cannot reliably deliver the smooth outcome you promise.
+[t18] Philip(PRO): The Fed can manage a soft landing across many conditions, not only when inflation is visibly easing. Its ability to set a direction, revise course, and prevent panic gives the economy a path toward stability rather than an inevitable hard fall.
+[t19] Nolan(CON): Your point about revising course assumes revisions arrive before the harm is clear. The Fed learns from an economy already changing, so its correction can amplify the weakness it was meant to soften, making the landing unreliable.
+[t20] Philip(PRO): If the Fed must never act until every effect is certain, what should it do when inflation is eroding paychecks and confidence? Refusing to use adjustable tools leaves only a worse choice: letting the problem grow until harsher action is needed.
+[t21] @A4 <ovl> Trevor(MOD): Ten seconds left on the crossfire.
+[t22] <cut> Nolan(CON): It should act, but acting does not prove it can manage a soft landing. The premise that-
+--- phase 3 ---
+[t23] @A3-2 <ovl> Trevor(MOD): And that's time. Now we move on to round three. And round three are closing statements by each debater in turn. Here is Philip.
+[t24] Philip(PRO): Nolan calls uncertainty a reason to deny capacity, but policymakers do not need perfect control to manage a soft landing. They can adjust gradually, respond to conditions, and avoid extremes. When inflation cools without a collapse in work and spending, that is practical management, and it is possible.
+[t25] @A2-2 Trevor(MOD): Let me bring back Nolan, please. Thanks.
+[t26] Nolan(CON): The strongest point is the lag between a Fed decision and its real effects. Officials act on signals that arrive late, while households, employers, and lenders react in different ways. Gradual moves can still pile up after the Fed believes it has done enough. That leaves no reliable steering wheel for the smooth outcome Philip promises.
+[t27] @A4 <ovl> Trevor(MOD): Ten seconds please.
+[t28] <cut> Nolan(CON): Yes, officials can change direction, but a later change cannot restore a job, a business plan, or confidence once fear has spread. The motion says the Fed can manage the landing-
+[t29] @A1 <ovl> Trevor(MOD): I have to step in because we hit our time limit.
+[t30] Trevor(MOD): Thank you, Philip and Nolan, for a thoughtful debate on whether the Fed can manage a soft landing.

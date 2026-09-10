@@ -1,0 +1,41 @@
+L092  |  Amazon is the reader's friend.
+  MOD=Hina   PRO=Adam   CON=Nadine
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Hina(MOD): Welcome. Today's motion is that Amazon is the reader's friend. Adam speaks for it, and Nadine speaks against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address the motion, listen to each other, and keep remarks within those limits.
+[t01] Adam(PRO): Amazon is a reader's friend because it puts a huge shelf within reach. A reader can search old titles, compare editions, and receive a book without hunting from store to store. That convenience matters especially when local choices are thin. It also lets readers discover unfamiliar voices through reviews and related suggestions.
+[t02] @A4 <ovl> Hina(MOD): Just, just about ten seconds left.
+[t03] <cut> Adam(PRO): And that access can turn a passing curiosity into a lifelong reading habit, even when the desired book is one ordinary shelves have missed. Amazon gives readers practical freedom, but-
+[t04] @A2-1 <ovl> Hina(MOD): That's time, Adam. Thank you. Nadine.
+[t05] Nadine(CON): Convenience is not friendship. Amazon may offer a vast catalog, yet it treats reading mainly as a sale to capture, not a relationship to respect. Its recommendations steer attention toward what keeps people buying, while small books and careful browsing can disappear. Readers deserve a friend that values discovery beyond the checkout.
+[t06] @A4 <ovl> Hina(MOD): I can give you ten seconds to wrap this round.
+[t07] Nadine(CON): A friend helps readers choose freely, rather than quietly shaping every choice around another sale.
+--- phase 2 ---
+[t08] @A3-1 Hina(MOD): That concludes round one. Now we move on to round two. Round two is the round where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+[t09] Nadine(CON): You call easy delivery friendship, but friends protect a person's choices. How can Amazon be a reader's friend when its shelves and prompts are designed to keep readers purchasing more?
+[t10] Adam(PRO): I believe Amazon always serves readers well. It gives people a clear route to books they want, including overlooked titles, and makes that route available whenever curiosity strikes at home.
+[t11] Nadine(CON): I grant that quick searching can save a reader time. But a friend does not turn every pause, preference, and recommendation into pressure to buy, so Amazon is not friendship.
+[t12] Adam(PRO): A reader looking for a small press title finds Amazon does not serve readers well. That failure deserves fixing, yet wider access still makes Amazon a reader's friend overall today.
+[t13] @B2 Hina(MOD): Well you're amazon always serves readers well and then you're amazon does not serve readers well. Which?
+[t14] Adam(PRO): Both statements fit because serving readers well describes Amazon's purpose, while a missed title shows work still unfinished. A friend can have a fault and still provide more help than harm.
+[t15] Nadine(CON): When a reader relies on a single search page, Amazon's suggestions can narrow what that reader sees. The apparent abundance then becomes a funnel, which is not friendship at all.
+[t16] Adam(PRO): If Amazon is merely manipulating readers, why do people return when they already know the title they want? Can you explain how fast access to that book harms their freedom?
+[t17] Nadine(CON): Recommendations shape reading choices even when they feel helpful. A friend should expand a reader's horizon, yet Amazon's selling system repeatedly directs attention toward the easiest next purchase available instead.
+[t18] <cut> Adam(PRO): I accept that recommendations can feel pushy. Yet readers can ignore them, search directly, and use Amazon as a tool; choice remains with the reader, which is why friendship fits-
+[t19] Nadine(CON): Book covers, packaging, and delivery routes can all affect the experience after a purchase. But the motion is about friendship, and Amazon's sales-first design makes it a seller, not a friend.
+[t20] Adam(PRO): A reader in a town with no bookshop searches for an out-of-print novel, finds it on Amazon, and finally joins a conversation they had been excluded from. That proves Amazon expands reading.
+[t21] Nadine(CON): Your claim that choice remains with the reader is weakest. Choices are shaped before a click: what appears first, what is promoted, and what is buried all guide the reader.
+[t22] @A4 <ovl> Hina(MOD): Ten seconds left on the crossfire.
+[t23] <cut> Adam(PRO): You say Amazon buries options, but what stops a reader from typing an exact title and comparing editions? Why call a searchable catalog an enemy-
+--- phase 3 ---
+[t24] @A3-2 <ovl> Hina(MOD): Time's up. And now we move into closing statements from each debater in turn, starting with Adam.
+[t25] Adam(PRO): Amazon is not perfect, and readers should question recommendations. But friendship is measured by useful help: finding a wanted book, reaching scarce titles, and opening paths to new ones. Amazon puts those choices within reach, so readers gain more access and more chances to read.
+[t26] @A2-2 Hina(MOD): Here's Nadine to argue against the motion that amazon is the reader's friend.
+[t27] Nadine(CON): The strongest point is control of discovery. Readers cannot choose books hidden by a sales system, and that system calls a customer useful only when.
+[t28] <ovl> <cut> Adam(PRO): That ignores the reader who finds a rare book-
+[t29] @A5 <ovl> Hina(MOD): Let her answer please.
+[t30] Nadine(CON): it produces another purchase. A friend protects independent discovery, but Amazon guides attention toward its own sale, leaving readers with convenience instead of genuine care alone.
+[t31] @A4 <ovl> Hina(MOD): Nadine, ten seconds.
+[t32] Nadine(CON): Readers need open discovery, not a sales machine, so Amazon is not their friend at all.
+[t33] Hina(MOD): Thank you, Adam and Nadine. This concludes our debate for today on whether Amazon is the reader's friend.

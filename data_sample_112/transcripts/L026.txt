@@ -1,0 +1,34 @@
+L026  |  This House deplores the release of the Lockerbie bomber to Libya
+  MOD=Christian   PRO=Bob   CON=Caroline
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Christian(MOD): Today's motion is, "This House deplores the release of the Lockerbie bomber to Libya." Bob supports the motion, while Caroline opposes it. Each side has thirty seconds to open, followed by two and a half minutes of crossfire. Then each side has thirty seconds to close, with a ten-second cue before time ends.
+[t01] Bob(PRO): The release of the Lockerbie bomber turned justice into a bargaining chip. A conviction for mass murder should not be set aside because a government wants better relations or a prisoner claims illness. This House should deplore a decision that weakened trust in law, diminished the victims' families, and told future killers that political pressure can open prison doors.
+[t02] Bob(PRO): Compassion matters, but it cannot erase responsibility for deliberate mass death. Releasing him also denied families the confidence that punishment would match the crime, so this House is right to deplore it.
+[t03] @A4 <ovl> Christian(MOD): Well, now ten.
+[t04] @A2-2 Christian(MOD): All right, let her answer.
+[t05] Caroline(CON): This House should not deplore a release that served a practical purpose. The bomber was gravely ill, and keeping him imprisoned until death would have offered little justice while blocking diplomatic progress. Deploring the decision turns a difficult humanitarian judgment into a simple demand for permanent punishment.
+--- phase 2 ---
+[t06] @A3-1 Christian(MOD): That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t07] Bob(PRO): You call it humanitarian, but that ignores the victims' equal claim to dignity. Illness does not make a life sentence meaningless, and diplomacy cannot justify freeing someone convicted of mass murder; the release made accountability negotiable.
+[t08] Caroline(CON): If a prisoner is terminally ill and continued imprisonment serves no meaningful protective purpose, release can be a humane and defensible choice. That condition matters here, because punishment should not become suffering for its own sake.
+[t09] Bob(PRO): You say punishment should not become suffering, but will you accept release whenever a convicted killer becomes ill? If not, what principle made this release responsible rather than a political exception?
+[t10] Caroline(CON): A state's mercy may be justified even when a prisoner remains morally guilty. That broader principle does not require every illness to produce release; it says humane judgment can outweigh punishment in exceptional cases.
+[t11] Bob(PRO): This also affects how families remember the dead, and public memory can never be reduced to a diplomatic gesture. More importantly, the motion asks whether the release deserved condemnation, and a mass killer's freedom plainly did.
+[t12] Caroline(CON): No convicted terrorist's release should ever be called a success. Even grave crimes do not erase the duty to judge a transfer by what it achieves, and this transfer achieved a safer outcome.
+[t13] Bob(PRO): You claim the transfer achieved a safer outcome, but that is not the same as justice. Calling this release a success rewards the very pressure that secured it and tells families that political convenience outranks their loss.
+[t14] Caroline(CON): This convicted terrorist's release should be called a success. It moved a dangerous prisoner away from a tense setting and created room for diplomacy, so condemning it ignores the practical result.
+[t15] @B2 Christian(MOD): So what I hear was on the one hand, you found yourself saying no convicted terrorist's release should ever be called a success. And then on the other hand, this convicted terrorist's release should be called a success.
+[t16] Caroline(CON): The first statement is my general rule; the second is my judgment about this release. I accept that they clash, because this case deserves a different verdict, and I still oppose deploring the decision.
+[t17] Bob(PRO): Imagine families watching a convicted mass murderer leave prison while officials celebrate improved relations. That spectacle turns a solemn conviction into a bargaining token, proving the release damaged justice and deserves this House's condemnation.
+[t18] @A4 <ovl> Christian(MOD): Ten seconds, and then closing statements.
+[t19] <cut> Caroline(CON): That spectacle does not prove the release was wrong; it proves the decision was emotionally painful. The premise that visible pain settles policy is mistaken, because humane-
+--- phase 3 ---
+[t20] @A3-2 <ovl> Christian(MOD): That's time. That wraps the discussion. Now, we go to closing statements. Bob, you are up first.
+[t21] Bob(PRO): This debate is not about denying illness or rejecting diplomacy. It is about whether either can justify freeing someone convicted of mass murder. The release weakened the meaning of punishment, wounded victims' families, and made justice appear negotiable. When political convenience overrides accountability, this House has every reason to deplore what happened.
+[t22] <cut> Bob(PRO): Caroline asks us to admire a practical outcome, but practical outcomes do not cleanse a grave injustice. A conviction should mean something even when diplomacy is difficult, and the victims deserved consistency rather than a symbolic-
+[t23] @A4 <ovl> Christian(MOD): Ten seconds, Bob.
+[t24] @A2-1 <ovl> Christian(MOD): Your time is up, Bob. Thank you. And here to summarize her position against the motion, Caroline.
+[t25] Caroline(CON): The strongest point is that the victims' pain was real, and no release can erase that. But deploring this decision ignores the bomber's terminal illness and the possible value of diplomacy. Compassion and practical judgment can coexist, so this House should not condemn the release.
+[t26] Christian(MOD): Thank you both; that concludes the debate, and I appreciate your careful arguments on both sides.

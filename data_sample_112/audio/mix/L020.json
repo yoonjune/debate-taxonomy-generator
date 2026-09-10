@@ -1,0 +1,378 @@
+{
+ "debate_id": "L020",
+ "motion": "Stop worrying about national deficits",
+ "speakers": {
+  "MOD": {
+   "name": "Emma",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1279_95",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1279/MSP-PODCAST_1279_95.wav",
+   "wpm": 175.28
+  },
+  "PRO": {
+   "name": "Daphne",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "CON": {
+   "name": "Daniel",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 75.2,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 287.8,
+ "ext": {
+  "a32": {
+   "file": "L020_ext_a32.wav",
+   "place_at_sec": 213.289,
+   "dur_sec": 23.08,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "If deficit anxiety forces cuts that deepen hardship, what exactly are citizens being protected from? Why should a troubling number matter more than the public needs it prevents us from meeting?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.01,
+   "dur_sec": 18.01,
+   "overlap": false,
+   "text": "Welcome to the debate on whether we should stop worrying about national deficits. Daphne argues for the motion, and Daniel argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each side gets a thirty-second closing, with a ten-second cue before time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.21,
+   "end_sec": 32.17,
+   "dur_sec": 13.96,
+   "overlap": false,
+   "text": "Stop worrying about national deficits does not mean ignore budgets; it means stop treating every deficit as a national emergency. We should judge borrowing by what it achieves, protecting essential services and investment instead of letting fear dictate policy."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 32.37,
+   "end_sec": 35.65,
+   "dur_sec": 3.28,
+   "overlap": false,
+   "text": "Thank you, Daphne. Speaking for the resolution. Daniel, against."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 35.85,
+   "end_sec": 56.01,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Daphne makes fear sound like the only reason to question deficits, but that avoids the real issue. Borrowing creates obligations that future citizens must meet, and interest can crowd out schools, safety, and useful investment. A government that stops worrying about deficits can spend without discipline, leaving fewer choices when a genuine crisis arrives."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 55.85,
+   "end_sec": 57.7,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 56.21,
+   "end_sec": 67.15,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "Even worthwhile programs need limits, because borrowed money is not free. Once leaders learn that deficit worries are dismissed, they can promise everything today and postpone every sacrifice-",
+   "cut_at_sec": 67.15,
+   "full_dur_sec": 14.16,
+   "ext_file": "L020_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 66.35,
+   "end_sec": 70.03,
+   "dur_sec": 3.68,
+   "overlap": true,
+   "text": "Please come to an end, we're running out of time, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.23,
+   "end_sec": 75.2,
+   "dur_sec": 4.97,
+   "overlap": false,
+   "text": "Let's debate. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 75.4,
+   "end_sec": 87.16,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "You say deficit fear should not dictate policy, but your motion says stop worrying, not worry less carefully. Without concern about repayment, how will leaders distinguish productive borrowing from promises they cannot sustain?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 87.974,
+   "end_sec": 96.254,
+   "dur_sec": 8.28,
+   "overlap": false,
+   "text": "No government should ever let deficit anxiety override urgent public needs. Responsible borrowing should be judged by results, not by a frightening total."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 96.812,
+   "end_sec": 108.292,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I reject the premise that concern automatically overrides public needs; careful concern can protect them. Your rule still offers no boundary against endless borrowing, and results cannot erase the obligation to repay."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 108.973,
+   "end_sec": 118.253,
+   "dur_sec": 9.28,
+   "overlap": false,
+   "text": "A government in recession should let deficit anxiety override urgent public needs. When families need support, refusing help merely to preserve a reassuring ledger is irresponsible."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 118.453,
+   "end_sec": 129.343,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "So it's not much of no government should ever let deficit anxiety override urgent public needs if a government in recession should let deficit anxiety override urgent public needs, is it?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 129.543,
+   "end_sec": 141.823,
+   "dur_sec": 12.28,
+   "overlap": false,
+   "text": "The statements are compatible as a broad standard and a deliberate test of it. The rule warns against anxiety ruling decisions, while this example shows that a rigid rule can fail when people need protection."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 142.454,
+   "end_sec": 155.334,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "If one decision excuses the next, then limits become decorative. A promise is still a promise, and breaking it teaches people that confidence is optional. Trust matters in every agreement, whether money is involved or not."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 155.534,
+   "end_sec": 161.464,
+   "dur_sec": 5.93,
+   "overlap": false,
+   "text": "But we're asking stop worrying about national deficits and focus on public needs. That's the question here."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 161.664,
+   "end_sec": 173.784,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "The motion asks whether we should stop worrying about national deficits, and the answer is no. Concern keeps borrowing accountable, even when spending is compassionate, because tomorrow's taxpayers deserve choices rather than automatic bills."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 174.41,
+   "end_sec": 187.21,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Imagine a government cutting food support and repairs during a downturn just to make its deficit look smaller. Borrowing can preserve livelihoods and prevent deeper damage, proving that deficit anxiety can cost more than responsible spending."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 187.701,
+   "end_sec": 200.501,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "That example does not prove deficits deserve no worry; it proves priorities matter. A government can protect vital support while still tracking debt, because refusing every limit eventually threatens the same people you want to help."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 201.212,
+   "end_sec": 212.612,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Your weakest claim is that tracking debt automatically protects vulnerable people. It may instead force cuts at the worst moment, while treating every deficit as danger hides the damage caused by austerity."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 213.289,
+   "end_sec": 225.129,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "I grant that badly timed cuts can hurt people, but that does not justify abandoning concern. Clear limits preserve room for future emergencies and keep promises credible, so national deficits still require worry.",
+   "ext_file": "L020_ext_a32.wav"
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 215.2,
+   "end_sec": 217.37,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "Ten seconds left, both of you."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 225.2,
+   "end_sec": 234.17,
+   "dur_sec": 8.97,
+   "overlap": true,
+   "text": "We're going to move now into our closing round. Daphne, you are answering yes to the question, and this is your time for your closing statement."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 234.37,
+   "end_sec": 250.01,
+   "dur_sec": 15.64,
+   "overlap": false,
+   "text": "Daniel's best point is that borrowing creates obligations, and we should honor them. But that duty does not make the deficit the main danger in every moment. Stop letting anxiety decide, and judge spending by whether it protects people and builds a stronger future."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 250.21,
+   "end_sec": 251.66,
+   "dur_sec": 1.45,
+   "overlap": false,
+   "text": "Daniel, you're up first."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 251.86,
+   "end_sec": 272.22,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Daphne is right that public needs matter, but she turns that limited truth into a sweeping instruction to stop worrying. Deficits are not just numbers; they are promises that restrict future choices. Careful concern does not demand cruel cuts. It demands priorities, limits, and honesty about who will pay. Without that discipline, today's compassion can become tomorrow's crisis."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 271.86,
+   "end_sec": 273.78,
+   "dur_sec": 1.92,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 272.42,
+   "end_sec": 281.46,
+   "dur_sec": 9.04,
+   "overlap": false,
+   "text": "We can protect essential services while still respecting the danger of unlimited borrowing. Concern is not panic; it is responsibility. Keep worrying about national deficits, because restraint preserves help when it is needed most."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 281.66,
+   "end_sec": 287.8,
+   "dur_sec": 6.14,
+   "overlap": false,
+   "text": "Thank you both. This debate is closed; there is no audience, and no winner is being declared today."
+  }
+ ]
+}

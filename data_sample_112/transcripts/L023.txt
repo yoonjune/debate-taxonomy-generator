@@ -1,0 +1,40 @@
+L023  |  Automation will crash democracy.
+  MOD=Graham   PRO=Dennis   CON=Matt
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Graham(MOD): Today we debate the motion that automation will crash democracy. Dennis takes the side that it will, while Matt argues it will not. Each debater gets thirty seconds to open, then two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue before each limit, and I will enforce the floor.
+[t01] Dennis(PRO): Automation can crash democracy by replacing judgment with opaque decisions. When citizens cannot see who rules them, trust and consent begin to.
+[t02] <ovl> <cut> Matt(CON): No, automation does not crash democracy-
+[t03] @A5 <ovl> Graham(MOD): Can you let him speak please?
+[t04] Dennis(PRO): When citizens cannot see who rules them, trust and consent begin to fail. Automated systems can decide whose voice is heard while hiding the values behind those choices.
+[t05] @A4 <ovl> Graham(MOD): Ten seconds from this side?
+[t06] Dennis(PRO): That loss of visible control turns citizens into subjects, and that is how automation crashes democracy.
+[t07] @A2-2 Graham(MOD): Thank you, Dennis. And that is the motion, automation will crash democracy by weakening trust and public choice. And here making his opening statement against the motion, Matt.
+[t08] Matt(CON): Automation is a tool, not a ruler. It can expose decisions to review, reduce arbitrary favoritism, and help more people take part. Democracy fails when power escapes accountability, but a machine can also make choices clearer and easier to challenge. The real danger is refusing oversight, not using automation itself. Properly governed systems can strengthen public control.
+[t09] @A4 <ovl> Graham(MOD): You've got ten seconds.
+[t10] <cut> Matt(CON): People should judge whether a system serves them, then change or remove it when it fails. Blaming automation for every abuse distracts from the human choices that shape it. Democracy needs-
+[t11] @A1 <ovl> Graham(MOD): I'm sorry, I'm sorry. Hit time.
+--- phase 2 ---
+[t12] @A3-1 Graham(MOD): And that concludes round one of this debate. Now we move on to round two. And round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t13] Matt(CON): You warned that hidden systems make citizens subjects. That risk is real, but secrecy is a governance failure, not proof that automation crashes democracy; visible rules and appeals can restore control.
+[t14] Dennis(PRO): If an automated system decides which citizens receive attention or access, how can ordinary people challenge its hidden values before those choices reshape an election?
+[t15] Matt(CON): No automated decision should ever be trusted. Democracy remains safe when people retain authority to inspect, question, and overturn every machine-made recommendation.
+[t16] Dennis(PRO): No, I reject the premise that inspection alone protects democracy. A citizen may challenge a decision only after harm spreads, while automated systems quietly shape attention, access, and consent.
+[t17] Matt(CON): This automated decision should be trusted. A transparent ballot count can be checked by citizens and corrected through public oversight, so automation need not place power beyond democratic control.
+[t18] @B2 Graham(MOD): But doesn't your argument for no automated decision should ever be trusted fight your argument that this automated decision should be trusted?
+[t19] Matt(CON): I hold both statements because the first rejects blind reliance, while the second recognizes justified confidence in a checkable result. That distinction keeps human authority above the machine.
+[t20] Dennis(PRO): Even a simple form can exclude people who speak differently or lack access. That broader design problem matters, but the motion concerns political control: automated filters can decide whose participation counts.
+[t21] <cut> Matt(CON): Would you trust an automated vote counter that shows its rules, permits inspection, and records every change, or would you reject it merely because software is involved-
+[t22] <ovl> Dennis(PRO): I would not trust it merely because its rules are visible. A system can be inspectable yet still define fairness in ways citizens never chose, and that weakens democratic control.
+[t23] Matt(CON): Yes, I would trust that vote counter under public oversight, because inspectable rules let citizens test and replace it. Your objection treats all automated judgment as permanently beyond correction.
+[t24] Dennis(PRO): Imagine a platform quietly ranks some citizens' messages below others during a public vote, without explaining the ranking. Their formal rights remain, but their influence disappears; that proves automation can crash democracy.
+[t25] Matt(CON): The weakest point is your claim that reduced visibility means lost rights. Influence can be restored through appeals, open rules, and replacement, so one bad ranking does not equal democratic collapse.
+[t26] Dennis(PRO): You call appeals a safeguard, but automated systems can shape the debate before anyone knows an appeal is needed. When machines allocate visibility and voice at scale, correction comes after control has already shifted.
+[t27] @A4 <ovl> Graham(MOD): Ten seconds, both of you.
+--- phase 3 ---
+[t28] @A3-2 <ovl> Graham(MOD): Okay, time. And now we move on to round three. Round three, closing statements from each debater in turn. And here to make his closing statement, Dennis.
+[t29] Dennis(PRO): The strongest point is that automation can govern participation before citizens see the decision. If hidden systems decide whose voice appears, formal voting remains, but public control has already been hollowed out. That is democracy crashing.
+[t30] @A2-2 Graham(MOD): Go ahead. Go ahead, Matt.
+[t31] Matt(CON): The strongest point against the motion is simple: tools do not rule by themselves. Citizens can inspect, challenge, replace, or ban systems, so automation may create risks, but it does not inevitably crash democracy.
+[t32] Graham(MOD): Thank you both for taking part. That closes the debate.

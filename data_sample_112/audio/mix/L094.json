@@ -1,0 +1,395 @@
+{
+ "debate_id": "L094",
+ "motion": "The Recent U.S. Policy Towards China Is Productive",
+ "speakers": {
+  "MOD": {
+   "name": "Enrique",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1656_617",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1656/MSP-PODCAST_1656_617.wav",
+   "wpm": 172.62
+  },
+  "PRO": {
+   "name": "Genevieve",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  },
+  "CON": {
+   "name": "Gregory",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6582_423",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6582/MSP-PODCAST_6582_423.wav",
+   "wpm": 164.89
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 81.55,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 290.3,
+ "ext": {
+  "a32": {
+   "file": "L094_ext_a32.wav",
+   "place_at_sec": 220.76,
+   "dur_sec": 32.61,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Your leverage claim is weakest because consequences without a shared destination become punishment for its own sake. Bargaining requires a workable offer, yet you have described pressure, not progress."
+  },
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "When officials set clear limits, a supplier can plan around known rules instead of guessing at sudden responses. That clarity lets practical deals continue, proving recent policy can produce steadier cooperation."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.67,
+   "dur_sec": 18.67,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that recent United States policy toward China is productive. Genevieve supports it, and Gregory opposes it. Each opening and closing gets thirty seconds, followed by two and a half minutes of crossfire; I will give a ten-second cue. Keep answers directed to the motion and let the other speaker finish."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.87,
+   "end_sec": 33.87,
+   "dur_sec": 15.0,
+   "overlap": false,
+   "text": "Recent policy has created leverage without closing every door. Clear limits on sensitive trade and steady communication make choices more predictable for both sides. That combination protects interests, invites practical cooperation, and is productive because it turns rivalry into managed, accountable pressure."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 34.07,
+   "end_sec": 36.96,
+   "dur_sec": 2.89,
+   "overlap": false,
+   "text": "Please, Gregory. That's where I was going next."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 37.16,
+   "end_sec": 57.32,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Productive policy should solve problems or reduce danger, not simply display resolve. The current approach piles up barriers, suspicion, and retaliation while offering no stable destination. Businesses and families face uncertainty, while officials treat contact as weakness. The central failure is that this approach turns manageable disputes into tests of pride, and"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 57.16,
+   "end_sec": 59.96,
+   "dur_sec": 2.8,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 57.52,
+   "end_sec": 68.46,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "And I am saying that pride does not create results. When each move invites a harder answer, even useful cooperation becomes risky, and people on both sides pay the price. Calling-",
+   "cut_at_sec": 68.46,
+   "full_dur_sec": 17.84,
+   "ext_file": "L094_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 67.66,
+   "end_sec": 68.87,
+   "dur_sec": 1.21,
+   "overlap": true,
+   "text": "Not this time."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.07,
+   "end_sec": 81.55,
+   "dur_sec": 12.48,
+   "overlap": false,
+   "text": "And that concludes round one. Now, onto round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 81.75,
+   "end_sec": 91.92,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "Your claim that clear limits create predictability is weakest. Limits announced without a credible path back encourage both governments to brace for conflict, so uncertainty grows rather than shrinks."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 92.839,
+   "end_sec": 104.319,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "People also argue about what travel, campus exchanges, and family visits should feel like, and those concerns deserve respect. But the motion is productivity: clear boundaries make negotiation more serious and useful."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 104.641,
+   "end_sec": 115.691,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "On your predictability point, serious negotiation needs trust that rules will not shift with every dispute. This policy makes ordinary contact suspect, so its supposed boundaries become another source of instability."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.326,
+   "end_sec": 128.086,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "If this policy merely breeds suspicion, why have officials retained channels for crisis talks and practical bargains? Those channels exist because firm leverage produces engagement rather than silence, so will you admit that-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 127.186,
+   "end_sec": 138.156,
+   "dur_sec": 10.97,
+   "overlap": true,
+   "text": "No, I will not accept that framing. Keeping a narrow emergency channel proves only that danger requires damage control; it does not prove the wider policy produces cooperation or durable gains."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 139.118,
+   "end_sec": 150.158,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "That emergency channel also affects interpreters, visiting researchers, and mixed families who need ordinary paperwork to work. Their concern is whether a delayed document separates people from reunions and shared projects."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 150.358,
+   "end_sec": 157.328,
+   "dur_sec": 6.97,
+   "overlap": false,
+   "text": "We're talking about the practicality or the morality of whether recent United States policy toward China is productive."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 157.528,
+   "end_sec": 166.978,
+   "dur_sec": 9.45,
+   "overlap": false,
+   "text": "A productive policy always leaves room for direct dialogue. Pressure can be firm, but it works best when the other side can hear demands, answer them, and bargain."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 167.479,
+   "end_sec": 178.529,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "A small tool maker delays hiring because parts may suddenly become harder to obtain and customers fear new barriers. That hesitation spreads through ordinary contracts, proving this policy creates costly uncertainty."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 178.795,
+   "end_sec": 188.875,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "Here, policy does not leave room for direct dialogue. A public warning must be unmistakable, and speaking privately beside it would blur the message that protects our interests."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 189.075,
+   "end_sec": 197.505,
+   "dur_sec": 8.43,
+   "overlap": false,
+   "text": "They do a productive policy always leaves room for direct dialogue or they should here, policy does not leave room for direct dialogue?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 197.705,
+   "end_sec": 209.475,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "They fit because dialogue is a standing option between policies, while this message itself does not invite dialogue. Keeping a door in the building does not mean every notice is written on it."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 209.801,
+   "end_sec": 220.451,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "No, those statements cannot both be true as stated. You call dialogue essential, then praise a policy that excludes it, which shows your claimed productivity depends on exceptions you deny."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 220.76,
+   "end_sec": 231.52,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "I agree that uncertainty can burden ordinary people. But the main issue is whether policy creates useful leverage, and clear consequences make serious bargaining more likely than empty reassurance does.",
+   "ext_file": "L094_ext_a32.wav"
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 221.55,
+   "end_sec": 223.93,
+   "dur_sec": 2.38,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 231.55,
+   "end_sec": 239.94,
+   "dur_sec": 8.39,
+   "overlap": true,
+   "text": "But now, it is time to bring this all home with our closing round. Genevieve for your closing statement, you are up first."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.14,
+   "end_sec": 254.31,
+   "dur_sec": 14.17,
+   "overlap": false,
+   "text": "The strongest point is simple: productive policy combines firm limits with channels for practical bargaining. That approach protects interests while preventing rivalry from becoming helpless drift. Recent policy creates leverage, clarity, and opportunities for managed cooperation, so it is productive."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 254.51,
+   "end_sec": 257.16,
+   "dur_sec": 2.65,
+   "overlap": false,
+   "text": "Gregory, you wanted to come in briefly."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 257.36,
+   "end_sec": 277.64,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Genevieve calls pressure leverage, but leverage is productive only when it produces a credible path to agreement. This approach has made contact more fragile and every dispute more dangerous. Clear rules cannot repair a strategy built on escalating distrust, because planning around hostility is not progress. The better course is engagement that"
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 277.36,
+   "end_sec": 278.6,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Gregory."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 277.84,
+   "end_sec": 283.77,
+   "dur_sec": 5.93,
+   "overlap": false,
+   "text": "reduces danger while protecting interests, because productive policy delivers results rather than permanent tension."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 283.97,
+   "end_sec": 290.3,
+   "dur_sec": 6.33,
+   "overlap": false,
+   "text": "Thank you, Genevieve and Gregory, for a vigorous discussion. This debate on the motion is now officially closed."
+  }
+ ]
+}

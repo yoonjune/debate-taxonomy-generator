@@ -1,0 +1,433 @@
+{
+ "debate_id": "L078",
+ "motion": "Let's Stop Welcoming Undocumented Immigrants",
+ "speakers": {
+  "MOD": {
+   "name": "Nathaniel",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6699_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6699/MSP-PODCAST_6699_79.wav",
+   "wpm": 176.38
+  },
+  "PRO": {
+   "name": "Eric",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  },
+  "CON": {
+   "name": "Genevieve",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4100_1134",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4100/MSP-PODCAST_4100_1134.wav",
+   "wpm": 166.01
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 70.5,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 299.69,
+ "ext": {
+  "a32": {
+   "file": "L078_ext_a32.wav",
+   "place_at_sec": 214.6,
+   "dur_sec": 22.3,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "I accept that fear can make people avoid officials. Yet the main question is whether welcome should continue after unauthorized entry, and a firm boundary paired with humane care better protects the rule."
+  },
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Your \"firm boundary\" is the weakest point because it confuses deterrence with welcome. We can reject harmful conduct through procedures without rejecting people, and that distinction is why we should keep welcoming."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.6,
+   "dur_sec": 19.6,
+   "overlap": false,
+   "text": "Welcome to our debate on whether we should stop welcoming undocumented immigrants into our communities. Eric supports the motion, and Genevieve opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Closings last thirty seconds, and I will give a ten-second cue. Please keep remarks focused and respectful throughout."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.8,
+   "end_sec": 34.12,
+   "dur_sec": 14.32,
+   "overlap": false,
+   "text": "Welcoming people who entered outside the rules sends a message that rules are optional. A fair system needs clear boundaries and honest entry paths. We can treat people decently while ending a welcome that rewards bypassing the process for everyone."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 34.32,
+   "end_sec": 36.96,
+   "dur_sec": 2.64,
+   "overlap": false,
+   "text": "So, let's let Genevieve jump in. Okay."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 37.16,
+   "end_sec": 51.25,
+   "dur_sec": 14.09,
+   "overlap": false,
+   "text": "Stopping welcome treats a person's paperwork as more important than their safety and hope. Order matters, but welcome can include guidance, checks, and a path forward. Shutting the door drives families into fear and makes communities less humane and less secure."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 51.45,
+   "end_sec": 70.5,
+   "dur_sec": 19.05,
+   "overlap": false,
+   "text": "Thank you both for your opening arguments. We now know where you stand and why. We'll dive into the discussion on the question, whether we should stop welcoming undocumented immigrants into our communities. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 70.7,
+   "end_sec": 80.7,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "If newcomers can ignore entry rules and still receive the same welcome, what reason remains to use lawful channels? Shouldn't a welcome require respecting the community's basic rules?"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 81.486,
+   "end_sec": 92.166,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "I agree that rules should mean something. But your claim assumes welcome erases rules; it can mean humane reception while cases are resolved, so we should not stop welcoming people."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 92.881,
+   "end_sec": 103.921,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Your phrase \"cases are resolved\" dodges the problem: a welcome before resolution can become permanent in practice. Humane treatment does not require inviting continued unlawful entry, so stopping welcome remains necessary."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 104.51,
+   "end_sec": 116.52,
+   "dur_sec": 12.01,
+   "overlap": false,
+   "text": "Imagine a mother arriving with a frightened child after a dangerous journey. A worker offers food, instructions, and a safe place to wait; that welcome prevents panic and proves compassion can coexist with order."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.97,
+   "end_sec": 128.01,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "That need for calm also affects classrooms when children arrive midyear without records or shared language. Teachers must decide placements, arrange support, and protect learning time for every child already there."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 128.21,
+   "end_sec": 133.9,
+   "dur_sec": 5.69,
+   "overlap": false,
+   "text": "We are talking about whether we should stop welcoming undocumented immigrants into our communities right now."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 134.1,
+   "end_sec": 145.94,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "On whether we should stop welcoming undocumented immigrants, the answer is yes: reception should not signal approval of unlawful entry. We can provide immediate safety while making clear that welcome ends at enforcement."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 146.564,
+   "end_sec": 156.974,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "You say safety and enforcement fit together, but how does ending welcome make a scared family safer or more likely to cooperate? Isn't fear more likely to push them into-"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 157.813,
+   "end_sec": 168.493,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "When someone arrives, is identified, and has a fair hearing promptly scheduled, temporary care is right. But welcoming settlement before that process is complete invites people to bypass the rules."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 169.026,
+   "end_sec": 179.896,
+   "dur_sec": 10.87,
+   "overlap": false,
+   "text": "Neighbors also worry about crowded buses and stretched clinics, concerns leaders should address. Still, those pressures are not the core issue: we should welcome undocumented immigrants because dignity is not permission."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 180.531,
+   "end_sec": 190.611,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "A country must enforce its borders consistently, because shared rules protect everyone who follows them. Ending a public welcome for undocumented entry is part of that basic responsibility."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 190.995,
+   "end_sec": 201.645,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "Your \"shared rules\" point mistakes welcome for surrender. Communities enforce rules through fair procedures, while stopping welcome strips away trust that makes those procedures work, so your remedy damages order."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.049,
+   "end_sec": 213.889,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Ending welcome does not make families unsafe; it means help without an invitation to remain outside the rules. Your trust point fails when a soft message encourages more dangerous journeys and more uncertainty."
+  },
+  {
+   "i": 18,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 210.5,
+   "end_sec": 212.75,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Ten seconds left on the clock."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.6,
+   "end_sec": 221.3,
+   "dur_sec": 6.7,
+   "overlap": false,
+   "text": "If welcome is compatible with enforcement, where exactly do you draw the line between receiving someone humanely and signaling that undocumented-",
+   "ext_file": "L078_ext_a32.wav",
+   "cut_at_sec": 221.3,
+   "full_dur_sec": 10.49
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 220.5,
+   "end_sec": 229.71,
+   "dur_sec": 9.21,
+   "overlap": true,
+   "text": "Time. And that concludes round two of this debate. Now we move on to round three. And here to summarize his position supporting the motion, Eric."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 229.91,
+   "end_sec": 239.83,
+   "dur_sec": 9.92,
+   "overlap": false,
+   "text": "This decision turns on whether kindness requires an open welcome after rules were bypassed. It does not: dignity can remain, while the community restores a meaningful boundary."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 238.93,
+   "end_sec": 241.23,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But that boundary becomes a wall for people seeking-",
+   "cut_at_sec": 241.23,
+   "full_dur_sec": 8.81,
+   "ext_file": "L078_024.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 240.43,
+   "end_sec": 242.68,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Wait, let him answer the question."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.88,
+   "end_sec": 253.24,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "while the community decides each case through clear, prompt procedures. A welcome that overlooks unlawful entry tells future arrivals that the boundary is only a suggestion."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 249.91,
+   "end_sec": 251.51,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 253.44,
+   "end_sec": 259.52,
+   "dur_sec": 6.08,
+   "overlap": false,
+   "text": "Choose a humane process, but stop welcoming undocumented entry as an accepted path into the community."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 259.72,
+   "end_sec": 261.25,
+   "dur_sec": 1.53,
+   "overlap": false,
+   "text": "Let's let Genevieve respond."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 261.45,
+   "end_sec": 281.46,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "This decision turns on what welcome means. It need not mean ignoring a boundary or granting anyone a free pass. It means meeting people with safety, information, and fair procedures instead of hostility. The other side calls that an invitation, but decent reception can make rules clearer and cooperation more likely. Closed doors create shadows, not order."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 281.45,
+   "end_sec": 282.69,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Genevieve."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.66,
+   "end_sec": 292.75,
+   "dur_sec": 11.09,
+   "overlap": false,
+   "text": "And when people fear rejection for asking help, they hide rather than report harm or seek guidance. That is not safety. The choice is whether rules show fairness, or whether fear-",
+   "cut_at_sec": 292.75,
+   "full_dur_sec": 13.29,
+   "ext_file": "L078_032.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 291.95,
+   "end_sec": 293.48,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 293.68,
+   "end_sec": 299.69,
+   "dur_sec": 6.01,
+   "overlap": false,
+   "text": "Thank you, Eric and Genevieve, for a spirited debate; this concludes our discussion of the motion tonight."
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+L080  |  Ukraine is of such strategic importance to the West's own security that the ongoing conflict demands deeper, broader, more robust intervention by the West.
+  MOD=Wayne   PRO=Annie   CON=Mustafa
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Wayne(MOD): Welcome. The motion is: Ukraine is so strategically important to Western security that its ongoing conflict demands deeper, broader, more robust Western intervention. Annie argues for it; Mustafa argues against it. Each opening and closing lasts thirty seconds. Then comes two and a half minutes of crossfire. I will give a ten-second cue.
+[t01] Annie(PRO): Ukraine's survival affects whether force can redraw Europe's security order. Deeper support means air defense, training, and durable supplies, so aggression fails rather than becoming a lesson for future coercion. This is not charity; it is prudent defense of the wider security space.
+[t02] @A2-2 Wayne(MOD): Thank you. Up next, speaking against the resolution is Mustafa.
+[t03] Mustafa(CON): Strategic importance does not automatically demand broader intervention. Ukraine can be supported without turning Western states into direct participants in a war whose boundaries are uncertain. More weapons, missions, and commitments can widen miscalculation, raise the chance of direct confrontation, and reduce room for negotiation. Security requires judging risks, not treating every danger as a reason to escalate. That distinction matters because.
+[t04] @A4 <ovl> Wayne(MOD): You have ten seconds.
+[t05] Mustafa(CON): because commitments can outgrow control. The safer course is strong but limited assistance, pressure for a settlement, and no deeper intervention that risks a wider war.
+--- phase 2 ---
+[t06] @A3-1 Wayne(MOD): That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Annie(PRO): Your point about escalation confuses restraint with safety. A restrained response that leaves Ukraine exposed invites coercion, whereas calibrated deeper support denies an aggressor the gains that make future threats more likely.
+[t08] Mustafa(CON): Your phrase 'calibrated deeper support' assumes outsiders can control a war's reactions. They cannot guarantee that more training, equipment, or operational help will deter rather than provoke a broader contest.
+[t09] Annie(PRO): Consider a town facing repeated strikes after its air defenses run short: families flee, basic services collapse, and pressure spreads outward. Timely deeper air-defense support protects civilians and proves Western security is defended forward.
+[t10] Mustafa(CON): When assistance is designed only to keep fighting going, rather than to secure a realistic settlement, deeper intervention worsens the problem. Under that condition, it extends suffering without creating safer Western security.
+[t11] Annie(PRO): I agree that support needs clear limits and political goals. But your settlement condition ignores leverage: negotiations mean little if Ukraine lacks protection, so deeper, disciplined assistance remains necessary for Western security.
+[t12] Mustafa(CON): War rarely follows tidy plans, and outside powers should be cautious about assuming they can manage it. Broader intervention creates obligations and dangers that may persist long after any proposed political goal disappears.
+[t13] Annie(PRO): Questions about rebuilding contracts and future trade are important, because ordinary people will live with those choices for years. But the motion is security now: stronger support prevents coercion from expanding, so intervention must deepen.
+[t14] <cut> Mustafa(CON): Your trade detour reveals the weakness: you call intervention necessary, yet cannot show where it ends or who bears its costs. Promising that support prevents expansion is not a plan; it is a hope that-
+[t15] <ovl> Annie(PRO): Will you answer the actual risk: if coercion succeeds because support is deliberately limited, what stops it being repeated? Your undefined endpoint is not an excuse for letting aggression set the security rules.
+[t16] Mustafa(CON): No, success in one conflict does not mechanically make broader intervention safer elsewhere. Your question assumes unlimited resolve deters repetition, but it can also lock Western security into recurring, costly confrontations.
+[t17] Annie(PRO): I accept that commitments can become costly and hard to reverse. Yet abandoning effective support because risk exists hands leverage to force, making the West less secure; deeper intervention is warranted.
+[t18] Mustafa(CON): You say leverage requires deeper intervention, but where is the limit that prevents Western personnel from becoming direct combatants? If you cannot name one, why should anyone trust this escalation?
+[t19] @A4 <ovl> Wayne(MOD): Ten seconds left on the crossfire.
+[t20] <cut> Annie(PRO): Your personnel point mistakes a limit for a reason to refuse action. Limits can exclude direct combat while expanding defenses-
+--- phase 3 ---
+[t21] @A3-2 <ovl> Wayne(MOD): And that's time. This concludes round two of the debate. Annie.
+[t22] Annie(PRO): Your best argument is escalation, but restraint does not erase danger; it leaves coercion rewarded. Ukraine's defense protects wider security, so deeper, bounded assistance is necessary.
+[t23] <ovl> <cut> Mustafa(CON): One loophole: bounded assistance becomes-
+[t24] @A5 <ovl> Wayne(MOD): Let Annie say something, then you, and then we're going to wrap.
+[t25] Annie(PRO): It is necessary because credible limits and sustained support can deny conquest without sending combat forces. The alternative is not calm; it is a security order built on intimidation.
+[t26] @A4 <ovl> Wayne(MOD): You've got ten seconds.
+[t27] Annie(PRO): Vote for deeper, disciplined intervention because Western security is safest when conquest fails rather than rewarded.
+[t28] @A2-2 Wayne(MOD): All right. Let me bring it back to Mustafa.
+[t29] Mustafa(CON): My central point is that strategic importance is not a blank check for deeper intervention. Western security is harmed, not helped, if assistance steadily creates direct obligations in a war with no controllable endpoint. Limited support can defend Ukraine's ability to choose while leaving space for diplomacy and avoiding a wider confrontation. Those boundaries become fragile when events.
+[t30] @A4 <ovl> Wayne(MOD): I can give you ten seconds to do this.
+[t31] <cut> Mustafa(CON): change. Each new setback produces calls for more equipment, more involvement, and more risk. The motion asks us to make that deeper path necessary; it has not shown why the West-
+[t32] @A1 <ovl> Wayne(MOD): I have to step in because we hit our time limit.
+[t33] Wayne(MOD): Thank you, Annie and Mustafa, for a thoughtful exchange. This concludes our debate on the motion today now.

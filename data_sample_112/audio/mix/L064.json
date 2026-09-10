@@ -1,0 +1,422 @@
+{
+ "debate_id": "L064",
+ "motion": "Liberals are stifling intellectual diversity on campus.",
+ "speakers": {
+  "MOD": {
+   "name": "Lawrence",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1656_617",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1656/MSP-PODCAST_1656_617.wav",
+   "wpm": 172.62
+  },
+  "PRO": {
+   "name": "Wayne",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2392_110",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2392/MSP-PODCAST_2392_110.wav",
+   "wpm": 165.84
+  },
+  "CON": {
+   "name": "Nadine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 66.41,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 295.63,
+ "ext": {
+  "a32": {
+   "file": "L064_ext_a32.wav",
+   "place_at_sec": 207.283,
+   "dur_sec": 36.48,
+   "src_i": 17
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 18,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Your clear-procedures point misses the problem: rules can look neutral while the people interpreting them share one ideology. When dissenters expect unequal treatment, fewer speak, and liberal dominance stifles intellectual diversity."
+  },
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I grant that biased officials can exist, and they should be challenged. But suspicion is not proof that liberals silence thought; appeals, rival groups, and criticism give dissenters routes to speak, so the motion fails."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.33,
+   "dur_sec": 20.33,
+   "overlap": false,
+   "text": "Welcome. Tonight we debate the motion, 'Liberals are stifling intellectual diversity on campus.' Wayne argues for it, and Nadine argues against it. Each speaker gets thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each limit. Please listen closely and keep remarks focused."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.53,
+   "end_sec": 35.53,
+   "dur_sec": 15.0,
+   "overlap": false,
+   "text": "Liberal majorities often decide which speakers seem respectable, which questions are safe, and which events deserve rooms. That pressure need not be written policy to silence dissent. A campus that fears unpopular arguments cannot test its own beliefs. That is stifling diversity."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 35.73,
+   "end_sec": 37.59,
+   "dur_sec": 1.86,
+   "overlap": false,
+   "text": "Let Nadine have the mic."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 37.79,
+   "end_sec": 52.56,
+   "dur_sec": 14.77,
+   "overlap": false,
+   "text": "Wayne mistakes disagreement and standards for censorship. Campuses host fierce argument when people can challenge claims without being shut out of learning. Liberal students do not own every decision, and intellectual diversity grows through more speech, not enforced deference for powerful views."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 52.76,
+   "end_sec": 66.41,
+   "dur_sec": 13.65,
+   "overlap": false,
+   "text": "And that concludes round one. Now, on to round two. This is where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 66.61,
+   "end_sec": 78.81,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Your pressure point is that informal disapproval silences dissent. But criticism is not exclusion: students may answer, organize, and invite rivals. Treating a hostile response as suppression makes ordinary debate look like liberal control."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 79.407,
+   "end_sec": 90.887,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "When a department controls invitations, funding, and grading in the same dispute, liberal gatekeepers can stifle diversity by rewarding one outlook. That concentrated power makes disagreement costly, even without a formal ban."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 91.512,
+   "end_sec": 102.632,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Your weakest claim is that shared control automatically makes disagreement costly. A department can fund competing events, grade transparent work, and protect debate; you have simply renamed responsibility as liberal gatekeeping."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 103.326,
+   "end_sec": 114.366,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Across campus, liberal cultural dominance shapes what students dare to say long before any department acts. That climate narrows inquiry, because social penalties can silence ideas as effectively as official barriers."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 114.827,
+   "end_sec": 126.947,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "In a seminar, a student challenges a popular theory, receives serious questions, revises her argument, and stays in the course. That is intellectual diversity working; it proves open standards can protect learning rather than-"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 126.047,
+   "end_sec": 138.247,
+   "dur_sec": 12.2,
+   "overlap": true,
+   "text": "Hold on, staying enrolled is not the whole question. If that student learns that certain conclusions bring mockery, lost invitations, or suspicious grading, she edits herself. Liberal dominance can work through those quiet signals."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 139.078,
+   "end_sec": 149.838,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "No campus viewpoint should ever be excluded. Intellectual diversity depends on allowing views to be examined, criticized, and answered, rather than letting any ideological majority decide they do not belong."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 150.616,
+   "end_sec": 162.456,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "I agree that disagreement can sting and still be valuable. But your rule ignores power: when liberals repeatedly control access and status, their judgments can shut ideas out, so the motion remains true."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 162.954,
+   "end_sec": 173.994,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "This campus viewpoint should be excluded. A claim that some students are unfit to participate does not enrich inquiry; defending equal access to discussion shows liberals are not stifling intellectual diversity."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 174.194,
+   "end_sec": 180.614,
+   "dur_sec": 6.42,
+   "overlap": false,
+   "text": "You're saying no campus viewpoint should ever be excluded but you still want this campus viewpoint should be excluded."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 180.814,
+   "end_sec": 193.334,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Both statements fit because a viewpoint invites argument, while a demand to expel participants destroys the forum argument requires. Protecting people in the forum preserves intellectual diversity; it does not empower liberals to silence dissent."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 194.114,
+   "end_sec": 206.554,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Would you call it diversity when a student group cannot book a room for a dissenter, while approved causes receive easy access? That happened in a campus meeting scenario, and it proves gatekeeping stifles diversity."
+  },
+  {
+   "i": 17,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 206.41,
+   "end_sec": 208.79,
+   "dur_sec": 2.38,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 18,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 207.283,
+   "end_sec": 217.21,
+   "dur_sec": 9.927,
+   "overlap": false,
+   "text": "No, I reject your premise: a booking dispute does not show liberal gatekeeping without knowing the rules and alternatives. Fair access means applying clear procedures to all groups-",
+   "ext_file": "L064_ext_a32.wav",
+   "cut_at_sec": 217.21,
+   "full_dur_sec": 12.52
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 216.41,
+   "end_sec": 226.3,
+   "dur_sec": 9.89,
+   "overlap": true,
+   "text": "It's time to bring this home with closing remarks. This is where the debaters get to make a summary closing statement. And, Wayne, you have the floor on this one."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 226.5,
+   "end_sec": 236.3,
+   "dur_sec": 9.8,
+   "overlap": false,
+   "text": "Nadine's best argument is that fair rules and criticism keep dissent alive. Yet rules administered through one ideology can chill speech; campuses need room for unpopular views."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 235.4,
+   "end_sec": 237.7,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No, you are treating discomfort as censorship-",
+   "cut_at_sec": 237.7,
+   "full_dur_sec": 9.36,
+   "ext_file": "L064_023.wav"
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 236.9,
+   "end_sec": 238.79,
+   "dur_sec": 1.89,
+   "overlap": true,
+   "text": "Please let him answer it then."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 238.99,
+   "end_sec": 249.43,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Because the issue is not hurt feelings, but whether people can pursue arguments without institutional and social penalties. When one political culture controls both, self-censorship follows."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 246.5,
+   "end_sec": 248.91,
+   "dur_sec": 2.41,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 249.63,
+   "end_sec": 255.47,
+   "dur_sec": 5.84,
+   "overlap": false,
+   "text": "The motion holds: intellectual diversity needs protection from liberal gatekeeping, not faith that it disappears."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 255.67,
+   "end_sec": 257.27,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Wayne, thanks, and Nadine."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 257.47,
+   "end_sec": 277.63,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Wayne's strongest point is that informal pressure can make people hesitate. That risk deserves attention, but it is not proof that liberals stifle campus thought. Students answer pressure by organizing, publishing, questioning, and appealing unfair decisions. The remedy is more open participation and fair process, not blaming one political camp for every conflict."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 277.47,
+   "end_sec": 280.59,
+   "dur_sec": 3.12,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 277.83,
+   "end_sec": 288.77,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "Calling every harsh exchange liberal suppression gives administrators an excuse to police ordinary disagreement. Campuses improve when claims face scrutiny and opponents remain able to answer. That is why-",
+   "cut_at_sec": 288.77,
+   "full_dur_sec": 14.09,
+   "ext_file": "L064_031.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 287.97,
+   "end_sec": 289.18,
+   "dur_sec": 1.21,
+   "overlap": true,
+   "text": "Not this time."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 289.38,
+   "end_sec": 295.63,
+   "dur_sec": 6.25,
+   "overlap": false,
+   "text": "Thank you, Wayne and Nadine, for a vigorous debate. That concludes our discussion of this motion."
+  }
+ ]
+}

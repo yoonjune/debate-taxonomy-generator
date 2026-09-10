@@ -1,0 +1,459 @@
+{
+ "debate_id": "L057",
+ "motion": "Too many kids go to college.",
+ "speakers": {
+  "MOD": {
+   "name": "Joanne",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3493_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3493/MSP-PODCAST_3493_43.wav",
+   "wpm": 162.3
+  },
+  "PRO": {
+   "name": "Alice",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  },
+  "CON": {
+   "name": "Nigel",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5508_46",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5508/MSP-PODCAST_5508_46.wav",
+   "wpm": 171.82
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 93.46,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 325.41,
+ "ext": {
+  "a32": {
+   "file": "L057_ext_a32.wav",
+   "place_at_sec": 238.284,
+   "dur_sec": 21.66,
+   "src_i": 25
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 26,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Better counseling and real exposure to work correct that imbalance. But an assumed next step is not proof that too many attend; students can reconsider, and access remains good, so the motion fails."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.88,
+   "dur_sec": 19.88,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that too many kids go to college; Alice supports it, and Nigel opposes it. Each debater gets thirty seconds for an opening statement, followed by two and a half minutes of crossfire. Then each receives thirty seconds for a closing statement. I will give a ten-second cue before each timed segment ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.08,
+   "end_sec": 29.85,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "College is valuable, but treating it as the default sends many young people into costly, unfocused paths. We should respect work, training, and purposeful choices equally."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 28.95,
+   "end_sec": 31.25,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "Why call it too many when you would limit options-",
+   "cut_at_sec": 31.25,
+   "full_dur_sec": 8.57,
+   "ext_file": "L057_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 30.45,
+   "end_sec": 32.45,
+   "dur_sec": 2.0,
+   "overlap": true,
+   "text": "Wait, let her answer the question."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 32.65,
+   "end_sec": 42.38,
+   "dur_sec": 9.73,
+   "overlap": false,
+   "text": "The issue is not forbidding anyone from attending. It is the pressure that tells every teenager college is the only respectable route, even before they know their goal."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.08,
+   "end_sec": 44.27,
+   "dur_sec": 4.19,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 42.58,
+   "end_sec": 48.35,
+   "dur_sec": 5.77,
+   "overlap": false,
+   "text": "When expectations replace judgment, too many kids enter college for the wrong reasons."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 48.55,
+   "end_sec": 50.11,
+   "dur_sec": 1.56,
+   "overlap": false,
+   "text": "Let's hear from Nigel."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 50.31,
+   "end_sec": 69.53,
+   "dur_sec": 19.22,
+   "overlap": false,
+   "text": "Alice calls college pressure, but pressure to explore a future is not coercion. Young people change their minds, and college can give them room to discover interests. Training routes matter, yet they should be added, not used to steer kids away from learning. A broad education builds confidence, curiosity, and flexibility when plans change."
+  },
+  {
+   "i": 9,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 69.73,
+   "end_sec": 78.29,
+   "dur_sec": 8.56,
+   "overlap": false,
+   "text": "The answer is better guidance and stronger alternatives, not declaring students excessive simply because their path is academic. Choice, not sorting, serves kids."
+  },
+  {
+   "i": 10,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 70.31,
+   "end_sec": 70.91,
+   "dur_sec": 0.6,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 78.49,
+   "end_sec": 93.46,
+   "dur_sec": 14.97,
+   "overlap": false,
+   "text": "And that concludes round one. And now we move onto round two, and in round two the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 93.66,
+   "end_sec": 103.22,
+   "dur_sec": 9.56,
+   "overlap": false,
+   "text": "You say kids enter for the wrong reasons, but uncertainty is not a wrong reason. College is where many people test interests safely before committing to one narrow path."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 104.198,
+   "end_sec": 114.448,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "If college is truly the right default, why should a teenager with no clear academic goal take years of classes instead of first trying work or training? Explain that."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 115.342,
+   "end_sec": 125.192,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "Families also worry about housing, schedules, and social life, which deserve attention. But those issues do not show excess enrollment; opportunity is not overuse, so the motion fails."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 126.044,
+   "end_sec": 135.834,
+   "dur_sec": 9.79,
+   "overlap": false,
+   "text": "On your point about opportunity, an open door is not the same as wise pressure to walk through it. Real opportunity includes respected routes that do not require college."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 136.808,
+   "end_sec": 147.138,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "Consider a student who loves repairing machines but later wants to design better ones. College builds writing and problem-solving skills, preserving options; enrollment is not excess, as the motion claims."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 148.006,
+   "end_sec": 159.456,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "I agree college can broaden a student's choices. But your machine example assumes every student needs a campus first; many learn those skills through paid work, so too many are pushed toward college."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 159.835,
+   "end_sec": 170.885,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "When a student wants a field requiring advanced study, college is the right choice. That does not make students without that goal excessive; choice should fit each student, so the motion fails."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 171.359,
+   "end_sec": 181.689,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "If choice should fit each student, why do schools signal that college is the successful choice before students have explored other work? Doesn't that message create the excess I describe?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 182.3,
+   "end_sec": 193.38,
+   "dur_sec": 11.08,
+   "overlap": false,
+   "text": "No young person should be treated as excessive for seeking education. Society benefits when people keep learning, whether they enter college with a firm plan or discover one there, so the motion fails."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 193.779,
+   "end_sec": 204.029,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "Your point that no individual is excessive dodges the pattern. A system can praise each applicant yet channel far too many into one route, leaving other talents underused and-"
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.129,
+   "end_sec": 214.079,
+   "dur_sec": 10.95,
+   "overlap": true,
+   "text": "That is not a dodge; people are not a pile to be managed. If other routes need respect, build them up, but do not call college seekers too many."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.447,
+   "end_sec": 225.997,
+   "dur_sec": 11.55,
+   "overlap": false,
+   "text": "I agree nobody should be reduced to a number. Still, calling a system crowded is not insulting students; it challenges the message that college is the only serious future, and the motion stands."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 226.606,
+   "end_sec": 237.416,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "Your claim that college is presented as the only serious future is the weak link. Parents and teachers can praise training without declaring education excessive, so your conclusion does not follow."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 233.46,
+   "end_sec": 235.62,
+   "dur_sec": 2.16,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 26,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 238.284,
+   "end_sec": 244.26,
+   "dur_sec": 5.976,
+   "overlap": false,
+   "text": "If you can praise training without calling education excessive, why has college become the assumed next step for-",
+   "ext_file": "L057_ext_a32.wav",
+   "cut_at_sec": 244.26,
+   "full_dur_sec": 10.17
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 243.46,
+   "end_sec": 255.15,
+   "dur_sec": 11.69,
+   "overlap": true,
+   "text": "That's time. Let's move on to Round three, closing statements from each debater in turn. Our resolution is, whether too many kids are going to college. Leading off with her closing statement, Alice."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 255.35,
+   "end_sec": 275.12,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "Nigel says uncertainty belongs in college. Yet uncertainty is exactly why no single expensive, academic route should be treated as the default. Young people deserve time to test work, craft, service, and study without being ranked by one credential. College remains right for many, but social pressure sends too many there before they can choose wisely."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 275.32,
+   "end_sec": 286.65,
+   "dur_sec": 11.33,
+   "overlap": false,
+   "text": "That pressure narrows classrooms and leaves other paths understaffed. We can honor college while ending the idea that it is every kid's first obligation. A fairer system opens real choices, and that-",
+   "cut_at_sec": 286.65,
+   "full_dur_sec": 15.28,
+   "ext_file": "L057_031.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 275.35,
+   "end_sec": 278.27,
+   "dur_sec": 2.92,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 285.85,
+   "end_sec": 289.26,
+   "dur_sec": 3.41,
+   "overlap": true,
+   "text": "Thank you. Time is up on that. And now Nigel."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 289.46,
+   "end_sec": 309.63,
+   "dur_sec": 20.17,
+   "overlap": false,
+   "text": "Alice mistakes weak guidance for too many students learning. The remedy is to improve counseling, make training visible, and let every young person choose. Calling attendance excessive turns a personal aspiration into a social mistake. College can offer exploration, transferable skills, and a second chance for a student whose plans are still forming. We should expand choices, not shrink the path."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 309.46,
+   "end_sec": 310.7,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 34,
+   "src_i": 35,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 309.83,
+   "end_sec": 318.48,
+   "dur_sec": 8.65,
+   "overlap": false,
+   "text": "Kids deserve alternatives that are genuinely respected, but they also deserve open access to college. Their uncertainty is a reason to support them, not exclude them."
+  },
+  {
+   "i": 35,
+   "src_i": 36,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 318.68,
+   "end_sec": 325.41,
+   "dur_sec": 6.73,
+   "overlap": false,
+   "text": "Thank you, Alice and Nigel, for a thoughtful debate; this concludes our discussion of the motion for tonight."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+L057  |  Too many kids go to college.
+  MOD=Joanne   PRO=Alice   CON=Nigel
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Joanne(MOD): Welcome. Tonight's motion is that too many kids go to college; Alice supports it, and Nigel opposes it. Each debater gets thirty seconds for an opening statement, followed by two and a half minutes of crossfire. Then each receives thirty seconds for a closing statement. I will give a ten-second cue before each timed segment ends.
+[t01] Alice(PRO): College is valuable, but treating it as the default sends many young people into costly, unfocused paths. We should respect work, training, and purposeful choices equally.
+[t02] <ovl> <cut> Nigel(CON): Why call it too many when you would limit options-
+[t03] @A5 <ovl> Joanne(MOD): Wait, let her answer the question.
+[t04] Alice(PRO): The issue is not forbidding anyone from attending. It is the pressure that tells every teenager college is the only respectable route, even before they know their goal.
+[t05] @A4 <ovl> Joanne(MOD): I can give you ten seconds to wrap this round.
+[t06] Alice(PRO): When expectations replace judgment, too many kids enter college for the wrong reasons.
+[t07] @A2-2 Joanne(MOD): Let's hear from Nigel.
+[t08] Nigel(CON): Alice calls college pressure, but pressure to explore a future is not coercion. Young people change their minds, and college can give them room to discover interests. Training routes matter, yet they should be added, not used to steer kids away from learning. A broad education builds confidence, curiosity, and flexibility when plans change.
+[t09] Nigel(CON): The answer is better guidance and stronger alternatives, not declaring students excessive simply because their path is academic. Choice, not sorting, serves kids.
+[t10] @A4 <ovl> Joanne(MOD): Ten.
+--- phase 2 ---
+[t11] @A3-1 Joanne(MOD): And that concludes round one. And now we move onto round two, and in round two the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t12] Nigel(CON): You say kids enter for the wrong reasons, but uncertainty is not a wrong reason. College is where many people test interests safely before committing to one narrow path.
+[t13] Alice(PRO): If college is truly the right default, why should a teenager with no clear academic goal take years of classes instead of first trying work or training? Explain that.
+[t14] Nigel(CON): Families also worry about housing, schedules, and social life, which deserve attention. But those issues do not show excess enrollment; opportunity is not overuse, so the motion fails.
+[t15] Alice(PRO): On your point about opportunity, an open door is not the same as wise pressure to walk through it. Real opportunity includes respected routes that do not require college.
+[t16] Nigel(CON): Consider a student who loves repairing machines but later wants to design better ones. College builds writing and problem-solving skills, preserving options; enrollment is not excess, as the motion claims.
+[t17] Alice(PRO): I agree college can broaden a student's choices. But your machine example assumes every student needs a campus first; many learn those skills through paid work, so too many are pushed toward college.
+[t18] Nigel(CON): When a student wants a field requiring advanced study, college is the right choice. That does not make students without that goal excessive; choice should fit each student, so the motion fails.
+[t19] Alice(PRO): If choice should fit each student, why do schools signal that college is the successful choice before students have explored other work? Doesn't that message create the excess I describe?
+[t20] Nigel(CON): No young person should be treated as excessive for seeking education. Society benefits when people keep learning, whether they enter college with a firm plan or discover one there, so the motion fails.
+[t21] <cut> Alice(PRO): Your point that no individual is excessive dodges the pattern. A system can praise each applicant yet channel far too many into one route, leaving other talents underused and-
+[t22] <ovl> Nigel(CON): That is not a dodge; people are not a pile to be managed. If other routes need respect, build them up, but do not call college seekers too many.
+[t23] Alice(PRO): I agree nobody should be reduced to a number. Still, calling a system crowded is not insulting students; it challenges the message that college is the only serious future, and the motion stands.
+[t24] Nigel(CON): Your claim that college is presented as the only serious future is the weak link. Parents and teachers can praise training without declaring education excessive, so your conclusion does not follow.
+[t25] @A4 <ovl> Joanne(MOD): You have ten seconds left.
+[t26] <cut> Alice(PRO): If you can praise training without calling education excessive, why has college become the assumed next step for-
+--- phase 3 ---
+[t27] @A3-2 <ovl> Joanne(MOD): That's time. Let's move on to Round three, closing statements from each debater in turn. Our resolution is, whether too many kids are going to college. Leading off with her closing statement, Alice.
+[t28] Alice(PRO): Nigel says uncertainty belongs in college. Yet uncertainty is exactly why no single expensive, academic route should be treated as the default. Young people deserve time to test work, craft, service, and study without being ranked by one credential. College remains right for many, but social pressure sends too many there before they can choose wisely.
+[t29] <cut> Alice(PRO): That pressure narrows classrooms and leaves other paths understaffed. We can honor college while ending the idea that it is every kid's first obligation. A fairer system opens real choices, and that-
+[t30] @A4 <ovl> Joanne(MOD): I'll give you ten more seconds to nail this.
+[t31] @A2-1 <ovl> Joanne(MOD): Thank you. Time is up on that. And now Nigel.
+[t32] Nigel(CON): Alice mistakes weak guidance for too many students learning. The remedy is to improve counseling, make training visible, and let every young person choose. Calling attendance excessive turns a personal aspiration into a social mistake. College can offer exploration, transferable skills, and a second chance for a student whose plans are still forming. We should expand choices, not shrink the path.
+[t33] @A4 <ovl> Joanne(MOD): Ten seconds warning.
+[t34] Nigel(CON): Kids deserve alternatives that are genuinely respected, but they also deserve open access to college. Their uncertainty is a reason to support them, not exclude them.
+[t35] Joanne(MOD): Thank you, Alice and Nigel, for a thoughtful debate; this concludes our discussion of the motion for tonight.

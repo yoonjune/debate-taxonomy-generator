@@ -1,0 +1,39 @@
+L001  |  Carbon capture is essential to fighting climate change.
+  MOD=Carla   PRO=Mari   CON=Hugh
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Carla(MOD): Today we debate the motion, "Carbon capture is essential to fighting climate change." Mari supports it, and Hugh opposes it. Each debater gets thirty seconds to open, followed by two and a half minutes of crossfire. Then each gets thirty-second closings. I will give a ten-second cue before each limit.
+[t01] Mari(PRO): Carbon capture is essential because some emissions cannot be eliminated quickly, especially from heavy industry and existing pollution. It can remove carbon while cleaner systems grow, buying time without pretending it replaces them. Climate safety needs both sharp cuts and reliable removal. That is where my case begins, and I will explain why delay makes the challenge harder.
+[t02] @A4 <ovl> Carla(MOD): Ten seconds, Mari.
+[t03] <cut> Mari(PRO): That removal also matters when old pollution remains in the air. A city can cut new emissions yet face accumulated damage; capturing some carbon addresses that burden while cleaner-
+[t04] @A2-1 <ovl> Carla(MOD): Mari, you're rather going on. Thank you. Hugh.
+[t05] Hugh(CON): Carbon capture may help with a narrow leftover problem, but that does not make it essential to fighting climate change. Mari's bridge can become a detour, keeping polluting systems alive and weakening pressure to replace them. The central task is stopping emissions at their source. We already have direct choices: use less energy, build cleaner power, and change industrial practice. Removal should not define climate success.
+[t06] @A4 <ovl> Carla(MOD): Ten seconds warning.
+[t07] Hugh(CON): If capture is treated as essential, it can excuse delay and protect polluters. Climate action is stronger when it cuts emissions directly first.
+--- phase 2 ---
+[t08] @A3-1 Carla(MOD): And that concludes round one. On to round two. Round two is where the debaters address one another in turn. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t09] Mari(PRO): If direct cuts leave unavoidable industrial emissions, what will remove that carbon at the necessary scale if you reject capture as essential? Please name a workable replacement, not merely another promise of future reductions.
+[t10] Hugh(CON): I grant that some emissions are difficult to eliminate, but difficulty does not prove capture is essential. Better industrial design and reduced demand can shrink those emissions, so climate progress should center on prevention, not uncertain removal.
+[t11] Mari(PRO): Imagine a factory that has cut every practical source but still releases process carbon. Capturing that remainder prevents pollution that efficiency alone cannot stop. That example proves capture is essential for a complete climate response.
+[t12] Hugh(CON): When a cleaner industrial process can eliminate the same emissions, capture is not the essential choice; direct prevention is cheaper, simpler, and less vulnerable to failure. Under that condition, capture should come second.
+[t13] <cut> Mari(PRO): That condition is too narrow, because many industries cannot yet eliminate process emissions through cleaner design alone. Capture handles what prevention misses, and calling it secondary does not make the remaining carbon disappear-
+[t14] Hugh(CON): Some residual emissions may require removal, but climate policy as a whole should prioritize avoiding emissions before addressing leftovers. That broader order still allows limited capture without making it essential to climate action.
+[t15] Mari(PRO): If capture is merely limited, how will you handle unavoidable emissions while waiting for alternatives that may take decades? Can your plan protect the climate from those emissions now, rather than later?
+[t16] Hugh(CON): Technology choices also affect jobs, costs, and public trust, and communities need changes they can maintain. Those concerns matter, but they should not distract us from the motion: direct cuts can fight climate change without making capture essential.
+[t17] Mari(PRO): A cement plant may reduce fuel pollution yet still release carbon from its raw materials. Capturing that process carbon preserves the needed product while cutting its climate harm. This proves capture fills a real gap.
+[t18] Hugh(CON): Your cement example shows capture can be useful, not essential. If society can use less cement, redesign buildings, or develop different materials, reducing demand avoids that pollution without relying on capture.
+[t19] Mari(PRO): Those alternatives may reduce demand, but they cannot remove every unavoidable process emission from remaining construction. A useful option is not enough; capture is essential wherever direct prevention cannot reach the source.
+[t20] <cut> Hugh(CON): The weakest part is your leap from some unavoidable emissions to an essential global strategy. A tool can address leftovers while the main solution remains cutting emissions, so necessity has not been-
+[t21] @A4 <ovl> Carla(MOD): Ten seconds remaining in this round.
+--- phase 3 ---
+[t22] @A3-2 <ovl> Carla(MOD): Okay, time. And now we move on to Round three. Round three will be closing statements by each debater in turn. Here making her closing statement in support of the motion, Mari.
+[t23] Mari(PRO): The strongest point is the gap between cutting emissions and removing what cuts cannot reach. Cleaner power and efficiency are vital, but they do not erase process emissions already produced or carbon already in the atmosphere. Capture gives us a way to address those leftovers while transformation continues. That makes it an essential part of serious climate action, not a substitute for it.
+[t24] @A4 <ovl> Carla(MOD): You have ten seconds.
+[t25] Mari(PRO): We need both prevention and removal, because climate protection cannot leave unavoidable carbon unanswered.
+[t26] @A2-2 Carla(MOD): Hugh? Do you want to try this one on?
+[t27] Hugh(CON): Mari shows that capture may help in difficult cases, but she has not shown it is essential to fighting climate change. Essential means the effort cannot succeed without it. We can reduce demand, redesign production, and replace polluting systems directly. Those steps attack the cause rather than preserving it. Capture belongs only where other solutions fail, so climate action does not depend on it.
+[t28] @A4 <ovl> Carla(MOD): Ten seconds for last word.
+[t29] <cut> Hugh(CON): A useful backup is not the same as an essential foundation. Make direct cuts the priority, and climate-
+[t30] @A1 <ovl> Carla(MOD): Thank you, Hugh. Your time is up.
+[t31] Carla(MOD): Thank you both for presenting your cases. This debate is now closed.

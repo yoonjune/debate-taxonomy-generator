@@ -1,0 +1,427 @@
+{
+ "debate_id": "L010",
+ "motion": "Florida is eating New York's lunch.",
+ "speakers": {
+  "MOD": {
+   "name": "Nadine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1206_312",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
+   "wpm": 165.44
+  },
+  "PRO": {
+   "name": "Joan",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "CON": {
+   "name": "Betsy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0860_780",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0860/MSP-PODCAST_0860_780.wav",
+   "wpm": 165.06
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 74.34,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 288.79,
+ "ext": {
+  "a32": {
+   "file": "L010_ext_a32.wav",
+   "place_at_sec": 218.608,
+   "dur_sec": 21.19,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "When a business places its next expansion in Florida because New York costs more, New York loses the future project, not merely a statistic. That is Florida eating its lunch."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.69,
+   "dur_sec": 19.69,
+   "overlap": false,
+   "text": "The motion is: Florida is eating New York's lunch. Joan supports it, and Betsy opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each side gets a thirty-second closing. I will give a ten-second cue before the relevant limit, and I will stop speakers when their time ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.89,
+   "end_sec": 32.41,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Florida is drawing away people, businesses, and energy that once strengthened New York. New York still has immense advantages, but Florida is offering lower costs and faster growth, so the balance is plainly shifting south."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 32.61,
+   "end_sec": 34.62,
+   "dur_sec": 2.01,
+   "overlap": false,
+   "text": "Let Betsy have the mic."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 34.82,
+   "end_sec": 44.51,
+   "dur_sec": 9.69,
+   "overlap": false,
+   "text": "Florida may be growing, but that does not mean it is taking New York's lunch. New York's economy is broader and more durable than that slogan suggests."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 43.61,
+   "end_sec": 45.91,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But broader does not mean winning now-",
+   "cut_at_sec": 45.91,
+   "full_dur_sec": 8.92,
+   "ext_file": "L010_004.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 45.11,
+   "end_sec": 47.6,
+   "dur_sec": 2.49,
+   "overlap": true,
+   "text": "Please let her answer the question."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 47.8,
+   "end_sec": 58.16,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "Growth alone is not the whole meal. Florida's gains can strain housing and services, while New York keeps its deep industries, talent, and influence across many fields."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 54.82,
+   "end_sec": 58.35,
+   "dur_sec": 3.53,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 58.36,
+   "end_sec": 64.21,
+   "dur_sec": 5.85,
+   "overlap": false,
+   "text": "So a faster-growing state is not necessarily eating another state's lunch."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 64.41,
+   "end_sec": 74.34,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "We're going to move into our proverbial free-for-all session. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 74.54,
+   "end_sec": 86.07,
+   "dur_sec": 11.53,
+   "overlap": false,
+   "text": "I grant that New York remains powerful, but power today is not the same as momentum. Florida is attracting the next wave of workers and investment, and that changes who gets tomorrow's opportunities."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 86.593,
+   "end_sec": 97.993,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "A family moving to Florida may find cheaper rent, then face crowded schools and costly insurance. That tradeoff sends people back or keeps them away, proving Florida's apparent advantage is less secure."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 98.489,
+   "end_sec": 106.009,
+   "dur_sec": 7.52,
+   "overlap": false,
+   "text": "If Florida's costs and services are such a serious barrier, why are people and employers still choosing it over New York?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 106.928,
+   "end_sec": 117.008,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "Because a cheaper address can look attractive before the bills arrive. Insurance rises, commutes lengthen, and classrooms fill; families must calculate whether that bargain is really a bargain."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 117.208,
+   "end_sec": 122.668,
+   "dur_sec": 5.46,
+   "overlap": false,
+   "text": "Please address the issue that I did raise, which is florida is eating new york's lunch."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 122.868,
+   "end_sec": 134.268,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "The motion asks who is taking the advantage, and Florida's apparent gains come with serious costs. If families lose savings to housing and insurance, Florida is not clearly eating New York's lunch."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 135.262,
+   "end_sec": 147.702,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Those pressures matter to daily life, especially for families choosing where to settle. But businesses also weigh taxes, room to expand, and access to workers, and those choices show Florida is taking New York's lunch."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.697,
+   "end_sec": 161.577,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "I grant that Florida can offer room and lower taxes, but those are only part of a state's appeal. New York's dense networks and specialized talent keep it economically indispensable, so the lunch is not gone."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 162.377,
+   "end_sec": 174.497,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "A company can move its new operation to Florida, taking jobs and suppliers with it while leaving New York to maintain older costs. That concrete choice shows Florida is capturing growth New York expected."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 175.142,
+   "end_sec": 184.862,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "If a company keeps its headquarters, talent, and major customers in New York while opening one Florida operation, how can you call that Florida eating New York's-"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 183.962,
+   "end_sec": 195.002,
+   "dur_sec": 11.04,
+   "overlap": true,
+   "text": "Because the new operation is the point: growth is moving there even when older ties remain here. Keeping a headquarters does not keep every new job or investment in New York."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 195.96,
+   "end_sec": 207.08,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "You say new jobs settle the question, but one new operation does not measure the whole economy. Florida can gain additions while New York retains the larger and more valuable base."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 208.007,
+   "end_sec": 217.957,
+   "dur_sec": 9.95,
+   "overlap": false,
+   "text": "Your weakest point is treating the existing base as proof of present leadership. A large old base can remain while new growth, workers, and investment steadily favor Florida."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 214.34,
+   "end_sec": 216.99,
+   "dur_sec": 2.65,
+   "overlap": true,
+   "text": "Ten seconds remaining in this round."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 218.608,
+   "end_sec": 225.14,
+   "dur_sec": 6.532,
+   "overlap": false,
+   "text": "I grant that new investment matters, but direction is not dominance. Florida's gains are balanced by its costs-",
+   "ext_file": "L010_ext_a32.wav",
+   "cut_at_sec": 225.14,
+   "full_dur_sec": 10.55
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 224.34,
+   "end_sec": 231.63,
+   "dur_sec": 7.29,
+   "overlap": true,
+   "text": "Time. And now we move on to round three. And the first to speak in support of the resolution is Joan."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 231.83,
+   "end_sec": 244.27,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "This turns on direction, not nostalgia. New York may still be larger, but Florida is winning the next decisions on workers, businesses, and investment. When tomorrow's growth moves south, Florida is eating New York's lunch."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 244.47,
+   "end_sec": 250.32,
+   "dur_sec": 5.85,
+   "overlap": false,
+   "text": "Thank you very much. We now turn to Betsy who is going to speak against the motion."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 250.52,
+   "end_sec": 271.8,
+   "dur_sec": 21.28,
+   "overlap": false,
+   "text": "This motion turns a catchy image into a sweeping claim. Florida has real growth, and I concede that some businesses choose it for lower costs. But growth is not the same as replacing New York. New York keeps deep talent, major industries, and networks that Florida cannot simply absorb. The evidence points to competition, not one state consuming the other."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 270.52,
+   "end_sec": 272.61,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 272.0,
+   "end_sec": 281.82,
+   "dur_sec": 9.82,
+   "overlap": false,
+   "text": "Florida's gains also bring expensive insurance, crowded services, and limits on growth. A company opening there does not erase its New York base, and a lower tax bill-",
+   "cut_at_sec": 281.82,
+   "full_dur_sec": 17.48,
+   "ext_file": "L010_031.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 281.02,
+   "end_sec": 284.74,
+   "dur_sec": 3.72,
+   "overlap": true,
+   "text": "I'm sorry. Your time is up. Thank you very much."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 284.94,
+   "end_sec": 288.79,
+   "dur_sec": 3.85,
+   "overlap": false,
+   "text": "Thank you both for taking part. This debate is now closed."
+  }
+ ]
+}

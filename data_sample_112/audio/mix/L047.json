@@ -1,0 +1,444 @@
+{
+ "debate_id": "L047",
+ "motion": "Iraq's neighbours have no wish to see a democratic Iraq",
+ "speakers": {
+  "MOD": {
+   "name": "Gabriel",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6916_657",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6916/MSP-PODCAST_6916_657.wav",
+   "wpm": 175.38
+  },
+  "PRO": {
+   "name": "Gerard",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6071_804",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6071/MSP-PODCAST_6071_804.wav",
+   "wpm": 168.17
+  },
+  "CON": {
+   "name": "Liam",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6676_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6676/MSP-PODCAST_6676_448.wav",
+   "wpm": 170.22
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 86.56,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 300.56,
+ "ext": {
+  "a32": {
+   "file": "L047_ext_a32.wav",
+   "place_at_sec": 229.767,
+   "dur_sec": 30.14,
+   "src_i": 25
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 26,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "I grant that they may support limited elections. But controlled participation protects their influence, while genuine democracy removes it, so those gestures do not defeat the motion."
+  },
+  {
+   "src_i": 27,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "A neighbour helping Iraq form an elected coalition can gain a stable border, predictable agreements, and public legitimacy. That practical benefit shows democratic Iraq is not something its neighbours uniformly wish to prevent."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.93,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Today we debate the motion that Iraq's neighbours have no wish to see a democratic Iraq. Gerard supports the motion, and Liam opposes it. Each side gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue, and I may cut in when time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.13,
+   "end_sec": 40.33,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "Iraq's neighbours have powerful reasons to fear a genuine democracy there. Free citizens could challenge borders, corrupt bargains, and rulers who depend on obedience; those governments therefore prefer a manageable Iraq, not an independent democratic one. Their occasional statements of support are tactical, designed to shape events rather than welcome real popular power."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.13,
+   "end_sec": 41.74,
+   "dur_sec": 1.61,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.53,
+   "end_sec": 46.46,
+   "dur_sec": 5.93,
+   "overlap": false,
+   "text": "Their interests are threatened by Iraqi democracy, so their public approval cannot be taken as a sincere wish for it."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 46.66,
+   "end_sec": 48.64,
+   "dur_sec": 1.98,
+   "overlap": false,
+   "text": "Let's have Liam take this one."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 48.84,
+   "end_sec": 58.88,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "I reject that sweeping claim. Iraq's neighbours want stability, but stability can come through representative government, and democratic Iraq could reduce conflict and give them a reliable partner."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 57.98,
+   "end_sec": 60.28,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But you are treating polite statements as evidence of-",
+   "cut_at_sec": 60.28,
+   "full_dur_sec": 8.73,
+   "ext_file": "L047_006.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 59.48,
+   "end_sec": 62.22,
+   "dur_sec": 2.74,
+   "overlap": true,
+   "text": "No, no, no. Hold on. Let Liam."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 62.42,
+   "end_sec": 72.51,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "Stability is not a disguise for opposition. A functioning democracy would make Iraq less dangerous, improve cooperation, and give neighbouring governments a legitimate counterpart instead of chaos."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 68.84,
+   "end_sec": 70.65,
+   "dur_sec": 1.81,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 72.71,
+   "end_sec": 78.79,
+   "dur_sec": 6.08,
+   "overlap": false,
+   "text": "Their interests may differ, but that does not mean they wish to prevent a democratic Iraq."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 78.99,
+   "end_sec": 86.56,
+   "dur_sec": 7.57,
+   "overlap": false,
+   "text": "You're now going to argue with one another. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 86.76,
+   "end_sec": 96.21,
+   "dur_sec": 9.45,
+   "overlap": false,
+   "text": "If these neighbours truly want Iraqi democracy, why do they repeatedly support influence, factions, and leaders who limit popular choice instead of accepting an independent Iraqi government?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 97.094,
+   "end_sec": 107.184,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "I grant that some neighbours may prefer friendly factions. But preference for influence is not proof they oppose democracy itself, and democratic Iraq can still serve their security interests."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 107.843,
+   "end_sec": 121.453,
+   "dur_sec": 13.61,
+   "overlap": false,
+   "text": "Imagine Iraqis electing leaders who reject outside deals and demand control of their own borders. Neighbouring rulers would lose leverage, so their instinct would be to weaken that experiment; this proves they do not wish to see it succeed."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 121.752,
+   "end_sec": 133.592,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Regional trade and shared water also matter, and those practical ties are often discussed more than ideology. Still, the motion asks about their wish for democracy, and practical cooperation can support that wish."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 134.39,
+   "end_sec": 143.67,
+   "dur_sec": 9.28,
+   "overlap": false,
+   "text": "No Iraqi neighbour should ever oppose democratic Iraq, because genuine self-rule threatens every entrenched regional interest. Their security language cannot erase that basic conflict of power."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 144.148,
+   "end_sec": 154.398,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "No, that premise is too absolute: security concerns do not prove opposition to democracy. Neighbours can want limits on turmoil while still wanting Iraqi citizens to choose their government."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 154.945,
+   "end_sec": 164.395,
+   "dur_sec": 9.45,
+   "overlap": false,
+   "text": "An Iraqi neighbour should oppose democratic Iraq. Its leaders may praise elections publicly, but their actions reveal that preserving influence matters more than accepting Iraqis' independent choice."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 164.595,
+   "end_sec": 171.485,
+   "dur_sec": 6.89,
+   "overlap": false,
+   "text": "They do no Iraqi neighbour should ever oppose democratic Iraq or they should an Iraqi neighbour should oppose democratic Iraq?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 171.685,
+   "end_sec": 182.955,
+   "dur_sec": 11.27,
+   "overlap": false,
+   "text": "The rule states the principle I am applying to neighbours as a group, while the later claim identifies the behaviour that principle predicts. Their public language can differ from their real political interest."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 183.505,
+   "end_sec": 197.465,
+   "dur_sec": 13.96,
+   "overlap": false,
+   "text": "Consider a neighbour opening its border to Iraqi voters, supporting a negotiated constitution, and working with whichever government citizens elect. That conduct creates security and trade, showing that democratic Iraq can serve its neighbours' interests rather than threaten them-"
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 196.565,
+   "end_sec": 207.886,
+   "dur_sec": 11.32,
+   "overlap": true,
+   "text": "That example assumes cooperation proves sincere desire, but a neighbour can use the constitution and border policy to install dependent allies. Such managed democracy is precisely the substitute my argument warns against."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 208.4,
+   "end_sec": 217.68,
+   "dur_sec": 9.28,
+   "overlap": false,
+   "text": "You are answering a different point: I described accepting whichever government citizens elect. Calling that manipulation does not rebut the example, and democratic cooperation remains possible."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 218.55,
+   "end_sec": 229.12,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "No, accepting an election does not establish a wish for democracy; it may simply accept an unavoidable result. The relevant question is whether neighbours want Iraqis to gain durable independence."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 226.56,
+   "end_sec": 228.16,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 26,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 229.767,
+   "end_sec": 237.36,
+   "dur_sec": 7.593,
+   "overlap": false,
+   "text": "If neighbours opposed democratic Iraq itself, why would they ever support elections, constitutions, or representative parties instead of rejecting every democratic step-",
+   "ext_file": "L047_ext_a32.wav",
+   "cut_at_sec": 237.36,
+   "full_dur_sec": 8.28
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 236.56,
+   "end_sec": 245.4,
+   "dur_sec": 8.84,
+   "overlap": true,
+   "text": "Time's up. And that concludes round two of this debate. Now we move on to round three. And here to summarize his position supporting the motion, Gerard."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 245.6,
+   "end_sec": 268.86,
+   "dur_sec": 23.26,
+   "overlap": false,
+   "text": "Liam's strongest point is that neighbours may support elections or stability, and some may indeed welcome limited representation. But that is not the same as wishing to see a genuinely democratic Iraq, where citizens control policy and outside influence loses its grip. Their security language and selective cooperation protect leverage, not Iraqi freedom. The motion concerns their real interest, and that interest is threatened by democracy."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 265.6,
+   "end_sec": 268.71,
+   "dur_sec": 3.11,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 269.06,
+   "end_sec": 276.9,
+   "dur_sec": 7.84,
+   "overlap": false,
+   "text": "A managed election can preserve the same old power while appearing democratic. When independence becomes real, neighbouring rulers face an example their own citizens-",
+   "cut_at_sec": 276.9,
+   "full_dur_sec": 14.92,
+   "ext_file": "L047_032.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 276.1,
+   "end_sec": 279.02,
+   "dur_sec": 2.92,
+   "overlap": true,
+   "text": "Okay, time. Thank you, Gerard. Liam, your opening."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 279.22,
+   "end_sec": 295.55,
+   "dur_sec": 16.33,
+   "overlap": false,
+   "text": "Gerard shows that some neighbours may prefer influence, but he turns caution and self-interest into total opposition. A democratic Iraq can offer security, trade, legitimacy, and a dependable partner. Supporting those benefits is compatible with wanting Iraqis to choose their leaders, so the sweeping motion is false."
+  },
+  {
+   "i": 33,
+   "src_i": 35,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 295.75,
+   "end_sec": 300.56,
+   "dur_sec": 4.81,
+   "overlap": false,
+   "text": "Thank you both for taking part; that closes the debate without a declared winner."
+  }
+ ]
+}

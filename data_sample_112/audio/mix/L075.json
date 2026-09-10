@@ -1,0 +1,433 @@
+{
+ "debate_id": "L075",
+ "motion": "After Gaza, Arab unity is dead and buried.",
+ "speakers": {
+  "MOD": {
+   "name": "Jackson",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2392_110",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2392/MSP-PODCAST_2392_110.wav",
+   "wpm": 165.84
+  },
+  "PRO": {
+   "name": "Paula",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  },
+  "CON": {
+   "name": "Benjamin",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0341_111",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0341/MSP-PODCAST_0341_111.wav",
+   "wpm": 167.28
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 80.01,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 298.82,
+ "ext": {
+  "a32": {
+   "file": "L075_ext_a32.wav",
+   "place_at_sec": 225.724,
+   "dur_sec": 21.53,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "No, those ties do not make unity alive; they show people compensate for its collapse. Your wounded-not-buried point avoids the motion: Gaza revealed no reliable collective force when it mattered."
+  },
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Your 'reliable force' point sets a standard no living community always meets. Unity can weaken and recover; the continuing shared response proves burial is the wrong word."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.32,
+   "dur_sec": 20.32,
+   "overlap": false,
+   "text": "Welcome. Today's motion is: After Gaza, Arab unity is dead and buried. Paula argues for the motion, and Benjamin argues against it. Each opening is thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Keep remarks direct, address each other, and wait for recognition before speaking."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.52,
+   "end_sec": 30.48,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "Gaza did not merely reveal disagreement. It showed governments choosing separate priorities, separate messages, and separate limits, leaving ordinary people with no common protection."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 29.58,
+   "end_sec": 31.88,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No common protection? People across-",
+   "cut_at_sec": 31.88,
+   "full_dur_sec": 8.89,
+   "ext_file": "L075_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 31.08,
+   "end_sec": 32.69,
+   "dur_sec": 1.61,
+   "overlap": true,
+   "text": "Could you let her speak."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 32.89,
+   "end_sec": 42.96,
+   "dur_sec": 10.07,
+   "overlap": false,
+   "text": "Leaving ordinary people with no common protection, while each government calculates its own risk, is exactly what burial looks like: a label remains, but joint power disappears."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.52,
+   "end_sec": 42.48,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 43.16,
+   "end_sec": 49.24,
+   "dur_sec": 6.08,
+   "overlap": false,
+   "text": "Shared grief matters, but it cannot replace coordinated choices, mutual obligations, or a common direction."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 49.44,
+   "end_sec": 52.72,
+   "dur_sec": 3.28,
+   "overlap": false,
+   "text": "All right. Benjamin, do you want to come back on that?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.92,
+   "end_sec": 68.21,
+   "dur_sec": 15.29,
+   "overlap": false,
+   "text": "My opponent mistakes fractured leadership for a dead people. Unity is not one command center; it is a continuing capacity to recognize shared harm and press shared demands. Gaza has made those bonds painful and visible, even when governments fail to match them."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 68.41,
+   "end_sec": 80.01,
+   "dur_sec": 11.6,
+   "overlap": false,
+   "text": "And that concludes round one. Now onto round two and round two is where the debaters address one another. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 80.21,
+   "end_sec": 90.65,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "You call public feeling a capacity, but feeling cannot protect anyone without common decisions. If governments choose separate limits when Gaza demands action, what unity remains beyond a slogan?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 91.585,
+   "end_sec": 102.075,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "What remains is a shared refusal to treat Gaza as someone else's pain. You assume unity requires identical governments, but solidarity can coordinate pressure, aid, and memory without one ruler."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 103.033,
+   "end_sec": 113.793,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "When leaders must respond together to a crisis, unity needs common action, not parallel speeches. Gaza created that test, and separate calculations showed the alliance cannot carry a shared burden."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 114.649,
+   "end_sec": 125.299,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "Your test assumes unity only counts when leaders act identically. If people organize help and keep demanding a common stand, why declare their unity dead because officials hesitate to move-"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 124.399,
+   "end_sec": 135.439,
+   "dur_sec": 11.04,
+   "overlap": true,
+   "text": "Because help is humane, not proof of a durable political union. You are replacing unity with sympathy; sympathy can fill a room, yet governments still abandon each other when decisions matter."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 135.904,
+   "end_sec": 146.104,
+   "dur_sec": 10.2,
+   "overlap": false,
+   "text": "Families also need food, shelter, and safe routes, and arguing over leaders can hide that urgency. Still, the motion concerns unity, and shared care across borders shows it endures."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 146.316,
+   "end_sec": 156.886,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "Unity cannot be declared alive by scattered acts of care when common action is required. A people facing the same wound still lacks unity if its collective power never arrives."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 157.125,
+   "end_sec": 168.895,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "Your claim ignores the bonds that make collective power possible. Every Arab summit shows unity still lives. Leaders may disappoint, but the forum, shared language, and repeated return to Gaza keep cooperation alive."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 169.704,
+   "end_sec": 181.184,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Your 'every summit' point confuses gathering with unity. A room can meet while members protect incompatible interests; Gaza has turned repeated meetings into evidence that shared words do not produce shared resolve."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 182.175,
+   "end_sec": 193.545,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "At an emergency summit, leaders offered divided words and no shared course. This Arab summit shows unity does not live. Their inability to agree proves leadership is failing, not that people are divided."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 193.745,
+   "end_sec": 201.995,
+   "dur_sec": 8.25,
+   "overlap": false,
+   "text": "But doesn't your argument for every Arab summit shows unity still lives fight your argument that this Arab summit shows unity does not live?"
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 202.195,
+   "end_sec": 213.085,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "I stand by both statements. The continuing forum shows unity survives as a bond, while this summit shows that bond failed to guide leaders; survival is not the same as strength."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.05,
+   "end_sec": 225.09,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Imagine neighboring governments watching a family flee, each refusing entry until another acts. The family remains trapped between promises. That is the harm of dead unity: shared identity without shared responsibility."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 220.01,
+   "end_sec": 222.33,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 225.724,
+   "end_sec": 230.81,
+   "dur_sec": 5.085,
+   "overlap": false,
+   "text": "Your trapped-family example condemns governments, not unity itself. Neighbors who argue over entry-",
+   "ext_file": "L075_ext_a32.wav",
+   "cut_at_sec": 230.81,
+   "full_dur_sec": 10.57
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.01,
+   "end_sec": 240.82,
+   "dur_sec": 10.81,
+   "overlap": true,
+   "text": "That's time. So, let's move on to round three and our closing statements on the resolution after Gaza, Arab unity is dead and buried. Making her closing statement, here is Paula."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.02,
+   "end_sec": 256.93,
+   "dur_sec": 15.91,
+   "overlap": false,
+   "text": "Benjamin's best point is that shared grief and help are real. But grief without binding action leaves each government free to walk away at the decisive moment. Gaza exposed that gap again and again, so Arab unity is not merely weak; it is dead and buried."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 257.13,
+   "end_sec": 259.37,
+   "dur_sec": 2.24,
+   "overlap": false,
+   "text": "Let's take that to Benjamin, please."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 259.57,
+   "end_sec": 280.54,
+   "dur_sec": 20.97,
+   "overlap": false,
+   "text": "Paula is right that leaders have failed people at decisive moments. Yet she treats failure as a grave, when it can become a demand for renewal. My strongest point is simple: unity lives in shared recognition and repeated cooperation, not perfect obedience. People still organize care, speak, and insist that suffering belongs to all of them. Insistence matters because"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 279.57,
+   "end_sec": 280.81,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Benjamin."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 280.74,
+   "end_sec": 290.87,
+   "dur_sec": 10.13,
+   "overlap": false,
+   "text": "it refuses the story that separate leaders erase a shared people. A buried thing cannot answer pain, but people still answer it together, and that living-",
+   "cut_at_sec": 290.87,
+   "full_dur_sec": 14.16,
+   "ext_file": "L075_032.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 290.07,
+   "end_sec": 292.31,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "I'm sorry, I'm sorry. Hit time."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 292.51,
+   "end_sec": 298.82,
+   "dur_sec": 6.31,
+   "overlap": false,
+   "text": "Thank you, Paula and Benjamin, for a vigorous debate. This concludes our discussion of the motion this evening."
+  }
+ ]
+}

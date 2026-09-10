@@ -1,0 +1,427 @@
+{
+ "debate_id": "L009",
+ "motion": "Public radio is still relevant.",
+ "speakers": {
+  "MOD": {
+   "name": "Margaret",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  },
+  "PRO": {
+   "name": "Lionel",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6676_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6676/MSP-PODCAST_6676_448.wav",
+   "wpm": 170.22
+  },
+  "CON": {
+   "name": "Larry",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5993_347",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5993/MSP-PODCAST_5993_347.wav",
+   "wpm": 163.88
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 80.23,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 293.56,
+ "ext": {
+  "a32": {
+   "file": "L009_ext_a32.wav",
+   "place_at_sec": 224.528,
+   "dur_sec": 22.48,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Larry's weakest claim is that only mass reach counts. That standard would dismiss vital local services by size alone, yet their timely help plainly matters; public radio remains relevant."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.12,
+   "dur_sec": 17.12,
+   "overlap": false,
+   "text": "Today's motion is that public radio is still relevant. Lionel argues for it, and Larry argues against it. Each gets thirty seconds to open, followed by two and a half minutes of crossfire. Then each gives a thirty-second closing; I will give a ten-second cue before time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.32,
+   "end_sec": 31.96,
+   "dur_sec": 14.64,
+   "overlap": false,
+   "text": "Public radio remains relevant because it serves people rather than advertisers. It offers trusted reporting, local emergencies, and thoughtful discussion that commercial outlets often neglect. Relevance is not just popularity; it is usefulness, trust, and a civic connection that still matters."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 32.16,
+   "end_sec": 37.24,
+   "dur_sec": 5.08,
+   "overlap": false,
+   "text": "Here's Larry to argue against public radio is still relevant in a crowded media world."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 37.44,
+   "end_sec": 47.07,
+   "dur_sec": 9.63,
+   "overlap": false,
+   "text": "Public radio may inform, but relevance demands attention in today's crowded media world. If few people listen, how is that service still relevant to the public?"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 46.17,
+   "end_sec": 48.47,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "Because public value isn't measured by popularity alone-",
+   "cut_at_sec": 48.47,
+   "full_dur_sec": 9.28,
+   "ext_file": "L009_004.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 47.67,
+   "end_sec": 49.73,
+   "dur_sec": 2.06,
+   "overlap": true,
+   "text": "Please let him answer the question."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 49.93,
+   "end_sec": 60.36,
+   "dur_sec": 10.43,
+   "overlap": false,
+   "text": "I was saying that relevance demands attention, and a service reaching only a narrow audience cannot claim broad public importance. Trust among a few does not make an outdated medium relevant to society."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 57.44,
+   "end_sec": 58.97,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 60.56,
+   "end_sec": 66.39,
+   "dur_sec": 5.83,
+   "overlap": false,
+   "text": "Public radio may have value, but it no longer has enough public reach to remain relevant."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 66.59,
+   "end_sec": 80.23,
+   "dur_sec": 13.64,
+   "overlap": false,
+   "text": "And that concludes round one. Now, on to round two. This is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 80.43,
+   "end_sec": 91.55,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Larry's point about limited reach confuses widespread fame with public relevance. A station can matter deeply to its listeners, especially during emergencies, because usefulness does not require everyone to tune in."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 92.096,
+   "end_sec": 101.866,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "No public radio program is relevant without a mass audience. A niche service may be useful, but usefulness alone cannot make a declining medium relevant to the public."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 102.846,
+   "end_sec": 113.286,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Consider a wildfire warning broadcast that gives isolated residents clear evacuation information when other channels fail. That direct help proves public radio remains relevant where people need dependable service."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 113.739,
+   "end_sec": 122.879,
+   "dur_sec": 9.14,
+   "overlap": false,
+   "text": "This public radio program is relevant without a mass audience. A small emergency broadcast can matter to its listeners, but public radio still lacks broad relevance."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 123.079,
+   "end_sec": 133.519,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "One moment you're saying no public radio program is relevant without a mass audience, then you're having them this public radio program is relevant without a mass audience. Which?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 133.719,
+   "end_sec": 144.019,
+   "dur_sec": 10.3,
+   "overlap": false,
+   "text": "I mean relevance to public life requires mass reach, while this particular program can be relevant to a narrow group. Both claims stand, and public radio remains broadly irrelevant."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 144.702,
+   "end_sec": 155.832,
+   "dur_sec": 11.13,
+   "overlap": false,
+   "text": "People also enjoy radio's slower pace and familiar voices, which can make daily routines feel less isolated. But whether the format feels old-fashioned is secondary: public radio still meets real public needs."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 156.778,
+   "end_sec": 167.828,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "Lionel's point about familiar voices is personal comfort, not public relevance. Many services feel comforting without earning a place in public life, and radio's declining reach means its civic role is-"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 166.928,
+   "end_sec": 176.938,
+   "dur_sec": 10.01,
+   "overlap": true,
+   "text": "Comfort is not my claim; public service is. When residents need clear local information, a familiar station can reach them immediately, so limited reach does not erase relevance."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 177.33,
+   "end_sec": 190.13,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Imagine a station repeating a town meeting to a tiny, aging audience while most residents get news elsewhere. That broadcast preserves a habit, not a meaningful public role, proving public radio is no longer broadly relevant."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 190.86,
+   "end_sec": 202.34,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I grant that public radio does not reach everyone, but that is a smaller point than whether it serves people well. Its dependable local reporting and open discussion show it remains relevant."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.31,
+   "end_sec": 214.52,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "Yes, some listeners value those programs, but that does not establish public relevance. A service can help its loyal audience while failing to matter across the public, which is the central issue."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 215.366,
+   "end_sec": 223.746,
+   "dur_sec": 8.38,
+   "overlap": false,
+   "text": "If a trusted broadcast informs people during a local crisis, what exactly makes that public service irrelevant simply because commercial media reaches more listeners?"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 220.23,
+   "end_sec": 222.16,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "You both have ten seconds."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 224.528,
+   "end_sec": 231.03,
+   "dur_sec": 6.502,
+   "overlap": false,
+   "text": "The crisis example exaggerates an occasional benefit. Emergency information can come through many channels, while ordinary public-",
+   "ext_file": "L009_ext_a32.wav",
+   "cut_at_sec": 231.03,
+   "full_dur_sec": 11.84
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.23,
+   "end_sec": 238.79,
+   "dur_sec": 8.56,
+   "overlap": true,
+   "text": "That's time. Round three, closing statements by each debater in turn. Let's go to the first of these speakers. Speaking for the motion, Lionel."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 238.99,
+   "end_sec": 255.75,
+   "dur_sec": 16.76,
+   "overlap": false,
+   "text": "Public radio is not relevant merely because it is old, and it is not irrelevant merely because it is smaller. Its value appears when people need careful reporting, local warnings, and conversation without commercial pressure. Those services remain useful and trusted, so public radio is still relevant."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 255.95,
+   "end_sec": 258.19,
+   "dur_sec": 2.24,
+   "overlap": false,
+   "text": "I'm going to let Larry answer."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 258.39,
+   "end_sec": 278.5,
+   "dur_sec": 20.11,
+   "overlap": false,
+   "text": "Lionel's strongest example is an emergency broadcast, but an occasional rescue cannot define an entire medium. Most programming competes for a small audience in a crowded world, while people increasingly use faster and wider channels. Public radio may help dedicated listeners, yet that limited usefulness is not the same as continuing public relevance."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 278.39,
+   "end_sec": 279.63,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 278.7,
+   "end_sec": 289.69,
+   "dur_sec": 10.99,
+   "overlap": false,
+   "text": "A medium that reaches fewer people and struggles to shape common discussion may retain loyal fans, but loyalty is not broad relevance. Public radio has-",
+   "cut_at_sec": 289.69,
+   "full_dur_sec": 14.0,
+   "ext_file": "L009_031.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 288.89,
+   "end_sec": 289.41,
+   "dur_sec": 0.52,
+   "overlap": true,
+   "text": "Time."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 289.61,
+   "end_sec": 293.56,
+   "dur_sec": 3.95,
+   "overlap": false,
+   "text": "Thank you both for taking part; this debate is now closed."
+  }
+ ]
+}

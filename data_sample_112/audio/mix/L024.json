@@ -1,0 +1,389 @@
+{
+ "debate_id": "L024",
+ "motion": "What you call political correctness, I call progress.",
+ "speakers": {
+  "MOD": {
+   "name": "Annie",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5176_495",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5176/MSP-PODCAST_5176_495.wav",
+   "wpm": 178.76
+  },
+  "PRO": {
+   "name": "Abigail",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  },
+  "CON": {
+   "name": "Elise",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 84.56,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 295.83,
+ "ext": {
+  "a32": {
+   "file": "L024_ext_a32.wav",
+   "place_at_sec": 231.242,
+   "dur_sec": 24.46,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "A student who asks a clumsy question about identity may be shamed into silence instead of corrected. That protects appearances, not understanding, and it shows political correctness can block the honest exchange progress requires."
+  },
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Yes, a clumsy question should be answered rather than punished. But your example rejects an abusive response, not respectful standards; correcting harm while keeping questions open is progress, so the premise that political correctness requires silence is false."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.84,
+   "dur_sec": 17.84,
+   "overlap": false,
+   "text": "Today's motion is, \"What you call political correctness, I call progress.\" Abigail argues for it, and Elise argues against it. Each debater gets thirty seconds to open, then we have two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue before each limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.04,
+   "end_sec": 37.61,
+   "dur_sec": 19.57,
+   "overlap": false,
+   "text": "Political correctness is often a name for noticing who gets ignored, mocked, or shut out. When language or rules quietly favor one group, challenging them makes public life fairer. Progress does not require perfect agreement; it requires being willing to see harm and correct it. I will show why that correction matters beyond polite words."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 37.81,
+   "end_sec": 49.34,
+   "dur_sec": 11.53,
+   "overlap": false,
+   "text": "Elise may say these changes only police speech, but that confuses discomfort with control. Asking people to stop treating others as lesser does not silence debate; it makes debate possible for more people-",
+   "cut_at_sec": 49.34,
+   "full_dur_sec": 19.83,
+   "ext_file": "L024_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.04,
+   "end_sec": 38.56,
+   "dur_sec": 0.52,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 48.54,
+   "end_sec": 52.62,
+   "dur_sec": 4.08,
+   "overlap": true,
+   "text": "Abigail, I have to stop you, that's time. Elise, go ahead."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.82,
+   "end_sec": 69.55,
+   "dur_sec": 16.73,
+   "overlap": false,
+   "text": "Political correctness can begin as concern, but it often turns into a demand for approved opinions. People learn to hide honest questions, while slogans replace judgment. Progress needs open disagreement and room to make mistakes, so treating every objection as harmful does not advance fairness; it weakens it."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.75,
+   "end_sec": 84.56,
+   "dur_sec": 14.81,
+   "overlap": false,
+   "text": "And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 84.76,
+   "end_sec": 97.33,
+   "dur_sec": 12.57,
+   "overlap": false,
+   "text": "When a group is mocked in a meeting, a clear rule against that behavior lets its members speak and contribute. Nobody loses a serious idea; everyone gains an equal chance, proving political correctness can be progress."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 98.109,
+   "end_sec": 110.199,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "The argument also touches manners, since people naturally want conversations to feel safe and pleasant. But public rules should not confuse comfort with justice; calling every restriction progress is exactly why this motion fails."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 110.794,
+   "end_sec": 120.924,
+   "dur_sec": 10.13,
+   "overlap": false,
+   "text": "Your concern about labels is real, but it misses the benefit. When a workplace stops jokes that single out a group, it changes daily power, and that is progres-"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 120.024,
+   "end_sec": 131.504,
+   "dur_sec": 11.48,
+   "overlap": true,
+   "text": "Wait, stopping jokes can be reasonable, but your example quietly assumes intent and harm. Once officials decide which words are acceptable, ordinary disagreement gets treated as exclusion, and that is not progress."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 132.092,
+   "end_sec": 142.492,
+   "dur_sec": 10.4,
+   "overlap": false,
+   "text": "No call for inclusion should ever be dismissed as political correctness. If someone objects to exclusion, taking that objection seriously opens participation and makes progress more than a fashionable word."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 142.813,
+   "end_sec": 155.943,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "I grant that some objections deserve a fair hearing, but your rule protects the label instead of the judgment behind it. A call can sound inclusive while demanding silence from dissenters, so political correctness is not automatically progress."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 156.524,
+   "end_sec": 167.494,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "This call for inclusion should be dismissed as political correctness. It rewards a polished demand that leaves the excluded people unheard, showing that progress requires judging what the label actually does."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 167.694,
+   "end_sec": 180.854,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "But you can't have it both ways, you can't no call for inclusion should ever be dismissed as political correctness on one hand and then this call for inclusion should be dismissed as political correctness the next."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 181.054,
+   "end_sec": 192.664,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "Both statements can stand because the phrase can describe either genuine inclusion or its empty performance. Rejecting the performance does not reject progress; it protects inclusion from becoming a shield for silencing others."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 193.055,
+   "end_sec": 205.545,
+   "dur_sec": 12.49,
+   "overlap": false,
+   "text": "Your defense depends on changing what the phrase means after the contradiction. You first said no call for inclusion should ever be dismissed, then dismissed one; that shifting definition proves political correctness cannot reliably mean progress."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.305,
+   "end_sec": 217.785,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Can you name one fair rule that protects people from exclusion without calling it progress? If your answer is yes, why deny that political correctness, when it performs that work, is progress?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 218.45,
+   "end_sec": 230.46,
+   "dur_sec": 12.01,
+   "overlap": false,
+   "text": "The weakest point is your demand for a rule that counts as progress. A rule may protect dignity, but attaching a disputed label does not improve it; your question confuses useful action with political correctness."
+  },
+  {
+   "i": 19,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 224.56,
+   "end_sec": 226.44,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "You both have ten seconds."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 231.242,
+   "end_sec": 235.36,
+   "dur_sec": 4.118,
+   "overlap": false,
+   "text": "I agree that a label alone proves nothing, but that is not my main claim-",
+   "ext_file": "L024_ext_a32.wav",
+   "cut_at_sec": 235.36,
+   "full_dur_sec": 12.19
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 234.56,
+   "end_sec": 239.6,
+   "dur_sec": 5.04,
+   "overlap": true,
+   "text": "Okay, time. First we have closing statements. I will ask Abigail to speak first."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 239.8,
+   "end_sec": 255.41,
+   "dur_sec": 15.61,
+   "overlap": false,
+   "text": "Elise's strongest point is that labels can be abused, and I concede that. But abuse does not erase the value of challenging exclusion, setting respectful standards, and widening participation. When political correctness means those actions, it is progress because more voices can take part."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 255.61,
+   "end_sec": 257.93,
+   "dur_sec": 2.32,
+   "overlap": false,
+   "text": "Elise, you have the last word."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 258.13,
+   "end_sec": 281.34,
+   "dur_sec": 23.21,
+   "overlap": false,
+   "text": "Abigail's case depends on a careful version of political correctness that sounds like simple fairness. The real danger is what happens when that label ends discussion instead of improving conduct. A person can be corrected without being branded harmful, and a rule can protect dignity without controlling every question. Progress needs courage, judgment, and room for disagreement; political correctness too often substitutes pressure for all three."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 278.13,
+   "end_sec": 280.45,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.54,
+   "end_sec": 289.43,
+   "dur_sec": 7.89,
+   "overlap": false,
+   "text": "If we call every approved phrase progress, we stop asking whether people are actually included. Fairness should-",
+   "cut_at_sec": 289.43,
+   "full_dur_sec": 13.85,
+   "ext_file": "L024_028.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 288.63,
+   "end_sec": 290.15,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 290.35,
+   "end_sec": 295.83,
+   "dur_sec": 5.48,
+   "overlap": false,
+   "text": "Thank you both for your arguments. This debate is now closed, with no winner declared."
+  }
+ ]
+}

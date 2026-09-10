@@ -1,0 +1,437 @@
+{
+ "debate_id": "L028",
+ "motion": "Psychedelics should be legalized for the treatment of mental health based on currently available evidence.",
+ "speakers": {
+  "MOD": {
+   "name": "Gregory",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3536_194",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3536/MSP-PODCAST_3536_194.wav",
+   "wpm": 173.7
+  },
+  "PRO": {
+   "name": "Thomas",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3001_778",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_3001/MSP-PODCAST_3001_778.wav",
+   "wpm": 164.22
+  },
+  "CON": {
+   "name": "Justine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1266_611",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1266/MSP-PODCAST_1266_611.wav",
+   "wpm": 163.47
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 80.09,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 308.96,
+ "ext": {
+  "a32": {
+   "file": "L028_ext_a32.wav",
+   "place_at_sec": 225.202,
+   "dur_sec": 21.83,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "That example proves only that illegal care can be dangerous, not that legalization is safe. A safer alternative still needs evidence that benefits outweigh harms, and that evidence remains incomplete."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.22,
+   "dur_sec": 19.22,
+   "overlap": false,
+   "text": "Welcome to this debate on whether psychedelics should be legalized for treating mental health based on currently available evidence. Thomas will argue for the motion, and Justine will argue against it. Each opening lasts thirty seconds, crossfire lasts two and a half minutes, and each closing lasts thirty seconds. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.42,
+   "end_sec": 33.61,
+   "dur_sec": 14.19,
+   "overlap": false,
+   "text": "The evidence already suggests psychedelics can help some people when treatment is carefully screened, supervised, and followed up. Legalization would replace uncertain access with trained clinicians, clear safeguards, and honest monitoring. We should regulate a promising treatment, not bury it."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 33.81,
+   "end_sec": 38.32,
+   "dur_sec": 4.51,
+   "overlap": false,
+   "text": "Thomas, let me let Justine, because I didn't hear from her."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 38.52,
+   "end_sec": 58.77,
+   "dur_sec": 20.25,
+   "overlap": false,
+   "text": "The evidence is encouraging, but encouragement is not enough to legalize these drugs for mental-health treatment. We still face uncertainty about lasting benefits, serious reactions, and which patients may be harmed. A legal market could spread use faster than careful screening and follow-up can protect people."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 58.52,
+   "end_sec": 60.12,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 58.97,
+   "end_sec": 67.78,
+   "dur_sec": 8.81,
+   "overlap": false,
+   "text": "Compassion requires more than hope; it requires dependable safety. Until the evidence answers those gaps, supervised research and limited access are wiser than legalization."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 67.98,
+   "end_sec": 80.09,
+   "dur_sec": 12.11,
+   "overlap": false,
+   "text": "And that concludes round one. Now, onto round two where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 80.29,
+   "end_sec": 89.74,
+   "dur_sec": 9.45,
+   "overlap": false,
+   "text": "No, the current evidence does not justify broad legalization; promising results support more controlled investigation, not a wider system. Thomas is treating possibility as proof of readiness."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 90.711,
+   "end_sec": 102.911,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Picture a screened patient receiving supervised treatment, support during the experience, and follow-up afterward instead of searching for an unsafe source. That regulated pathway reduces hidden risks and shows why legalization can protect patients."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 103.369,
+   "end_sec": 113.619,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "That clinic example assumes the safeguards will work everywhere. The point is that uncertain screening and follow-up can leave vulnerable patients exposed, so a hopeful example cannot establish readiness."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 114.342,
+   "end_sec": 123.132,
+   "dur_sec": 8.79,
+   "overlap": false,
+   "text": "If carefully supervised treatment is safer than uncontrolled access, why keep it outside a legal medical framework where screening, training, and follow-up can be required?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 123.794,
+   "end_sec": 134.124,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "The weakest part is your assumption that legalization guarantees care. It may permit treatment, but it cannot ensure enough trained providers, accurate screening, or reliable follow-up for every patient."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 134.855,
+   "end_sec": 145.535,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "You are right that legalization alone cannot guarantee quality care. But that is an argument for licensing and enforceable standards, not prohibition; regulated access gives mental-health treatment a safer structure."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 145.825,
+   "end_sec": 155.905,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "When a patient has a serious vulnerability that screening cannot reliably detect, legalization can expose that patient to severe distress or destabilization. Under that condition, caution protects patients."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 156.412,
+   "end_sec": 168.612,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Even with vulnerability screening, leaving treatment illegal can push desperate patients toward unsupervised use, without preparation, emergency support, or follow-up. A legal clinical route can prevent that harm and show why prohibition fails to-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 169.565,
+   "end_sec": 179.565,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "A legal route may reduce some underground risks, yet legalization still expands exposure beyond the carefully selected patients in your example. The broader policy can therefore remain unjustified."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 180.068,
+   "end_sec": 191.548,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Training standards also matter because clinicians need guidance, just as they do for other powerful treatments. That broader medical issue is manageable; the motion still asks whether responsible legalization fits the evidence."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 192.057,
+   "end_sec": 202.057,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "Your claim that the issue is manageable skips the central uncertainty. Unlike ordinary prescribing, these experiences can alter judgment and intensify distress, so missing evidence makes legalization premature."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.652,
+   "end_sec": 213.652,
+   "dur_sec": 11.0,
+   "overlap": false,
+   "text": "The uncertainty is real, but uncertainty surrounds many accepted treatments. The main question is whether safeguards can reduce risk while offering possible relief, and regulated legalization does that better than secrecy."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.209,
+   "end_sec": 224.699,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "That concern does not make uncertainty harmless; it shows why ordinary comparisons fail. If clinicians cannot reliably predict benefit and harm, legalization can outrun the evidence it claims to follow."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 220.09,
+   "end_sec": 222.05,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "You both have ten seconds."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 225.202,
+   "end_sec": 230.89,
+   "dur_sec": 5.688,
+   "overlap": false,
+   "text": "A patient denied lawful care may turn to an untrained provider who offers no screening or emergency plan-",
+   "ext_file": "L028_ext_a32.wav",
+   "cut_at_sec": 230.89,
+   "full_dur_sec": 11.06
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.09,
+   "end_sec": 240.42,
+   "dur_sec": 10.33,
+   "overlap": true,
+   "text": "Okay, time. And that concludes round two. And now we're going to move on to round three. Here to argue in his closing statement, in support of this motion, Thomas."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.62,
+   "end_sec": 260.27,
+   "dur_sec": 19.65,
+   "overlap": false,
+   "text": "This debate is not between careless access and perfect certainty. It is between regulated treatment and a system that leaves patients to hidden risks. The available evidence supports cautious legalization with screening, trained clinicians, informed consent, and follow-up. We can learn while protecting people."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 260.47,
+   "end_sec": 271.92,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "Justine is right that safeguards must be real, but refusing legalization does not create certainty or safety. It denies patients a supervised option and leaves demand in less accountable hands. The responsible answer is-",
+   "cut_at_sec": 271.92,
+   "full_dur_sec": 17.09,
+   "ext_file": "L028_026.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 260.62,
+   "end_sec": 263.83,
+   "dur_sec": 3.21,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 271.12,
+   "end_sec": 273.73,
+   "dur_sec": 2.61,
+   "overlap": true,
+   "text": "Your time is up. Thank you. Justine."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 273.93,
+   "end_sec": 283.89,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "The strongest point is that hidden, unsafe access can harm people. But replacing one risk with legal treatment still requires evidence of durable benefit and predictable safety, which we do not yet have."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 282.99,
+   "end_sec": 285.29,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But patients already face those risks, and a legal-",
+   "cut_at_sec": 285.29,
+   "full_dur_sec": 9.0,
+   "ext_file": "L028_029.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 284.49,
+   "end_sec": 286.92,
+   "dur_sec": 2.43,
+   "overlap": true,
+   "text": "Can we let her reply please?"
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 287.12,
+   "end_sec": 297.48,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "The promise of accountability cannot substitute for proof that the treatment is dependable. When serious uncertainty remains, protecting vulnerable patients means controlled research and careful access, not legalization."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 293.93,
+   "end_sec": 296.14,
+   "dur_sec": 2.21,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 297.68,
+   "end_sec": 303.45,
+   "dur_sec": 5.77,
+   "overlap": false,
+   "text": "Hope matters, but current evidence supports caution rather than legalizing treatment broadly."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 303.65,
+   "end_sec": 308.96,
+   "dur_sec": 5.31,
+   "overlap": false,
+   "text": "Thank you both for your thoughtful arguments. This debate is closed, with no winner declared."
+  }
+ ]
+}

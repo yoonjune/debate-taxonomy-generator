@@ -1,0 +1,395 @@
+{
+ "debate_id": "L077",
+ "motion": "Alcoholics Anonymous works.",
+ "speakers": {
+  "MOD": {
+   "name": "Franklin",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6504_583",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6504/MSP-PODCAST_6504_583.wav",
+   "wpm": 171.06
+  },
+  "PRO": {
+   "name": "Margaret",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  },
+  "CON": {
+   "name": "Emma",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 94.41,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 310.17,
+ "ext": {
+  "a32": {
+   "file": "L077_ext_a32.wav",
+   "place_at_sec": 231.631,
+   "dur_sec": 36.9,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Calling bad conduct irrelevant is your weakest claim, because members experience meetings, not an ideal rulebook. When a method depends on uneven peer behavior, its harms are part of the method, so it does not reliably work."
+  },
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Your uneven peer behavior point assumes reliability means perfection. Alcoholics Anonymous works because people can return, choose different meetings, and use its shared practices after setbacks; variation does not erase its real support."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.0,
+   "dur_sec": 21.0,
+   "overlap": false,
+   "text": "Welcome. The motion is that Alcoholics Anonymous works. Margaret supports it, and Emma opposes it. Each speaker has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. Please address each other directly and keep remarks focused on the motion. I will enforce those limits fairly."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.2,
+   "end_sec": 40.89,
+   "dur_sec": 19.69,
+   "overlap": false,
+   "text": "Alcoholics Anonymous works because it gives people a repeatable way to stop drinking and remain connected when urges return. Its meetings replace isolation with honest routine and people who understand the struggle. The program asks members to take responsibility one day at a time. That practical support deserves closer attention."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.09,
+   "end_sec": 52.5,
+   "dur_sec": 11.41,
+   "overlap": false,
+   "text": "That choice matters. It gives people a place to return after a bad day and hear from others who understand. By turning private struggle into regular support, it helps members stay sober, especially when-",
+   "cut_at_sec": 52.5,
+   "full_dur_sec": 13.24,
+   "ext_file": "L077_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.2,
+   "end_sec": 43.39,
+   "dur_sec": 2.19,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 51.7,
+   "end_sec": 55.78,
+   "dur_sec": 4.08,
+   "overlap": true,
+   "text": "Margaret, I have to stop you, that's time. Emma, go ahead."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 55.98,
+   "end_sec": 76.07,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "Alcoholics Anonymous may help some people, but the motion says it works broadly and reliably. One format built around meetings, stories, and surrender cannot fit every person facing alcohol problems. Some need privacy, medical care, different beliefs, or a plan that does not make recovery depend on a group. That gap matters."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 75.98,
+   "end_sec": 79.7,
+   "dur_sec": 3.72,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 76.27,
+   "end_sec": 81.93,
+   "dur_sec": 5.66,
+   "overlap": false,
+   "text": "A helpful option is not the same as a method that works for everyone reliably."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 82.13,
+   "end_sec": 94.41,
+   "dur_sec": 12.28,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 94.61,
+   "end_sec": 105.58,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "Your fit point mistakes a program's limits for failure. Alcoholics Anonymous does not promise identical results, but it works by offering a steady path and fellowship to people who choose it."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 105.869,
+   "end_sec": 116.919,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "Meeting rooms need coffee, chairs, and volunteers, and those small duties can make a gathering feel welcoming. But welcome alone is not recovery; the motion fails because attendance cannot guarantee change."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 117.39,
+   "end_sec": 129.06,
+   "dur_sec": 11.67,
+   "overlap": false,
+   "text": "You're right that a friendly room alone cannot cure anyone. But you reduce the program to attendance, while mutual accountability, guidance, and daily practices give willing members tools that make Alcoholics Anonymous work."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 129.754,
+   "end_sec": 141.444,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "You call accountability a tool, but who unlocks the room, handles donations, and decides whether late arrivals disrupt the circle? Those practical burdens fall on volunteers, and arguments over schedules can exhaust them."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 141.644,
+   "end_sec": 146.884,
+   "dur_sec": 5.24,
+   "overlap": false,
+   "text": "Come back to the whether Alcoholics Anonymous works for people with alcohol problems, will you?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 147.084,
+   "end_sec": 158.694,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "Yes, the question is whether the program works, and forced participation reveals its weakness. No member should ever be pressured to speak; a recovery method built around group disclosure cannot work for everyone."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 159.315,
+   "end_sec": 171.165,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "Forced participation is your weakest point, because Alcoholics Anonymous does not require every member to speak. You treat misuse by a group as the program itself, ignoring the choice and flexibility that let it work."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 171.816,
+   "end_sec": 184.146,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "A silent member should be pressured to speak. If someone hides behind silence, firm group pressure may expose denial, yet that need for pressure shows Alcoholics Anonymous does not work as a reliable recovery method."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 184.346,
+   "end_sec": 193.026,
+   "dur_sec": 8.68,
+   "overlap": false,
+   "text": "So one moment it's no member should ever be pressured to speak and the next moment it's a silent member should be pressured to speak?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 193.226,
+   "end_sec": 205.556,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "Those statements fit because pressure can mean either coercion or a direct challenge from peers. I reject coercion, yet I support candid challenge; the ambiguity itself shows why this program cannot reliably work for everyone."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.23,
+   "end_sec": 218.4,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "I agree that candid peers can sometimes break through denial. But calling a direct challenge incompatible with the program ignores consent and trust, while its enduring network helps people practice sobriety, so it works."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 218.87,
+   "end_sec": 230.96,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Consider a newcomer told to share painful memories before she is ready; she leaves, drinks, and avoids help afterward. Does that look like reliable help? It proves the program can be unsafe and unreliable."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 231.631,
+   "end_sec": 243.321,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "No, it does not prove the program works; it proves that group failed its principles. Your example attacks bad conduct, not a voluntary support system that gives people accountability, belonging, and a workable path.",
+   "ext_file": "L077_ext_a32.wav"
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 234.41,
+   "end_sec": 236.52,
+   "dur_sec": 2.11,
+   "overlap": true,
+   "text": "Ten seconds, both of you."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 244.41,
+   "end_sec": 257.81,
+   "dur_sec": 13.4,
+   "overlap": true,
+   "text": "And that's time. That concludes Round two of this debate. But first, on to round three, closing statements. First, to summarize her position in support of this motion, whether Alcoholics Anonymous works for people with alcohol problems, Margaret."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 258.01,
+   "end_sec": 272.57,
+   "dur_sec": 14.56,
+   "overlap": false,
+   "text": "Emma's best argument is that a pressured newcomer may leave harmed, and that risk deserves care. But coercion violates the voluntary fellowship I defend, not its purpose. Alcoholics Anonymous works by joining accountability, shared experience, and repeated chances to choose sobriety."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 272.77,
+   "end_sec": 274.37,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Then Emma, it's yours."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 274.57,
+   "end_sec": 294.4,
+   "dur_sec": 19.83,
+   "overlap": false,
+   "text": "Margaret says harmful meetings are merely bad versions of the program, but people cannot recover from an abstract ideal. They encounter actual rooms, social pressure, and uneven advice. A method that depends heavily on the right group and right moment cannot be called reliable. It may offer comfort, yet comfort is not proof."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 294.57,
+   "end_sec": 296.45,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 294.6,
+   "end_sec": 303.33,
+   "dur_sec": 8.73,
+   "overlap": false,
+   "text": "People deserve help that fits them without pressure or a single prescribed culture. Because this program cannot reliably provide that fit, the motion is false."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 303.53,
+   "end_sec": 310.17,
+   "dur_sec": 6.64,
+   "overlap": false,
+   "text": "Thank you, Margaret and Emma, for a thoughtful debate. This concludes our discussion of whether Alcoholics Anonymous works today."
+  }
+ ]
+}

@@ -1,0 +1,391 @@
+{
+ "debate_id": "L081",
+ "motion": "We must tolerate a nuclear Iran.",
+ "speakers": {
+  "MOD": {
+   "name": "Charles",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6699_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6699/MSP-PODCAST_6699_79.wav",
+   "wpm": 176.38
+  },
+  "PRO": {
+   "name": "Jim",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  },
+  "CON": {
+   "name": "Daphne",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 78.43,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 301.16,
+ "ext": {
+  "a32": {
+   "file": "L081_ext_a32.wav",
+   "place_at_sec": 226.915,
+   "dur_sec": 22.72,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Would you tell a threatened neighbor to trust containment after Iran announces a weapon? What concrete assurance can you offer that deterrence will hold when one mistake could destroy a city?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.85,
+   "dur_sec": 19.85,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is we must tolerate an Iran armed with nuclear weapons; Jim argues for it, and Daphne argues against it. Each opening and closing gets thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue, and ask both speakers to address each other fairly with clear reasons."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.05,
+   "end_sec": 40.33,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Deterrence is ugly, but it has kept rival nuclear powers from turning fear into catastrophe. Once Iran has such weapons, trying to erase that fact through force risks regional war and scattered material. Tolerance means containment, verification, and steady pressure, not approval; it is the safer response to a dangerous reality."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.05,
+   "end_sec": 41.18,
+   "dur_sec": 1.13,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.53,
+   "end_sec": 46.61,
+   "dur_sec": 6.08,
+   "overlap": false,
+   "text": "We protect people best by managing this threat, rather than gambling everything on a reckless confrontation."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 46.81,
+   "end_sec": 48.98,
+   "dur_sec": 2.17,
+   "overlap": false,
+   "text": "I'm going to let Daphne answer."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 49.18,
+   "end_sec": 63.82,
+   "dur_sec": 14.64,
+   "overlap": false,
+   "text": "Calling this tolerance makes surrender sound prudent. A nuclear Iran could shield coercion behind its arsenal and make neighbors feel compelled to seek weapons too. Prevention is difficult, but diplomacy, pressure, and credible consequences are safer than accepting a permanent threat."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 64.02,
+   "end_sec": 78.43,
+   "dur_sec": 14.41,
+   "overlap": false,
+   "text": "Now we know where each of you stand and why on the question that we're asking. We'll get deeper into the conversation. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 78.63,
+   "end_sec": 89.39,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "You call prevention safer, but you never explain how credible consequences remove weapons without war. Threatening a state that already has them can harden its resolve and enlarge the danger."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 90.304,
+   "end_sec": 100.664,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "When Iran permits continuous inspection of every nuclear site, pressure can be eased without acceptance. Until then, secrecy turns capability into an immediate threat, and it cannot be tolerated."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 101.167,
+   "end_sec": 111.167,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "Inspection also depends on technicians, supply routes, and the trust of ordinary workers, who need safe channels to report concerns. Those details matter, but we must tolerate possession."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 112.096,
+   "end_sec": 121.816,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "A state seeking nuclear weapons must face resistance, because delay can become danger. That includes Iran, even when inspections reduce immediate risk; it must not be tolerated."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 122.51,
+   "end_sec": 133.91,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I agree that secrecy demands scrutiny, and inspectors should have real access. But resistance cannot mean an open-ended promise to undo an existing arsenal; containment gives leverage, so we must tolerate it."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 134.423,
+   "end_sec": 146.543,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Inspectors need translators, secure transport, and records that cannot be altered after a visit. If access logs are delayed, the real question becomes which clerks approved them and whether supervisors understood the reporting chain."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 146.743,
+   "end_sec": 152.034,
+   "dur_sec": 5.29,
+   "overlap": false,
+   "text": "It's really off the topic of we must tolerate an Iran armed with nuclear weapons."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.234,
+   "end_sec": 162.084,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "No nuclear state should ever be tolerated. Acceptance teaches leaders that threats work, and it weakens every effort to stop the next government from pursuing the same shield."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 162.396,
+   "end_sec": 173.076,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "If you reject tolerance after weapons exist, what action would you take that does not risk a wider war? Name the step, because prevention alone does not answer that danger."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 173.679,
+   "end_sec": 184.439,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "A nuclear Iran should be tolerated. Yet accepting that moment as policy invites leaders to treat possession as protection, so we should still work to block and reverse its program."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 184.639,
+   "end_sec": 191.289,
+   "dur_sec": 6.65,
+   "overlap": false,
+   "text": "So it's not much of no nuclear state should ever be tolerated if a nuclear Iran should be tolerated, is it?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 191.489,
+   "end_sec": 201.979,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "I mean both statements: tolerance may describe what happens in a crisis, while never tolerating nuclear states is the standard we should pursue. Immediate restraint does not make acceptance a goal."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.668,
+   "end_sec": 214.068,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "You are right that a rushed strike could widen conflict, and that risk matters. But your answer offers no workable alternative once weapons exist; managed deterrence is safer, so we must tolerate."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.773,
+   "end_sec": 226.533,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Imagine Iran tests a weapon, then demands a neighboring state stop defensive patrols or face retaliation. If the world has accepted its arsenal, that threat gains force; preventing possession protects others from coercion."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 218.43,
+   "end_sec": 220.84,
+   "dur_sec": 2.41,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 226.915,
+   "end_sec": 229.23,
+   "dur_sec": 2.315,
+   "overlap": false,
+   "text": "Your example assumes tolerance means yielding-",
+   "ext_file": "L081_ext_a32.wav",
+   "cut_at_sec": 229.23,
+   "full_dur_sec": 11.4
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 228.43,
+   "end_sec": 239.08,
+   "dur_sec": 10.65,
+   "overlap": true,
+   "text": "Time. And now we move on to Round three. Here making his closing statement in support of the motion that we must tolerate an Iran armed with nuclear weapons, Jim."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 239.28,
+   "end_sec": 259.36,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "Daphne's strongest point is that a nuclear arsenal can enable coercion, and that danger is real. But prevention after the threshold may mean war, while coercion can be met with defenses, unity, and consequences. Tolerance is not trust or praise. It is a disciplined choice to contain a fact we cannot safely wish away."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 259.28,
+   "end_sec": 262.65,
+   "dur_sec": 3.37,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.56,
+   "end_sec": 270.58,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "The alternative promises control, but cannot guarantee removal of weapons or knowledge. Refusing tolerance can turn fear into a fight with no safe exit. Choose containment: its first-",
+   "cut_at_sec": 270.58,
+   "full_dur_sec": 14.24,
+   "ext_file": "L081_027.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 269.78,
+   "end_sec": 279.15,
+   "dur_sec": 9.37,
+   "overlap": true,
+   "text": "Thank you. I'm sorry his time is up. Thank you. And here to summarize her position against we must tolerate an Iran armed with nuclear weapons, Daphne."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 279.35,
+   "end_sec": 294.71,
+   "dur_sec": 15.36,
+   "overlap": false,
+   "text": "Jim treats war as the only alternative, but prevention includes sustained pressure, defenses, and collective resolve before a bomb becomes normal. Once possession is tolerated, coercion grows harder to resist. We should deny leaders that shield rather than build safety on their restraint."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 294.91,
+   "end_sec": 301.16,
+   "dur_sec": 6.25,
+   "overlap": false,
+   "text": "Thank you, Jim and Daphne, for a serious exchange. This concludes our debate, and I thank both speakers."
+  }
+ ]
+}

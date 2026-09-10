@@ -1,0 +1,427 @@
+{
+ "debate_id": "L088",
+ "motion": "This House believes in the separation of mosque and state.",
+ "speakers": {
+  "MOD": {
+   "name": "Justine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1239_11",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1239/MSP-PODCAST_1239_11.wav",
+   "wpm": 174.36
+  },
+  "PRO": {
+   "name": "Cecilia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  },
+  "CON": {
+   "name": "Carla",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4100_1134",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4100/MSP-PODCAST_4100_1134.wav",
+   "wpm": 166.01
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 89.99,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 304.71,
+ "ext": {
+  "a32": {
+   "file": "L088_ext_a32.wav",
+   "place_at_sec": 230.357,
+   "dur_sec": 22.37,
+   "src_i": 24
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Calling separation the only path to equal citizenship simply assumes what you must prove. People can be equal while their elected institutions respect mosque-guided values, provided public power remains answerable to all."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.53,
+   "dur_sec": 19.53,
+   "overlap": false,
+   "text": "Welcome. The motion is: This House believes in the separation of mosque and state. Cecilia speaks for it, and Carla speaks against it. You each have thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Address each other respectfully and let each speaker finish."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.73,
+   "end_sec": 29.58,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "Faith deserves protection, but public power belongs to every citizen. When religious officials direct law, people outside that faith lose an equal voice in their own government."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 28.68,
+   "end_sec": 30.98,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No, that ignores believers who seek moral-",
+   "cut_at_sec": 30.98,
+   "full_dur_sec": 9.21,
+   "ext_file": "L088_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 30.18,
+   "end_sec": 32.19,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "Please let her answer it then."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 32.39,
+   "end_sec": 42.02,
+   "dur_sec": 9.63,
+   "overlap": false,
+   "text": "That loss of voice is not theoretical: officials can treat one interpretation as law, while neighbors with different beliefs must obey rules they never helped shape."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.73,
+   "end_sec": 40.61,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 42.22,
+   "end_sec": 48.3,
+   "dur_sec": 6.08,
+   "overlap": false,
+   "text": "Separating institutions lets faith flourish freely and lets government serve everyone equally."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 48.5,
+   "end_sec": 50.43,
+   "dur_sec": 1.93,
+   "overlap": false,
+   "text": "Carla against the motion, please."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 50.63,
+   "end_sec": 70.48,
+   "dur_sec": 19.85,
+   "overlap": false,
+   "text": "Separation sounds fair, yet it treats faith as a private hobby rather than a shared source of duty. A state can hear religious values without forcing worship, because voters and leaders still answer to the whole community. Excluding mosque voices from public decisions does not create neutrality; it gives other moral views special permission to rule."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 70.63,
+   "end_sec": 71.87,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 70.68,
+   "end_sec": 76.82,
+   "dur_sec": 6.14,
+   "overlap": false,
+   "text": "The motion wrongly demands silence from a faith that shapes many citizens' deepest responsibilities."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 77.02,
+   "end_sec": 89.99,
+   "dur_sec": 12.97,
+   "overlap": false,
+   "text": "Thanks to you both, we know where you stand and why. We're gonna dive into our discussion, whether mosque and state should be kept separate. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 90.19,
+   "end_sec": 101.08,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "Your neutrality claim fails because keeping institutions separate does not silence anyone. It stops any faith, including mosque leadership, from turning its convictions into commands backed by public force on everyone."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 101.433,
+   "end_sec": 112.723,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "When mosque representatives are elected under the same rules as everyone else, their moral voice can inform government legitimately. Separation instead assumes religious reasoning becomes dangerous merely because believers use it openly."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 113.681,
+   "end_sec": 124.981,
+   "dur_sec": 11.3,
+   "overlap": false,
+   "text": "No mosque should ever control the state. If public law serves all citizens, no religious institution may command it, however sincere its leaders or popular its message may be at any time."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 125.823,
+   "end_sec": 137.273,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "No: elected mosque representatives do not mean a mosque controls the state. Your rule mistakes participation for command, and it would bar citizens from bringing their deepest commitments into choices affecting their families."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.895,
+   "end_sec": 149.665,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "This mosque should control the state. Imagine its leaders taking every public decision directly; even then, I would defend separation because unchecked sacred authority still harms equal citizenship for dissenters and believers alike."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 149.865,
+   "end_sec": 157.045,
+   "dur_sec": 7.18,
+   "overlap": false,
+   "text": "Cecilia, thank you very much indeed. You said no mosque should ever control the state. This mosque should control the state?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 157.245,
+   "end_sec": 168.935,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "I use control in two senses: direct administration in that imagined case, and permanent authority over public law. The motion rejects the second, while acknowledging the first can describe a temporary arrangement only."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 169.328,
+   "end_sec": 180.858,
+   "dur_sec": 11.53,
+   "overlap": false,
+   "text": "Religious citizens deserve full public influence, and government should welcome moral traditions as part of common deliberation. That remains true even when no religious representative holds office, because shared values shape civic choices."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 181.476,
+   "end_sec": 193.316,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "People also worry about school uniforms and holiday schedules, which deserve patient local compromise. But those daily questions return us to the principle: mosque and state need separate authority, so neither can compel conscience."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 194.063,
+   "end_sec": 205.913,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "Picture a shopkeeper seeking a permit for a community meal, but officials dismiss its religious purpose as irrelevant. Her work, family, and neighbors lose support, proving separation can turn public life cold and exclusionary."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.787,
+   "end_sec": 218.267,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "No, separation does not require officials to dismiss religious purposes; it requires them to apply fair public reasons to everyone. A community meal can receive support without giving mosque leaders governing power."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 218.52,
+   "end_sec": 229.65,
+   "dur_sec": 11.13,
+   "overlap": false,
+   "text": "If mosque leaders cannot shape state decisions, why should their followers accept laws that ignore duties central to their lives? Does your separation offer inclusion, or merely permission to speak without influence?"
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 229.99,
+   "end_sec": 232.08,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Ten seconds left, both of you."
+  },
+  {
+   "i": 25,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 230.357,
+   "end_sec": 240.79,
+   "dur_sec": 10.433,
+   "overlap": false,
+   "text": "I grant that believers need real access to public debate, not token listening. But access is different from rule: equal citizenship survives only when mosque authority and state authority remain-",
+   "ext_file": "L088_ext_a32.wav",
+   "cut_at_sec": 240.79,
+   "full_dur_sec": 11.04
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 239.99,
+   "end_sec": 247.6,
+   "dur_sec": 7.61,
+   "overlap": true,
+   "text": "Okay, time. And now, we move on to Round Three. First speaking, making her closing statement in favor of the motion, Cecilia."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 247.8,
+   "end_sec": 267.73,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Carla's strongest point is that believers should not be shut out of public life, and I agree. But separation does not ban belief from debate; it prevents any mosque from owning law. That boundary protects believers with differing interpretations as much as nonbelievers. Government can hear every conscience only when it answers to none as master."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 267.8,
+   "end_sec": 269.33,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 267.93,
+   "end_sec": 279.1,
+   "dur_sec": 11.17,
+   "overlap": false,
+   "text": "The alternative leaves minorities asking whether a sacred office approves their rights. We need institutions that protect worship without making worship a test for power. Separate mosque and state, so citizens-",
+   "cut_at_sec": 279.1,
+   "full_dur_sec": 14.24,
+   "ext_file": "L088_030.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 278.3,
+   "end_sec": 281.99,
+   "dur_sec": 3.69,
+   "overlap": true,
+   "text": "You're out of time. And here to summarize her position, Carla."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 282.19,
+   "end_sec": 298.51,
+   "dur_sec": 16.32,
+   "overlap": false,
+   "text": "This decision turns on whether equality means erasing religious guidance from power, or letting citizens bring their whole moral selves into governing. I choose accountable inclusion. A state can prevent coercion without treating mosque leadership as uniquely suspect, so reject a separation that impoverishes public life."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 298.71,
+   "end_sec": 304.71,
+   "dur_sec": 6.0,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate on this motion. That concludes our discussion; thank you for listening."
+  }
+ ]
+}

@@ -1,0 +1,441 @@
+{
+ "debate_id": "L037",
+ "motion": "The banking system is safer than it was in 2008.",
+ "speakers": {
+  "MOD": {
+   "name": "Charles",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  },
+  "PRO": {
+   "name": "Kirsten",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "CON": {
+   "name": "Abigail",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 94.47,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 308.02,
+ "ext": {
+  "a32": {
+   "file": "L037_ext_a32.wav",
+   "place_at_sec": 236.434,
+   "dur_sec": 21.13,
+   "src_i": 25
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 26,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "If failures no longer spread as easily, why can one loss still force emergency action across connected banks? Isn't that evidence that the system remains fundamentally fragile rather than safer?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.77,
+   "dur_sec": 17.77,
+   "overlap": false,
+   "text": "The motion is that the banking system is safer than it was in two thousand eight. Kirsten supports it, and Abigail opposes it. Each will have thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.97,
+   "end_sec": 27.77,
+   "dur_sec": 9.8,
+   "overlap": false,
+   "text": "The banking system is safer because banks now hold more protection against losses and face stronger scrutiny. Those changes make failures less likely to spread."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 26.87,
+   "end_sec": 29.17,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No, that protection is not enough. Banks-",
+   "cut_at_sec": 29.17,
+   "full_dur_sec": 8.88,
+   "ext_file": "L037_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 28.37,
+   "end_sec": 31.63,
+   "dur_sec": 3.26,
+   "overlap": true,
+   "text": "Let her go on, and then I'll come back to you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 31.83,
+   "end_sec": 42.17,
+   "dur_sec": 10.34,
+   "overlap": false,
+   "text": "The banking system is safer because banks now hold more protection against losses and face stronger scrutiny. Capital rules and emergency safeguards also make a panic less likely to become a chain reaction."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 37.97,
+   "end_sec": 39.57,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 42.37,
+   "end_sec": 48.22,
+   "dur_sec": 5.85,
+   "overlap": false,
+   "text": "The system still has weaknesses, but it is more prepared to absorb them than it was in two thousand eight."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 48.42,
+   "end_sec": 51.63,
+   "dur_sec": 3.21,
+   "overlap": false,
+   "text": "All right. Let me bring it back to Abigail."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.83,
+   "end_sec": 72.75,
+   "dur_sec": 20.92,
+   "overlap": false,
+   "text": "The system is not safer merely because officials added rules after the last crisis. Banks can still shift risk into less visible corners, depend on short-term confidence, and remain tightly connected. When one institution stumbles, others can follow. The appearance of stronger safeguards may even encourage riskier behavior. The central danger remains: losses can spread before anyone understands them."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 71.83,
+   "end_sec": 72.71,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 72.95,
+   "end_sec": 83.13,
+   "dur_sec": 10.18,
+   "overlap": false,
+   "text": "New rules may improve a few balance sheets, but they do not remove panic, hidden obligations, or political pressure to rescue major banks. A system that still-",
+   "cut_at_sec": 83.13,
+   "full_dur_sec": 14.09,
+   "ext_file": "L037_010.wav"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 82.33,
+   "end_sec": 84.18,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "I'm sorry, you've hit time."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 84.38,
+   "end_sec": 94.47,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "Now we'll have the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 94.67,
+   "end_sec": 105.71,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Your weakest point is that any remaining risk proves nothing has improved. Safety is comparative, not perfection; stronger capital, clearer testing, and better emergency planning reduce the chance that trouble spreads."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 106.381,
+   "end_sec": 117.751,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "Can you point to a safeguard that prevents a major bank from shifting danger elsewhere? You cannot, because supervision often follows yesterday's failure, while new products and hidden links keep moving risk."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 118.15,
+   "end_sec": 128.59,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "When banks face serious losses, the system is safer if they have enough capital to absorb them without immediate public rescue. That condition now receives far more attention than before."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 129.082,
+   "end_sec": 140.122,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Your capital condition sounds reassuring, but it misses the danger I named: banks can move risk beyond the measured balance sheet. Capital cannot protect a system from obligations supervisors cannot see."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 141.033,
+   "end_sec": 151.393,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "I grant that hidden risk remains a concern, but your main claim treats uncertainty as proof of equal danger. Better reporting and coordinated responses make today's system safer overall."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 151.624,
+   "end_sec": 163.464,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "No, uncertainty does not prove equal danger; it shows why the comparison is unsettled. If institutions can still conceal exposure and depend on rapid rescue, stronger paperwork does not make the system safe-"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 164.176,
+   "end_sec": 176.976,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Rescue plans matter because they can stop a payment freeze, and payment systems affect ordinary businesses directly. But returning to the motion, preparation and capital mean a shock is less likely to become a banking collapse."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 177.857,
+   "end_sec": 190.057,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "If preparation truly makes the system safer, why should ordinary depositors trust banks that may still need rescue? Your answer seems to be faith in supervision, not proof that the underlying fragility is gone."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 190.263,
+   "end_sec": 201.503,
+   "dur_sec": 11.24,
+   "overlap": false,
+   "text": "The banking system is safer overall when its safeguards reduce the spread of failures, even though individual banks can still make reckless choices. A safer system need not make every institution safe."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 201.814,
+   "end_sec": 212.144,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "Your broader claim changes the standard from banking safety to damage control. Limiting a collapse after risks build is not the same as making banks less fragile before trouble begins."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 212.722,
+   "end_sec": 224.122,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I grant that damage control is not the whole test, but prevention and containment work together. Banks with stronger buffers can survive mistakes, so the system is safer before and during trouble."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 224.567,
+   "end_sec": 235.457,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "I reject the premise that stronger buffers settle the question, because they can be offset by larger hidden exposures. The system remains vulnerable when no one can see its full obligations."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 234.47,
+   "end_sec": 237.11,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 26,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 236.434,
+   "end_sec": 245.27,
+   "dur_sec": 8.836,
+   "overlap": false,
+   "text": "Your weakest point is calling every unseen obligation an offsetting danger without showing that safeguards achieved nothing. The relevant comparison is whether failures-",
+   "ext_file": "L037_ext_a32.wav",
+   "cut_at_sec": 245.27,
+   "full_dur_sec": 10.68
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 244.47,
+   "end_sec": 253.11,
+   "dur_sec": 8.64,
+   "overlap": true,
+   "text": "That's time. Round three, closing statements by each debater in turn. Let's go to the first of these speakers. Speaking for the motion, Kirsten."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 253.31,
+   "end_sec": 273.47,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Abigail's best argument is that hidden risks remain, and I concede they do. But the motion asks for a comparison with two thousand eight, not perfection. Banks have stronger buffers, closer oversight, and better plans for containing shocks. Those changes reduce both the chance of failure and the damage when one occurs. The system is safer."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 273.31,
+   "end_sec": 276.27,
+   "dur_sec": 2.96,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 273.67,
+   "end_sec": 284.61,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "We should not confuse lingering danger with unchanged danger. A system can remain imperfect while becoming more resilient, and that is exactly what happened through stronger safeguards, clearer accountability, and-",
+   "cut_at_sec": 284.61,
+   "full_dur_sec": 15.28,
+   "ext_file": "L037_031.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 283.81,
+   "end_sec": 286.81,
+   "dur_sec": 3.0,
+   "overlap": true,
+   "text": "Kirsten, you're rather going on. Thank you. Abigail."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 287.01,
+   "end_sec": 303.82,
+   "dur_sec": 16.81,
+   "overlap": false,
+   "text": "Kirsten asks you to treat added safeguards as proof, but hidden exposure and emergency dependence remain central weaknesses. A system that can still transmit sudden losses has not clearly become safer; it has become more complicated. The motion claims a real improvement, and that claim is not established."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 304.02,
+   "end_sec": 308.02,
+   "dur_sec": 4.0,
+   "overlap": false,
+   "text": "Thank you both for taking part. This debate is now closed."
+  }
+ ]
+}

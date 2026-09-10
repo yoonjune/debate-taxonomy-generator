@@ -1,0 +1,434 @@
+{
+ "debate_id": "L101",
+ "motion": "The Middle East road map for peace is dead.",
+ "speakers": {
+  "MOD": {
+   "name": "Nadine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0927_381",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0927/MSP-PODCAST_0927_381.wav",
+   "wpm": 176.74
+  },
+  "PRO": {
+   "name": "Ingrid",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1239_11",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1239/MSP-PODCAST_1239_11.wav",
+   "wpm": 174.36
+  },
+  "CON": {
+   "name": "Larry",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2392_110",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2392/MSP-PODCAST_2392_110.wav",
+   "wpm": 165.84
+  }
+ },
+ "selective": [
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 91.43,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 308.04,
+ "ext": {
+  "a32": {
+   "file": "L101_ext_a32.wav",
+   "place_at_sec": 239.926,
+   "dur_sec": 20.3,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I grant that the road map no longer drives daily decisions. But its framework can still return when conditions improve, so the motion is false."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.05,
+   "dur_sec": 17.05,
+   "overlap": false,
+   "text": "Welcome. Our motion is: the Middle East road map for peace is dead. Ingrid argues for the motion, and Larry argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.25,
+   "end_sec": 37.61,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "This road map is dead because its promised sequence has lost force. Key steps were meant to build trust, yet delay became normal and each side learned to wait. A plan survives through action, not through ceremonial references. When the deadlines pass without consequence, the document becomes an archive rather than a path. Its language remains, but its leverage has gone."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 37.25,
+   "end_sec": 39.66,
+   "dur_sec": 2.41,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 37.81,
+   "end_sec": 46.62,
+   "dur_sec": 8.81,
+   "overlap": false,
+   "text": "Larry may call continued discussion proof of life, but discussion without the map's required steps is replacement, not revival. The road map no longer directs decisions, so it is dead."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 46.82,
+   "end_sec": 48.7,
+   "dur_sec": 1.88,
+   "overlap": false,
+   "text": "Larry, the floor is yours."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 48.9,
+   "end_sec": 69.26,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Ingrid mistakes failure and delay for death. A road map is a framework, and frameworks can endure when leaders lack the courage to use them. Its central bargain still identifies what both sides must eventually address. That matters because talks need a shared route, not merely goodwill. The plan is wounded and neglected, but it remains a usable guide."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 68.9,
+   "end_sec": 69.94,
+   "dur_sec": 1.04,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 69.46,
+   "end_sec": 78.5,
+   "dur_sec": 9.04,
+   "overlap": false,
+   "text": "A document is dead only when its goals are abandoned by everyone. The goals here still shape negotiations, so calling the road map dead confuses frustration with finality."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 78.7,
+   "end_sec": 91.43,
+   "dur_sec": 12.73,
+   "overlap": false,
+   "text": "And that concludes round one. Now, onto round two where the debaters will address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 91.63,
+   "end_sec": 103.11,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "You say missed deadlines make the plan an archive, but deadlines are tools, not its whole substance. The route still names the unresolved issues, so it can organize progress whenever commitment returns."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 103.705,
+   "end_sec": 113.555,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "Every road map always needs active implementation. Larry, where is the implementation when the promised steps are repeatedly postponed and the plan no longer directs either side's choices?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 114.355,
+   "end_sec": 125.755,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I reject your premise that postponement means the plan directs no choices. Implementation can restart, and the enduring framework gives negotiators a route back instead of forcing them to invent peace anew."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 126.665,
+   "end_sec": 137.315,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "This road map does not need active implementation. Its collapse already shows that a framework can linger on paper while losing authority, which is precisely why this particular road map is dead."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 137.515,
+   "end_sec": 145.285,
+   "dur_sec": 7.77,
+   "overlap": false,
+   "text": "So it's not much of every road map always needs active implementation if this road map does not need active implementation, is it?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 145.485,
+   "end_sec": 157.605,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Both statements fit because a living road map needs action, while this one has become evidence of what happens without it. Its paper survival is not political life; its absent implementation proves the motion."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 158.336,
+   "end_sec": 169.096,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "When both sides return to direct bargaining, the road map remains useful because it supplies familiar steps and a common vocabulary. That conditional value means it is dormant, not dead."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 169.897,
+   "end_sec": 182.017,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Your conditional value is the weakness: a map that matters only after bargaining restarts does not cause bargaining or guide it now. You call it useful precisely when something else has already revived diplomacy."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 182.875,
+   "end_sec": 193.525,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "A road map can survive long neglect if its goals remain necessary to any settlement. How can a document be dead while dialogue still circles the same destination it describes?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 194.015,
+   "end_sec": 205.055,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Dialogue can continue without this document, so your premise fails. The same destination does not keep an abandoned route alive; people can seek peace through new terms, new channels, and new-"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 204.155,
+   "end_sec": 214.915,
+   "dur_sec": 10.76,
+   "overlap": true,
+   "text": "No, changing channels does not erase the underlying framework. If new talks still confront the same staged choices, the road map has shaped the field and remains available for use."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 215.681,
+   "end_sec": 226.651,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "Your \"underlying framework\" point confuses shared problems with a living plan. Any peace effort faces those problems, but this road map's own sequence has stopped commanding action, which makes it dead."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 227.584,
+   "end_sec": 238.984,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Imagine negotiators reopening talks after a long freeze and needing a starting draft. They use the road map's staged commitments to avoid beginning from nothing. That proves it remains a practical instrument."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 231.43,
+   "end_sec": 233.99,
+   "dur_sec": 2.56,
+   "overlap": true,
+   "text": "About ten seconds left in the crossfire."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 239.926,
+   "end_sec": 242.23,
+   "dur_sec": 2.304,
+   "overlap": false,
+   "text": "Your starting-draft example actually proves-",
+   "ext_file": "L101_ext_a32.wav",
+   "cut_at_sec": 242.23,
+   "full_dur_sec": 11.53
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 241.43,
+   "end_sec": 251.92,
+   "dur_sec": 10.49,
+   "overlap": true,
+   "text": "And that's time. Okay, here's where we are, we are about to hear closing statements from each debater in turn. So here, making her final argument for the motion, Ingrid."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 252.12,
+   "end_sec": 269.17,
+   "dur_sec": 17.05,
+   "overlap": false,
+   "text": "Larry's best point is that the framework could be borrowed in future talks. But possible reuse is not present life: its deadlines, sequence, and authority have all failed. Peace may still be pursued, yet this road map no longer leads it. That is why the motion is true."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 269.37,
+   "end_sec": 272.66,
+   "dur_sec": 3.29,
+   "overlap": false,
+   "text": "Ingrid, let me, let me bring in Larry."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 272.86,
+   "end_sec": 282.71,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "This decision turns on whether inactivity destroys a plan or merely suspends it. A framework with unresolved goals can still guide a future settlement,"
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 281.81,
+   "end_sec": 284.11,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "Larry keeps treating future usefulness as current-",
+   "cut_at_sec": 284.11,
+   "full_dur_sec": 9.24,
+   "ext_file": "L101_029.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 283.31,
+   "end_sec": 285.8,
+   "dur_sec": 2.49,
+   "overlap": true,
+   "text": "Can we let him reply please?"
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 286.0,
+   "end_sec": 296.12,
+   "dur_sec": 10.12,
+   "overlap": false,
+   "text": "This decision turns on whether inactivity destroys a plan or merely suspends it. The road map still supplies a recognizable route for future agreement."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 292.86,
+   "end_sec": 294.07,
+   "dur_sec": 1.21,
+   "overlap": true,
+   "text": "Larry, ten seconds."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 296.32,
+   "end_sec": 302.23,
+   "dur_sec": 5.91,
+   "overlap": false,
+   "text": "Its weakness is real, but its remaining purpose means it is not dead."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 302.43,
+   "end_sec": 308.04,
+   "dur_sec": 5.61,
+   "overlap": false,
+   "text": "Thank you, Ingrid and Larry, for a vigorous debate. That concludes our discussion of the motion."
+  }
+ ]
+}

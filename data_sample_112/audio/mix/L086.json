@@ -1,0 +1,381 @@
+{
+ "debate_id": "L086",
+ "motion": "It is ethical to cooperate with Chinese state institutions to secure incremental change.",
+ "speakers": {
+  "MOD": {
+   "name": "Clive",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0341_111",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0341/MSP-PODCAST_0341_111.wav",
+   "wpm": 167.28
+  },
+  "PRO": {
+   "name": "Jillian",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0941_297",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0941/MSP-PODCAST_0941_297.wav",
+   "wpm": 170.38
+  },
+  "CON": {
+   "name": "Billy",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6071_804",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6071/MSP-PODCAST_6071_804.wav",
+   "wpm": 168.17
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 80.83,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 299.51,
+ "ext": {
+  "a32": {
+   "file": "L086_ext_a32.wav",
+   "place_at_sec": 218.915,
+   "dur_sec": 37.13,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X11",
+   "text": "No, an exit clause does not stop laundering; officials can celebrate the project before anyone exits. Your example gives residents a desk, but it leaves the institution deciding which complaints matter and which disappear."
+  },
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "The weakest part is your claim that officials decide everything. A resident-run complaint desk creates a record and a collective voice; refusing the project would leave neither, so your all-or-nothing standard harms people."
+  },
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "I agree that a complaint desk may help some residents speak. But help that depends on an institution's permission can be withdrawn, and the motion asks us to bless cooperation despite that power; it is not ethical."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.05,
+   "dur_sec": 19.05,
+   "overlap": false,
+   "text": "Welcome. Today's motion is: It is ethical to cooperate with Chinese state institutions to secure incremental change. Jillian supports it, and Billy opposes it. Each has thirty seconds for an opening, followed by two and a half minutes of crossfire. Then come thirty-second closings; I will give a ten-second cue before each time limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.25,
+   "end_sec": 39.14,
+   "dur_sec": 19.89,
+   "overlap": false,
+   "text": "Cooperation is not approval. It is a disciplined way to widen room for safer work, fairer treatment, and honest discussion where direct refusal may leave people with nothing. I would judge each engagement by the protections it wins and the leverage it preserves. Walking away can feel pure, but it can also abandon those seeking small, real openings."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.25,
+   "end_sec": 42.86,
+   "dur_sec": 3.61,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.34,
+   "end_sec": 48.3,
+   "dur_sec": 8.96,
+   "overlap": false,
+   "text": "Incremental change is ethical when it leaves people more able to speak, organize, and resist harm tomorrow than they were yesterday. That is responsibility, not surrender."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 48.5,
+   "end_sec": 51.6,
+   "dur_sec": 3.1,
+   "overlap": false,
+   "text": "All right, let's give Billy a chance to reply."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.8,
+   "end_sec": 68.2,
+   "dur_sec": 16.4,
+   "overlap": false,
+   "text": "My opponent treats contact as leverage, but the stronger party often controls the terms and the story. Incremental concessions can quiet criticism while leaving coercion intact. Ethical action must avoid lending legitimacy to institutions that can take the benefit of cooperation and deny the promised change."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 68.4,
+   "end_sec": 80.83,
+   "dur_sec": 12.43,
+   "overlap": false,
+   "text": "That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 81.03,
+   "end_sec": 92.8,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "No cooperation with state institutions should ever be ethical. Their power lets them convert even careful partnership into a display of consent, so refusing cooperation protects the independence needed to demand real change."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 93.414,
+   "end_sec": 105.844,
+   "dur_sec": 12.43,
+   "overlap": false,
+   "text": "Your consent point assumes refusal keeps outsiders independent, but isolation can remove the only channel through which affected people press for improvements. Ethical cooperation sets boundaries, publishes demands, and leaves when those boundaries are violated."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 106.209,
+   "end_sec": 116.889,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Cooperation to release a detained child should be ethical. Yet the motion endorses a continuing approach, and that approach lets powerful institutions choose token reforms while preserving control over everyone else."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 117.089,
+   "end_sec": 132.539,
+   "dur_sec": 15.45,
+   "overlap": false,
+   "text": "I must ask you to stop, thank you Billy, thank you very much indeed. You've slightly destroyed your own argument there, you said that no cooperation with state institutions should ever be ethical and then cooperation to release a detained child should be ethical."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 132.739,
+   "end_sec": 144.429,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "Both statements express the same moral priority: people must not be abandoned, yet institutions must not gain a general license through partnership. A rescue is mercy; calling cooperation itself ethical is still wrong."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 145.328,
+   "end_sec": 157.938,
+   "dur_sec": 12.61,
+   "overlap": false,
+   "text": "No, those statements do not fit, because an absolute rule cannot permit the cooperation it bans. Your rescue example proves that engagement can be ethical; the real question is whether careful, limited engagement can secure gains."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 158.666,
+   "end_sec": 171.556,
+   "dur_sec": 12.89,
+   "overlap": false,
+   "text": "Careful limits depend on written promises, then on inspectors, meeting notes, complaint forms, and staff training records. Once those records are filed, the dispute becomes who signed which form, who stored it, and whether the copier worked."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 171.756,
+   "end_sec": 180.246,
+   "dur_sec": 8.49,
+   "overlap": false,
+   "text": "Okay, I'm not sure that that's getting to cooperating with Chinese state institutions for incremental change, which I think is a little bit more on point."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 180.446,
+   "end_sec": 192.286,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "The motion asks whether cooperation with Chinese state institutions for incremental change is ethical, and I say no. Even limited partnerships risk making gradual improvement an excuse for outsiders to overlook continuing abuse."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 193.235,
+   "end_sec": 205.915,
+   "dur_sec": 12.68,
+   "overlap": false,
+   "text": "Trust also depends on who attends meetings and whether translators make residents feel heard, details that deserve care. But the motion is simpler: cooperation is ethical when it wins enforceable space for people to protect themselves."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 206.616,
+   "end_sec": 218.706,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "If cooperation is ethical whenever it gains some space, how do you stop officials from displaying that project as proof that their wider conduct deserves approval? Please answer how your boundary prevents that laundering."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 218.915,
+   "end_sec": 231.63,
+   "dur_sec": 12.715,
+   "overlap": false,
+   "text": "Public terms and independent exit rights answer that concern. In one housing office, partners secure accessible entrances and a complaint desk run by residents; people gain tools to challenge officials, proving limited cooperation can build-",
+   "ext_file": "L086_ext_a32.wav",
+   "cut_at_sec": 231.63,
+   "full_dur_sec": 12.88
+  },
+  {
+   "i": 19,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 220.83,
+   "end_sec": 223.15,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.83,
+   "end_sec": 241.4,
+   "dur_sec": 10.57,
+   "overlap": true,
+   "text": "And that's time. I want to move into our third round, which is basically closing statements from each of you. And Jillian, you again, get to go first on this."
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.6,
+   "end_sec": 258.3,
+   "dur_sec": 16.7,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether ethics demands distance or demands useful responsibility to people living under constraint. Cooperation is justified only with clear goals, public limits, and an ability to leave. When it expands people's power rather than an institution's image, incremental change is worth pursuing."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 258.5,
+   "end_sec": 260.94,
+   "dur_sec": 2.44,
+   "overlap": false,
+   "text": "You guys want to respond? Billy."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 261.14,
+   "end_sec": 280.99,
+   "dur_sec": 19.85,
+   "overlap": false,
+   "text": "Deciding this motion turns on who bears the moral cost when cooperation fails. The people facing control may be used as evidence of reform while outsiders claim progress. Small projects can offer relief, and I do not dismiss that relief. But ethical partnership cannot rest on promises made by the very power that may revoke them."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 281.14,
+   "end_sec": 281.82,
+   "dur_sec": 0.68,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.19,
+   "end_sec": 292.44,
+   "dur_sec": 11.25,
+   "overlap": false,
+   "text": "That is why refusal preserves a line: do not trade moral independence for access controlled by another party. Jillian calls this caution abandonment, but accountability requires refusing arrangements that turn rights into favors-",
+   "cut_at_sec": 292.44,
+   "full_dur_sec": 14.56,
+   "ext_file": "L086_028.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 291.64,
+   "end_sec": 293.6,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 293.8,
+   "end_sec": 299.51,
+   "dur_sec": 5.71,
+   "overlap": false,
+   "text": "Thank you, Jillian and Billy, for a spirited discussion; that concludes our debate on this motion today."
+  }
+ ]
+}

@@ -1,0 +1,1031 @@
+[
+ {
+  "voice_id": "MSP-PODCAST_0019_43",
+  "gender": "Male",
+  "natural_wpm": 164,
+  "ref_text": "But at some point, you have to say enough is enough.",
+  "file": "voices/MSP-PODCAST_0019_43.wav",
+  "used_by": [
+   "L031:MOD",
+   "L039:PRO",
+   "L055:MOD",
+   "L056:CON",
+   "L081:PRO",
+   "L097:PRO",
+   "L098:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0177_72",
+  "gender": "Male",
+  "natural_wpm": 170,
+  "ref_text": "A spokesperson for the Pirate Bay said back then, quote,",
+  "file": "voices/MSP-PODCAST_0177_72.wav",
+  "used_by": [
+   "L000:CON",
+   "L017:MOD",
+   "L049:PRO",
+   "L063:CON",
+   "L090:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0285_1010",
+  "gender": "Male",
+  "natural_wpm": 163,
+  "ref_text": "In The Illustrious Client, what is said about the barrister who crams up a case with such care",
+  "file": "voices/MSP-PODCAST_0285_1010.wav",
+  "used_by": [
+   "L018:MOD",
+   "L023:PRO",
+   "L054:MOD",
+   "L107:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0341_111",
+  "gender": "Male",
+  "natural_wpm": 167,
+  "ref_text": "we think we have to teach you starting from the time you turn on the power button",
+  "file": "voices/MSP-PODCAST_0341_111.wav",
+  "used_by": [
+   "L021:MOD",
+   "L049:CON",
+   "L051:CON",
+   "L055:PRO",
+   "L068:CON",
+   "L075:CON",
+   "L086:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0342_79",
+  "gender": "Male",
+  "natural_wpm": 171,
+  "ref_text": "was the idea that Donald Trump takes horrible ideas and packages them beautifully,",
+  "file": "voices/MSP-PODCAST_0342_79.wav",
+  "used_by": [
+   "L006:PRO",
+   "L012:PRO",
+   "L020:CON",
+   "L034:PRO",
+   "L046:PRO",
+   "L085:PRO",
+   "L089:CON",
+   "L096:CON",
+   "L097:MOD",
+   "L100:CON",
+   "L103:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0417_1197",
+  "gender": "Male",
+  "natural_wpm": 171,
+  "ref_text": "how these things work together, the really unlikely way that the amendment was put in,",
+  "file": "voices/MSP-PODCAST_0417_1197.wav",
+  "used_by": [
+   "L013:CON",
+   "L025:PRO",
+   "L026:MOD",
+   "L080:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0537_440",
+  "gender": "Female",
+  "natural_wpm": 168,
+  "ref_text": "The size of one sesame seed is a tumor that's almost too big?",
+  "file": "voices/MSP-PODCAST_0537_440.wav",
+  "used_by": [
+   "L003:PRO",
+   "L008:PRO",
+   "L038:MOD",
+   "L074:CON",
+   "L077:CON",
+   "L084:PRO",
+   "L087:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0640_980",
+  "gender": "Male",
+  "natural_wpm": 158,
+  "ref_text": "And you wonder why Bernie Sanders is as popular as he is.",
+  "file": "voices/MSP-PODCAST_0640_980.wav",
+  "used_by": [
+   "L104:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0666_828",
+  "gender": "Male",
+  "natural_wpm": 171,
+  "ref_text": "and all the hate mail that Fox was getting",
+  "file": "voices/MSP-PODCAST_0666_828.wav",
+  "used_by": [
+   "L011:CON",
+   "L110:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0773_622",
+  "gender": "Female",
+  "natural_wpm": 181,
+  "ref_text": "and Ross doesn't know how many people he's impacting.",
+  "file": "voices/MSP-PODCAST_0773_622.wav",
+  "used_by": [
+   "L014:MOD",
+   "L053:MOD",
+   "L099:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0860_780",
+  "gender": "Female",
+  "natural_wpm": 165,
+  "ref_text": "Because for that young man, it might mean that he has to think twice before he does",
+  "file": "voices/MSP-PODCAST_0860_780.wav",
+  "used_by": [
+   "L010:CON",
+   "L039:CON",
+   "L060:MOD",
+   "L072:PRO",
+   "L082:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0894_483",
+  "gender": "Female",
+  "natural_wpm": 177,
+  "ref_text": "it is true that Wikipedia will exist in 15 years.",
+  "file": "voices/MSP-PODCAST_0894_483.wav",
+  "used_by": [
+   "L104:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0927_381",
+  "gender": "Female",
+  "natural_wpm": 177,
+  "ref_text": "My next guest is a poet and novelist, John Panetta.",
+  "file": "voices/MSP-PODCAST_0927_381.wav",
+  "used_by": [
+   "L007:CON",
+   "L053:PRO",
+   "L066:MOD",
+   "L101:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0929_326",
+  "gender": "Female",
+  "natural_wpm": 181,
+  "ref_text": "How much of the problem with the epidemic we're seeing now, are you guessing,",
+  "file": "voices/MSP-PODCAST_0929_326.wav",
+  "used_by": [
+   "L003:MOD",
+   "L067:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0930_576",
+  "gender": "Female",
+  "natural_wpm": 182,
+  "ref_text": "So much so that I read that after the study, 19 of the 20 who didn't get the treatment",
+  "file": "voices/MSP-PODCAST_0930_576.wav",
+  "used_by": [
+   "L043:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_0941_297",
+  "gender": "Female",
+  "natural_wpm": 170,
+  "ref_text": "So if a woman wants to wear a hijab, and she truly feels empowered by it, is that not, in her mind, a feminist view?",
+  "file": "voices/MSP-PODCAST_0941_297.wav",
+  "used_by": [
+   "L062:CON",
+   "L069:PRO",
+   "L086:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_1206_312",
+  "gender": "Female",
+  "natural_wpm": 165,
+  "ref_text": "which we did as a result of this piece, and say, okay, do we want it to work that way?",
+  "file": "voices/MSP-PODCAST_1206_312.wav",
+  "used_by": [
+   "L010:MOD",
+   "L065:CON",
+   "L083:PRO",
+   "L092:CON",
+   "L109:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_1215_339",
+  "gender": "Female",
+  "natural_wpm": 173,
+  "ref_text": "when they've been specific enough to test.",
+  "file": "voices/MSP-PODCAST_1215_339.wav",
+  "used_by": [
+   "L046:MOD",
+   "L096:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_1239_11",
+  "gender": "Female",
+  "natural_wpm": 174,
+  "ref_text": "These are courts that are specially set up to deal with rape cases",
+  "file": "voices/MSP-PODCAST_1239_11.wav",
+  "used_by": [
+   "L004:PRO",
+   "L017:CON",
+   "L088:MOD",
+   "L098:MOD",
+   "L101:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_1266_611",
+  "gender": "Female",
+  "natural_wpm": 163,
+  "ref_text": "And so then if women say, hey, this thing is happening,",
+  "file": "voices/MSP-PODCAST_1266_611.wav",
+  "used_by": [
+   "L001:MOD",
+   "L028:CON",
+   "L034:MOD",
+   "L038:CON",
+   "L060:PRO",
+   "L072:CON",
+   "L090:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_1279_95",
+  "gender": "Female",
+  "natural_wpm": 175,
+  "ref_text": "The appropriate response is to police rapists.",
+  "file": "voices/MSP-PODCAST_1279_95.wav",
+  "used_by": [
+   "L020:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_1495_875",
+  "gender": "Female",
+  "natural_wpm": 168,
+  "ref_text": "So you think that the White House told Pruitt and then it trickled down to security?",
+  "file": "voices/MSP-PODCAST_1495_875.wav",
+  "used_by": [
+   "L024:PRO",
+   "L029:MOD",
+   "L033:CON",
+   "L056:MOD",
+   "L063:PRO",
+   "L074:MOD",
+   "L075:PRO",
+   "L076:PRO",
+   "L090:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_1632_55",
+  "gender": "Male",
+  "natural_wpm": 163,
+  "ref_text": "and also the very first one to go straight from mayor to president.",
+  "file": "voices/MSP-PODCAST_1632_55.wav",
+  "used_by": [
+   "L091:PRO",
+   "L095:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_1656_617",
+  "gender": "Male",
+  "natural_wpm": 173,
+  "ref_text": "The floor creaks when you walk on it.",
+  "file": "voices/MSP-PODCAST_1656_617.wav",
+  "used_by": [
+   "L008:MOD",
+   "L026:PRO",
+   "L064:MOD",
+   "L094:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_1763_64",
+  "gender": "Female",
+  "natural_wpm": 174,
+  "ref_text": "And God expects you to want that for yourself.",
+  "file": "voices/MSP-PODCAST_1763_64.wav",
+  "used_by": [
+   "L040:MOD",
+   "L070:MOD",
+   "L079:MOD",
+   "L083:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_1918_257",
+  "gender": "Female",
+  "natural_wpm": 171,
+  "ref_text": "without any fuss or any tears or drama, would you do it?",
+  "file": "voices/MSP-PODCAST_1918_257.wav",
+  "used_by": [
+   "L010:PRO",
+   "L015:PRO",
+   "L016:CON",
+   "L020:PRO",
+   "L037:PRO",
+   "L044:PRO",
+   "L046:CON",
+   "L050:PRO",
+   "L058:PRO",
+   "L060:CON",
+   "L068:PRO",
+   "L087:PRO",
+   "L089:PRO",
+   "L111:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_2118_154",
+  "gender": "Female",
+  "natural_wpm": 168,
+  "ref_text": "Don't fight the little things, but pay attention, document, take pictures of",
+  "file": "voices/MSP-PODCAST_2118_154.wav",
+  "used_by": [
+   "L005:PRO",
+   "L015:CON",
+   "L019:PRO",
+   "L024:CON",
+   "L030:PRO",
+   "L043:PRO",
+   "L052:MOD",
+   "L066:PRO",
+   "L103:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_2124_313",
+  "gender": "Female",
+  "natural_wpm": 171,
+  "ref_text": "If people are wondering when the best time is to go,",
+  "file": "voices/MSP-PODCAST_2124_313.wav",
+  "used_by": [
+   "L002:CON",
+   "L022:PRO",
+   "L087:CON",
+   "L098:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_2260_889",
+  "gender": "Female",
+  "natural_wpm": 169,
+  "ref_text": "But no, it turns out that her dad is actually this evil guy.",
+  "file": "voices/MSP-PODCAST_2260_889.wav",
+  "used_by": [
+   "L056:PRO",
+   "L081:CON",
+   "L105:MOD",
+   "L106:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_2324_468",
+  "gender": "Female",
+  "natural_wpm": 182,
+  "ref_text": "because my great fear is to be taken advantage of, you know,",
+  "file": "voices/MSP-PODCAST_2324_468.wav",
+  "used_by": [
+   "L089:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_2392_110",
+  "gender": "Male",
+  "natural_wpm": 166,
+  "ref_text": "that, you know, seemed theoretically important in the past and was important in the past. But it's",
+  "file": "voices/MSP-PODCAST_2392_110.wav",
+  "used_by": [
+   "L011:PRO",
+   "L025:MOD",
+   "L053:CON",
+   "L064:PRO",
+   "L069:CON",
+   "L075:MOD",
+   "L096:PRO",
+   "L101:CON",
+   "L105:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_2474_405",
+  "gender": "Female",
+  "natural_wpm": 166,
+  "ref_text": "I think there's a long way to go on all of this.",
+  "file": "voices/MSP-PODCAST_2474_405.wav",
+  "used_by": [
+   "L037:CON",
+   "L057:PRO",
+   "L059:PRO",
+   "L077:PRO",
+   "L088:PRO",
+   "L093:MOD",
+   "L102:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_2678_246",
+  "gender": "Female",
+  "natural_wpm": 168,
+  "ref_text": "And if we could be conscious of how we experience things",
+  "file": "voices/MSP-PODCAST_2678_246.wav",
+  "used_by": [
+   "L059:CON",
+   "L079:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_2928_13",
+  "gender": "Male",
+  "natural_wpm": 159,
+  "ref_text": "It passed without incident, we'll say.",
+  "file": "voices/MSP-PODCAST_2928_13.wav",
+  "used_by": [
+   "L073:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_2943_167",
+  "gender": "Female",
+  "natural_wpm": 161,
+  "ref_text": "Tell us what's involved in being a good interview source.",
+  "file": "voices/MSP-PODCAST_2943_167.wav",
+  "used_by": [
+   "L035:PRO",
+   "L041:MOD",
+   "L044:MOD",
+   "L045:MOD",
+   "L091:MOD",
+   "L108:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_2988_467",
+  "gender": "Male",
+  "natural_wpm": 168,
+  "ref_text": "At the rear of the church was a square pine door built into the floor.",
+  "file": "voices/MSP-PODCAST_2988_467.wav",
+  "used_by": [
+   "L005:CON",
+   "L015:MOD",
+   "L023:CON",
+   "L074:PRO",
+   "L085:CON",
+   "L099:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_3001_778",
+  "gender": "Male",
+  "natural_wpm": 164,
+  "ref_text": "Now, I do have a move called Always the Victim.",
+  "file": "voices/MSP-PODCAST_3001_778.wav",
+  "used_by": [
+   "L008:CON",
+   "L028:PRO",
+   "L080:MOD",
+   "L099:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_3265_68",
+  "gender": "Female",
+  "natural_wpm": 169,
+  "ref_text": "led by the Cardinals' Chandler Jones and Los Angeles' Aaron Donald.",
+  "file": "voices/MSP-PODCAST_3265_68.wav",
+  "used_by": [
+   "L000:PRO",
+   "L009:MOD",
+   "L013:PRO",
+   "L018:PRO",
+   "L031:PRO",
+   "L035:MOD",
+   "L061:CON",
+   "L063:MOD",
+   "L064:CON",
+   "L073:CON",
+   "L080:PRO",
+   "L110:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_3346_530",
+  "gender": "Female",
+  "natural_wpm": 168,
+  "ref_text": "But I don't believe they're in their 20s.",
+  "file": "voices/MSP-PODCAST_3346_530.wav",
+  "used_by": [
+   "L004:MOD",
+   "L006:MOD",
+   "L032:PRO",
+   "L034:CON",
+   "L038:PRO",
+   "L040:CON",
+   "L045:CON",
+   "L054:PRO",
+   "L071:CON",
+   "L094:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_3493_43",
+  "gender": "Female",
+  "natural_wpm": 162,
+  "ref_text": "So my specialty is children's literature",
+  "file": "voices/MSP-PODCAST_3493_43.wav",
+  "used_by": [
+   "L007:PRO",
+   "L057:MOD",
+   "L104:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_3502_919",
+  "gender": "Female",
+  "natural_wpm": 167,
+  "ref_text": "So you don't like either his writing or his art?",
+  "file": "voices/MSP-PODCAST_3502_919.wav",
+  "used_by": [
+   "L002:PRO",
+   "L031:CON",
+   "L042:CON",
+   "L067:CON",
+   "L079:PRO",
+   "L102:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_3536_194",
+  "gender": "Male",
+  "natural_wpm": 174,
+  "ref_text": "but according to his attorney, he had three conditions, though,",
+  "file": "voices/MSP-PODCAST_3536_194.wav",
+  "used_by": [
+   "L028:MOD",
+   "L061:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_3684_437",
+  "gender": "Male",
+  "natural_wpm": 168,
+  "ref_text": "Now the President, rather than having a direct democracy, we elected them through an electoral college.",
+  "file": "voices/MSP-PODCAST_3684_437.wav",
+  "used_by": [
+   "L036:MOD",
+   "L041:PRO",
+   "L070:PRO",
+   "L095:PRO",
+   "L106:PRO",
+   "L107:PRO",
+   "L108:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_3725_146",
+  "gender": "Female",
+  "natural_wpm": 173,
+  "ref_text": "and have designed the sex industries that exist",
+  "file": "voices/MSP-PODCAST_3725_146.wav",
+  "used_by": [
+   "L013:MOD",
+   "L016:MOD",
+   "L019:MOD",
+   "L036:CON",
+   "L051:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_3841_60",
+  "gender": "Male",
+  "natural_wpm": 170,
+  "ref_text": "And this has tricked some black folks on the ways in which one may discipline a child.",
+  "file": "voices/MSP-PODCAST_3841_60.wav",
+  "used_by": [
+   "L002:MOD",
+   "L014:PRO",
+   "L058:CON",
+   "L062:PRO",
+   "L069:MOD",
+   "L109:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_3967_54",
+  "gender": "Male",
+  "natural_wpm": 161,
+  "ref_text": "look at each other. And once person at cash has their popcorn, the musical chairs happens.",
+  "file": "voices/MSP-PODCAST_3967_54.wav",
+  "used_by": [
+   "L012:MOD",
+   "L076:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_3981_550",
+  "gender": "Male",
+  "natural_wpm": 174,
+  "ref_text": "from rooftop solar than to spend extra money",
+  "file": "voices/MSP-PODCAST_3981_550.wav",
+  "used_by": [
+   "L051:PRO",
+   "L100:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_4013_830",
+  "gender": "Male",
+  "natural_wpm": 157,
+  "ref_text": "the women in question have fewer problems in that sense.",
+  "file": "voices/MSP-PODCAST_4013_830.wav",
+  "used_by": [
+   "L027:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_4043_33",
+  "gender": "Male",
+  "natural_wpm": 168,
+  "ref_text": "A lot of us were thinking three years after the, some would say the fall of Saigon, I would say the rise.",
+  "file": "voices/MSP-PODCAST_4043_33.wav",
+  "used_by": [
+   "L036:PRO",
+   "L043:MOD",
+   "L049:MOD",
+   "L050:CON",
+   "L052:CON",
+   "L054:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_4060_115",
+  "gender": "Female",
+  "natural_wpm": 156,
+  "ref_text": "What your parent is doing to like help discipline or teach you lessons? Does it make any sense?",
+  "file": "voices/MSP-PODCAST_4060_115.wav",
+  "used_by": [
+   "L066:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_4066_400",
+  "gender": "Male",
+  "natural_wpm": 162,
+  "ref_text": "question of U.S. domestic politics, we need to wake ourselves up more and more, because",
+  "file": "voices/MSP-PODCAST_4066_400.wav",
+  "used_by": [
+   "L019:CON",
+   "L027:MOD",
+   "L055:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_4091_2904",
+  "gender": "Female",
+  "natural_wpm": 177,
+  "ref_text": "No, I think we can if you get people where it hurts legislatively and",
+  "file": "voices/MSP-PODCAST_4091_2904.wav",
+  "used_by": [
+   "L048:PRO",
+   "L095:MOD",
+   "L103:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_4100_1134",
+  "gender": "Female",
+  "natural_wpm": 166,
+  "ref_text": "that's going to maybe give you energy",
+  "file": "voices/MSP-PODCAST_4100_1134.wav",
+  "used_by": [
+   "L003:CON",
+   "L012:CON",
+   "L040:PRO",
+   "L042:PRO",
+   "L067:PRO",
+   "L078:CON",
+   "L084:MOD",
+   "L088:CON",
+   "L102:PRO",
+   "L110:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_4117_448",
+  "gender": "Male",
+  "natural_wpm": 174,
+  "ref_text": "I was the one who was in control of the exit door of the strategy.",
+  "file": "voices/MSP-PODCAST_4117_448.wav",
+  "used_by": [
+   "L022:MOD",
+   "L044:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_4792_842",
+  "gender": "Female",
+  "natural_wpm": 184,
+  "ref_text": "is this coming from a place of to Ingrid's point,",
+  "file": "voices/MSP-PODCAST_4792_842.wav",
+  "used_by": [
+   "L022:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_4814_946",
+  "gender": "Male",
+  "natural_wpm": 172,
+  "ref_text": "But later that evening, when she never came home",
+  "file": "voices/MSP-PODCAST_4814_946.wav",
+  "used_by": [
+   "L014:CON",
+   "L025:CON",
+   "L032:MOD",
+   "L033:MOD",
+   "L070:CON",
+   "L071:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_4930_104",
+  "gender": "Male",
+  "natural_wpm": 174,
+  "ref_text": "He did it on a cold day on a wet track.",
+  "file": "voices/MSP-PODCAST_4930_104.wav",
+  "used_by": [
+   "L068:MOD",
+   "L083:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_5110_802",
+  "gender": "Female",
+  "natural_wpm": 164,
+  "ref_text": "but they haven't always been supportive of the idea.",
+  "file": "voices/MSP-PODCAST_5110_802.wav",
+  "used_by": [
+   "L029:CON",
+   "L084:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_5176_495",
+  "gender": "Female",
+  "natural_wpm": 179,
+  "ref_text": "and people coming to me before they were coming to me",
+  "file": "voices/MSP-PODCAST_5176_495.wav",
+  "used_by": [
+   "L024:MOD",
+   "L092:MOD",
+   "L106:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_5176_653",
+  "gender": "Male",
+  "natural_wpm": 176,
+  "ref_text": "But the other thing is that I see the results.",
+  "file": "voices/MSP-PODCAST_5176_653.wav",
+  "used_by": [
+   "L039:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_5287_206",
+  "gender": "Female",
+  "natural_wpm": 169,
+  "ref_text": "But there would be no perspective of anything that was dual.",
+  "file": "voices/MSP-PODCAST_5287_206.wav",
+  "used_by": [
+   "L052:PRO",
+   "L093:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_5508_46",
+  "gender": "Male",
+  "natural_wpm": 172,
+  "ref_text": "It was well below 90%, like 88%.",
+  "file": "voices/MSP-PODCAST_5508_46.wav",
+  "used_by": [
+   "L004:CON",
+   "L027:PRO",
+   "L057:CON",
+   "L097:CON",
+   "L105:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_5548_380",
+  "gender": "Male",
+  "natural_wpm": 161,
+  "ref_text": "It has become a guiding principle in my life.",
+  "file": "voices/MSP-PODCAST_5548_380.wav",
+  "used_by": [
+   "L030:CON",
+   "L050:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_5830_650",
+  "gender": "Male",
+  "natural_wpm": 176,
+  "ref_text": "that you pay for it and second most people aren't upgrading their PCs frequently at all most people",
+  "file": "voices/MSP-PODCAST_5830_650.wav",
+  "used_by": [
+   "L058:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_5920_66",
+  "gender": "Female",
+  "natural_wpm": 171,
+  "ref_text": "Based on executive functioning skill deficits.",
+  "file": "voices/MSP-PODCAST_5920_66.wav",
+  "used_by": [
+   "L001:PRO",
+   "L035:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_5949_98",
+  "gender": "Female",
+  "natural_wpm": 169,
+  "ref_text": "but there's so much more to that and when we think of the word oppression what do we think of?",
+  "file": "voices/MSP-PODCAST_5949_98.wav",
+  "used_by": [
+   "L005:MOD",
+   "L026:CON",
+   "L042:MOD",
+   "L048:CON",
+   "L073:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_5993_347",
+  "gender": "Male",
+  "natural_wpm": 164,
+  "ref_text": "And I have learned now that that to me isn't a red flag",
+  "file": "voices/MSP-PODCAST_5993_347.wav",
+  "used_by": [
+   "L007:MOD",
+   "L009:CON",
+   "L029:PRO",
+   "L045:PRO",
+   "L048:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_6007_198",
+  "gender": "Female",
+  "natural_wpm": 152,
+  "ref_text": "Well, cervical cancer and abnormal pap smears are later in life.",
+  "file": "voices/MSP-PODCAST_6007_198.wav",
+  "used_by": [
+   "L091:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_6071_804",
+  "gender": "Male",
+  "natural_wpm": 168,
+  "ref_text": "All of us participate in it as consumers, producers,",
+  "file": "voices/MSP-PODCAST_6071_804.wav",
+  "used_by": [
+   "L016:PRO",
+   "L041:CON",
+   "L047:PRO",
+   "L061:PRO",
+   "L065:PRO",
+   "L082:CON",
+   "L086:CON",
+   "L100:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_6153_54",
+  "gender": "Male",
+  "natural_wpm": 165,
+  "ref_text": "And then today's text, which begins, do not be anxious.",
+  "file": "voices/MSP-PODCAST_6153_54.wav",
+  "used_by": [
+   "L006:CON",
+   "L017:PRO",
+   "L078:PRO",
+   "L109:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_6380_62",
+  "gender": "Male",
+  "natural_wpm": 178,
+  "ref_text": "approved ingredients. Two. Second the finish must be formulated in such a way",
+  "file": "voices/MSP-PODCAST_6380_62.wav",
+  "used_by": [
+   "L062:MOD",
+   "L085:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_6504_583",
+  "gender": "Male",
+  "natural_wpm": 171,
+  "ref_text": "to be held to determine what's gonna happen with you.",
+  "file": "voices/MSP-PODCAST_6504_583.wav",
+  "used_by": [
+   "L077:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_6582_423",
+  "gender": "Male",
+  "natural_wpm": 165,
+  "ref_text": "Paul says, instead, let there be thanksgiving.",
+  "file": "voices/MSP-PODCAST_6582_423.wav",
+  "used_by": [
+   "L001:CON",
+   "L021:PRO",
+   "L030:MOD",
+   "L059:MOD",
+   "L072:MOD",
+   "L076:MOD",
+   "L092:PRO",
+   "L094:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_6676_448",
+  "gender": "Male",
+  "natural_wpm": 170,
+  "ref_text": "languages and its developer tools, uh, at the forefront of technology.",
+  "file": "voices/MSP-PODCAST_6676_448.wav",
+  "used_by": [
+   "L000:MOD",
+   "L009:PRO",
+   "L021:CON",
+   "L032:CON",
+   "L047:CON",
+   "L108:MOD",
+   "L111:PRO"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_6699_79",
+  "gender": "Male",
+  "natural_wpm": 176,
+  "ref_text": "Dunkley was the senior assistant master, Lewisham's sole colleague. The last vestige",
+  "file": "voices/MSP-PODCAST_6699_79.wav",
+  "used_by": [
+   "L078:MOD",
+   "L081:MOD",
+   "L082:MOD",
+   "L107:MOD"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_6812_537",
+  "gender": "Male",
+  "natural_wpm": 166,
+  "ref_text": "If we see ourselves as small, everything seems big.",
+  "file": "voices/MSP-PODCAST_6812_537.wav",
+  "used_by": [
+   "L011:MOD",
+   "L018:CON",
+   "L023:MOD",
+   "L033:PRO",
+   "L037:MOD",
+   "L071:PRO",
+   "L093:CON",
+   "L111:CON"
+  ]
+ },
+ {
+  "voice_id": "MSP-PODCAST_6916_657",
+  "gender": "Male",
+  "natural_wpm": 175,
+  "ref_text": "The creative power, strong and full of vigour,",
+  "file": "voices/MSP-PODCAST_6916_657.wav",
+  "used_by": [
+   "L047:MOD",
+   "L065:MOD"
+  ]
+ }
+]

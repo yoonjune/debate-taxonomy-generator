@@ -1,0 +1,36 @@
+L095  |  We should use gene editing to make better babies.
+  MOD=Joan   PRO=Malcolm   CON=Frank
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Joan(MOD): Welcome. The motion is: We should use gene editing to make better babies. Malcolm takes the affirmative, and Frank takes the negative. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue.
+[t01] Malcolm(PRO): Gene editing can spare a future child from severe inherited illness and give families more control over preventable suffering. Used before birth, it can strengthen health without changing the love owed to any child. We should set clear limits, require careful review, and make sure this tool serves children rather than fashion or profit.
+[t02] @A4 <ovl> Joan(MOD): Malcolm, ten seconds.
+[t03] <cut> Malcolm(PRO): The aim is not to order children from a catalog. It is to give them a fairer starting point when biology deals a cruel hand. If we refuse a safe chance to prevent-
+[t04] @A2-1 <ovl> Joan(MOD): That's time, Malcolm. Thank you. Frank.
+[t05] Frank(CON): Better babies sounds kind, but it turns a child into a project measured against someone else's ideal. Editing inherited illness may seem simple, yet the same power invites pressure to choose traits and reject difference. Parents need support and treatment, not a market logic that ranks children before they can speak.
+[t06] @A4 <ovl> Joan(MOD): I'll give you ten more seconds to nail this.
+[t07] Frank(CON): Once society treats traits as upgrades, freedom narrows, and vulnerable children pay the price.
+--- phase 2 ---
+[t08] @A3-1 Joan(MOD): And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t09] Frank(CON): If a child later rejects the traits you selected, who answers for taking that choice away? You cannot call that freedom while imposing a design before the child has any voice.
+[t10] Malcolm(PRO): Parents make countless choices through food, housing, and schooling, and unequal access to those basics deserves attention. But editing to prevent disease expands a child's options, so using it responsibly supports the motion.
+[t11] Frank(CON): Your comparison to food and schooling fails because those choices can be revised as a child grows. A genetic alteration follows the child throughout life, making imposed preferences far more serious.
+[t12] Malcolm(PRO): The bigger policy question is who controls clinics, prices, and access when powerful medical tools arrive. We need public oversight, affordable care, and rules against private gatekeepers deciding which families receive help.
+[t13] @B1 Joan(MOD): We're talking about whether we should use gene editing to make better babies.
+[t14] Malcolm(PRO): We are deciding whether gene editing should make better babies, and I say careful health improvements can do that. Fair access matters, but denying all families a safe tool leaves preventable suffering untouched.
+[t15] Frank(CON): No embryo should ever be edited. Once people claim authority to improve a future child, they normalize judging human worth by chosen traits, and that danger outweighs promised convenience.
+[t16] Malcolm(PRO): You say no embryo should ever be edited, so would you deny an edit that removes a fatal inherited disorder? Why should a child bear avoidable suffering to preserve your rule?
+[t17] Frank(CON): This embryo should be edited. A fatal disorder can make a short life painful and bleak, and refusing relief abandons the child we claim to protect from the start.
+[t18] @B2 Joan(MOD): So one moment it's no embryo should ever be edited and the next moment it's this embryo should be edited?
+[t19] Frank(CON): Both statements protect children: the first rejects editing as a social practice; the second refuses to let a child die untreated. The common principle is resisting harm, which favors opposition.
+[t20] Malcolm(PRO): No, those statements are not compatible: no embryo includes the embryo you would edit. Your retreat shows that preventing terrible harm matters, and responsible editing therefore deserves support.
+[t21] Frank(CON): I agree that preventing a fatal disorder is a powerful goal. But calling any child better invites a culture of ranking, and safeguards cannot erase pressure, so we should reject the motion.
+[t22] Malcolm(PRO): Consider parents carrying a gene that causes a child constant pain and early death. Editing that gene before birth could give that child ordinary health, proving careful gene editing can make lives better.
+[t23] @A4 <ovl> Joan(MOD): Ten seconds left, both of you.
+--- phase 3 ---
+[t24] @A3-2 <ovl> Joan(MOD): Okay, time. And that concludes round two of this debate. We're going to go to closing arguments now. And so, first up, Malcolm.
+[t25] Malcolm(PRO): This debate asks whether we use careful knowledge to spare children avoidable harm. A child facing constant pain or early death deserves more than fear of misuse. With firm limits, gene editing can widen a child's future. That is why we should make better babies.
+[t26] @A2-2 Joan(MOD): Okay, thank you very much Malcolm for that. Frank.
+[t27] Frank(CON): Better babies is not a medical goal; it is a judgment that some children need improvement. Even a good aim can create pressure, rankings, and irreversible choices made without consent. Care for children after they arrive, and prevent suffering without redesigning them. We should reject this motion.
+[t28] Joan(MOD): Thank you, Malcolm and Frank, for a thoughtful debate; that concludes our discussion of this motion today.

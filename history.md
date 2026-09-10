@@ -47,14 +47,14 @@ Every number traces to a file under `debate/_meta/` or a memory note. "(TBD)" = 
 - Python fixes everything that must be exact: which optional codes a debate contains (balanced across the set), speech-length bands, the seed line for every MOD action, names, voices, word budgets. An LLM (`gpt-5.6-luna`, one JSON call per debate, 450-word prompt) writes only the debaters' turns and the two quoted claims for B2.
 - Filtering: 22 rule checks (budgets, cut-off dashes, moderator share, no audience) and a strict LLM judge per debate (speaker/side consistency, whether every MOD line is actually earned by the turns before it, whether the planted traps stay silent-worthy). Only judged-pass debates enter the benchmark.
 - The dominant generation failure is the LLM losing track of which debater speaks in crossfire; putting the speaker name and side into every output key reduced side-swapped turns from about a quarter of crossfire turns to a few percent.
-- Batches: 30 generated → 21 passed (v8); a second 30 with a rewritten crossfire *question* instruction → 8 passed (the new wording tripled side-swapped question turns; reverted), plus 3 of 5 single-turn repairs → 11. From the 32 the 30 with the most even optional-code counts form `data_sample_30/`: A1 17 · A2-1 16 · A5 17 · B1 16 · B2 16 (28 as generated, 2 with one repaired turn).
+- Batches: 30 generated → 21 passed (v8); a second 30 with a rewritten crossfire *question* instruction → 8 passed (the new wording tripled side-swapped question turns; reverted), plus 3 of 5 single-turn repairs → 11. Then 100 with gpt-5.6-luna → 48 passed, and 100 with gpt-5.6-terra → 64 passed (per-turn side-swap rate 6.3% → 3.1%); the 112 form `data_sample_112/`. From the 32 the 30 with the most even optional-code counts form `data_sample_30/`: A1 17 · A2-1 16 · A5 17 · B1 16 · B2 16 (28 as generated, 2 with one repaired turn).
 - Judge variance: re-judging 6 accepted debates with a fresh judge passed 4; the two rejections were borderline B2 pairs. Pass/fail on a single debate is noisy; the set-level counts are what we report.
 
 ## 6. Audio
 
 - Each turn is synthesised separately (OmniVoice, voice cloning from NaturalVoices/MSP-Podcast references; 24 kHz), trimmed with a forced aligner, and placed on a timeline. The mixer enforces the clock: ten-second cue at 20 s, cut at 30.5 s, crossfire cue at 2:20 and cut at 2:30 (declared − realised = 0.00 s), interruption blocked 1.5 s after it starts; the interrupted speaker then resumes.
 - Per-turn files are kept, so the debater channel for the model is built from PRO/CON turns only.
-- Realised set: 30 debates, 969 turns after dropping the surplus crossfire turns (33), 4.6–5.3 min each (median 4.9), 50 cloned voices; declared − realised crossfire length = 0.00 s in all 30; 994/1002 turns trimmed by forced alignment, the rest kept whole.
+- Realised set: 112 debates (48 luna + 64 terra), 3,514 turns after dropping surplus crossfire turns, 4.4–5.5 min each (median 5.0), 77 cloned voices from Sidon-restored references; declared − realised crossfire length = 0.00 s in all 112. Every turn passed a quality gate: speaker similarity ≥ 0.60 (ECAPA-TDNN) and WER ≤ 0.10 (Whisper large-v3 + jiwer), up to three seeds; short lines (≤ 5 words) use WER only. 98% of long turns passed on the first try; all 3,691 synthesised turns were trimmed by forced alignment. The OmniVoice prompt was reordered (target before reference audio), which removed the onset artefact that earlier batches needed trimming for.
 
 ## 7. Evaluation protocol (final)
 
@@ -72,7 +72,7 @@ Every number traces to a file under `debate/_meta/` or a memory note. "(TBD)" = 
 |---|---|
 | Corpora behind the seeds | 4 (IQ2, Open to Debate, Doha, Munk); 366 debates; 31,264 moderator windows labelled |
 | Seed candidates → reviewed → usable scene seeds | 2,424 → 300 verdicts → 627 |
-| Benchmark set | 30 debates, 286 triggers (A4 70 · A4 crossfire 30 · A2-2 44 · A3-1 30 · A3-2 30 · A1 17 · A2-1 16 · A5 17 · B1 16 · B2 16) |
+| Benchmark set | 112 debates, 1,071 triggers (A4 278 · A4 crossfire 112 · A2-2 166 · A3-1 112 · A3-2 112 · A1 59 · A2-1 58 · A5 53 · B1 57 · B2 64) |
 | Per debate | 6–7 distinct codes, 8–10 scored MOD lines, 4.6–5.3 min of audio |
 | Model scores | (TBD) |
 

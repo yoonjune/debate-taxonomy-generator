@@ -33,13 +33,13 @@ Full-duplex 음성 모델을 **토론 진행자 자리에 앉혀** 언제 말하
 
 | 무엇 | 어디 |
 |---|---|
-| 오디오 샘플 30편 + 메타데이터 | [`data_sample_30/`](data_sample_30/README.md) — `audio/mix/` 완성본, `audio/turns/` 발화별 파일, `debates.jsonl` 대본, `probes.jsonl` 채점 지점, `voices/` 목소리 |
-| 평가 세팅 · 입력/출력 · 채점법 | [`data_sample_30/README.md`](data_sample_30/README.md) §3~§4 (사람용), [`skills/moderator-duplex-eval/SKILL.md`](skills/moderator-duplex-eval/SKILL.md) (에이전트용, 같은 내용 영어) |
-| 채점 규격(기계용) · 채점기 | `data_sample_30/eval_rubric.json`, `data_sample_30/score_freerun.py` (+ `run_judge.py`, `report.py`, `baselines.py`) |
-| 진행자에게 주는 system prompt | `data_sample_30/system_prompt.md` |
+| 오디오 샘플 112편 + 메타데이터 | [`data_sample_112/`](data_sample_112/README.md) — `audio/mix/` 완성본, `audio/turns/` 발화별 파일, `debates.jsonl` 대본, `probes.jsonl` 채점 지점, `voices/` 목소리 |
+| 평가 세팅 · 입력/출력 · 채점법 | [`data_sample_112/README.md`](data_sample_112/README.md) §3~§4 (사람용), [`skills/moderator-duplex-eval/SKILL.md`](skills/moderator-duplex-eval/SKILL.md) (에이전트용, 같은 내용 영어) |
+| 채점 규격(기계용) · 채점기 | `data_sample_112/eval_rubric.json`, `data_sample_112/score_freerun.py` (+ `run_judge.py`, `report.py`, `baselines.py`) |
+| 진행자에게 주는 system prompt | `data_sample_112/system_prompt.md` |
 | 어떻게 여기까지 왔나 (연구 이력) | [`history.md`](history.md) |
 
-`data_sample/`은 이전 판(초기 샘플)이며 그대로 두었다. 새 작업은 `data_sample_30/`을 쓴다.
+`data_sample_112/`가 현재 판이다 (Sidon 복원 레퍼런스, 품질 게이트 통과 오디오). `data_sample_30/`은 그 전 판(원본 레퍼런스라 화자 간 음량 편차 큼), `data_sample/`은 초기 샘플이며 둘 다 그대로 두었다.
 
 ## 가장 간단한 사용법
 

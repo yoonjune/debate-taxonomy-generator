@@ -1,0 +1,415 @@
+{
+ "debate_id": "L107",
+ "motion": "The President Has Constitutional Power To Target And Kill U.S. Citizens Abroad",
+ "speakers": {
+  "MOD": {
+   "name": "Leo",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6699_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6699/MSP-PODCAST_6699_79.wav",
+   "wpm": 176.38
+  },
+  "PRO": {
+   "name": "Jonas",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  },
+  "CON": {
+   "name": "Rod",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0285_1010",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0285/MSP-PODCAST_0285_1010.wav",
+   "wpm": 163.03
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 77.31,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 315.73,
+ "ext": {
+  "a32": {
+   "file": "L107_ext_a32.wav",
+   "place_at_sec": 214.134,
+   "dur_sec": 36.63,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "I reject your premise that due process must be completed within moments to protect troops. The President may defend troops from an immediate attack, but that does not create power to target citizens abroad."
+  },
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "A citizen abroad operates communications for an enemy force, directing attacks while hidden beyond capture. A targeted strike stops those commands before troops are ambushed. That protection proves constitutional war power has real force."
+  },
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Your communications example assumes executive certainty, but certainty is exactly what no hearing tests. The point I answer is your claim of protection: constitutional protection includes citizens from mistaken, unreviewed killing."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.6,
+   "dur_sec": 19.6,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is the president can constitutionally target and kill citizens abroad. Jonas supports the motion, and Rod opposes it. Each has thirty seconds for opening remarks, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. Keep answers direct and allow each other to speak."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.8,
+   "end_sec": 34.36,
+   "dur_sec": 14.56,
+   "overlap": false,
+   "text": "The Constitution makes the President commander in war, not a helpless observer when a citizen joins an enemy force abroad. Due process can fit wartime reality. Targeting an imminent operational threat against the nation in combat is constitutional self-defense, not punishment."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 34.56,
+   "end_sec": 36.44,
+   "dur_sec": 1.88,
+   "overlap": false,
+   "text": "Rod against the motion, please."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 36.64,
+   "end_sec": 55.97,
+   "dur_sec": 19.33,
+   "overlap": false,
+   "text": "Constitutional power to defend the country is not a blank check to kill citizens without charge, hearing, or neutral review. A label from the executive cannot replace due process. If the President alone selects the target, who protects an innocent citizen or tests the evidence before death?"
+  },
+  {
+   "i": 4,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 56.17,
+   "end_sec": 61.9,
+   "dur_sec": 5.73,
+   "overlap": false,
+   "text": "That irreversible act needs constitutional process, because a mistaken strike cannot be repaired afterward at all."
+  },
+  {
+   "i": 5,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 56.64,
+   "end_sec": 58.24,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 62.1,
+   "end_sec": 77.31,
+   "dur_sec": 15.21,
+   "overlap": false,
+   "text": "We have just heard opening arguments on the president can constitutionally target and kill citizens abroad, and now we're going to give our debaters a chance to respond to one another. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 77.51,
+   "end_sec": 89.35,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "The President does not act alone: constitutional limits and later judicial review remain. Your demand for a hearing before stopping an active foreign enemy makes defense impossible, and treats combat as criminal punishment."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 90.235,
+   "end_sec": 101.565,
+   "dur_sec": 11.33,
+   "overlap": false,
+   "text": "Imagine a citizen overseas is wrongly identified from a hurried report and killed while traveling. No hearing corrects that error, and family loses everything. That proves unchecked executive targeting cannot be constitutional."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 102.014,
+   "end_sec": 113.774,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "That consequence also makes me think about detention after capture, where soldiers must decide who guards a suspect. Barracks rules, transport risks, and questioning methods shape whether a captured fighter can be held."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 113.974,
+   "end_sec": 118.414,
+   "dur_sec": 4.44,
+   "overlap": false,
+   "text": "This House believes the president can constitutionally target and kill citizens abroad."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 118.614,
+   "end_sec": 130.014,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "The motion asks whether the President may target a citizen abroad who is fighting for an enemy force. In active combat, command authority includes stopping that threat when capture is not feasible."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 130.568,
+   "end_sec": 141.748,
+   "dur_sec": 11.18,
+   "overlap": false,
+   "text": "Your phrase \"not feasible\" is the weakest part of your case, because the executive defines it alone. Convenience, fear, or poor planning could become a death sentence without any independent constitutional check."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 142.263,
+   "end_sec": 154.103,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "If an armed citizen abroad directs an imminent attack and capture would endanger troops, what constitutional rule requires the President to let that attack proceed? Your answer cannot turn battlefield defense into surrender."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 154.373,
+   "end_sec": 165.383,
+   "dur_sec": 11.01,
+   "overlap": false,
+   "text": "When capture would endanger troops during an active attack, force may be necessary, but necessity does not erase citizenship. The Constitution still forbids the President from being prosecutor, judge, and executioner."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 165.967,
+   "end_sec": 178.487,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "A citizen abroad guides an enemy unit toward troops and triggers an attack from a hidden position. Waiting for arrest lets the attack continue. Stopping that operational threat protects lives, proving the authority is defensive."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 179.444,
+   "end_sec": 189.534,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "Government power over citizens must remain bounded by the Constitution, even during danger. Yet battlefield force against an enemy fighter is not punishment, and the executive may direct it."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 189.854,
+   "end_sec": 201.334,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Commanders also decide uniforms, supplies, and where exhausted troops sleep; those choices affect discipline. But this motion concerns a citizen actively fighting abroad, and constitutional command authority can target that enemy threat."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 201.795,
+   "end_sec": 213.345,
+   "dur_sec": 11.55,
+   "overlap": false,
+   "text": "Your claim depends on someone simply calling a citizen an active fighter. That label is not proof, and command authority cannot replace a neutral process before the government makes an irreversible killing decision."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.134,
+   "end_sec": 226.254,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "What process can occur quickly enough when a citizen abroad is directing an attack that will happen within moments? Explain how your rule protects troops without denying the President authority to stop the attack.",
+   "ext_file": "L107_ext_a32.wav"
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 217.31,
+   "end_sec": 217.99,
+   "dur_sec": 0.68,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 227.31,
+   "end_sec": 241.55,
+   "dur_sec": 14.24,
+   "overlap": true,
+   "text": "That's time. We are about to hear brief closing remarks from each debater in turn. On to round three, closing statements. First summarizing his position in support of the motion the president can constitutionally target and kill citizens abroad, Jonas."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.75,
+   "end_sec": 263.39,
+   "dur_sec": 21.64,
+   "overlap": false,
+   "text": "Rod's strongest concern is error, and error deserves serious limits and accountability. But the Constitution does not require the President to let an imminent enemy attack succeed because its commander holds citizenship. War power exists to defend the country against operational threats abroad. Due process cannot mean a courtroom before every act of combat. That is why the decisive question is"
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 261.75,
+   "end_sec": 263.27,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 263.59,
+   "end_sec": 273.05,
+   "dur_sec": 9.46,
+   "overlap": false,
+   "text": "whether the target is an enemy operational threat in active conflict, not whether citizenship creates immunity. Where capture cannot safely stop that threat, the President's command-",
+   "cut_at_sec": 273.05,
+   "full_dur_sec": 15.72,
+   "ext_file": "L107_027.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 272.25,
+   "end_sec": 274.89,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "Time. Thank you, Jonas. Rod, your turn."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.09,
+   "end_sec": 297.26,
+   "dur_sec": 22.17,
+   "overlap": false,
+   "text": "Jonas's best argument is that the President must protect troops from immediate attack. Protection is vital, but it does not turn one official's accusation into a constitutional death warrant. Citizenship carries due process precisely when government power is at its most final. The President may respond to direct combat, yet targeting citizens abroad demands limits beyond executive choice. The Constitution separates power because"
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 295.09,
+   "end_sec": 297.9,
+   "dur_sec": 2.81,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 28,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 297.46,
+   "end_sec": 306.39,
+   "dur_sec": 8.93,
+   "overlap": false,
+   "text": "a mistaken killing cannot be reviewed after it happens. Jonas calls this defense, but his rule lets the executive define threat, evidence, and necessity alone-",
+   "cut_at_sec": 306.39,
+   "full_dur_sec": 16.45,
+   "ext_file": "L107_031.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 305.59,
+   "end_sec": 309.44,
+   "dur_sec": 3.85,
+   "overlap": true,
+   "text": "Please come to an end, we're running out of time, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 309.64,
+   "end_sec": 315.73,
+   "dur_sec": 6.09,
+   "overlap": false,
+   "text": "Thank you, Jonas and Rod, for a thoughtful debate; this concludes our discussion of the motion tonight here."
+  }
+ ]
+}

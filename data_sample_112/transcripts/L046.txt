@@ -1,0 +1,38 @@
+L046  |  Big government is stifling the American spirit.
+  MOD=Carissa   PRO=Stanley   CON=Elise
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Carissa(MOD): Welcome to the debate on whether big government is stifling the American spirit. Stanley takes the PRO side, and Elise takes the CON side. Each speaker gets thirty seconds to open, then we have two and a half minutes of crossfire. We finish with thirty-second closings, and I will give a ten-second cue.
+[t01] Stanley(PRO): Big government is stifling the American spirit because it replaces initiative with permission. When rules multiply, people spend energy navigating offices instead of building, serving, and taking risks. Government should protect basic rights, not manage every choice. A free spirit needs room to fail, learn, and try again. That room is shrinking as officials decide more of daily life.
+[t02] @A4 <ovl> Carissa(MOD): Ten seconds, ten seconds.
+[t03] <cut> Stanley(PRO): Elise may call those rules protection, but protection becomes control when citizens must ask permission for ordinary work. The result is not security; it is hesitation, dependence-
+[t04] @A2-1 <ovl> Carissa(MOD): That's time, Stanley. Thank you. Elise.
+[t05] Elise(CON): Stanley confuses government with every frustrating rule. Big government can provide public goods that individual effort cannot, including safe roads, schools, emergency response, and fair standards. Those foundations do not crush initiative; they let more people participate. Freedom is not merely the absence of rules. It is also having enough security and opportunity to act boldly.
+[t06] @A4 <ovl> Carissa(MOD): You have ten seconds left.
+[t07] Elise(CON): Smart government expands the number of people who can take risks, so big government is not inherently stifling.
+--- phase 2 ---
+[t08] @A3-1 Carissa(MOD): And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t09] Stanley(PRO): You answered with services, not with the growing control I described. A road may help people move, but layers of permits and mandates can still decide who may work, build, or innovate.
+[t10] <cut> Elise(CON): Do you oppose government whenever it limits a private choice, or can necessary limits protect everyone without stifling initiative and-
+[t11] <ovl> Stanley(PRO): I oppose needless control, and your question assumes officials can reliably separate necessary from needless. They rarely do. Once government claims authority over choices, ambition becomes compliance, and compliance is not freedom.
+[t12] Elise(CON): When a rule prevents one person's action from imposing clear harm on others, government can limit that action without stifling the broader spirit of initiative.
+[t13] Stanley(PRO): Your weakest point is calling officials reliable judges of harm. That standard expands quickly, because almost any decision can be described as affecting others. Vague authority invites control, not merely protection.
+[t14] Elise(CON): Government should protect shared conditions for freedom, while private choices should remain broadly open. Strong public foundations and wide personal liberty are compatible, because they govern different scopes.
+[t15] Stanley(PRO): You say those scopes stay separate, but modern government keeps expanding the definition of shared conditions. It reaches workplaces, speech, purchases, and personal habits, turning ordinary independence into supervised behavior.
+[t16] Elise(CON): If a workplace needs a license, an inspector may demand forms, revisions, and another visit. Then the owner hires someone to manage filings, waits beside a telephone, and learns which office prefers blue folders.
+[t17] @B1 Carissa(MOD): We're talking about the practicality or the morality of big government is stifling the american spirit.
+[t18] Elise(CON): The motion asks whether government stifles the American spirit, and these burdens do not prove that it does. They show administration can be improved, while public rules still protect broad freedom and participation.
+[t19] Stanley(PRO): Even the debate over licenses reveals the problem: people must master bureaucracy before serving neighbors. More broadly, a community loses confidence when every mistake risks punishment. That is why big government stifles the spirit.
+[t20] Elise(CON): That argument treats paperwork as proof of oppression, which is too weak. A manageable filing burden does not erase initiative, and removing standards could let powerful actors shift costs onto everyone else.
+[t21] Stanley(PRO): A person with a useful home business may abandon it after repeated permits, inspections, and fees consume the savings needed to begin. That lost attempt proves excessive government can stifle initiative.
+[t22] Elise(CON): The example shows poor administration, not big government itself. Simplifying permits can preserve safety while welcoming enterprise, so reform supports my case that government need not stifle the spirit.
+[t23] @A4 <ovl> Carissa(MOD): Ten.
+--- phase 3 ---
+[t24] @A3-2 <ovl> Carissa(MOD): That's time. This concludes round two of the debate. Stanley.
+[t25] Stanley(PRO): The strongest point is simple: government power tends to spread beyond its original purpose. A permit meant to protect safety becomes fees, delays, inspections, and fear of making an unauthorized choice. Elise says reform can fix that, but citizens still face the system before reform arrives. When ordinary initiative depends on official approval, the American spirit is being stifled.
+[t26] @A4 <ovl> Carissa(MOD): Ten seconds, Stanley.
+[t27] Stanley(PRO): Freedom requires room to act first, not permission after bureaucracy has drained the will to act.
+[t28] @A2-2 Carissa(MOD): Elise has the floor.
+[t29] Elise(CON): Stanley's best argument describes frustrating bureaucracy, not an unavoidable result of big government. Public institutions can provide security, opportunity, and fair limits while simplifying needless rules. The American spirit is strengthened when more people have the foundation to participate, so size alone does not prove suppression.
+[t30] Carissa(MOD): Thank you both for taking part. This debate is now closed.

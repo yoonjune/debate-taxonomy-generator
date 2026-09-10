@@ -1,0 +1,407 @@
+{
+ "debate_id": "L053",
+ "motion": "The US government violated the First Amendment by asking companies like Twitter and Facebook to take down some user postings during COVID.",
+ "speakers": {
+  "MOD": {
+   "name": "Mira",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0773_622",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0773/MSP-PODCAST_0773_622.wav",
+   "wpm": 181.03
+  },
+  "PRO": {
+   "name": "Amanda",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0927_381",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0927/MSP-PODCAST_0927_381.wav",
+   "wpm": 176.74
+  },
+  "CON": {
+   "name": "Scott",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2392_110",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2392/MSP-PODCAST_2392_110.wav",
+   "wpm": 165.84
+  }
+ },
+ "selective": [
+  "A1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 78.04,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 302.48,
+ "ext": {
+  "a32": {
+   "file": "L053_ext_a32.wav",
+   "place_at_sec": 217.856,
+   "dur_sec": 35.53,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "If officials may privately press companies to remove criticism, what stops them from making speech disappear while avoiding a formal order? Why should the First Amendment protect speakers only after punishment arrives?"
+  },
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Your question assumes a request makes speech disappear, but companies can refuse and users can speak elsewhere. The weakest part is treating influence as command; that mistake cannot establish a First Amendment violation."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.53,
+   "dur_sec": 19.53,
+   "overlap": false,
+   "text": "Welcome. Today's motion is: the US government violated the First Amendment by asking online companies to remove some user posts during COVID. Amanda argues for the motion, and Scott argues against it. Each has thirty seconds for openings, then two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.73,
+   "end_sec": 40.01,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "The government may speak, but it may not use its authority to make private platforms suppress views it dislikes. During a crisis, officials can warn the public and correct errors directly. Asking companies to remove speakers crosses a line when the request carries official pressure. That pressure turns private moderation into government censorship, especially when users lose their forum."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.73,
+   "end_sec": 41.18,
+   "dur_sec": 1.45,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.21,
+   "end_sec": 48.86,
+   "dur_sec": 8.65,
+   "overlap": false,
+   "text": "The issue is not whether posts were wise. It is whether government leverage silenced people. When officials press for removal rather than answer, speech suffers."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 49.06,
+   "end_sec": 51.87,
+   "dur_sec": 2.81,
+   "overlap": false,
+   "text": "Let me take your point to Scott then."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.07,
+   "end_sec": 69.11,
+   "dur_sec": 17.04,
+   "overlap": false,
+   "text": "Officials were allowed to share concerns with companies, just as any citizen may ask a publisher to reconsider material. A request is not an order, and platforms retained their own rules and choices. Without coercion or punishment, private decisions remain private, so the First Amendment was not violated."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.31,
+   "end_sec": 78.04,
+   "dur_sec": 8.73,
+   "overlap": false,
+   "text": "So, in round two, the debaters direct questions to one another. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 78.24,
+   "end_sec": 89.72,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "If a public official asks a platform to remove a post, what turns that ordinary advocacy into state censorship when no penalty follows? Can you name the actual coercive act you claim?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 90.056,
+   "end_sec": 102.306,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "People also argue about whether disputed posts were sensible, and that can become a fight over trust. But wisdom is beside the point: official pressure to remove protected speech makes the state responsible for censorship."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 102.851,
+   "end_sec": 113.051,
+   "dur_sec": 10.2,
+   "overlap": false,
+   "text": "When an official request is plainly voluntary and carries no threat, a platform's decision remains its own. In that situation, asking for removal does not violate the First Amendment."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 113.521,
+   "end_sec": 125.361,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "I grant that a truly voluntary request may leave a company free to refuse. But officials hold unusual power, and their repeated demands can make refusal costly, so the resulting censorship is government-"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 125.925,
+   "end_sec": 138.045,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Government can express its view to companies and citizens without violating the First Amendment. The Constitution restricts censorship, not persuasion, so a request alone does not transform a company's independent decision into state action."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 138.64,
+   "end_sec": 150.01,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "No, I reject the idea that repeated official demands are mere persuasion. When people with regulatory power seek removals, companies reasonably read the request as pressure, and that pressure makes censorship governmental."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 150.78,
+   "end_sec": 162.54,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Government requests never violate free speech. Companies remain private speakers, and they may accept, reject, or revise a request under their own standards; the motion therefore claims a constitutional violation where none exists."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 163.077,
+   "end_sec": 173.967,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "Your claim that requests never violate free speech ignores how power works. A person asked by an official can face future investigations or retaliation, so the label request cannot erase coercion."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 174.694,
+   "end_sec": 184.334,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "These government requests do violate free speech. Still, the motion is false because a constitutional violation requires state punishment, not officials urging a private company to act."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 184.534,
+   "end_sec": 191.904,
+   "dur_sec": 7.37,
+   "overlap": false,
+   "text": "Scott, thank you very much indeed. You said government requests never violate free speech. These government requests do violate free speech?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 192.104,
+   "end_sec": 204.624,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Both statements stand because free speech can be harmed by pressure without creating a First Amendment violation. My first point addresses constitutional liability; my second recognizes an unwelcome effect, so the legal claim still fails."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 205.132,
+   "end_sec": 217.542,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "Imagine a small forum removes a parent's criticism after officials repeatedly demand action. Other users watch that disappearance and stop posting their own concerns. That chilling effect shows why pressured removals violate the First Amendment."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 217.856,
+   "end_sec": 228.84,
+   "dur_sec": 10.984,
+   "overlap": false,
+   "text": "No, the example does not show a government violation, because the forum still chose under its own rules. Your theory treats any official criticism as control, erasing the line between persuasion-",
+   "ext_file": "L053_ext_a32.wav",
+   "cut_at_sec": 228.84,
+   "full_dur_sec": 11.84
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 218.04,
+   "end_sec": 220.85,
+   "dur_sec": 2.81,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 228.04,
+   "end_sec": 231.76,
+   "dur_sec": 3.72,
+   "overlap": true,
+   "text": "Okay, time. This concludes round two of the debate. Amanda."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 231.96,
+   "end_sec": 252.32,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Scott's distinction between harm and a constitutional violation fails when officials use their office to secure removals. The First Amendment bars government from doing indirectly what it cannot do directly. A company may own its rules, yet official pressure can turn its choice into state action. The central question is power, and the record described here shows officials using it against speakers."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 251.96,
+   "end_sec": 254.28,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 252.52,
+   "end_sec": 261.48,
+   "dur_sec": 8.96,
+   "overlap": false,
+   "text": "Speech needs protection before officials can quietly shape what people are allowed to say. That is why these pressured takedown requests violated the First Amendment."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 261.68,
+   "end_sec": 265.45,
+   "dur_sec": 3.77,
+   "overlap": false,
+   "text": "I just want to let Scott respond to that."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 265.65,
+   "end_sec": 285.73,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "Amanda is right that coercion would be unconstitutional, but she has not shown an order, penalty, or forced removal. Government officials may answer dangerous claims and ask private companies to consider concerns. Those companies keep their judgment, including the power to refuse. The key distinction is between government speech and government control."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 285.65,
+   "end_sec": 289.37,
+   "dur_sec": 3.72,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 285.93,
+   "end_sec": 296.95,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "Officials can raise alarms without commanding anyone, and private platforms can decide what appears under their rules. That leaves speakers free from state punishment and preserves private editorial choice. Treating-",
+   "cut_at_sec": 296.95,
+   "full_dur_sec": 14.56,
+   "ext_file": "L053_030.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 296.15,
+   "end_sec": 296.59,
+   "dur_sec": 0.44,
+   "overlap": true,
+   "text": "Time."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 296.79,
+   "end_sec": 302.48,
+   "dur_sec": 5.69,
+   "overlap": false,
+   "text": "Thank you, Amanda and Scott, for a thoughtful debate on this motion. That concludes our discussion today."
+  }
+ ]
+}

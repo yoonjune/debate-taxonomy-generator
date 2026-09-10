@@ -1,0 +1,38 @@
+L030  |  Society should legalize psychedelics.
+  MOD=Albert   PRO=Wendy   CON=Ahmed
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Albert(MOD): Tonight's motion is whether society should legalize psychedelics. Wendy supports it, while Ahmed opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue, then each speaker gets a thirty-second closing.
+[t01] Wendy(PRO): Criminal bans push adults toward unknown strength, unsafe settings, and underground sellers. Legalization can bring age limits, testing, clear labels, and emergency guidance into the open. It also lets people seek help without fearing arrest, while separating personal use from genuinely dangerous conduct. The goal is responsible access, not careless use.
+[t02] @A4 <ovl> Albert(MOD): I can give you ten seconds to wrap this round.
+[t03] Wendy(PRO): A regulated system reduces preventable harm while respecting adult choice.
+[t04] @A2-2 Albert(MOD): Let's have Ahmed take this one.
+[t05] Ahmed(CON): Psychedelics can distort judgment, trigger panic, and expose vulnerable people to lasting psychological harm. Legalization would make these risks easier to encounter, especially when commercial pressure rewards stronger products and wider sales. Rules cannot erase unpredictable reactions or guarantee safe supervision. Society should protect people before normalizing substances that can overwhelm them.
+[t06] @A4 <ovl> Albert(MOD): Ten seconds, ten seconds.
+[t07] Ahmed(CON): Treatment and research can continue without broad legal access. Caution is the responsible policy when the harms can be permanent.
+--- phase 2 ---
+[t08] @A3-1 Albert(MOD): And that concludes round one. Now, onto round two where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t09] Wendy(PRO): If prohibition has failed to prevent use, why defend a system that leaves potency unknown and people afraid to seek medical help? What safer mechanism does your approach actually provide for adults who will use these substances anyway?
+[t10] Ahmed(CON): Imagine an inexperienced user taking a powerful dose alone, panicking, and harming himself before help arrives. A legal market would make that decision seem ordinary, not safe. That example proves easier access can expand serious danger faster than safeguards can contain it.
+[t11] Wendy(PRO): When access is limited to adults, products are tested, and guidance is required, legalization gives people safer information than prohibition does. Under those conditions, regulation reduces the risks your side leaves underground.
+[t12] Ahmed(CON): Even ordinary consumer rules are difficult to enforce when products vary and impairment is hard to measure. Families and workplaces then face difficult choices about responsibility and safety. Those enforcement problems still weigh against legalizing psychedelics.
+[t13] Wendy(PRO): Legalization is broadly preferable to blanket prohibition because it replaces secrecy with standards, accountability, and avenues for help. That broader shift still includes strict limits where risk is highest.
+[t14] <cut> Ahmed(CON): I reject the premise that replacing a ban with standards makes access safe; oversight can fail, labels can be ignored, and a frightened person may still take a dose that overwhelms-
+[t15] <ovl> Wendy(PRO): But failure of some safeguards does not justify preserving a system with none; regulated sellers can test products, explain risks, and connect users to help, which prohibition cannot do consistently.
+[t16] Ahmed(CON): That same uncertainty affects workplace impairment policies, where supervisors must judge whether a person's conduct is dangerous or merely unusual. Disputes over discipline can damage trust, careers, and family stability, especially when employers lack reliable ways to interpret behavior.
+[t17] @B1 Albert(MOD): We'll call it society should legalize psychedelics for responsible adult use then.
+[t18] Ahmed(CON): The motion asks whether society should legalize psychedelics, and the answer remains no because widespread access would increase exposure before institutions can manage impairment. A narrow research exception does not justify turning use into an ordinary legal option.
+[t19] Wendy(PRO): You say legal access would increase exposure, but that assumes prohibition prevents exposure now. It does not; regulation can limit sales, require education, and make adverse reactions visible, while underground use hides both products and harms.
+[t20] Ahmed(CON): Your weakest point is that visibility equals safety. A warning label cannot predict who will panic, lose judgment, or suffer lasting effects, and legal sellers still have incentives to encourage repeat use. Visibility does not remove the underlying danger.
+[t21] @A4 <ovl> Albert(MOD): Ten seconds left on the crossfire.
+[t22] <cut> Wendy(PRO): I reject the premise that regulation merely-
+--- phase 3 ---
+[t23] @A3-2 <ovl> Albert(MOD): Time. First we have closing statements. I will ask Wendy to speak first.
+[t24] Wendy(PRO): Ahmed's best argument is that risks are unpredictable, but prohibition does not make those risks disappear. Legalization allows tested products, age limits, honest information, and help without fear of punishment. A regulated system is not perfect, but it is safer and more accountable than the underground system we have.
+[t25] @A2-2 Albert(MOD): Thank you, Wendy. And that is the motion, society should legalize psychedelics for responsible adult use. And here to argue against the motion, Ahmed.
+[t26] Ahmed(CON): Wendy's strongest point is that regulation can improve information and access to help. But those safeguards cannot reliably predict panic, dangerous judgment, or lasting psychological effects, and legal markets create pressure to expand use. Research and treatment should remain available, yet that does not require ordinary legal access. Society should not normalize a risk it cannot control.
+[t27] @A4 <ovl> Albert(MOD): I can give you ten seconds to do this.
+[t28] <cut> Ahmed(CON): Good intentions cannot guarantee safe reactions or responsible sellers. Until those dangers can be managed reliably, keeping psychedelics illegal is the more cautious-
+[t29] @A1 <ovl> Albert(MOD): I'm gonna cut you off just for time.
+[t30] Albert(MOD): Thank you both for taking part. That concludes this debate, with the question left for listeners to consider.
