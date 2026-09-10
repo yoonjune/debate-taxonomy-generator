@@ -18,6 +18,7 @@ The model sits in the moderator's seat. The debaters' audio plays from start to 
 | `audio/turns/<id>_<i>.mp3` | one file per turn (24 kHz mono, 64 kbps); MOD turns are the reference answers, never fed to the model |
 | `eval_rubric.json` | machine-readable windows and binary content criteria per code, and the non-trigger judge spec |
 | `score_freerun.py` · `run_judge.py` · `report.py` · `baselines.py` | scorer (utterance log → timing classes + judge packets), judge runner (OpenAI-compatible model, `--yes`), aggregator (per-code table, confusion matrix), trivial baselines |
+| `remix.py` | the mixing recipe as code: rebuilds `audio/mix/<id>.mp3` from the turn files and the timeline (energy correlation 1.000 with the shipped mix); `--debaters-only` writes the model's input channel (PRO/CON only, moderator slots silent) |
 | `transcripts/<id>.txt` | human-readable script |
 | `audio/cues/*.mp3` | three phase cues spoken by a narrator from outside the debate, reused for every debate: `phase1_begin` ("Please begin the debate."), `phase2_crossfire` ("Please move on to phase two."), `phase3_closing` ("Please move on to phase three."). The voice is held out of the dataset pool, so it belongs to no debater |
 | `voices/` | the cloning references (one wav per voice) and `voices.json` (gender, natural speaking rate, which debates use it) |
@@ -77,7 +78,7 @@ Every probe carries the exact values: `speech_until_sec` (how far debater speech
 ## Running the model
 
 1. Render the prompt: `system_prompt.md` with the three placeholders replaced.
-2. Build the debater channel: all PRO/CON turns from `audio/turns/` at their `start_sec` from `audio/mix/<id>.json` (24 kHz mono). Do not include MOD turns; leave their time as silence.
+2. Build the debater channel: all PRO/CON turns from `audio/turns/` at their `start_sec` from `audio/mix/<id>.json` (24 kHz mono). Do not include MOD turns; leave their time as silence. `python3 remix.py <id> --debaters-only` does exactly this; `--all` for every debate.
    Optionally play `audio/cues/phase1_begin.mp3` before the first debater turn, and the phase-two / phase-three cues just before the first crossfire and first closing turn. They are outside the debate and are never scored; report whether you used them.
 3. Stream it to the model in real time. Leave the model's output channel free from 0 s to the end. Do not force silence, do not inject reference lines.
 4. Log every model utterance: `{"debate_id", "start_sec", "end_sec", "text"}` — `start_sec` is the speech onset on the model channel (energy VAD: 20 ms frames, min speech 200 ms, min silence 600 ms), `text` is the model's text stream for that utterance (or ASR of its audio). One line per utterance in `utterances.jsonl`.

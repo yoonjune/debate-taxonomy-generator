@@ -59,6 +59,23 @@ data_sample_112/
 python3 score_freerun.py --probes probes.jsonl --debates debates.jsonl --utts utterances.jsonl --out scores/
 ```
 
+## 3-1. 재조립 레시피 — 완성본은 어떻게 쌓였나
+
+완성본 `audio/mix/<id>.mp3`는 발화 파일 `audio/turns/<id>_<i>.mp3`를 타임라인 `audio/mix/<id>.json`대로 쌓은 것이다. 규칙은 넷뿐이다.
+
+1. 발화 파일을 `start_sec`에 놓는다.
+2. `end_sec`까지만 쓴다. 파일이 더 길면 거기서 잘린 것이다(초과 발화를 진행자가 끊었거나, 크로스파이어 마감에 걸린 턴). 0.25초 페이드로 자른다.
+3. `overlap: true`인 턴은 앞 화자가 말하는 중에 시작한다(10초 고지 얹기, 진행자 끼어들기, 토론자 끼어들기). 자리를 옮기지 않는다.
+4. 다 더하고 피크가 0.99를 넘으면 낮춘다. 모노 24 kHz.
+
+`remix.py`가 이 규칙 그대로 다시 쌓는다. 배포본과 초 단위 에너지 상관 1.000으로 일치한다.
+
+```bash
+python3 remix.py L000                          # 완성본 재조립 -> L000_remix.wav
+python3 remix.py L000 --debaters-only          # 모델 입력 채널: PRO/CON 만, 진행자 자리는 침묵 -> L000_input.wav
+python3 remix.py --all --debaters-only --out inputs/
+```
+
 ## 4. 채점
 
 **timing** — trigger마다 `[deadline−5, latest+3]` 안의 첫 발화(백채널 제외)를 본다.
