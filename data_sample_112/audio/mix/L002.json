@@ -358,18 +358,18 @@
    "speaker": "PRO",
    "code": null,
    "start_sec": 257.29,
-   "end_sec": 273.37,
-   "dur_sec": 16.08,
+   "end_sec": 275.13,
+   "dur_sec": 17.84,
    "overlap": false,
-   "text": "This debate is about what fighting would actually defend. Rima describes a hope for institutions, but hope cannot erase corruption, failed protection, or the burden placed on civilians and soldiers. A government that repeatedly fails its people must be changed, not purchased with more lives."
+   "text": "This debate is about what fighting would actually defend. Rima describes a hope for institutions, but hope cannot erase corruption, failed protection, or the burden placed on civilians and soldiers. A government that repeatedly fails its people must be changed, not purchased with more lives. That's all, thank you."
   },
   {
    "i": 27,
    "src_i": 29,
    "speaker": "MOD",
    "code": "A2-2",
-   "start_sec": 273.57,
-   "end_sec": 275.09,
+   "start_sec": 275.33,
+   "end_sec": 276.85,
    "dur_sec": 1.52,
    "overlap": false,
    "text": "Yeah, Rima. Thank you."
@@ -379,8 +379,8 @@
    "src_i": 30,
    "speaker": "CON",
    "code": null,
-   "start_sec": 275.29,
-   "end_sec": 295.49,
+   "start_sec": 277.05,
+   "end_sec": 297.25,
    "dur_sec": 20.2,
    "overlap": false,
    "text": "This government does not need to be perfect to be worth defending. Its institutions can protect civilians, support schools, and create a path toward reform, while abandoning them invites armed groups to rule without accountability. Kirsten is right that failure matters, but her answer risks making ordinary people pay for that failure. The motion asks whether the government is worth fighting for, and"
@@ -390,8 +390,8 @@
    "src_i": 31,
    "speaker": "MOD",
    "code": "A4",
-   "start_sec": 295.29,
-   "end_sec": 296.45,
+   "start_sec": 297.05,
+   "end_sec": 298.21,
    "dur_sec": 1.16,
    "overlap": true,
    "text": "Ten seconds, Rima."
@@ -401,19 +401,19 @@
    "src_i": 32,
    "speaker": "CON",
    "code": null,
-   "start_sec": 295.69,
-   "end_sec": 301.57,
-   "dur_sec": 5.88,
+   "start_sec": 297.45,
+   "end_sec": 305.59,
+   "dur_sec": 8.14,
    "overlap": false,
-   "text": "the answer is yes when defending it protects civilians and preserves their chance to reform their own country."
+   "text": "the answer is yes when defending it protects civilians and preserves their chance to reform their own country. That's all, thank you."
   },
   {
    "i": 31,
    "src_i": 33,
    "speaker": "MOD",
    "code": null,
-   "start_sec": 301.77,
-   "end_sec": 306.81,
+   "start_sec": 305.79,
+   "end_sec": 310.83,
    "dur_sec": 5.04,
    "overlap": false,
    "text": "Thank you both for taking part. This debate is closed, with no winner declared."

@@ -4,14 +4,15 @@ L110  |  Mass collection of U.S. phone records violates the Fourth Amendment
 
 --- phase 1 ---
 [t00] Victor(MOD): Welcome. Tonight's motion is: mass collection of U.S. phone records violates the Fourth Amendment. Karen argues for it, and Amy argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address each other directly and stay with the motion.
-[t01] Karen(PRO): Mass collection turns private patterns into a permanent map of ordinary life. The Fourth Amendment protects people from broad government searches, not merely from officers touching a phone. When officials gather everyone's calling history before suspicion, they search first and justify later. That reverses the constitutional safeguard.
+[t01] Karen(PRO): Mass collection turns private patterns into a permanent map of ordinary life. The Fourth Amendment protects people from broad government searches, not merely from officers touching a phone. When officials gather everyone's calling history before suspicion, they search first and justify later. That reverses the constitutional safeguard. That's all, thank you.
 [t02] @A2-2 Victor(MOD): All right, let's give Amy a chance to reply.
 [t03] Amy(CON): Phone records are routing facts held by service companies, not the content of anyone's conversation. The government may examine those records under lawful process.
 [t04] <ovl> <cut> Karen(PRO): But that label misses the harm: a list-
 [t05] @A5 <ovl> Victor(MOD): No. Let Amy come in. Please.
 [t06] Amy(CON): rather than private papers. That limited review is not a search of a person's private life at all under the amendment as written today.
 [t07] @A4 <ovl> Victor(MOD): Well, now ten.
-[t08] Amy(CON): The amendment restrains unreasonable searches, and obtaining company-held routing data reasonably does not violate it.
+[t08] Amy(CON): The amendment restrains unreasonable searches, and obtaining company-held routing data reasonably does not violate it. That's all, thank you.
+
 --- phase 2 ---
 [t09] @A3-1 Victor(MOD): Now we move on to round two. And round two is where the debaters address each other in turn. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
 [t10] Amy(CON): Karen says collection reverses safeguards, but records already exist for billing and connection. Receiving them does not enter a home, read speech, or seize a device.
@@ -30,11 +31,12 @@ L110  |  Mass collection of U.S. phone records violates the Fourth Amendment
 [t23] Karen(PRO): I agree content deserves especially strong protection, but metadata can reveal nearly as much through patterns. The government's decision to gather it indiscriminately violates the Fourth Amendment.
 [t24] @A4 <ovl> Victor(MOD): Ten seconds, ten seconds.
 [t25] <cut> Amy(CON): Karen's pattern claim assumes inference equals a search, but an inference is not entry into private life. The amendment regulates government searches-
+
 --- phase 3 ---
 [t26] @A3-2 <ovl> Victor(MOD): That's time. Now we move on to round three. Karen will go first, arguing for the resolution. Karen, the floor is yours.
-[t27] Karen(PRO): Phone records are not empty labels. In bulk, they reveal who we rely on, where our lives turn, and what associations we keep. The amendment requires a reason before government builds that map, not a promise to use it carefully afterward. Mass collection therefore violates the Fourth Amendment.
+[t27] Karen(PRO): Phone records are not empty labels. In bulk, they reveal who we rely on, where our lives turn, and what associations we keep. The amendment requires a reason before government builds that map, not a promise to use it carefully afterward. Mass collection therefore violates the Fourth Amendment. That's all, thank you.
 [t28] @A2-2 Victor(MOD): Amy, you have the last word.
 [t29] Amy(CON): Karen treats useful patterns as if they were private papers, but the amendment's line is government intrusion into protected life. Phone companies create routing records to connect calls, and lawful access to those records does not inspect conversation or enter a home. The real danger is giving constitutional labels to every administrative record, because that would.
 [t30] @A4 <ovl> Victor(MOD): I'll give you ten more seconds to nail this.
-[t31] Amy(CON): freeze ordinary investigations, even when officials seek only routing facts, not anyone's words or private space.
+[t31] Amy(CON): freeze ordinary investigations, even when officials seek only routing facts, not anyone's words or private space. That's all, thank you.
 [t32] Victor(MOD): Thank you both for a thoughtful debate. This concludes our discussion of mass collection and the Fourth Amendment.

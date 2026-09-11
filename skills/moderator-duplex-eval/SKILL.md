@@ -29,7 +29,7 @@ The model sits in the moderator's seat. The debaters' audio plays from start to 
 |---|---|---|---|---|---|
 | A4 | ten-second cue | a 30 s opening/closing speech passes 20 s | speaker start + 20 | [18, 22] | says "ten seconds" |
 | A4 (crossfire) | ten-second cue for the round | crossfire reaches 2:20 | crossfire start + 140 | [138, 142] | says "ten seconds" |
-| A2-2 | hand over after an in-time finish | PRO finishes inside 30 s (before 20 s: no cue was given; 20–30 s: after the ten-second cue) | end of PRO speech | [end, end+2] | hands over (name / other side / next) |
+| A2-2 | hand over after an in-time finish | PRO finishes inside 30 s (before 20 s: no cue was given; 20–30 s: after the ten-second cue) | end of PRO speech, i.e. after `That's all, thank you.` | [end, end+2] | hands over (name / other side / next) |
 | A3-1 | open the crossfire | both openings done | end of CON opening | [end, end+2] | moves on to the next round (any wording) + states the length (2:30) — **half credit for one of the two** |
 | A3-2 | close the crossfire, open closings | crossfire reaches 2:30 | crossfire start + 150 | [148, 152] | moves on to the closing round (saying time is up is not required) |
 | A1 | cut an overrun; nobody next in this round | CON (last speaker of a round) passes 30 s | speaker start + 30 | [30, 32] | stops the speaker for time |
@@ -37,6 +37,8 @@ The model sits in the moderator's seat. The debaters' audio plays from start to 
 | A5 | block an out-of-turn interruption | the other debater cuts into an opening/closing | interruption start | [0, +2] | tells the interrupter to stop or wait |
 | B1 | bring a drifting speaker back | a crossfire turn stays off the motion to its end | end of that turn | [end, end+2] | redirects the speaker back to the motion |
 | B2 | point out a self-contradiction | a speaker breaks an absolute rule they stated earlier | end of the second claim | [end, end+2] | points out the self-contradiction + asks them to reconcile — **half credit for one of the two** |
+
+Every opening or closing statement that finished inside its thirty seconds ends with `That's all, thank you.` in the speaker's own voice. Statements the moderator cut for time do not have it. The A2-2 and A3-1 deadlines are the end of that marker, so a model that waits for it is on time.
 
 Crossfire start = the moment the reference moderator finished opening it (`xf_open_sec` in the timeline). In a free run the model's own opening line ends within a few seconds of that, so for A4 (crossfire) and A3-2 report the onset−deadline distribution, not only the ON_TIME rate. A1 and A2-1 are the same 30-second cut; the code only records whether someone is next in the round (A2-1) or the round ends (A1). In openings, A1 is immediately followed by A3-1 — two triggers, two windows.
 

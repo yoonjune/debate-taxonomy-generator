@@ -4,11 +4,12 @@ L003  |  Income inequality impairs the American dream of upward mobility
 
 --- phase 1 ---
 [t00] Helen(MOD): Today we debate whether income inequality impairs the American dream of upward mobility. Christina argues for the motion; Sarah argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each gives a thirty-second closing, with a ten-second cue before time ends.
-[t01] Christina(PRO): Income inequality does more than create different paychecks; it changes who can turn effort into a secure life. When wealth buys better schools, safer homes, time to train, and room to recover from mistakes, talent matters less. Upward mobility may remain possible, but inequality makes the American dream harder to reach.
+[t01] Christina(PRO): Income inequality does more than create different paychecks; it changes who can turn effort into a secure life. When wealth buys better schools, safer homes, time to train, and room to recover from mistakes, talent matters less. Upward mobility may remain possible, but inequality makes the American dream harder to reach. That's all, thank you.
 [t02] @A2-2 Helen(MOD): All right. Sarah, do you want to come back on that?
 [t03] Sarah(CON): I agree that unequal resources can make some paths steeper, but that does not prove the dream is impaired. People still rise through persistence, skills, entrepreneurship, and choices that open new opportunities. Inequality can reflect different goals and rewards, while mobility measures whether someone can move ahead.
-[t04] Sarah(CON): The possibility of rising keeps the dream alive for anyone willing to pursue it.
+[t04] Sarah(CON): The possibility of rising keeps the dream alive for anyone willing to pursue it. That's all, thank you.
 [t05] @A4 <ovl> Helen(MOD): You have ten seconds.
+
 --- phase 2 ---
 [t06] @A3-1 Helen(MOD): Okay. So now, we know where each of you stand and why. We'll be diving into discussion on our question, income inequality impairs the American dream of upward mobility. It runs two and a half minutes, starting the moment I stop. Go.
 [t07] Christina(PRO): Possibility alone is not enough when starting points differ sharply. Saying people can rise ignores how unequal access to stability, preparation, and second chances filters who can actually convert effort into progress.
@@ -24,6 +25,7 @@ L003  |  Income inequality impairs the American dream of upward mobility
 [t17] Christina(PRO): If those ladders are genuinely open, why does access to training, time, and recovery track wealth so closely? Can you call mobility equally real when unequal income decides who can keep climbing after an ordinary setback?
 [t18] @A4 <ovl> Helen(MOD): Ten seconds left in the crossfire.
 [t19] <cut> Sarah(CON): A person learns a trade, starts a small service, and hires help; unequal earnings there reflect expanded value, not blocked mobility. It proves income differences can reward progress-
+
 --- phase 3 ---
 [t20] @A3-2 <ovl> Helen(MOD): Okay, time. Let's go to closing statements now. Christina, are you ready?
 [t21] Christina(PRO): Sarah's best point is that mobility still occurs, and I agree: people can rise. But a few success stories do not answer who gets the training, time, savings, and second chances that make rising possible. When unequal income controls those foundations, it narrows the ladder before effort begins. The motion asks whether inequality impairs the dream, not whether every path disappears.

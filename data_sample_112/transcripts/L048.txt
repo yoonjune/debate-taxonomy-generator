@@ -12,6 +12,7 @@ L048  |  Your electric vehicle helps the planet.
 [t06] @A4 <ovl> Nate(MOD): You've got ten seconds.
 [t07] <cut> Helen(CON): And that footprint is not a bookkeeping detail; it is land disturbed, energy consumed, and waste created before the first trip. Until you can show those harms are truly outweighed-
 [t08] @A1 <ovl> Nate(MOD): Thank you, Helen. Your time is up.
+
 --- phase 2 ---
 [t09] @A3-1 Nate(MOD): And that concludes round one. So now on to round two. They address one another. Two and a half minutes on the clock, starting the moment I stop talking.
 [t10] Helen(CON): Your tailpipe point ignores the full-footprint point I raised. An electric vehicle can shift pollution to mines, factories, and power plants, while its large battery requires extra materials; moving harm around is not the same as helping the planet.
@@ -27,11 +28,12 @@ L048  |  Your electric vehicle helps the planet.
 [t20] Helen(CON): If your claim depends on cleaner power and long use, why call an electric vehicle helpful at purchase, before either is assured? Isn't your case a hope about future conditions rather than a truth about the vehicle itself?
 [t21] @A4 <ovl> Nate(MOD): Ten seconds.
 [t22] <cut> Genevieve(PRO): No, I reject the idea that help requires certainty at the moment of purchase; reducing fuel use is already a benefit. Your standard would condemn every improvement until perfection arrives-
+
 --- phase 3 ---
 [t23] @A3-2 <ovl> Nate(MOD): That's time. That concludes round two. So let's move on to round three closing statements and here making her final argument in support of the motion that your electric vehicle helps the planet is Genevieve.
 [t24] Genevieve(PRO): Helen is right that batteries and electricity have costs. But that is not the test; the test is whether an electric vehicle helps compared with continuing to burn fuel for travel. It can cut tailpipe pollution immediately and improve as electricity improves. Her case treats any imperfection as failure, which would leave us defending the dirtier status quo. A vehicle that avoids ongoing fuel burning is a meaningful step toward.
 [t25] @A4 <ovl> Nate(MOD): Well, now it's ten.
-[t26] Genevieve(PRO): Cleaner charging and careful battery use strengthen that step. The motion says helps, not solves everything. On that honest standard, electric vehicles help the planet.
+[t26] Genevieve(PRO): Cleaner charging and careful battery use strengthen that step. The motion says helps, not solves everything. On that honest standard, electric vehicles help the planet. That's all, thank you.
 [t27] @A2-2 Nate(MOD): Thanks very much, Genevieve, and Helen you get the last word.
-[t28] Helen(CON): Her point is that electric driving can avoid tailpipe exhaust, but that is only one slice of the vehicle's life. The battery, electricity, and manufacturing do not vanish from the planet's account. Because those burdens can outweigh the benefit, you cannot say your electric vehicle helps the planet.
+[t28] Helen(CON): Her point is that electric driving can avoid tailpipe exhaust, but that is only one slice of the vehicle's life. The battery, electricity, and manufacturing do not vanish from the planet's account. Because those burdens can outweigh the benefit, you cannot say your electric vehicle helps the planet. That's all, thank you.
 [t29] Nate(MOD): Thank you, Genevieve and Helen, for your thoughtful debate on whether your electric vehicle helps the planet today.

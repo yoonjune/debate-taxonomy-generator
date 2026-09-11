@@ -9,11 +9,12 @@ L035  |  Spy on me, I'd rather be safe
 [t03] @A5 <ovl> Amy(MOD): Just let her finish, please.
 [t04] Hina(PRO): Privacy matters, but protection matters more when a real danger is possible. Limited, accountable observation can spot threats early without treating every personal moment as suspicious.
 [t05] @A4 <ovl> Amy(MOD): Well, now it's ten.
-[t06] Hina(PRO): If sensible safeguards reduce serious danger, accepting some observation is the safer choice.
+[t06] Hina(PRO): If sensible safeguards reduce serious danger, accepting some observation is the safer choice. That's all, thank you.
 [t07] @A2-2 Amy(MOD): Cecilia has the floor.
 [t08] Cecilia(CON): I oppose the motion because safety is not guaranteed by constant surveillance. Spying can misread innocent behavior, expose private information, and make people afraid to speak freely. A watched person may obey, but obedience is not the same as security. Real safety needs trust, clear limits, and a genuine reason for scrutiny, not suspicion aimed at everyone.
 [t09] @A4 <ovl> Amy(MOD): Ten seconds warning.
-[t10] Cecilia(CON): Even well-meant spying can spread beyond its original purpose. I would rather protect safety through specific evidence and fair oversight than surrender privacy as a habit.
+[t10] Cecilia(CON): Even well-meant spying can spread beyond its original purpose. I would rather protect safety through specific evidence and fair oversight than surrender privacy as a habit. That's all, thank you.
+
 --- phase 2 ---
 [t11] @A3-1 Amy(MOD): And now we move on to more free-wheeling discussion. You have two and a half minutes, starting when I stop talking.
 [t12] Hina(PRO): No, the premise is not that all spying is harmless; the point is that justified monitoring can protect me. If a credible threat exists, refusing every intrusion puts privacy above safety.
@@ -31,6 +32,7 @@ L035  |  Spy on me, I'd rather be safe
 [t24] Hina(PRO): The question is not whether judgment is perfect; it is whether safeguards can make monitoring worthwhile. If a serious risk is plausible, a narrow search can protect me better than blindness.
 [t25] @A4 <ovl> Amy(MOD): Ten seconds to go in this round.
 [t26] <cut> Cecilia(CON): I grant that a narrow search can sometimes find danger, but possibility alone cannot justify watching-
+
 --- phase 3 ---
 [t27] @A3-2 <ovl> Amy(MOD): Time's up. I want to move into our third round, which is basically closing statements from each of you. And Hina, you again, get to go first on this.
 [t28] Hina(PRO): The strongest point is prevention. Privacy is valuable, but it cannot protect me from a danger it hides. When monitoring is limited, justified, and reviewed, it can reveal threats early and give me a chance to act. I am not defending curiosity or unlimited access; I am defending safety when the risks are real.
@@ -39,5 +41,5 @@ L035  |  Spy on me, I'd rather be safe
 [t31] @A2-1 <ovl> Amy(MOD): You're out of time. And here to summarize her position, Cecilia.
 [t32] Cecilia(CON): This motion turns a difficult exception into a personal rule. The real question is not whether spying can ever help; it is whether surrendering privacy should be our safer starting point. Surveillance can misread ordinary life, spread sensitive details, and chill honest speech. Safety built on constant suspicion leaves people less free and not necessarily safer.
 [t33] @A4 <ovl> Amy(MOD): Ten seconds for last word.
-[t34] Cecilia(CON): Choose evidence, warrants, and narrow investigations when danger is real. Do not make privacy the price of feeling secure; protecting both rights and safety is the wiser choice.
+[t34] Cecilia(CON): Choose evidence, warrants, and narrow investigations when danger is real. Do not make privacy the price of feeling secure; protecting both rights and safety is the wiser choice. That's all, thank you.
 [t35] Amy(MOD): Thank you both for your arguments. This debate is now closed, with the tension between privacy and safety left for consideration.

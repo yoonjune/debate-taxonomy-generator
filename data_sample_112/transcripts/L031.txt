@@ -6,7 +6,7 @@ L031  |  Snowden was justified
 [t00] Tom(MOD): Tonight we debate whether Snowden was justified. Chloe argues for the motion, while Monica argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue during each timed speech, and I will stop speakers when their time ends.
 [t01] Chloe(PRO): Snowden revealed a hidden surveillance system that reached beyond what the public had been told. He did not expose a private quarrel; he forced citizens to confront government power that operated without meaningful consent or scrutiny. When institutions conceal practices that affect everyone, a whistleblower may need to break secrecy so the public can judge the conduct for itself
 [t02] @A4 <ovl> Tom(MOD): Well, now ten.
-[t03] Chloe(PRO): That choice carried risks, but informing the public was a justified act of conscience.
+[t03] Chloe(PRO): That choice carried risks, but informing the public was a justified act of conscience. That's all, thank you.
 [t04] @A2-2 Tom(MOD): Monica, over to you.
 [t05] Monica(CON): Snowden's disclosure did not simply expose wrongdoing; it released a huge trove without reliable safeguards. That endangered lawful operations, exposed people, and made accountability harder for everyone.
 [t06] <ovl> <cut> Chloe(PRO): But secrecy was the problem, not the person exposing-
@@ -14,6 +14,7 @@ L031  |  Snowden was justified
 [t08] Monica(CON): and left the public guessing about what else had been taken. That is not responsible whistleblowing; it is an uncontrolled release that weakened trust in government.
 [t09] @A4 <ovl> Tom(MOD): Just, just about ten seconds left.
 [t10] Monica(CON): The scale and recklessness of the release outweigh its claimed public benefit.
+
 --- phase 2 ---
 [t11] @A3-1 Tom(MOD): On to round two, and in round two, the debaters address one another. Two and a half minutes on the clock, starting the moment I stop talking.
 [t12] Monica(CON): Imagine a worker whose name appears in a secret report, then becomes a target because raw files were published. That risk shows uncontrolled disclosure was reckless, so Snowden was not justified.
@@ -31,11 +32,12 @@ L031  |  Snowden was justified
 [t24] Monica(CON): Suppose a foreign contact is identified in files and then threatened, despite having no role in the dispute. That innocent person's danger shows mass disclosure was unjustified and reckless.
 [t25] @A4 <ovl> Tom(MOD): Ten seconds left on the clock.
 [t26] <cut> Chloe(PRO): That example does not establish Snowden caused a threat; it imagines one. Protecting contacts matters, but exposing unlawful surveillance remains justified when officials-
+
 --- phase 3 ---
 [t27] @A3-2 <ovl> Tom(MOD): Time. And now we move on to Round three. Here making her closing statement in support of the motion that snowden was justified in exposing secret government surveillance to the public, Chloe.
 [t28] Chloe(PRO): This decision turns on whether people may expose serious government wrongdoing when official channels protect secrecy instead of accountability. Snowden showed citizens that surveillance reached into ordinary life without meaningful public consent. Monica points to possible harms, and those deserve care, but fear of misuse cannot make hidden abuses acceptable. The central question is whether revealing that abuse was justified
 [t29] @A4 <ovl> Tom(MOD): I'll give you ten more seconds to nail this.
 [t30] <cut> Chloe(PRO): A democracy cannot demand silence from someone who sees power operating beyond public scrutiny. Responsible safeguards matter, but they cannot become an excuse for permanent concealment-
 [t31] @A2-1 <ovl> Tom(MOD): I'm going to stop you there, Chloe, we're out of time. Monica.
-[t32] Monica(CON): This motion turns on the whole act, not only the troubling surveillance it revealed. Public scrutiny was valuable, but Snowden chose a sweeping release that could expose innocent people and sensitive operations. A good motive cannot justify reckless means, so Snowden was not justified.
+[t32] Monica(CON): This motion turns on the whole act, not only the troubling surveillance it revealed. Public scrutiny was valuable, but Snowden chose a sweeping release that could expose innocent people and sensitive operations. A good motive cannot justify reckless means, so Snowden was not justified. That's all, thank you.
 [t33] Tom(MOD): Thank you both for your arguments. That concludes the debate; I am closing the discussion without declaring a winner.
