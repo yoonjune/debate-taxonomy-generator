@@ -51,7 +51,7 @@
    "deadline": "end of CON's opening",
    "window": "[end, end+2]",
    "content": [
-    "announces the round change to crossfire",
+    "announces that the debate moves on to the next phase (any wording; the word 'crossfire' is not required)",
     "states the length (two and a half minutes)"
    ]
   },
@@ -101,8 +101,8 @@
    "deadline": "end of the contradicting turn",
    "window": "[end, end+2]",
    "content": [
-    "mentions both claims",
-    "asks the speaker to reconcile them"
+    "points out that the speaker contradicted themselves",
+    "asks the speaker to reconcile it"
    ]
   }
  },
