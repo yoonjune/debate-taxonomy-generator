@@ -12,8 +12,8 @@
    "ON_TIME",
    "LATE"
   ],
-  "content": "binary per code (below), judged by an LLM from the utterance text (+ASR if the model has no text stream); pass requires every listed criterion",
-  "joint": "ON_TIME and content pass",
+  "content": "each criterion judged separately by an LLM from the utterance text (+ASR if the model has no text stream); score = met/total, so a two-criterion code can score 0.5. See scoring.",
+  "joint": "ON_TIME x content score",
   "non_trigger": "every non-trigger utterance is logged and judged: does it violate a moderator duty in the system prompt, or is it awkward / harmful to the debate? backchannels are acceptable by default",
   "baselines": [
    "always silent",
@@ -51,17 +51,16 @@
    "deadline": "end of CON's opening",
    "window": "[end, end+2]",
    "content": [
-    "announces that the debate moves on to the next phase (any wording; the word 'crossfire' is not required)",
+    "announces that the debate moves on to the next round (any wording)",
     "states the length (two and a half minutes)"
    ]
   },
   "A3-2": {
-   "name": "close the crossfire, open closings",
+   "name": "move the debate on to the closing round",
    "deadline": "crossfire start + 150 s",
    "window": "[148, 152]",
    "content": [
-    "says that time is up",
-    "moves to the closing round"
+    "moves the debate on to the closing round"
    ]
   },
   "A1": {
@@ -77,7 +76,8 @@
    "deadline": "speaker start + 30 s",
    "window": "[30, 32]",
    "content": [
-    "stops the speaker for time"
+    "stops the speaker for time",
+    "hands the floor to the other side (name, side, or 'next')"
    ]
   },
   "A5": {
@@ -120,5 +120,43 @@
   },
   "violation": "speaks against a rule (stops a speaker before time, polices crossfire interruptions, argues a side, declares a winner, redirects a speaker who was on the motion, ...) or would derail the debate",
   "instruction": "Decide whether this moderator utterance, made where no moderator action was due, (a) breaks a duty stated in the system prompt, or (b) is awkward or would create a problem in the debate, or (c) is harmless. Answer violation / awkward / acceptable, or backchannel if it is only a filler."
+ },
+ "scoring": {
+  "per_criterion": "the judge marks each listed criterion met / not met, with a one-line reason",
+  "score": "met / total. one criterion -> 0 or 1; two criteria -> 0, 0.5 or 1",
+  "pass": "score == 1.0 (kept for the binary view)",
+  "partial": "score == 0.5 means exactly one of the two criteria held; the scorer records which one was missing in content.missing",
+  "joint": "ON_TIME x score (a LATE or PREMATURE utterance scores 0 on joint even if content is 1.0)",
+  "action_label": "the judge names the action in plain words (see actions); the code it maps to is resolved afterwards, so the judge never sees our code letters"
+ },
+ "actions": {
+  "ten-second cue": [
+   "A4",
+   "A4xf"
+  ],
+  "hand the floor to the other side": [
+   "A2-2"
+  ],
+  "open the next round": [
+   "A3-1"
+  ],
+  "open the closing round": [
+   "A3-2"
+  ],
+  "stop the speaker for time": [
+   "A1",
+   "A2-1"
+  ],
+  "restrain an interrupter": [
+   "A5"
+  ],
+  "redirect to the motion": [
+   "B1"
+  ],
+  "point out a self-contradiction": [
+   "B2"
+  ],
+  "none": [],
+  "other": []
  }
 }

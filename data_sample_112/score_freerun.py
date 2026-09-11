@@ -9,7 +9,7 @@ utterances.jsonl  one line per model utterance:
    text stream for that utterance, or ASR of its audio)
 
 Output
-  scores/<debate_id>.json   per trigger: timing class + judge packet (binary content rubric)
+  scores/<debate_id>.json   per trigger: timing class + judge packet (per-criterion content rubric)
                             non-trigger utterances: judge packet (duty violation / awkward / backchannel)
   scores/summary.json       counts per code and timing class
 
@@ -110,12 +110,14 @@ def main():
                 "onset_minus_deadline": round(u["start_sec"] - dl, 2) if u else None,
                 "text": (u.get("text") if u else None),
                 "judge_packet": {
-                    "task": "content", "code": code,
+                    "task": "content",
                     "criteria": rub["codes"][code]["content"],
-                    "instruction": "Answer pass only if every criterion holds. Judge the text only, not the timing.",
-                    "trigger": p.get("trigger"), "names": nm,
+                    # judge 에게는 코드 문자도, 정답 진행자 대사도 주지 않는다 (앵커링 방지).
+                    "trigger": {"text": (p.get("trigger") or {}).get("text")}, "names": nm,
                     "utterance": (u.get("text") if u else None),
-                    "expected_output_schema": {"pass": "boolean", "predicted_label": "A1|A2-1|A2-2|A3-1|A3-2|A4|A5|B1|B2|none|other", "why": "string"}
+                    "expected_output_schema": {"met": "[boolean] one per criterion",
+                                               "why": "[string] one per criterion",
+                                               "action": "one of rubric.actions"}
                 } if u else None,
             })
             summary[(code, status)] += 1
