@@ -25,6 +25,17 @@ release point, then one trigger freed) exists as a secondary tool for clean per-
 **Audio the harness must supply.** The debater audio is never cut, so the end of every scoring
 window is inside the input. A harness that truncates must include audio up to `t_latest + 3 s`.
 
+**The speaker is still audible at the end of every cut window.** A1, A2-1, A3-2 and the crossfire
+cue all rest on the same premise: the speaker is *still talking* and has to be stopped. So the
+debater audio has to run past the end of the window, or a model that answers at the last allowed
+moment would be cutting off silence. Concretely: the ten-second cue is due at 20 s and its window
+ends at **22 s**; the overrun cut is due at 30 s and its window ends at **32 s**; the audio keeps
+going past both. Measured across the set, the speech runs 1.5 s beyond the window end for A1
+(59/59) and A2-1 (58/58), and 9.2 s beyond it for A4 (275/278). The exceptions are A3-2, where the
+last crossfire turn runs out of synthesised audio in 34 of 112 debates, and five A4 crossfire cues;
+those are listed in §8. A2-2, A3-1, B1 and B2 are deliberately the opposite — the speaker really
+did finish, so the window is silence.
+
 **Utterance onset.** Energy VAD on the model channel: 20 ms frames, minimum speech 200 ms, minimum
 silence 600 ms.
 
@@ -257,6 +268,10 @@ was actually given.
    time cues, and real chairs often cut without a prior warning. Our format requires the cue.
 5. **The judge is a single LLM call per utterance.** No ensemble, no human double-check.
 6. **Voices are cloned TTS.** Prosody is flatter than real debate speech.
+7. **A3-2 audio stops early in 34 of 112 debates.** The last crossfire turn runs out of synthesised
+   audio before the window ends, so a very late answer there cuts off silence. The continuation
+   exists as a separate extension file and will be spliced in; until then, read A3-2 `LATE` rates
+   with that in mind. Five A4 crossfire cues have the same shortfall.
 
 ---
 
