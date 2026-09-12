@@ -1,0 +1,433 @@
+{
+ "debate_id": "L068",
+ "motion": "Congress should pass the Secure the Border Act.",
+ "speakers": {
+  "MOD": {
+   "name": "Bob",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4043_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4043/MSP-PODCAST_4043_33.wav",
+   "wpm": 168.26
+  },
+  "PRO": {
+   "name": "Leo",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0177_72",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0177/MSP-PODCAST_0177_72.wav",
+   "wpm": 170.28
+  },
+  "CON": {
+   "name": "Philip",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1632_55",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1632/MSP-PODCAST_1632_55.wav",
+   "wpm": 163.08
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 80.26,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 297.53,
+ "ext": {
+  "a32": {
+   "file": "L068_ext_a32.wav",
+   "place_at_sec": 225.966,
+   "dur_sec": 23.83,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Your false-documents example is the weakest point because existing rules can investigate deception already. You have not shown why Congress needs this sweeping act, which can reach far beyond genuine threats."
+  },
+  {
+   "src_i": 25,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "If existing rules are enough, why do officers still face unclear duties when identity cannot be verified at entry? What specific safeguard in your alternative ensures lawful applicants are not pushed behind unchecked arrivals?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.12,
+   "dur_sec": 17.12,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion: Congress should pass the Secure the Border Act. Leo speaks for the motion, and Philip speaks against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.32,
+   "end_sec": 35.19,
+   "dur_sec": 17.87,
+   "overlap": false,
+   "text": "Congress should pass this act because a border without clear enforcement invites dangerous confusion. The bill gives officers workable rules, discourages unlawful entry, and makes the process fairer for people waiting through lawful channels. Order is not cruelty; it is the basis for safety and accountability. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 35.39,
+   "end_sec": 38.52,
+   "dur_sec": 3.13,
+   "overlap": false,
+   "text": "And I want to take it to Philip."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 38.72,
+   "end_sec": 48.68,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "This act mistakes toughness for effectiveness. It gives enforcement too much weight while making families and workers face harsher barriers,"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 47.78,
+   "end_sec": 50.08,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That is exactly the problem: you call-",
+   "cut_at_sec": 48.53,
+   "full_dur_sec": 14.17,
+   "ext_file": "L068_004.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 49.28,
+   "end_sec": 51.53,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Let him reply to that please."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.73,
+   "end_sec": 61.97,
+   "dur_sec": 10.24,
+   "overlap": false,
+   "text": "while offering little assurance that the people caught in its machinery receive a real hearing. A rushed system can separate vulnerable people from help."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 58.72,
+   "end_sec": 62.8,
+   "dur_sec": 4.08,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 62.17,
+   "end_sec": 70.63,
+   "dur_sec": 8.46,
+   "overlap": false,
+   "text": "Congress should fix the process carefully, not pass a bill built around blunt enforcement. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.83,
+   "end_sec": 84.19,
+   "dur_sec": 13.36,
+   "overlap": false,
+   "text": "Now, on to round two. This is our middle round in which the debaters talk directly to one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 84.39,
+   "end_sec": 96.15,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Imagine a parent who arrives seeking safety and is held while papers are sorted, with children left frightened and uncertain. That harm proves this act can turn a human crisis into needless punishment."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.847,
+   "end_sec": 108.327,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "When an entry is unlawful and officials cannot verify identity or purpose, prompt detention is justified. The act supplies that clear response, rather than leaving communities and migrants inside a confused process."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 108.772,
+   "end_sec": 120.972,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "You say detention creates order, but how does locking up a parent during a paperwork dispute make a child safer? If the bill cannot distinguish danger from desperation, why should Congress trust it with-"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 121.808,
+   "end_sec": 134.248,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "People also worry about housing and school capacity when arrivals are unmanaged, and those concerns deserve honest planning. But the motion is about border rules: why should officials release someone before basic checks are complete?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 134.959,
+   "end_sec": 146.439,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "They should not release someone before basic checks are complete, but detention is not the only way to conduct them. Your approach treats uncertainty as guilt, so Congress should reject this act."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 147.208,
+   "end_sec": 158.288,
+   "dur_sec": 11.08,
+   "overlap": false,
+   "text": "A functioning border system must enforce its rules consistently, because selective enforcement invites uncertainty and unfairness. This act gives the system a dependable structure that protects lawful pathways and public confidence."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 158.593,
+   "end_sec": 171.393,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "A worker with valid papers can lose a job when an error triggers a long detention and delayed review. That example proves this act's rigid machinery can punish lawful people, so Congress should not pass it."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 172.133,
+   "end_sec": 174.923,
+   "dur_sec": 2.79,
+   "overlap": false,
+   "text": "Every border crossing should always be stopped."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 175.254,
+   "end_sec": 186.654,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "If every crossing is stopped, what happens to a frightened child arriving without an adult? Do you really want the act to treat that child exactly like a person deliberately evading inspection?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.575,
+   "end_sec": 197.025,
+   "dur_sec": 9.45,
+   "overlap": false,
+   "text": "This border crossing should not be stopped. A child arriving alone should be brought quickly to care, and the act can still strengthen screening for everyone else."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 197.225,
+   "end_sec": 204.195,
+   "dur_sec": 6.97,
+   "overlap": false,
+   "text": "You're saying every border crossing should always be stopped but you still want this border crossing should not be stopped."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 204.395,
+   "end_sec": 217.125,
+   "dur_sec": 12.73,
+   "overlap": false,
+   "text": "My point is that the system must stop crossings from proceeding unchecked, while a child needs care rather than abandonment. The act can ensure contact, screening, and protection together, which is why passing it remains right."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 218.075,
+   "end_sec": 229.475,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "On your claim that stopping merely means screening, the wording still grants broad power before care is guaranteed. A promise of humane treatment cannot repair a bill whose first instinct is restraint."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 224.19,
+   "end_sec": 226.56,
+   "dur_sec": 2.37,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 229.896,
+   "end_sec": 237.69,
+   "dur_sec": 7.794,
+   "overlap": false,
+   "text": "Consider an officer who finds a traveler carrying false documents and cannot confirm where that person-",
+   "ext_file": "L068_ext_a32.wav",
+   "cut_at_sec": 231.06,
+   "full_dur_sec": 12.51
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 234.19,
+   "end_sec": 241.56,
+   "dur_sec": 7.37,
+   "overlap": true,
+   "text": "Time. And now we move on to Round three. And first to make his statement in support of the motion, Leo."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.76,
+   "end_sec": 258.6,
+   "dur_sec": 16.84,
+   "overlap": false,
+   "text": "Philip rightly warns that vulnerable people need care, but rejecting clear rules does not create that care. The Secure the Border Act pairs screening with accountability, protects lawful applicants, and gives officers direction. Congress should pass it for a safer, more orderly system. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 258.8,
+   "end_sec": 262.16,
+   "dur_sec": 3.36,
+   "overlap": false,
+   "text": "Okay, thank you very much Leo for that. Philip."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 262.36,
+   "end_sec": 282.52,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Leo's best point is that officials need clear direction when identity is uncertain. But this bill answers uncertainty with detention and wider enforcement before it guarantees meaningful review. Clear rules are valuable only when they protect dignity as well as order. Congress can improve procedures without passing this harsh measure."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 282.36,
+   "end_sec": 283.04,
+   "dur_sec": 0.68,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 282.72,
+   "end_sec": 295.86,
+   "dur_sec": 13.14,
+   "overlap": false,
+   "text": "A secure border should be careful, targeted, and humane. This act risks making frightened families pay for governmental confusion, while lawful workers can be trapped by mistakes. Congress-",
+   "cut_at_sec": 288.18,
+   "full_dur_sec": 15.28,
+   "ext_file": "L068_032.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 292.86,
+   "end_sec": 297.34,
+   "dur_sec": 4.48,
+   "overlap": true,
+   "text": "Please come to an end, we're running out of time, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 297.54,
+   "end_sec": 303.01,
+   "dur_sec": 5.47,
+   "overlap": false,
+   "text": "Thank you, Leo and Philip, for your arguments, and thank you for joining us for this debate."
+  }
+ ]
+}

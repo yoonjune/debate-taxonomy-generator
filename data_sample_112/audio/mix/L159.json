@@ -1,0 +1,415 @@
+{
+ "debate_id": "L064",
+ "motion": "The FDA's caution is hazardous to our health",
+ "speakers": {
+  "MOD": {
+   "name": "Bruce",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6916_657",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6916/MSP-PODCAST_6916_657.wav",
+   "wpm": 175.38
+  },
+  "PRO": {
+   "name": "Andrew",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0666_828",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0666/MSP-PODCAST_0666_828.wav",
+   "wpm": 171.12
+  },
+  "CON": {
+   "name": "Frank",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1632_55",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1632/MSP-PODCAST_1632_55.wav",
+   "wpm": 163.08
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 73.64,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 292.85,
+ "ext": {
+  "a32": {
+   "file": "L064_ext_a32.wav",
+   "place_at_sec": 219.374,
+   "dur_sec": 22.13,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "If caution is harmless, why should a patient with no adequate option be denied a supervised chance to try a promising therapy while their condition steadily worsens right now?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.51,
+   "dur_sec": 16.51,
+   "overlap": false,
+   "text": "Welcome to tonight's debate. The motion is that the FDA's caution is hazardous to our health. Andrew argues for it, while Frank argues against it. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire; I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.71,
+   "end_sec": 33.02,
+   "dur_sec": 16.31,
+   "overlap": false,
+   "text": "Caution can protect people, but endless delay also harms them. When a promising treatment is held back while serious illness advances, patients lose choices and time. The agency's demand for certainty before action can turn protection into a health hazard. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 33.22,
+   "end_sec": 34.68,
+   "dur_sec": 1.46,
+   "overlap": false,
+   "text": "You can come in, Frank."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 34.88,
+   "end_sec": 44.84,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "They mistake review for paralysis. A regulator must ask whether a product helps before people rely on it, because rushed promises often conceal"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 43.94,
+   "end_sec": 46.24,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But people with no good option cannot wait-",
+   "cut_at_sec": 44.1,
+   "full_dur_sec": 8.01,
+   "ext_file": "L064_004.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 45.44,
+   "end_sec": 46.97,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "Let him just finish."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 47.17,
+   "end_sec": 57.61,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "harm that cannot be undone. That basic duty protects patients from sellers who call uncertainty innovation and ask the sick to bear every risk."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 54.88,
+   "end_sec": 56.48,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 57.81,
+   "end_sec": 66.19,
+   "dur_sec": 8.38,
+   "overlap": false,
+   "text": "Careful review gives people evidence, not hope alone, and that is safer for our health. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 66.39,
+   "end_sec": 78.16,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "And that concludes round one. Now on to round two. Round two is where the debaters address one another in turn. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 78.36,
+   "end_sec": 88.13,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "Imagine a patient facing a fast-moving illness with no useful option. A delayed therapy remains unavailable while that patient's condition worsens, proving excessive caution can itself endanger health."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 88.727,
+   "end_sec": 98.807,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "I agree that delay can hurt someone with urgent needs. But releasing an unproven therapy can hurt many people and steal informed choice, so careful caution protects health."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 99.432,
+   "end_sec": 110.002,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "If your review process takes so long that a patient loses the only possible chance to improve, how does preserving paperwork protect that patient's health rather than the agency's comfort?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 110.696,
+   "end_sec": 121.816,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Your point about lost chances assumes the therapy works. That is exactly the point I reject: without solid evidence, a supposed chance may be a dangerous distraction, so caution protects health."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 122.277,
+   "end_sec": 132.447,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "Your weakest claim is that uncertainty makes delay safe. Illness does not pause for evidence, and refusing access under uncertainty forces patients into worse known outcomes, which is hazardous."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 133.278,
+   "end_sec": 144.038,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "No, paperwork does not protect health; reliable evidence does. You treat access as benefit by itself, but access to a useless or harmful treatment abandons patients, so caution is safer."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 144.816,
+   "end_sec": 154.986,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "When a patient faces a severe condition and has no adequate option, demanding the same long review as a routine product is hazardous. In that setting, timely access protects health."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 155.484,
+   "end_sec": 166.244,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "I grant that urgency deserves a faster response. But your severe-condition exception assumes a person benefits from a product before anyone knows, and rushing that judgment can leave patients with-"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 167.024,
+   "end_sec": 177.914,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "Health policy should give people meaningful access to promising options, not merely protect institutions from blame. Caution becomes hazardous whenever it treats delay as harmless, because patients live with consequences now."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 178.643,
+   "end_sec": 190.123,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "People also argue about who pays for treatments and how advertisements shape demand. Those matters matter, but the motion is health: careful review prevents avoidable injury, so FDA caution is not hazardous."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 190.511,
+   "end_sec": 201.961,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "Your weakest move is calling injury avoidable only after waiting. For a patient whose condition is worsening, the injury from delay is already real, and your process offers no remedy, making caution hazardous."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 202.901,
+   "end_sec": 213.341,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Delay can harm a worsening patient, but that does not make caution hazardous. Your argument ignores harm from false hope, side effects, and lost alternatives, which careful review prevents."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 213.869,
+   "end_sec": 223.639,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "Consider a patient offered a promising therapy only after months of delay. By then the illness has removed the chance for it to help, proving caution can be hazardous."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 218.16,
+   "end_sec": 220.33,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 223.894,
+   "end_sec": 231.66,
+   "dur_sec": 7.766,
+   "overlap": false,
+   "text": "I concede that some patients cannot recover lost time. Yet a promise is not a treatment-",
+   "ext_file": "L064_ext_a32.wav",
+   "cut_at_sec": 224.44,
+   "full_dur_sec": 11.76
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 228.16,
+   "end_sec": 234.33,
+   "dur_sec": 6.17,
+   "overlap": true,
+   "text": "Time's up. So now we move on to our closing round. Andrew, you have the floor first."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 234.53,
+   "end_sec": 254.38,
+   "dur_sec": 19.85,
+   "overlap": false,
+   "text": "The clearest issue is not whether safety matters; it does. It is whether the agency may treat delay as harmless when patients are running out of options. Evidence can be gathered while carefully supervised access is allowed for serious cases. A system that blocks every chance until certainty arrives leaves real people paying the price."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 254.53,
+   "end_sec": 255.53,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 254.58,
+   "end_sec": 268.03,
+   "dur_sec": 13.45,
+   "overlap": false,
+   "text": "Frank says uncertainty justifies waiting, yet uncertainty also surrounds the course of untreated illness. Patients deserve information and safeguards, but they also deserve a path to promising care. When caution shuts-",
+   "cut_at_sec": 261.31,
+   "full_dur_sec": 14.89,
+   "ext_file": "L064_029.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 265.03,
+   "end_sec": 274.22,
+   "dur_sec": 9.19,
+   "overlap": true,
+   "text": "Thank you. I'm sorry his time is up. Thank you. And here to summarize his position against whether the FDA's caution is hazardous to our health, Frank."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 274.42,
+   "end_sec": 292.03,
+   "dur_sec": 17.61,
+   "overlap": false,
+   "text": "Supervised access sounds humane, but supervision cannot erase harm from a treatment that does not work or causes hidden damage. Andrew treats waiting as the only danger, while bad decisions can permanently injure patients. Caution demands evidence before broad reliance, and that discipline protects health. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 292.23,
+   "end_sec": 298.9,
+   "dur_sec": 6.67,
+   "overlap": false,
+   "text": "Thank you, Andrew and Frank, for a thoughtful debate, and thank you for joining us as we conclude tonight's discussion."
+  }
+ ]
+}

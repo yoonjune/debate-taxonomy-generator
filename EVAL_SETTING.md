@@ -6,7 +6,7 @@ time**, and **did it say the right thing**.
 
 Timing is decided by rule. Content is decided by an LLM judge. Nothing else is scored.
 
-- Package: [`data_sample_112/`](data_sample_112/) — 112 debates, 1,071 scored triggers, 4.4–5.5 min each.
+- Package: [`data_sample_112/`](data_sample_112/) — 251 debates, 2,383 scored triggers, 4.6–5.5 min each.
 - Machine-readable form of everything below: [`data_sample_112/eval_rubric.json`](data_sample_112/eval_rubric.json).
 - Scripts: `score_freerun.py` (timing + judge packets) → `run_judge.py` (LLM) → `report.py` (table).
 
@@ -31,8 +31,8 @@ debater audio has to run past the end of the window, or a model that answers at 
 moment would be cutting off silence. Concretely: the ten-second cue is due at 20 s and its window
 ends at **22 s**; the overrun cut is due at 30 s and its window ends at **32 s**; the audio keeps
 going past both. Measured across the set, the speech runs 1.5 s beyond the window end for A1
-(59/59) and A2-1 (58/58), and 9.2 s beyond it for A4 (275/278). The exceptions are A3-2, where the
-last crossfire turn runs out of synthesised audio in 34 of 112 debates, and five A4 crossfire cues;
+(131/131) and A2-1 (124/124), and 9.2 s beyond it for A4 (598/605). The exceptions are A3-2, where
+the last crossfire turn runs out of synthesised audio in 67 of 251 debates, and twelve A4 crossfire cues;
 those are listed in §8. A2-2, A3-1, B1 and B2 are deliberately the opposite — the speaker really
 did finish, so the window is silence.
 
@@ -60,16 +60,16 @@ open at the deadline.
 
 | code | action | deadline | window (relative to deadline) | what the model hears in the window | n |
 |---|---|---|---|---|--:|
-| `A4` | ten-second cue, opening/closing | speaker start + 20 s | −2 … +2 | speech continues throughout | 278 |
-| `A4xf` | ten-second cue, crossfire | crossfire start + 140 s | −2 … +2 | crossfire continues | 112 |
-| `A2-2` | hand over after an in-time finish | end of PRO's speech | 0 … +2 | silence where the reference moderator spoke | 166 |
-| `A3-1` | open the crossfire | end of CON's opening | 0 … +2 | silence | 112 |
-| `A3-2` | close the crossfire, open closings | crossfire start + 150 s | −2 … +2 | speech, cut inside the window | 112 |
-| `A1` | cut an overrun, nobody next this round | speaker start + 30 s | 0 … +2 | speech, cut inside the window | 59 |
-| `A2-1` | cut an overrun, then hand over | speaker start + 30 s | 0 … +2 | speech, cut inside the window | 58 |
-| `A5` | block an out-of-turn interruption | interruption start | 0 … +2 | the interrupter keeps talking | 53 |
-| `B1` | bring a drifting speaker back | end of the drifting turn | 0 … +2 | silence | 57 |
-| `B2` | point out a self-contradiction | end of the contradicting turn | 0 … +2 | silence | 64 |
+| `A4` | ten-second cue, opening/closing | speaker start + 20 s | −2 … +2 | speech continues throughout | 605 |
+| `A4xf` | ten-second cue, crossfire | crossfire start + 140 s | −2 … +2 | crossfire continues | 251 |
+| `A2-2` | hand over after an in-time finish | end of PRO's speech | 0 … +2 | silence where the reference moderator spoke | 378 |
+| `A3-1` | open the crossfire | end of CON's opening | 0 … +2 | silence | 251 |
+| `A3-2` | close the crossfire, open closings | crossfire start + 150 s | −2 … +2 | speech, cut inside the window | 251 |
+| `A1` | cut an overrun, nobody next this round | speaker start + 30 s | 0 … +2 | speech, cut inside the window | 131 |
+| `A2-1` | cut an overrun, then hand over | speaker start + 30 s | 0 … +2 | speech, cut inside the window | 124 |
+| `A5` | block an out-of-turn interruption | interruption start | 0 … +2 | the interrupter keeps talking | 121 |
+| `B1` | bring a drifting speaker back | end of the drifting turn | 0 … +2 | silence | 132 |
+| `B2` | point out a self-contradiction | end of the contradicting turn | 0 … +2 | silence | 139 |
 
 **Classes.** An onset inside `[t_earliest, t_latest]` is `ON_TIME`. An onset in
 `[t_deadline − 5, t_earliest)` is `PREMATURE`. An onset in `(t_latest, t_latest + 3]` is `LATE`.
@@ -131,10 +131,10 @@ The `criteria` array is the whole per-code specification.
 | code | `criteria` sent to the judge | max |
 |---|---|--:|
 | `A4` | `says that ten seconds remain (the word 'ten')` | 1 |
-| `A4xf` | `says that ten seconds remain (the word 'ten')` | 1 |
+| `A4xf` | `says that ten seconds remain (the word 'ten')` | 251 |
 | `A2-2` | `hands the floor to the other side (name, side, or 'next')` | 1 |
 | `A3-1` | `announces that the debate moves on to the next round (any wording)`<br>`states the length (two and a half minutes)` | 2 |
-| `A3-2` | `moves the debate on to the closing round` | 1 |
+| `A3-2` | `moves the debate on to the closing round` | 251 |
 | `A1` | `stops the speaker for time` | 1 |
 | `A2-1` | `stops the speaker for time`<br>`hands the floor to the other side (name, side, or 'next')` | 2 |
 | `A5` | `tells the interrupter to stop or wait (restrains them)` | 1 |
@@ -268,10 +268,10 @@ was actually given.
    time cues, and real chairs often cut without a prior warning. Our format requires the cue.
 5. **The judge is a single LLM call per utterance.** No ensemble, no human double-check.
 6. **Voices are cloned TTS.** Prosody is flatter than real debate speech.
-7. **A3-2 audio stops early in 34 of 112 debates.** The last crossfire turn runs out of synthesised
+7. **A3-2 audio stops early in 67 of 251 debates.** The last crossfire turn runs out of synthesised
    audio before the window ends, so a very late answer there cuts off silence. The continuation
    exists as a separate extension file and will be spliced in; until then, read A3-2 `LATE` rates
-   with that in mind. Five A4 crossfire cues have the same shortfall.
+   with that in mind. Twelve A4 crossfire cues have the same shortfall.
 
 ---
 

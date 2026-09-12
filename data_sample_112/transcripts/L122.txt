@@ -1,0 +1,40 @@
+L122  |  Iran poses the greatest threat to security in the region
+  MOD=Isaac   PRO=Melissa   CON=Rachel
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Isaac(MOD): Welcome to our debate on the motion that Iran poses the greatest threat to security in the region. Melissa supports the motion and Rachel opposes it. Each opening and closing is thirty seconds, followed by two and a half minutes of crossfire, and I will give a ten-second cue. Speak directly, keep remarks respectful, and address the motion.
+[t01] Melissa(PRO): Iran poses the greatest threat because it can turn pressure into danger across borders. Its armed partners, coercive messaging, and support for violent networks let local disputes spread quickly. Other dangers matter, but this one links several fronts at once. That connected power makes ordinary people less safe and makes calm harder to restore for everyone.
+[t02] @A4 <ovl> Isaac(MOD): You've got ten seconds.
+[t03] Melissa(PRO): When one actor can arm allies, threaten routes, and deny responsibility, neighbors face danger from many directions. That is why Iran stands above the rest. That's all, thank you.
+[t04] @A2-2 Isaac(MOD): All right, Rachel, come back.
+[t05] Rachel(CON): Iran can cause harm, but calling it greatest skips the dangers that arise without its direction. Security also depends on brittle leadership, armed factions, and fear between neighbors. A useful policy weighs each source of danger instead of turning one country into the answer for everything. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Isaac(MOD): That concludes round one. Now on to round two where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Rachel(CON): Every security threat deserves equal scrutiny. Why rank Iran first before weighing rival armed groups, fragile governments, and sudden conflicts that can harm people just as directly in this region right now?
+[t08] Melissa(PRO): I reject the premise that Iran was ranked before weighing those dangers; its reach across them is precisely why it comes first. Equal scrutiny permits distinctions, and Iran fuels several crises at once, making it the greatest threat.
+[t09] Rachel(CON): Iran does not deserve equal scrutiny. Treating it as the greatest threat steals attention from immediate dangers created by armed groups, weak institutions, and local escalation, so the motion wrongly narrows security.
+[t10] @B2 Isaac(MOD): Rachel said every security threat deserves equal scrutiny, but iran does not deserve equal scrutiny.
+[t11] Rachel(CON): My point is that equal scrutiny means examining each danger seriously before assigning a rank. Iran does not deserve equal scrutiny as the greatest threat because its actual power is smaller than the label suggests.
+[t12] Melissa(PRO): Rachel's label point fails because a threat is judged by what it can trigger, not by whether its name sounds broad. Iran's connections let pressure spread, which is exactly why it ranks greatest.
+[t13] Rachel(CON): That labeling problem matters when a family hears warnings about a crowded market, a dark street, and a broken lock. The family should ask what it actually knows, rather than accept the loudest warning.
+[t14] @B1 Isaac(MOD): But, how do you relate that to whether iran poses the greatest threat to regional security? Land that on whether iran poses the greatest threat to regional security.
+[t15] Rachel(CON): The question is whether Iran poses the greatest regional threat, and it does not, because danger has several independent sources. Why should people accept your single ranking when it hides risks that Iran neither controls nor creates?
+[t16] Melissa(PRO): They should accept it because Iran magnifies risks it may not fully control, turning separate tensions into broader insecurity. Your focus on independence misses interaction: the actor linking dangers deserves the highest rank.
+[t17] Rachel(CON): The weakest part is your claim that connection alone proves supremacy. A bridge can link many roads without causing crashes; likewise, Iran's involvement does not erase threats produced by others, so it cannot automatically be called greatest.
+[t18] Melissa(PRO): If Iran is not the greatest threat, what single danger has comparable reach across armed pressure, intimidation, and conflict support? You cannot answer by listing unrelated risks, because the motion asks which source most endangers regional security.
+[t19] @A4 <ovl> Isaac(MOD): Ten seconds left, both of you.
+[t20] <cut> Rachel(CON): Melissa's comparable-reach question assumes security has one source that can be neatly measured. It does not: a sudden local collapse can endanger-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Isaac(MOD): Time's up. Now we move on to round three. Round three will be closing statements. Here to make her closing statement in support of the resolution, Melissa.
+[t22] Melissa(PRO): You say ranking Iran distracts from other dangers, but ignoring its influence makes those dangers harder to contain. Iran remains the greater threat because
+[t23] <ovl> <cut> Rachel(CON): No, that network is why your ranking-
+[t24] @A5 <ovl> Isaac(MOD): Wait, let her answer the question.
+[t25] Melissa(PRO): it can supply pressure, weapons, and direction while avoiding direct responsibility. A serious security policy must confront that network rather than pretend separate crises have separate causes.
+[t26] @A4 <ovl> Isaac(MOD): Ten.
+[t27] Melissa(PRO): That is why Iran, not a scattered list of dangers, poses the greatest regional threat. That's all, thank you.
+[t28] @A2-2 Isaac(MOD): Thank you very much. We're going to move next to Rachel.
+[t29] Rachel(CON): Deciding this motion turns on whether a loud, connected actor is automatically the greatest danger. It is not: security fails through many causes, including crises Iran does not direct. Rejecting the motion means judging threats by their actual harm, not forcing them into one convenient ranking. That's all, thank you.
+[t30] Isaac(MOD): Thank you, Melissa and Rachel, for a thoughtful discussion; this concludes our debate on the motion before us today.

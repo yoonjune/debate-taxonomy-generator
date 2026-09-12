@@ -1,0 +1,39 @@
+L165  |  Affirmative action on campus does more harm than good
+  MOD=Jim   PRO=Enrique   CON=Pete
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Jim(MOD): Welcome to our debate on whether affirmative action on campus does more harm than good. Enrique supports the motion, and Pete opposes it. Each speaker has thirty seconds for an opening, followed by two and a half minutes of crossfire. They then have thirty-second closings, and I will give a ten-second cue. Please keep remarks focused and let each other finish.
+[t01] Enrique(PRO): Campus admission should judge applicants as individuals, not assign advantage through group labels. When policy makes identity decisive, it breeds resentment and doubts about merit.
+[t02] <ovl> <cut> Pete(CON): But that assumes fairness means pretending-
+[t03] @A5 <ovl> Jim(MOD): No, no, no. Hold on. Let Enrique.
+[t04] Enrique(PRO): achievement can be trusted. Students deserve clear standards, because a preference attached to identity makes every successful applicant wonder whether others see earned ability or a category.
+[t05] @A4 <ovl> Jim(MOD): Well, now it's ten.
+[t06] Enrique(PRO): That suspicion damages belonging, so affirmative action on campus does more harm than good. That's all, thank you.
+[t07] @A2-2 Jim(MOD): Pete, come on in your response.
+[t08] Pete(CON): My opponent treats equal treatment as ignoring unequal starting points. Campus affirmative action can recognize obstacles while still demanding that every admitted student do the work. It broadens opportunity and learning across campus, so its benefits outweigh the harms he fears. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Jim(MOD): And that concludes round one. Now, onto round two where the debaters will address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t10] Enrique(PRO): Your claim that doing the work settles fairness misses the admission decision itself. If identity helps decide who enters, equally qualified applicants can lose for traits they did not choose, creating distrust before classes even begin.
+[t11] <cut> Pete(CON): Picture a student from an overlooked neighborhood whose strong record lacked costly coaching; a holistic review sees persistence, and he joins a demanding program. His perspective improves discussion and proves affirmative action helps more than-
+[t12] Enrique(PRO): Admission debates also affect how families chase tutors, rankings, and prestige, which can distort childhood long before applications. Still, the issue here is campus policy: identity preferences make admission less fair and more harmful than helpful.
+[t13] Pete(CON): I grant that any admission policy can be explained badly, leaving students uneasy. But removing affirmative action ignores unequal paths to achievement and preserves narrow access, so the greater harm comes from ending it.
+[t14] Enrique(PRO): No, ending it would not preserve narrow access; fair outreach and individual review can widen opportunity without assigning weight to identity. You call unequal paths decisive, but campus admission should reward demonstrated preparation, not group membership.
+[t15] Pete(CON): If you say individual review is enough, how will it notice barriers that shape records before anyone reads them? Why should a campus ignore that context when seeking a learning community that serves more than the already advantaged?
+[t16] Enrique(PRO): That same logic becomes more troubling in professional licensing, where a patient wants confidence that selection followed the clearest standards. A licensing board should evaluate each candidate's demonstrated skill, not use identity to balance its roster.
+[t17] @B1 Jim(MOD): But we're asking affirmative action on campus does more harm than good. That's the question here.
+[t18] Enrique(PRO): On the motion, affirmative action on campus does more harm because it makes identity part of who receives a scarce seat. Context matters, but preferences based on group membership undermine trust in both students and the institution.
+[t19] Pete(CON): Enrique's scarce-seat point assumes fairness requires ignoring how applicants reached the competition. A careful policy considers context alongside achievement, so it can build access without treating identity as the sole measure of merit.
+[t20] Enrique(PRO): I agree context can explain an applicant's record and should be read carefully. But affirmative action goes beyond understanding context by favoring group identity, and that blunt shortcut creates unfair losses, so it does more harm than good.
+[t21] <cut> Pete(CON): No, it is not a blunt shortcut; it can weigh context without replacing achievement or admitting unprepared students. Your unfair-loss claim treats every difference in outcome as favoritism, while ignoring advantages already embedded in-
+[t22] @A4 <ovl> Jim(MOD): Ten seconds, and then closing statements.
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Jim(MOD): And that's time. That concludes round two. So let's move on to round three closing statements and here making his final argument in support of the motion that affirmative action on campus does more harm than good is Enrique.
+[t24] Enrique(PRO): This debate is about trust in admission. Context deserves attention, but affirmative action makes group identity a factor in scarce opportunities, leaving applicants to wonder whether merit mattered. Better support before admission can expand opportunity without that stigma, so affirmative action on campus does more harm than good. That's all, thank you.
+[t25] @A2-2 Jim(MOD): Thank you Enrique. Pete, closing statement.
+[t26] Pete(CON): My opponent calls identity a stigma, yet stigma comes from assuming people admitted through a broader review did not earn their place. Affirmative action does not erase standards; it helps a campus read achievement in context. That produces classrooms with wider experience and sharper discussion. The real question is whether we correct unequal opportunity or pretend it disappears at admission.
+[t27] @A4 <ovl> Jim(MOD): I can give you ten seconds to do this.
+[t28] Pete(CON): A fair campus sees the whole applicant, not just a narrow record. That fuller judgment expands opportunity and learning, so the motion is false. That's all, thank you.
+[t29] Jim(MOD): Thank you, Enrique and Pete, for a thoughtful debate. This concludes our discussion of the motion here today.

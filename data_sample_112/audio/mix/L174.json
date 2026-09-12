@@ -1,0 +1,369 @@
+{
+ "debate_id": "L085",
+ "motion": "All Hail the Driverless Car",
+ "speakers": {
+  "MOD": {
+   "name": "Carlos",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6380_62",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6380/MSP-PODCAST_6380_62.wav",
+   "wpm": 178.01
+  },
+  "PRO": {
+   "name": "Rachel",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "CON": {
+   "name": "Ingrid",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 76.84,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 291.36,
+ "ext": {
+  "a32": {
+   "file": "L085_ext_a32.wav",
+   "place_at_sec": 218.937,
+   "dur_sec": 23.98,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "If rare confusion is merely a reason to advance them, what do you say to the person the machine cannot understand when there is no human driver able to take over?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.64,
+   "dur_sec": 15.64,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is whether we should all hail the driverless car. Rachel speaks for it, and Ingrid speaks against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.84,
+   "end_sec": 35.69,
+   "dur_sec": 19.85,
+   "overlap": false,
+   "text": "Driverless cars deserve welcome because they do not get tired, distracted, or angry. They can follow the road's rules with steady attention and give older or disabled riders more freedom. Ingrid may fear surrendering control, but human control is hardly flawless. I will show why a calmer system can serve everyone."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 35.84,
+   "end_sec": 37.04,
+   "dur_sec": 1.2,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 35.89,
+   "end_sec": 48.88,
+   "dur_sec": 12.99,
+   "overlap": false,
+   "text": "Think of a rider who cannot drive at all. A vehicle that watches continuously can widen independence and reduce avoidable mistakes. We should judge it by lives it can protect, not-",
+   "cut_at_sec": 47.14,
+   "full_dur_sec": 14.25,
+   "ext_file": "L085_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 46.34,
+   "end_sec": 48.98,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "Time. Thank you, Rachel. Ingrid, your turn."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 49.18,
+   "end_sec": 67.28,
+   "dur_sec": 18.1,
+   "overlap": false,
+   "text": "Rachel, if a car makes the choice, who answers when it harms someone? A machine can miss the meaning behind a gesture, a confusing street, or a sudden plea. We should improve driving, not hail a system that removes human judgment from a human responsibility. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 67.48,
+   "end_sec": 78.86,
+   "dur_sec": 11.38,
+   "overlap": false,
+   "text": "And that concludes round one. Now we go on to round two, where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 79.06,
+   "end_sec": 92.19,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "You asked who answers after harm: the owner and maker can be accountable, just as they are for any tool. Your argument treats human judgment as magic, yet distraction and panic create harms that steadier driving can prevent."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 92.605,
+   "end_sec": 104.365,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "That is why licensing rules need reform: owners, makers, repair shops, and insurers could pass blame around. We need clear training standards, renewal tests, and fair rules for workers displaced by automated transport."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 104.565,
+   "end_sec": 108.495,
+   "dur_sec": 3.93,
+   "overlap": false,
+   "text": "We are talking about whether we should all hail the driverless car right now."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 108.695,
+   "end_sec": 121.855,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "On whether we should all hail the driverless car, I say no: handing routine travel to machines creates new failures without human understanding. Better licensing cannot turn a programmed response into the judgment a difficult moment requires."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 122.569,
+   "end_sec": 134.019,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "I believe driverless cars always protect every passenger. Their constant attention removes the lapses that make ordinary trips dangerous, so welcoming them means choosing reliable care over the limits of tired human drivers."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 134.945,
+   "end_sec": 148.725,
+   "dur_sec": 13.78,
+   "overlap": false,
+   "text": "Rachel's point that driverless cars always protect every passenger is precisely the problem. A machine can follow its design perfectly and still misunderstand a blocked path or a person's signal, leaving people exposed without a human able to improvise."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 149.124,
+   "end_sec": 160.494,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "In a debris-filled lane, a driverless car does not protect every passenger. I still support it: one failure does not erase its daily promise of steadier attention, calmer choices, and wider freedom for riders."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 160.694,
+   "end_sec": 167.574,
+   "dur_sec": 6.88,
+   "overlap": false,
+   "text": "One moment you're saying driverless cars always protect every passenger, then you're having them not protect every passenger. Which?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 167.774,
+   "end_sec": 179.864,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Both statements describe the same reason to improve the system. It always protects every passenger as its governing aim, and when it does not protect every passenger, that failure shows where its design must learn."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 180.199,
+   "end_sec": 193.799,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "Imagine a child waving beside a stalled vehicle while signals are hidden by dust. A human driver may read fear and stop; a driverless car may read unclear shapes and continue. That proves judgment cannot be programmed away."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 194.342,
+   "end_sec": 206.862,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "I grant that unclear signals are hard. But human drivers also misread danger while tired or rushed; automated attention is steadier on ordinary trips and gives riders independence, so we should hail the driverless car."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 207.448,
+   "end_sec": 220.608,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "Rachel's claim that ordinary trips settle the case is weak. Safety is not a bargain that excuses a person harmed in the exceptional moment; those moments demand understanding, and her machine has none when its pattern fails."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 218.86,
+   "end_sec": 220.74,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "Ten seconds, both of you."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 220.957,
+   "end_sec": 232.36,
+   "dur_sec": 11.403,
+   "overlap": false,
+   "text": "Ingrid's point that exceptional moments settle everything overlooks damage caused by ordinary human error. Driverless cars can react without fatigue or pride-",
+   "ext_file": "L085_ext_a32.wav",
+   "cut_at_sec": 227.64,
+   "full_dur_sec": 12.89
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 228.86,
+   "end_sec": 240.7,
+   "dur_sec": 11.84,
+   "overlap": true,
+   "text": "Okay, time. Let's move on to Round three, closing statements from each debater in turn. Our resolution is, whether we should all hail the driverless car. Leading off with her closing statement, Rachel."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.9,
+   "end_sec": 258.9,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "Driverless cars are not sacred, and hard moments must be solved. But Ingrid asks us to preserve human control despite fatigue, panic, and exclusion from travel. Constant attention and independence are the stronger promise. We should welcome the driverless car and make it worthy of trust. That's all, thank you."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 259.1,
+   "end_sec": 262.79,
+   "dur_sec": 3.69,
+   "overlap": false,
+   "text": "Would you like to take it, Ingrid? You started to speak."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 262.99,
+   "end_sec": 283.19,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "Rachel's strongest point is steady attention, and I agree that human drivers can fail. Yet attention without understanding can turn a person into an obstacle when the road stops matching patterns. We should build tools that assist people, not hail tools that replace judgment. Responsibility needs someone who can see, listen, and choose in the hard moments."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 282.99,
+   "end_sec": 284.23,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Ingrid."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 283.39,
+   "end_sec": 291.14,
+   "dur_sec": 7.75,
+   "overlap": false,
+   "text": "That is why I reject the driverless car as something we should all hail. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 291.34,
+   "end_sec": 297.23,
+   "dur_sec": 5.89,
+   "overlap": false,
+   "text": "Thank you, Rachel and Ingrid, for a thoughtful debate. This concludes our discussion of the motion tonight."
+  }
+ ]
+}

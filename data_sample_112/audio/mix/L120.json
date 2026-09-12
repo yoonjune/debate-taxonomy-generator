@@ -1,0 +1,408 @@
+{
+ "debate_id": "L011",
+ "motion": "Anti-Zionism is the new Anti-Semitism.",
+ "speakers": {
+  "MOD": {
+   "name": "Randy",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1656_617",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1656/MSP-PODCAST_1656_617.wav",
+   "wpm": 172.62
+  },
+  "PRO": {
+   "name": "Mitchell",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  },
+  "CON": {
+   "name": "Marcia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 66.13,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 288.56,
+ "ext": {
+  "a32": {
+   "file": "L011_ext_a32.wav",
+   "place_at_sec": 209.767,
+   "dur_sec": 25.28,
+   "src_i": 17
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 18,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Your student example confuses rude exclusion with the meaning of anti-Zionism. Nobody should be barred from discussion, but one person's behavior cannot transform all political opposition into racial or religious hatred. The motion makes that unjustified leap."
+  },
+  {
+   "src_i": 19,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Marcia's one-person's-behavior point understates the pattern. The issue is not every critic, but a recurring test that makes Jewish collective identity uniquely disqualifying. When opposition repeatedly becomes exclusion, anti-Zionism is the new anti-Semitism."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.21,
+   "dur_sec": 19.21,
+   "overlap": false,
+   "text": "Welcome. The motion is: Anti-Zionism is the new Anti-Semitism. Mitchell argues for it, and Marcia argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Keep remarks direct, respectful, and focused on the motion rather than personal attacks."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.41,
+   "end_sec": 36.18,
+   "dur_sec": 16.77,
+   "overlap": false,
+   "text": "Anti-Zionism often targets not merely a government's acts, but the collective right of Jews to national self-determination. When that right alone is treated as illegitimate, an old prejudice has adopted political language. Criticism is legitimate; denying equal legitimacy is anti-Semitism in practice. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.38,
+   "end_sec": 38.36,
+   "dur_sec": 1.98,
+   "overlap": false,
+   "text": "Let's have Marcia take this one."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 38.56,
+   "end_sec": 54.57,
+   "dur_sec": 16.01,
+   "overlap": false,
+   "text": "Anti-Zionism can reject a political ideology or state structure without hostility toward Jews. It becomes anti-Semitic when it targets Jews as Jews, but those are different claims. Blurring them shields political power from criticism and weakens the fight against actual anti-Semitism. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 54.77,
+   "end_sec": 69.83,
+   "dur_sec": 15.06,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two. And round two is where the debaters can address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 70.03,
+   "end_sec": 82.55,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Marcia's point is that ideology and prejudice differ. They can, but anti-Zionism routinely singles out Jewish collective self-rule as uniquely illegitimate while accepting it for others. That double standard turns political vocabulary into anti-Semitic exclusion."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 83.067,
+   "end_sec": 94.187,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "That assumes Jewish self-determination requires Zionism and a particular state. Why cannot Jews have security, culture, and political equality without endorsing that model? And who decides which collective claims deserve recognition?"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 94.88,
+   "end_sec": 106.28,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "That special-exception test depends on who defines a people, and officials draw lines through forms and family records. Once a stamp decides belonging, disputes become arguments about paperwork, registration offices, and clerks."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 106.48,
+   "end_sec": 112.26,
+   "dur_sec": 5.78,
+   "overlap": false,
+   "text": "Can we please go back to the question at hand? We're going to go back to the question at issue."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 112.46,
+   "end_sec": 125.26,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "The question is whether anti-Zionism now functions as anti-Semitism, and it does when Jewish national identity is uniquely treated as suspect. Political criticism concerns policies; denying Jews collective standing granted others revives exclusion through updated language."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 125.928,
+   "end_sec": 139.778,
+   "dur_sec": 13.85,
+   "overlap": false,
+   "text": "Arguments over flags, borders, and constitutional labels can inflame any conflict, and each deserves debate. But the motion asks about identity: opposing Zionism is not automatically hatred of Jews. Conflating them erases political disagreement, so the motion is false."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 140.754,
+   "end_sec": 153.274,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "No anti-Zionist campaign is free of anti-Semitic meaning. Even courteous slogans often portray Jewish self-determination as a unique moral stain, and that framing invites suspicion toward Jews generally. Your distinction misses how the message lands."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 154.006,
+   "end_sec": 166.446,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Mitchell's no-campaign point is precisely the problem: it calls every opponent prejudiced before hearing reasons. People may oppose nationalism, states, or borders consistently. A sweeping label replaces argument and makes genuine anti-Semitism harder to identify."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 167.106,
+   "end_sec": 178.226,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "This anti-Zionist campaign is free of anti-Semitic meaning. A group urges equal rights under one civic system and rejects ethnic hostility. Yet it denies Jewish self-determination, so the motion remains true."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 178.426,
+   "end_sec": 186.196,
+   "dur_sec": 7.77,
+   "overlap": false,
+   "text": "You're saying no anti-Zionist campaign is free of anti-Semitic meaning but you still want this anti-Zionist campaign is free of anti-Semitic meaning."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 186.396,
+   "end_sec": 199.996,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "Both statements address meaning, not every speaker's private feeling. The campaign may avoid slurs while still advancing an exclusionary result: removing Jewish collective legitimacy. That is why polite language does not erase anti-Semitic meaning, and the motion stands."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 200.648,
+   "end_sec": 212.658,
+   "dur_sec": 12.01,
+   "overlap": false,
+   "text": "I grant that a polished campaign can hide hostility, and vigilance matters. But Mitchell's own example admits a campaign without anti-Semitic meaning, then calls it anti-Semitic anyway. That circular move proves the motion false."
+  },
+  {
+   "i": 17,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 209.83,
+   "end_sec": 210.83,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 18,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 213.467,
+   "end_sec": 223.33,
+   "dur_sec": 9.863,
+   "overlap": false,
+   "text": "Consider a Jewish student told that supporting self-determination makes them unwelcome in discussion, despite no policy claim or insult. The target is identity-",
+   "ext_file": "L011_ext_a32.wav",
+   "cut_at_sec": 216.93,
+   "full_dur_sec": 11.84
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 219.83,
+   "end_sec": 226.88,
+   "dur_sec": 7.05,
+   "overlap": true,
+   "text": "Now, it's time to bring this all home with closing remarks. Mitchell, you're up first for this. You have the floor."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 227.08,
+   "end_sec": 247.28,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "The strongest point is simple: criticism of any government is normal, but denying Jewish people the collective legitimacy afforded other peoples is different. That denial follows Jews into classrooms, workplaces, and public life as suspicion of their identity. The label may sound political, yet its effect is exclusion. That is the lens for this decision."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 247.08,
+   "end_sec": 248.48,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "Mitchell, ten seconds."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 247.48,
+   "end_sec": 255.49,
+   "dur_sec": 8.01,
+   "overlap": false,
+   "text": "When political language uniquely denies Jewish belonging, it repeats anti-Semitism in a new form. That's all, thank you."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 255.69,
+   "end_sec": 258.66,
+   "dur_sec": 2.97,
+   "overlap": false,
+   "text": "Let me bring back Marcia, please. Thanks."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 258.86,
+   "end_sec": 268.82,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "This decision turns on whether we judge arguments precisely or collapse them into one charge. Anti-Semitism targets Jews as Jews; opposition to Zionism is not automatically hatred."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 267.92,
+   "end_sec": 270.22,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But that separation ignores practice-",
+   "cut_at_sec": 264.51,
+   "full_dur_sec": 7.52,
+   "ext_file": "L011_027.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 269.42,
+   "end_sec": 270.98,
+   "dur_sec": 1.56,
+   "overlap": true,
+   "text": "Yes. You go ahead, Marcia."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 271.18,
+   "end_sec": 281.54,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "That distinction matters because conflating a political view with bigotry punishes dissent and obscures actual prejudice. The motion fails that basic test, however emotionally powerful the accusation sounds."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 278.86,
+   "end_sec": 280.34,
+   "dur_sec": 1.48,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.74,
+   "end_sec": 289.51,
+   "dur_sec": 7.77,
+   "overlap": false,
+   "text": "Protect Jews from hatred, but preserve room to oppose Zionism; therefore, reject this motion. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 289.71,
+   "end_sec": 295.96,
+   "dur_sec": 6.25,
+   "overlap": false,
+   "text": "Thank you, Mitchell and Marcia, for a thoughtful exchange. This concludes our debate on the motion before us."
+  }
+ ]
+}

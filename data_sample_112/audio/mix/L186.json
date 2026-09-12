@@ -1,0 +1,432 @@
+{
+ "debate_id": "L100",
+ "motion": "Arab women should have full equality with men",
+ "speakers": {
+  "MOD": {
+   "name": "Gregory",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4814_946",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4814/MSP-PODCAST_4814_946.wav",
+   "wpm": 172.38
+  },
+  "PRO": {
+   "name": "Genevieve",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5287_206",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5287/MSP-PODCAST_5287_206.wav",
+   "wpm": 169.41
+  },
+  "CON": {
+   "name": "Gloria",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1763_64",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1763/MSP-PODCAST_1763_64.wav",
+   "wpm": 173.81
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 101.92,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 329.05,
+ "ext": {
+  "a32": {
+   "file": "L100_ext_a32.wav",
+   "place_at_sec": 250.89,
+   "dur_sec": 25.53,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Your shop example confuses ending a specific legal barrier with endorsing the motion's unlimited language. I would remove the barrier. It does not follow that every distinction in family or community life must be erased."
+  },
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Will you support equal legal authority for a woman to work, travel, own property, and make contracts without male permission, or do you reserve those powers for men?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.69,
+   "dur_sec": 21.69,
+   "overlap": false,
+   "text": "Welcome. Our motion is: Arab women should have full equality with men. Genevieve speaks for the motion, and Gloria speaks against it. Each opening and closing is thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue. Please listen respectfully, address ideas rather than people, and allow each speaker a fair opportunity to be heard."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.89,
+   "end_sec": 42.17,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Full equality means equal standing before law, equal access to learning, work, property, and public decisions. It does not erase faith, family, or personal choice. Across Arab communities, women have different lives, yet none should need permission to direct her own future. A society gains when every adult can contribute without an imposed ceiling."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.89,
+   "end_sec": 43.13,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 42.37,
+   "end_sec": 53.24,
+   "dur_sec": 10.87,
+   "overlap": false,
+   "text": "Equal rights also protect women who choose family-centered lives, because a choice matters only when alternatives are genuinely open. Equality is the safeguard for every path. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 53.44,
+   "end_sec": 55.05,
+   "dur_sec": 1.61,
+   "overlap": false,
+   "text": "Gloria has the floor."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 55.25,
+   "end_sec": 75.89,
+   "dur_sec": 20.64,
+   "overlap": false,
+   "text": "The motion treats equality as though one model fits every Arab woman. I oppose imposing a single social blueprint from outside families and communities. Many women value distinct responsibilities, religious commitments, and negotiated household roles. Respect means listening when they define dignity differently, rather than declaring their choices inferior. Legal protection matters, but full sameness is not liberation."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 75.25,
+   "end_sec": 76.54,
+   "dur_sec": 1.29,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 76.09,
+   "end_sec": 88.75,
+   "dur_sec": 12.66,
+   "overlap": false,
+   "text": "Women need safety, education, and a voice. Yet calling every difference oppression can make policy dismiss caregiving and communal obligations that some freely embrace. The question is-",
+   "cut_at_sec": 84.48,
+   "full_dur_sec": 14.32,
+   "ext_file": "L100_007.wav"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 85.75,
+   "end_sec": 89.64,
+   "dur_sec": 3.89,
+   "overlap": true,
+   "text": "I have to step in because we hit our time limit."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 89.84,
+   "end_sec": 103.99,
+   "dur_sec": 14.15,
+   "overlap": false,
+   "text": "And that concludes round one. And now we move onto round two, and in round two the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 104.19,
+   "end_sec": 116.99,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Imagine an adult woman offered a job she wants, but a male guardian may refuse travel for it. Her talent, income, and choice disappear. Equal legal authority prevents that loss; it proves equality protects real freedom."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 117.65,
+   "end_sec": 129.9,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "Your guardian example assumes every family decision is coercion. Families often consult each other, and a woman can reject a distant job for reasons she values. Replacing discussion with identical roles does not prove freedom."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 130.772,
+   "end_sec": 140.252,
+   "dur_sec": 9.48,
+   "overlap": false,
+   "text": "If a woman may legally be blocked from travel, work, or signing her own papers solely because she is female, how is her choice equal to yours?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 140.858,
+   "end_sec": 153.278,
+   "dur_sec": 12.42,
+   "overlap": false,
+   "text": "On your legal-blocking point, I reject the premise that opposing this motion defends such barriers. I support removing unfair restrictions. But equal protection does not require declaring every gendered arrangement unjust or demanding identical outcomes."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 153.722,
+   "end_sec": 165.202,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "You're right that protection from unfair restrictions matters. But your answer separates rights from equality, leaving women dependent on whoever labels a restriction traditional; equal citizenship is the clear safeguard against that-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 164.302,
+   "end_sec": 174.952,
+   "dur_sec": 10.65,
+   "overlap": true,
+   "text": "No, equal citizenship can protect her without erasing her chosen roles. Your clear-safeguard point makes the state judge every family arrangement, while I defend women deciding whether difference serves them."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 175.296,
+   "end_sec": 187.166,
+   "dur_sec": 11.87,
+   "overlap": false,
+   "text": "When a woman can refuse a marriage, control her earnings, and seek remedies without a man's approval, distinct family choices can be genuine. Under those conditions, full equality protects rather than dictates her decision."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 188.144,
+   "end_sec": 201.024,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Schools, housing, and transport also shape whether anyone can use formal rights, so policy must consider daily burdens. Still, the motion is about full equality with men, and that sweeping demand can override women's varied judgments."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 201.228,
+   "end_sec": 213.668,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Equality is not merely a set of permissions used after someone else grants access; it is equal status. Women deserve that status in law and public life, while retaining every voluntary family or religious commitment."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.173,
+   "end_sec": 226.293,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "On your equal-status point, the phrase sounds respectful but remains vague about limits. If equal status requires institutions to treat all sex-based roles as suspect, it ceases to respect women who affirm those roles."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 227.05,
+   "end_sec": 239.47,
+   "dur_sec": 12.42,
+   "overlap": false,
+   "text": "I agree that no woman should be shamed for choosing care work or religious practice. But preserving choice cannot mean preserving male authority over her choices; equal standing lets her choose, so the motion stands."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 240.24,
+   "end_sec": 252.29,
+   "dur_sec": 12.05,
+   "overlap": false,
+   "text": "No, a woman should not be blocked solely because she is female. But removing that abuse does not settle the motion: full equality can demand uniform roles, rather than equal respect for freely chosen difference."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 243.99,
+   "end_sec": 246.24,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 252.96,
+   "end_sec": 257.49,
+   "dur_sec": 4.53,
+   "overlap": false,
+   "text": "Consider a woman who wants to open-",
+   "ext_file": "L100_ext_a32.wav",
+   "cut_at_sec": 252.72,
+   "full_dur_sec": 13.16
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 253.99,
+   "end_sec": 262.57,
+   "dur_sec": 8.58,
+   "overlap": true,
+   "text": "We've come up against the clock, so we're going to move now to our closing statements. Genevieve, the stage is all yours."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 262.77,
+   "end_sec": 285.13,
+   "dur_sec": 22.36,
+   "overlap": false,
+   "text": "Tonight, the other side accepted that women should not be blocked solely because they are female. That principle is equality, not sameness. Equal status gives a woman authority over her work, movement, property, and future; it never orders her to abandon family, faith, or care. Without that status, voluntary choices rest on unequal power. This debate turns on who holds final legal authority."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 282.77,
+   "end_sec": 285.34,
+   "dur_sec": 2.57,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 285.33,
+   "end_sec": 296.27,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "Full equality leaves room for peaceful commitments because it makes them voluntary. The alternative calls unequal power tradition when it is familiar-",
+   "cut_at_sec": 292.0,
+   "full_dur_sec": 14.16,
+   "ext_file": "L100_029.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 293.27,
+   "end_sec": 297.7,
+   "dur_sec": 4.43,
+   "overlap": true,
+   "text": "I'm going to stop you there, Genevieve, we're out of time. Gloria."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 297.9,
+   "end_sec": 318.18,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "My strongest point is simple: dignity cannot be delivered by treating women as one category with one approved life. I support protection against coercion and fair access to opportunity. But this motion's promise of full equality can turn differences freely valued by women into defects to correct. A just society must protect choice, including choices that do not mirror men. The question is who defines equality."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 317.9,
+   "end_sec": 319.72,
+   "dur_sec": 1.82,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 318.38,
+   "end_sec": 325.99,
+   "dur_sec": 7.61,
+   "overlap": false,
+   "text": "Rejecting a rigid blueprint respects women as capable authors of their own dignified, diverse lives. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 326.19,
+   "end_sec": 332.8,
+   "dur_sec": 6.61,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful exchange. This concludes our debate on the motion; there is no declared winner."
+  }
+ ]
+}

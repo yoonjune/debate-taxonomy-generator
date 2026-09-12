@@ -1,0 +1,36 @@
+L189  |  It is okay to pay for sex.
+  MOD=Lyle   PRO=Nick   CON=Terence
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Lyle(MOD): Good evening. The motion is, it is okay to pay for sex. Nick argues for it, and Terence argues against it. Each has thirty seconds for openings, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue. Keep remarks responsive and let each other speak.
+[t01] Nick(PRO): I support the motion because adults can make private agreements about intimacy when consent is clear and either person can refuse. Payment does not erase agency. We should punish force, deception, and exploitation, but not treat every voluntary exchange between adults as wrong. That's all, thank you.
+[t02] @A2-2 Lyle(MOD): Nick, let me let Terence, because I didn't hear from him.
+[t03] Terence(CON): Nick's consent point ignores how money can reshape a yes into survival pressure. A person facing rent or debt may agree while feeling they have no real alternative. Buyers cannot reliably see that pressure, and a market rewards looking away from it. Calling the exchange private does not remove the power imbalance, because the transaction.
+[t04] @A4 <ovl> Lyle(MOD): I can give you ten seconds to wrap this round.
+[t05] <cut> Terence(CON): can turn need into leverage. I am not claiming every paid encounter involves force; I am saying the system makes vulnerability profitable and normalizes treating another person's hardship as access-
+[t06] @A1 <ovl> Lyle(MOD): I have to step in because we hit our time limit.
+
+--- phase 2 ---
+[t07] @A3-1 Lyle(MOD): Let's move now into the moderated cross-examination portion of this debate, and get both sides engaging on some of the key issues here. You have two and a half minutes, starting when I stop talking.
+[t08] Nick(PRO): Terence's survival-pressure point matters, but hardship does not make adults incapable of choosing. The answer is support and strong rules against coercion, not stripping consenting adults of a lawful option they may prefer.
+[t09] Terence(CON): That support raises a wider question about whether communities should provide rent help without demanding proof of need. When aid offices require humiliating interviews, people avoid them, and the same stigma reaches food lines.
+[t10] @B1 Lyle(MOD): Come back to the whether it is okay to pay for sex, will you?
+[t11] Terence(CON): On whether paying for sex is okay, I say no: money can purchase compliance without securing freely wanted intimacy. Nick's rules cannot inspect private pressure, so the buyer's claimed certainty is exactly the problem.
+[t12] Nick(PRO): Consider two adults who discuss boundaries, payment, protection, and the right to stop before meeting. They follow those terms, and either leaves without penalty. That shows payment can coexist with agency, safety, and respect.
+[t13] Terence(CON): That example proves only that a conversation can sound careful; it does not prove desire is free from financial need. The buyer benefits from uncertainty, while the seller bears risk in refusing, so it remains wrong.
+[t14] Nick(PRO): Your weakest claim is that uncertainty makes the arrangement unacceptable. We face uncertainty about motives in dating and work too; what matters is whether anyone can refuse, set limits, and seek help when abuse occurs.
+[t15] <cut> Terence(CON): Nick's uncertainty point misses the difference: ordinary work does not require intimate access to someone who needs money. Consent must be more than the ability to leave; otherwise desperation becomes a product for buyers to-
+[t16] <ovl> Nick(PRO): No, you are redefining consent so no paid choice can count. Adults sometimes choose difficult options for practical reasons, and respect means protecting their control, not declaring their own stated decisions invalid.
+[t17] Terence(CON): Language around this trade can shape how people are treated by friends and family, and that isolation is damaging. But the motion asks permission: paying for sex is not okay when payment exploits vulnerability.
+[t18] Nick(PRO): Imagine an adult who sets prices, screens clients, refuses anyone unsettling, and uses earnings to leave a worse job. Criminalizing the payment drives that person into secrecy. Their danger proves permission with protections is kinder.
+[t19] Terence(CON): That imagined control is not guaranteed, and I reject the claim that criminal rules necessarily create secrecy. A buyer can still pressure someone who appears independent, so a chosen price cannot settle the moral question.
+[t20] @A4 <ovl> Lyle(MOD): Well, now it's ten.
+[t21] <cut> Nick(PRO): Your weakest point is treating imperfect protection as a reason to ban the choice. No private decision is guaranteed safe; we reduce risks-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Lyle(MOD): We're going to move now into our closing round. Nick, you are answering yes to the question, and this is your time for your closing statement.
+[t23] Nick(PRO): This decision turns on whether adults may make intimate choices when consent is informed, freely given, and revocable. Payment alone does not cancel those conditions. Reject abuse and coercion firmly, but do not erase agency from people whose choices deserve legal and moral respect. That's all, thank you.
+[t24] @A2-2 Lyle(MOD): All right, let him answer.
+[t25] Terence(CON): This decision turns on whether money can make intimate consent trustworthy when one person may need it to survive. It cannot reliably do that. A decent society should not build permission around buying access to another person's vulnerability or hardship. That's all, thank you.
+[t26] Lyle(MOD): Thank you, Nick and Terence, for a thoughtful exchange; that concludes our debate on whether paying for sex is okay.

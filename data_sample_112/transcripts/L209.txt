@@ -1,0 +1,39 @@
+L209  |  America is too damn religious
+  MOD=Daphne   PRO=Bernard   CON=Ted
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Daphne(MOD): Welcome to tonight's debate. The motion is: America is too damn religious. Bernard speaks for it, and Ted speaks against it. You each have thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Keep remarks directed to the motion, and listen when I call time.
+[t01] Bernard(PRO): America has room for faith, but faith becomes too dominant when it dictates public rules and treats doubt as suspect. I am not attacking believers; I am defending equal citizenship for people whose conscience leads elsewhere. A healthy country leaves religion voluntary, not socially compulsory. That's all, thank you.
+[t02] @A2-2 Daphne(MOD): Ted against the motion, please.
+[t03] Ted(CON): Calling America too religious mistakes visibility for control. People may pray, gather, speak moral language, or decline all of it; that is pluralism, not domination. Bernard, if freedom includes protecting conviction, why should public expressions of conviction be treated as proof that everyone else is being pushed aside?
+[t04] Ted(CON): Why call private worship excessive when people remain free to ignore it and disagree openly? That's all, thank you.
+[t05] @A4 <ovl> Daphne(MOD): Well, now ten.
+
+--- phase 2 ---
+[t06] @A3-1 Daphne(MOD): So that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Bernard(PRO): I reject that premise: public expression alone is not the problem. The problem is when religious expectations shape schools, laws, and belonging, so nonbelievers pay a social price for simply standing apart.
+[t08] Ted(CON): You call social discomfort coercion, but disagreement is not control. No religious belief should ever control public life; America remains diverse precisely because people can answer faith with faith, doubt, or nothing.
+[t09] Bernard(PRO): I agree that private worship deserves full protection. But your rule ignores how public pressure works: when one creed defines normal, others must explain themselves, and that unequal burden shows America is too religious.
+[t10] Ted(CON): This religious belief should control public life. A shared belief in caring for neighbors can guide public life without making anyone worship, and that ordinary moral influence does not make America too religious.
+[t11] @B2 Daphne(MOD): So one moment it's no religious belief should ever control public life and the next moment it's this religious belief should control public life?
+[t12] Ted(CON): Both statements fit because public control can mean domination in one sense and moral guidance in another. I oppose forced creed, while welcoming shared values that citizens carry into public life; that balance rejects the motion.
+[t13] Bernard(PRO): Your distinction is weakest because the same public power feels voluntary to insiders and compulsory to outsiders. Calling pressure guidance does not erase the child, worker, or neighbor who learns conformity buys acceptance.
+[t14] Ted(CON): Instead, consider whether public funds should support community clinics run by volunteers. If we deny that support because volunteers have convictions, families lose care, local trust weakens, and government replaces practical neighborhood help.
+[t15] @B1 Daphne(MOD): This House believes america is too damn religious as a country today.
+[t16] Ted(CON): On the motion, America is not too damn religious because religious practice is one voice among many, not a master over everyone. People can leave communities, challenge teachings, and build secular lives without losing citizenship.
+[t17] Bernard(PRO): Yes, people can leave a congregation or challenge a sermon. But leaving does not remove religious tests in family, work, and politics, where constant deference teaches citizens that unbelief is lesser; America is too religious.
+[t18] Ted(CON): Your point about religious tests mistakes rude behavior for national rule. Families and employers can be challenged, left, or criticized, while public institutions still protect unbelief; isolated pressure cannot prove America is too religious.
+[t19] <cut> Bernard(PRO): Imagine a student required to join a daily prayer before a school event or stand alone before classmates. That ritual marks belonging by belief, not citizenship, and proves religion has been given too much public-
+[t20] @A4 <ovl> Daphne(MOD): You have ten seconds.
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Daphne(MOD): That's time. Round three, closing statements by each debater in turn. Let's go to the first of these speakers. Speaking for the motion, Bernard.
+[t22] Bernard(PRO): This debate is not about banning prayer or mocking faith. It is about whether religious expectation has gained too much authority over public belonging, schools, and everyday respect. When people must signal belief to avoid exclusion, freedom exists on paper but equality shrinks in practice, and that is why the motion matters.
+[t23] @A4 <ovl> Daphne(MOD): Bernard, ten seconds.
+[t24] Bernard(PRO): America should protect faith, but it must stop treating faith as the entrance fee to belonging. That's all, thank you.
+[t25] @A2-2 Daphne(MOD): Okay. Go on, Ted.
+[t26] Ted(CON): America is not too religious simply because conviction is visible and influential. A free society lets believers bring moral commitments into public life while letting others reject them, answer them, or organize differently. The remedy Bernard suggests risks treating sincere expression as a threat, rather than trusting citizens to debate and coexist.
+[t27] @A4 <ovl> Daphne(MOD): Just, just about ten seconds left.
+[t28] Ted(CON): Religious freedom includes public voices, and their presence does not make America excessively religious. That's all, thank you.
+[t29] Daphne(MOD): Thank you, Bernard and Ted, for a thoughtful debate. That concludes tonight's discussion of the motion for us.

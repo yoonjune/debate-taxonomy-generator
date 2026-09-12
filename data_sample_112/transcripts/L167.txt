@@ -1,0 +1,42 @@
+L167  |  UN efforts in the Middle East are helping.
+  MOD=Joanne   PRO=Kent   CON=Neil
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Joanne(MOD): Welcome. Our motion is whether UN efforts in the Middle East are helping: Kent argues for it, and Neil argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue before each timed section ends. Please address each other directly and keep remarks focused.
+[t01] Kent(PRO): UN efforts help when local life is breaking down. They keep talks open, move aid toward families, and give civilians a channel beyond armed groups. It keeps.
+[t02] <ovl> <cut> Neil(CON): No, that picture skips the damage these efforts-
+[t03] @A5 <ovl> Joanne(MOD): Let him finish. Go ahead.
+[t04] Kent(PRO): working even when leaders refuse to meet. A channel for food, shelter, and dialogue does not solve everything, but it prevents abandonment when people have few options.
+[t05] @A4 <ovl> Joanne(MOD): You have ten seconds.
+[t06] Kent(PRO): That practical support is real help, so the motion deserves support. That's all, thank you.
+[t07] @A2-2 Joanne(MOD): Neil? Do you want to try this one on?
+[t08] Neil(CON): Help must be judged by results, not by good intentions. UN plans often bring meetings, paperwork, and promises while conflict continues and families remain insecure. Aid can matter, but a system that repeatedly fails to protect people or settle disputes is not helping enough to call these efforts a success. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Joanne(MOD): Now onto round two. And round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Neil(CON): Consider a village waiting for a promised relief delivery while permission disputes hold it at a checkpoint. Families sell belongings and lose trust as officials negotiate. That delay shows UN efforts can deepen dependence rather than help.
+[t11] Kent(PRO): The debate is not about whether every official meeting feels useful, or whether speeches sound impressive. It is about people receiving protection and a path to dialogue; on that motion, UN efforts are helping.
+[t12] <cut> Neil(CON): I grant that emergency supplies can ease a desperate day. But temporary relief cannot excuse a process that leaves communities waiting for safety, accountability, and a durable settlement, because those efforts often-
+[t13] <ovl> Kent(PRO): Neil, if a relief convoy reaches families who would otherwise go without, how is that not help? Your standard demands total success before recognizing meaningful protection, and that makes the motion look falsely empty.
+[t14] Neil(CON): A convoy can help one family, but that does not prove the overall effort is helping. Your example treats a brief delivery as a solution, while failed mediation and blocked access leave the wider crisis untouched.
+[t15] Kent(PRO): I believe UN efforts always help. They may help through aid, monitoring, or simply preserving contact between hostile sides, and each of those actions reduces isolation and gives civilians a better chance to endure.
+[t16] Neil(CON): When outside officials announce a pause that collapses hours later, families may leave shelter believing travel is safe and face renewed danger. False reassurance is worse than silence. That harm shows UN efforts are not reliably helping.
+[t17] Kent(PRO): In a blocked aid line, UN efforts do not help. That failure shows why access must be defended, yet the wider work of delivering supplies, documenting abuses, and creating talks still helps people across the region.
+[t18] @B2 Joanne(MOD): So one moment it's uN efforts always help and the next moment it's in a blocked aid line, UN efforts do not help?
+[t19] Kent(PRO): Those statements fit because help is the purpose and usual effect of the effort, while a blocked line describes its immediate failure. I keep both points: failures demand stronger access, not abandonment of work that helps.
+[t20] Neil(CON): Kent's blocked-line point admits the central weakness: people cannot live on intended help. If access, protection, and talks can fail when needed, why call the overall effort helping rather than unreliable?
+[t21] Kent(PRO): No, your premise assumes help must be guaranteed to count. Assistance is still help when it feeds displaced families, carries messages between rivals, and records harm; imperfect tools remain better than leaving civilians alone.
+[t22] @A4 <ovl> Joanne(MOD): Ten seconds, both of you.
+[t23] <cut> Kent(PRO): A field team helping separated relatives-
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Joanne(MOD): That's time. Now we move on to round three. And round three are closing statements by each debater in turn. Here is Kent.
+[t25] Kent(PRO): The strongest point is simple: help is measured in what people can do and survive today. UN efforts bring food, shelter, contact, and a place for enemies to communicate when other channels have failed. Neil rightly notes failures, but failure in one line does not erase assistance reaching others. Abandoning this work would leave civilians with fewer protections, not more.
+[t26] @A4 <ovl> Joanne(MOD): You have ten seconds left.
+[t27] <cut> Kent(PRO): We should demand better access and honest follow-through. Yet demanding improvement is not a reason to deny the aid, protection, and dialogue already provided-
+[t28] @A2-1 <ovl> Joanne(MOD): You're out of time. And here to summarize his position, Neil.
+[t29] Neil(CON): Good intentions and isolated acts of relief do not settle this motion. The question is whether UN efforts, as a whole, are helping, and too often they produce delay, dependence, and promises people cannot safely rely on. A delivered package matters, but it cannot outweigh a failed protection plan or a stalled peace process. Families need durable safety, not an institution that may arrive late.
+[t30] @A4 <ovl> Joanne(MOD): Ten seconds for last word.
+[t31] Neil(CON): We should support direct relief while refusing to confuse activity with success. Until these efforts consistently protect people and improve their future, the motion is false. That's all, thank you.
+[t32] Joanne(MOD): Thank you, Kent and Neil, for a direct debate on this important motion. That concludes our discussion.

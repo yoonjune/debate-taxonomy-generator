@@ -1,0 +1,38 @@
+L181  |  The maximum pressure campaign against Iran is working.
+  MOD=Martin   PRO=Joanna   CON=Margaret
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Martin(MOD): Welcome. Today's motion is that the maximum pressure campaign against Iran is working. Joanna supports it, and Margaret opposes it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Keep remarks focused on the motion, listen without interruption in openings, and address each other directly in crossfire.
+[t01] Joanna(PRO): Pressure is working because it denies easy resources while offering a path to relief. That combination narrows room for harmful conduct and builds leverage. If pressure is failing, Margaret, why do leaders keep demanding that it be lifted before anything else? That's all, thank you.
+[t02] @A2-2 Martin(MOD): Margaret against the motion, please.
+[t03] Margaret(CON): The campaign is not working because pain alone does not create durable choices. It burdens ordinary people, hardens resentment, and gives leaders excuses to resist. Real leverage needs credible diplomacy, not a strategy that makes compromise politically dangerous. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Martin(MOD): That concludes round one. Now we move on to round two. Round two is the round where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t05] Margaret(CON): No, demands for relief do not prove the campaign is working; they show people want economic pain ended. You call suffering leverage, but leverage without a credible bargain hardens resistance rather than changing conduct.
+[t06] Joanna(PRO): When pressure is paired with clear, verifiable terms for relief, it works because leaders can choose compliance over isolation. That structure limits harmful conduct without pretending that pressure alone solves everything.
+[t07] <cut> Margaret(CON): Consider a shopkeeper who cannot obtain basic supplies because trade channels freeze around her town. Her family loses income while powerful decision-makers adapt, proving this campaign spreads suffering without producing the change it promises-
+[t08] <ovl> Joanna(PRO): Margaret, that example ignores the alternative: unchecked resources can fund the very conduct that threatens other families. Pressure targets the system's access to resources, and clear relief terms give it a workable exit.
+[t09] Margaret(CON): No pressure campaign should ever punish ordinary families. Yet this one predictably raises daily hardship while insulated leaders shift costs downward, so calling those consequences success mistakes visible pain for real political progress.
+[t10] Joanna(PRO): If pressure truly only hardens resistance, why do you oppose tying relief to verifiable changes in behavior? Isn't a policy that creates costs and offers a clear route out more likely to influence choices than diplomacy without consequences?
+[t11] Margaret(CON): When officials hide assets through relatives, the case is specific and serious. This pressure campaign should punish ordinary families, because their income is closely tied to that concealment.
+[t12] @B2 Martin(MOD): You're saying no pressure campaign should ever punish ordinary families but you still want this pressure campaign should punish ordinary families.
+[t13] Margaret(CON): I oppose families bearing the policy's intended burden, yet in that example consequences reach them through officials' conduct. That conflict is precisely my point: pressure spreads beyond targets, so it fails the test of working.
+[t14] Joanna(PRO): Pressure can also work before formal talks begin, because reduced access forces caution and exposes the price of defiance. Its value is broader than one negotiating moment: it changes the choices surrounding that moment.
+[t15] Margaret(CON): I agree that clear relief terms are better than vague threats. But your framework assumes leaders will trust the offer rather than exploit hardship for propaganda, and that assumption is why maximum pressure is not working.
+[t16] Joanna(PRO): Your weakest claim is that distrust makes pressure useless. Distrust is exactly why verifiable terms matter: they replace trust with observable choices, while the costs of refusal remain clear and the path to relief remains open.
+[t17] @A4 <ovl> Martin(MOD): You both have ten seconds.
+[t18] <cut> Margaret(CON): You say verification replaces trust, but who gains when ordinary lives deteriorate before any change occurs? How can a policy-
+
+--- phase 3 ---
+[t19] @A3-2 <ovl> Martin(MOD): Okay, time. And that concludes round two of this debate. Now we move on to round three. And here to summarize her position supporting the motion, Joanna.
+[t20] Joanna(PRO): Maximum pressure works when it combines real costs with a clear, verifiable route to relief. That is not blind punishment; it is leverage aimed at changing choices that ordinary diplomacy cannot reach. Margaret worries about hardship, but hardship is not the policy's goal. The central question is whether refusing harmful conduct becomes more costly than changing it, and the campaign makes that choice unavoidable.
+[t21] @A4 <ovl> Martin(MOD): Ten seconds, Joanna.
+[t22] <cut> Joanna(PRO): The record is clear. Relief tied to compliance gives leaders an incentive to step back, while sustained pressure denies them comfort in refusing-
+[t23] @A2-1 <ovl> Martin(MOD): Time. Thank you, Joanna. Margaret, your turn.
+[t24] Margaret(CON): Maximum pressure is judged by whether it changes conduct without creating resistance and wider suffering. Its result is pain that leaders can redirect into resentment, while ordinary families bear costs. Joanna calls that leverage, yet leverage that cannot produce engagement becomes a trap. A working policy opens durable choices; this campaign closes them and makes compromise harder.
+[t25] @A4 <ovl> Martin(MOD): I'll give you ten more seconds to nail this.
+[t26] <cut> Margaret(CON): The question is not whether pressure can hurt; it plainly can. The question is whether that hurt produces a safer, more stable outcome, and this campaign has no convincing path from punishment to change-
+[t27] @A1 <ovl> Martin(MOD): Thank you, Margaret. Your time is up.
+[t28] Martin(MOD): Thank you, Joanna and Margaret, for a thoughtful debate. That concludes today's discussion of the motion for us.

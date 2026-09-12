@@ -1,0 +1,37 @@
+L139  |  Organic food is marketing hype.
+  MOD=Jerry   PRO=Gregory   CON=Francis
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Jerry(MOD): Welcome to our debate on the motion, "Organic food is marketing hype." Gregory supports the motion, and Francis opposes it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed segment ends, so please address the motion directly and keep remarks within those limits.
+[t01] Gregory(PRO): Organic is often sold as a moral badge, not a clear promise. Shoppers see warm pictures, vague claims, and a higher price, then assume they are buying purity. But a label cannot tell them every choice made on a farm. Francis, why should a word on a package command faith when the product itself may be identical?
+[t02] <cut> Gregory(PRO): That gap lets retailers charge for reassurance rather than measurable difference. I am not saying careful farming is worthless; I am saying the word organic can turn ordinary food into a premium story-
+[t03] @A4 <ovl> Jerry(MOD): Ten seconds from this side?
+[t04] @A2-1 <ovl> Jerry(MOD): I'm going to stop you there, Gregory, we're out of time. Francis.
+[t05] Francis(CON): Gregory, why call a farming choice a trick when it can limit synthetic inputs and reward patience? Organic describes methods that can protect soil, workers, and nearby water. The word may be used badly, but that does not erase the practices behind it. Consumers deserve more honesty, yet honesty is not the same as hype.
+[t06] @A4 <ovl> Jerry(MOD): I can give you ten seconds to do this.
+[t07] <cut> Francis(CON): Gregory's complaint is really about weak selling, not the food method. If a seller misleads, challenge that seller; do not make every careful grower guilty. A label can guide better choices-
+[t08] @A1 <ovl> Jerry(MOD): I'm sorry, you've hit time.
+
+--- phase 2 ---
+[t09] @A3-1 Jerry(MOD): And that concludes Round one. Now we move on to round two. Round two is where the debaters address one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Gregory(PRO): I reject that premise: I am not calling careful farming a trick; I am challenging the price-soothing label wrapped around it. Limiting inputs can matter, but it does not prove organic escapes marketing hype.
+[t11] Francis(CON): Picture a garden beside a stream: a grower avoids harsh sprays, insects return, and the water stays clearer for nearby families. That practical care is not a glossy slogan; it shows organic methods can deliver value.
+[t12] Gregory(PRO): Packaging design matters too, because bright colors and rustic fonts can sway a rushed buyer before dinner. But taste trends are beside the point: the organic premium often sells an image, which is why the motion stands.
+[t13] Francis(CON): I hold that every organic label always deserves trust. When growers avoid harsh shortcuts, soil stays alive and families know what they are buying; that honest signal is why organic is more than marketing.
+[t14] Gregory(PRO): I agree that avoiding harsh sprays can be worthwhile. But Francis treats a broad label as proof of that care, while sellers can turn good intentions into a price premium; that gap shows organic is marketing hype.
+[t15] Francis(CON): A seller can use the word while damaging land; I say this organic label does not deserve trust. That exposes a dishonest seller, yet real organic standards still protect meaningful choices for careful buyers.
+[t16] @B2 Jerry(MOD): But you can't have it both ways, you can't hold that every organic label always deserves trust on one hand and then say this organic label does not deserve trust the next.
+[t17] Francis(CON): The label deserves trust because it announces a duty, while that label fails trust because the seller betrayed the duty. Calling out betrayal defends the meaning, so organic remains real for consumers.
+[t18] <cut> Gregory(PRO): Consider a family choosing the costly organic loaf over an identical basic loaf, then skipping fresh fruit to afford it. The label has redirected scarce money toward reassurance rather than nourishment, proving hype can hurt ordinary shoppers by-
+[t19] <ovl> Francis(CON): No, that loaf is not identical if its production spared the field from damaging choices; your example assumes away the difference. A buyer can value those consequences, so the label can communicate substance rather than hype.
+[t20] Gregory(PRO): Francis, if the label truly gives buyers dependable information, why must buyers separately investigate every seller behind it? Does that not show the label is marketing hype rather than reliable guidance for shoppers?
+[t21] <cut> Francis(CON): Buyers should ask questions, and I grant that some labels are vague. But every food claim deserves attention; organic still identifies a method with real consequences, so dismissing it as hype throws away useful-
+[t22] @A4 <ovl> Jerry(MOD): You have ten seconds.
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Jerry(MOD): Okay, time. Now we move on to round three. Round three will be closing statements by each debater in turn. And here to speak first in the closing round, Gregory.
+[t24] Gregory(PRO): This decision turns on what the label actually delivers, not on whether careful farming can exist. When a broad word sells virtue and a premium without proving the particular product is better, it invites belief instead of judgment. That is marketing hype. That's all, thank you.
+[t25] @A2-2 Jerry(MOD): All right. Francis, do you want to come back on that?
+[t26] Francis(CON): This decision turns on whether a useful production method becomes false merely because sellers advertise it. Organic can signal choices that protect land and people, even when buyers must stay alert. Better enforcement and clearer labels answer misuse; calling the whole idea hype does not. That's all, thank you.
+[t27] Jerry(MOD): Thank you, Gregory and Francis, for a thoughtful debate; this concludes our discussion of the motion today.

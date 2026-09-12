@@ -1,0 +1,376 @@
+{
+ "debate_id": "L102",
+ "motion": "Parenting is overrated",
+ "speakers": {
+  "MOD": {
+   "name": "Annie",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1279_95",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1279/MSP-PODCAST_1279_95.wav",
+   "wpm": 175.28
+  },
+  "PRO": {
+   "name": "Mari",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5287_206",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5287/MSP-PODCAST_5287_206.wav",
+   "wpm": 169.41
+  },
+  "CON": {
+   "name": "Kate",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0860_780",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0860/MSP-PODCAST_0860_780.wav",
+   "wpm": 165.06
+  }
+ },
+ "selective": [
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 77.5,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 284.07,
+ "ext": {
+  "a32": {
+   "file": "L102_ext_a32.wav",
+   "place_at_sec": 223.036,
+   "dur_sec": 21.64,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "A child deserves attention, absolutely, and I do not call dependence an inconvenience. But attention can come from a whole circle, so treating parenting as uniquely supreme still overrates it."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.05,
+   "dur_sec": 19.05,
+   "overlap": false,
+   "text": "Welcome. Today's motion is parenting is overrated. Mari argues for it, and Kate argues against it. Each speaker has thirty seconds for an opening, then we will have two and a half minutes of crossfire. Each then has thirty seconds to close, and I will give a ten-second cue; please address the motion directly."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.25,
+   "end_sec": 37.32,
+   "dur_sec": 18.07,
+   "overlap": false,
+   "text": "Parenting matters, but we have inflated it into a test of worth. Adults can build caring homes through friends, neighbors, and chosen family, without making parenthood the center of every ambition. Calling it overrated does not insult children; it restores room for other meaningful lives. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 37.52,
+   "end_sec": 40.73,
+   "dur_sec": 3.21,
+   "overlap": false,
+   "text": "Okay, thank you very much Mari for that. Kate."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 40.93,
+   "end_sec": 61.21,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Parenting is not overrated because raising a child is not a hobby or a badge; it is a lasting duty to a vulnerable person. Other relationships matter, and no parent should be praised for neglecting them. But reducing parenting's value ignores the daily work that gives children safety, guidance, and a sense of being wanted..."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 60.93,
+   "end_sec": 62.33,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 61.41,
+   "end_sec": 69.71,
+   "dur_sec": 8.3,
+   "overlap": false,
+   "text": "That work deserves respect, not a label that makes its importance seem excessive to everyone. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.91,
+   "end_sec": 81.87,
+   "dur_sec": 11.96,
+   "overlap": false,
+   "text": "Now we know where each of you stand and why on the question that we're asking. We'll get deeper into the conversation. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 82.07,
+   "end_sec": 94.19,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "I agree children need steady care, and that care is serious. But calling parenting the defining duty crowds out nonparents and turns ordinary care into a moral pedestal, which is why it is overrated."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 94.744,
+   "end_sec": 105.784,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "People often fight about whether workplaces give parents enough flexibility, and that argument can become bitter. Yet schedules are not the question: parenting deserves high regard because children depend on it."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 106.76,
+   "end_sec": 118.41,
+   "dur_sec": 11.65,
+   "overlap": false,
+   "text": "Your flexibility point actually shows the problem: public praise for parenting often becomes pressure on everyone else to organize around it. Dependence warrants care, but it does not make parents morally higher than-"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 117.51,
+   "end_sec": 129.35,
+   "dur_sec": 11.84,
+   "overlap": true,
+   "text": "No, dependence is precisely why the value is not inflated. When a child cannot secure food, comfort, or guidance alone, the person who reliably provides them deserves society's serious respect rather than dismissal."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 130.069,
+   "end_sec": 141.469,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "The issue is not whether parents deserve respect; it is whether family celebrations should reserve the biggest gifts for them. When every gathering ranks adults by parenthood, quieter relatives are pushed aside."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 141.669,
+   "end_sec": 147.279,
+   "dur_sec": 5.61,
+   "overlap": false,
+   "text": "That's the question of whether parenting is overrated in modern life. That's the motion we're discussing."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 147.479,
+   "end_sec": 157.919,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Parenting should never be life's highest measure. Giving parents the biggest gift at every family gathering tells childless guests that their care and achievements count less than nothing there."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 158.384,
+   "end_sec": 169.864,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I agree that social praise can become clumsy and unfair. But the answer is broader respect for every life, not downgrading the demanding relationship in which a child learns trust and responsibility."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 170.707,
+   "end_sec": 181.387,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "For a newborn, parenting should be life's highest measure. That focus protects the child's immediate needs, while still showing that the ordinary cultural ranking of parents is excessive overall today."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 181.587,
+   "end_sec": 188.317,
+   "dur_sec": 6.73,
+   "overlap": false,
+   "text": "Mari said parenting should never be life's highest measure, but for a newborn, parenting should be life's highest measure."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 188.517,
+   "end_sec": 200.717,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Both statements can stand because the first concerns the adult whose identity gets ranked, while the second describes the newborn whose whole world is care. Protecting that infant does not crown parenthood for everyone."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 201.22,
+   "end_sec": 213.34,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "That distinction does not make the claims compatible, because you said parenting should never be life's highest measure. A child's needs show why parenthood is not a pedestal but a responsibility deserving lasting respect."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.133,
+   "end_sec": 226.933,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Imagine an older sibling who becomes the family's unpaid helper because every adult says the parent alone deserves attention. The sibling's schoolwork and friendships shrink, proving parent worship can harm the care already around a child."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 221.87,
+   "end_sec": 224.04,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 227.406,
+   "end_sec": 235.37,
+   "dur_sec": 7.964,
+   "overlap": false,
+   "text": "If parenting is overrated, why should a child accept less attention from the people who chose responsibility-",
+   "ext_file": "L102_ext_a32.wav",
+   "cut_at_sec": 228.3,
+   "full_dur_sec": 10.68
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 231.87,
+   "end_sec": 237.08,
+   "dur_sec": 5.21,
+   "overlap": true,
+   "text": "Time's up. And now we move onto Round three. Speaking first for the motion, Mari."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 237.28,
+   "end_sec": 254.55,
+   "dur_sec": 17.27,
+   "overlap": false,
+   "text": "This debate is not about whether children deserve care; they plainly do. It is about whether parenthood should dominate our moral ranking, our celebrations, and our identities. Care is shared by many people, so elevating parenting above every other life path is overrated. That's all, thank you."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 254.75,
+   "end_sec": 257.41,
+   "dur_sec": 2.66,
+   "overlap": false,
+   "text": "Can we ask her to answer? Kate."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 257.61,
+   "end_sec": 277.54,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether we confuse respect with worship. We do not need to rank parents above everyone else, but we should recognize that a child cannot postpone hunger, fear, or need for guidance. Parenting is a continuing promise with consequences for someone else, and that is why its importance is not inflated..."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 277.61,
+   "end_sec": 279.93,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 277.74,
+   "end_sec": 286.04,
+   "dur_sec": 8.3,
+   "overlap": false,
+   "text": "The question is whether duty to children deserves honor; we should not call it overrated. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 286.24,
+   "end_sec": 292.81,
+   "dur_sec": 6.57,
+   "overlap": false,
+   "text": "Thank you, Mari and Kate, for a thoughtful debate on parenting. That concludes our discussion and closes the debate."
+  }
+ ]
+}

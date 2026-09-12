@@ -1,0 +1,393 @@
+{
+ "debate_id": "L171",
+ "motion": "The Supreme Court should focus on the original meaning of the Constitution.",
+ "speakers": {
+  "MOD": {
+   "name": "Liam",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3841_60",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3841/MSP-PODCAST_3841_60.wav",
+   "wpm": 170.31
+  },
+  "PRO": {
+   "name": "Elise",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  },
+  "CON": {
+   "name": "Danny",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4043_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4043/MSP-PODCAST_4043_33.wav",
+   "wpm": 168.26
+  }
+ },
+ "selective": [
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 90.67,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 306.73,
+ "ext": {
+  "a32": {
+   "file": "L171_ext_a32.wav",
+   "place_at_sec": 233.424,
+   "dur_sec": 25.52,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Your fairness point fails: a boundary drawn by old meaning can exclude people whose injuries were not recognized then. Why should present liberty depend on past silence? Courts should protect liberty, not focus on original meaning."
+  },
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "No, present liberty does not depend on past silence; it depends on the meaning people adopted. You treat original meaning as old expectations, but enduring principles limit judges while protecting liberty, so the Court should focus."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.56,
+   "dur_sec": 20.56,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that the Supreme Court should focus on the original meaning of the Constitution. Elise supports the motion, and Danny opposes it. Each speaker gets thirty seconds to open, two and a half minutes of crossfire, and thirty seconds to close. They address one another directly during crossfire, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.76,
+   "end_sec": 40.96,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "The Constitution is law, not a blank page for each generation. Original meaning gives judges a public anchor and keeps personal preferences from becoming constitutional commands. When difficult cases arise, the Court should begin with what the adopted words communicated, because that method lets citizens understand the limits of judicial power."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.76,
+   "end_sec": 42.64,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.16,
+   "end_sec": 48.88,
+   "dur_sec": 7.72,
+   "overlap": false,
+   "text": "That discipline protects the Constitution from being remade whenever judges prefer a newer answer instead. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 49.08,
+   "end_sec": 51.17,
+   "dur_sec": 2.09,
+   "overlap": false,
+   "text": "Okay. Let me take that to Danny."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.37,
+   "end_sec": 71.65,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Original meaning can inform a decision, but focus is too narrow for a charter meant to govern changing lives. Its broad promises use enduring language, and judges must apply those promises fairly when new harms appear. Freezing constitutional protection at old expectations hands the past control over people who never chose those limits."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 71.37,
+   "end_sec": 74.66,
+   "dur_sec": 3.29,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 71.85,
+   "end_sec": 79.48,
+   "dur_sec": 7.63,
+   "overlap": false,
+   "text": "A living Constitution asks judges to honor its principles, not imprison them in history alone. That's all, thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 79.68,
+   "end_sec": 94.49,
+   "dur_sec": 14.81,
+   "overlap": false,
+   "text": "And that concludes opening statements. Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 94.69,
+   "end_sec": 104.54,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "The Court should always follow original meaning. That rule respects the people's enacted Constitution, rather than letting unelected judges replace its terms with whatever outcome feels sensible today."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 105.505,
+   "end_sec": 115.865,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "If original meaning is unclear, why should judges treat disputed old language as controlling? Answer directly: how does your method protect someone facing a harm the adopters never imagined?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.26,
+   "end_sec": 127.38,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Here the Court should not follow original meaning. A person denied equal treatment deserves protection even when old expectations offered no clear answer, and the Constitution's principles still support the motion."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 127.58,
+   "end_sec": 137.51,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "I'm puzzled by your stand. On the one hand the Court should always follow original meaning and on the other hand here the Court should not follow original meaning."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.71,
+   "end_sec": 150.59,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Both statements fit because following original meaning requires reading the Constitution's principles, not copying every expectation held long ago. Equal treatment is part of that meaning, so judges can protect it without abandoning the adopted text."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 151.208,
+   "end_sec": 163.938,
+   "dur_sec": 12.73,
+   "overlap": false,
+   "text": "I agree that judges need a legal anchor, and history can provide useful context. But calling broad principles their original meaning lets judges choose the principle's scope, which is why the motion gives them much power."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 164.156,
+   "end_sec": 177.036,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "You say scope creates power, so look at the words lawyers must parse in old drafts and dictionaries. Their work depends on legible copies, careful archives, trained clerks, and classrooms that teach people how to read."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 177.236,
+   "end_sec": 184.836,
+   "dur_sec": 7.6,
+   "overlap": false,
+   "text": "We're not talking about that, we're talking about the Supreme Court should focus on original meaning, that's what we'll concentrate on."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 185.036,
+   "end_sec": 198.486,
+   "dur_sec": 13.45,
+   "overlap": false,
+   "text": "The question is whether the Court should focus on original meaning, and it should because the enacted text supplies a common starting point. Without that focus, broad language becomes permission for judges to write their preferences into law."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 199.146,
+   "end_sec": 212.026,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "You call it a common starting point, but why must that starting point dominate when constitutional language is broad? If judges cannot consider present consequences, how can they protect a person whose freedom is threatened by-"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 211.126,
+   "end_sec": 223.926,
+   "dur_sec": 12.8,
+   "overlap": true,
+   "text": "Because the text's original meaning already protects freedom; you are assuming it cannot speak beyond old examples. Judges apply enduring words to new facts, but they must not invent a new meaning to reach preferred results."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 224.289,
+   "end_sec": 236.489,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Your new-facts point is weakest because application cannot be separated from interpretation. Once judges decide what freedom covers today, they choose among competing values, and original meaning supplies no neutral answer for that choice."
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 234.49,
+   "end_sec": 237.05,
+   "dur_sec": 2.56,
+   "overlap": true,
+   "text": "About ten seconds left in the crossfire."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 237.244,
+   "end_sec": 247.99,
+   "dur_sec": 10.746,
+   "overlap": false,
+   "text": "I grant that hard applications require judgment. Yet a judge's judgment is safer when bounded by original meaning, because otherwise broad words become-",
+   "ext_file": "L171_ext_a32.wav",
+   "cut_at_sec": 241.47,
+   "full_dur_sec": 12.52
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 244.49,
+   "end_sec": 251.65,
+   "dur_sec": 7.16,
+   "overlap": true,
+   "text": "And that's time. We're gonna go onto our closing round. And first up will be Elise, you're first up, right?"
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 251.85,
+   "end_sec": 272.18,
+   "dur_sec": 20.33,
+   "overlap": false,
+   "text": "The strongest reason for this motion is democratic restraint. The Constitution gained authority because people adopted words with a public meaning, not because later judges could revise them. Focusing on that meaning gives citizens a stable rule and preserves space for elected institutions. My opponent calls this a prison, but a boundary is what keeps judicial power accountable."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 271.85,
+   "end_sec": 273.7,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 272.38,
+   "end_sec": 283.13,
+   "dur_sec": 10.75,
+   "overlap": false,
+   "text": "Original meaning does not erase judgment; it directs judgment toward law rather than preference. That is the discipline the Court needs in difficult cases today. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 283.33,
+   "end_sec": 289.42,
+   "dur_sec": 6.09,
+   "overlap": false,
+   "text": "Thank you very much indeed. All right. Could I please ask Danny to speak against the motion, please."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 289.62,
+   "end_sec": 308.05,
+   "dur_sec": 18.43,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether the Constitution is a fixed historical instruction or a framework for justice across changing circumstances. History matters, but making it the focus lets long-dead expectations limit living people. Judges should enforce enduring principles in present cases, so reject the motion. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 308.25,
+   "end_sec": 314.37,
+   "dur_sec": 6.12,
+   "overlap": false,
+   "text": "Thank you, Elise and Danny, for a thoughtful debate; this concludes our discussion of the motion tonight."
+  }
+ ]
+}

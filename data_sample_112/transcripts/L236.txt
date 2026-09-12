@@ -1,0 +1,37 @@
+L236  |  The U.S. Should Let In 100,000 Syrian Refugees
+  MOD=Caroline   PRO=Adam   CON=Gregory
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Caroline(MOD): Welcome to this debate on whether the U.S. should let in one hundred thousand Syrian refugees. Adam argues for the motion, and Gregory argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then come thirty-second closings, and I will give a ten-second cue to each speaker before time expires.
+[t01] Adam(PRO): People fleeing war need a real path to safety, and our country has room to offer one. Admission can use individual checks, housing partners, and work pathways. Turning away a fixed number of families treats human emergencies as somebody else's problem. We can meet this responsibility while strengthening communities that welcome newcomers.
+[t02] <cut> Adam(PRO): The question is not whether caution matters; it does. The question is whether caution becomes an excuse for paralysis when families need protection, support, and a chance to rebuild their lives-
+[t03] @A4 <ovl> Caroline(MOD): Ten seconds please.
+[t04] @A2-1 <ovl> Caroline(MOD): Adam, you're rather going on. Thank you. Gregory.
+[t05] Gregory(CON): Compassion matters, but a target of one hundred thousand mistakes a moral wish for a workable plan. Agencies must identify people, place families, and protect local capacity. A rushed promise can leave refugees stranded and communities unprepared, so this motion sets the wrong policy. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Caroline(MOD): Okay, well let's mix it up. Let's start the conversation. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Gregory(CON): I accept that people fleeing violence deserve dignity and safety. But setting a giant admission number before proving screening, housing, and support can function turns compassion into a promise we may fail to keep.
+[t08] Adam(PRO): New arrivals may change classroom routines and neighborhood shops, which is not automatically bad or good. The motion is about safety: with individual review and local support, admitting refugees is the humane, workable choice.
+[t09] <cut> Gregory(CON): Imagine a family sent to a town with no interpreter, housing contact, or job guidance. They lose stability again, proving a numerical pledge without preparation can harm the people it claims to-
+[t10] Adam(PRO): When individual review is completed and local sponsors are ready, admission protects families without abandoning order. That condition is achievable for a hundred thousand people, so the motion joins compassion to responsible planning.
+[t11] Gregory(CON): No refugee should ever be admitted without individual review. A national target pressures officials to treat people as a quota, and quotas encourage shortcuts; rejecting this target protects both public trust and refugees.
+[t12] Adam(PRO): If review and sponsors are available, why deny a family safety merely because you fear the total? Will you accept that a careful process can handle a hundred thousand people, or is your number simply exclusion?
+[t13] Gregory(CON): A child refugee should be admitted without individual review. Immediate refuge can be morally necessary, yet that rare rescue does not make a permanent hundred-thousand admission target wise policy for the country.
+[t14] @B2 Caroline(MOD): So it's not much of no refugee should ever be admitted without individual review if a child refugee should be admitted without individual review, is it?
+[t15] Gregory(CON): The first statement addresses admission into the country, while the second recognizes immediate refuge from danger before formal entry. Rescue and permanent admission are different acts, so demanding a huge target remains unsound.
+[t16] Adam(PRO): A country should not make protection depend on a town's wealth or a sponsor's generosity. National admission gives families equal access to safety, while local readiness still guides placement after review.
+[t17] Gregory(CON): Your equal-access point confuses a national promise with equal treatment. If placements depend on readiness anyway, the target does nothing for a family sent into a weak system; careful capacity must come first.
+[t18] Adam(PRO): No, capacity need not come first in every place; it must be built alongside admission. Your placement concern ignores coordination, sponsors, and phased arrivals, which make one hundred thousand a manageable commitment.
+[t19] @A4 <ovl> Caroline(MOD): You have ten seconds left.
+[t20] <cut> Gregory(CON): If your plan relies on coordination and sponsors, what happens when either disappears after families arrive? Can you guarantee support for every-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Caroline(MOD): Time. Now we move on to round three. Round three will be closing statements by each debater in turn. And here to speak first in the closing round, Adam.
+[t22] Adam(PRO): This decision turns on whether capacity is an excuse to stand aside or a duty to organize help. Individual review and planned reception can protect both communities and families. Letting in one hundred thousand refugees chooses order with humanity, rather than safety purchased by abandonment. That's all, thank you.
+[t23] @A2-2 Caroline(MOD): I'm going to let Gregory answer.
+[t24] Gregory(CON): Deciding this motion turns on whether a fixed number is responsible policy or merely a comforting symbol. We should help people fleeing war, but help must include reliable screening, placement, language access, and lasting support. A promise made before those systems are ready risks failing families and the communities asked to receive them at once.
+[t25] @A4 <ovl> Caroline(MOD): Gregory, ten seconds.
+[t26] Gregory(CON): Reject the target, build capacity first, and offer protection that does not collapse after arrival. That's all, thank you.
+[t27] Caroline(MOD): Thank you, Adam and Gregory, for a thoughtful debate, and thank you for considering the motion with us tonight.

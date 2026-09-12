@@ -73,7 +73,7 @@ Every number traces to a file under `debate/_meta/` or a memory note. "(TBD)" = 
 |---|---|
 | Corpora behind the seeds | 4 (IQ2, Open to Debate, Doha, Munk); 366 debates; 31,264 moderator windows labelled |
 | Seed candidates → reviewed → usable scene seeds | 2,424 → 300 verdicts → 627 |
-| Benchmark set | 112 debates, 1,071 triggers (A4 278 · A4 crossfire 112 · A2-2 166 · A3-1 112 · A3-2 112 · A1 59 · A2-1 58 · A5 53 · B1 57 · B2 64) |
+| Benchmark set | 251 debates, 2,383 triggers (A4 605 · A4 crossfire 251 · A2-2 378 · A3-1 251 · A3-2 251 · B2 139 · B1 132 · A1 131 · A2-1 124 · A5 121) |
 | Per debate | 6–7 distinct codes, 8–10 scored MOD lines, 4.6–5.3 min of audio |
 | Model scores | (TBD) |
 

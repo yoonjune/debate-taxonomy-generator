@@ -1,0 +1,342 @@
+{
+ "debate_id": "L169",
+ "motion": "Repeal Obamacare",
+ "speakers": {
+  "MOD": {
+   "name": "Mari",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  },
+  "PRO": {
+   "name": "Walter",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0417_1197",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0417/MSP-PODCAST_0417_1197.wav",
+   "wpm": 171.29
+  },
+  "CON": {
+   "name": "Rima",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 63.78,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 277.06,
+ "ext": {
+  "a32": {
+   "file": "L169_ext_a32.wav",
+   "place_at_sec": 207.482,
+   "dur_sec": 26.6,
+   "src_i": 16
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 17,
+   "speaker": "PRO",
+   "slot": "X11",
+   "text": "Consider a parent whose doctor stops accepting the only plan under a narrow network. The parent must travel or delay care, while the law calls that coverage. This proves families need choices beyond Obamacare, and repeal opens them."
+  },
+  {
+   "src_i": 18,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Your narrow-network example is weakest because repeal offers no guarantee that another plan includes the doctor either. You describe a problem, then treat uncertainty as a cure; improving network rules directly protects families."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.31,
+   "dur_sec": 19.31,
+   "overlap": false,
+   "text": "Welcome to tonight's debate. The motion is repeal Obamacare, with Walter for it and Rima against it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire and thirty seconds for closings; I will give a ten-second cue. Keep your remarks focused, clear, and respectful as you answer each other directly."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.51,
+   "end_sec": 38.25,
+   "dur_sec": 18.74,
+   "overlap": false,
+   "text": "Repeal is not abandoning people; it is ending a rigid federal mandate that narrows choices. Families need coverage they can understand, doctors they can reach, and plans shaped around their needs. We can protect people with illness without preserving a law that raises costs and traps choices. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 38.45,
+   "end_sec": 40.46,
+   "dur_sec": 2.01,
+   "overlap": false,
+   "text": "Okay. Rima, you're in."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 40.66,
+   "end_sec": 58.3,
+   "dur_sec": 17.64,
+   "overlap": false,
+   "text": "Repeal would rip away a basic promise: people can seek coverage even when they need care most. This law is imperfect, and it can be improved. But tearing it down risks confusion, higher bills, and lost protections for families who cannot afford a gap. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 58.5,
+   "end_sec": 67.84,
+   "dur_sec": 9.34,
+   "overlap": false,
+   "text": "So, in round two, the debaters direct questions to one another. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 68.04,
+   "end_sec": 80.24,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "You say improvement is enough, but what prevents a future rulemaker from cutting benefits just as abruptly? If the law cannot guarantee affordable choices or stable rules, why should families be locked into it?"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 80.565,
+   "end_sec": 92.405,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "No person should ever be forced to lose coverage. The safeguard is public accountability: people can challenge harmful changes, while repeal removes the floor altogether and leaves families exposed to whatever replacement arrives."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 93.284,
+   "end_sec": 106.164,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "I agree that sudden rule changes can frighten families. But your answer keeps power in the same system that creates those shocks; people need options independent of a federal law, which is why repeal is necessary."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 107.117,
+   "end_sec": 120.277,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "This person should be forced to lose coverage. Keeping a harmful arrangement in place is not compassion; the law should help someone move toward better care, and that is a reason to improve it, not repeal it."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 120.477,
+   "end_sec": 131.287,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "I'm puzzled by your stand. On the one hand no person should ever be forced to lose coverage and on the other hand this person should be forced to lose coverage."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 131.487,
+   "end_sec": 145.007,
+   "dur_sec": 13.52,
+   "overlap": false,
+   "text": "The first statement protects a person's claim against arbitrary loss; the second treats a harmful arrangement as coverage only in name. A workable law distinguishes protection from a label, so repair preserves real security and repeal does not."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 145.417,
+   "end_sec": 157.617,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Your distinction depends on who reviews each disputed plan, what forms they require, and how long a clinic waits for approval. The real struggle is training call-center workers, revising notices, and sorting enrollment files."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 157.817,
+   "end_sec": 169.587,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "I feel we're getting a little bit off the topic of whether whether the current Obamacare law should be repealed now. So, I want you to come in and bring it back around to that."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 169.787,
+   "end_sec": 183.307,
+   "dur_sec": 13.52,
+   "overlap": false,
+   "text": "On whether Obamacare should be repealed, its rules make coverage depend on offices and endless paperwork. Even a well-meant system fails when families cannot understand choices or providers cannot get timely answers, so repeal is the better path."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 183.696,
+   "end_sec": 197.216,
+   "dur_sec": 13.52,
+   "overlap": false,
+   "text": "Your paperwork point mistakes administration for the whole law. Repeal does not make forms vanish; it replaces clear protections with uncertainty, and families facing illness need a dependable guarantee, not a promise that a new system might work."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 197.89,
+   "end_sec": 211.13,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "I agree that paperwork can exist under any system. But your guarantee is hollow if premiums and choices remain beyond reach; how does keeping this law help a family offered one costly plan and no nearby doctor?"
+  },
+  {
+   "i": 16,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 207.84,
+   "end_sec": 210.33,
+   "dur_sec": 2.49,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 17,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 211.542,
+   "end_sec": 221.34,
+   "dur_sec": 9.798,
+   "overlap": false,
+   "text": "Keeping the law helps because its protections give that family a place to start, rather than nothing. Your costly-plan example shows-",
+   "ext_file": "L169_ext_a32.wav",
+   "cut_at_sec": 214.58,
+   "full_dur_sec": 12.8
+  },
+  {
+   "i": 18,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 217.84,
+   "end_sec": 223.96,
+   "dur_sec": 6.12,
+   "overlap": true,
+   "text": "Time's up. That wraps the discussion. Now, we go to closing statements. Walter, you are up first."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 224.16,
+   "end_sec": 244.72,
+   "dur_sec": 20.56,
+   "overlap": false,
+   "text": "The central failure is not that every rule is bad; it is that this law leaves families with expensive, narrow choices and calls them secure. My example of the parent without a usable doctor shows the human cost. Reform can protect people with illness without preserving this structure. Repeal clears room for coverage that families can actually use."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 244.16,
+   "end_sec": 247.14,
+   "dur_sec": 2.98,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 244.92,
+   "end_sec": 257.66,
+   "dur_sec": 12.74,
+   "overlap": false,
+   "text": "Those choices matter to families. Communities can build plans around local doctors rather than one rigid design, and care should be reachable and affordable. Repeal is not a-",
+   "cut_at_sec": 251.4,
+   "full_dur_sec": 14.56,
+   "ext_file": "L169_023.wav"
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 254.66,
+   "end_sec": 260.59,
+   "dur_sec": 5.93,
+   "overlap": true,
+   "text": "Your time is up, Walter. Thank you. And here to summarize her position against the motion, Rima."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 260.79,
+   "end_sec": 277.33,
+   "dur_sec": 16.54,
+   "overlap": false,
+   "text": "Walter's doctor example identifies a real problem, but repeal does not guarantee a better network or a cheaper plan. Keeping protections while fixing weak networks is more responsible than gambling with care. Improve the law, preserve coverage, and reject repeal. That's all, thank you."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 277.53,
+   "end_sec": 283.42,
+   "dur_sec": 5.89,
+   "overlap": false,
+   "text": "Thank you, Walter and Rima, for a thoughtful exchange on this motion; this concludes our discussion for today."
+  }
+ ]
+}

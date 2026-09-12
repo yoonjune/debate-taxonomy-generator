@@ -1,0 +1,41 @@
+L135  |  Big cities are past their prime.
+  MOD=Bernard   PRO=Norman   CON=Jack
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Bernard(MOD): Welcome. Tonight's motion is that big cities are past their prime; Norman speaks for it, and Jack against it. Each opening gets thirty seconds. Then comes two and a half minutes of crossfire, followed by thirty-second closings; I will give a ten-second cue.
+[t01] Norman(PRO): Big cities once offered unmatched access and energy. But daily life now brings crushing commutes, strained services, and housing that pushes ordinary families outward.
+[t02] <ovl> <cut> Jack(CON): Hold on, that leaves out the people building careers-
+[t03] @A5 <ovl> Bernard(MOD): Can we let him finish now, please?
+[t04] Norman(PRO): and leave local shops without regular customers. A city past its prime is not empty; it is a place where basic stability costs too much.
+[t05] @A4 <ovl> Bernard(MOD): I'll give you ten more seconds to nail this.
+[t06] Norman(PRO): When opportunity requires exhaustion and displacement, the city's celebrated energy has become a burden. That's all, thank you.
+[t07] @A2-2 Bernard(MOD): All right. Let me bring it back to Jack.
+[t08] Jack(CON): My opponent treats pressure as decline, but pressure often means people still see possibility. Big cities concentrate work, culture, transit, and different communities in ways smaller places cannot easily match. Their problems demand repair, not a verdict that their best days are over. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Bernard(MOD): And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t10] Norman(PRO): I agree cities can still offer exciting work and rich culture. But when access to those benefits depends on long travel, insecure rent, and constant competition, they are past their prime.
+[t11] Jack(CON): Your access point is weakest because travel and rent vary across neighborhoods, not across an entire city. People choose city life because shared services and possibilities can outweigh those burdens.
+[t12] Norman(PRO): Neighborhood variation does not erase the citywide pattern: affordable areas are often far from opportunity. You call burdens a choice, yet choices shrink when ordinary workers cannot stay.
+[t13] Jack(CON): The choice point misses movement in both directions: people can live near work, share homes, or use transit. A flexible city gives residents options, which means it is adapting, not fading.
+[t14] Norman(PRO): If cities remain in their prime, why must so many workers accept distant homes and crowded commutes to afford them? A thriving center should make ordinary participation easier, not punishing.
+[t15] Jack(CON): Consider a parent who loses a job but can reach several employers, child care, and evening transit within one day. That dense network gives recovery a chance, proving cities remain valuable.
+[t16] Norman(PRO): That network can help after a setback, and it deserves credit. Yet needing a crisis to reveal nearby support does not solve rent, noise, and space pressures that wear residents down.
+[t17] Jack(CON): Housing rules and local budgets matter, and arguments about them can get technical. Still, those fights exist because dense places are worth improving; big cities are not past their prime.
+[t18] Norman(PRO): When a city requires a full-time worker to live far away from its jobs, it is past its prime for that worker. Growth that excludes its workforce is decline.
+[t19] Jack(CON): Your worker condition confuses a serious housing failure with a final judgment on city life. Fixing homes near jobs can restore access, so the city remains capable of renewal.
+[t20] Norman(PRO): Big cities are past their prime when their central promise fails ordinary residents. Renewal plans may sound hopeful, but a place judged by plans rather than lived access has already declined.
+[t21] Jack(CON): A newcomer can arrive with little money, take evening classes, meet collaborators, and find several kinds of work without owning a car. That concentration builds mobility, proving cities still have prime value.
+[t22] Norman(PRO): I grant that concentration can open doors for a newcomer. But long-term residents need room to raise children and rest, and cities increasingly price those ordinary lives out.
+[t23] @A4 <ovl> Bernard(MOD): Just, just about ten seconds left.
+[t24] <cut> Jack(CON): Your family point is weakest because cities offer parks, schools, clinics, and nearby-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Bernard(MOD): And that's time. Now we move on to round three. Round three will be closing statements by each debater in turn. Making his closing statement in support of the resolution the claim that big cities are past their prime, Norman.
+[t26] Norman(PRO): Cities once promised that effort could bring a secure, connected life. My strongest point is simple: when ordinary workers must travel far or leave entirely to afford a home, that promise has failed. Culture and services remain, but they cannot substitute for stability. A place that excludes the people who sustain it is already losing its prime.
+[t27] @A4 <ovl> Bernard(MOD): Ten seconds for last word.
+[t28] <cut> Norman(PRO): Cities can adapt, but adaptation is not success. Residents face today's cost, not tomorrow's proposal. Until a city makes room for workers and families who keep it alive-
+[t29] @A2-1 <ovl> Bernard(MOD): Thank you. Time is up on that. And now Jack.
+[t30] Jack(CON): Big cities are not past their prime because their difficulties show importance, not exhaustion. They gather jobs, learning, care, and relationships so people can recover and build new lives. Demand better housing and fairer access, but improvement proves a living future, not a finished past. That's all, thank you.
+[t31] Bernard(MOD): Thank you both for discussing whether big cities are past their prime; this debate is now closed.

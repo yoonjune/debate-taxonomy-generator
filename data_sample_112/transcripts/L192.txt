@@ -1,0 +1,39 @@
+L192  |  Dating apps have killed romance.
+  MOD=Joan   PRO=Daphne   CON=Jim
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Joan(MOD): Welcome. Today's motion is that dating apps have killed romance. Daphne argues for it, and Jim argues against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. Please address each other directly, keep to the motion, and let the other side finish.
+[t01] Daphne(PRO): Dating apps make people browse humans like products, always wondering if someone better is one swipe away. That weakens patience, surprise, and commitment. Romance cannot grow when every connection feels disposable. That's all, thank you.
+[t02] @A2-2 Joan(MOD): Jim, you wanted to come in briefly.
+[t03] Jim(CON): Dating apps are tools, not a verdict on how people love. They can introduce people who would never otherwise meet, and the first conversation can still be thoughtful. Yes, some users treat matches carelessly, but carelessness existed before screens. What matters is how two people choose to act once they connect, and that choice can still create real romance.
+[t04] @A4 <ovl> Joan(MOD): You have ten seconds.
+[t05] <cut> Jim(CON): A profile cannot force anyone to be shallow. It can start a conversation, then people decide whether to listen, show up, and care. No, ridiculous. Blaming the tool ignores the-
+[t06] @A1 <ovl> Joan(MOD): I'm sorry, his time is up.
+
+--- phase 2 ---
+[t07] @A3-1 Joan(MOD): Let me throw the discussion open between the two sides. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t08] Daphne(PRO): Every swipe always weakens romance. It trains people to judge before knowing, and it keeps one foot pointed toward the next option, which is why dating apps have killed romance.
+[t09] Jim(CON): I agree that endless browsing can make some people impatient. But a habit is not a law of love, and people can use an app deliberately, meet once, and build romance beyond it.
+[t10] Daphne(PRO): This swipe does not weaken romance. A person may find a genuine partner through one lucky match, but that rare exception does not undo the wider culture that dating apps have killed romance.
+[t11] @B2 Joan(MOD): Well you're every swipe always weakens romance and then you're this swipe does not weaken romance. Which?
+[t12] Daphne(PRO): Both statements fit because the swipe itself weakens romance as a social habit, even when one encounter becomes meaningful. One good result does not restore the patience and mystery the system drains away.
+[t13] Jim(CON): Your exception exposes the problem: if a swipe can lead to genuine love, the app has not killed romance. You are blaming a broad tool for choices that people still control.
+[t14] Daphne(PRO): The urgent issue is whether platforms should be required to limit endless recommendations and explain how they rank profiles. Their design steers attention, rewards rapid judgment, and deserves stricter public rules.
+[t15] @B1 Joan(MOD): Okay, again, it's not on our topic about dating apps have killed romance.
+[t16] Daphne(PRO): Dating apps have killed romance by making replacement seem normal before a bond has time to form. Design matters because it repeatedly pushes people toward comparison instead of commitment.
+[t17] Jim(CON): Profile ranking can be annoying, and people should be able to control it. But the motion is about romance, and people still choose honest messages, real dates, and lasting devotion through apps.
+[t18] Daphne(PRO): Imagine someone planning a warm first date, then canceling after seeing a newer profile appear that evening. The app makes possibility feel more valuable than presence, proving it erodes romance.
+[t19] Jim(CON): If people can choose thoughtful messages, delete the app after meeting, and commit fully, how can you say the app killed romance rather than merely offering a choice?
+[t20] Daphne(PRO): Your choice argument is weak because choices are shaped by the environment around them. A casino does not remove agency either, yet its design still encourages harmful habits; apps similarly cheapen romantic attention.
+[t21] Jim(CON): Your claim that choice is hollow mistakes influence for control. People can resist prompts, set boundaries, and use an app only to meet, so romance remains alive through their decisions.
+[t22] @A4 <ovl> Joan(MOD): You both have ten seconds.
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Joan(MOD): Time. Okay. Let's all redeem ourselves with our closing statements. So Daphne, you're up first.
+[t24] Daphne(PRO): The strongest point against me is that people retain choice, and they do. But romance is more than private intention; it needs a culture that rewards attention, risk, and staying present. Dating apps reward comparison, quick judgment, and a permanent search for upgrades. They may produce occasional couples, yet they teach everyone else to treat intimacy as inventory,
+[t25] @A4 <ovl> Joan(MOD): Ten.
+[t26] Daphne(PRO): When love becomes an endless shelf, attention replaces commitment and romance loses its home. That's all, thank you.
+[t27] @A2-2 Joan(MOD): Let Jim have the mic.
+[t28] Jim(CON): Daphne rightly warns against careless browsing, but that behavior is not romance's death sentence. An app can be left, limited, or used with purpose, and people still bring courage and care to meeting. Romance lives in what people do together, not in the screen that introduced them. That's all, thank you.
+[t29] Joan(MOD): Thank you both for a lively debate on whether dating apps have killed romance.

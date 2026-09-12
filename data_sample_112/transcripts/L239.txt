@@ -1,0 +1,42 @@
+L239  |  Break up the big banks.
+  MOD=Joanna   PRO=Helen   CON=Christina
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Joanna(MOD): Welcome. Tonight's motion is: break up the big banks. Helen argues for it, and Christina argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. In crossfire, address each other directly, and I may step in to keep discussion fair and orderly.
+[t01] Helen(PRO): A few giant banks can gamble with households' savings and still expect rescue. Breaking them up matters because when their losses spread widely.
+[t02] <ovl> <cut> Christina(CON): But splitting them can scatter vital services-
+[t03] @A5 <ovl> Joanna(MOD): Okay, you've had a chance to speak. Please just let her.
+[t04] Helen(PRO): one failure can freeze local paychecks, the public carries the risk while executives keep the upside. Will you explain why that deserves protection?
+[t05] @A4 <ovl> Joanna(MOD): Ten seconds, Helen.
+[t06] Helen(PRO): Smaller banks can fail without dragging every local depositor and shop down with them. That's all, thank you.
+[t07] @A2-2 Joanna(MOD): Just one brief comment, Christina.
+[t08] Christina(CON): The question assumes a breakup protects people, but it may remove the broad networks that keep money moving in a crisis. Strong capital rules and failure plans target reckless behavior without dismantling useful institutions. Breakups could create confusion, higher costs, and less reliable credit, so this motion is false. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Joanna(MOD): Now we go on to round two, where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t10] Christina(CON): No, protecting giant banks is not what I defend; I defend rules that make any bank absorb losses. Your breakup still risks disrupted payments and weaker lending, so keep reforming rather than splitting.
+[t11] Helen(PRO): On your disrupted-payments point, smaller firms can use shared payment systems without one balance sheet controlling everything. Rules help, but concentrated power makes enforcement fragile; breakup makes rules credible.
+[t12] Christina(CON): Customers also care about branches, call centers, and familiar service, which a forced split could unsettle. But the motion is about safety, and better supervision protects safety without destroying banks that work.
+[t13] <cut> Helen(PRO): A small shop loses access to payroll money when one huge bank's trading loss swallows its local accounts. Separating ordinary deposits from oversized bets means that shop can keep paying workers, even when-
+[t14] <ovl> Christina(CON): That shop needs stable access, not a maze of newly separated companies with uncertain backing. You treat a breakup as a shield, yet it can interrupt credit and make the shop less secure.
+[t15] Helen(PRO): If stronger rules are enough, why keep one institution so large that officials fear letting it fail? How can rules be credible when its collapse threatens everyone else's money and jobs?
+[t16] Christina(CON): Officials need not fear failure if they require each bank to hold enough loss-bearing funds and prepare a clean resolution. Size alone is not the threat; weak safeguards are, so improve safeguards.
+[t17] Helen(PRO): When a bank's collapse would force the public to choose between rescue and economic chaos, it must be broken up beforehand. Under that condition, smaller pieces make failure manageable and protect taxpayers.
+[t18] Christina(CON): Your weakest claim is that smaller pieces automatically protect taxpayers. Several smaller banks can fail together, while a planned resolution can impose losses on owners without carving up firms.
+[t19] Helen(PRO): Concentration gives a handful of managers power over credit, payments, and public policy, even before a crisis arrives. A financial system should not depend on any giant bank, so break them up.
+[t20] Christina(CON): I agree that concentrated power deserves scrutiny, and public rescues create a real problem. But splitting firms does not erase shared risks or guarantee accountability; targeted rules can, so reject breakup.
+[t21] Helen(PRO): You say resolution can handle failure, but who trusts officials to close a giant bank during panic without a rescue? Why preserve a structure that makes that impossible choice likely?
+[t22] @A4 <ovl> Joanna(MOD): Ten seconds left, both of you.
+[t23] <cut> Christina(CON): I reject that closing a giant bank without rescue is impossible; owners and creditors can take losses under prepared rules. Why force every customer through a breakup when orderly resolution-
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Joanna(MOD): That's time. We have to move on to our closing round. Helen, the floor is yours.
+[t25] Helen(PRO): This choice turns on whether we let a few institutions hold the whole economy hostage. Rules matter, but rules are tested when panic begins and officials face a collapse they cannot safely permit. A breakup changes that bargain before trouble starts. It spreads power, makes failure possible, and gives communities more than one place to turn.
+[t26] <cut> Helen(PRO): The other side offers better rules, yet those rules leave the dangerous structure intact. We should not wait for another emergency to learn that promises of orderly failure bend. Break up the biggest banks, so-
+[t27] @A4 <ovl> Joanna(MOD): Ten seconds please.
+[t28] @A2-1 <ovl> Joanna(MOD): Helen, you're rather going on. Thank you. Christina.
+[t29] Christina(CON): The strongest case against this motion is practical: safety comes from making losses fall on investors, not from drawing corporate lines. A forced breakup could disrupt payments, raise borrowing costs, and scatter risks that are easier to see inside a supervised institution. We can punish failure, protect depositors, and preserve services without gambling on a redesign.
+[t30] @A4 <ovl> Joanna(MOD): Ten seconds from this side?
+[t31] Christina(CON): Choose accountable rules over a risky breakup, and keep essential banking services steady for everyone. That's all, thank you.
+[t32] Joanna(MOD): Thank you both for a thoughtful debate on breaking up the big banks; that concludes our discussion tonight.

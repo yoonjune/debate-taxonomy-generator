@@ -1,0 +1,38 @@
+L149  |  It's time to end the War on Terror.
+  MOD=Jorge   PRO=Chuck   CON=Genevieve
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Jorge(MOD): Welcome. Tonight's motion is: It is time to end the War on Terror. Chuck argues for it, and Genevieve argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed segment ends. Please address each other directly and keep to the motion.
+[t01] Chuck(PRO): The War on Terror became a permanent frame for violence, secrecy, and fear. Ending it does not mean ignoring danger; it means replacing endless war with focused law, defense, and accountable choices. A country is safer when emergency powers no longer define ordinary life. That's all, thank you.
+[t02] @A2-2 Jorge(MOD): Okay. Genevieve, you're in.
+[t03] Genevieve(CON): Calling it an endless war confuses a label with a duty. The threat adapts, and ending the campaign would signal that sustained protection is optional. We need oversight, certainly, but oversight should improve the effort, not dissolve it while violent networks still seek room to organize and strike.
+[t04] Genevieve(CON): Ending the War on Terror now would abandon a necessary shield against continuing danger. That's all, thank you.
+[t05] @A4 <ovl> Jorge(MOD): Well, now it's ten.
+
+--- phase 2 ---
+[t06] @A3-1 Jorge(MOD): And that concludes opening statements in this debate. And now we move on to Round two. In Round two, the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t07] Chuck(PRO): You call the campaign a necessary shield. But a shield with no endpoint becomes a blank check: it spreads fear and weakens the trust that real security needs. Ending this war means choosing limited, accountable tools instead.
+[t08] Genevieve(CON): The real issue is whether public budgets should favor patrols or schools, clinics, and housing. Families need steady services, workers need secure wages, and leaders should stop pouring resources into costly equipment.
+[t09] @B1 Jorge(MOD): Okay, again, it's not on our topic about it is time to end the war on terror.
+[t10] Genevieve(CON): On whether it is time to end the War on Terror, I say no. A named campaign coordinates vigilance across dangers, and ending it can scatter responsibility just when clear resolve protects people.
+[t11] Chuck(PRO): Training and equipment deserve review, because waste can hollow out any public mission. But that is not the central choice: an endless war invites endless exceptions, so it is time to end the War on Terror.
+[t12] Genevieve(CON): No security campaign should ever end while threats remain. Ending the War on Terror would tell those planning violence that our resolve expires before their intent does, so the motion is dangerously premature.
+[t13] Chuck(PRO): Imagine a traveler wrongly detained under a broad emergency suspicion, missing a child's bedside while no charge is brought. That harm grows from a war without limits, and it proves we should end the War on Terror.
+[t14] Genevieve(CON): This security campaign should end. A dangerous group that has lost its leaders should not keep one operation alive; we should not end the wider War on Terror because other threats remain.
+[t15] @B2 Jorge(MOD): I'm puzzled by your stand. On the one hand no security campaign should ever end while threats remain and on the other hand this security campaign should end.
+[t16] Genevieve(CON): I used campaign in two senses: the first means the whole protective effort, while the second means one operation. Ending one operation can strengthen the broader effort, so the War on Terror should continue.
+[t17] Chuck(PRO): I agree ordinary protections must remain after the war ends. But your wordplay cannot justify permanent war: why preserve a banner that creates open-ended powers when targeted protection can continue? It is time to end it.
+[t18] Genevieve(CON): I reject the premise that the banner alone creates open-ended powers; bad decisions create them, and those can be checked. Removing the shared mission instead risks fragmented action, so reform it rather than end the War on Terror.
+[t19] @A4 <ovl> Jorge(MOD): Ten seconds left on the crossfire.
+[t20] <cut> Chuck(PRO): Your weakest claim is that a label creates coordination. People coordinate through clear duties-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Jorge(MOD): That's time. Okay, here's where we are, we are about to hear closing statements from each debater in turn. So here, making his final argument for the motion, Chuck.
+[t22] Chuck(PRO): The strongest point is simple: security can continue without permanent war. We can use focused defense, lawful coordination, and real oversight while refusing a label that licenses endless exceptions. Ending the War on Terror restores limits without abandoning protection. That is the safer course. That's all, thank you.
+[t23] @A2-2 Jorge(MOD): Excuse me, I want to bring Genevieve in. she's itching to have a word.
+[t24] Genevieve(CON): Chuck says ordinary coordination can replace the War on Terror, but that assumes threats wait neatly inside ordinary boundaries. They do not. A shared mission gives people a reason to connect warnings, act early, and sustain attention when danger is easy to forget. Reform can curb abuse, yet ending the framework risks a gap that those threats will use.
+[t25] @A4 <ovl> Jorge(MOD): I can give you ten seconds to wrap this round.
+[t26] <cut> Genevieve(CON): We should demand limits, clear authority, and accountability, but those are reasons to repair the campaign, not erase it. Ending it sends the wrong signal while dangers still adapt-
+[t27] @A1 <ovl> Jorge(MOD): Time out. Time out.
+[t28] Jorge(MOD): Thank you, Chuck and Genevieve, for a vigorous debate on this motion; that concludes our discussion for tonight.

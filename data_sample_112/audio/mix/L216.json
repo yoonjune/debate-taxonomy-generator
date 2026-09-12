@@ -1,0 +1,379 @@
+{
+ "debate_id": "L157",
+ "motion": "Guns reduce crime",
+ "speakers": {
+  "MOD": {
+   "name": "Hina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0894_483",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0894/MSP-PODCAST_0894_483.wav",
+   "wpm": 177.23
+  },
+  "PRO": {
+   "name": "Kirsten",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  },
+  "CON": {
+   "name": "Paula",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 68.25,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 286.65,
+ "ext": {
+  "a32": {
+   "file": "L157_ext_a32.wav",
+   "place_at_sec": 216.397,
+   "dur_sec": 21.24,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I grant that a shopkeeper deserves protection. But a gun can be taken, misread, or fired in panic, and prevention means reducing those chances, so guns do not reduce crime."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.15,
+   "dur_sec": 16.15,
+   "overlap": false,
+   "text": "Welcome to this debate tonight. Tonight's motion is that guns reduce crime. Kirsten argues for it, and Paula argues against it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.35,
+   "end_sec": 36.08,
+   "dur_sec": 19.73,
+   "overlap": false,
+   "text": "Guns can reduce crime because a potential victim who can resist changes an offender's calculation. The motion does not claim every gun owner prevents harm; it says lawful access can deter some attacks and let people defend themselves when help is not near. That matters where a criminal expects a target, changing the balance before violence begins."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 36.28,
+   "end_sec": 43.69,
+   "dur_sec": 7.41,
+   "overlap": false,
+   "text": "When lawful people can resist, crime becomes less rewarding, which is why this motion is true. That's all, thank you."
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 36.35,
+   "end_sec": 39.71,
+   "dur_sec": 3.36,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 43.89,
+   "end_sec": 50.23,
+   "dur_sec": 6.34,
+   "overlap": false,
+   "text": "Thank you very much indeed. All right. Could I please ask Paula to speak against the motion, please."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 50.43,
+   "end_sec": 66.59,
+   "dur_sec": 16.16,
+   "overlap": false,
+   "text": "Deterrence sounds simple, but more guns also create more moments for fear, anger, and error to become deadly. A weapon cannot distinguish a criminal threat from a misunderstanding. Public safety rests on preventing violence, not merely shifting its tools. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 66.79,
+   "end_sec": 72.09,
+   "dur_sec": 5.3,
+   "overlap": false,
+   "text": "Let's debate. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 72.29,
+   "end_sec": 82.54,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "If guns reduce crime, why should a frightened person with a gun make a tense encounter safer rather than turn a mistake into a shooting? Please answer that risk."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 82.846,
+   "end_sec": 95.276,
+   "dur_sec": 12.43,
+   "overlap": false,
+   "text": "Before assuming that, we should ask who issues permits, what training a licensing office requires, and whether officials can delay applications. A fair permit process needs clear appeals, affordable classes, and rules that prevent denials."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 95.476,
+   "end_sec": 101.006,
+   "dur_sec": 5.53,
+   "overlap": false,
+   "text": "But we're getting a little bit off the question of whether guns reduce crime in society."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 101.206,
+   "end_sec": 113.056,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "The motion asks whether guns reduce crime, and they can when an offender sees a prepared victim instead of easy prey. Why assume a frightened defender is more dangerous than the person threatening her?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 114.036,
+   "end_sec": 125.876,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "I reject that comparison: fear can distort any person's judgment, while a gun makes a bad judgment irreversible. Deterrence depends on criminals noticing resistance, yet many conflicts begin before anyone can judge intentions."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 126.241,
+   "end_sec": 137.721,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Your claim assumes conflict appears without warning, but crime often starts with a visible threat, not a mutual mistake. A defender need not read intentions when someone is forcing entry or demanding-"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 136.821,
+   "end_sec": 148.191,
+   "dur_sec": 11.37,
+   "overlap": true,
+   "text": "No, because a weapon in that doorway can make everyone rush toward a trigger. You describe defense as controlled, but ordinary people under terror cannot reliably create the calm your argument requires."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 148.503,
+   "end_sec": 159.953,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "When a trained, lawful person faces a clear, immediate attack, access to a gun can stop the attack before further harm occurs. That possibility makes criminals less certain that victims are defenseless."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 160.423,
+   "end_sec": 171.103,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "I grant that a gun may stop an attack in some cases. But policy must cover panic, theft, and impulsive use too, so adding guns does not reliably reduce crime."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 172.079,
+   "end_sec": 183.319,
+   "dur_sec": 11.24,
+   "overlap": false,
+   "text": "Guns reduce crime not only during clear attacks; their presence can discourage crime before an attack begins. Why treat every gun as a source of panic when criminals also respond to risk?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 183.83,
+   "end_sec": 195.31,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I reject the premise that criminals calmly weigh risk, because many crimes grow from rage, confusion, or reckless impulse. Even planned offenders can steal guns, leaving more dangerous tools circulating after theft."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 195.955,
+   "end_sec": 206.945,
+   "dur_sec": 10.99,
+   "overlap": false,
+   "text": "Calling crime impulsive does not answer deterrence, because many offenders still choose targets, timing, and escape routes. Your theft concern supports punishing theft and securing firearms, not denying defense to lawful people."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 207.411,
+   "end_sec": 219.931,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Imagine a child finds an unsecured gun in a crowded home and pulls it during play; one careless moment becomes permanent harm. That example shows why wider access can increase danger rather than reduce crime."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 212.09,
+   "end_sec": 214.29,
+   "dur_sec": 2.2,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 220.237,
+   "end_sec": 225.59,
+   "dur_sec": 5.353,
+   "overlap": false,
+   "text": "If wider access adds danger, why deny-",
+   "ext_file": "L157_ext_a32.wav",
+   "cut_at_sec": 219.05,
+   "full_dur_sec": 10.36
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 222.09,
+   "end_sec": 230.62,
+   "dur_sec": 8.53,
+   "overlap": true,
+   "text": "That's time. First, onto round three, closing statements from each debater in turn. First, to summarize her position in favor of the motion, Kirsten."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 230.82,
+   "end_sec": 251.15,
+   "dur_sec": 20.33,
+   "overlap": false,
+   "text": "Deciding this motion turns on the moment before a crime succeeds: whether an offender expects a helpless victim or meaningful resistance. Paula asks us to focus on every misuse, but that avoids the protective choice facing a victim during danger. Lawful ownership can change that choice. It can deter, interrupt, and limit crime, while rules can address irresponsible handling."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 250.82,
+   "end_sec": 251.7,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 251.35,
+   "end_sec": 264.32,
+   "dur_sec": 12.97,
+   "overlap": false,
+   "text": "We should judge the motion by whether people can stop crimes when danger arrives, not by pretending every lawful tool is misuse. A safer society does not require helpless victims-",
+   "cut_at_sec": 258.28,
+   "full_dur_sec": 13.93,
+   "ext_file": "L157_026.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 261.32,
+   "end_sec": 267.33,
+   "dur_sec": 6.01,
+   "overlap": true,
+   "text": "Your time is up, Kirsten. Thank you. And here to summarize her position against the motion, Paula."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 267.53,
+   "end_sec": 285.64,
+   "dur_sec": 18.11,
+   "overlap": false,
+   "text": "The strongest point is that a gun cannot guarantee protection, but it can quickly turn ordinary fear or confusion into irreversible harm. We should reduce the chances for violence to begin, not spread tools that magnify its consequences. That is why guns do not reduce crime. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 285.84,
+   "end_sec": 292.28,
+   "dur_sec": 6.44,
+   "overlap": false,
+   "text": "Thank you, Kirsten and Paula, for debating thoughtfully; thank you for listening, and this debate is now closed."
+  }
+ ]
+}

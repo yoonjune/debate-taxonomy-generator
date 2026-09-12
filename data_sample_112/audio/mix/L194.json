@@ -1,0 +1,434 @@
+{
+ "debate_id": "L117",
+ "motion": "Qualified immunity for cops should be ended.",
+ "speakers": {
+  "MOD": {
+   "name": "Ismail",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6699_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6699/MSP-PODCAST_6699_79.wav",
+   "wpm": 176.38
+  },
+  "PRO": {
+   "name": "Rick",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0339_429",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0339/MSP-PODCAST_0339_429.wav",
+   "wpm": 160.0
+  },
+  "CON": {
+   "name": "Joshua",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6676_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6676/MSP-PODCAST_6676_448.wav",
+   "wpm": 170.22
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 67.54,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 302.49,
+ "ext": {
+  "a32": {
+   "file": "L117_ext_a32.wav",
+   "place_at_sec": 204.608,
+   "dur_sec": 36.41,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Early screening can save time, I grant that, but it should not erase a person's claim before facts emerge. Why not use ordinary dismissal rules instead of a special immunity? End it."
+  },
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Ordinary dismissal rules often cannot protect an officer from the burdens this doctrine prevents. Your screening point ignores that cases can pressure good-faith officers into settlements, so keeping qualified immunity remains the fairer rule."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 14.89,
+   "dur_sec": 14.89,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is qualified immunity for cops should be ended. Rick supports it, and Joshua opposes it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.09,
+   "end_sec": 21.9,
+   "dur_sec": 6.81,
+   "overlap": false,
+   "text": "Qualified immunity blocks accountability before harmed people can test the facts. It should end."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 21.0,
+   "end_sec": 23.3,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That ignores the impossible choices officers-",
+   "cut_at_sec": 23.3,
+   "full_dur_sec": 7.14,
+   "ext_file": "L117_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 22.5,
+   "end_sec": 24.59,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Let him reply to that please."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 24.79,
+   "end_sec": 34.88,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "And it tells officers obvious harm can escape review, even when rights were plain. Courts should hear claims rather than dismiss them at the doorway."
+  },
+  {
+   "i": 5,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 35.08,
+   "end_sec": 43.46,
+   "dur_sec": 8.38,
+   "overlap": false,
+   "text": "Ending this special shield restores ordinary accountability while leaving officers every defense available to everyone else. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 35.09,
+   "end_sec": 36.54,
+   "dur_sec": 1.45,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 43.66,
+   "end_sec": 45.83,
+   "dur_sec": 2.17,
+   "overlap": false,
+   "text": "All right, Joshua, take that on."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 46.03,
+   "end_sec": 64.33,
+   "dur_sec": 18.3,
+   "overlap": false,
+   "text": "My opponent treats every dismissed claim as proven misconduct, but law needs room for reasonable mistakes. In a fast, uncertain encounter, an officer should not fear personal ruin because a court later invents a clearer rule. Reform bad conduct directly; do not erase qualified immunity. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 64.53,
+   "end_sec": 72.06,
+   "dur_sec": 7.53,
+   "overlap": false,
+   "text": "Let's debate. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 72.26,
+   "end_sec": 83.38,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "I agree officers deserve fair procedures and defenses when they acted reasonably. But qualified immunity is not a fair defense; it blocks claims even after serious abuse, so it should end."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 83.848,
+   "end_sec": 95.248,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "When the law was genuinely unclear at the moment of an encounter, officers should have protection from personal liability. That narrow condition prevents hindsight punishment, which is why qualified immunity should remain."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 95.717,
+   "end_sec": 106.287,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "You say unclear law merits protection, but why should a victim lose a hearing when an officer's conduct was plainly unreasonable? Will you defend dismissal before the facts are heard?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 106.933,
+   "end_sec": 120.093,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "Imagine an officer answering a chaotic call, separating two people who are shouting and moving quickly. Later, one says the officer used too much force; ending immunity invites lawsuits over that split-second choice, proving it should stay."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 120.385,
+   "end_sec": 132.225,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Your chaotic-call example assumes a lawsuit means automatic punishment. It does not: a court can hear evidence, reject weak claims, and still hold clear abuse accountable, which is why ending immunity is sensible."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 132.678,
+   "end_sec": 144.878,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Training, supervision, and better equipment matter too, because they can reduce dangerous encounters before anyone reaches court. Still, those improvements cannot replace a remedy afterward, so qualified immunity should remain as a necessary safeguard."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 145.551,
+   "end_sec": 157.991,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "I agree training may prevent some harm, and officers need support in difficult work. Yet support does not require a rule that closes courthouse doors to people whose rights were violated; qualified immunity should end."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 158.684,
+   "end_sec": 171.564,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Officers need legal protection when doing their job under pressure, because law should not turn public service into personal financial gambling. Qualified immunity supplies predictable protection where courts might otherwise second-guess decisions, so it should remain."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 172.224,
+   "end_sec": 182.554,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "If ordinary defenses already protect reasonable conduct, why preserve a special shield that rejects claims without examining wrongdoing? Can you name a reason victims should face that extra barrier?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 183.191,
+   "end_sec": 196.071,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Consider an officer who follows training during a rapidly changing arrest, then faces a claim based on a rule announced later. Qualified immunity prevents punishment for failing to predict that rule, proving the protection should remain."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 196.532,
+   "end_sec": 208.372,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Your later-rule example attacks retroactive punishment, which nobody proposes. Courts can judge conduct by rules known at the time; ending immunity simply lets victims present evidence, so your defense of the shield fails."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 209.128,
+   "end_sec": 221.648,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "On the later-rule point, ordinary legal defenses can handle true retroactivity, but they do not protect every reasonable officer from crushing litigation. Qualified immunity filters claims early, preserving the protection officers need; it should remain.",
+   "ext_file": "L117_ext_a32.wav"
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 212.06,
+   "end_sec": 212.58,
+   "dur_sec": 0.52,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 222.06,
+   "end_sec": 231.06,
+   "dur_sec": 9.0,
+   "overlap": true,
+   "text": "Time. So, Round three, closing statements. Here, making his closing statement in support of qualified immunity for police officers should be ended, here is Rick."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 231.26,
+   "end_sec": 251.5,
+   "dur_sec": 20.24,
+   "overlap": false,
+   "text": "Joshua asks us to fear lawsuits, but a lawsuit is not a verdict. Ordinary courts already dismiss weak claims and protect reasonable actions. Qualified immunity adds an extraordinary barrier, denying people a chance to show what happened. Officers retain counsel, defenses, and fair procedures. What victims need is equal access to justice, not a locked courthouse door."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 251.26,
+   "end_sec": 253.58,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 251.7,
+   "end_sec": 264.76,
+   "dur_sec": 13.06,
+   "overlap": false,
+   "text": "Ending it does not punish good officers; it lets judges examine claims under rules used for everyone else. If conduct was reasonable, they can prevail. But abused power needs-",
+   "cut_at_sec": 258.04,
+   "full_dur_sec": 14.16,
+   "ext_file": "L117_028.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 261.76,
+   "end_sec": 267.61,
+   "dur_sec": 5.85,
+   "overlap": true,
+   "text": "Your time is up, Rick. Thank you. And here to summarize his position against the motion, Joshua."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 267.81,
+   "end_sec": 287.9,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "The strongest case for keeping qualified immunity is simple: difficult decisions should not bring personal ruin because someone later disagrees. Courts can address misconduct through remedies and discipline. This protection matters when the legal line was unclear in real time. Ending it would make fear, not sound judgment, guide officers. Keep this safeguard against hindsight punishment."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 287.81,
+   "end_sec": 288.69,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 288.1,
+   "end_sec": 301.31,
+   "dur_sec": 13.21,
+   "overlap": false,
+   "text": "Do not confuse accountability with stripping every protection from people asked to act amid uncertainty. Preserve remedies for real wrongdoing, but keep this measured shield where law is unclear, because-",
+   "cut_at_sec": 294.59,
+   "full_dur_sec": 14.24,
+   "ext_file": "L117_032.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 298.31,
+   "end_sec": 300.88,
+   "dur_sec": 2.57,
+   "overlap": true,
+   "text": "Thank you, Joshua. Your time is up."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 301.08,
+   "end_sec": 307.01,
+   "dur_sec": 5.93,
+   "overlap": false,
+   "text": "Thank you, Rick and Joshua, for a thoughtful debate on this motion; that concludes our discussion tonight."
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+L142  |  It’s time to redistribute the wealth.
+  MOD=Hina   PRO=Justine   CON=Amanda
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Hina(MOD): Welcome. Tonight's motion is: It is time to redistribute the wealth. Justine argues for it, and Amanda argues against it. Each opening is thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. We will keep the exchange direct, respectful, and focused on the motion throughout.
+[t01] Justine(PRO): Wealth is not merely money in a vault; it is power over housing, food, time, and security. When a few hold far more than they can use while others lack basics, rules have failed. Redistribution repairs that imbalance through fair contributions and shared public foundations. It expands real freedom, rather than leaving opportunity to inheritance.
+[t02] <cut> Justine(PRO): That does not mean punishing effort. It means asking those protected by common laws, workers, and infrastructure to return more, so every child can begin with a genuine chance and no family-
+[t03] @A4 <ovl> Hina(MOD): Justine, ten seconds.
+[t04] @A2-1 <ovl> Hina(MOD): Justine, that's your time. Thank you. And now, Amanda.
+[t05] Amanda(CON): Her plan assumes officials can judge what everyone deserves better than families and workers can. Wealth is also savings, tools, and risks carried over years. Taking it broadly weakens the reason to build, invest, and provide, while concentrating too much discretion in public hands. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Hina(MOD): And that concludes round one. And now we move onto round two, and in round two the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Amanda(CON): Your weakest claim is that unused wealth proves failure. People save for uncertainty, future projects, and relatives; calling that failure invites arbitrary seizure rather than fair opportunity.
+[t08] Justine(PRO): When basic needs remain unmet despite full-time work, redistribution through shared services is justified. In that condition, keeping surplus private protects comfort while denying others a workable start.
+[t09] Amanda(CON): Imagine a small workshop owner selling equipment to retire. A broad levy forces a sale during a weak market, leaving workers without jobs. That proves redistribution can destroy security it claims to spread.
+[t10] Justine(PRO): If shared services can prevent working families from losing homes, why should accumulated surplus be treated as untouchable while their labor already supports the system every day?
+[t11] Amanda(CON): That same logic reaches gifts between parents and adult children. If a parent pays rent, officials must inspect affection, obligation, and family history before judging the household relationship.
+[t12] @B1 Hina(MOD): But we're getting a little bit off whether it is time to redistribute the wealth.
+[t13] Amanda(CON): The question is whether it is time to redistribute wealth, and it is not. Once government takes broad power over earned assets, no clear limit protects effort, savings, or independence.
+[t14] Justine(PRO): A society should ensure that no one is abandoned below a basic floor. Wealth redistribution is the tool when private pay and existing support leave that floor broken.
+[t15] Amanda(CON): Shared services can ease hardship, and I support funding them responsibly. But the main leap is treating unequal outcomes as proof of injustice, which makes forced transfer the answer before causes are understood.
+[t16] Justine(PRO): Tax rules can be confusing, and paperwork often burdens small households first. Still, the core issue is power: redistributing concentrated wealth gives ordinary people a fairer share of the security they create.
+[t17] Amanda(CON): Why should someone who delayed spending, built a business, and saved for retirement lose control because others have less? Isn't expanding opportunity without confiscation the fairer path?
+[t18] Justine(PRO): Your savings point ignores how fortunes depend on workers and public rules. Why is it fair for one owner to keep gains created by everyone else in the firm?
+[t19] Amanda(CON): I reject that those gains are created by everyone else; workers are paid for their contribution. Why should your plan let officials seize more whenever they dislike a lawful outcome?
+[t20] Justine(PRO): Your weakest claim is that payment settles the matter. A wage can be lawful and still leave the people producing value unable to live securely; redistribution corrects that imbalance.
+[t21] @A4 <ovl> Hina(MOD): Ten seconds left in this round.
+[t22] <cut> Amanda(CON): Some workers face real pressure, and better bargaining-
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Hina(MOD): But now, it is time to bring this all home with our closing round. Justine for your closing statement, you are up first.
+[t24] Justine(PRO): Deciding this motion turns on what wealth means in a shared society. It is not created in isolation; it rests on workers, rules, and public foundations that everyone sustains. We can reward initiative while refusing to let inherited advantage decide who gets safety and voice. Redistribution is the practical way to make freedom real for more people.
+[t25] @A4 <ovl> Hina(MOD): I can give you ten seconds to wrap this round.
+[t26] Justine(PRO): Fair contribution is not punishment; it is membership. Choose a system where prosperity carries responsibility, and support redistribution now for us all today. That's all, thank you.
+[t27] @A2-2 Hina(MOD): Amanda wants to answer that.
+[t28] Amanda(CON): Deciding this motion turns on whether fairness permits coercion. We should help people build security, but forced redistribution hands lasting power to officials who cannot know enough.
+[t29] <ovl> <cut> Justine(PRO): That power already shapes lives when wealth-
+[t30] @A5 <ovl> Hina(MOD): Let her answer please.
+[t31] Amanda(CON): enough to weigh every sacrifice behind a home, a business, or a saved retirement. Give people opportunity, yes, but preserve their right to keep what they earn.
+[t32] @A4 <ovl> Hina(MOD): Ten seconds please.
+[t33] Amanda(CON): Compassion needs durable limits, so reject redistribution and build opportunity without confiscation for everyone. That's all, thank you.
+[t34] Hina(MOD): Thank you, Justine and Amanda, for a debate, and thank you for joining us; this debate is now closed.

@@ -1,0 +1,385 @@
+{
+ "debate_id": "L119",
+ "motion": "The Equal Protection Clause Does Not Require States To License Same-Sex Marriages",
+ "speakers": {
+  "MOD": {
+   "name": "Genevieve",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1763_64",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1763/MSP-PODCAST_1763_64.wav",
+   "wpm": 173.81
+  },
+  "PRO": {
+   "name": "Liz",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2678_246",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2678/MSP-PODCAST_2678_246.wav",
+   "wpm": 168.22
+  },
+  "CON": {
+   "name": "Joanna",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 81.4,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 302.65,
+ "ext": {
+  "a32": {
+   "file": "L119_ext_a32.wav",
+   "place_at_sec": 226.451,
+   "dur_sec": 23.16,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I agree that labels alone cannot shield unfair treatment. But your union-type claim still denies same-sex couples the same legal commitment, without a sufficient reason, so equal protection defeats the motion."
+  },
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Your weakest point is the demand for a sufficient reason without saying what equal protection requires. Courts cannot invent a licensing command from disagreement over marriage policy, so the motion stands."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.77,
+   "dur_sec": 17.77,
+   "overlap": false,
+   "text": "Welcome to our debate. The motion is whether equal protection requires states to license same-sex marriages. Liz supports the motion, and Joanna opposes it. Each debater has thirty seconds for an opening, then two and a half minutes of crossfire, followed by thirty-second closings; I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.97,
+   "end_sec": 35.51,
+   "dur_sec": 17.54,
+   "overlap": false,
+   "text": "Equal protection bars unequal treatment where the Constitution itself supplies a rule; it does not turn every state definition of marriage into a federal command. States may choose different marriage policies through democratic processes. That constitutional limit is why the motion is true. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 35.71,
+   "end_sec": 37.64,
+   "dur_sec": 1.93,
+   "overlap": false,
+   "text": "I'm going to let Joanna answer."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 37.84,
+   "end_sec": 58.12,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Liz's constitutional-limit point assumes history can freeze a basic civil institution. Equal protection asks whether a state has a sufficient reason for drawing a line between similarly situated couples. Same-sex couples seek the same legal commitment and family security. Denying the license marks their relationship as lesser, and that is the injury"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 57.84,
+   "end_sec": 59.08,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 58.32,
+   "end_sec": 69.55,
+   "dur_sec": 11.23,
+   "overlap": false,
+   "text": "the injury equal protection forbids. A state cannot reserve marriage's protections for one kind of couple without a real public reason, so the motion fails. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.75,
+   "end_sec": 85.92,
+   "dur_sec": 16.17,
+   "overlap": false,
+   "text": "All right, we've just heard opening arguments on the resolution, whether equal protection requires states to license same-sex marriages, and now we're going to give our debaters a chance to respond to one another. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 86.12,
+   "end_sec": 95.88,
+   "dur_sec": 9.76,
+   "overlap": false,
+   "text": "On Liz's democratic-process point, voting cannot excuse a classification that demeans a group. Equal protection exists precisely when majorities deny equal legal standing, so the motion is false."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.535,
+   "end_sec": 106.535,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "You're right that popular approval alone cannot settle a constitutional claim. But your dignity point skips whether marriage classifications violate equal protection; the Clause does not mandate them-"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 105.635,
+   "end_sec": 116.045,
+   "dur_sec": 10.41,
+   "overlap": true,
+   "text": "No, the Clause forbids unequal legal standing, and same-sex couples face it at the license counter. You call that choice; I call it state-imposed exclusion, so the motion fails."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 117.03,
+   "end_sec": 128.35,
+   "dur_sec": 11.32,
+   "overlap": false,
+   "text": "When a state offers marriage as status, it may define eligibility around the union it recognizes without violating equal protection. Under a law treating all male-female couples alike, the motion remains true."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 129.302,
+   "end_sec": 140.512,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "Consider two women raising a child: one dies, and the survivor loses protections marriage gives other parents. That loss harms the family through no fault of theirs, proving equal protection requires licenses."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 140.868,
+   "end_sec": 151.548,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Marriage policy has many consequences beyond any single licensing rule, including parentage and property questions. Equal protection does not require states to license same-sex marriages, so the motion remains true."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.131,
+   "end_sec": 163.171,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "On your broad-policy point, administrative consequences cannot justify withholding a status from same-sex couples. The relevant question is equal citizenship at marriage's doorway, and denial fails it; the motion is false."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 163.987,
+   "end_sec": 175.027,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "No state must ever license a same-sex marriage. Equal protection restrains discrimination under its own terms, rather than forcing every state to adopt one contested definition, so the motion is true."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 175.656,
+   "end_sec": 186.866,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "Your weakest claim is that the Clause merely waits for state definitions. If a state calls exclusion a definition, your approach protects the label, not equal persons, so the motion is false."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.775,
+   "end_sec": 197.705,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "This state must license a same-sex marriage. If equal protection has force, it cannot leave a couple's family status to a majority's preference, and the motion is still true."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 197.905,
+   "end_sec": 206.315,
+   "dur_sec": 8.41,
+   "overlap": false,
+   "text": "So one moment it's no state must ever license a same-sex marriage and the next moment it's this state must license a same-sex marriage?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.515,
+   "end_sec": 218.395,
+   "dur_sec": 11.88,
+   "overlap": false,
+   "text": "Both statements separate federal command from state authority. The first rejects a federal mandate, while the second speaks to a state's independent duty under its own law; that division preserves the motion as true."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 219.35,
+   "end_sec": 230.32,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "How can you call a marriage license equal protection when two committed couples receive different legal standing solely because of their sex? You must answer that inequality, which defeats the motion."
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 225.92,
+   "end_sec": 227.53,
+   "dur_sec": 1.61,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 230.971,
+   "end_sec": 239.42,
+   "dur_sec": 8.449,
+   "overlap": false,
+   "text": "On your inequality question, equal protection does not erase every distinction involving sex. Marriage rules-",
+   "ext_file": "L119_ext_a32.wav",
+   "cut_at_sec": 232.2,
+   "full_dur_sec": 11.84
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 235.92,
+   "end_sec": 245.28,
+   "dur_sec": 9.36,
+   "overlap": true,
+   "text": "Time. So, Round three, closing statements. Here, making her closing statement in support of whether equal protection requires states to license same-sex marriages, here is Liz."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 245.48,
+   "end_sec": 265.64,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Return to the constitutional question, not sympathy alone. Equal protection prohibits certain unequal treatment; it does not make every disputed marriage definition a command for every state. States retain authority to shape domestic relations unless the Constitution clearly withdraws it. Joanna showed a serious concern, but concern is not a licensing requirement."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 265.48,
+   "end_sec": 266.77,
+   "dur_sec": 1.29,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 265.84,
+   "end_sec": 278.98,
+   "dur_sec": 13.14,
+   "overlap": false,
+   "text": "That line matters: a constitutional guarantee is not a blank check for judges to settle every policy dispute. Nothing in equal protection supplies the demanded command-",
+   "cut_at_sec": 272.26,
+   "full_dur_sec": 14.16,
+   "ext_file": "L119_027.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 275.98,
+   "end_sec": 285.35,
+   "dur_sec": 9.37,
+   "overlap": true,
+   "text": "Thank you. I'm sorry her time is up. Thank you. And here to summarize her position against whether equal protection requires states to license same-sex marriages, Joanna."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 285.55,
+   "end_sec": 303.58,
+   "dur_sec": 18.03,
+   "overlap": false,
+   "text": "Marriage is a legal status that carries protection, security, and public recognition. When a state grants it to one committed couple but denies it to another without a sufficient reason, equal protection is violated. The Constitution protects people from that exclusion, so the motion is false. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 303.78,
+   "end_sec": 309.43,
+   "dur_sec": 5.65,
+   "overlap": false,
+   "text": "Thank you, Liz and Joanna, for a thoughtful debate; this concludes our discussion of the motion today."
+  }
+ ]
+}

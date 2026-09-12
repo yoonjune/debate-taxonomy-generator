@@ -1,0 +1,376 @@
+{
+ "debate_id": "L116",
+ "motion": "Hollywood has fueled anti-Americanism abroad",
+ "speakers": {
+  "MOD": {
+   "name": "Graham",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6699_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6699/MSP-PODCAST_6699_79.wav",
+   "wpm": 176.38
+  },
+  "PRO": {
+   "name": "Annie",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  },
+  "CON": {
+   "name": "Claudia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1239_11",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1239/MSP-PODCAST_1239_11.wav",
+   "wpm": 174.36
+  }
+ },
+ "selective": [
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 76.42,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 291.49,
+ "ext": {
+  "a32": {
+   "file": "L116_ext_a32.wav",
+   "place_at_sec": 220.438,
+   "dur_sec": 23.63,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Imagine a foreign student seeing a film where American neighbors defend an outsider against cruelty, then meeting such people with curiosity instead of suspicion. That humanizing example proves Hollywood can reduce, not fuel, anti-Americanism abroad."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.09,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "Welcome to our debate on whether Hollywood has fueled anti-Americanism abroad. Annie supports the motion, and Claudia opposes it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue before each timed speech ends; please address each other directly and keep to the question."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.29,
+   "end_sec": 36.57,
+   "dur_sec": 16.28,
+   "overlap": false,
+   "text": "Hollywood exports more than entertainment; it exports a repeated picture of American life as violent, arrogant, and self-serving. Viewers abroad can reasonably mistake that selective picture for the country itself. That resentment is anti-Americanism, and the industry has helped fuel it. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.77,
+   "end_sec": 38.94,
+   "dur_sec": 2.17,
+   "overlap": false,
+   "text": "Let's have Claudia take this one."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 39.14,
+   "end_sec": 59.31,
+   "dur_sec": 20.17,
+   "overlap": false,
+   "text": "Films often criticize greed, cruelty, or war, but criticism is not a national message. Audiences know stories need villains and conflict; they do not treat every fictional scene as a report on ordinary people. Foreign resentment has many roots, including political choices and personal experience. Blaming Hollywood gives the industry an influence it does not deserve, and it excuses those deeper causes."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 59.14,
+   "end_sec": 61.07,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 59.51,
+   "end_sec": 69.75,
+   "dur_sec": 10.24,
+   "overlap": false,
+   "text": "Stories can influence a mood, but influence is not the same as causing hostility. The motion claims too much, so it should therefore fall. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.95,
+   "end_sec": 80.04,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "And now we move on to round two. Round two is where the debaters address each other. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 80.24,
+   "end_sec": 91.53,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "Consider a viewer who watches a sharp satire and then discusses its flaws rather than blaming Americans nearby. The film can prompt careful conversation, which proves Hollywood need not fuel anti-Americanism abroad."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 92.452,
+   "end_sec": 104.212,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "That discussion also raises whether a fictional character's costume changes what visitors buy at themed shops. If a costume becomes popular, sellers copy it, and arguments over imitation can consume the whole conversation."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 104.412,
+   "end_sec": 109.382,
+   "dur_sec": 4.97,
+   "overlap": false,
+   "text": "I really want to stay on whether hollywood has fueled anti-Americanism among people abroad."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 109.582,
+   "end_sec": 120.262,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "The question is whether Hollywood has fueled anti-Americanism abroad, and repeated hostile images can make distant audiences distrust Americans they have never met. That cultural pressure clearly supports the motion."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 120.479,
+   "end_sec": 132.239,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Debates about which actors deserve awards can distract from how a film is received. But reception is the point: audiences separate dramatic exaggeration from America itself, so Hollywood has not fueled anti-Americanism abroad."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 132.458,
+   "end_sec": 143.498,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Hollywood movies always fuel anti-Americanism abroad. When the same stereotypes recur for years, they teach viewers to connect American identity with contempt, violence, and domination, even when individual stories seem harmless."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 144.445,
+   "end_sec": 156.205,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "I grant that some films invite viewers to question power rather than hate people. But the main claim still fails: audiences can distinguish criticism from identity, so Hollywood has not fueled anti-Americanism abroad."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 157.051,
+   "end_sec": 168.501,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "This Hollywood movie does not fuel anti-Americanism abroad. A gentle story showing generous neighbors can leave foreign viewers warmer toward Americans, yet the industry's wider pattern still fuels resentment in many viewers."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 168.701,
+   "end_sec": 175.701,
+   "dur_sec": 7.0,
+   "overlap": false,
+   "text": "Well you're hollywood movies always fuel anti-Americanism abroad and then you're this Hollywood movie does not fuel anti-Americanism abroad. Which?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 175.901,
+   "end_sec": 187.351,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "Both statements address different levels: one names Hollywood's overall cultural effect, while the other names one movie's immediate response. A broad pattern can fuel resentment even when a particular story softens it."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 188.205,
+   "end_sec": 199.245,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "I reject the premise that those statements can coexist as a clean account of causation. Your exception exposes the problem: mixed reactions mean Hollywood cannot be credited with fueling anti-Americanism abroad."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 199.521,
+   "end_sec": 210.561,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "If audiences supposedly separate stories from America, why do filmmakers repeatedly rely on American stereotypes to make foreign settings feel morally clear? Doesn't that reliance show Hollywood helps build resentment abroad?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 210.822,
+   "end_sec": 223.152,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "No, stereotype shorthand is a storytelling flaw, not proof that viewers adopt hostility toward a nation. You turn a device inside a film into a claim about whole audiences, and that leap defeats your case."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 220.04,
+   "end_sec": 222.29,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 224.058,
+   "end_sec": 233.54,
+   "dur_sec": 9.482,
+   "overlap": false,
+   "text": "I grant that repeated stereotypes can leave an ugly impression. But that initial impression can harden into distrust when no counter-image-",
+   "ext_file": "L116_ext_a32.wav",
+   "cut_at_sec": 227.22,
+   "full_dur_sec": 11.12
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.04,
+   "end_sec": 241.09,
+   "dur_sec": 11.05,
+   "overlap": true,
+   "text": "Time. And now we move on to Round three. Round three will be closing statements by each debater in turn. Here making her closing statement in support of the motion, Annie."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.29,
+   "end_sec": 258.44,
+   "dur_sec": 17.15,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether repeated entertainment images can shape attitudes beyond the screen. They can: Hollywood's familiar portraits of Americans as brutal or smug supply raw material for distrust. It need not be the only cause to have fueled anti-Americanism abroad. That's all, thank you."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 258.64,
+   "end_sec": 261.28,
+   "dur_sec": 2.64,
+   "overlap": false,
+   "text": "Now her summation against the motion, Claudia."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 261.48,
+   "end_sec": 281.76,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Deciding this motion turns on causation, not on whether a troubling scene exists. Hollywood tells many kinds of stories, and audiences interpret them through their own knowledge, values, and experiences. A harsh fictional portrait may provoke criticism, sympathy, laughter, or nothing at all. The other side turns possibility into a verdict while ignoring the political conduct and personal encounters that shape attitudes."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 281.48,
+   "end_sec": 284.37,
+   "dur_sec": 2.89,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.96,
+   "end_sec": 292.28,
+   "dur_sec": 10.32,
+   "overlap": false,
+   "text": "Entertainment may color a moment, but it does not establish the claimed cause here. The motion asks for blame Hollywood cannot fairly carry. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 292.48,
+   "end_sec": 298.73,
+   "dur_sec": 6.25,
+   "overlap": false,
+   "text": "Thank you, Annie and Claudia, for a thoughtful debate, and thank you for listening. This concludes our discussion."
+  }
+ ]
+}

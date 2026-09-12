@@ -1,0 +1,40 @@
+L138  |  Obamacare is now beyond rescue
+  MOD=Ben   PRO=Carla   CON=Nolan
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Ben(MOD): Welcome. Tonight's motion is that Obamacare is now beyond rescue. Carla argues for the motion, and Nolan argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. Keep remarks direct and address the other side.
+[t01] Carla(PRO): Obamacare has become a maze of promises, rules, and patchwork fixes. When a system needs constant exceptions simply to deliver basic care, that is not strength; it is evidence of collapse. People need clear choices and dependable treatment, not a program whose failures are repeatedly renamed as repairs. The question is whether another adjustment can restore public trust and practical access.
+[t02] @A4 <ovl> Ben(MOD): You have ten seconds.
+[t03] <cut> Carla(PRO): Each repair adds another layer, and layers make responsibility harder to find. You cannot rescue a structure when every attempt to shore it up creates-
+[t04] @A2-1 <ovl> Ben(MOD): Carla, that's your time. Thank you. And now, Nolan.
+[t05] Nolan(CON): Carla treats difficulty as proof of impossibility. Every large public system needs correction, but correction is not collapse. Obamacare can be simplified, made clearer, and made more dependable without abandoning people who rely on it. A hard problem is still a solvable problem. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Ben(MOD): That concludes round one. Now on to round two where the debaters address each other directly. You have two and a half minutes, starting when I stop talking.
+[t07] Carla(PRO): Your claim that simplification can save it is the weakest point. The rules are tangled because the program's basic design creates competing demands; trimming language cannot cure that structural failure.
+[t08] Nolan(CON): I am answering your structural failure point. A structure can be rebuilt section by section, and calling its problems foundational merely avoids explaining why targeted changes cannot work.
+[t09] <cut> Carla(PRO): If repair has repeatedly produced more confusion, why should anyone trust one more repair to restore a system people must use for care and security-
+[t10] Nolan(CON): When lawmakers can plainly identify a broken rule, targeted repair can work. Clear enrollment steps and understandable choices can make Obamacare useful rather than beyond rescue.
+[t11] Carla(PRO): Arguments about paperwork also affect workers who process claims and families planning budgets. But the motion is larger: those burdens show a system that cannot reliably deliver care, so Obamacare is beyond rescue.
+[t12] Nolan(CON): Obamacare's problems are not beyond repair because public programs can improve through steady revision. The need for broad improvement does not erase the value of fixing a plainly broken rule.
+[t13] Carla(PRO): I believe Obamacare always deserves replacement. A program built on recurring confusion cannot become dependable through another rescue attempt, so the motion stands.
+[t14] Nolan(CON): I am answering your point that Obamacare always deserves replacement. That slogan mistakes frustration for a verdict; replacing coverage creates disruption, while repair preserves help and improves what fails.
+[t15] Carla(PRO): For a parent whose treatment would vanish tomorrow, Obamacare does not deserve replacement. That human result matters, yet the system as a whole remains beyond rescue and needs replacement.
+[t16] @B2 Ben(MOD): So, so while saying obamacare always deserves replacement, you're saying obamacare does not deserve replacement?
+[t17] Carla(PRO): One statement judges the institution's future; the other judges what should happen to a person facing immediate loss. Protecting that person does not make the failing institution rescuable, so replacement remains necessary.
+[t18] Nolan(CON): Imagine a parent who finally understands a simpler enrollment form and keeps treatment without interruption. That shows repair protects real people; why would you discard that progress instead of extending it?
+[t19] Carla(PRO): I reject the premise that one smoother form proves the program is saved. Your example helps one parent, but a system that repeatedly needs rescue from its own rules is still beyond rescue.
+[t20] Nolan(CON): Your claim that repeated repair proves impossibility is the weakest point. Repetition can show persistence, not failure, and abandoning Obamacare would replace known problems with fresh uncertainty.
+[t21] @A4 <ovl> Ben(MOD): Ten seconds, both of you.
+[t22] <cut> Carla(PRO): I am answering your fresh uncertainty point. Uncertainty during-
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Ben(MOD): And that's time. And that concludes round two. And now we're going to move on to round three. Here to argue in her closing statement, in support of this motion, Carla.
+[t24] Carla(PRO): This decision turns on whether repair can cure a design that keeps producing confusion and insecurity. Nolan offers improvements around the edges, but people need a system that works without constant rescue. Obamacare is beyond rescue and should be replaced. That's all, thank you.
+[t25] @A2-2 Ben(MOD): Yeah, Nolan. Thank you.
+[t26] Nolan(CON): Carla's strongest argument is that repeated fixes reveal a hopeless design. But repeated fixes can also reveal a commitment to protect people while improving what does not work. Ending Obamacare would risk disruption for those relying on it today. The sensible course is to simplify it, strengthen it, and preserve its useful protections.
+[t27] @A4 <ovl> Ben(MOD): I can give you ten seconds to do this.
+[t28] <cut> Nolan(CON): A broken rule can be changed without throwing away every safeguard people depend on. That is why Obamacare is difficult but not beyond rescue-
+[t29] @A1 <ovl> Ben(MOD): Please come to an end, we're running out of time, thank you.
+[t30] Ben(MOD): Thank you, Carla and Nolan, for a vigorous debate on this motion; this concludes our discussion tonight.

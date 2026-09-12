@@ -1,0 +1,39 @@
+L170  |  Courts, Not Campuses, Should Decide Sexual Assault Cases
+  MOD=Joan   PRO=Rachel   CON=Mira
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Joan(MOD): Welcome to our debate on the motion, Courts, Not Campuses, Should Decide Sexual Assault Cases. Rachel supports it, and Mira opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each speaker has thirty-second closings; I will give a ten-second cue. We will keep the exchange direct and respectful throughout.
+[t01] Rachel(PRO): Campus support matters, but deciding guilt is a different task. Courts use trained fact-finders, formal evidence rules, and penalties set by law. A campus panel can protect students and offer accommodations without becoming a parallel criminal system. When an accusation may reshape both students' futures, the decision needs procedures that test claims fairly, hear both accounts, and
+[t02] @A4 <ovl> Joan(MOD): Just, just about ten seconds left.
+[t03] <cut> Rachel(PRO): apply one standard. Campus officials answer to institutional pressures, while courts are built to weigh contested evidence. That separation protects complainants from being treated as administrators' problems and protects-
+[t04] @A2-1 <ovl> Joan(MOD): Rachel, I have to stop you, that's time. Mira, go ahead.
+[t05] Mira(CON): Courts can address criminal punishment, but a campus must decide whether its own learning environment is safe. That duty is not a criminal trial in disguise. Schools control housing, classes, access, and support, and they need a prompt process to respond to harm. Removing that authority leaves students waiting for an outside system that cannot decide whether they can study safely together.
+[t06] @A4 <ovl> Joan(MOD): Ten seconds.
+[t07] Mira(CON): A campus decision can be fair, allow each person to speak, and protect both parties during the process. Safety and education cannot be put on hold. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Joan(MOD): And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t09] Rachel(PRO): I agree campuses should provide immediate support and adjust classes. But support does not require deciding guilt; serious accusations deserve a court's safeguards and authority.
+[t10] Mira(CON): When a report concerns ongoing contact in classes or housing, campuses must act quickly to prevent harm. Courts alone cannot manage daily educational access, so campuses should decide.
+[t11] Rachel(PRO): On your ongoing-contact point, temporary protections can happen without a campus verdict. Courts decide responsibility, while campuses offer neutral changes; that keeps guilt decisions in courts.
+[t12] Mira(CON): Housing staff need training, clear reporting routes, and private spaces for students in crisis. Those details matter, but the motion concerns decision-making, and campuses should decide.
+[t13] Rachel(PRO): Imagine two students accused after a party, with messages interpreted differently and no neutral hearing rules. Why let campus officials decide guilt? That risk proves courts should decide.
+[t14] Mira(CON): We should let campuses decide safety measures because a court process may not address immediate access to class or housing. Your party example supports timely campus decisions, not delay.
+[t15] Rachel(PRO): The deeper issue is how schools fund counseling, escorts, and confidential reporting for students after trauma. Those services need stable staffing, privacy, and trust from everyone.
+[t16] @B1 Joan(MOD): I feel we're getting a little bit off the topic of whether whether courts rather than campuses should decide sexual assault cases. So, I want you to come in and bring it back around to that.
+[t17] Rachel(PRO): The question is whether courts, rather than campuses, should decide sexual assault cases, and they should. Campuses can support safety without replacing the legal forum for responsibility.
+[t18] <cut> Mira(CON): On your support-without-replacement point, support alone cannot resolve whether two students may share a lab or residence. Campus decisions address that real conflict, because courts may-
+[t19] <ovl> Rachel(PRO): They can share a lab under neutral arrangements while a court determines guilt. You keep calling that a campus decision, but safety planning is not a verdict.
+[t20] Mira(CON): Every student deserves a learning environment free from unresolved harm, so who can provide it if not campuses? Courts cannot replace that educational responsibility.
+[t21] Rachel(PRO): Courts provide accountability, while campuses can provide the environment through nonjudgmental support and scheduling. Your claim wrongly treats a responsibility to help as power to decide guilt.
+[t22] Mira(CON): I accept that a campus should not imitate a criminal courtroom or impose criminal punishment. But it must decide its own access and safety rules, so campuses should decide.
+[t23] @A4 <ovl> Joan(MOD): You both have ten seconds.
+[t24] <cut> Rachel(PRO): Your weakest claim is that access rules require deciding sexual assault itself. A school can separate schedules without declaring who committed a crime, so courts-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Joan(MOD): And that's time. Let's go to closing statements now. Rachel, are you ready?
+[t26] Rachel(PRO): Mira is right that students need prompt safety measures. But safety measures do not require a campus judgment of guilt; support, schedule changes, and housing plans can begin immediately. Courts bring authority and procedures when responsibility is at stake. Protect students without duplicate guilt rulings. That's all, thank you.
+[t27] @A2-2 Joan(MOD): Let Mira have the mic.
+[t28] Mira(CON): Rachel rightly worries about improvised and unfair judgments. Yet the alternative leaves campuses unable to resolve access, learning, and safety while a court addresses only criminal liability. Fair campus processes can hear both sides and set educational rules. Students live and learn there daily, so campuses must decide. That's all, thank you.
+[t29] Joan(MOD): Thank you, Rachel and Mira, for a discussion. This concludes our debate. Thank you for joining us today.

@@ -1,0 +1,427 @@
+{
+ "debate_id": "L076",
+ "motion": "UN efforts in the Middle East are helping.",
+ "speakers": {
+  "MOD": {
+   "name": "Joanne",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1266_611",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1266/MSP-PODCAST_1266_611.wav",
+   "wpm": 163.47
+  },
+  "PRO": {
+   "name": "Kent",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  },
+  "CON": {
+   "name": "Neil",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4814_946",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4814/MSP-PODCAST_4814_946.wav",
+   "wpm": 172.38
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 84.55,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 313.03,
+ "ext": {
+  "a32": {
+   "file": "L076_ext_a32.wav",
+   "place_at_sec": 233.182,
+   "dur_sec": 19.2,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "If these efforts are helping, why should families trust another promise of protection after repeated delays and broken arrangements?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.13,
+   "dur_sec": 21.13,
+   "overlap": false,
+   "text": "Welcome. Our motion is whether UN efforts in the Middle East are helping: Kent argues for it, and Neil argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue before each timed section ends. Please address each other directly and keep remarks focused."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.33,
+   "end_sec": 31.37,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "UN efforts help when local life is breaking down. They keep talks open, move aid toward families, and give civilians a channel beyond armed groups. It keeps."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 30.47,
+   "end_sec": 32.77,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No, that picture skips the damage these efforts-",
+   "cut_at_sec": 32.77,
+   "full_dur_sec": 10.09,
+   "ext_file": "L076_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 31.97,
+   "end_sec": 33.74,
+   "dur_sec": 1.77,
+   "overlap": true,
+   "text": "Let him finish. Go ahead."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 33.94,
+   "end_sec": 44.38,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "working even when leaders refuse to meet. A channel for food, shelter, and dialogue does not solve everything, but it prevents abandonment when people have few options."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.33,
+   "end_sec": 42.88,
+   "dur_sec": 1.55,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 44.58,
+   "end_sec": 52.96,
+   "dur_sec": 8.38,
+   "overlap": false,
+   "text": "That practical support is real help, so the motion deserves support. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 53.16,
+   "end_sec": 56.2,
+   "dur_sec": 3.04,
+   "overlap": false,
+   "text": "Neil? Do you want to try this one on?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 56.4,
+   "end_sec": 76.11,
+   "dur_sec": 19.71,
+   "overlap": false,
+   "text": "Help must be judged by results, not by good intentions. UN plans often bring meetings, paperwork, and promises while conflict continues and families remain insecure. Aid can matter, but a system that repeatedly fails to protect people or settle disputes is not helping enough to call these efforts a success. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 76.31,
+   "end_sec": 88.8,
+   "dur_sec": 12.49,
+   "overlap": false,
+   "text": "Now onto round two. And round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 89.0,
+   "end_sec": 102.13,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "Consider a village waiting for a promised relief delivery while permission disputes hold it at a checkpoint. Families sell belongings and lose trust as officials negotiate. That delay shows UN efforts can deepen dependence rather than help."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 102.685,
+   "end_sec": 114.805,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "The debate is not about whether every official meeting feels useful, or whether speeches sound impressive. It is about people receiving protection and a path to dialogue; on that motion, UN efforts are helping."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 115.465,
+   "end_sec": 126.945,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I grant that emergency supplies can ease a desperate day. But temporary relief cannot excuse a process that leaves communities waiting for safety, accountability, and a durable settlement, because those efforts often-"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 126.045,
+   "end_sec": 138.245,
+   "dur_sec": 12.2,
+   "overlap": true,
+   "text": "Neil, if a relief convoy reaches families who would otherwise go without, how is that not help? Your standard demands total success before recognizing meaningful protection, and that makes the motion look falsely empty."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 139.029,
+   "end_sec": 151.509,
+   "dur_sec": 12.48,
+   "overlap": false,
+   "text": "A convoy can help one family, but that does not prove the overall effort is helping. Your example treats a brief delivery as a solution, while failed mediation and blocked access leave the wider crisis untouched."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 152.054,
+   "end_sec": 164.254,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "I believe UN efforts always help. They may help through aid, monitoring, or simply preserving contact between hostile sides, and each of those actions reduces isolation and gives civilians a better chance to endure."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 164.833,
+   "end_sec": 178.073,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "When outside officials announce a pause that collapses hours later, families may leave shelter believing travel is safe and face renewed danger. False reassurance is worse than silence. That harm shows UN efforts are not reliably helping."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 178.885,
+   "end_sec": 191.685,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "In a blocked aid line, UN efforts do not help. That failure shows why access must be defended, yet the wider work of delivering supplies, documenting abuses, and creating talks still helps people across the region."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 191.885,
+   "end_sec": 200.165,
+   "dur_sec": 8.28,
+   "overlap": false,
+   "text": "So one moment it's uN efforts always help and the next moment it's in a blocked aid line, UN efforts do not help?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 200.365,
+   "end_sec": 213.245,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Those statements fit because help is the purpose and usual effect of the effort, while a blocked line describes its immediate failure. I keep both points: failures demand stronger access, not abandonment of work that helps."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 213.539,
+   "end_sec": 224.429,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "Kent's blocked-line point admits the central weakness: people cannot live on intended help. If access, protection, and talks can fail when needed, why call the overall effort helping rather than unreliable?"
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 225.02,
+   "end_sec": 237.22,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "No, your premise assumes help must be guaranteed to count. Assistance is still help when it feeds displaced families, carries messages between rivals, and records harm; imperfect tools remain better than leaving civilians alone."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 228.8,
+   "end_sec": 231.21,
+   "dur_sec": 2.41,
+   "overlap": true,
+   "text": "Ten seconds, both of you."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 237.432,
+   "end_sec": 242.3,
+   "dur_sec": 4.868,
+   "overlap": false,
+   "text": "A field team helping separated relatives-",
+   "ext_file": "L076_ext_a32.wav",
+   "cut_at_sec": 235.35,
+   "full_dur_sec": 12.2
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 238.8,
+   "end_sec": 246.73,
+   "dur_sec": 7.93,
+   "overlap": true,
+   "text": "That's time. Now we move on to round three. And round three are closing statements by each debater in turn. Here is Kent."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 246.93,
+   "end_sec": 268.29,
+   "dur_sec": 21.36,
+   "overlap": false,
+   "text": "The strongest point is simple: help is measured in what people can do and survive today. UN efforts bring food, shelter, contact, and a place for enemies to communicate when other channels have failed. Neil rightly notes failures, but failure in one line does not erase assistance reaching others. Abandoning this work would leave civilians with fewer protections, not more."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 266.93,
+   "end_sec": 269.26,
+   "dur_sec": 2.33,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 268.49,
+   "end_sec": 280.43,
+   "dur_sec": 11.94,
+   "overlap": false,
+   "text": "We should demand better access and honest follow-through. Yet demanding improvement is not a reason to deny the aid, protection, and dialogue already provided-",
+   "cut_at_sec": 273.98,
+   "full_dur_sec": 16.4,
+   "ext_file": "L076_028.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 277.43,
+   "end_sec": 281.74,
+   "dur_sec": 4.31,
+   "overlap": true,
+   "text": "You're out of time. And here to summarize his position, Neil."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.94,
+   "end_sec": 302.22,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Good intentions and isolated acts of relief do not settle this motion. The question is whether UN efforts, as a whole, are helping, and too often they produce delay, dependence, and promises people cannot safely rely on. A delivered package matters, but it cannot outweigh a failed protection plan or a stalled peace process. Families need durable safety, not an institution that may arrive late."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 301.94,
+   "end_sec": 303.82,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 302.42,
+   "end_sec": 313.09,
+   "dur_sec": 10.67,
+   "overlap": false,
+   "text": "We should support direct relief while refusing to confuse activity with success. Until these efforts consistently protect people and improve their future, the motion is false. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 313.29,
+   "end_sec": 319.14,
+   "dur_sec": 5.85,
+   "overlap": false,
+   "text": "Thank you, Kent and Neil, for a direct debate on this important motion. That concludes our discussion."
+  }
+ ]
+}

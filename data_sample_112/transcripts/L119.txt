@@ -1,0 +1,38 @@
+L119  |  The AAP's child obesity guidelines are good medicine.
+  MOD=Daisy   PRO=Kirsten   CON=Amy
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Daisy(MOD): Welcome. Tonight's motion is whether the AAP's child obesity guidelines are good medicine. Kirsten argues for the motion, and Amy argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire. Keep it focused and respectful. Then each gets thirty seconds to close, with a ten-second cue.
+[t01] Kirsten(PRO): These guidelines treat obesity as a health concern, not a character flaw. They call for early assessment, family-centered support, and options matched to need. Waiting until problems deepen is not kindness; careful, compassionate care for children is good medicine here. That's all, thank you.
+[t02] @A2-2 Daisy(MOD): Let me take your point to Amy then.
+[t03] Amy(CON): These guidelines risk turning children into medical problems before they are heard as people. A rushed label can bring shame, conflict, and pressure toward powerful interventions. Good medicine listens, protects trust, and avoids making body size the center of childhood. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Daisy(MOD): And that concludes round one. Now onto round two. And round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t05] Amy(CON): Imagine a child who hears adults discuss her weight at every visit. She stops speaking honestly and skips care altogether. That loss of trust shows these guidelines can harm the children they claim to help.
+[t06] Kirsten(PRO): Families also need affordable food, safe places to play, and time together, which matters beyond any clinic. But the motion asks about medicine, and guided, respectful assessment gives families help before health burdens grow.
+[t07] Amy(CON): Your food-and-play point cannot rescue guidelines that make size a medical alarm. The weakest part of your case is calling more clinical attention automatically respectful for a child already worried.
+[t08] Kirsten(PRO): When schools design lunch and activity rules, they can shape sports access and even how children are grouped. Public institutions should build supportive systems that welcome children of every size and give families equal standing in school life.
+[t09] @B1 Daisy(MOD): Okay. What does your point have to do with whether the AAP's child obesity guidelines are good medicine?
+[t10] Kirsten(PRO): That point matters because clinical guidance should keep support humane, not turn schools into judges. No child should ever be denied treatment. These guidelines offer earlier, respectful care rather than abandonment.
+[t11] Amy(CON): Your point, 'No child should ever be denied treatment,' confuses attention with medicine. Children deserve help, but not every child needs a medical pathway. These guidelines can make refusal of intensive care look like neglect.
+[t12] Kirsten(PRO): This child should be denied treatment. A child frightened by medical appointments needs ordinary reassurance, play, and patient listening, not another clinical plan. That is why these guidelines remain good medicine.
+[t13] @B2 Daisy(MOD): You said no child should ever be denied treatment, but you see it as this child should be denied treatment.
+[t14] Kirsten(PRO): Both statements protect a child from abandonment: treatment means helpful care, while denial means refusing a harmful plan. The real duty is to offer support that fits the child, which is exactly the guidelines' purpose.
+[t15] Amy(CON): That wordplay is the weakest part of your defense. You called it treatment, then said this child should be denied treatment. Families cannot trust guidance that reverses its promise when a child is anxious.
+[t16] Kirsten(PRO): If you reject these guidelines, what clear path do you offer a child whose health is worsening and whose family asks for help? Saying 'just listen' leaves that family without timely, organized care.
+[t17] @A4 <ovl> Daisy(MOD): Ten seconds, and then closing statements.
+[t18] <cut> Amy(CON): I reject the premise that rejecting these guidelines means abandoning care. Offer patient counseling, investigate concerns, and let families set a pace without weight-driven targets. Your organized-
+
+--- phase 3 ---
+[t19] @A3-2 <ovl> Daisy(MOD): Time's up. Now we move on to round three. Round three will be closing statements by each debater in turn. And here to speak first in the closing round, Kirsten.
+[t20] Kirsten(PRO): The strongest point is that children deserve help before concerns become heavier and harder to address. These guidelines ask clinicians to listen, involve families, and offer care without blame. That is better than waiting until trust and health are both damaged. Medicine should meet children with practical support, not silence. It also recognizes that each family needs a voice.
+[t21] @A4 <ovl> Daisy(MOD): Kirsten, ten seconds.
+[t22] Kirsten(PRO): That voice does not erase medical responsibility; it makes care humane. Early, respectful options give children a better chance to thrive, and that is good medicine. That's all, thank you.
+[t23] @A2-2 Daisy(MOD): Please, Amy. That's where I was going next.
+[t24] Amy(CON): Deciding this motion turns on whether a child is helped by being placed inside a weight-centered medical program. Care can be compassionate, yet a guideline can still create pressure and shame. Children need trust, room to grow, and attention to their whole lives. We should not confuse more intervention with better medicine. The question is who sets the path.
+[t25] @A4 <ovl> Daisy(MOD): Ten seconds please.
+[t26] <cut> Amy(CON): A better approach starts with listening and practical support, without treating size as a verdict. Families deserve choices that do not arrive wrapped in fear. If we-
+[t27] @A1 <ovl> Daisy(MOD): Time.
+[t28] Daisy(MOD): Thank you, Kirsten and Amy, for a thoughtful debate on this motion; that concludes our discussion here tonight.

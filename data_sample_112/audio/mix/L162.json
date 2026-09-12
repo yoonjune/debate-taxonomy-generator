@@ -1,0 +1,433 @@
+{
+ "debate_id": "L069",
+ "motion": "The Egyptian military is not interested in genuine reform",
+ "speakers": {
+  "MOD": {
+   "name": "Julian",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5548_380",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5548/MSP-PODCAST_5548_380.wav",
+   "wpm": 161.43
+  },
+  "PRO": {
+   "name": "Martin",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  },
+  "CON": {
+   "name": "Carissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5287_206",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5287/MSP-PODCAST_5287_206.wav",
+   "wpm": 169.41
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 77.2,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 292.26,
+ "ext": {
+  "a32": {
+   "file": "L069_ext_a32.wav",
+   "place_at_sec": 222.326,
+   "dur_sec": 20.89,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I grant that unchecked cancellation would undermine reform. But Martin treats any remaining discretion as unchecked power, while real institutional change can narrow discretion and still be genuine reform."
+  },
+  {
+   "src_i": 25,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "The point about narrowed discretion misses who sets the limits. If military leaders can revise or ignore those limits themselves, civilian accountability remains dependent on their consent, proving no genuine reform."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.05,
+   "dur_sec": 19.05,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that the Egyptian military is not interested in genuine reform. Martin speaks for it, and Carissa speaks against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please keep the exchange focused and respectful."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.25,
+   "end_sec": 29.29,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "Egyptian military leaders preserve their power by controlling civilian decisions and shielding themselves from review. Changing appearances is not reform when the same institution keeps the final veto."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 28.39,
+   "end_sec": 30.69,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No, you are treating any gradual change-",
+   "cut_at_sec": 30.69,
+   "full_dur_sec": 8.64,
+   "ext_file": "L069_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 29.89,
+   "end_sec": 31.58,
+   "dur_sec": 1.69,
+   "overlap": true,
+   "text": "Carissa, please. Thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 31.78,
+   "end_sec": 42.22,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "The test is whether independent civilians can question military choices without being overruled. If the institution writes the boundaries of scrutiny, its promised reform remains controlled from within."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.25,
+   "end_sec": 42.13,
+   "dur_sec": 2.88,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 42.42,
+   "end_sec": 50.68,
+   "dur_sec": 8.26,
+   "overlap": false,
+   "text": "Until power can genuinely be transferred and challenged, the military is not interested in genuine reform. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 50.88,
+   "end_sec": 53.97,
+   "dur_sec": 3.09,
+   "overlap": false,
+   "text": "And I want to take it to Carissa."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.17,
+   "end_sec": 71.27,
+   "dur_sec": 17.1,
+   "overlap": false,
+   "text": "Martin mistakes control over a difficult transition for permanent rejection of reform. A military can protect order while opening space for civilian institutions, clearer rules, and accountable decisions. The question is intent shown through real steps, not whether every change arrives instantly. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.47,
+   "end_sec": 81.72,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "And that concludes Round one. Now onto Round two. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 81.92,
+   "end_sec": 91.72,
+   "dur_sec": 9.8,
+   "overlap": false,
+   "text": "Your final-veto claim is the weakest part because institutions often retain limited authority while changing how they exercise it. Shared responsibility does not prove a refusal to reform."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 92.678,
+   "end_sec": 103.438,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "I agree that gradual change can be real, and no reform appears overnight. But when military leaders decide which civilian challenges are permitted, gradualism becomes a way to preserve control."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 104.405,
+   "end_sec": 114.755,
+   "dur_sec": 10.35,
+   "overlap": false,
+   "text": "The cosmetic-announcement point assumes leaders cannot build trust through modest reforms. If new review rules constrain decisions and expand civilian participation, those steps show reform rather than mere theater."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 115.017,
+   "end_sec": 124.657,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "If leaders genuinely want reform, why should they retain the power to block independent review whenever it threatens them? That safeguard protects the institution, not genuine reform."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 125.068,
+   "end_sec": 137.868,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "They may retain it to prevent abrupt decisions from damaging public order. Imagine a civilian panel correcting an unfair detention after new procedures give it access; that benefit shows reform can work even while safeguards remain-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 136.968,
+   "end_sec": 148.368,
+   "dur_sec": 11.4,
+   "overlap": true,
+   "text": "But that panel only matters if it can act against military wishes. A review body with access but no final authority offers sympathy, not accountability, and leaves the old power structure intact."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.287,
+   "end_sec": 160.237,
+   "dur_sec": 10.95,
+   "overlap": false,
+   "text": "Public order also depends on officers learning restraint and civilians learning how new procedures work. Training manuals matter, but the motion concerns intent, and steady institutional openings can reveal genuine reform."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 160.975,
+   "end_sec": 171.735,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "I accept that training and new procedures may improve daily conduct. Yet improved conduct is not genuine reform if leaders still control oversight, punishment, and the terms of civilian authority."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 172.262,
+   "end_sec": 182.842,
+   "dur_sec": 10.58,
+   "overlap": false,
+   "text": "Consider a military school changing its lessons so recruits practice de-escalation instead of automatic force. Those habits can reshape how junior officers treat people long before they hold command positions."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 183.042,
+   "end_sec": 192.302,
+   "dur_sec": 9.26,
+   "overlap": false,
+   "text": "Okay, I'm not sure that that's getting to whether the Egyptian military is interested in genuine reform, which I think is a little bit more on point."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 192.502,
+   "end_sec": 203.622,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "On the motion, the Egyptian military can be interested in genuine reform even if authority shifts gradually. Martin demands instant surrender of power, but reform is demonstrated by meaningful movement toward accountability."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 204.618,
+   "end_sec": 215.738,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Imagine an independent investigator uncovering abuse, only for military leaders to cancel the inquiry and protect those responsible. That harm shows why reform without enforceable civilian oversight is not genuine reform."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 216.032,
+   "end_sec": 226.232,
+   "dur_sec": 10.2,
+   "overlap": false,
+   "text": "That example shows abuse, but it does not show every reform effort is insincere. Stronger procedures can prevent cancellations over time, so imperfect enforcement does not erase genuine reform."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 221.72,
+   "end_sec": 223.96,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 226.846,
+   "end_sec": 235.22,
+   "dur_sec": 8.374,
+   "overlap": false,
+   "text": "Your weakest claim is that future procedures prove present intent. Leaders who can cancel scrutiny whenever it matters-",
+   "ext_file": "L069_ext_a32.wav",
+   "cut_at_sec": 228.0,
+   "full_dur_sec": 10.33
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 231.72,
+   "end_sec": 240.53,
+   "dur_sec": 8.81,
+   "overlap": true,
+   "text": "And that's time. Okay. We're gonna wrap it up there. And now we move on to our closing statements. And Martin, you are up first."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.73,
+   "end_sec": 256.95,
+   "dur_sec": 16.22,
+   "overlap": false,
+   "text": "This decision turns on control, not promises or careful language. Genuine reform requires independent civilian oversight that can investigate and constrain military power. When the military keeps authority to veto that oversight, it is not interested in genuine reform. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 257.15,
+   "end_sec": 260.92,
+   "dur_sec": 3.77,
+   "overlap": false,
+   "text": "Okay. Martin, let me give the floor back to Carissa."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 261.12,
+   "end_sec": 281.28,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "This decision turns on whether genuine reform must be perfect before it counts. It does not. The relevant question is whether the military is opening real channels for civilian participation, review, and restraint. Martin calls every incomplete change a sham, but institutions often reform through durable steps that build trust and capacity."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 281.12,
+   "end_sec": 282.16,
+   "dur_sec": 1.04,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.48,
+   "end_sec": 294.62,
+   "dur_sec": 13.14,
+   "overlap": false,
+   "text": "Yes, oversight must eventually have force, and abuses must face challenge. But insisting that reform has value only after every safeguard is complete ignores how change develops-",
+   "cut_at_sec": 285.64,
+   "full_dur_sec": 16.76,
+   "ext_file": "L069_032.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 291.62,
+   "end_sec": 292.43,
+   "dur_sec": 0.81,
+   "overlap": true,
+   "text": "Time."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 292.63,
+   "end_sec": 299.04,
+   "dur_sec": 6.41,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful exchange. This concludes our debate on whether the Egyptian military seeks genuine reform."
+  }
+ ]
+}

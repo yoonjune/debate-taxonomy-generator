@@ -1,0 +1,42 @@
+L162  |  The Egyptian military is not interested in genuine reform
+  MOD=Julian   PRO=Martin   CON=Carissa
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Julian(MOD): Welcome. Tonight's motion is that the Egyptian military is not interested in genuine reform. Martin speaks for it, and Carissa speaks against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please keep the exchange focused and respectful.
+[t01] Martin(PRO): Egyptian military leaders preserve their power by controlling civilian decisions and shielding themselves from review. Changing appearances is not reform when the same institution keeps the final veto.
+[t02] <ovl> <cut> Carissa(CON): No, you are treating any gradual change-
+[t03] @A5 <ovl> Julian(MOD): Carissa, please. Thank you.
+[t04] Martin(PRO): The test is whether independent civilians can question military choices without being overruled. If the institution writes the boundaries of scrutiny, its promised reform remains controlled from within.
+[t05] @A4 <ovl> Julian(MOD): I can give you ten seconds to wrap this round.
+[t06] Martin(PRO): Until power can genuinely be transferred and challenged, the military is not interested in genuine reform. That's all, thank you.
+[t07] @A2-2 Julian(MOD): And I want to take it to Carissa.
+[t08] Carissa(CON): Martin mistakes control over a difficult transition for permanent rejection of reform. A military can protect order while opening space for civilian institutions, clearer rules, and accountable decisions. The question is intent shown through real steps, not whether every change arrives instantly. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Julian(MOD): And that concludes Round one. Now onto Round two. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t10] Carissa(CON): Your final-veto claim is the weakest part because institutions often retain limited authority while changing how they exercise it. Shared responsibility does not prove a refusal to reform.
+[t11] Martin(PRO): I agree that gradual change can be real, and no reform appears overnight. But when military leaders decide which civilian challenges are permitted, gradualism becomes a way to preserve control.
+[t12] Carissa(CON): The cosmetic-announcement point assumes leaders cannot build trust through modest reforms. If new review rules constrain decisions and expand civilian participation, those steps show reform rather than mere theater.
+[t13] Martin(PRO): If leaders genuinely want reform, why should they retain the power to block independent review whenever it threatens them? That safeguard protects the institution, not genuine reform.
+[t14] <cut> Carissa(CON): They may retain it to prevent abrupt decisions from damaging public order. Imagine a civilian panel correcting an unfair detention after new procedures give it access; that benefit shows reform can work even while safeguards remain-
+[t15] <ovl> Martin(PRO): But that panel only matters if it can act against military wishes. A review body with access but no final authority offers sympathy, not accountability, and leaves the old power structure intact.
+[t16] Carissa(CON): Public order also depends on officers learning restraint and civilians learning how new procedures work. Training manuals matter, but the motion concerns intent, and steady institutional openings can reveal genuine reform.
+[t17] Martin(PRO): I accept that training and new procedures may improve daily conduct. Yet improved conduct is not genuine reform if leaders still control oversight, punishment, and the terms of civilian authority.
+[t18] Carissa(CON): Consider a military school changing its lessons so recruits practice de-escalation instead of automatic force. Those habits can reshape how junior officers treat people long before they hold command positions.
+[t19] @B1 Julian(MOD): Okay, I'm not sure that that's getting to whether the Egyptian military is interested in genuine reform, which I think is a little bit more on point.
+[t20] Carissa(CON): On the motion, the Egyptian military can be interested in genuine reform even if authority shifts gradually. Martin demands instant surrender of power, but reform is demonstrated by meaningful movement toward accountability.
+[t21] Martin(PRO): Imagine an independent investigator uncovering abuse, only for military leaders to cancel the inquiry and protect those responsible. That harm shows why reform without enforceable civilian oversight is not genuine reform.
+[t22] Carissa(CON): That example shows abuse, but it does not show every reform effort is insincere. Stronger procedures can prevent cancellations over time, so imperfect enforcement does not erase genuine reform.
+[t23] @A4 <ovl> Julian(MOD): Ten seconds left in the crossfire.
+[t24] <cut> Martin(PRO): Your weakest claim is that future procedures prove present intent. Leaders who can cancel scrutiny whenever it matters-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Julian(MOD): And that's time. Okay. We're gonna wrap it up there. And now we move on to our closing statements. And Martin, you are up first.
+[t26] Martin(PRO): This decision turns on control, not promises or careful language. Genuine reform requires independent civilian oversight that can investigate and constrain military power. When the military keeps authority to veto that oversight, it is not interested in genuine reform. That's all, thank you.
+[t27] @A2-2 Julian(MOD): Okay. Martin, let me give the floor back to Carissa.
+[t28] Carissa(CON): This decision turns on whether genuine reform must be perfect before it counts. It does not. The relevant question is whether the military is opening real channels for civilian participation, review, and restraint. Martin calls every incomplete change a sham, but institutions often reform through durable steps that build trust and capacity.
+[t29] @A4 <ovl> Julian(MOD): Ten seconds.
+[t30] <cut> Carissa(CON): Yes, oversight must eventually have force, and abuses must face challenge. But insisting that reform has value only after every safeguard is complete ignores how change develops-
+[t31] @A1 <ovl> Julian(MOD): Time.
+[t32] Julian(MOD): Thank you both for a thoughtful exchange. This concludes our debate on whether the Egyptian military seeks genuine reform.

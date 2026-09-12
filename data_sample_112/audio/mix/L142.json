@@ -1,0 +1,449 @@
+{
+ "debate_id": "L043",
+ "motion": "It’s time to redistribute the wealth.",
+ "speakers": {
+  "MOD": {
+   "name": "Hina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1279_95",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1279/MSP-PODCAST_1279_95.wav",
+   "wpm": 175.28
+  },
+  "PRO": {
+   "name": "Justine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  },
+  "CON": {
+   "name": "Amanda",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 81.89,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 308.04,
+ "ext": {
+  "a32": {
+   "file": "L043_ext_a32.wav",
+   "place_at_sec": 230.444,
+   "dur_sec": 21.38,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Consider a neighborhood clinic funded from a large estate. It offers checkups, medicines, and safe births to families who could not pay. That proves redistributed wealth can turn idle privilege into shared security."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.85,
+   "dur_sec": 19.85,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is: It is time to redistribute the wealth. Justine argues for it, and Amanda argues against it. Each opening is thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. We will keep the exchange direct, respectful, and focused on the motion throughout."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.05,
+   "end_sec": 39.43,
+   "dur_sec": 19.38,
+   "overlap": false,
+   "text": "Wealth is not merely money in a vault; it is power over housing, food, time, and security. When a few hold far more than they can use while others lack basics, rules have failed. Redistribution repairs that imbalance through fair contributions and shared public foundations. It expands real freedom, rather than leaving opportunity to inheritance."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.63,
+   "end_sec": 53.55,
+   "dur_sec": 13.92,
+   "overlap": false,
+   "text": "That does not mean punishing effort. It means asking those protected by common laws, workers, and infrastructure to return more, so every child can begin with a genuine chance and no family-",
+   "cut_at_sec": 51.35,
+   "full_dur_sec": 14.08,
+   "ext_file": "L043_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.05,
+   "end_sec": 41.29,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Justine, ten seconds."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 50.55,
+   "end_sec": 53.76,
+   "dur_sec": 3.21,
+   "overlap": true,
+   "text": "Justine, that's your time. Thank you. And now, Amanda."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.96,
+   "end_sec": 71.24,
+   "dur_sec": 17.28,
+   "overlap": false,
+   "text": "Her plan assumes officials can judge what everyone deserves better than families and workers can. Wealth is also savings, tools, and risks carried over years. Taking it broadly weakens the reason to build, invest, and provide, while concentrating too much discretion in public hands. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.44,
+   "end_sec": 83.53,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "And that concludes round one. And now we move onto round two, and in round two the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 83.73,
+   "end_sec": 93.37,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "Your weakest claim is that unused wealth proves failure. People save for uncertainty, future projects, and relatives; calling that failure invites arbitrary seizure rather than fair opportunity."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 94.362,
+   "end_sec": 104.362,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "When basic needs remain unmet despite full-time work, redistribution through shared services is justified. In that condition, keeping surplus private protects comfort while denying others a workable start."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 104.911,
+   "end_sec": 116.751,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Imagine a small workshop owner selling equipment to retire. A broad levy forces a sale during a weak market, leaving workers without jobs. That proves redistribution can destroy security it claims to spread."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 117.435,
+   "end_sec": 126.905,
+   "dur_sec": 9.47,
+   "overlap": false,
+   "text": "If shared services can prevent working families from losing homes, why should accumulated surplus be treated as untouchable while their labor already supports the system every day?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 127.455,
+   "end_sec": 137.455,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "That same logic reaches gifts between parents and adult children. If a parent pays rent, officials must inspect affection, obligation, and family history before judging the household relationship."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 137.655,
+   "end_sec": 142.945,
+   "dur_sec": 5.29,
+   "overlap": false,
+   "text": "But we're getting a little bit off whether it is time to redistribute the wealth."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 143.145,
+   "end_sec": 153.635,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "The question is whether it is time to redistribute wealth, and it is not. Once government takes broad power over earned assets, no clear limit protects effort, savings, or independence."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 154.443,
+   "end_sec": 163.993,
+   "dur_sec": 9.55,
+   "overlap": false,
+   "text": "A society should ensure that no one is abandoned below a basic floor. Wealth redistribution is the tool when private pay and existing support leave that floor broken."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 164.7,
+   "end_sec": 176.54,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Shared services can ease hardship, and I support funding them responsibly. But the main leap is treating unequal outcomes as proof of injustice, which makes forced transfer the answer before causes are understood."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 177.285,
+   "end_sec": 188.655,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "Tax rules can be confusing, and paperwork often burdens small households first. Still, the core issue is power: redistributing concentrated wealth gives ordinary people a fairer share of the security they create."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 189.64,
+   "end_sec": 199.36,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "Why should someone who delayed spending, built a business, and saved for retirement lose control because others have less? Isn't expanding opportunity without confiscation the fairer path?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 200.114,
+   "end_sec": 209.884,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "Your savings point ignores how fortunes depend on workers and public rules. Why is it fair for one owner to keep gains created by everyone else in the firm?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 210.229,
+   "end_sec": 220.639,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "I reject that those gains are created by everyone else; workers are paid for their contribution. Why should your plan let officials seize more whenever they dislike a lawful outcome?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 221.311,
+   "end_sec": 231.481,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "Your weakest claim is that payment settles the matter. A wage can be lawful and still leave the people producing value unable to live securely; redistribution corrects that imbalance."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 223.53,
+   "end_sec": 225.93,
+   "dur_sec": 2.4,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 232.084,
+   "end_sec": 237.03,
+   "dur_sec": 4.946,
+   "overlap": false,
+   "text": "Some workers face real pressure, and better bargaining-",
+   "ext_file": "L043_ext_a32.wav",
+   "cut_at_sec": 232.69,
+   "full_dur_sec": 9.72
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 233.53,
+   "end_sec": 241.46,
+   "dur_sec": 7.93,
+   "overlap": true,
+   "text": "But now, it is time to bring this all home with our closing round. Justine for your closing statement, you are up first."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.66,
+   "end_sec": 261.94,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Deciding this motion turns on what wealth means in a shared society. It is not created in isolation; it rests on workers, rules, and public foundations that everyone sustains. We can reward initiative while refusing to let inherited advantage decide who gets safety and voice. Redistribution is the practical way to make freedom real for more people."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 261.66,
+   "end_sec": 265.42,
+   "dur_sec": 3.76,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 262.14,
+   "end_sec": 273.12,
+   "dur_sec": 10.98,
+   "overlap": false,
+   "text": "Fair contribution is not punishment; it is membership. Choose a system where prosperity carries responsibility, and support redistribution now for us all today. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 273.32,
+   "end_sec": 275.49,
+   "dur_sec": 2.17,
+   "overlap": false,
+   "text": "Amanda wants to answer that."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.69,
+   "end_sec": 285.62,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether fairness permits coercion. We should help people build security, but forced redistribution hands lasting power to officials who cannot know enough."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 284.72,
+   "end_sec": 287.02,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That power already shapes lives when wealth-",
+   "cut_at_sec": 283.36,
+   "full_dur_sec": 9.11,
+   "ext_file": "L043_030.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 286.22,
+   "end_sec": 287.85,
+   "dur_sec": 1.63,
+   "overlap": true,
+   "text": "Let her answer please."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 288.05,
+   "end_sec": 298.41,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "enough to weigh every sacrifice behind a home, a business, or a saved retirement. Give people opportunity, yes, but preserve their right to keep what they earn."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 295.69,
+   "end_sec": 296.9,
+   "dur_sec": 1.21,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 298.61,
+   "end_sec": 306.33,
+   "dur_sec": 7.72,
+   "overlap": false,
+   "text": "Compassion needs durable limits, so reject redistribution and build opportunity without confiscation for everyone. That's all, thank you."
+  },
+  {
+   "i": 34,
+   "src_i": 35,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 306.53,
+   "end_sec": 313.34,
+   "dur_sec": 6.81,
+   "overlap": false,
+   "text": "Thank you, Justine and Amanda, for a debate, and thank you for joining us; this debate is now closed."
+  }
+ ]
+}

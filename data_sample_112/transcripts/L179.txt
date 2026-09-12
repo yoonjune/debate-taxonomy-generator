@@ -1,0 +1,42 @@
+L179  |  Prohibit genetically engineered babies.
+  MOD=Rachel   PRO=Ross   CON=Carla
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Rachel(MOD): Welcome to our debate on the motion, prohibit genetically engineered babies. Ross supports the motion, and Carla opposes it. Each speaker has thirty seconds for an opening statement, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue, and I ask both speakers to address each other fairly today.
+[t01] Ross(PRO): Genetically engineered babies would turn early human life into a design project. Parents may begin with care, yet markets and fear can turn ordinary traits into demands. A child deserves room to arrive without being selected for a preferred body or temperament. Once clinics sell these choices, social pressure will make refusal feel reckless.
+[t02] @A4 <ovl> Rachel(MOD): Well, now ten.
+[t03] Ross(PRO): That pressure is why public rules must protect every future child from being treated as a customized outcome. The safest boundary is a clear public prohibition. That's all, thank you.
+[t04] @A2-2 Rachel(MOD): Okay. Carla, you're in.
+[t05] Carla(CON): A total ban treats every possible use as though it were vanity. Some parents could seek an alteration to spare a future child a severe inherited illness. We should regulate risky clinics, require review, and protect children from pressure. But taking every option away also takes a family's chance to prevent avoidable suffering.
+[t06] <cut> Carla(CON): Ross says pressure makes choice impossible, but careful rules can punish coercion and preserve consent. We can distinguish medical decisions from perfection demands, and a blanket ban would deny families help-
+[t07] @A4 <ovl> Rachel(MOD): Ten seconds please.
+[t08] @A1 <ovl> Rachel(MOD): Time out. Time out.
+
+--- phase 2 ---
+[t09] @A3-1 Rachel(MOD): And that concludes opening statements. Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Ross(PRO): Your consent point misses the child, who cannot agree to a permanent change made for parental goals. Regulation can police a clinic, but it cannot erase expectations built into a designed birth.
+[t11] Carla(CON): If a parent can choose a trait thought to improve status, what stops employers and neighbors from rewarding that choice? Please explain how your ban actually prevents those secret demands.
+[t12] Ross(PRO): Imagine a child engineered for unusual height because parents fear social disadvantage. At school, every setback becomes proof that the child failed a purchased promise. That shows design invites burdens no child chose, so prohibition protects them.
+[t13] Carla(CON): Families also face high costs, confusing paperwork, and unequal health care before any genetic choice. Those problems matter, but the motion is about prohibition. A carefully reviewed intervention may prevent suffering, so a ban is too blunt.
+[t14] Ross(PRO): When an alteration is intended to meet parental preference rather than treat a grave illness, the child becomes a product of adult anxiety. Under that condition, no safeguard can make the imposed identity fair, so prohibition is justified.
+[t15] Carla(CON): I agree that status competition can pressure parents, and clinics should never market traits as social upgrades. But Ross's condition leaves room for illness prevention, which is exactly why a total prohibition sacrifices compassionate care.
+[t16] Ross(PRO): Your illness-prevention point assumes engineering is the only compassionate response. It is not: care can support children with inherited conditions without giving parents power to set biological specifications. Compassion needs limits, and prohibition supplies one.
+[t17] Carla(CON): If a future child faces a grave inherited illness that an alteration could prevent, why force that family to accept it? Please explain why your prohibition is kinder than prevention.
+[t18] Ross(PRO): No child should be engineered to satisfy adult plans, because redesigning inheritance makes acceptance conditional. Society should protect children as persons before it treats their bodies as solutions to adult fears.
+[t19] Carla(CON): Your phrase 'adult plans' is the weakest part of your case. Preventing a severe illness is not making acceptance conditional; it is protecting a child's future freedom from pain. Calling that redesign turns care into something shameful.
+[t20] Ross(PRO): No, forcing illness is not kinder, but prohibition need not force illness because treatment after birth and non-engineering choices remain. Your prevention claim falsely makes genetic design the sole path to compassion and safety.
+[t21] <cut> Carla(CON): I accept that genetic design is not the only response, and families need counseling about alternatives. But denying every carefully limited preventive use replaces their judgment with a blanket rule, which is-
+[t22] @A4 <ovl> Rachel(MOD): Ten seconds warning.
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Rachel(MOD): And that's time. We need to move into our closing round. Ross, you are up first with that, as you were at the beginning.
+[t24] Ross(PRO): Carla's strongest point is preventing illness, and that wish is humane. But inherited redesign gives adults authority over a child and invites markets to stretch every exception. We can support families and treat illness without creating birth rights. Prohibition keeps the child's dignity ahead of control. That's all, thank you.
+[t25] @A2-2 Rachel(MOD): It's Carla's turn to talk.
+[t26] Carla(CON): Ross rightly worries about markets and pressure. Yet those dangers call for strict limits, not a ban that removes a possible protection against inherited illness.
+[t27] <ovl> <cut> Ross(PRO): But strict limits always fail once families-
+[t28] @A5 <ovl> Rachel(MOD): Ross, please. Thank you.
+[t29] Carla(CON): That is not a safe answer. Families deserve support, counseling, and tightly supervised care, rather than a rule that assumes every genetic intervention is a designer demand.
+[t30] @A4 <ovl> Rachel(MOD): Well, now it's ten.
+[t31] Carla(CON): Regulate genuine medical prevention, protect children from pressure, and reject this sweeping prohibition instead. That's all, thank you.
+[t32] Rachel(MOD): Thank you, Ross and Carla, for a thoughtful debate. This concludes our discussion of the motion. Good night.

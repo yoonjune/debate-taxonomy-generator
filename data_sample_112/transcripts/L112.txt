@@ -1,0 +1,41 @@
+L112  |  Bet on America.
+  MOD=Lionel   PRO=Hina   CON=Wendy
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Lionel(MOD): Welcome. The motion is: Bet on America. Hina supports it, and Wendy opposes it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. We are here to test whether confidence in the country's future is warranted, not merely trade slogans.
+[t01] Hina(PRO): Betting on America means backing its capacity to renew itself, not pretending it has no flaws. When people build, question bad choices, and solve problems, they create reasons for confidence. Retreat turns temporary trouble into permanent decline; commitment keeps possibilities open. That's all, thank you.
+[t02] @A2-2 Lionel(MOD): And let Wendy respond.
+[t03] Wendy(CON): I understand the appeal of resilience, but a bet is not a cheer. It asks people to risk savings, plans, and trust on institutions that can fail them. When leaders promise renewal while families carry the losses, optimism becomes a shield for poor judgment. We should ask who pays when confidence is wrong, because.
+[t04] <cut> Wendy(CON): because the people least able to absorb a setback pay first. A country can recover in headlines while households lose work, homes, and years of security, and betting anyway asks them-
+[t05] @A4 <ovl> Lionel(MOD): Ten seconds please.
+[t06] @A1 <ovl> Lionel(MOD): Thank you, Wendy. Your time is up.
+
+--- phase 2 ---
+[t07] @A3-1 Lionel(MOD): Great. So let's move on to the discussion portion of the debate. You have two and a half minutes, starting when I stop talking.
+[t08] Hina(PRO): You say confidence exposes people to risk, but what alternative do you offer: withholding effort and investment until every institution is flawless? How does that protect ordinary people?
+[t09] Wendy(CON): The alternative is safeguards before investment. Consider a household deciding whether to repair a roof after wages vanish: lender terms, deposits, and missed payments decide whether it leaks through winter.
+[t10] @B1 Lionel(MOD): Come back to the question of whether to bet on america's future, will you?
+[t11] Wendy(CON): The alternative is to refuse a blind bet on America and demand safeguards before risking people's futures. Effort matters, but confidence without accountability hands ordinary people the bill.
+[t12] Hina(PRO): If public institutions answer openly for failures, betting on America is sensible because trust can be checked. Under that condition, investment supports repair rather than rewarding empty promises.
+[t13] Wendy(CON): I believe no one should ever trust America. Power protects itself first, so a bet on it makes citizens absorb decisions they cannot control.
+[t14] Hina(PRO): That is the weakest claim because it treats every public action as identical power abuse. People can vote, organize, challenge leaders, and build alternatives; refusing all trust erases their agency.
+[t15] Wendy(CON): People should trust America. The people who depend on its systems deserve caution, but betting on America still exposes them to avoidable harm.
+[t16] @B2 Lionel(MOD): One moment you're saying no one should ever trust America, then you're having them trust America. Which?
+[t17] Wendy(CON): By America, I mean its governing power in the first statement, and its people in the second. Citizens can trust one another while refusing to gamble their futures on official promises.
+[t18] Hina(PRO): America's future is worth supporting beyond any one institution, because its people can correct failing leaders. That larger promise is why a responsible bet should not be abandoned.
+[t19] Wendy(CON): Schools and streets also shape whether families feel secure, and those choices deserve local attention. But the motion is about betting on America, and I say the risks still outweigh faith.
+[t20] Hina(PRO): Imagine a small workshop hiring a neighbor because its owner expects demand to return and can seek fair rules if it does not. That wager creates work and leverage for repair.
+[t21] Wendy(CON): Your workshop depends on demand returning, which is exactly the assumption at issue. A neighbor's job becomes fragile when hope, rather than reliable protection, is carrying the business.
+[t22] Hina(PRO): If nobody should trust America, why should a struggling worker trust the warning that every shared effort will fail? What path do you offer besides isolation and retreat?
+[t23] @A4 <ovl> Lionel(MOD): Ten seconds left on the clock.
+[t24] <cut> Wendy(CON): I reject the premise that caution means isolation-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Lionel(MOD): Time's up. And now we move on to round three. Here to make her closing statement in support of the motion, once again, Hina.
+[t26] Hina(PRO): The strongest case is practical: a cautious bet creates the work and leverage needed to repair what fails. America is not a promise that leaders never err; it is people able to demand better. Choosing engagement gives that capacity a future. That's all, thank you.
+[t27] @A2-2 Lionel(MOD): I'm going to let Wendy answer.
+[t28] Wendy(CON): Hina calls engagement a bet, but engagement does not require handing over trust without limits. People can work together, demand repair, and protect one another while refusing a sweeping wager on national power. When the downside falls first on those with the least cushion, caution is not retreat. It is responsibility, and the question remains whether hope can.
+[t29] @A4 <ovl> Lionel(MOD): You have ten seconds left.
+[t30] Wendy(CON): justify asking vulnerable people to risk more than they can lose. I say no: build safeguards first, then refuse the bet when promises fail. That's all, thank you.
+[t31] Lionel(MOD): Thank you, Hina and Wendy, for a thoughtful debate. That concludes our discussion of the motion.

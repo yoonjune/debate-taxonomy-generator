@@ -1,0 +1,35 @@
+L210  |  The New York Times has lost its way.
+  MOD=Eric   PRO=Howard   CON=Melissa
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Eric(MOD): Welcome. Tonight's motion is whether the New York Times has lost its way. Howard supports the motion, and Melissa opposes it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; please address each other directly and stay civil. I will give a ten-second cue.
+[t01] Howard(PRO): A paper loses its way when it confuses a preferred story with a fair account. The Times too often sounds certain before it has earned certainty. Its corrections arrive after the impression has settled. That is not a small style issue; it changes how readers judge every later claim.
+[t02] <cut> Howard(PRO): And worse, it treats disagreement as a flaw in readers rather than a challenge to reporting. Authority comes from humility and open correction, not a posture that says its judgment cannot be questioned, leaving the-
+[t03] @A4 <ovl> Eric(MOD): Ten seconds.
+[t04] @A2-1 <ovl> Eric(MOD): Time's up, Howard. Thank you. Melissa, please.
+[t05] Melissa(CON): Howard mistakes an imperfect institution for a lost one. The Times still tests claims, corrects mistakes, and gives readers reporting that powerful people would rather escape. A demanding standard can feel uncomfortable, but abandoning standards would not make journalism more trustworthy. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Eric(MOD): Okay. So now, we know where each of you stand and why. We'll be diving into discussion on our question, whether the New York Times has lost its way. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Howard(PRO): Calling standards uncomfortable dodges Melissa's claim. If readers are repeatedly told their doubts are moral failures, the paper stops informing them and starts managing them; that is losing its way.
+[t08] Melissa(CON): The business of selling subscriptions can distort any newsroom, and flashy headlines deserve scrutiny. But money is not the motion: careful reporting and visible correction show the Times still serves readers.
+[t09] Howard(PRO): I believe every newspaper should always publish corrections. When a paper treats its errors as inconveniences to conceal, it replaces accountability with self-protection, and that is precisely why the Times has lost its way.
+[t10] Melissa(CON): A reporter learns a source misstated a key detail, updates the story, and clearly explains the change to readers. That correction protects the subject from lasting harm and proves the Times has not lost its way.
+[t11] Howard(PRO): This newspaper should hide corrections. Its willingness to do so reveals a culture more concerned with preserving authority than earning trust, which is why I say the Times has lost its way.
+[t12] @B2 Eric(MOD): You're saying every newspaper should always publish corrections but you still want this newspaper should hide corrections.
+[t13] Howard(PRO): Both statements expose the same failure: corrections matter because truth matters, while hiding them shows how far the paper has drifted. The contradiction belongs to its conduct, and that conduct proves my side.
+[t14] <cut> Melissa(CON): You say transparency is essential, then defend hiding corrections; that is not a tension, it is surrender. Readers cannot trust a paper that asks them to accept rules it will not fol-
+[t15] <ovl> Howard(PRO): Hold on. The issue is that the paper has abandoned its own standard. When it hides corrections, it demonstrates the lost direction I describe; your defense asks readers to excuse conduct that would discredit any paper.
+[t16] Melissa(CON): If a correction is visible and the underlying reporting is checked, why does one disputed editorial tone mean the whole paper has lost its way? Aren't you turning ordinary disagreement into collapse?
+[t17] Howard(PRO): Because a pattern of contempt is not ordinary disagreement. When a family sees a correction buried after a false report harmed its neighbor, trust vanishes. Would you call that hidden repair enough for a paper to keep its way?
+[t18] Melissa(CON): No, hidden repair is not enough; corrections should be clear and prompt. But your example assumes concealment is the norm, while the paper's willingness to correct is evidence of discipline, not proof it is lost.
+[t19] @A4 <ovl> Eric(MOD): You've got ten seconds.
+[t20] <cut> Howard(PRO): On the hidden-repair point, Melissa calls correction discipline, but discipline requires readers to actually find the correction. A remedy buried from view protects the institution-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Eric(MOD): Time. So onto round three. Round three, closing statements from each debater in turn, uninterrupted. And here to summarize his position in support of whether the New York Times has lost its way, Howard.
+[t22] Howard(PRO): The strongest point is trust. A newspaper earns it through humility, clear correction, and respect for readers who question it. When authority matters more than accountability, readers receive a managed version of events, and the Times has lost its way. That's all, thank you.
+[t23] @A2-2 Eric(MOD): All right, Melissa, take that on.
+[t24] Melissa(CON): Howard is right that trust requires visible correction, but he mistakes a demanding paper's flaws for its abandonment of purpose. The Times still investigates, revises, and exposes claims to scrutiny. That continuing discipline means it has not lost its way. That's all, thank you.
+[t25] Eric(MOD): Thank you both for a thoughtful and vigorous debate. That concludes our discussion of tonight's motion and this debate.

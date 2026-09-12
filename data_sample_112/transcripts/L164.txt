@@ -1,0 +1,41 @@
+L164  |  The Universal Basic Income is the Safety Net of the Future
+  MOD=Pamela   PRO=Trevor   CON=Mustafa
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Pamela(MOD): Welcome. The motion is, "The Universal Basic Income is the Safety Net of the Future." Trevor supports it, and Mustafa opposes it. Each opening and closing gets thirty seconds; then we have two and a half minutes of crossfire, with a ten-second cue before time expires. Speak directly, and keep your remarks focused today.
+[t01] Trevor(PRO): UBI gives people a floor before a crisis becomes ruin. It reaches the worker between jobs, the carer, and the person missed by narrow rules. That simple, reliable support makes the future safety net stronger and more humane in practice. That's all, thank you.
+[t02] @A2-2 Pamela(MOD): Mustafa, why don't you take it.
+[t03] Mustafa(CON): That floor sounds kind, but a future safety net must target emergencies. Giving the same payment to everyone can leave less help for people facing the hardest shocks.
+[t04] <ovl> <cut> Trevor(PRO): But you are skipping people harmed by gaps-
+[t05] @A5 <ovl> Pamela(MOD): Can we let him reply please?
+[t06] Mustafa(CON): can vanish overnight. A system that spreads money broadly may sound secure, yet it can weaken the focused help that disability or sudden illness demands.
+[t07] @A4 <ovl> Pamela(MOD): You have ten seconds left.
+[t08] Mustafa(CON): The future needs protection matched to need, not a flat promise that may fail the vulnerable. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Pamela(MOD): And now we move on to the second round. And the second round is much more of a conversation where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t10] Trevor(PRO): Your point about targeted emergencies misses the gap before anyone qualifies. People lose hours, care for relatives, or face unstable work; UBI provides a base immediately, so targeted aid can handle deeper crises.
+[t11] Mustafa(CON): When a person can work and has stable access to help, a universal payment can replace urgency with dependency. Safety nets should respond to hardship, not treat every citizen as equally endangered.
+[t12] Trevor(PRO): I agree simple access matters, especially during sudden job loss. But your dependency claim treats security as surrender; a modest base lets people refuse exploitation, search carefully, and contribute without falling through the net.
+[t13] Mustafa(CON): Your weakest claim is that a payment lets people search carefully. Why should everyone fund leisure for someone who chooses not to search, while a person with severe needs receives no extra protection?
+[t14] Trevor(PRO): I reject the premise that UBI removes extra protection; it is a floor, not the whole system. Why make basic survival depend on proving misery, when targeted services can still meet severe needs?
+[t15] <cut> Mustafa(CON): Imagine a household already receiving a universal payment when a child needs intensive care. The flat amount does not cover lost work or care costs, proving universal cash is not a future safety net-
+[t16] <ovl> Trevor(PRO): That is exactly why I said UBI is a floor, not a replacement for care support. You describe a need for more layers, but that proves a universal base belongs underneath them.
+[t17] Mustafa(CON): Safety nets work best when they are built around need, because resources are finite. A universal payment also risks turning public protection into a routine allowance rather than a response to real vulnerability.
+[t18] Trevor(PRO): Resources are finite, and specialized care must remain strong. Yet you frame universality as waste, while universality removes gatekeeping, reaches people before collapse, and gives every person a secure platform for work and care.
+[t19] Mustafa(CON): Your weakest word is 'every.' Why should a wealthy person receive public cash before a neighbor needing housing support receives more direct help? Calling that efficiency avoids the tradeoff rather than solving it.
+[t20] Trevor(PRO): I reject the premise that equal access blocks greater housing help; UBI can sit beside it. The tradeoff is less wasteful than policing every applicant, and universality builds support people can trust.
+[t21] Mustafa(CON): Consider a worker whose rent rises after a universal payment arrives. The landlord can absorb that predictable extra cash, while the worker still cannot afford housing, proving targeted housing protection is safer.
+[t22] @A4 <ovl> Pamela(MOD): Ten seconds left in the crossfire.
+[t23] <cut> Trevor(PRO): On your rent point, a landlord's possible response is not an argument for leaving everyone without cash-
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Pamela(MOD): Time's up. I want to move into our third round, which is basically closing statements from each of you. And Trevor, you again, get to go first on this.
+[t25] Trevor(PRO): Mustafa's best argument is that severe needs require more than a flat payment, and that is right. But that does not defeat a floor beneath specialized help. UBI prevents ordinary setbacks becoming disasters, reaches people without stigma, and makes the future net universal, stable, and humane. That's all, thank you.
+[t26] @A2-2 Pamela(MOD): Okay. Go on, Mustafa.
+[t27] Mustafa(CON): This decision turns on what a safety net should do. It should catch people when hardship hits, not send equal checks regardless of need. Universal cash may feel simple, but simplicity can drain support from care, housing, and sudden crisis. The question is whether we protect everyone best by treating every problem alike, or directing help by need.
+[t28] @A4 <ovl> Pamela(MOD): You have ten seconds.
+[t29] <cut> Mustafa(CON): And once UBI becomes the main promise, officials can point to the check and neglect a person in crisis. You say layers solve that, but each competes for funds. A future safety net-
+[t30] @A1 <ovl> Pamela(MOD): Time out. Time out.
+[t31] Pamela(MOD): Thank you, Trevor and Mustafa, for a thoughtful debate on the future of the safety net.

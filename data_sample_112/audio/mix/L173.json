@@ -1,0 +1,401 @@
+{
+ "debate_id": "L084",
+ "motion": "Elon Musk is killing Twitter.",
+ "speakers": {
+  "MOD": {
+   "name": "Carla",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4100_1134",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4100/MSP-PODCAST_4100_1134.wav",
+   "wpm": 166.01
+  },
+  "PRO": {
+   "name": "Melissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "CON": {
+   "name": "Ross",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0177_72",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0177/MSP-PODCAST_0177_72.wav",
+   "wpm": 170.28
+  }
+ },
+ "selective": [
+  "A1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 78.99,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 295.73,
+ "ext": {
+  "a32": {
+   "file": "L084_ext_a32.wav",
+   "place_at_sec": 225.36,
+   "dur_sec": 22.35,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Consider a user who once saw only familiar arguments, then finds a new voice through altered recommendations and joins a useful discussion. That expanded encounter shows change can renew Twitter, not kill it."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.05,
+   "dur_sec": 19.05,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is whether Elon Musk is killing Twitter. Melissa argues for the motion, and Ross argues against it. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire; I will give a ten-second cue, and speakers should address each other directly and stay on the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.25,
+   "end_sec": 39.53,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Twitter is more than a logo; it is a shared public conversation. Under Musk, its rules, priorities, and basic reliability have become unpredictable. That drives away the people who make a social platform valuable. When users cannot trust the ground beneath them, they stop building conversations, and the loss spreads through every part of the service."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.25,
+   "end_sec": 41.05,
+   "dur_sec": 1.8,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.73,
+   "end_sec": 50.83,
+   "dur_sec": 11.1,
+   "overlap": false,
+   "text": "That is not ordinary change. It is a pattern of weakening the place people came to use, which is why the motion is true. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 51.03,
+   "end_sec": 53.84,
+   "dur_sec": 2.81,
+   "overlap": false,
+   "text": "OK. Ross, you wanted to come in."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.04,
+   "end_sec": 70.74,
+   "dur_sec": 16.7,
+   "overlap": false,
+   "text": "Change can feel chaotic, but chaos is not death. A platform can shed habits, test new controls, and still remain useful because people continue talking there. You call every disruption a collapse; how do you separate temporary discomfort from actual destruction? That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.94,
+   "end_sec": 83.35,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "And now we move on to round two. And round two is a more conversational round. The debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 83.55,
+   "end_sec": 93.27,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "No, I do not call every disruption collapse. I call repeated uncertainty that makes people leave a killing pattern, and your claim ignores who supplies Twitter's value."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 93.736,
+   "end_sec": 104.736,
+   "dur_sec": 11.0,
+   "overlap": false,
+   "text": "People also dislike the new visual clutter and noisy alerts, but design arguments are shallow. The motion fails because activity can survive messy management, and Twitter remains a place for exchange."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 105.588,
+   "end_sec": 114.438,
+   "dur_sec": 8.85,
+   "overlap": false,
+   "text": "When a sudden safety crisis hits, quick central decisions can protect a platform from harm. But Twitter faces ongoing impulsive control, not a brief rescue."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 114.961,
+   "end_sec": 126.441,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I grant that unclear notices frustrate users. But frustration does not prove death; people adapt, choose what to read, and keep finding voices worth hearing, so Twitter is changing rather than dying-"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 125.541,
+   "end_sec": 136.221,
+   "dur_sec": 10.68,
+   "overlap": true,
+   "text": "They do not simply adapt, Ross; they lose confidence in the rules and in each other. A conversation space dies when trust drains faster than new features can replace it."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 136.825,
+   "end_sec": 146.355,
+   "dur_sec": 9.53,
+   "overlap": false,
+   "text": "No owner should ever silence a user's lawful speech. If changes invite more disagreement and more voices into a forum, why call that killing rather than rebuilding?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 146.88,
+   "end_sec": 156.6,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "No, more voices do not prove a forum is healthy when the rules are unstable. Your free-speech slogan ignores whether people can safely rely on Twitter tomorrow."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 156.927,
+   "end_sec": 166.797,
+   "dur_sec": 9.87,
+   "overlap": false,
+   "text": "Elon should silence a user's lawful speech. A person who uses Twitter to spread cruel lies can poison discussion, yet stopping that damage shows responsible stewardship, not destruction."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 166.997,
+   "end_sec": 178.957,
+   "dur_sec": 11.96,
+   "overlap": false,
+   "text": "So what I hear was on the one hand, you found yourself saying no owner should ever silence a user's lawful speech. And then on the other hand, elon should silence a user's lawful speech."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 179.157,
+   "end_sec": 189.147,
+   "dur_sec": 9.99,
+   "overlap": false,
+   "text": "Those statements fit because liberty needs a real forum to exist, and poison can erase that forum. Protecting the conversation from abuse preserves Twitter's life rather than ends it."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 189.945,
+   "end_sec": 200.305,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "A healthy platform cannot depend on one person's impulses, even if decisive action can help during a sudden safety crisis. Twitter's troubles show that personal control is the danger."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 201.123,
+   "end_sec": 210.883,
+   "dur_sec": 9.76,
+   "overlap": false,
+   "text": "Your safety-crisis exception is the weakest point. You offer no reason Twitter is in danger now, so central control becomes an excuse to condemn management you simply dislike."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 211.083,
+   "end_sec": 218.603,
+   "dur_sec": 7.52,
+   "overlap": false,
+   "text": "Your safety-crisis point misses my claim: Twitter lacks a brief emergency. Why should users accept ongoing whims that make them leave?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 219.497,
+   "end_sec": 228.757,
+   "dur_sec": 9.26,
+   "overlap": false,
+   "text": "No, users need not accept whims; that premise misstates my view. They can judge each change, and continued participation shows Twitter is adapting, not being killed."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 223.35,
+   "end_sec": 225.36,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "Ten seconds, both of you."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 229.72,
+   "end_sec": 236.85,
+   "dur_sec": 7.13,
+   "overlap": false,
+   "text": "If continued participation alone proves health, would you call a forum healthy after-",
+   "ext_file": "L084_ext_a32.wav",
+   "cut_at_sec": 229.79,
+   "full_dur_sec": 10.68
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 233.35,
+   "end_sec": 239.92,
+   "dur_sec": 6.57,
+   "overlap": true,
+   "text": "That's time. We're gonna go onto our closing round. And first up will be Melissa, you're first up, right?"
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.12,
+   "end_sec": 259.18,
+   "dur_sec": 19.06,
+   "overlap": false,
+   "text": "Ross asks us to confuse survival with health. But Twitter depends on trust, clear expectations, and contributors who feel their work will last. Musk's erratic control weakens all three. A service can make noise while its community is hollowed out, which is why he is killing Twitter. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 259.38,
+   "end_sec": 264.43,
+   "dur_sec": 5.05,
+   "overlap": false,
+   "text": "Here's Ross to argue against the claim that elon musk is killing twitter."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 264.63,
+   "end_sec": 284.79,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Melissa treats every disputed choice as evidence of ruin. But a living platform changes, provokes arguments, and lets users decide whether its tools serve them. Twitter still hosts conversation precisely because it is not frozen in the past. Its future depends on improving those choices, not declaring that experimentation has already killed it, and"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 284.63,
+   "end_sec": 285.51,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 284.99,
+   "end_sec": 298.13,
+   "dur_sec": 13.14,
+   "overlap": false,
+   "text": "I am not claiming each choice works. I am saying a platform remains alive when people can argue, adapt, and return. Calling that death ignores its resilience, its continuing use-",
+   "cut_at_sec": 289.27,
+   "full_dur_sec": 14.2,
+   "ext_file": "L084_029.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 295.13,
+   "end_sec": 296.42,
+   "dur_sec": 1.29,
+   "overlap": true,
+   "text": "Not this time."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 296.62,
+   "end_sec": 302.39,
+   "dur_sec": 5.77,
+   "overlap": false,
+   "text": "Thank you both for a sharp debate on this motion; that concludes our discussion for today here."
+  }
+ ]
+}

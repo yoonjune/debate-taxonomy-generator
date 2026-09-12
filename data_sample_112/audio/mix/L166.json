@@ -1,0 +1,476 @@
+{
+ "debate_id": "L075",
+ "motion": "The classics are overrated.",
+ "speakers": {
+  "MOD": {
+   "name": "Justine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3397_113",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3397/MSP-PODCAST_3397_113.wav",
+   "wpm": 179.73
+  },
+  "PRO": {
+   "name": "Wendy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5110_802",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5110/MSP-PODCAST_5110_802.wav",
+   "wpm": 164.06
+  },
+  "CON": {
+   "name": "Edward",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6071_804",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6071/MSP-PODCAST_6071_804.wav",
+   "wpm": 168.17
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 85.69,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 309.2,
+ "ext": {
+  "a32": {
+   "file": "L075_ext_a32.wav",
+   "place_at_sec": 234.542,
+   "dur_sec": 8.8,
+   "src_i": 24
+  }
+ },
+ "flags": [
+  "ext_a32: 마감 뒤 7.7초뿐 (여유분 부족)"
+ ],
+ "dropped_turns": [],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.29,
+   "dur_sec": 15.29,
+   "overlap": false,
+   "text": "Welcome. The motion is: the classics are overrated. Wendy speaks for it, and Edward speaks against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.49,
+   "end_sec": 35.85,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Classics are often treated as a required measure of taste, even when they bore or exclude modern readers. Age can preserve a book's reputation after its urgency has faded. Schools repeat the same titles, so familiarity gets mistaken for excellence. That habit gives old works more authority than they deserve, while newer voices must fight for room."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 35.49,
+   "end_sec": 39.5,
+   "dur_sec": 4.01,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 36.05,
+   "end_sec": 46.76,
+   "dur_sec": 10.71,
+   "overlap": false,
+   "text": "Some classics still reward attention, but their status should be earned afresh, not inherited. Calling them overrated challenges the pedestal, not every page. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 46.96,
+   "end_sec": 48.46,
+   "dur_sec": 1.5,
+   "overlap": false,
+   "text": "Let's hear from Edward."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 48.66,
+   "end_sec": 68.83,
+   "dur_sec": 20.17,
+   "overlap": false,
+   "text": "Wendy mistakes a high reputation for an inflated one. Classics last because readers keep finding difficult questions, vivid language, and human conflicts inside them. They are not protected relics; each generation can reject them, yet many survive that test. Their continued value also gives newer writers something rich to answer, revise, or resist."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 68.66,
+   "end_sec": 70.26,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 69.03,
+   "end_sec": 77.13,
+   "dur_sec": 8.1,
+   "overlap": false,
+   "text": "A demanding book is not overrated merely because it asks readers to meet it halfway. That's all, thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 77.33,
+   "end_sec": 89.98,
+   "dur_sec": 12.65,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 90.18,
+   "end_sec": 98.74,
+   "dur_sec": 8.56,
+   "overlap": false,
+   "text": "Your claim that schools repeat titles confuses teaching choices with literary worth. A narrow syllabus can be improved without declaring the works themselves overrated."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 99.675,
+   "end_sec": 107.725,
+   "dur_sec": 8.05,
+   "overlap": false,
+   "text": "If a book needs constant institutional protection to remain central, why should readers treat its fame as proof of quality? Answer that directly."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 108.683,
+   "end_sec": 118.933,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "It does not need protection; institutions assign it because it has proved useful and powerful. You turn exposure into a flaw, while newer books also gain readers through recommendations."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 119.789,
+   "end_sec": 129.549,
+   "dur_sec": 9.76,
+   "overlap": false,
+   "text": "When a classic is assigned as the only serious option in a classroom, its prestige is overrated. That condition makes one tradition look like the whole of literature."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 130.014,
+   "end_sec": 140.904,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "A young reader finds a difficult old story about family duty and recognizes her own conflict at home. That recognition gives her language for it, proving classics can still matter deeply."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 141.116,
+   "end_sec": 150.396,
+   "dur_sec": 9.28,
+   "overlap": false,
+   "text": "That recognition point proves only that one reader connected with one story. A single moving encounter cannot justify ranking an entire inherited shelf above competing voices."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 150.635,
+   "end_sec": 159.685,
+   "dur_sec": 9.05,
+   "overlap": false,
+   "text": "Your classroom condition is weak because no book becomes less valuable when taught beside alternatives. Blame the narrow gatekeeper, not the work that passed through it."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 160.494,
+   "end_sec": 168.834,
+   "dur_sec": 8.34,
+   "overlap": false,
+   "text": "No era should receive automatic cultural authority merely because it came first. Great books deserve reading, but greatness is larger than the classic label."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 169.825,
+   "end_sec": 179.235,
+   "dur_sec": 9.41,
+   "overlap": false,
+   "text": "There was no question to answer, but I reject your claim that age grants authority. Readers grant it repeatedly when a work still speaks, and that is not-"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 178.335,
+   "end_sec": 187.305,
+   "dur_sec": 8.97,
+   "overlap": true,
+   "text": "You are calling survival a neutral vote, but readers inherit the menu before they choose. Repeated promotion shapes the very test you say classics fairly win."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 188.27,
+   "end_sec": 198.8,
+   "dur_sec": 10.53,
+   "overlap": false,
+   "text": "A reader opens an old play expecting a museum piece, then laughs at a sharp quarrel that resembles her family. That living response proves the classic is not merely ceremonial."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 199.435,
+   "end_sec": 208.275,
+   "dur_sec": 8.84,
+   "overlap": false,
+   "text": "Your living-response example is the point I am answering. A work can be lively without deserving the sweeping praise and compulsory attention its label commands."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 208.869,
+   "end_sec": 217.999,
+   "dur_sec": 9.13,
+   "overlap": false,
+   "text": "The weakest part of that is treating praise as compulsory attention. You can criticize bad assignments, but readers choosing old works freely undermine your overrated verdict."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 218.587,
+   "end_sec": 227.337,
+   "dur_sec": 8.75,
+   "overlap": false,
+   "text": "How can readers choose classics freely when schools and public conversation present them as the standard before they encounter other traditions? Please answer that pressure."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 228.195,
+   "end_sec": 237.965,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "They can choose freely because influence is not coercion, and readers abandon books that fail them. Your standard would make every respected work suspect simply for being recommended."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 229.98,
+   "end_sec": 232.1,
+   "dur_sec": 2.12,
+   "overlap": true,
+   "text": "Ten seconds left on the clock."
+  },
+  {
+   "i": 25,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 238.832,
+   "end_sec": 243.48,
+   "dur_sec": 4.648,
+   "overlap": false,
+   "text": "I grant that some old books still move readers-",
+   "ext_file": "L075_ext_a32.wav",
+   "cut_at_sec": 236.49,
+   "full_dur_sec": 8.8
+  },
+  {
+   "i": 26,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 239.98,
+   "end_sec": 245.78,
+   "dur_sec": 5.8,
+   "overlap": true,
+   "text": "And that's time. We have to move on to our closing round. Wendy, the floor is yours."
+  },
+  {
+   "i": 27,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 245.98,
+   "end_sec": 265.19,
+   "dur_sec": 19.21,
+   "overlap": false,
+   "text": "Edward's best point is that old books can still create real recognition. I agree, but a meaningful moment does not validate a permanent cultural hierarchy. The problem is not reading classics; it is treating them as the default proof of seriousness. Their label crowds out works that have not received the same long rehearsal."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 265.39,
+   "end_sec": 278.95,
+   "dur_sec": 13.56,
+   "overlap": false,
+   "text": "Edward calls repeated reading a fair vote, yet the ballot is shaped before readers arrive. We should keep valuable old books, but remove the automatic crown. When praise becomes inherited-",
+   "cut_at_sec": 272.99,
+   "full_dur_sec": 14.16,
+   "ext_file": "L075_029.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 265.98,
+   "end_sec": 269.42,
+   "dur_sec": 3.44,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 30,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 276.48,
+   "end_sec": 279.05,
+   "dur_sec": 2.57,
+   "overlap": true,
+   "text": "That's time, Wendy. Thank you. Edward."
+  },
+  {
+   "i": 31,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 279.25,
+   "end_sec": 288.65,
+   "dur_sec": 9.4,
+   "overlap": false,
+   "text": "Wendy rightly objects to narrow gatekeeping, but that is not an argument against the books. A classic can be taught critically and still deserve lasting esteem."
+  },
+  {
+   "i": 32,
+   "src_i": 32,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 287.75,
+   "end_sec": 290.05,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But if you keep calling lasting esteem evidence-",
+   "cut_at_sec": 285.76,
+   "full_dur_sec": 8.81,
+   "ext_file": "L075_032.wav"
+  },
+  {
+   "i": 33,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 289.25,
+   "end_sec": 290.67,
+   "dur_sec": 1.42,
+   "overlap": true,
+   "text": "Let him answer it."
+  },
+  {
+   "i": 34,
+   "src_i": 34,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 290.87,
+   "end_sec": 300.75,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "- helping it reach readers who then make their own judgments. That is how culture works: access begins a conversation, but enduring response sustains classics."
+  },
+  {
+   "i": 35,
+   "src_i": 35,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 299.25,
+   "end_sec": 300.69,
+   "dur_sec": 1.44,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 36,
+   "src_i": 36,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 300.95,
+   "end_sec": 308.73,
+   "dur_sec": 7.78,
+   "overlap": false,
+   "text": "Fix the gatekeepers, widen the shelf, and keep the books that continue to reward readers: the classics are not overrated. That's all, thank you."
+  },
+  {
+   "i": 37,
+   "src_i": 37,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 308.93,
+   "end_sec": 315.34,
+   "dur_sec": 6.41,
+   "overlap": false,
+   "text": "Thank you, Wendy and Edward, for a thoughtful debate on the motion. That concludes our discussion."
+  }
+ ]
+}

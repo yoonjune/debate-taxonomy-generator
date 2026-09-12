@@ -1,0 +1,375 @@
+{
+ "debate_id": "L014",
+ "motion": "The rich are taxed enough.",
+ "speakers": {
+  "MOD": {
+   "name": "Andrew",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  },
+  "PRO": {
+   "name": "Peter",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  },
+  "CON": {
+   "name": "Michelle",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2124_313",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2124/MSP-PODCAST_2124_313.wav",
+   "wpm": 171.3
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 74.97,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 290.85,
+ "ext": {
+  "a32": {
+   "file": "L014_ext_a32.wav",
+   "place_at_sec": 213.329,
+   "dur_sec": 37.45,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "I accept that rates can be improved where rules are weak. But Michelle's better-rate claim assumes government deserves each extra dollar first; individuals create that wealth, and a bounded burden means the rich are taxed enough."
+  },
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Consider a clinic with empty shelves while a wealthy investor keeps growing returns from assets protected by special treatment. A fair contribution fills those shelves, proving the rich are not taxed enough."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.29,
+   "dur_sec": 19.29,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is The rich are taxed enough. Peter argues for it, and Michelle argues against it. Each has thirty seconds to open, then we have two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. Please speak directly, keep to the motion, and listen for my cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.49,
+   "end_sec": 39.77,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Taxing the rich enough does not mean treating success as sacred. It means they already contribute substantially through taxes, while their investments support jobs, ideas, and ordinary spending. Raising their burden again can shrink resources for building businesses and meeting responsibilities, so fairness must consider what they pay and what society asks of everyone."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.49,
+   "end_sec": 42.45,
+   "dur_sec": 2.96,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.97,
+   "end_sec": 48.18,
+   "dur_sec": 8.21,
+   "overlap": false,
+   "text": "Enough means a serious contribution without turning achievement into an endless target for government. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 48.38,
+   "end_sec": 50.44,
+   "dur_sec": 2.06,
+   "overlap": false,
+   "text": "Michelle, the floor is yours."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 50.64,
+   "end_sec": 67.48,
+   "dur_sec": 16.84,
+   "overlap": false,
+   "text": "The issue is not whether wealthy people pay something; they do. The issue is whether their share matches the power and security they gain from the system. When public needs go unmet while vast fortunes grow, the rich are not taxed enough. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 67.68,
+   "end_sec": 79.61,
+   "dur_sec": 11.93,
+   "overlap": false,
+   "text": "On to round two, and in round two, the debaters address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 79.81,
+   "end_sec": 91.9,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Imagine a school roof leaking while a wealthy owner receives income from many properties and contributes little more than before. Repairing that roof through a fairer levy proves the rich are not taxed enough."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 92.542,
+   "end_sec": 103.582,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Your leaking roof is an argument for spending wisely, not for assuming one group owes every repair. You never showed that this owner avoids a fair share, and your levy would-"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 102.682,
+   "end_sec": 114.372,
+   "dur_sec": 11.69,
+   "overlap": true,
+   "text": "No, the roof cannot wait for your vague promise of wiser spending. When those with the greatest spare resources contribute more, shared institutions work, which is why the rich are not taxed enough."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 114.879,
+   "end_sec": 127.399,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "You call resources spare, but who decides after a business pays suppliers, repairs equipment, and covers payroll? That label depends on invoices, inspection dates, contractor bids, and whether the roof work used cedar or slate."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 127.599,
+   "end_sec": 132.719,
+   "dur_sec": 5.12,
+   "overlap": false,
+   "text": "I really want to stay on the question of whether the rich are taxed enough."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 132.919,
+   "end_sec": 143.809,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "We should debate sensible rates, not chase every dollar someone earns. I believe the rich should never pay more tax, because government must respect the limits of what it can claim."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 144.668,
+   "end_sec": 157.108,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "I agree that vague rules can burden people and should be clear. But clarity does not excuse a system where enormous wealth gains more protection than public services, so the rich are not taxed enough."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 158.046,
+   "end_sec": 169.806,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "A rich parent should pay more tax. If that parent earns from many homes while neighbors cannot fund basic repairs, the current burden fails the community, so the rich are taxed enough overall."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 170.006,
+   "end_sec": 178.216,
+   "dur_sec": 8.21,
+   "overlap": false,
+   "text": "Peter, thank you very much indeed. You said i believe the rich should never pay more tax. A rich parent should pay more tax?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 178.416,
+   "end_sec": 191.216,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Both statements fit because a general tax system must not keep raising rates, yet one parent should contribute more from personal duty. That duty preserves limits while supporting the view that the rich are taxed enough."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 191.444,
+   "end_sec": 203.444,
+   "dur_sec": 12.0,
+   "overlap": false,
+   "text": "If the rich are taxed enough, why should a family with several homes face the same public neglect as everyone else? Tell me how your ceiling on contribution repairs services without shifting burdens downward."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 204.265,
+   "end_sec": 217.065,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "It should not face neglect; I reject the idea that higher taxes are the only repair. You can fund services by setting priorities and collecting obligations, whereas increases punish success and leave the rich taxed enough."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 217.969,
+   "end_sec": 230.849,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Your priorities point misses the problem: priorities cannot create resources when wealth is sheltered from a fair share. Collecting existing obligations helps, but it cannot replace a better rate, so the rich are not taxed-",
+   "ext_file": "L014_ext_a32.wav",
+   "cut_at_sec": 225.77,
+   "full_dur_sec": 12.88
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 219.61,
+   "end_sec": 221.86,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 229.61,
+   "end_sec": 237.54,
+   "dur_sec": 7.93,
+   "overlap": true,
+   "text": "Time's up. So let's move on to our closing round. You go first in this closing round, Peter, the floor is yours."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 237.74,
+   "end_sec": 258.06,
+   "dur_sec": 20.32,
+   "overlap": false,
+   "text": "This debate is about enough, not about pretending public needs do not matter. The other side showed real needs, but never proved that raising taxes on one group is the fair answer. A sound system collects serious revenue, protects initiative, and expects government to use funds responsibly. Punishing greater earnings whenever problems remain makes no principle safe."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 257.74,
+   "end_sec": 259.34,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 258.26,
+   "end_sec": 271.24,
+   "dur_sec": 12.98,
+   "overlap": false,
+   "text": "We can improve services and close genuine loopholes without declaring every successful person a permanent source of more. Enough taxation sets a boundary, preserves choice, and keeps effort worthwhile-",
+   "cut_at_sec": 264.4,
+   "full_dur_sec": 14.16,
+   "ext_file": "L014_026.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 268.24,
+   "end_sec": 272.09,
+   "dur_sec": 3.85,
+   "overlap": true,
+   "text": "You're out of time. And here to summarize her position, Michelle."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 272.29,
+   "end_sec": 291.3,
+   "dur_sec": 19.01,
+   "overlap": false,
+   "text": "Peter asks us to trust boundaries while accepting a richer parent should pay more, and that reveals the weakness. Public services are not punishment; they are the foundation that lets wealth flourish. When those with the means contribute fairly, communities function, so the rich are not taxed enough. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 291.5,
+   "end_sec": 297.75,
+   "dur_sec": 6.25,
+   "overlap": false,
+   "text": "Thank you, Peter and Michelle, for a spirited exchange. That concludes tonight's debate on the motion before us."
+  }
+ ]
+}

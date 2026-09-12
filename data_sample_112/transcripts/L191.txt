@@ -1,0 +1,42 @@
+L191  |  Hunters conserve wildlife.
+  MOD=Nolan   PRO=Ryan   CON=Bernard
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Nolan(MOD): Welcome to our debate on the motion, hunters conserve wildlife. Ryan argues for the motion, and Bernard argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue.
+[t01] Ryan(PRO): Hunters can fund habitat care, report damage, and support limits that keep animal populations healthy. Taking responsibility for wildlife is not only avoiding harm; it is protecting land and balance. That practical stewardship means hunters conserve wildlife. That's all, thank you.
+[t02] @A2-2 Nolan(MOD): All right, let's give Bernard a chance to reply.
+[t03] Bernard(CON): A hunter's central purpose is to kill an animal, not preserve it. Money or rules around hunting may sometimes help, but those benefits do not turn the act into conservation. Wildlife deserves protection without being treated as a target. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Nolan(MOD): Thank you, Bernard. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. You have two and a half minutes, starting when I stop talking.
+[t05] Ryan(PRO): I agree that killing an animal can feel troubling. But conservation means caring for a whole population and its habitat, and hunters often accept limits to do exactly that.
+[t06] Bernard(CON): You call accepting limits stewardship, but limits only restrain an activity that creates danger. If hunters truly conserved wildlife, their basic practice would protect animals rather than remove them.
+[t07] Ryan(PRO): People also argue about outdoor traditions and personal freedom, but that is not the real test. The question is whether hunters help wildlife persist, and responsible habitat work shows they do.
+[t08] Bernard(CON): No hunter ever conserves wildlife. A person who aims a weapon at an animal cannot honestly claim that taking its life is protection.
+[t09] Ryan(PRO): A hunter clears tangled fencing from a feeding area, so young animals stop getting trapped there. That direct care protects living wildlife and proves hunters can conserve it.
+[t10] Bernard(CON): This hunter conserves wildlife. Still, one helpful act does not erase the violence at the center of hunting, so the motion remains false.
+[t11] @B2 Nolan(MOD): I'm puzzled by your stand. On the one hand no hunter ever conserves wildlife and on the other hand this hunter conserves wildlife.
+[t12] Bernard(CON): My first statement judged hunting as a practice, while the second credits a helpful act apart from that purpose. Helping once does not make the hunter's killing conservation, so I remain against.
+[t13] <cut> Ryan(PRO): That distinction fails because the same person protects habitat and follows population limits as part of hunting. You cannot erase real conservation simply by calling it separate-
+[t14] <ovl> Bernard(CON): No, the point is that clearing a fence is conservation, but killing is not. You are borrowing the good deed to excuse the harmful purpose, so hunters do not conserve wildlife.
+[t15] Ryan(PRO): On your claim that habitat care merely excuses harm, conservation measures results for wildlife, not motives alone. When hunters protect space, obey limits, and support recovery, wildlife is conserved.
+[t16] Bernard(CON): A hunter shoots a rare-looking animal because he mistakes it for a common one, leaving its young without care. That avoidable loss shows hunting threatens wildlife rather than conserving it.
+[t17] Ryan(PRO): If hunters must follow strict seasons, protect nesting areas, and avoid vulnerable animals, how can you say their organized effort never conserves wildlife?
+[t18] Bernard(CON): I grant that some hunters respect rules and care about animals. Yet respect cannot change a practice built on killing, so hunters do not conserve wildlife.
+[t19] @A4 <ovl> Nolan(MOD): Ten seconds, and then closing statements.
+[t20] <cut> Ryan(PRO): Your weakest claim is that concern cannot matter beside killing. Conservation concerns populations and habitat over time, so careful-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Nolan(MOD): That's time. And now, we move on to Round three. Here up first in the round of closing statements, arguing for the resolution, Ryan.
+[t22] Ryan(PRO): This decision turns on whether conservation means protecting whole wildlife communities, not pretending no animal ever dies. I was not claiming that every hunt is harmless;
+[t23] <ovl> <cut> Bernard(CON): So you admit killing animals protects them-
+[t24] @A5 <ovl> Nolan(MOD): Let him clarify, please.
+[t25] Ryan(PRO): I was saying responsible hunting is judged by its effect on populations and habitat. Rules, restraint, and direct care can protect the wildlife that remains.
+[t26] @A4 <ovl> Nolan(MOD): I'll give you ten more seconds to nail this.
+[t27] Ryan(PRO): Choose the side that recognizes practical stewardship: hunters can conserve wildlife through responsible action. That's all, thank you.
+[t28] @A2-2 Nolan(MOD): Bernard, you're going to get the last word.
+[t29] Bernard(CON): Ryan's best point is that hunters may clean habitat or obey limits. Those acts can help, but they are not the same as hunting, whose defining act removes animals and risks mistakes. Conservation should put wildlife's safety first, rather than making its survival depend on people who pursue it.
+[t30] @A4 <ovl> Nolan(MOD): Well, now ten.
+[t31] Bernard(CON): Because hunting harms the very animals it claims to protect, reject this motion. That's all, thank you.
+[t32] Nolan(MOD): Thank you, Ryan and Bernard, for a thoughtful debate, and thank you for joining us today.

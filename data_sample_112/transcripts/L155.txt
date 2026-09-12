@@ -1,0 +1,37 @@
+L155  |  The family is a major obstacle to reform in the Arab world
+  MOD=Nina   PRO=Randy   CON=Steve
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Nina(MOD): Welcome. Our motion is whether the family is a major obstacle to reform in the Arab world; Randy supports it, and Steve opposes it. Each speaker has thirty seconds for openings, followed by two and a half minutes of crossfire. Then come thirty-second closings, and I will give a ten-second cue before the finish.
+[t01] Randy(PRO): Families can offer love, but they also enforce obedience through daily dependence and fear of dishonor. When a young person cannot choose education, work, marriage, or speech without family approval, reform stays abstract. That private veto is a major obstacle across the region. That's all, thank you.
+[t02] @A2-2 Nina(MOD): Steve, you wanted to come in briefly.
+[t03] Steve(CON): Randy mistakes a source of pressure for the main barrier to reform. Families are not one machine: they protect people, teach cooperation, and often give individuals courage when public life is harsh. The real issue is whether institutions allow voices to matter. Blaming families hides the powerful decisions made above them
+[t04] <cut> Steve(CON): that narrow choices long before a dinner-table argument does. Families can pass down caution, certainly, yet they can also organize care and help people challenge unfair rules. Calling them a major obstacle ignores-
+[t05] @A4 <ovl> Nina(MOD): Well, now it's ten.
+[t06] @A1 <ovl> Nina(MOD): I'm sorry, you've hit time.
+
+--- phase 2 ---
+[t07] @A3-1 Nina(MOD): After the opening round, our second round will be a head-to-head debate in which the debaters will debate among themselves. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t08] Randy(PRO): I accept that families can give care and courage. But when that care is made conditional on obedience, it governs intimate choices every day and gives old rules a durable veto over reform.
+[t09] Steve(CON): Which intimate choice do you mean: spending money, sharing a room, or deciding who does chores? Those practical arrangements reflect tight budgets and caregiving burdens, so reformers should explain how bills and care work.
+[t10] @B1 Nina(MOD): Come back to the family as a major obstacle to reform in the Arab world, will you?
+[t11] Steve(CON): On the motion, no: family is not a major obstacle because it is also where people build confidence and mutual duty. If reform ignores those bonds, it loses support needed to make change last.
+[t12] <cut> Randy(PRO): Your claim treats support as proof against obstruction. A family can build confidence while still punishing its use, and that mixed role is exactly why its authority can stop reform-
+[t13] Steve(CON): We should also ask who provides care when public services fail, because that burden shapes every household argument. Still, families are adaptive networks, not a single force blocking reform, so the motion overstates their role.
+[t14] Randy(PRO): I believe every family tradition always blocks reform. When obedience is treated as duty, young people learn that questioning elders brings shame, so even sensible public change meets resistance at home.
+[t15] Steve(CON): I agree that some homes punish dissent, and that deserves challenge. But you turn those painful cases into a verdict on all families, while many relatives protect reformers and carry change into ordinary life.
+[t16] Randy(PRO): A grandmother backs her granddaughter's schooling against a rigid rule; in this case, family tradition does not block reform. Yet isolated kindness cannot erase the wider family pressure that makes reform difficult.
+[t17] @B2 Nina(MOD): Randy said every family tradition always blocks reform, but in this case, family tradition does not block reform.
+[t18] Randy(PRO): Both statements stand: tradition is a force, not a person, so it presses against change even when someone acts generously. That case is real, yet the broader pattern makes family authority a major obstacle.
+[t19] Steve(CON): You cannot call a force universal, then excuse the counterexample as generosity. If relatives can actively defend new choices, family life is not inherently a major obstacle; it is a contested resource for reform.
+[t20] Randy(PRO): If family authority is merely a resource, how does reform reach a person whose support can withdraw approval, shelter, and belonging when that person challenges old rules? That dependence shows why family power can obstruct reform.
+[t21] @A4 <ovl> Nina(MOD): Ten seconds left on the clock.
+[t22] <cut> Steve(CON): On your point about withdrawn support, you assume dependence makes families enemies-
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Nina(MOD): Okay, time. And now we move on to closing remarks. And here to make his closing statement in support of the resolution, Randy.
+[t24] Randy(PRO): Steve's best point is that relatives can protect people and sustain change. But support that can be withheld to enforce obedience is power, not a neutral gift. Because family authority reaches daily choices and often punishes departure, it remains a major obstacle to reform. That's all, thank you.
+[t25] @A2-2 Nina(MOD): Steve, over to you.
+[t26] Steve(CON): Randy's best concern is coercion inside some homes, and it is real. Yet coercion is not the same as family itself: relatives can shelter dissent, pass on courage, and build durable consent. Reform succeeds by engaging families as partners, not branding them a major obstacle. That's all, thank you.
+[t27] Nina(MOD): Thank you both for a thoughtful debate on this motion. That concludes our discussion for today, with no verdict.

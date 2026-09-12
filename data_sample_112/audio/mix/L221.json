@@ -1,0 +1,392 @@
+{
+ "debate_id": "L164",
+ "motion": "Legalizing marijuana is a mistake.",
+ "speakers": {
+  "MOD": {
+   "name": "Betsy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1206_312",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
+   "wpm": 165.44
+  },
+  "PRO": {
+   "name": "Eugene",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  },
+  "CON": {
+   "name": "Amanda",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 88.36,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 304.79,
+ "ext": {
+  "a32": {
+   "file": "L164_ext_a32.wav",
+   "place_at_sec": 230.296,
+   "dur_sec": 31.4,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Prevention matters, and no one wants youth exposed. But bans give sellers no reason to check age, while legalization creates enforceable boundaries, so it is not a mistake."
+  },
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Enforceable boundaries are your weakest claim, because illegal sellers can still undercut legal shops and ignore every boundary. Creating a legal market does not make harmful access disappear."
+  },
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Imagine an adult using marijuana in secret, afraid to ask a doctor about panic or unsafe mixing. Under legalization, that person can speak openly and get safer guidance. That proves legalization reduces avoidable harm."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.13,
+   "dur_sec": 21.13,
+   "overlap": false,
+   "text": "Welcome. The motion is that legalizing marijuana is a mistake. Eugene argues for it, and Amanda argues against it. Each speaker has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue, and I ask both speakers to address each other fairly and directly throughout this debate."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.33,
+   "end_sec": 41.42,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "Legalizing marijuana is a mistake because law shapes what seems ordinary. Easier access can turn experimentation into routine use, especially when adults treat the product as harmless. I am not claiming every user loses control. I am saying public permission removes a needed guardrail before communities have answers for preventable harm."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.33,
+   "end_sec": 42.57,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Eugene, ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.62,
+   "end_sec": 54.73,
+   "dur_sec": 13.11,
+   "overlap": false,
+   "text": "That guardrail matters because dependence, impaired judgment, and family strain do not disappear when a shop opens its doors. We should ask whether convenience is worth inviting more of-",
+   "cut_at_sec": 52.63,
+   "full_dur_sec": 14.16,
+   "ext_file": "L164_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 51.83,
+   "end_sec": 54.83,
+   "dur_sec": 3.0,
+   "overlap": true,
+   "text": "Eugene, you're rather going on. Thank you. Amanda."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 55.03,
+   "end_sec": 74.37,
+   "dur_sec": 19.34,
+   "overlap": false,
+   "text": "Eugene is right that careless use can harm families, but prohibition does not erase use or make it safer. Legalization can replace secrecy with clear rules, honest advice, and accountable sellers. The mistake is keeping adults in an illegal market where problems are harder to see and address. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 74.57,
+   "end_sec": 90.66,
+   "dur_sec": 16.09,
+   "overlap": false,
+   "text": "Thanks to you both, we know where you stand and why. We're gonna dive into our discussion, the question of whether marijuana legalization is a mistake. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 90.86,
+   "end_sec": 101.3,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Some people will use too much, and that deserves concern. But banning legal access leaves buyers with untested products and no honest guidance, so legalization is the safer course."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 102.288,
+   "end_sec": 112.008,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "When a community lacks credible safeguards against impaired driving, legalization predictably increases the burden on families and neighbors. Under that condition, legalizing marijuana is plainly a mistake."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 112.996,
+   "end_sec": 123.196,
+   "dur_sec": 10.2,
+   "overlap": false,
+   "text": "Consider an adult who finds a mislabeled product at a legal store and can report it, receive help, and avoid it. That visible accountability proves legalization protects consumers better."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 123.942,
+   "end_sec": 134.852,
+   "dur_sec": 10.91,
+   "overlap": false,
+   "text": "Road safety needs clear roadside testing, trained officers, and meaningful penalties for drivers who use marijuana before driving. Without those tools, enforcement becomes confused and dangerous for everyone sharing the road."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 135.052,
+   "end_sec": 145.702,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "But you're on that side of the motion, that's the one that you are supporting. the question of whether marijuana legalization is a mistake. That's the side that you are on."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 145.902,
+   "end_sec": 156.852,
+   "dur_sec": 10.95,
+   "overlap": false,
+   "text": "Legalizing marijuana is a mistake because the product becomes more available before reliable safeguards can contain its harms. A law should not create a wider problem and hope enforcement catches up."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 157.196,
+   "end_sec": 167.556,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "No adult should ever be punished for marijuana use. Personal use is not a crime against another person, and legalization respects adult choice while directing help toward anyone struggling."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 168.321,
+   "end_sec": 179.441,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Help for struggling users is sensible, and I support treatment over cruelty. But legalization expands the pool needing help by making regular use seem officially approved, so it remains a mistake."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 179.708,
+   "end_sec": 190.388,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "An adult uses marijuana before driving a child home and endangers a passenger. This adult should be punished for marijuana use. Legalization can still defend responsible adults and public safety."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 190.588,
+   "end_sec": 198.678,
+   "dur_sec": 8.09,
+   "overlap": false,
+   "text": "So, so while saying no adult should ever be punished for marijuana use, you're saying this adult should be punished for marijuana use?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 198.878,
+   "end_sec": 208.878,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "They fit because freedom matters, and so does accountability when choices carry serious consequences. I keep both principles: adults deserve legal access, yet dangerous behavior deserves a response."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 209.546,
+   "end_sec": 219.986,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Legalizing marijuana is a mistake in every community because normalizing routine use carries costs beyond driving. Even careful rules cannot remove the pressure on families to manage preventable dependence."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 220.869,
+   "end_sec": 231.629,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "No, careful rules cannot remove every cost, but that does not make legalization a mistake. Legal markets let families seek accurate information and support rather than hiding problems from fear."
+  },
+  {
+   "i": 20,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 230.66,
+   "end_sec": 232.99,
+   "dur_sec": 2.33,
+   "overlap": true,
+   "text": "Ten seconds left on the clock."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 232.596,
+   "end_sec": 243.716,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Your point about accurate information misses the source of the risk: legalization makes marijuana more ordinary and available. Support after harm is useful, but prevention is-",
+   "ext_file": "L164_ext_a32.wav",
+   "cut_at_sec": 239.16,
+   "full_dur_sec": 11.12
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 240.66,
+   "end_sec": 249.58,
+   "dur_sec": 8.92,
+   "overlap": true,
+   "text": "Time's up. So that concludes the conversation portion. And now we're going to go to a closing round. And Eugene, it goes to you first."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 249.78,
+   "end_sec": 269.27,
+   "dur_sec": 19.49,
+   "overlap": false,
+   "text": "Throughout this debate, the key issue has been what public permission normalizes. Legalization expands availability and treats regular use as ordinary, while safeguards arrive late and fail unevenly. We can offer help without making the product a standard commercial choice. For that reason, legalizing marijuana is a mistake. That's all, thank you."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 269.47,
+   "end_sec": 273.48,
+   "dur_sec": 4.01,
+   "overlap": false,
+   "text": "All right. Amanda, do you want to come back on that?"
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 273.68,
+   "end_sec": 294.04,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Legalization does not pretend marijuana is harmless; it makes harm easier to recognize and address. Adults deserve rules separating personal use from conduct endangering others. Eugene asks us to preserve a ban for prevention, yet bans hide products and discourage honest conversations. A legal system can set age limits, product standards, and consequences for unsafe behavior. That is practical care, but"
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 293.68,
+   "end_sec": 294.81,
+   "dur_sec": 1.13,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 294.24,
+   "end_sec": 305.48,
+   "dur_sec": 11.24,
+   "overlap": false,
+   "text": "it works only when adults can use it openly, seek help early, and follow clear boundaries. That is why legalization is not a mistake. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 305.68,
+   "end_sec": 311.77,
+   "dur_sec": 6.09,
+   "overlap": false,
+   "text": "Thank you, Eugene and Amanda, for this thoughtful exchange. That concludes our debate on the motion today here."
+  }
+ ]
+}

@@ -1,0 +1,396 @@
+{
+ "debate_id": "L073",
+ "motion": "Affirmative action on campus does more harm than good",
+ "speakers": {
+  "MOD": {
+   "name": "Jim",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4066_400",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4066/MSP-PODCAST_4066_400.wav",
+   "wpm": 162.5
+  },
+  "PRO": {
+   "name": "Enrique",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5993_347",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5993/MSP-PODCAST_5993_347.wav",
+   "wpm": 163.88
+  },
+  "CON": {
+   "name": "Pete",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4814_946",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4814/MSP-PODCAST_4814_946.wav",
+   "wpm": 172.38
+  }
+ },
+ "selective": [
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 77.49,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 296.91,
+ "ext": {
+  "a32": {
+   "file": "L073_ext_a32.wav",
+   "place_at_sec": 216.475,
+   "dur_sec": 38.38,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "If group identity may influence admission, what principle stops a campus from overlooking a better prepared applicant to reach a preferred balance? How can you call that individual fairness when the rejected applicant is judged by identity?"
+  },
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Your preferred balance phrase misstates the policy as a quota, when it can be one consideration among many. Individual fairness is not blindness to unequal opportunity; it is judging achievement with the circumstances that shaped it."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.93,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Welcome to our debate on whether affirmative action on campus does more harm than good. Enrique supports the motion, and Pete opposes it. Each speaker has thirty seconds for an opening, followed by two and a half minutes of crossfire. They then have thirty-second closings, and I will give a ten-second cue. Please keep remarks focused and let each other finish."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.13,
+   "end_sec": 30.06,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "Campus admission should judge applicants as individuals, not assign advantage through group labels. When policy makes identity decisive, it breeds resentment and doubts about merit."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 29.16,
+   "end_sec": 31.46,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But that assumes fairness means pretending-",
+   "cut_at_sec": 31.46,
+   "full_dur_sec": 8.73,
+   "ext_file": "L073_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 30.66,
+   "end_sec": 33.3,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "No, no, no. Hold on. Let Enrique."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 33.5,
+   "end_sec": 43.76,
+   "dur_sec": 10.26,
+   "overlap": false,
+   "text": "achievement can be trusted. Students deserve clear standards, because a preference attached to identity makes every successful applicant wonder whether others see earned ability or a category."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.13,
+   "end_sec": 41.73,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 43.96,
+   "end_sec": 51.39,
+   "dur_sec": 7.43,
+   "overlap": false,
+   "text": "That suspicion damages belonging, so affirmative action on campus does more harm than good. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 51.59,
+   "end_sec": 53.76,
+   "dur_sec": 2.17,
+   "overlap": false,
+   "text": "Pete, come on in your response."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.96,
+   "end_sec": 70.47,
+   "dur_sec": 16.51,
+   "overlap": false,
+   "text": "My opponent treats equal treatment as ignoring unequal starting points. Campus affirmative action can recognize obstacles while still demanding that every admitted student do the work. It broadens opportunity and learning across campus, so its benefits outweigh the harms he fears. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.67,
+   "end_sec": 81.16,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "And that concludes round one. Now, onto round two where the debaters will address each other directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 81.36,
+   "end_sec": 94.24,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Your claim that doing the work settles fairness misses the admission decision itself. If identity helps decide who enters, equally qualified applicants can lose for traits they did not choose, creating distrust before classes even begin."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 94.832,
+   "end_sec": 107.162,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "Picture a student from an overlooked neighborhood whose strong record lacked costly coaching; a holistic review sees persistence, and he joins a demanding program. His perspective improves discussion and proves affirmative action helps more than-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 108.125,
+   "end_sec": 120.955,
+   "dur_sec": 12.83,
+   "overlap": false,
+   "text": "Admission debates also affect how families chase tutors, rankings, and prestige, which can distort childhood long before applications. Still, the issue here is campus policy: identity preferences make admission less fair and more harmful than helpful."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 121.429,
+   "end_sec": 133.549,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "I grant that any admission policy can be explained badly, leaving students uneasy. But removing affirmative action ignores unequal paths to achievement and preserves narrow access, so the greater harm comes from ending it."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 134.005,
+   "end_sec": 146.885,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "No, ending it would not preserve narrow access; fair outreach and individual review can widen opportunity without assigning weight to identity. You call unequal paths decisive, but campus admission should reward demonstrated preparation, not group membership."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 147.566,
+   "end_sec": 160.936,
+   "dur_sec": 13.37,
+   "overlap": false,
+   "text": "If you say individual review is enough, how will it notice barriers that shape records before anyone reads them? Why should a campus ignore that context when seeking a learning community that serves more than the already advantaged?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.64,
+   "end_sec": 174.52,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "That same logic becomes more troubling in professional licensing, where a patient wants confidence that selection followed the clearest standards. A licensing board should evaluate each candidate's demonstrated skill, not use identity to balance its roster."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 174.72,
+   "end_sec": 180.4,
+   "dur_sec": 5.68,
+   "overlap": false,
+   "text": "But we're asking affirmative action on campus does more harm than good. That's the question here."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 180.6,
+   "end_sec": 193.65,
+   "dur_sec": 13.05,
+   "overlap": false,
+   "text": "On the motion, affirmative action on campus does more harm because it makes identity part of who receives a scarce seat. Context matters, but preferences based on group membership undermine trust in both students and the institution."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 194.224,
+   "end_sec": 205.664,
+   "dur_sec": 11.44,
+   "overlap": false,
+   "text": "Enrique's scarce-seat point assumes fairness requires ignoring how applicants reached the competition. A careful policy considers context alongside achievement, so it can build access without treating identity as the sole measure of merit."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.089,
+   "end_sec": 219.679,
+   "dur_sec": 13.59,
+   "overlap": false,
+   "text": "I agree context can explain an applicant's record and should be read carefully. But affirmative action goes beyond understanding context by favoring group identity, and that blunt shortcut creates unfair losses, so it does more harm than good."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 220.145,
+   "end_sec": 232.665,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "No, it is not a blunt shortcut; it can weigh context without replacing achievement or admitting unprepared students. Your unfair-loss claim treats every difference in outcome as favoritism, while ignoring advantages already embedded in-",
+   "ext_file": "L073_ext_a32.wav",
+   "cut_at_sec": 228.29,
+   "full_dur_sec": 12.52
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 221.16,
+   "end_sec": 223.48,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds, and then closing statements."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 231.16,
+   "end_sec": 245.12,
+   "dur_sec": 13.96,
+   "overlap": true,
+   "text": "And that's time. That concludes round two. So let's move on to round three closing statements and here making his final argument in support of the motion that affirmative action on campus does more harm than good is Enrique."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 245.32,
+   "end_sec": 264.24,
+   "dur_sec": 18.92,
+   "overlap": false,
+   "text": "This debate is about trust in admission. Context deserves attention, but affirmative action makes group identity a factor in scarce opportunities, leaving applicants to wonder whether merit mattered. Better support before admission can expand opportunity without that stigma, so affirmative action on campus does more harm than good. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 264.44,
+   "end_sec": 266.76,
+   "dur_sec": 2.32,
+   "overlap": false,
+   "text": "Thank you Enrique. Pete, closing statement."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.96,
+   "end_sec": 287.32,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "My opponent calls identity a stigma, yet stigma comes from assuming people admitted through a broader review did not earn their place. Affirmative action does not erase standards; it helps a campus read achievement in context. That produces classrooms with wider experience and sharper discussion. The real question is whether we correct unequal opportunity or pretend it disappears at admission."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 286.96,
+   "end_sec": 289.77,
+   "dur_sec": 2.81,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 287.52,
+   "end_sec": 297.96,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "A fair campus sees the whole applicant, not just a narrow record. That fuller judgment expands opportunity and learning, so the motion is false. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 298.16,
+   "end_sec": 304.25,
+   "dur_sec": 6.09,
+   "overlap": false,
+   "text": "Thank you, Enrique and Pete, for a thoughtful debate. This concludes our discussion of the motion here today."
+  }
+ ]
+}

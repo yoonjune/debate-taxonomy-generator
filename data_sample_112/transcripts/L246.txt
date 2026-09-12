@@ -1,0 +1,41 @@
+L246  |  It is wrong to pay for sex.
+  MOD=Miriam   PRO=Alina   CON=Leo
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Miriam(MOD): Welcome. Today's motion is that it is wrong to pay for sex. Alina supports the motion, and Leo opposes it. Each opening is thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue.
+[t01] Alina(PRO): Paying for sex turns intimate access into something a buyer can claim. Even when words sound agreeable, unequal need can shape them. We should not build a market where another person's hardship becomes someone else's permission. That's all, thank you.
+[t02] @A2-2 Miriam(MOD): Great, Leo, go ahead.
+[t03] Leo(CON): Payment does not erase consent when adults choose freely and understand the arrangement. People make personal choices about intimacy for many reasons. Calling every paid encounter wrong replaces their judgment with an outsider's discomfort. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Miriam(MOD): Thank you both for your opening arguments. We now know where you stand and why. We'll dive into the discussion on the question, it is wrong to pay for sex. It runs two and a half minutes, starting the moment I stop. Go.
+[t05] Alina(PRO): Your appeal to choice ignores the pressure behind many choices. If someone needs money urgently, a buyer is not simply accepting consent; the buyer is benefiting from desperation.
+[t06] Leo(CON): When both adults can refuse without fear, payment can be part of a clear agreement. Banning that agreement treats sexual consent as less real than consent in other personal services.
+[t07] Alina(PRO): Clear words do matter, and I grant that adults can describe an arrangement honestly. But payment still gives one person leverage over need, which makes this market wrong.
+[t08] Leo(CON): Adults always deserve freedom to exchange sex. A moral rule that denies every adult that freedom treats private bodily choices as property for strangers to control.
+[t09] Alina(PRO): If payment is harmless, how can a buyer know agreement is not driven by hunger, debt, or fear? What protects the person whose need makes saying no feel impossible?
+[t10] Leo(CON): Think of a person trapped by another who takes the payment. Here, adults do not deserve freedom to exchange sex.
+[t11] @B2 Miriam(MOD): So, so while saying adults always deserve freedom to exchange sex, you're saying here, adults do not deserve freedom to exchange sex?
+[t12] Leo(CON): Freedom means people ordinarily control their own intimate decisions; it does not mean a controller may sell a trapped person's body. The second statement rejects that controller's supposed freedom, not adult choice.
+[t13] <cut> Alina(PRO): No, those statements cannot both stand: an always claim leaves no room for his exception. That evasion matters because money can turn refusal into a risky choice, especially when rent is-
+[t14] Leo(CON): Society should respect adult sexual choices, including choices it finds uncomfortable. That respect does not require approving control or force; it means leaving genuine private agreements to the people involved.
+[t15] Alina(PRO): Your respect point skips the buyer's power within an agreement. A choice is not fully private when one person offers money that the other needs to survive, so payment remains wrong.
+[t16] Leo(CON): If an adult says payment helps them meet a need and they can walk away, why should you deny their judgment? Are you claiming vulnerability makes every sexual decision invalid?
+[t17] Alina(PRO): Imagine someone facing eviction who accepts money from a buyer they do not want to touch. The buyer gets access because hardship narrowed the choice. That proves payment buys pressure, so it is wrong.
+[t18] Leo(CON): Your eviction example proves coercion is wrong, not that payment is wrong. The harmful fact is the threatened loss of housing; removing payment does not create safety or more choices.
+[t19] @A4 <ovl> Miriam(MOD): Ten seconds, ten seconds.
+
+--- phase 3 ---
+[t20] @A3-2 <ovl> Miriam(MOD): Time's up. And now we move on to round three. And the first to speak in support of the resolution is Alina.
+[t21] Alina(PRO): Payment turns another person's need into leverage. Even the other side's freedom rule collapses when a person is trapped.
+[t22] <ovl> <cut> Leo(CON): That is not what I said. Hardship does not-
+[t23] @A5 <ovl> Miriam(MOD): Can you let her speak please?
+[t24] Alina(PRO): That collapse shows the real issue is not disapproval of intimacy. It is whether money may buy access when hardship narrows the ability to refuse.
+[t25] @A4 <ovl> Miriam(MOD): I can give you ten seconds to do this.
+[t26] Alina(PRO): When payment purchases pressure, it is wrong, and we should say so clearly. That's all, thank you.
+[t27] @A2-2 Miriam(MOD): All right, so let me bring Leo.
+[t28] Leo(CON): Alina shows that coercion and exploitation are wrong, and I agree. But she turns a serious risk into a verdict on every exchange, even when adults speak plainly, keep control, and can refuse. Respecting consent means trusting people to define their own intimate boundaries, rather than letting outsiders declare their choices invalid because money is involved.
+[t29] @A4 <ovl> Miriam(MOD): Ten seconds please.
+[t30] Leo(CON): The better response is protect free consent, not condemn every adult who pays for sex. That's all, thank you.
+[t31] Miriam(MOD): Thank you, Alina and Leo, for a thoughtful debate on this motion. That concludes our discussion today.

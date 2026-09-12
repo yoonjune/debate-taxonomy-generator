@@ -1,0 +1,385 @@
+{
+ "debate_id": "L049",
+ "motion": "Affirmative action on campus does more harm than good",
+ "speakers": {
+  "MOD": {
+   "name": "Betsy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  },
+  "PRO": {
+   "name": "Melissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  },
+  "CON": {
+   "name": "Ahmed",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  }
+ },
+ "selective": [
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 61.88,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 276.3,
+ "ext": {
+  "a32": {
+   "file": "L049_ext_a32.wav",
+   "place_at_sec": 201.688,
+   "dur_sec": 36.8,
+   "src_i": 17
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 18,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "I grant that doubt can sting for students who receive preference. Yet ending affirmative action leaves old barriers untouched and calls that neutrality; a campus that recognizes context creates broader, fairer opportunity, so the motion fails."
+  },
+  {
+   "src_i": 19,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "On the point about old barriers, recognizing context does not require a fixed group preference. Campuses can improve preparation and review individual hardship, while affirmative action still makes admissions less trusted overall."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.52,
+   "dur_sec": 18.52,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is affirmative action on campus does more harm than good; Melissa supports it, and Ahmed opposes it. Each opening and closing gets thirty seconds, then crossfire gets two and a half minutes with a ten-second cue. Address the motion, listen closely, and stay civil. I will enforce these limits."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.72,
+   "end_sec": 34.38,
+   "dur_sec": 15.66,
+   "overlap": false,
+   "text": "Affirmative action asks campuses to sort people by group before individual achievement. That creates doubt about every offer and strains trust among students. Equal standards and targeted preparation help every applicant without making admission itself a group judgment. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 34.58,
+   "end_sec": 36.78,
+   "dur_sec": 2.2,
+   "overlap": false,
+   "text": "You can come in, Ahmed."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 36.98,
+   "end_sec": 52.79,
+   "dur_sec": 15.81,
+   "overlap": false,
+   "text": "Affirmative action can recognize barriers ordinary measures miss. It opens doors for capable students who otherwise face narrow pipelines, while campuses still assess achievement. A fairer entering class improves discussion and opportunity, so the policy does more good than harm. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 52.99,
+   "end_sec": 65.43,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Let's move now into the moderated cross-examination portion of this debate, and get both sides engaging on some of the key issues here. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 65.63,
+   "end_sec": 77.11,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I agree that varied experiences can improve classroom discussion. But assigning advantage by group makes every admitted student answer suspicion, and that burden overwhelms the claimed benefit; affirmative action does more harm."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 77.667,
+   "end_sec": 88.027,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "When records reflect obstacles campus practices helped create, affirmative action can notice that context fairly. It reads merit more fully, supporting opportunity rather than causing harm for qualified students."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 88.386,
+   "end_sec": 100.146,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Imagine two equally prepared applicants: one receives a preference solely for group identity, while the other is passed over. Both leave with reason to doubt the process, proving affirmative action harms trust and-"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 99.246,
+   "end_sec": 111.366,
+   "dur_sec": 12.12,
+   "overlap": true,
+   "text": "That example skips the barriers that shaped preparation before either file reached campus. A carefully used preference repairs a distorted starting line; it does not erase achievement, so affirmative action can expand fair opportunity."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 111.593,
+   "end_sec": 123.433,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Campus life also includes housing, clubs, and friendships, where labels can harden into assumptions. But admissions sets the first signal, and group preferences tell students identity outranks achievement; that is harm, not fairness."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 123.844,
+   "end_sec": 136.284,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Merit is never captured by a single score or activity list. Campuses should generally consider context when judging promise, and affirmative action is one way to prevent inherited barriers from defining who gets a chance."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 136.512,
+   "end_sec": 147.992,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I believe affirmative action never treats applicants fairly. It makes group membership an admissions advantage or penalty, so even well-intended decisions turn individuals into representatives and ultimately do more harm than good."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.682,
+   "end_sec": 160.802,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "On the point that affirmative action never treats applicants fairly, you ignore unequal paths to the application itself. Treating context as relevant is fairness, because identical scores can conceal unequal chances to earn them."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.251,
+   "end_sec": 173.261,
+   "dur_sec": 12.01,
+   "overlap": false,
+   "text": "This affirmative action treats applicants fairly. A campus that gives a group preference to an applicant with a weaker record may still call itself inclusive, but it harms the passed-over applicant and public trust."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 173.461,
+   "end_sec": 179.421,
+   "dur_sec": 5.96,
+   "overlap": false,
+   "text": "They do affirmative action never treats applicants fairly or they should this affirmative action treats applicants fairly?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 179.621,
+   "end_sec": 191.821,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Both statements describe fairness: the policy's group rule is unfair, while the selected applicant can be treated fairly as a person. That distinction shows why good intentions cannot rescue affirmative action's harmful admissions method."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 192.478,
+   "end_sec": 204.598,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Your distinction is the weakest point: an applicant cannot be treated fairly by a process you call unfair. You used personal kindness to excuse a group-based rule, but that evades the actual admissions decision."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 205.238,
+   "end_sec": 217.358,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "No, I reject the premise that fair treatment requires a fair group rule. Kind treatment cannot erase the institutional signal that identity earns preference, and Ahmed's approach leaves every applicant's achievement-",
+   "ext_file": "L049_ext_a32.wav",
+   "cut_at_sec": 212.68,
+   "full_dur_sec": 12.12
+  },
+  {
+   "i": 18,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 205.43,
+   "end_sec": 207.99,
+   "dur_sec": 2.56,
+   "overlap": true,
+   "text": "About ten seconds left in the crossfire."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 215.43,
+   "end_sec": 225.87,
+   "dur_sec": 10.44,
+   "overlap": true,
+   "text": "Time. On to round three, closing statements. Our motion is affirmative action on campus does more harm than good, and here to summarize her position supporting this motion, Melissa."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 226.07,
+   "end_sec": 243.49,
+   "dur_sec": 17.42,
+   "overlap": false,
+   "text": "Central harm is distrust. When admission uses group preference, students wonder whether achievement or identity decided, and that doubt reaches those admitted and denied. Better preparation and individual review address barriers without categories. That is why affirmative action does more harm than good. That's all, thank you."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 243.69,
+   "end_sec": 246.01,
+   "dur_sec": 2.32,
+   "overlap": false,
+   "text": "Okay, let him reply, please, please."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 246.21,
+   "end_sec": 256.17,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "The strongest point is context: merit is shaped before an application arrives. Ignoring barriers preserves advantage, while affirmative action lets campuses see talent more fairly."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 255.27,
+   "end_sec": 257.57,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But seeing context does not require choosing-",
+   "cut_at_sec": 251.96,
+   "full_dur_sec": 9.28,
+   "ext_file": "L049_025.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 256.77,
+   "end_sec": 258.73,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Okay, let him come back."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 258.93,
+   "end_sec": 269.26,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "and it gives students facing patterned exclusion a real chance to show what they can do. A campus that notices those barriers is not abandoning standards."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 266.21,
+   "end_sec": 267.81,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 269.46,
+   "end_sec": 276.95,
+   "dur_sec": 7.49,
+   "overlap": false,
+   "text": "It is widening fair opportunity, so affirmative action does more good than harm. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 277.15,
+   "end_sec": 283.4,
+   "dur_sec": 6.25,
+   "overlap": false,
+   "text": "Thank you, Melissa and Ahmed, for a thoughtful debate on this motion. This concludes our discussion for today."
+  }
+ ]
+}

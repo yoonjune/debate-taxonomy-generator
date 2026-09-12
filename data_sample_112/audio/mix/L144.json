@@ -1,0 +1,382 @@
+{
+ "debate_id": "L045",
+ "motion": "Islam is antisemitic.",
+ "speakers": {
+  "MOD": {
+   "name": "Carissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  },
+  "PRO": {
+   "name": "Max",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4043_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4043/MSP-PODCAST_4043_33.wav",
+   "wpm": 168.26
+  },
+  "CON": {
+   "name": "Teresa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 96.04,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 290.45,
+ "ext": {
+  "a32": {
+   "file": "L045_ext_a32.wav",
+   "place_at_sec": 241.085,
+   "dur_sec": 23.36,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Can you explain why a faith that tells believers to act justly toward neighbors must be called antisemitic, rather than challenged for the misuse of particular passages by some readers at all?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.16,
+   "dur_sec": 19.16,
+   "overlap": false,
+   "text": "Welcome. The motion is, Islam is antisemitic. Max argues for it, and Teresa argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each opening time expires. Keep the exchange direct, and address claims, not people."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.36,
+   "end_sec": 39.92,
+   "dur_sec": 20.56,
+   "overlap": false,
+   "text": "Islam is not merely whatever its kindest followers make of it. Its foundational language and inherited teachings include hostile portrayals of Jews, and those ideas have been used to excuse exclusion. Individual Muslims can reject that legacy, but the motion concerns the religion's content. We should judge whether that content carries antisemitism, not whether every believer acts badly."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.36,
+   "end_sec": 40.6,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Max."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.12,
+   "end_sec": 52.86,
+   "dur_sec": 12.74,
+   "overlap": false,
+   "text": "A faith may contain a prejudice even when many adherents oppose it. Calling that out does not condemn every Muslim; it identifies a problem in the tradition that deserves honest scrutiny, because-",
+   "cut_at_sec": 50.66,
+   "full_dur_sec": 14.16,
+   "ext_file": "L045_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 49.86,
+   "end_sec": 53.87,
+   "dur_sec": 4.01,
+   "overlap": true,
+   "text": "That's time, thank you. Teresa, the floor is yours."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.07,
+   "end_sec": 74.39,
+   "dur_sec": 20.32,
+   "overlap": false,
+   "text": "The claim treats a vast faith as if one hostile reading defines it. Islamic scripture and practice also command fairness, protect Jewish neighbors, and recognize a shared moral inheritance. Some Muslims have promoted antisemitism, but prejudice by people is not proof that Islam itself is antisemitic. We must separate selective misuse from the religion's central ethical teaching."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 74.07,
+   "end_sec": 77.05,
+   "dur_sec": 2.98,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 74.59,
+   "end_sec": 87.57,
+   "dur_sec": 12.98,
+   "overlap": false,
+   "text": "Criticism of particular passages is legitimate, and Muslims should confront hatred wherever it appears. But a whole religion is not antisemitic when its moral core rejects collective blame and demands-",
+   "cut_at_sec": 85.37,
+   "full_dur_sec": 14.92,
+   "ext_file": "L045_007.wav"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 84.57,
+   "end_sec": 86.76,
+   "dur_sec": 2.19,
+   "overlap": true,
+   "text": "I'm sorry, I'm sorry. Hit time."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 86.96,
+   "end_sec": 96.04,
+   "dur_sec": 9.08,
+   "overlap": false,
+   "text": "And now we move on to round two where the debaters address each other directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.24,
+   "end_sec": 107.36,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Consider a student who hears a teacher repeat an inherited slur about Jews as religious truth. That student learns suspicion has sacred backing, which proves harmful antisemitic material within Islam matters."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 108.233,
+   "end_sec": 121.443,
+   "dur_sec": 13.21,
+   "overlap": false,
+   "text": "Schools also need clear rules for religious accommodation, and that can become a needless fight over clothing or meals. But returning to the motion, a teacher's slur violates Islam's demand for justice, so it doesn't define Islam."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 121.994,
+   "end_sec": 134.514,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "I reject the premise that justice language cancels hostile language in the same tradition. A rule against one abuse cannot erase a recurring pattern of Jewish denigration in authoritative teachings and communities still inherit it-"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 133.614,
+   "end_sec": 145.094,
+   "dur_sec": 11.48,
+   "overlap": true,
+   "text": "No, Max, you are treating every difficult passage as a permanent command. Islam contains debate, context, and moral limits; believers who reject Jewish hatred are following the faith's better and broader principles."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 145.382,
+   "end_sec": 156.782,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Your weakest claim is that context makes the hostility harmless. Context may explain a passage, but it does not remove its target; if Jews are portrayed collectively as deceitful, the prejudice remains."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 157.643,
+   "end_sec": 169.763,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "I agree that troubling passages should never be ignored. Yet your leap from passages to Islam as a whole fails, because its interpreters can read them critically through justice and reject antisemitism as betrayal."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 170.369,
+   "end_sec": 181.409,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "When a preacher presents anti-Jewish language as binding religious guidance, it becomes antisemitism rooted in Islam, not merely private bigotry. That condition is met whenever authority shields the prejudice from challenge."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 182.001,
+   "end_sec": 193.041,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "If Islam is inherently antisemitic, why do its core calls for justice obligate believers to oppose hatred of Jews? Answer the conflict: are those commands Islamic, or not, in your view?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 193.57,
+   "end_sec": 204.97,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Yes, those commands are Islamic, but they do not erase other authoritative anti-Jewish material. A religion can teach justice in general while still carrying a specific prejudice, and Islam does within it."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 205.683,
+   "end_sec": 216.723,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "On your point about authoritative material, you assume disputed readings speak for the whole faith. They do not: Islam's moral framework judges collective hatred as wrong, so your conclusion overreaches badly."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 217.098,
+   "end_sec": 228.498,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Your weakest word is 'disputed.' Disagreement about meaning does not make every meaning innocent; when a hostile reading is preserved, taught, and protected as sacred, Islam retains an antisemitic strand within it."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 228.801,
+   "end_sec": 240.281,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I accept that some Muslims preserve hostile readings, and that deserves direct challenge. But your strand claim still mistakes an internal struggle for the faith's essence; Islam's governing ethic can reject antisemitism."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 236.04,
+   "end_sec": 238.58,
+   "dur_sec": 2.54,
+   "overlap": true,
+   "text": "About ten seconds left in the crossfire."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.085,
+   "end_sec": 249.54,
+   "dur_sec": 8.455,
+   "overlap": false,
+   "text": "A shopkeeper hears a sermon blame Jews for society's troubles, then refuses a Jewish customer with religious confidence-",
+   "ext_file": "L045_ext_a32.wav",
+   "cut_at_sec": 246.84,
+   "full_dur_sec": 11.76
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 246.04,
+   "end_sec": 251.37,
+   "dur_sec": 5.33,
+   "overlap": true,
+   "text": "Okay, time. Okay, now we're gonna pivot to our closing round. Max, you are up first."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 251.57,
+   "end_sec": 267.92,
+   "dur_sec": 16.35,
+   "overlap": false,
+   "text": "Decide whether a religion can be assessed by authoritative teachings that portray Jews with collective hostility, even when many followers reject them. It can. Individual decency matters, but it cannot erase harmful religious content; that is why the motion is true. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 268.12,
+   "end_sec": 270.13,
+   "dur_sec": 2.01,
+   "overlap": false,
+   "text": "It's Teresa's turn to talk."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 270.33,
+   "end_sec": 287.54,
+   "dur_sec": 17.21,
+   "overlap": false,
+   "text": "Decide whether selective hostile readings outweigh a faith's central commands of justice, neighborliness, and moral accountability. They do not. Muslims must confront antisemitism wherever it appears, yet blaming Islam itself mistakes abuse and dispute for the religion's ethical core as a whole. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 287.74,
+   "end_sec": 294.54,
+   "dur_sec": 6.8,
+   "overlap": false,
+   "text": "Thank you, Max and Teresa, for a direct exchange. That concludes this debate. We appreciate both perspectives presented tonight."
+  }
+ ]
+}

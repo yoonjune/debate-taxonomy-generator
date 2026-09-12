@@ -1,0 +1,413 @@
+{
+ "debate_id": "L000",
+ "motion": "Bet on America.",
+ "speakers": {
+  "MOD": {
+   "name": "Lionel",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6676_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6676/MSP-PODCAST_6676_448.wav",
+   "wpm": 170.22
+  },
+  "PRO": {
+   "name": "Hina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  },
+  "CON": {
+   "name": "Wendy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 78.28,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 288.29,
+ "ext": {
+  "a32": {
+   "file": "L000_ext_a32.wav",
+   "place_at_sec": 226.752,
+   "dur_sec": 21.73,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Your neighborhood point concedes that trust belongs close to people, not nowhere. America is those people acting together, so refusing a national bet denies them tools to shape a better future."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.53,
+   "dur_sec": 19.53,
+   "overlap": false,
+   "text": "Welcome. The motion is: Bet on America. Hina supports it, and Wendy opposes it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. We are here to test whether confidence in the country's future is warranted, not merely trade slogans."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.73,
+   "end_sec": 36.31,
+   "dur_sec": 16.58,
+   "overlap": false,
+   "text": "Betting on America means backing its capacity to renew itself, not pretending it has no flaws. When people build, question bad choices, and solve problems, they create reasons for confidence. Retreat turns temporary trouble into permanent decline; commitment keeps possibilities open. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.51,
+   "end_sec": 38.2,
+   "dur_sec": 1.69,
+   "overlap": false,
+   "text": "And let Wendy respond."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 38.4,
+   "end_sec": 57.99,
+   "dur_sec": 19.59,
+   "overlap": false,
+   "text": "I understand the appeal of resilience, but a bet is not a cheer. It asks people to risk savings, plans, and trust on institutions that can fail them. When leaders promise renewal while families carry the losses, optimism becomes a shield for poor judgment. We should ask who pays when confidence is wrong, because."
+  },
+  {
+   "i": 4,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 58.19,
+   "end_sec": 71.9,
+   "dur_sec": 13.71,
+   "overlap": false,
+   "text": "because the people least able to absorb a setback pay first. A country can recover in headlines while households lose work, homes, and years of security, and betting anyway asks them-",
+   "cut_at_sec": 67.68,
+   "full_dur_sec": 13.85,
+   "ext_file": "L000_005.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 58.4,
+   "end_sec": 59.64,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 68.9,
+   "end_sec": 71.46,
+   "dur_sec": 2.56,
+   "overlap": true,
+   "text": "Thank you, Wendy. Your time is up."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.66,
+   "end_sec": 80.3,
+   "dur_sec": 8.64,
+   "overlap": false,
+   "text": "Great. So let's move on to the discussion portion of the debate. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 80.5,
+   "end_sec": 90.58,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "You say confidence exposes people to risk, but what alternative do you offer: withholding effort and investment until every institution is flawless? How does that protect ordinary people?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 91.122,
+   "end_sec": 101.692,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "The alternative is safeguards before investment. Consider a household deciding whether to repair a roof after wages vanish: lender terms, deposits, and missed payments decide whether it leaks through winter."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 101.892,
+   "end_sec": 106.222,
+   "dur_sec": 4.33,
+   "overlap": false,
+   "text": "Come back to the question of whether to bet on america's future, will you?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 106.422,
+   "end_sec": 116.272,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "The alternative is to refuse a blind bet on America and demand safeguards before risking people's futures. Effort matters, but confidence without accountability hands ordinary people the bill."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.705,
+   "end_sec": 126.705,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "If public institutions answer openly for failures, betting on America is sensible because trust can be checked. Under that condition, investment supports repair rather than rewarding empty promises."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 127.247,
+   "end_sec": 135.417,
+   "dur_sec": 8.17,
+   "overlap": false,
+   "text": "I believe no one should ever trust America. Power protects itself first, so a bet on it makes citizens absorb decisions they cannot control."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 136.29,
+   "end_sec": 146.97,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "That is the weakest claim because it treats every public action as identical power abuse. People can vote, organize, challenge leaders, and build alternatives; refusing all trust erases their agency."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 147.83,
+   "end_sec": 155.8,
+   "dur_sec": 7.97,
+   "overlap": false,
+   "text": "People should trust America. The people who depend on its systems deserve caution, but betting on America still exposes them to avoidable harm."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 156.0,
+   "end_sec": 162.2,
+   "dur_sec": 6.2,
+   "overlap": false,
+   "text": "One moment you're saying no one should ever trust America, then you're having them trust America. Which?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 162.4,
+   "end_sec": 173.21,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "By America, I mean its governing power in the first statement, and its people in the second. Citizens can trust one another while refusing to gamble their futures on official promises."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 173.679,
+   "end_sec": 183.559,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "America's future is worth supporting beyond any one institution, because its people can correct failing leaders. That larger promise is why a responsible bet should not be abandoned."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 184.179,
+   "end_sec": 194.909,
+   "dur_sec": 10.73,
+   "overlap": false,
+   "text": "Schools and streets also shape whether families feel secure, and those choices deserve local attention. But the motion is about betting on America, and I say the risks still outweigh faith."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 195.587,
+   "end_sec": 206.627,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Imagine a small workshop hiring a neighbor because its owner expects demand to return and can seek fair rules if it does not. That wager creates work and leverage for repair."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 206.964,
+   "end_sec": 216.974,
+   "dur_sec": 10.01,
+   "overlap": false,
+   "text": "Your workshop depends on demand returning, which is exactly the assumption at issue. A neighbor's job becomes fragile when hope, rather than reliable protection, is carrying the business."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 217.931,
+   "end_sec": 227.861,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "If nobody should trust America, why should a struggling worker trust the warning that every shared effort will fail? What path do you offer besides isolation and retreat?"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 220.3,
+   "end_sec": 222.15,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "Ten seconds left on the clock."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 228.772,
+   "end_sec": 233.8,
+   "dur_sec": 5.028,
+   "overlap": false,
+   "text": "I reject the premise that caution means isolation-",
+   "ext_file": "L000_ext_a32.wav",
+   "cut_at_sec": 229.08,
+   "full_dur_sec": 10.41
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.3,
+   "end_sec": 238.31,
+   "dur_sec": 8.01,
+   "overlap": true,
+   "text": "Time's up. And now we move on to round three. Here to make her closing statement in support of the motion, once again, Hina."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 238.51,
+   "end_sec": 255.37,
+   "dur_sec": 16.86,
+   "overlap": false,
+   "text": "The strongest case is practical: a cautious bet creates the work and leverage needed to repair what fails. America is not a promise that leaders never err; it is people able to demand better. Choosing engagement gives that capacity a future. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 255.57,
+   "end_sec": 257.5,
+   "dur_sec": 1.93,
+   "overlap": false,
+   "text": "I'm going to let Wendy answer."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 257.7,
+   "end_sec": 277.87,
+   "dur_sec": 20.17,
+   "overlap": false,
+   "text": "Hina calls engagement a bet, but engagement does not require handing over trust without limits. People can work together, demand repair, and protect one another while refusing a sweeping wager on national power. When the downside falls first on those with the least cushion, caution is not retreat. It is responsibility, and the question remains whether hope can."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 277.7,
+   "end_sec": 279.39,
+   "dur_sec": 1.69,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 278.07,
+   "end_sec": 288.94,
+   "dur_sec": 10.87,
+   "overlap": false,
+   "text": "justify asking vulnerable people to risk more than they can lose. I say no: build safeguards first, then refuse the bet when promises fail. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 289.14,
+   "end_sec": 294.59,
+   "dur_sec": 5.45,
+   "overlap": false,
+   "text": "Thank you, Hina and Wendy, for a thoughtful debate. That concludes our discussion of the motion."
+  }
+ ]
+}

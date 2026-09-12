@@ -1,0 +1,412 @@
+{
+ "debate_id": "L204",
+ "motion": "We should not trust the promise of artificial intelligence.",
+ "speakers": {
+  "MOD": {
+   "name": "Rick",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0417_1197",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0417/MSP-PODCAST_0417_1197.wav",
+   "wpm": 171.29
+  },
+  "PRO": {
+   "name": "Elise",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2678_246",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2678/MSP-PODCAST_2678_246.wav",
+   "wpm": 168.22
+  },
+  "CON": {
+   "name": "Cecilia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  }
+ },
+ "selective": [
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 78.33,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 290.0,
+ "ext": {
+  "a32": {
+   "file": "L204_ext_a32.wav",
+   "place_at_sec": 225.819,
+   "dur_sec": 22.25,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I do not refuse every promise until it guarantees no error; I support trust tested through use and correction. You treat uncertainty as betrayal, yet people can set boundaries and benefit responsibly."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.24,
+   "dur_sec": 20.24,
+   "overlap": false,
+   "text": "Welcome. The motion is: We should not trust the promise of artificial intelligence. Elise speaks for it, and Cecilia speaks against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed segment ends. Keep remarks direct, and address the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.44,
+   "end_sec": 37.62,
+   "dur_sec": 17.18,
+   "overlap": false,
+   "text": "The promise of artificial intelligence asks us to hand over judgment before we can see its failures. Useful tools can still mislead, exclude, or make choices nobody can explain. Trust must be earned by clear accountability, not glowing assurances from their sellers. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 37.82,
+   "end_sec": 39.19,
+   "dur_sec": 1.37,
+   "overlap": false,
+   "text": "Cecilia, over to you."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 39.39,
+   "end_sec": 59.4,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "Elise is right that blind faith is foolish. But the motion rejects trust in a promise, even when people can test a system, set limits, and correct mistakes; that confuses careful trust with surrender. We trust tools because they can help us notice patterns, translate difficult material, and reduce routine burdens, while people remain responsible for"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 59.39,
+   "end_sec": 60.63,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Cecilia, ten seconds."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 59.6,
+   "end_sec": 67.24,
+   "dur_sec": 7.64,
+   "overlap": false,
+   "text": "the decisions, which is why the promise deserves measured trust rather than blanket suspicion today. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 67.44,
+   "end_sec": 82.65,
+   "dur_sec": 15.21,
+   "overlap": false,
+   "text": "Now we know where each of you stand and why on the question that we're asking. We'll get deeper into the conversation. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 82.85,
+   "end_sec": 93.5,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "I agree that accountability matters, but that is a reason to build trustworthy use, not reject the promise itself. If people inspect outcomes and retain authority, earned trust remains sensible."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 94.332,
+   "end_sec": 105.652,
+   "dur_sec": 11.32,
+   "overlap": false,
+   "text": "When a system recommends treatment without a clear explanation or a human able to challenge it, we should not trust its promise. Convenience cannot turn an opaque guess into a dependable guide."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 106.626,
+   "end_sec": 117.436,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "Your weakest point is treating a missing explanation as proof that trust is impossible. In your treatment case, a trained person can compare advice, reject it, and use the tool cautiously."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 117.954,
+   "end_sec": 128.314,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "Designers also need fair pay and clear ownership, because hidden incentives shape what systems offer. Still, the motion is about trust: promises without understandable safeguards deserve skepticism from us."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 128.649,
+   "end_sec": 139.299,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "On your ownership point, fair contracts do not make a system untrustworthy. Safeguards, review, and enforceable rules turn broad promises into commitments people can check, rather than fears you merely-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 138.399,
+   "end_sec": 149.079,
+   "dur_sec": 10.68,
+   "overlap": true,
+   "text": "No, checkable commitments are exactly the issue: many systems change quietly after people rely on them. When oversight cannot see the change before harm, trust in the promise is reckless."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.873,
+   "end_sec": 161.883,
+   "dur_sec": 12.01,
+   "overlap": false,
+   "text": "Quiet changes can be logged, announced, and reversed; that is why your claim about invisible shifts fails. The real question is who reads update notices, who approves access, and how families learn digital rules."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 162.083,
+   "end_sec": 172.163,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "But, how do you relate that to we should not trust the promise of artificial intelligence? Land that on we should not trust the promise of artificial intelligence."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 172.363,
+   "end_sec": 183.253,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "That relates to the motion because trust grows from visible control: people can see changes, refuse access, and reverse errors. A promise backed by those practical choices is worth measured trust."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 183.577,
+   "end_sec": 195.057,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Promises should never substitute for human judgment, because every important use can affect someone who cannot inspect it. That is why we should not trust artificial intelligence's promise as a general guide."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 196.054,
+   "end_sec": 206.944,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "Consider a learner who cannot read a dense letter. A carefully checked assistant can restate it plainly, letting the learner ask better questions; that proves promised help can merit limited trust."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 207.68,
+   "end_sec": 218.28,
+   "dur_sec": 10.6,
+   "overlap": false,
+   "text": "Your learner point assumes the restatement is faithful. If it quietly changes a deadline or leaves out a warning, the learner is harmed before better questions begin, which supports distrust."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 218.58,
+   "end_sec": 229.71,
+   "dur_sec": 11.13,
+   "overlap": false,
+   "text": "If you refuse every promise until it guarantees no error, what useful tool could anyone ever trust? Why deny people cautious help when they can verify results and keep the final decision?"
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 222.65,
+   "end_sec": 224.97,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 230.139,
+   "end_sec": 236.15,
+   "dur_sec": 6.011,
+   "overlap": false,
+   "text": "People can verify some results, and that is valuable. But-",
+   "ext_file": "L204_ext_a32.wav",
+   "cut_at_sec": 229.13,
+   "full_dur_sec": 10.76
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 232.65,
+   "end_sec": 240.53,
+   "dur_sec": 7.88,
+   "overlap": true,
+   "text": "Time's up. And now we move on to round three. And the first to speak in support of the resolution is Elise."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.73,
+   "end_sec": 250.69,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "This decision turns on whether a persuasive promise deserves confidence before people can challenge it. Useful output is not enough when hidden choices shape lives."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 249.79,
+   "end_sec": 252.09,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But people do challenge them, and you erase-",
+   "cut_at_sec": 247.77,
+   "full_dur_sec": 9.13,
+   "ext_file": "L204_025.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 251.29,
+   "end_sec": 252.74,
+   "dur_sec": 1.45,
+   "overlap": true,
+   "text": "Let her clarify, please."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 252.94,
+   "end_sec": 263.38,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "shape lives without appeal. Trust should follow evidence and recourse, not arrive as a favor from a system whose inner choices users cannot inspect."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 260.73,
+   "end_sec": 264.09,
+   "dur_sec": 3.36,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 263.58,
+   "end_sec": 271.84,
+   "dur_sec": 8.26,
+   "overlap": false,
+   "text": "Vote for caution: do not trust a promise that cannot answer to the people affected. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 272.04,
+   "end_sec": 274.29,
+   "dur_sec": 2.25,
+   "overlap": false,
+   "text": "Let's take that to Cecilia, please."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 274.49,
+   "end_sec": 292.0,
+   "dur_sec": 17.51,
+   "overlap": false,
+   "text": "The motion asks for distrust, not sensible caution. We should demand explanations, limits, and human responsibility, then trust tools to the extent they meet those demands. Rejecting every promise before people can test its value would deny practical help and put fear above judgment. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 292.2,
+   "end_sec": 298.64,
+   "dur_sec": 6.44,
+   "overlap": false,
+   "text": "Thank you, Elise and Cecilia, for a thoughtful exchange; this concludes our debate on trusting artificial intelligence promises."
+  }
+ ]
+}

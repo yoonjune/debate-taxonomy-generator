@@ -1,0 +1,37 @@
+L174  |  All Hail the Driverless Car
+  MOD=Carlos   PRO=Rachel   CON=Ingrid
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Carlos(MOD): Welcome. Tonight's motion is whether we should all hail the driverless car. Rachel speaks for it, and Ingrid speaks against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue.
+[t01] Rachel(PRO): Driverless cars deserve welcome because they do not get tired, distracted, or angry. They can follow the road's rules with steady attention and give older or disabled riders more freedom. Ingrid may fear surrendering control, but human control is hardly flawless. I will show why a calmer system can serve everyone.
+[t02] @A4 <ovl> Carlos(MOD): Ten seconds.
+[t03] <cut> Rachel(PRO): Think of a rider who cannot drive at all. A vehicle that watches continuously can widen independence and reduce avoidable mistakes. We should judge it by lives it can protect, not-
+[t04] @A2-1 <ovl> Carlos(MOD): Time. Thank you, Rachel. Ingrid, your turn.
+[t05] Ingrid(CON): Rachel, if a car makes the choice, who answers when it harms someone? A machine can miss the meaning behind a gesture, a confusing street, or a sudden plea. We should improve driving, not hail a system that removes human judgment from a human responsibility. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Carlos(MOD): And that concludes round one. Now we go on to round two, where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t07] Rachel(PRO): You asked who answers after harm: the owner and maker can be accountable, just as they are for any tool. Your argument treats human judgment as magic, yet distraction and panic create harms that steadier driving can prevent.
+[t08] Ingrid(CON): That is why licensing rules need reform: owners, makers, repair shops, and insurers could pass blame around. We need clear training standards, renewal tests, and fair rules for workers displaced by automated transport.
+[t09] @B1 Carlos(MOD): We are talking about whether we should all hail the driverless car right now.
+[t10] Ingrid(CON): On whether we should all hail the driverless car, I say no: handing routine travel to machines creates new failures without human understanding. Better licensing cannot turn a programmed response into the judgment a difficult moment requires.
+[t11] Rachel(PRO): I believe driverless cars always protect every passenger. Their constant attention removes the lapses that make ordinary trips dangerous, so welcoming them means choosing reliable care over the limits of tired human drivers.
+[t12] Ingrid(CON): Rachel's point that driverless cars always protect every passenger is precisely the problem. A machine can follow its design perfectly and still misunderstand a blocked path or a person's signal, leaving people exposed without a human able to improvise.
+[t13] Rachel(PRO): In a debris-filled lane, a driverless car does not protect every passenger. I still support it: one failure does not erase its daily promise of steadier attention, calmer choices, and wider freedom for riders.
+[t14] @B2 Carlos(MOD): One moment you're saying driverless cars always protect every passenger, then you're having them not protect every passenger. Which?
+[t15] Rachel(PRO): Both statements describe the same reason to improve the system. It always protects every passenger as its governing aim, and when it does not protect every passenger, that failure shows where its design must learn.
+[t16] Ingrid(CON): Imagine a child waving beside a stalled vehicle while signals are hidden by dust. A human driver may read fear and stop; a driverless car may read unclear shapes and continue. That proves judgment cannot be programmed away.
+[t17] Rachel(PRO): I grant that unclear signals are hard. But human drivers also misread danger while tired or rushed; automated attention is steadier on ordinary trips and gives riders independence, so we should hail the driverless car.
+[t18] Ingrid(CON): Rachel's claim that ordinary trips settle the case is weak. Safety is not a bargain that excuses a person harmed in the exceptional moment; those moments demand understanding, and her machine has none when its pattern fails.
+[t19] @A4 <ovl> Carlos(MOD): Ten seconds, both of you.
+[t20] <cut> Rachel(PRO): Ingrid's point that exceptional moments settle everything overlooks damage caused by ordinary human error. Driverless cars can react without fatigue or pride-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Carlos(MOD): Okay, time. Let's move on to Round three, closing statements from each debater in turn. Our resolution is, whether we should all hail the driverless car. Leading off with her closing statement, Rachel.
+[t22] Rachel(PRO): Driverless cars are not sacred, and hard moments must be solved. But Ingrid asks us to preserve human control despite fatigue, panic, and exclusion from travel. Constant attention and independence are the stronger promise. We should welcome the driverless car and make it worthy of trust. That's all, thank you.
+[t23] @A2-2 Carlos(MOD): Would you like to take it, Ingrid? You started to speak.
+[t24] Ingrid(CON): Rachel's strongest point is steady attention, and I agree that human drivers can fail. Yet attention without understanding can turn a person into an obstacle when the road stops matching patterns. We should build tools that assist people, not hail tools that replace judgment. Responsibility needs someone who can see, listen, and choose in the hard moments.
+[t25] @A4 <ovl> Carlos(MOD): Ten seconds, Ingrid.
+[t26] Ingrid(CON): That is why I reject the driverless car as something we should all hail. That's all, thank you.
+[t27] Carlos(MOD): Thank you, Rachel and Ingrid, for a thoughtful debate. This concludes our discussion of the motion tonight.

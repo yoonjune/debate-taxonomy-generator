@@ -1,0 +1,40 @@
+L244  |  We have free will.
+  MOD=Pete   PRO=Nelson   CON=Bella
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Pete(MOD): Welcome to our debate on whether we have free will. Nelson argues for the motion, and Bella argues against it. Each opening and closing gets thirty seconds; crossfire lasts two and a half minutes. I will give a ten-second cue before each timed speech ends, and the debaters will address the issue directly in turn.
+[t01] Nelson(PRO): I experience choice when reasons compete. I can notice anger, imagine consequences, and choose a calmer reply. Those reasons influence me, but influence is not a hand forcing one result. Freedom means acting from my considered judgment, rather than being pushed like an object by a chain I never examine or revise.
+[t02] @A4 <ovl> Pete(MOD): I'll give you ten more seconds to nail this.
+[t03] <cut> Nelson(PRO): That capacity matters because blame, promises, and learning address a person who can respond. If each act is merely the unavoidable output of earlier events, deliberation becomes-
+[t04] @A2-1 <ovl> Pete(MOD): Nelson, I have to stop you, that's time. Bella, go ahead.
+[t05] Bella(CON): Choice feels open because we do not see the forces shaping us. Temperament, memory, fear, and the situation arrive before any decision appears. When one thought leads to another, the next thought has causes too. Calling that chain freedom gives a comforting label, but it does not create an uncaused chooser inside it.
+[t06] <cut> Bella(CON): Deliberation itself is one more process in the chain, not an escape from it. You may pause and compare reasons, yet that pause follows the mind you were given. Until we explain how a choice starts-
+[t07] @A4 <ovl> Pete(MOD): Ten seconds please.
+[t08] @A1 <ovl> Pete(MOD): I have to step in because we hit our time limit.
+
+--- phase 2 ---
+[t09] @A3-1 Pete(MOD): And that concludes round one. Now we go on to round two, where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t10] Nelson(PRO): Someone tempted to lash out can pause, consider a promise, and speak gently instead. That choice repairs trust and proves people can direct conduct through reasons, so we have free will.
+[t11] <cut> Bella(CON): Your example only shows that reflection happens; it never shows reflection escapes its causes. The promise, pause, and gentle words could all be the next links in a process you did not-
+[t12] Nelson(PRO): When a person understands two options and can act on either after weighing them, that person exercises free will. Causes supply materials for judgment; they do not settle the judgment beforehand.
+[t13] Bella(CON): People use freedom in arguments about praise, punishment, and social rules. Those disputes matter, but labels for blame are not the question. The question is whether anyone could choose otherwise, and prior causes say no.
+[t14] Nelson(PRO): Human beings author their lives through countless choices, even though some choices occur under severe limits. A cause can shape a decision without replacing the person's active role in making it.
+[t15] Bella(CON): Every human choice is produced by prior causes. Your language of authorship merely names the final stage of that production, while the person never selects the desires and thoughts doing the selecting.
+[t16] Nelson(PRO): A person trying to break a cruel habit can notice an urge, reject it, and practice a better response until it becomes easier. That effort builds character and proves choice can guide a life.
+[t17] Bella(CON): This human choice is not produced by prior causes. When someone rejects a cruel urge, the whole history of temperament, teaching, and circumstance still explains the rejection, so free will remains false.
+[t18] @B2 Pete(MOD): But doesn't your argument for every human choice is produced by prior causes fight your argument that this human choice is not produced by prior causes?
+[t19] Bella(CON): Both statements use cause in different roles: one describes events, while the other names the person acting within events. The distinction does not rescue freedom, because neither role supplies an independent origin for choice.
+[t20] Nelson(PRO): I agree that urges and history shape us. But Bella turns shaping into controlling without showing that reasons cannot be assessed and redirected; our capacity to redirect them is free will.
+[t21] Bella(CON): If reasons themselves arise from prior causes, why call their outcome a choice you control? You describe a thoughtful mechanism, but where is the self that could make the mechanism produce otherwise?
+[t22] @A4 <ovl> Pete(MOD): Ten.
+[t23] <cut> Nelson(PRO): I reject the premise that caused reasons cannot be mine: I assess and endorse them. A self is not outside its thinking; it is the agent doing the thinking, which supports-
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Pete(MOD): Time's up. So onto round three. Round three, closing statements from each debater in turn, uninterrupted. And here to summarize his position in support of the claim that human beings have free will, Nelson.
+[t25] Nelson(PRO): Free will does not mean floating outside history or having no influences. It means a person can recognize reasons, reflect on them, and guide action through judgment. Bella treats every cause as a command, but causes can be reasons that an agent weighs. Our daily efforts to revise habits and keep commitments show more than a passive chain.
+[t26] @A4 <ovl> Pete(MOD): You have ten seconds.
+[t27] Nelson(PRO): We are shaped, yet shaping is not surrender. The power to answer reasons with considered action is precisely why we have free will. That's all, thank you.
+[t28] @A2-2 Pete(MOD): Thank you, Nelson. And that is the motion, the claim that human beings have free will. And here to argue against the motion, Bella.
+[t29] Bella(CON): Deciding this motion turns on whether a chooser can begin an act independently of what formed that chooser. Reflection is real, but it is part of the causal story, not a break in it. Accepting that fact supports clearer, kinder judgment, and free will is false. That's all, thank you.
+[t30] Pete(MOD): Thank you, Nelson and Bella, for a thoughtful debate. This concludes our discussion of whether we have free will.

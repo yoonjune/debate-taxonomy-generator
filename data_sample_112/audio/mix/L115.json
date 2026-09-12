@@ -1,0 +1,358 @@
+{
+ "debate_id": "L004",
+ "motion": "Capitalism is the enemy of progress.",
+ "speakers": {
+  "MOD": {
+   "name": "Bobby",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3508_91",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3508/MSP-PODCAST_3508_91.wav",
+   "wpm": 177.15
+  },
+  "PRO": {
+   "name": "Jacob",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  },
+  "CON": {
+   "name": "Floyd",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4814_946",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4814/MSP-PODCAST_4814_946.wav",
+   "wpm": 172.38
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 68.76,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 291.26,
+ "ext": {
+  "a32": {
+   "file": "L004_ext_a32.wav",
+   "place_at_sec": 211.705,
+   "dur_sec": 24.81,
+   "src_i": 17
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 18,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Your stove story assumes the people facing danger can pay before protection matters. A safer design behind a price tag leaves the poorest with risk. Profit may distribute improvement, but it also rations it."
+  },
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "No, I do not assume safety should wait for payment; competition can lower costs and expand access. Your alternative leaves someone deciding what gets made and who receives it. Capitalism disperses that power better."
+  },
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "If capitalism disperses power, why can an owner close a workplace, withhold a medicine, or abandon a neighborhood despite everyone else's needs? How is that private veto compatible with progress for all?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.49,
+   "dur_sec": 20.49,
+   "overlap": false,
+   "text": "Welcome to our debate on whether capitalism is the enemy of progress. Jacob speaks for the motion, and Floyd speaks against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Closings last thirty seconds, and I will give a ten-second cue. Address arguments directly, keep remarks civil, and let each speaker finish."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.69,
+   "end_sec": 37.39,
+   "dur_sec": 16.7,
+   "overlap": false,
+   "text": "Progress means people gaining durable control over their lives. Capitalism gives owners power to withhold tools, housing, and knowledge until payment arrives. It can generate products, but it turns human advancement into a private toll road for those able to pay. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 37.59,
+   "end_sec": 41.28,
+   "dur_sec": 3.69,
+   "overlap": false,
+   "text": "Thank you. Up next, speaking against the resolution is Floyd."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 41.48,
+   "end_sec": 56.4,
+   "dur_sec": 14.92,
+   "overlap": false,
+   "text": "Capitalism is not a barrier to progress; it rewards people who solve problems. Competition exposes waste and invites better ideas. When people may build, trade, and improve, progress spreads rather than waiting for one authority to decide. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 56.6,
+   "end_sec": 72.69,
+   "dur_sec": 16.09,
+   "overlap": false,
+   "text": "And that concludes opening statements in this debate. And now we move on to Round two. In Round two, the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 72.89,
+   "end_sec": 84.01,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Your toll-road image mistakes exchange for exclusion. Payment lets makers recover effort and build again; without that signal, useful work can be ignored. Why call voluntary trade an enemy of progress?"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 84.53,
+   "end_sec": 96.86,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "I do not call all trade an enemy; I reject your claim that capitalism is merely voluntary. People without money cannot access necessities, while owners decide terms. That hierarchy makes progress serve profit before need."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 97.837,
+   "end_sec": 108.807,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "If capitalism is the enemy of progress, why do people under it repeatedly create cheaper tools and better services? Your view treats ownership as poison, though ownership gives responsibility and incentive."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 109.714,
+   "end_sec": 120.474,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "You talk about incentive, but families teach skills and neighbors share care without prices. That social fabric matters, yet the motion is broader: capitalism lets private returns outrank shared advancement."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 121.428,
+   "end_sec": 133.118,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "I agree that some owners abuse power. But capitalism does not require abuse; open rivalry lets newcomers challenge old firms and offer better choices. Progress needs accountable freedom, not the enemy you describe."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 133.985,
+   "end_sec": 144.745,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Your freedom belongs mostly to those who already own resources. Every capitalist system blocks shared progress. It makes inventions bargaining chips, so benefits arrive late, unevenly, or not at all."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 145.139,
+   "end_sec": 156.349,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "That absolute claim collapses under ordinary cooperation. A shop owner who improves a tool can help workers and customers at once. You call that blocked progress simply because someone earns a return."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 157.188,
+   "end_sec": 167.948,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Here a capitalist system does not block shared progress: a maker designs a simple water filter and sells it widely. Families gain safer water, yet capitalism remains an enemy overall."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 168.148,
+   "end_sec": 180.238,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "So what I hear was on the one hand, you found yourself saying every capitalist system blocks shared progress. And then on the other hand, here a capitalist system does not block shared progress."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 180.438,
+   "end_sec": 192.278,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Both statements fit because the first names capitalism's overall direction, while the second notices one success within it. A wider system can block shared progress even when a particular exchange spreads something useful."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 193.267,
+   "end_sec": 204.307,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "On your overall-direction point, you use one good example as proof of a hostile system. If people freely choose the filter, their choices direct production; your theory denies them agency and-"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 203.407,
+   "end_sec": 215.247,
+   "dur_sec": 11.84,
+   "overlap": true,
+   "text": "No, it recognizes that choice under scarcity is not full agency. When basic needs are priced, people accept terms set above them. A society organized around that pressure makes progress dependent on profit."
+  },
+  {
+   "i": 17,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 212.69,
+   "end_sec": 215.18,
+   "dur_sec": 2.49,
+   "overlap": true,
+   "text": "Ten seconds left on the clock."
+  },
+  {
+   "i": 18,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 215.635,
+   "end_sec": 226.19,
+   "dur_sec": 10.555,
+   "overlap": false,
+   "text": "Imagine a small inventor who notices a dangerous stove, builds a safer design, and earns enough sales to improve it. Rivals copy the safety idea-",
+   "ext_file": "L004_ext_a32.wav",
+   "cut_at_sec": 219.56,
+   "full_dur_sec": 12.41
+  },
+  {
+   "i": 19,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 222.69,
+   "end_sec": 230.38,
+   "dur_sec": 7.69,
+   "overlap": true,
+   "text": "Time's up. So let's move on to our closing round. You go first in this closing round, Jacob, the floor is yours."
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 230.58,
+   "end_sec": 252.94,
+   "dur_sec": 22.36,
+   "overlap": false,
+   "text": "Floyd says rivalry spreads good ideas, and sometimes it does. But an invention is not progress when access depends on what a buyer can surrender. Capitalism gives owners the power to decide which needs count and which wait. We should measure progress by shared freedom, not the speed of profitable products, because the crucial question is who controls the tools shaping daily life."
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 250.58,
+   "end_sec": 252.03,
+   "dur_sec": 1.45,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 253.14,
+   "end_sec": 264.08,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "When profit sets the gate, urgent care, clean surroundings, and learning become markets before they become rights. Floyd calls that incentive, but it makes people-",
+   "cut_at_sec": 257.95,
+   "full_dur_sec": 14.32,
+   "ext_file": "L004_025.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 261.08,
+   "end_sec": 270.85,
+   "dur_sec": 9.77,
+   "overlap": true,
+   "text": "Thank you. I'm sorry his time is up. Thank you. And here to summarize his position against the question of whether capitalism is the enemy of progress, Floyd."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 271.05,
+   "end_sec": 289.48,
+   "dur_sec": 18.43,
+   "overlap": false,
+   "text": "Jacob's best point is that markets can leave people without essentials, and that failure deserves correction. But it does not show capitalism opposes progress; it shows rules and shared support matter. A system that rewards solutions while protecting people offers more progress than abolishing ownership and choice. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 289.68,
+   "end_sec": 297.05,
+   "dur_sec": 7.37,
+   "overlap": false,
+   "text": "Thank you, Jacob and Floyd, for a thoughtful exchange. This concludes our debate on the motion before us today."
+  }
+ ]
+}

@@ -1,0 +1,432 @@
+{
+ "debate_id": "L120",
+ "motion": "AI will kill the future of the creative arts.",
+ "speakers": {
+  "MOD": {
+   "name": "Daisy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4100_1134",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4100/MSP-PODCAST_4100_1134.wav",
+   "wpm": 166.01
+  },
+  "PRO": {
+   "name": "Virginia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1266_611",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1266/MSP-PODCAST_1266_611.wav",
+   "wpm": 163.47
+  },
+  "CON": {
+   "name": "Ben",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4043_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4043/MSP-PODCAST_4043_33.wav",
+   "wpm": 168.26
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 76.75,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 298.79,
+ "ext": {
+  "a32": {
+   "file": "L120_ext_a32.wav",
+   "place_at_sec": 218.423,
+   "dur_sec": 33.23,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I grant that effortless copying can punish a maker. But you leap from a serious risk to certain cultural death; people can defend authorship, reward real voices, and keep AI in a supporting role."
+  },
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "If people can reward real voices, how will an unknown painter be found when endless generated lookalikes fill the search? What protects the first human chance to be seen?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.05,
+   "dur_sec": 19.05,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, AI will kill the future of the creative arts. Virginia argues for the motion, while Ben argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each time limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.25,
+   "end_sec": 39.26,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "AI does not merely offer another brush or instrument. It turns finished work into instant raw material, so creators lose control over their voice and livelihood. When audiences can summon endless imitations, they stop seeking the difficult human choices behind art. That habit hollows out the conditions artists need to create freely."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.25,
+   "end_sec": 40.13,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.46,
+   "end_sec": 52.75,
+   "dur_sec": 13.29,
+   "overlap": false,
+   "text": "It reaches beyond money: schools reward quick outputs, publishers choose cheap volume, and young artists learn copying is safer than risking a personal idea. That culture cannot sustain original voices-",
+   "cut_at_sec": 50.55,
+   "full_dur_sec": 14.16,
+   "ext_file": "L120_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 49.75,
+   "end_sec": 53.52,
+   "dur_sec": 3.77,
+   "overlap": true,
+   "text": "Thank you. Time is up on that. And now Ben."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.72,
+   "end_sec": 71.91,
+   "dur_sec": 18.19,
+   "overlap": false,
+   "text": "Virginia is right that imitation can be cheap. But a tool does not erase the desire to make meaning; it gives people ways to shape images, sounds, and stories. The future dies only if people surrender judgment, and people can use AI as material, not master. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 72.11,
+   "end_sec": 78.54,
+   "dur_sec": 6.43,
+   "overlap": false,
+   "text": "You're now going to argue with one another. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 78.74,
+   "end_sec": 90.03,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "You say people can choose judgment, but that ignores who controls the choices offered. If cheap machine output floods every doorway, human makers cannot live by their work, and choice becomes hollow."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 90.338,
+   "end_sec": 101.148,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "I agree that crowded markets can hurt working artists. But your claim assumes audiences cannot tell care from imitation; people seek perspective, and tools can lower barriers for new makers who-"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 100.248,
+   "end_sec": 111.288,
+   "dur_sec": 11.04,
+   "overlap": true,
+   "text": "They cannot seek a perspective they never encounter, because platforms reward speed and sameness. Lowering barriers to production is not the same as preserving a future where human artists are heard."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 111.516,
+   "end_sec": 123.286,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "On your platform point, speed does not dictate taste forever. People share work that moves them, and AI may handle routine tasks so creators can spend more effort on the choices that matter."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 124.218,
+   "end_sec": 134.298,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "Picture a young illustrator facing instant copies in her style, priced almost free. Buyers pick volume, she quits, and that proves AI can empty the path into art."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 135.29,
+   "end_sec": 147.13,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "When a creator directs the tool, revises its output, and takes responsibility for the result, AI expands that creator's range. That condition preserves authorship and shows the future of art need not die."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 148.021,
+   "end_sec": 159.501,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Your condition is weak because markets do not wait for careful direction; they reward whoever produces fastest. A few responsible users cannot protect a profession when automated substitutes set the ordinary price."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 159.933,
+   "end_sec": 170.613,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Art survives because creators continually turn available materials into expression, from scraps to screens. AI is another material, and human intention can make it serve art rather than replace it."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 171.46,
+   "end_sec": 183.58,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "People also worry about who owns a prompt, who gets credit, and whether labels are honest. Those disputes matter, yet the deeper issue is simpler: AI makes human originality disposable, which kills art's future."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 184.074,
+   "end_sec": 196.954,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "On your originality point, a tool cannot make human originality disposable unless audiences abandon human meaning. They have reasons to value lived experience, and creators can use AI while still making work no machine has lived."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 197.929,
+   "end_sec": 208.499,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "Imagine a dancer whose stage design is copied instantly and sold before she performs. If that steals her audience, what freedom remains? It proves AI can erase a maker's future."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 208.968,
+   "end_sec": 220.008,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "It leaves her freedom to perform, revise, and build trust with people who value her work. Copying is theft or bad conduct, not proof that the tool itself kills creative arts."
+  },
+  {
+   "i": 19,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 218.54,
+   "end_sec": 220.87,
+   "dur_sec": 2.33,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 220.213,
+   "end_sec": 230.863,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "Your answer dodges the economic point by treating copying as separate from AI. The tool enables copying at effortless scale, so calling it bad conduct does nothing-",
+   "ext_file": "L120_ext_a32.wav",
+   "cut_at_sec": 227.55,
+   "full_dur_sec": 10.65
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 228.54,
+   "end_sec": 236.55,
+   "dur_sec": 8.01,
+   "overlap": true,
+   "text": "Okay, time. And that concludes round two of this debate. We're going to go to closing arguments now. And so, first up, Virginia."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 236.75,
+   "end_sec": 256.95,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "Ben says human intention can keep AI supportive, but intention has little power when businesses can replace paid human work with endless cheap approximations. Art needs time, income, risk, and an audience willing to seek a person rather than a pattern. AI attacks each condition by making imitation abundant and human labor optional."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 256.75,
+   "end_sec": 258.35,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 257.15,
+   "end_sec": 265.02,
+   "dur_sec": 7.87,
+   "overlap": false,
+   "text": "That is why accepting AI as normal production means accepting a future where art cannot live. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 265.22,
+   "end_sec": 267.32,
+   "dur_sec": 2.1,
+   "overlap": false,
+   "text": "Can we ask him to answer? Ben."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 267.52,
+   "end_sec": 277.29,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "Her strongest point is economic pressure, and creators may face it. Yet pressure is not extinction: human judgment, performance, and relationships keep art alive."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 276.39,
+   "end_sec": 278.69,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But your answer ignores the unknown makers already-",
+   "cut_at_sec": 274.8,
+   "full_dur_sec": 8.45,
+   "ext_file": "L120_029.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 277.89,
+   "end_sec": 279.9,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "Please let him finish, please."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 280.1,
+   "end_sec": 290.46,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "The point is that audiences do not merely consume output; they connect with accountable people. AI cannot replace that connection, so it changes the work without killing its future."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 287.52,
+   "end_sec": 290.51,
+   "dur_sec": 2.99,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 290.66,
+   "end_sec": 298.1,
+   "dur_sec": 7.44,
+   "overlap": false,
+   "text": "The future of art rests in human choices, and those choices remain ours even with AI. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 298.3,
+   "end_sec": 304.47,
+   "dur_sec": 6.17,
+   "overlap": false,
+   "text": "Thank you, Virginia and Ben, for a thoughtful debate, and thank you for joining us as we close."
+  }
+ ]
+}

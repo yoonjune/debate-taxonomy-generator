@@ -1,0 +1,42 @@
+L114  |  It's time to end affirmative action
+  MOD=Margaret   PRO=Carissa   CON=Joanna
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Margaret(MOD): Welcome. Tonight's motion is: It's time to end affirmative action. Carissa argues for the motion, and Joanna argues against it. Each opening is thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings; I will give a ten-second cue, and I ask both speakers to address the motion fairly and clearly from the start.
+[t01] Carissa(PRO): Affirmative action began as a remedy, but remedies need limits. Institutions sort people by group identity, not their individual record, in admissions and hiring, and.
+[t02] <ovl> <cut> Joanna(CON): But you skip barriers people still face and-
+[t03] @A5 <ovl> Margaret(MOD): Let her answer that, if you want to come back on this.
+[t04] Carissa(PRO): and that makes identity a permanent test. We should confront unfair schools and hiring practices directly, rather than giving gatekeepers permission to favor or disfavor applicants by category.
+[t05] @A4 <ovl> Margaret(MOD): Carissa, ten seconds.
+[t06] Carissa(PRO): Ending it restores a clear standard: judge each person by demonstrated ability and effort.
+[t07] @A2-2 Margaret(MOD): You guys want to respond? Joanna.
+[t08] Joanna(CON): Equal treatment is not achieved by ignoring unequal access. Affirmative action gives qualified people a fair chance to be seen where old habits still narrow the pool. Ending it now would preserve those habits behind language about neutrality, so why remove a tool before the work is done? That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Margaret(MOD): And that concludes round one. Now we go on to round two, where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t10] Joanna(CON): I would not remove it before barriers are gone; I reject the idea that ending it creates neutrality. Your standard ignores how selection already favors familiar paths, so retaining affirmative action keeps opportunity open.
+[t11] Carissa(PRO): I agree unequal access is real, and it deserves serious repair. But giving decision makers group preferences is a blunt response that can stigmatize beneficiaries and punish equally qualified people, which is why affirmative action should end.
+[t12] Joanna(CON): When a school has removed clear barriers in its outreach, review, and support, group preferences are unnecessary. Until access is genuinely broad, affirmative action can prevent old exclusion from deciding who gets noticed.
+[t13] Carissa(PRO): If two applicants meet the same standard, why should ancestry or sex tip the decision? You say barriers justify that preference, but fixing barriers should mean better preparation, not unequal judgment at the final gate.
+[t14] Joanna(CON): On your final-gate point, identity is not a reward detached from merit; qualified applicants still must meet standards. The tie-breaking context recognizes unequal routes to that gate, so ending affirmative action would make judgment less fair.
+[t15] Carissa(PRO): Imagine a qualified applicant with stronger work samples passed over because another applicant's group status is preferred. Ending affirmative action stops that official preference; it proves decisions should return to individual merit.
+[t16] Joanna(CON): People also argue about campus culture and whether students feel welcomed after enrollment. Those concerns matter, but admissions cannot solve every social problem; keeping affirmative action remains necessary to prevent exclusion at the entry point.
+[t17] <cut> Carissa(PRO): I agree belonging after admission matters, but that is a reason to improve mentoring and rules for everyone. You turn a problem of access into a license to sort people by identity, so affirmative action must-
+[t18] Joanna(CON): Affirmative action expands opportunity wherever selection has been shaped by unequal history. In the limited setting where access is already genuinely broad, it may be unnecessary, but most institutions have not reached that point.
+[t19] Carissa(PRO): Can you explain why a qualified person should lose an opportunity because officials prefer a demographic balance? Your answer cannot be simply that history matters, because history does not make present-day group sorting fair.
+[t20] Joanna(CON): Your demographic-balance point misstates the policy: affirmative action considers context, not a mechanical prize for identity. Ignoring that context lets inherited advantage pose as individual merit, which is why the policy should remain.
+[t21] <cut> Carissa(PRO): A hiring panel has two qualified finalists, yet chooses one partly to satisfy a group target despite the other's stronger relevant work. Ending affirmative action bars that official preference; it proves fair selection needs-
+[t22] @A4 <ovl> Margaret(MOD): Ten seconds left, both of you.
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Margaret(MOD): Time. Let's go to closing statements now. Carissa, are you ready?
+[t24] Carissa(PRO): Joanna's strongest point is that unequal opportunity is real. I agree, but group preferences treat a symptom while leaving schools, networks, and gatekeeping practices untouched. We should attack those barriers directly, with fair preparation and transparent standards. Ending affirmative action does not mean ignoring discrimination; it means refusing to make identity the deciding tool.
+[t25] @A4 <ovl> Margaret(MOD): Ten seconds for last word.
+[t26] <cut> Carissa(PRO): A better system judges achievement alongside genuine hardship without assigning worth by category. It gives every applicant a reason to trust the rule. That is how we replace a divisive shortcut with-
+[t27] @A2-1 <ovl> Margaret(MOD): Time. Thank you, Carissa. Joanna, your turn.
+[t28] Joanna(CON): Carissa is right that no applicant should be reduced to a label, and rigid quotas would be wrong. But ending affirmative action does not create individual judgment; it leaves unequal opportunity uncorrected. Context matters because achievements are built under different conditions. This policy keeps doors open for people whose ability might be overlooked, and it remains necessary while those conditions persist.
+[t29] @A4 <ovl> Margaret(MOD): Well, now it's ten.
+[t30] <cut> Joanna(CON): We can improve schools and hiring rules, but dismantling this safeguard first would deepen the gap. The fair answer is repair plus opportunity, not blindness to unequal starting-
+[t31] @A1 <ovl> Margaret(MOD): I'm gonna cut you off just for time.
+[t32] Margaret(MOD): Thank you both for a thoughtful debate on affirmative action; this concludes our discussion of tonight's motion now.

@@ -1,0 +1,413 @@
+{
+ "debate_id": "L217",
+ "motion": "The EPA has gone overboard on climate change.",
+ "speakers": {
+  "MOD": {
+   "name": "Christina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1239_11",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1239/MSP-PODCAST_1239_11.wav",
+   "wpm": 174.36
+  },
+  "PRO": {
+   "name": "Jorge",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2988_467",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2988/MSP-PODCAST_2988_467.wav",
+   "wpm": 167.95
+  },
+  "CON": {
+   "name": "Caroline",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 77.1,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 285.67,
+ "ext": {
+  "a32": {
+   "file": "L217_ext_a32.wav",
+   "place_at_sec": 221.893,
+   "dur_sec": 23.13,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "When a climate rule raises essential bills but offers no clear local benefit, what principle stops the EPA from demanding still more from families? Why isn't that agency overreach then?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.65,
+   "dur_sec": 18.65,
+   "overlap": false,
+   "text": "Welcome to our debate on whether the EPA has gone overboard on climate change. Jorge speaks for the motion, and Caroline speaks against it. Each opening and closing gets thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue, and speakers should address one another respectfully throughout."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.85,
+   "end_sec": 28.78,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "The agency treats climate goals as permission to reach into ordinary choices. Rules can raise bills, narrow options, and decide matters better left to families."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 27.88,
+   "end_sec": 30.18,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "Are you saying protections attack families-",
+   "cut_at_sec": 30.18,
+   "full_dur_sec": 8.33,
+   "ext_file": "L217_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 29.38,
+   "end_sec": 30.91,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "Let him clarify, please."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 31.11,
+   "end_sec": 41.28,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "I was saying those choices deserve room for judgment, not one distant office's command. When rules treat every household burden as acceptable, the agency has gone too far."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.85,
+   "end_sec": 42.06,
+   "dur_sec": 3.21,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.48,
+   "end_sec": 49.87,
+   "dur_sec": 8.39,
+   "overlap": false,
+   "text": "Climate action matters, but authority without practical limits turns protection into too much control. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 50.07,
+   "end_sec": 51.67,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Yeah, Caroline. Thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.87,
+   "end_sec": 69.71,
+   "dur_sec": 17.84,
+   "overlap": false,
+   "text": "Climate rules are not overboard merely because they ask people and businesses to change. The agency's job is to prevent shared harm that individual choices cannot solve alone. Sensible standards leave room for innovation while protecting the air and future choices everyone depends on. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.91,
+   "end_sec": 81.52,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 81.72,
+   "end_sec": 91.97,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "If climate rules can force a household to choose between heat and groceries, why should one agency decide that tradeoff without clear limits from elected leaders? Isn't that overboard then?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 92.673,
+   "end_sec": 104.683,
+   "dur_sec": 12.01,
+   "overlap": false,
+   "text": "I reject that premise: standards need not force that choice, because rules can be designed with practical flexibility. Your alternative leaves shared pollution costs on neighbors who never chose them, which is not restraint."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 105.248,
+   "end_sec": 116.218,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "Flexibility is your weakest promise, because the people carrying costs cannot rely on an agency's goodwill. Once broad authority exists, each new rule becomes easier to defend, and the burden keeps-"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 115.318,
+   "end_sec": 125.818,
+   "dur_sec": 10.5,
+   "overlap": true,
+   "text": "That burden also includes the burden of polluted air, which you erase from the picture. Limits on emissions make producers account for harm they would otherwise shift onto everyone else."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 126.09,
+   "end_sec": 137.13,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Energy policy also depends on whether new power lines and generating sites can be approved quickly. Communities need clear local planning, reliable construction, and fair compensation when projects reshape their neighborhoods."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 137.33,
+   "end_sec": 147.58,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "But you're on that side of the motion, that's the one that you are supporting. the epa has gone overboard on climate change. That's the side that you are on."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 147.78,
+   "end_sec": 158.82,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "I believe EPA climate rules always yield to family budgets. Government may want cleaner outcomes, but it cannot call a policy reasonable when it makes ordinary necessities less affordable at home."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 159.271,
+   "end_sec": 170.031,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "If every EPA climate rule must yield to family budgets, how can you protect families from pollution costs they cannot avoid? Why should a polluter's convenience outrank everyone's basic safety?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 170.994,
+   "end_sec": 181.084,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "In emergencies, EPA climate rules do not yield to family budgets. Immediate protection has to come first, because families cannot budget their way out of air they cannot safely breathe."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 181.284,
+   "end_sec": 190.654,
+   "dur_sec": 9.37,
+   "overlap": false,
+   "text": "Jorge, thank you very much indeed. You said ePA climate rules always yield to family budgets. In emergencies, EPA climate rules do not yield to family budgets?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 190.854,
+   "end_sec": 202.334,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Family budgets remain the normal measure of whether rules go overboard, and emergencies demand protection because danger is immediate. Those ideas fit because responsible authority must recognize both hardship and urgent harm."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.012,
+   "end_sec": 214.132,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Consider a child whose breathing becomes painful when nearby smoke settles for days. Strong climate standards can reduce the pollution feeding that danger, proving the agency's safeguards are protection, not excess."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.393,
+   "end_sec": 225.763,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "I agree that a child facing smoke deserves prompt protection. But that example cannot license permanent authority over every household choice, so the EPA still goes overboard when safeguards ignore practical limits."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 221.52,
+   "end_sec": 223.84,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds, and then closing statements."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 226.313,
+   "end_sec": 235.02,
+   "dur_sec": 8.707,
+   "overlap": false,
+   "text": "On your permanent authority point, standards do not control every household choice; they set boundaries for pollution that harms-",
+   "ext_file": "L217_ext_a32.wav",
+   "cut_at_sec": 227.9,
+   "full_dur_sec": 12.52
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 231.52,
+   "end_sec": 236.78,
+   "dur_sec": 5.26,
+   "overlap": true,
+   "text": "That's time. And now we move onto Round three. Speaking first for the motion, Jorge."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 236.98,
+   "end_sec": 256.91,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Caroline is right that pollution can impose costs on people who did not choose it. But that does not give one agency a blank check to regulate every climate-linked decision, whatever the household cost. Good protection needs limits, accountability, and room for ordinary life. When rules forget those boundaries, climate policy becomes overreach, and that is why..."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 256.98,
+   "end_sec": 258.22,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Jorge."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 257.11,
+   "end_sec": 268.14,
+   "dur_sec": 11.03,
+   "overlap": false,
+   "text": "Protecting people means measuring burdens as seriously as benefits. The EPA has gone overboard when its climate rules demand sacrifice without sufficient limits. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 268.34,
+   "end_sec": 269.94,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Caroline, you're up first."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 270.14,
+   "end_sec": 287.98,
+   "dur_sec": 17.84,
+   "overlap": false,
+   "text": "This decision turns on whether shared harm deserves a shared response. The other side offers fear of excess, but no reason to abandon rules that prevent people from shifting pollution onto others. Keep the safeguards accountable, certainly, but do not call necessary protection overboard. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 288.18,
+   "end_sec": 294.51,
+   "dur_sec": 6.33,
+   "overlap": false,
+   "text": "Thank you, Jorge and Caroline, for a thoughtful debate, and thank you for considering the motion with us today."
+  }
+ ]
+}

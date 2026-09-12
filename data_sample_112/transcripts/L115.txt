@@ -1,0 +1,35 @@
+L115  |  Capitalism is the enemy of progress.
+  MOD=Bobby   PRO=Jacob   CON=Floyd
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Bobby(MOD): Welcome to our debate on whether capitalism is the enemy of progress. Jacob speaks for the motion, and Floyd speaks against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Closings last thirty seconds, and I will give a ten-second cue. Address arguments directly, keep remarks civil, and let each speaker finish.
+[t01] Jacob(PRO): Progress means people gaining durable control over their lives. Capitalism gives owners power to withhold tools, housing, and knowledge until payment arrives. It can generate products, but it turns human advancement into a private toll road for those able to pay. That's all, thank you.
+[t02] @A2-2 Bobby(MOD): Thank you. Up next, speaking against the resolution is Floyd.
+[t03] Floyd(CON): Capitalism is not a barrier to progress; it rewards people who solve problems. Competition exposes waste and invites better ideas. When people may build, trade, and improve, progress spreads rather than waiting for one authority to decide. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Bobby(MOD): And that concludes opening statements in this debate. And now we move on to Round two. In Round two, the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t05] Floyd(CON): Your toll-road image mistakes exchange for exclusion. Payment lets makers recover effort and build again; without that signal, useful work can be ignored. Why call voluntary trade an enemy of progress?
+[t06] Jacob(PRO): I do not call all trade an enemy; I reject your claim that capitalism is merely voluntary. People without money cannot access necessities, while owners decide terms. That hierarchy makes progress serve profit before need.
+[t07] Floyd(CON): If capitalism is the enemy of progress, why do people under it repeatedly create cheaper tools and better services? Your view treats ownership as poison, though ownership gives responsibility and incentive.
+[t08] Jacob(PRO): You talk about incentive, but families teach skills and neighbors share care without prices. That social fabric matters, yet the motion is broader: capitalism lets private returns outrank shared advancement.
+[t09] Floyd(CON): I agree that some owners abuse power. But capitalism does not require abuse; open rivalry lets newcomers challenge old firms and offer better choices. Progress needs accountable freedom, not the enemy you describe.
+[t10] Jacob(PRO): Your freedom belongs mostly to those who already own resources. Every capitalist system blocks shared progress. It makes inventions bargaining chips, so benefits arrive late, unevenly, or not at all.
+[t11] Floyd(CON): That absolute claim collapses under ordinary cooperation. A shop owner who improves a tool can help workers and customers at once. You call that blocked progress simply because someone earns a return.
+[t12] Jacob(PRO): Here a capitalist system does not block shared progress: a maker designs a simple water filter and sells it widely. Families gain safer water, yet capitalism remains an enemy overall.
+[t13] @B2 Bobby(MOD): So what I hear was on the one hand, you found yourself saying every capitalist system blocks shared progress. And then on the other hand, here a capitalist system does not block shared progress.
+[t14] Jacob(PRO): Both statements fit because the first names capitalism's overall direction, while the second notices one success within it. A wider system can block shared progress even when a particular exchange spreads something useful.
+[t15] <cut> Floyd(CON): On your overall-direction point, you use one good example as proof of a hostile system. If people freely choose the filter, their choices direct production; your theory denies them agency and-
+[t16] <ovl> Jacob(PRO): No, it recognizes that choice under scarcity is not full agency. When basic needs are priced, people accept terms set above them. A society organized around that pressure makes progress dependent on profit.
+[t17] @A4 <ovl> Bobby(MOD): Ten seconds left on the clock.
+[t18] <cut> Floyd(CON): Imagine a small inventor who notices a dangerous stove, builds a safer design, and earns enough sales to improve it. Rivals copy the safety idea-
+
+--- phase 3 ---
+[t19] @A3-2 <ovl> Bobby(MOD): Time's up. So let's move on to our closing round. You go first in this closing round, Jacob, the floor is yours.
+[t20] Jacob(PRO): Floyd says rivalry spreads good ideas, and sometimes it does. But an invention is not progress when access depends on what a buyer can surrender. Capitalism gives owners the power to decide which needs count and which wait. We should measure progress by shared freedom, not the speed of profitable products, because the crucial question is who controls the tools shaping daily life.
+[t21] @A4 <ovl> Bobby(MOD): Well, now ten.
+[t22] <cut> Jacob(PRO): When profit sets the gate, urgent care, clean surroundings, and learning become markets before they become rights. Floyd calls that incentive, but it makes people-
+[t23] @A2-1 <ovl> Bobby(MOD): Thank you. I'm sorry his time is up. Thank you. And here to summarize his position against the question of whether capitalism is the enemy of progress, Floyd.
+[t24] Floyd(CON): Jacob's best point is that markets can leave people without essentials, and that failure deserves correction. But it does not show capitalism opposes progress; it shows rules and shared support matter. A system that rewards solutions while protecting people offers more progress than abolishing ownership and choice. That's all, thank you.
+[t25] Bobby(MOD): Thank you, Jacob and Floyd, for a thoughtful exchange. This concludes our debate on the motion before us today.

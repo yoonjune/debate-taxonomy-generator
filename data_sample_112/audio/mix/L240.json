@@ -1,0 +1,449 @@
+{
+ "debate_id": "L203",
+ "motion": "The government should raise the retirement age.",
+ "speakers": {
+  "MOD": {
+   "name": "Walter",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4117_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4117/MSP-PODCAST_4117_448.wav",
+   "wpm": 173.57
+  },
+  "PRO": {
+   "name": "Paula",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1206_312",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
+   "wpm": 165.44
+  },
+  "CON": {
+   "name": "Mira",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5287_206",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5287/MSP-PODCAST_5287_206.wav",
+   "wpm": 169.41
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 60.48,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 292.14,
+ "ext": {
+  "a32": {
+   "file": "L203_ext_a32.wav",
+   "place_at_sec": 206.542,
+   "dur_sec": 19.85,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X16",
+   "text": "Why should government raise the retirement age instead of ensuring that employers offer decent pensions and that public funds are collected fairly from those able to pay?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.09,
+   "dur_sec": 18.09,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that the government should raise the retirement age. Paula supports it, and Mira opposes it. Each has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. Keep remarks direct, listen closely, and address the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.29,
+   "end_sec": 34.16,
+   "dur_sec": 15.87,
+   "overlap": false,
+   "text": "People live longer and many can work longer, so retirement rules should reflect that change. A gradual higher age keeps experienced workers contributing and eases pressure on public pensions. It should include fair support for people in demanding jobs. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 34.36,
+   "end_sec": 35.97,
+   "dur_sec": 1.61,
+   "overlap": false,
+   "text": "Okay, Paula, thank you Mira."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 36.17,
+   "end_sec": 52.31,
+   "dur_sec": 16.14,
+   "overlap": false,
+   "text": "A higher retirement age treats unequal lives as if they were identical. Many people reach later life worn down by physical work, caregiving, or poor health. Government should protect a reliable exit from work, not postpone it for everyone. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 52.51,
+   "end_sec": 64.84,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "And now we move on to round two. Round two is where the debaters address each other. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 65.04,
+   "end_sec": 74.63,
+   "dur_sec": 9.59,
+   "overlap": false,
+   "text": "No, a general increase is not fair merely because some people can work longer. Your support for exceptions proves the rule would burden people least able to continue working."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 74.921,
+   "end_sec": 84.851,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "Workplaces also need better training and safer conditions, which matter at every age. But the central issue is retirement: a gradual rise, with protections, matches longer working lives."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 85.155,
+   "end_sec": 94.795,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "Your word \"gradual\" is the weak point. A slow unfair change still forces a tired worker to wait, while protections are promises that can be narrowed later."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 95.214,
+   "end_sec": 104.584,
+   "dur_sec": 9.37,
+   "overlap": false,
+   "text": "If the retirement age never changes while people spend more years after work, how will you preserve pension support without asking fewer workers to carry more responsibility?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 104.932,
+   "end_sec": 115.292,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "Consider a warehouse worker whose knees fail near retirement. Raising the age means pain, lost wages, or a difficult claim for help; that proves one rule can punish workers-"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 114.392,
+   "end_sec": 124.162,
+   "dur_sec": 9.77,
+   "overlap": true,
+   "text": "That example supports tailored protection, not freezing the age for everyone. A worker able to continue should have a retirement system that recognizes longer lives and shared responsibilities."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 124.619,
+   "end_sec": 135.859,
+   "dur_sec": 11.24,
+   "overlap": false,
+   "text": "And tailored protection creates endless arguments at workplaces about whose pain counts and who must prove it. Supervisors may pressure older workers to disclose private limits, leaving dignity dependent on office judgments."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 136.059,
+   "end_sec": 139.909,
+   "dur_sec": 3.85,
+   "overlap": false,
+   "text": "Come back to the whether the government should raise the retirement age, will you?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 140.109,
+   "end_sec": 149.669,
+   "dur_sec": 9.56,
+   "overlap": false,
+   "text": "On whether government should raise the retirement age, no: individualized hardship cannot repair a blanket delay. The rule shifts risk onto workers while making retirement less certain."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 150.543,
+   "end_sec": 160.313,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "You call it a blanket delay, but I proposed a gradual change with protections. Rejecting any adjustment ignores the real problem of sustaining retirement promises over longer lives."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 160.594,
+   "end_sec": 169.954,
+   "dur_sec": 9.36,
+   "overlap": false,
+   "text": "Why should a person who began exhausting work early be required to wait longer simply because another person had a comfortable career and can keep working?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 170.361,
+   "end_sec": 181.331,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "A caregiver nearing retirement may choose part-time work for a few more years, keeping skills and income while pension costs stay manageable. That proves a flexible higher age can expand options."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 181.643,
+   "end_sec": 191.003,
+   "dur_sec": 9.36,
+   "overlap": false,
+   "text": "Your caregiver example misses the point: choice is not protection when bills force the choice. A higher age turns voluntary extra work into a delayed guarantee."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 191.481,
+   "end_sec": 200.691,
+   "dur_sec": 9.21,
+   "overlap": false,
+   "text": "No, bills need not force anyone if protections are designed properly. Why deny capable older workers a system that remains stable enough to support every generation?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 201.234,
+   "end_sec": 210.514,
+   "dur_sec": 9.28,
+   "overlap": false,
+   "text": "I agree that pension systems need careful planning. But the main answer is fair funding, not making workers wait longer; retirement should remain a dependable right."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 204.84,
+   "end_sec": 206.53,
+   "dur_sec": 1.69,
+   "overlap": true,
+   "text": "Ten seconds, both of you."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 210.902,
+   "end_sec": 218.34,
+   "dur_sec": 7.438,
+   "overlap": false,
+   "text": "\"Fair funding\" is too vague to solve the pressure you admit exists. Without adjusting retirement-",
+   "ext_file": "L203_ext_a32.wav",
+   "cut_at_sec": 211.28,
+   "full_dur_sec": 10.09
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 214.84,
+   "end_sec": 227.65,
+   "dur_sec": 12.81,
+   "overlap": true,
+   "text": "That's time. And now we move on to round three. And those will be closing statements by each debater. And speaking first and answering yes to whether the government should raise the retirement age, here again, is Paula."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 227.85,
+   "end_sec": 237.54,
+   "dur_sec": 9.69,
+   "overlap": false,
+   "text": "A retirement system must endure, not simply promise benefits it cannot reliably maintain. Raising the age gradually recognizes longer lives while protecting workers who genuinely cannot continue."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 236.64,
+   "end_sec": 238.94,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But your protection is only a slogan when a worker-",
+   "cut_at_sec": 234.58,
+   "full_dur_sec": 8.81,
+   "ext_file": "L203_025.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 238.14,
+   "end_sec": 240.07,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "Please let her address the principle."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.27,
+   "end_sec": 250.36,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "-while protecting workers who genuinely cannot continue. The principle is shared responsibility: those able to work longer help preserve secure pensions for those who cannot."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 247.85,
+   "end_sec": 248.73,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 250.56,
+   "end_sec": 258.35,
+   "dur_sec": 7.79,
+   "overlap": false,
+   "text": "Raise the age gradually, protect hardship, and keep retirement secure for everyone. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 258.55,
+   "end_sec": 261.04,
+   "dur_sec": 2.49,
+   "overlap": false,
+   "text": "Please, Mira. That's where I was going next."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 261.24,
+   "end_sec": 283.68,
+   "dur_sec": 22.44,
+   "overlap": false,
+   "text": "This motion asks government to make a basic guarantee harder to reach. Longer lives do not mean equally healthy lives or equally easy jobs. Paula offers exceptions, but workers should not need to prove they are worn down before receiving retirement. A fair system funds its promise rather than moving the finish line. Government should strengthen retirement security, not raise the retirement age."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 281.24,
+   "end_sec": 282.85,
+   "dur_sec": 1.61,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 283.88,
+   "end_sec": 294.74,
+   "dur_sec": 10.86,
+   "overlap": false,
+   "text": "Even a gradual increase leaves the least powerful workers carrying the greatest risk. People who can continue may do so voluntarily, but everyone-",
+   "cut_at_sec": 286.08,
+   "full_dur_sec": 19.6,
+   "ext_file": "L203_033.wav"
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 291.74,
+   "end_sec": 293.11,
+   "dur_sec": 1.37,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 34,
+   "src_i": 35,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 293.31,
+   "end_sec": 298.6,
+   "dur_sec": 5.29,
+   "overlap": false,
+   "text": "Thank you, Paula and Mira, for a focused debate. That concludes our discussion of this motion."
+  }
+ ]
+}

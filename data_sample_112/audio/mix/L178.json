@@ -1,0 +1,427 @@
+{
+ "debate_id": "L089",
+ "motion": "The More We Evolve, The Less We Need God",
+ "speakers": {
+  "MOD": {
+   "name": "Monica",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0927_381",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0927/MSP-PODCAST_0927_381.wav",
+   "wpm": 176.74
+  },
+  "PRO": {
+   "name": "Oliver",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5993_347",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5993/MSP-PODCAST_5993_347.wav",
+   "wpm": 163.88
+  },
+  "CON": {
+   "name": "Angus",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 77.22,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 288.1,
+ "ext": {
+  "a32": {
+   "file": "L089_ext_a32.wav",
+   "place_at_sec": 222.21,
+   "dur_sec": 23.4,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Consider a town that once begged for relief from a deadly illness, then learns to prevent it with careful hygiene and treatment. That growing competence saves lives without prayer, proving practical need for God declines."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.13,
+   "dur_sec": 15.13,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is: The More We Evolve, The Less We Need God. Oliver speaks for it, and Angus speaks against it. Each opening and closing lasts thirty seconds, crossfire lasts two and a half minutes, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.33,
+   "end_sec": 30.37,
+   "dur_sec": 15.04,
+   "overlap": false,
+   "text": "Evolution has steadily moved mysteries from divine command into human understanding. We can heal, predict, and build through inquiry rather than prayer. That does not insult belief; it recognizes that dependence falls when explanation and action rise. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 30.57,
+   "end_sec": 32.98,
+   "dur_sec": 2.41,
+   "overlap": false,
+   "text": "I'm going to let him respond to that."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 33.18,
+   "end_sec": 53.19,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "He confuses explaining a process with replacing every human need. A map can show a road, yet not tell us why kindness matters or why suffering should be faced with courage. Evolution gives us greater powers, but power without a source of meaning can become selfish, fearful, and cruel. That is why"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 53.18,
+   "end_sec": 54.42,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Angus, ten seconds."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.39,
+   "end_sec": 66.68,
+   "dur_sec": 13.29,
+   "overlap": false,
+   "text": "we still need God, not as a gap-filler, but as the ground for dignity and moral limits. If evolution makes us stronger, it makes the question of-",
+   "cut_at_sec": 62.68,
+   "full_dur_sec": 14.17,
+   "ext_file": "L089_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 63.68,
+   "end_sec": 65.69,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "I'm sorry, you've hit time."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 65.89,
+   "end_sec": 79.02,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two in our debate. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 79.22,
+   "end_sec": 89.92,
+   "dur_sec": 10.7,
+   "overlap": false,
+   "text": "I agree that science can explain many mechanisms, and that is valuable. But you turn explanation into meaning; better tools reduce dependence on supernatural answers, so the motion remains true."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 90.841,
+   "end_sec": 103.041,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Imagine a skilled inventor who can cure a neighbor but chooses to exploit that neighbor for gain. Greater ability did not supply conscience; it proves evolution can increase our need for God-given moral direction."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 103.617,
+   "end_sec": 114.907,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "Your inventor also raises questions about who should own new inventions and whether schools should reward collaboration. Those debates shape secular classroom projects and how young people learn responsibility without religious instruction."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 115.107,
+   "end_sec": 121.897,
+   "dur_sec": 6.79,
+   "overlap": false,
+   "text": "Can we please go back to the question at hand? We're going to go back to the question at issue."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 122.097,
+   "end_sec": 132.777,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "To return to the motion, evolving means gaining reliable ways to understand and change our world. As those capacities expand, God becomes less necessary as an explanation or practical guide."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 133.703,
+   "end_sec": 144.353,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "When someone faces a loss that no skill can reverse, greater knowledge does not remove the need for God. In that condition, faith gives suffering a horizon beyond mere endurance."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 145.127,
+   "end_sec": 156.027,
+   "dur_sec": 10.9,
+   "overlap": false,
+   "text": "Your argument works only when pain must have a cosmic purpose, but that is the claim in dispute. People can meet irreversible loss through love, memory, and human care, without needing-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 155.127,
+   "end_sec": 165.887,
+   "dur_sec": 10.76,
+   "overlap": true,
+   "text": "No, human care cannot tell us why every person deserves care when caring costs us. Evolution may teach survival, but it cannot create an obligation above survival, and God can."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 166.669,
+   "end_sec": 177.449,
+   "dur_sec": 10.78,
+   "overlap": false,
+   "text": "Families may disagree about ceremonies, and communities may preserve old symbols for comfort and identity. But those customs show choice, not necessity; evolving people can keep God while needing God less."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 178.154,
+   "end_sec": 188.834,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "People need shared moral language, especially when their choices affect the vulnerable. Why should we believe evolving minds alone can supply that language, when they also invent excuses for harm?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 189.499,
+   "end_sec": 201.409,
+   "dur_sec": 11.91,
+   "overlap": false,
+   "text": "I reject the premise that moral language must come from God; people build it through empathy, reflection, and accountability. You mistake fallible moral progress for failure, when it shows we need divine command less."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 202.359,
+   "end_sec": 212.719,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "If evolution makes God less needed, what stops a powerful person from redefining empathy whenever it serves him? Your answer must offer more than confidence in changing human opinion."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 213.191,
+   "end_sec": 223.761,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "Your weakest claim is that morality needs an unchanging author to resist abuse. Rules can be tested against suffering and fairness, whereas invoking God lets rival believers claim opposite commands."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 219.02,
+   "end_sec": 222.31,
+   "dur_sec": 3.29,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 224.01,
+   "end_sec": 232.52,
+   "dur_sec": 8.51,
+   "overlap": false,
+   "text": "I grant that people can reason together and correct cruel customs. Yet reason alone cannot make dignity-",
+   "ext_file": "L089_ext_a32.wav",
+   "cut_at_sec": 228.02,
+   "full_dur_sec": 10.73
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 229.02,
+   "end_sec": 234.07,
+   "dur_sec": 5.05,
+   "overlap": true,
+   "text": "Time. And now we move onto Round three. Speaking first for the motion, Oliver."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 234.27,
+   "end_sec": 243.97,
+   "dur_sec": 9.7,
+   "overlap": false,
+   "text": "The core point is simple: evolution replaces dependence with understanding and agency. When people can prevent illness, explain nature, and build ethics together, their need."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 243.07,
+   "end_sec": 245.37,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But agency without God is only power-",
+   "cut_at_sec": 243.57,
+   "full_dur_sec": 10.33,
+   "ext_file": "L089_026.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 244.57,
+   "end_sec": 247.21,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "No, no, no. Hold on. Let Oliver."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 247.41,
+   "end_sec": 257.12,
+   "dur_sec": 9.71,
+   "overlap": false,
+   "text": "for divine authority shrinks, even if some people still choose faith. Choice is the key: keeping a comfort is not the same as needing it."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 254.27,
+   "end_sec": 256.36,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 257.32,
+   "end_sec": 264.96,
+   "dur_sec": 7.64,
+   "overlap": false,
+   "text": "As evolution expands human answers and responsibility, God becomes less necessary, which is precisely the motion. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 265.16,
+   "end_sec": 269.01,
+   "dur_sec": 3.85,
+   "overlap": false,
+   "text": "Thanks very much, Oliver, and Angus you get the last word."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 269.21,
+   "end_sec": 287.9,
+   "dur_sec": 18.69,
+   "overlap": false,
+   "text": "My opponent has shown that humans gain tools, not that they outgrow God. Tools answer how to act, but they do not secure why each person matters or what power owes the powerless. Evolution enlarges our responsibility, and that is exactly why our need for God remains. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 288.1,
+   "end_sec": 293.71,
+   "dur_sec": 5.61,
+   "overlap": false,
+   "text": "Thank you, Oliver and Angus, for a thoughtful exchange. That concludes our debate on tonight's motion."
+  }
+ ]
+}

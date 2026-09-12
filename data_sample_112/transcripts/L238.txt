@@ -1,0 +1,40 @@
+L238  |  The Palestinians should give up their full right of return
+  MOD=Alice   PRO=Pamela   CON=Isaac
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Alice(MOD): Welcome. Tonight's motion is whether Palestinians should give up their full right of return. Pamela speaks for the motion, and Isaac speaks against it. Each has thirty seconds for openings, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue.
+[t01] Pamela(PRO): Giving up a full right of return is not surrendering memory, family, or dignity. It is choosing a future where claims do not keep every household trapped in permanent uncertainty. A full return demand leaves no room to build a shared political settlement. Isaac, how does insisting on every possible return create security for anyone?
+[t02] Pamela(PRO): Peace needs an honest trade: secure lives and recognition, rather than promises no side can fulfill. Releasing the full claim creates room for that choice. That's all, thank you.
+[t03] @A4 <ovl> Alice(MOD): I can give you ten seconds to do this.
+[t04] @A2-2 Alice(MOD): All right, Isaac, come back.
+[t05] Isaac(CON): Her question assumes return itself blocks safety, and I reject that. A people can preserve a right while negotiating practical arrangements. Asking them to give up the full right removes leverage and tells displaced families their history is disposable. Peace built on forced abandonment is not durable. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Alice(MOD): That concludes round one. Now we move on to round two. Round two is the round where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+[t07] Isaac(CON): I reject the premise that every possible return means everyone moves at once; negotiated return can protect security. Why should families surrender a right before the other side offers equal safety and recognition?
+[t08] Pamela(PRO): Security concerns deserve attention, and no family should be moved carelessly. But keeping an unlimited claim forever lets rejection defeat compromise; a shared future requires giving up the full right of return.
+[t09] Isaac(CON): You call it unlimited, but the real question is who would process claims, inspect old papers, and assign homes. Would local councils even have fair rules for deciding whose documents look convincing?
+[t10] @B1 Alice(MOD): It's really off the topic of whether Palestinians should give up their full right of return.
+[t11] Isaac(CON): The motion asks whether Palestinians should surrender the full right, and they should not. Administrative difficulty can be solved through phased choices, but surrender makes the right vanish before fair choices exist.
+[t12] Pamela(PRO): Your phrase 'phased choices' avoids the issue: choices are not credible while a full return claim hangs over every settlement. A final agreement needs clear limits, not an endless entitlement preserved in principle.
+[t13] Isaac(CON): If a negotiated agreement guarantees residency, family connection, and compensation, keeping a full return right protects those families from being erased. Under that condition, the right strengthens bargaining rather than blocking peace.
+[t14] Pamela(PRO): People also worry about deeds, inheritance, and who tends a neglected home, which are painful questions. But those details show why a final settlement must replace the full return claim with workable guarantees.
+[t15] Isaac(CON): Rights should not be discarded merely because implementation is hard. A lasting settlement must respect displaced families' claim to return, even when its practical form is negotiated over time.
+[t16] <cut> Pamela(PRO): Imagine a family offered secure residence, compensation, and a voice in its future, yet told the dispute cannot end unless an old house is reclaimed. That demand can freeze the agreement and leave children waiting for-
+[t17] <ovl> Isaac(CON): No, that family is not demanding an old house at any cost; you turn a right into a threat. If compensation and residency are offered, they should choose freely, not by renouncing return.
+[t18] Pamela(PRO): Free choice is impossible if you preserve a full claim as a permanent bargaining weapon. Your offer of choice hides the cost: both communities remain governed by an unresolved demand rather than a settled future.
+[t19] <cut> Isaac(CON): I am answering your 'bargaining weapon' point: a right is not a weapon when people may negotiate how it is honored. Erasing it first gives the stronger party no reason to offer a fair-
+[t20] @A4 <ovl> Alice(MOD): Just, just about ten seconds left.
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Alice(MOD): Time. And now we move on to round three. Round three, closing statements from each debater in turn. And here to make her closing statement, Pamela.
+[t22] Pamela(PRO): Isaac says keeping the full right preserves leverage, but leverage is not a peace plan. The strongest point is that a permanent, unlimited claim leaves the final boundary of any agreement unsettled. Families need recognition and real protections, not a promise that keeps compromise permanently reversible. That is why giving up the full right matters in any serious agreement.
+[t23] @A4 <ovl> Alice(MOD): Well, now it's ten.
+[t24] <cut> Pamela(PRO): It does not erase identity or private memory. It replaces an absolute demand with secure status, compensation, and reciprocal recognition. If both sides know the claim is settled-
+[t25] @A2-1 <ovl> Alice(MOD): Time. Thank you, Pamela. Isaac, your turn.
+[t26] Isaac(CON): Pamela calls the claim unlimited, yet people can negotiate its practical use without erasing it. The strongest point is moral and practical: a right protects families from having their loss declared irrelevant. Compensation or residency may help, but they cannot be imposed as substitutes for return. That principle must guide every proposal placed before families.
+[t27] @A4 <ovl> Alice(MOD): Ten seconds warning.
+[t28] <cut> Isaac(CON): Keeping the full right does not force any one result; it ensures no one is silenced before talks begin. You can offer practical options, but they must be voluntary. Demanding surrender-
+[t29] @A1 <ovl> Alice(MOD): I'm sorry, I'm sorry. Hit time.
+[t30] Alice(MOD): Thank you, Pamela and Isaac, for a thoughtful debate; this concludes our discussion of the motion tonight.

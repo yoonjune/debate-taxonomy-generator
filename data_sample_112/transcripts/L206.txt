@@ -1,0 +1,41 @@
+L206  |  Longevity science could extend your healthspan by decades, and the government should fund it.
+  MOD=Brian   PRO=Miriam   CON=Joel
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Brian(MOD): Welcome. Tonight's motion is that longevity science could extend healthspan by decades, and government should fund it. Miriam supports the motion, while Joel opposes it. Each opening and closing gets thirty seconds; then comes two and a half minutes of crossfire, with a ten-second cue. Please address each other directly and keep remarks on the motion.
+[t01] Miriam(PRO): Government can back careful work that slows disease before it steals independence. If discoveries let people remain active for decades longer, public funding belongs here.
+[t02] <ovl> <cut> Joel(CON): But you are promising decades from work that has not-
+[t03] @A5 <ovl> Brian(MOD): Let Miriam say something, then you, and then we're going to wrap.
+[t04] Miriam(PRO): because preventing frailty can spare people years of pain and dependence. Public investment can test these ideas openly, rather than leaving benefits behind private prices alone.
+[t05] @A4 <ovl> Brian(MOD): I can give you ten seconds to wrap this round.
+[t06] Miriam(PRO): That is why shared funding can pursue longer, healthier lives for everyone, not just buyers.
+[t07] @A2-2 Brian(MOD): Please, Joel. That's where I was going next.
+[t08] Joel(CON): Longer healthy lives are worth pursuing, but this motion promises more than science can deliver. Government budgets must choose among urgent needs, and a distant biological hope can crowd out care people need now. Support basic research cautiously within existing priorities, but reject this funding mandate. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Brian(MOD): Okay, well let's mix it up. Let's start the conversation. You have two and a half minutes, starting when I stop talking.
+[t10] Miriam(PRO): Your "distant hope" ignores how government research lets ideas be tested before markets distort them. Refusing support until certainty arrives means promising approaches never get the fair public trial this motion funds.
+[t11] Joel(CON): I believe public money should never fund medical research. It turns officials into gamblers with everyone's taxes, while patients need reliable care instead of grand theories about aging that may fail.
+[t12] Miriam(PRO): Your claim that public money should never fund medical research would abandon attempts to prevent illness. Care improves when we learn to preserve it, so fund longevity research publicly.
+[t13] Joel(CON): This medical research should receive public money. A treatment that lets an older worker stay strong deserves a public path for testing, even though the larger motion still overpromises.
+[t14] @B2 Brian(MOD): Joel, thank you very much indeed. You said i believe public money should never fund medical research. This medical research should receive public money?
+[t15] Joel(CON): Those statements fit because "fund" names direct control, while "receive" names an independent public award. I oppose a government research program, but support this payment, so I still reject the motion.
+[t16] Miriam(PRO): Private insurers may change premiums when people live longer, and families may rethink retirement. But those are later questions; the motion asks whether public research can protect healthy years, and it can.
+[t17] Joel(CON): When a longevity treatment has only early signals, government funding is premature because officials cannot know whether benefit will last. Under that condition, public money should stay with proven care, so oppose this motion.
+[t18] Miriam(PRO): Imagine a kitchen worker whose joints fail early and who leaves work years before planned. A publicly tested therapy keeps her mobile, earning, and present with family; that proves why government should fund longevity science.
+[t19] Joel(CON): People should not have to wait for perfect certainty before seeking care for aging bodies. Government should not gamble on distant promises, and that is why this sweeping funding motion fails.
+[t20] Miriam(PRO): No, people should not wait for perfect certainty before seeking care. But your gamble premise fails: transparent public trials reduce uncertainty and give everyone access, which is precisely why the government should fund this.
+[t21] Joel(CON): If private sellers control these therapies, how will a worker with little savings receive them before disability arrives? Your plan assumes access follows discovery, but public funding is not the answer, so oppose it.
+[t22] @A4 <ovl> Brian(MOD): Ten seconds left in this round.
+[t23] <cut> Miriam(PRO): Private firms can contribute useful tools, and I welcome that. Yet they can limit access or chase quick returns; public funding keeps trials open and benefits shared, so the government should fund longevity-
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Brian(MOD): Time. So, let's move on to round three, closing statements. Each debater in turn, here to make her closing statement in support of government should fund longevity science for healthier decades, is Miriam.
+[t25] Miriam(PRO): This decision turns on whether we treat longer healthy life as a shared public goal or leave it to chance and private prices. Careful funding does not promise miracles; it builds open tests and access. If healthier decades are possible, government should help secure them. That's all, thank you.
+[t26] @A2-2 Brian(MOD): Okay. Let me take that to Joel.
+[t27] Joel(CON): Deciding this motion turns on humility with public money and honesty about what is known. Everyone wants fewer years of weakness, and basic inquiry can matter. But a promise of decades invites government to favor a fashionable hope over immediate care. Once that commitment begins, supporters will demand more funds whenever results remain unclear.
+[t28] @A4 <ovl> Brian(MOD): Ten seconds warning.
+[t29] <cut> Joel(CON): because abandoning the project would seem cruel. That pressure makes a temporary experiment into a lasting drain, even when benefits stay uncertain. The safer choice is to support present-
+[t30] @A1 <ovl> Brian(MOD): Time out. Time out.
+[t31] Brian(MOD): Thank you, Miriam and Joel, for a thoughtful debate on this motion; that concludes our discussion here tonight.

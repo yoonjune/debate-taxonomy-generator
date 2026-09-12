@@ -1,0 +1,405 @@
+{
+ "debate_id": "L022",
+ "motion": "We should eat more processed food.",
+ "speakers": {
+  "MOD": {
+   "name": "Darius",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1656_617",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1656/MSP-PODCAST_1656_617.wav",
+   "wpm": 172.62
+  },
+  "PRO": {
+   "name": "Caroline",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  },
+  "CON": {
+   "name": "Margaret",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3502_919",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3502/MSP-PODCAST_3502_919.wav",
+   "wpm": 167.47
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 82.99,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 312.78,
+ "ext": {
+  "a32": {
+   "file": "L022_ext_a32.wav",
+   "place_at_sec": 229.271,
+   "dur_sec": 24.54,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "If processed food can help during rushed days, why tell people to eat less of it overall instead of improving its ingredients and availability? What answer do you offer households that need dinner now?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.04,
+   "dur_sec": 20.04,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, We should eat more processed food. Caroline argues for it, and Margaret argues against it. Each opening and closing lasts thirty seconds; then we have two and a half minutes of crossfire, and I will give a ten-second cue. Please keep remarks focused and respectful as you address the motion and one another."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.24,
+   "end_sec": 41.24,
+   "dur_sec": 21.0,
+   "overlap": false,
+   "text": "I support eating more processed food because it can turn a bare cupboard into a usable meal. Frozen vegetables, canned beans, and fortified cereals save preparation time while still offering nourishment. People juggling work, care, and travel need options that do not demand a kitchen ritual. The question is whether practical food can expand decent choices, and it can."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.24,
+   "end_sec": 41.48,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Caroline."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.44,
+   "end_sec": 53.74,
+   "dur_sec": 12.3,
+   "overlap": false,
+   "text": "More importantly, processing can preserve food before it spoils, which matters when shopping is hard. Rejecting these foods treats time as limitless and overlooks households-",
+   "cut_at_sec": 51.54,
+   "full_dur_sec": 14.24,
+   "ext_file": "L022_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 50.74,
+   "end_sec": 54.35,
+   "dur_sec": 3.61,
+   "overlap": true,
+   "text": "Thank you. Time is up on that. And now Margaret."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.55,
+   "end_sec": 73.07,
+   "dur_sec": 18.52,
+   "overlap": false,
+   "text": "More processed food may be easy, but the motion asks us to eat more of it, not merely keep it available. Heavy processing often makes ordinary eating less recognizable and encourages mindless habits. We should improve access to simple food, rather than make factory-made convenience our default. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 73.27,
+   "end_sec": 84.75,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 84.95,
+   "end_sec": 96.07,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "You say practical choices expand freedom, but how does urging everyone to eat more processed food protect someone whose meals already rely on it? Why should added dependence count as progress?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.373,
+   "end_sec": 108.573,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Labels can distract us, since packaging designs and store layouts shape what people notice. But the motion is about eating, and more processed staples can give busy people dependable meals without demanding extra time."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 109.162,
+   "end_sec": 121.132,
+   "dur_sec": 11.97,
+   "overlap": false,
+   "text": "When a person has only a short break, a meal built from simple ingredients is better than a packaged substitute. Convenience matters, but it does not turn a poorer routine into a wise recommendation."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 121.675,
+   "end_sec": 133.515,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "I believe every processed food choice always deserves encouragement. People should meet real constraints with usable options, and a broad push toward processed food respects the time, storage, and skills they actually have."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 134.372,
+   "end_sec": 146.752,
+   "dur_sec": 12.38,
+   "overlap": false,
+   "text": "That absolute praise is the weakest part of your case. A sweetened snack and a shelf-stable meal are both processed, so your rule erases the difference between useful convenience and products that train constant craving."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 147.105,
+   "end_sec": 158.585,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Here, a processed food choice does not deserve encouragement. I still support more processed food overall, because a general increase can include useful staples instead of forcing people toward costly, inconvenient alternatives."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 158.785,
+   "end_sec": 165.435,
+   "dur_sec": 6.65,
+   "overlap": false,
+   "text": "Caroline said every processed food choice always deserves encouragement, but here, a processed food choice does not deserve encouragement."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 165.635,
+   "end_sec": 178.155,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Both statements fit because one describes the direction I support for public eating, while the other identifies a single choice's merit. The motion concerns the direction, and expanding useful processed options remains the better direction."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 178.367,
+   "end_sec": 191.247,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Processed foods can occasionally fit into careful eating, even though simple ingredients are better during a short break. The larger problem is making convenience the default, because defaults quietly shape habits long after that break ends."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 192.125,
+   "end_sec": 204.565,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Consider a parent arriving late with little food at home: canned soup, frozen vegetables, and prepared grains become dinner rather than a skipped meal. That practical rescue proves more processed food can strengthen daily eating."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 204.87,
+   "end_sec": 217.69,
+   "dur_sec": 12.82,
+   "overlap": false,
+   "text": "I agree that some processed staples prevent waste and help on rushed days. But telling everyone to eat more invites companies and habits to fill every gap with packaged choices, so we should reject the motion."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 218.447,
+   "end_sec": 230.217,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "Your warning treats people as passive, yet shoppers can choose among many processed foods. Why assume a wider supply forces every gap to be filled with packages, rather than giving households practical control?"
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 224.75,
+   "end_sec": 227.05,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "Ten seconds remaining in this round."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 231.031,
+   "end_sec": 238.25,
+   "dur_sec": 7.219,
+   "overlap": false,
+   "text": "It does not force every gap to be filled with packages; I reject that premise-",
+   "ext_file": "L022_ext_a32.wav",
+   "cut_at_sec": 233.79,
+   "full_dur_sec": 12.14
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 234.75,
+   "end_sec": 242.61,
+   "dur_sec": 7.86,
+   "overlap": true,
+   "text": "That's time. All right, we're moving down to the home stretch in our final round. Caroline, you go first for this one as well."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.81,
+   "end_sec": 263.17,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "At the center of this debate is not a fantasy menu; it is whether people deserve food that works on ordinary hard days. Processed staples can prevent skipped meals, reduce waste, and make nourishment possible when time and equipment are scarce. Margaret wants caution, and caution is sensible. But the motion asks whether we should expand a practical option that helps"
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 262.81,
+   "end_sec": 265.22,
+   "dur_sec": 2.41,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 263.37,
+   "end_sec": 274.53,
+   "dur_sec": 11.16,
+   "overlap": false,
+   "text": "More usable food means more people can eat reliably. We can choose better processing while making that choice, which is why I support the motion. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 274.73,
+   "end_sec": 276.42,
+   "dur_sec": 1.69,
+   "overlap": false,
+   "text": "And let Margaret respond."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 276.62,
+   "end_sec": 298.55,
+   "dur_sec": 21.93,
+   "overlap": false,
+   "text": "Deciding this motion turns on the difference between keeping processed food available and urging people to eat more of it. Availability can solve a difficult evening without becoming an everyday target. Caroline has shown that convenience matters, but convenience alone cannot tell us what a healthier food culture should encourage. We need food habits built around recognizable ingredients, care, and choice, not"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 296.62,
+   "end_sec": 299.66,
+   "dur_sec": 3.04,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 298.75,
+   "end_sec": 310.12,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "an automatic reach for packaged meals. Better access to fresh, simple food can respect busy lives without asking people to increase processed eating-",
+   "cut_at_sec": 304.04,
+   "full_dur_sec": 13.9,
+   "ext_file": "L022_029.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 307.12,
+   "end_sec": 309.91,
+   "dur_sec": 2.79,
+   "overlap": true,
+   "text": "Thank you, Margaret. Your time is up."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 310.11,
+   "end_sec": 316.66,
+   "dur_sec": 6.55,
+   "overlap": false,
+   "text": "Thank you, Caroline and Margaret, for the debate; that concludes our discussion of whether we should eat more processed food."
+  }
+ ]
+}

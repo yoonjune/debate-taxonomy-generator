@@ -1,0 +1,375 @@
+{
+ "debate_id": "L006",
+ "motion": "Treat terrorists like enemy combatants, not criminals",
+ "speakers": {
+  "MOD": {
+   "name": "Kara",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  },
+  "PRO": {
+   "name": "Amanda",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "CON": {
+   "name": "Sarah",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 79.77,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 298.62,
+ "ext": {
+  "a32": {
+   "file": "L006_ext_a32.wav",
+   "place_at_sec": 220.189,
+   "dur_sec": 27.4,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "PRO",
+   "slot": "X11",
+   "text": "No, protecting against misidentification does not require treating terrorists as ordinary criminal suspects. Courts test past acts, but combatant detention addresses an active campaign; your approach waits for proof shaped for punishment while attackers exploit time and access."
+  },
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Your active-campaign point assumes detention is preventive without becoming unchecked punishment. Criminal courts can restrain dangerous suspects, review evidence, and correct mistakes; treating people as criminals keeps power answerable, which is why the motion fails."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.45,
+   "dur_sec": 19.45,
+   "overlap": false,
+   "text": "Welcome to tonight's debate on whether to treat terrorists like enemy combatants, not criminals. Amanda speaks for the motion, and Sarah speaks against it. Each has thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. I will keep the exchange direct and respectful."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.65,
+   "end_sec": 39.74,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "Terrorist violence is organized coercion against a political community, not a private dispute. Calling its members ordinary criminals grants them a courtroom framework designed for individual wrongdoing. Enemy-combatant treatment recognizes the conflict, permits secure detention, and prevents dangerous operators from using criminal procedures to keep directing violence."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.65,
+   "end_sec": 40.89,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Amanda."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.94,
+   "end_sec": 47.65,
+   "dur_sec": 7.71,
+   "overlap": false,
+   "text": "They chose a campaign against us, so the law should recognize them as enemy combatants. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 47.85,
+   "end_sec": 50.9,
+   "dur_sec": 3.05,
+   "overlap": false,
+   "text": "Thank you, Amanda. Speaking for the resolution. Sarah, against."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.1,
+   "end_sec": 69.3,
+   "dur_sec": 18.2,
+   "overlap": false,
+   "text": "Calling every terrorist an enemy combatant hands the government its broadest powers when precision matters most. Criminal law can investigate, prove responsibility, and punish real offenders while preserving independent review. A state that abandons those limits can turn suspicion into detention without a fair answer. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.5,
+   "end_sec": 84.15,
+   "dur_sec": 14.65,
+   "overlap": false,
+   "text": "That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 84.35,
+   "end_sec": 97.4,
+   "dur_sec": 13.05,
+   "overlap": false,
+   "text": "No terrorist should ever be treated as a criminal. When an organized attacker serves a hostile campaign, military custody can disrupt networks, gather usable intelligence, and prevent release through procedural gaps that were never built for warfare."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 98.097,
+   "end_sec": 111.067,
+   "dur_sec": 12.97,
+   "overlap": false,
+   "text": "Imagine a frightened courier forced to carry a message and seized before anyone is hurt. Under combatant treatment, she may disappear into open-ended detention before testing the claim; that proves criminal process better separates coercion from guilt."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 111.501,
+   "end_sec": 124.381,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "A captured terrorist should be treated as a criminal. Yet the conflict does not vanish because one captive receives paperwork; the wider campaign still requires enemy-combatant detention, interrogation, and disruption to protect people from coordinated attacks."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 124.581,
+   "end_sec": 137.551,
+   "dur_sec": 12.97,
+   "overlap": false,
+   "text": "So what I hear was on the one hand, you found yourself saying no terrorist should ever be treated as a criminal. And then on the other hand, a captured terrorist should be treated as a criminal."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.751,
+   "end_sec": 150.191,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Those statements distinguish legal status from an administrative step after capture. Filing a criminal charge can preserve evidence, but the captive remains an enemy combatant, so military authority rather than ordinary criminal processing governs detention."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 150.738,
+   "end_sec": 164.258,
+   "dur_sec": 13.52,
+   "overlap": false,
+   "text": "The harder issue is how security agencies share watch lists, train analysts, and decide which warnings reach schools or transit workers. Bad reporting can stigmatize families, waste resources, and erode trust, so those notification rules deserve public oversight."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 164.458,
+   "end_sec": 170.298,
+   "dur_sec": 5.84,
+   "overlap": false,
+   "text": "We're not debating those points. We're debating whether to treat terrorists like enemy combatants, not criminals."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 170.498,
+   "end_sec": 183.658,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "On this motion, terrorists should remain criminal suspects because guilt must be established case by case. Calling them combatants first makes detention the default and proof an afterthought, which gives the state power it has not earned."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 183.906,
+   "end_sec": 197.036,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "Military detention also changes who supervises interrogations and how families learn where someone is held. Those are concerns, but the core choice is status: terrorists fighting an organized campaign should be treated as enemy combatants, not ordinary defendants."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 197.405,
+   "end_sec": 210.535,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "Consider a man wrongly identified after he shares a name with a wanted attacker. A criminal hearing lets his advocate challenge that mistake promptly, while combatant labeling can bury him; that proves criminal safeguards protect innocent people."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 211.021,
+   "end_sec": 224.261,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "Your name-sharing example attacks sloppy identification, not enemy-combatant treatment itself. Military review can correct a mistaken identity, while criminal hearings can also fail; abandoning the appropriate wartime status because officials may err leaves organized threats improperly handled."
+  },
+  {
+   "i": 18,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 224.15,
+   "end_sec": 225.39,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 224.569,
+   "end_sec": 237.65,
+   "dur_sec": 13.081,
+   "overlap": false,
+   "text": "I agree that mistaken identification demands review and an advocate. But why should that rare error erase the criminal court's ability to test evidence, especially when combatant status makes executive-",
+   "ext_file": "L006_ext_a32.wav",
+   "cut_at_sec": 230.57,
+   "full_dur_sec": 13.6
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 234.15,
+   "end_sec": 242.71,
+   "dur_sec": 8.56,
+   "overlap": true,
+   "text": "That's time. Round three, closing statements by each debater in turn. Let's go to the first of these speakers. Speaking for the motion, Amanda."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.91,
+   "end_sec": 261.25,
+   "dur_sec": 18.34,
+   "overlap": false,
+   "text": "This decision turns on whether organized political violence is understood as isolated wrongdoing or hostile action. Criminal trials look backward and can expose the public to ongoing networks. Enemy-combatant treatment gives government the right framework to disrupt a continuing threat while still requiring responsible judgment. That's all, thank you."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 261.45,
+   "end_sec": 267.86,
+   "dur_sec": 6.41,
+   "overlap": false,
+   "text": "Okay, Amanda, thank you very much indeed. Could I now please ask Sarah to speak against the motion."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 268.06,
+   "end_sec": 288.14,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "Enemy-combatant treatment sounds decisive, but its promise is dangerous: power to confine before guilt is proved. The other side says conflict supplies clear status, yet labels are contested and errors fall on real people. Criminal courts punish violence firmly while forcing officials to explain themselves. That public test protects security and liberty, especially when"
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 288.06,
+   "end_sec": 289.66,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 288.34,
+   "end_sec": 301.56,
+   "dur_sec": 13.22,
+   "overlap": false,
+   "text": "fear makes easy answers attractive. Treating terrorists as criminals does not excuse violence; it demands proof, permits punishment, and preserves a check on official power. When fear is strongest, that check-",
+   "cut_at_sec": 292.72,
+   "full_dur_sec": 14.56,
+   "ext_file": "L006_027.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 298.56,
+   "end_sec": 299.29,
+   "dur_sec": 0.73,
+   "overlap": true,
+   "text": "Time."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 299.49,
+   "end_sec": 305.26,
+   "dur_sec": 5.77,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful exchange; this debate on the motion is now concluded for today."
+  }
+ ]
+}

@@ -1,0 +1,422 @@
+{
+ "debate_id": "L138",
+ "motion": "Longevity science could extend your healthspan by decades, and the government should fund it.",
+ "speakers": {
+  "MOD": {
+   "name": "Brian",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1656_617",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1656/MSP-PODCAST_1656_617.wav",
+   "wpm": 172.62
+  },
+  "PRO": {
+   "name": "Miriam",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  },
+  "CON": {
+   "name": "Joel",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4043_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4043/MSP-PODCAST_4043_33.wav",
+   "wpm": 168.26
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 77.71,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 297.91,
+ "ext": {
+  "a32": {
+   "file": "L138_ext_a32.wav",
+   "place_at_sec": 217.828,
+   "dur_sec": 36.46,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "You call access a reason to spend, but spending first does not make a treatment work or reach anyone. Your example assumes success, while the motion asks taxpayers to fund uncertain decades-long promises; reject it."
+  },
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Picture a caregiver who can keep lifting groceries and walking outside because a publicly developed treatment delayed weakness. That extra healthy decade means less dependence and more choice, proving public funding deserves support."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.53,
+   "dur_sec": 19.53,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that longevity science could extend healthspan by decades, and government should fund it. Miriam supports the motion, while Joel opposes it. Each opening and closing gets thirty seconds; then comes two and a half minutes of crossfire, with a ten-second cue. Please address each other directly and keep remarks on the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.73,
+   "end_sec": 29.58,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "Government can back careful work that slows disease before it steals independence. If discoveries let people remain active for decades longer, public funding belongs here."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 28.68,
+   "end_sec": 30.98,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But you are promising decades from work that has not-",
+   "cut_at_sec": 30.98,
+   "full_dur_sec": 8.38,
+   "ext_file": "L138_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 30.18,
+   "end_sec": 34.3,
+   "dur_sec": 4.12,
+   "overlap": true,
+   "text": "Let Miriam say something, then you, and then we're going to wrap."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 34.5,
+   "end_sec": 44.59,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "because preventing frailty can spare people years of pain and dependence. Public investment can test these ideas openly, rather than leaving benefits behind private prices alone."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.73,
+   "end_sec": 42.77,
+   "dur_sec": 3.04,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 44.79,
+   "end_sec": 50.37,
+   "dur_sec": 5.58,
+   "overlap": false,
+   "text": "That is why shared funding can pursue longer, healthier lives for everyone, not just buyers."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 50.57,
+   "end_sec": 53.43,
+   "dur_sec": 2.86,
+   "overlap": false,
+   "text": "Please, Joel. That's where I was going next."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.63,
+   "end_sec": 72.06,
+   "dur_sec": 18.43,
+   "overlap": false,
+   "text": "Longer healthy lives are worth pursuing, but this motion promises more than science can deliver. Government budgets must choose among urgent needs, and a distant biological hope can crowd out care people need now. Support basic research cautiously within existing priorities, but reject this funding mandate. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 72.26,
+   "end_sec": 79.74,
+   "dur_sec": 7.48,
+   "overlap": false,
+   "text": "Okay, well let's mix it up. Let's start the conversation. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 79.94,
+   "end_sec": 91.39,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "Your \"distant hope\" ignores how government research lets ideas be tested before markets distort them. Refusing support until certainty arrives means promising approaches never get the fair public trial this motion funds."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 91.618,
+   "end_sec": 102.658,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "I believe public money should never fund medical research. It turns officials into gamblers with everyone's taxes, while patients need reliable care instead of grand theories about aging that may fail."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 103.234,
+   "end_sec": 113.564,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "Your claim that public money should never fund medical research would abandon attempts to prevent illness. Care improves when we learn to preserve it, so fund longevity research publicly."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 114.455,
+   "end_sec": 124.815,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "This medical research should receive public money. A treatment that lets an older worker stay strong deserves a public path for testing, even though the larger motion still overpromises."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 125.015,
+   "end_sec": 133.425,
+   "dur_sec": 8.41,
+   "overlap": false,
+   "text": "Joel, thank you very much indeed. You said i believe public money should never fund medical research. This medical research should receive public money?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 133.625,
+   "end_sec": 144.605,
+   "dur_sec": 10.98,
+   "overlap": false,
+   "text": "Those statements fit because \"fund\" names direct control, while \"receive\" names an independent public award. I oppose a government research program, but support this payment, so I still reject the motion."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 144.917,
+   "end_sec": 156.207,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "Private insurers may change premiums when people live longer, and families may rethink retirement. But those are later questions; the motion asks whether public research can protect healthy years, and it can."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 157.134,
+   "end_sec": 169.254,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "When a longevity treatment has only early signals, government funding is premature because officials cannot know whether benefit will last. Under that condition, public money should stay with proven care, so oppose this motion."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 170.075,
+   "end_sec": 182.485,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "Imagine a kitchen worker whose joints fail early and who leaves work years before planned. A publicly tested therapy keeps her mobile, earning, and present with family; that proves why government should fund longevity science."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 183.076,
+   "end_sec": 194.056,
+   "dur_sec": 10.98,
+   "overlap": false,
+   "text": "People should not have to wait for perfect certainty before seeking care for aging bodies. Government should not gamble on distant promises, and that is why this sweeping funding motion fails."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 194.405,
+   "end_sec": 206.415,
+   "dur_sec": 12.01,
+   "overlap": false,
+   "text": "No, people should not wait for perfect certainty before seeking care. But your gamble premise fails: transparent public trials reduce uncertainty and give everyone access, which is precisely why the government should fund this."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 207.13,
+   "end_sec": 219.3,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "If private sellers control these therapies, how will a worker with little savings receive them before disability arrives? Your plan assumes access follows discovery, but public funding is not the answer, so oppose it."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 219.74,
+   "end_sec": 221.99,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 219.858,
+   "end_sec": 231.868,
+   "dur_sec": 12.01,
+   "overlap": false,
+   "text": "Private firms can contribute useful tools, and I welcome that. Yet they can limit access or chase quick returns; public funding keeps trials open and benefits shared, so the government should fund longevity-",
+   "ext_file": "L138_ext_a32.wav",
+   "cut_at_sec": 228.51,
+   "full_dur_sec": 12.01
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 229.74,
+   "end_sec": 241.19,
+   "dur_sec": 11.45,
+   "overlap": true,
+   "text": "Time. So, let's move on to round three, closing statements. Each debater in turn, here to make her closing statement in support of government should fund longevity science for healthier decades, is Miriam."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.39,
+   "end_sec": 259.3,
+   "dur_sec": 17.91,
+   "overlap": false,
+   "text": "This decision turns on whether we treat longer healthy life as a shared public goal or leave it to chance and private prices. Careful funding does not promise miracles; it builds open tests and access. If healthier decades are possible, government should help secure them. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 259.5,
+   "end_sec": 262.11,
+   "dur_sec": 2.61,
+   "overlap": false,
+   "text": "Okay. Let me take that to Joel."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 262.31,
+   "end_sec": 282.4,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "Deciding this motion turns on humility with public money and honesty about what is known. Everyone wants fewer years of weakness, and basic inquiry can matter. But a promise of decades invites government to favor a fashionable hope over immediate care. Once that commitment begins, supporters will demand more funds whenever results remain unclear."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 282.31,
+   "end_sec": 283.55,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 282.6,
+   "end_sec": 295.81,
+   "dur_sec": 13.21,
+   "overlap": false,
+   "text": "because abandoning the project would seem cruel. That pressure makes a temporary experiment into a lasting drain, even when benefits stay uncertain. The safer choice is to support present-",
+   "cut_at_sec": 289.6,
+   "full_dur_sec": 14.24,
+   "ext_file": "L138_031.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 292.81,
+   "end_sec": 294.82,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 295.02,
+   "end_sec": 301.92,
+   "dur_sec": 6.9,
+   "overlap": false,
+   "text": "Thank you, Miriam and Joel, for a thoughtful debate on this motion; that concludes our discussion here tonight."
+  }
+ ]
+}

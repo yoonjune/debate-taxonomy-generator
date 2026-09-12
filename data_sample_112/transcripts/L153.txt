@@ -1,0 +1,44 @@
+L153  |  The courts should restrict access to the abortion pill.
+  MOD=Joe   PRO=Mitchell   CON=Sheldon
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Joe(MOD): Welcome. Tonight's motion is the courts should restrict access to the abortion pill. Mitchell supports the motion, and Sheldon opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue; speak directly and stay focused. We begin now, with equal time for both speakers.
+[t01] Mitchell(PRO): Courts should require basic safeguards before this pill is provided. A serious medical decision deserves verified prescribing, clear information, and accountability when harm follows.
+[t02] <ovl> <cut> Sheldon(CON): You keep calling this accountability, but I know someone-
+[t03] @A5 <ovl> Joe(MOD): Please let him address the principle.
+[t04] Mitchell(PRO): Because the principle is simple: access without meaningful review can leave patients isolated when problems arise. Courts can insist that providers confirm eligibility and explain follow-up care.
+[t05] @A4 <ovl> Joe(MOD): Just, just about ten seconds left.
+[t06] Mitchell(PRO): That is a narrow protection, not a ban, and it puts patient safety first. That's all, thank you.
+[t07] @A2-2 Joe(MOD): I just want to let Sheldon respond to that.
+[t08] Sheldon(CON): The other side treats courts as if they can make private care safer by adding rules. But judges are not the people having the consultation or carrying the consequences of delay. A patient and clinician should make this decision together. Restrictions can turn a lawful prescription into a drawn-out obstacle, especially when someone needs prompt care.
+[t09] @A4 <ovl> Joe(MOD): Ten seconds.
+[t10] <cut> Sheldon(CON): Clear information and responsible prescribing matter, but court restrictions are a blunt answer. They invite uncertainty for patients and clinicians, and they place a judge between someone and care. If safety is-
+[t11] @A1 <ovl> Joe(MOD): I'm sorry, you've hit time.
+
+--- phase 2 ---
+[t12] @A3-1 Joe(MOD): The time period of uninterrupted speaking is over. We're going to move into the portion of the evening now where the debaters debate one another. Two and a half minutes on the clock, starting the moment I stop talking.
+[t13] Mitchell(PRO): Your delay point assumes every restriction is an obstacle. A court can require real prescribing standards without blocking care, and that protection matters when a patient has no meaningful follow-up.
+[t14] Sheldon(CON): On your follow-up point, care is improved by clinicians, not courtroom rules. A judge's restriction can make providers fearful and patients wait, which weakens the access they need.
+[t15] Mitchell(PRO): I agree a patient should not face needless delay. But if no one verifies the prescription or explains warning signs, who protects that patient from preventable harm? Courts should enforce safeguards.
+[t16] Sheldon(CON): No, a missed confirmation does not make courts the proper gatekeepers. Your safeguard question ignores that clinicians already owe patients careful counseling, while restrictions can deny timely care.
+[t17] Mitchell(PRO): Imagine a patient receives pills through a distant seller, gets severe symptoms, and cannot reach anyone who knows the case. Requiring verified care and contact information prevents abandonment. That proves targeted restrictions protect patients.
+[t18] Sheldon(CON): If a patient has consulted a qualified clinician and understands the instructions, why should a court add another barrier before that patient can obtain prescribed care?
+[t19] Mitchell(PRO): People also argue about advertising and delivery practices, which can distract from the real issue. The motion is court access rules, and courts should stop practices that separate patients from responsible medical oversight.
+[t20] Sheldon(CON): Your delivery point mistakes distance for neglect. Remote care can still include counseling, screening, and follow-up, while court restrictions can remove that option from patients who need it.
+[t21] Mitchell(PRO): When a seller cannot verify a real clinical review, courts should restrict access to the pill. Why should an unverified transaction receive the same legal protection as responsible care?
+[t22] Sheldon(CON): No, an unverified transaction should not receive equal protection, but your premise overreaches. Courts can address fraud directly without restricting lawful access for patients working with qualified clinicians.
+[t23] Mitchell(PRO): Courts should never treat a pill as beyond ordinary legal review. They must apply safeguards wherever a medical transaction creates foreseeable harm, because patient protection is part of justice.
+[t24] Sheldon(CON): If ordinary legal review is enough, why seek special restrictions on this medication rather than enforce rules against bad providers while preserving patients' access to lawful care?
+[t25] Mitchell(PRO): Your alternative leaves the patient exposed until after a bad provider causes harm. Rules against fraud punish misconduct later; targeted restrictions prevent unsafe access before someone is abandoned.
+[t26] @A4 <ovl> Joe(MOD): Ten seconds left in this round.
+[t27] <cut> Sheldon(CON): On your prevention point, prevention does not require restricting access. Clear standards for providers and remedies for deception can protect patients without making courts control-
+
+--- phase 3 ---
+[t28] @A3-2 <ovl> Joe(MOD): That's time. So, let's move on to round three, closing statements. Each debater in turn, here to make his closing statement in support of the courts should restrict access to the abortion pill, is Mitchell.
+[t29] Mitchell(PRO): This debate is not about denying every patient care. It is about whether courts may require a minimum level of responsibility before a powerful medication is provided. The other side relies on trust after the fact. I support safeguards before harm occurs, including real clinical review and reachable follow-up, because patients deserve more than a transaction.
+[t30] @A4 <ovl> Joe(MOD): You have ten seconds left.
+[t31] <cut> Mitchell(PRO): They are right that needless delay is harmful, and any rule should be narrow. But doing nothing until a patient is stranded is not compassion. Courts can protect access to responsible care-
+[t32] @A2-1 <ovl> Joe(MOD): Thank you, your time is up. And here to summarize his position against the motion, Sheldon.
+[t33] Sheldon(CON): The strongest point is simple: private medical care should be guided by patients and clinicians, not by judges adding barriers. Safety rules can address misconduct without restricting lawful access. When courts control this decision, delay and uncertainty fall on the patient. Protect care, protect choice, and reject the motion. That's all, thank you.
+[t34] Joe(MOD): Thank you, Mitchell and Sheldon, for a direct debate. That concludes our discussion of tonight's motion.

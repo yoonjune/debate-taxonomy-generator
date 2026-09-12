@@ -1,0 +1,396 @@
+{
+ "debate_id": "L054",
+ "motion": "We should give two cheers to the two-party system.",
+ "speakers": {
+  "MOD": {
+   "name": "Virginia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1763_64",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1763/MSP-PODCAST_1763_64.wav",
+   "wpm": 173.81
+  },
+  "PRO": {
+   "name": "Graham",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0666_828",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0666/MSP-PODCAST_0666_828.wav",
+   "wpm": 171.12
+  },
+  "CON": {
+   "name": "Abigail",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  }
+ },
+ "selective": [
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 80.96,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 291.21,
+ "ext": {
+  "a32": {
+   "file": "L054_ext_a32.wav",
+   "place_at_sec": 221.76,
+   "dur_sec": 26.17,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "I grant that party rules can unfairly protect insiders, and those rules need reform. But the main question is whether two broad vehicles help citizens choose and govern; they do, because they make compromise visible and removal possible."
+  },
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Picture a tenant whose concern fits neither major platform. She is told to soften it, wait, or attach it to a larger brand; a separate route lets her organize around it. That proves two parties leave voices stranded."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 22.41,
+   "dur_sec": 22.41,
+   "overlap": false,
+   "text": "Welcome to our debate. Tonight's motion is whether we should give two cheers to the two-party system. Graham supports it, and Abigail opposes it. Each opening and closing lasts thirty seconds, crossfire lasts two and a half minutes, and I will give a ten-second cue. The speakers should address each other directly, and I may step in to keep the exchange fair and focused."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 22.61,
+   "end_sec": 40.28,
+   "dur_sec": 17.67,
+   "overlap": false,
+   "text": "Two parties give voters a clear choice and give governing a workable path after elections. They gather broad coalitions instead of rewarding every narrow grievance. That structure creates accountability: when policy fails, citizens can replace the team responsible without guessing who actually held power. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 40.48,
+   "end_sec": 42.81,
+   "dur_sec": 2.33,
+   "overlap": false,
+   "text": "Abigail, come on in your response."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 43.01,
+   "end_sec": 52.81,
+   "dur_sec": 9.8,
+   "overlap": false,
+   "text": "That clarity is purchased by shutting out views that do not fit either camp. A democracy deserves more than two gatekeepers deciding which arguments sound acceptable."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 51.91,
+   "end_sec": 54.21,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "You call them gatekeepers, but isn't-",
+   "cut_at_sec": 52.07,
+   "full_dur_sec": 8.25,
+   "ext_file": "L054_004.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 53.41,
+   "end_sec": 56.22,
+   "dur_sec": 2.81,
+   "overlap": true,
+   "text": "Let her just answer that very briefly."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 56.42,
+   "end_sec": 66.6,
+   "dur_sec": 10.18,
+   "overlap": false,
+   "text": "and it leaves ordinary people with no real route for building support outside those camps. A choice designed by insiders is not a full choice either."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 63.01,
+   "end_sec": 64.3,
+   "dur_sec": 1.29,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 66.8,
+   "end_sec": 74.87,
+   "dur_sec": 8.07,
+   "overlap": false,
+   "text": "Two parties may be convenient, but convenience is not the democratic standard we should praise. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 75.07,
+   "end_sec": 85.4,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "Let me throw the discussion open between the two sides. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 85.6,
+   "end_sec": 99.31,
+   "dur_sec": 13.71,
+   "overlap": false,
+   "text": "Imagine a council split among several groups after an election, each demanding a separate bargain before any budget can pass. Two parties force compromise before voting day and produce a usable decision afterward. That proves the system deserves praise."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 99.534,
+   "end_sec": 111.734,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "When one party controls local candidate access, two labels can turn a fresh challenger into an outsider before voters hear her. That condition lets party insiders screen choices, so the system deserves less praise."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 112.427,
+   "end_sec": 124.757,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "If your answer is more voices, how will a voter tell a serious new group from a fleeting protest label without relying on coalitions? Give me a rule that protects choice without making responsibility vanish."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 125.383,
+   "end_sec": 138.983,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "Voters can judge platforms, records, and local work; a serious group earns trust through those details. But local candidate access means petition rules, meeting rooms, filing deadlines, volunteer lists, and who can afford repeated trips to submit papers."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 139.183,
+   "end_sec": 148.233,
+   "dur_sec": 9.05,
+   "overlap": false,
+   "text": "Okay, I'm not sure that that's getting to whether we should give two cheers to the two-party system, which I think is a little bit more on point."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.433,
+   "end_sec": 160.663,
+   "dur_sec": 12.23,
+   "overlap": false,
+   "text": "The motion asks whether two parties deserve praise, and they do not when access is controlled by party machinery. A system that filters challengers before the public can weigh them protects itself, not democratic choice."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 160.879,
+   "end_sec": 173.289,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "I grant that voters benefit from recognizable teams and simple ballots. But insider control is a repairable party practice, while abandoning two broad coalitions makes bargaining less visible and accountability harder to trace for everyone-"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 173.855,
+   "end_sec": 185.975,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Democracy is weakened whenever political choices are narrowed before citizens can compare them. Two parties may simplify a ballot, yet their shared dominance can teach voters that only approved arguments count in public life."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 186.677,
+   "end_sec": 199.807,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "Party volunteers often build friendships and solve small neighborhood disputes, which is valuable civic work. Still, that social comfort can become pressure to pick a camp; the motion is about institutions, and two parties deserve qualified praise."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 200.599,
+   "end_sec": 212.719,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Why should a voter who rejects both major platforms be told that influence requires joining one of them? Explain how that is genuine representation rather than a demand to silence part of her judgment."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 213.38,
+   "end_sec": 225.87,
+   "dur_sec": 12.49,
+   "overlap": false,
+   "text": "Your representation point mistakes an invitation to join a coalition for a command to surrender belief. Voters can reshape either party through primaries and local organizing, then hold a governing coalition responsible. That is representation."
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 225.4,
+   "end_sec": 227.97,
+   "dur_sec": 2.57,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 226.2,
+   "end_sec": 238.72,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Your weakest claim is that primaries solve exclusion. A party can set the choices, rules, and acceptable tone before any primary begins, so participation inside its fence does not-",
+   "ext_file": "L054_ext_a32.wav",
+   "cut_at_sec": 231.76,
+   "full_dur_sec": 12.52
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 235.4,
+   "end_sec": 240.53,
+   "dur_sec": 5.13,
+   "overlap": true,
+   "text": "And that's time. First we have closing statements. I will ask Graham to speak first."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.73,
+   "end_sec": 260.98,
+   "dur_sec": 20.25,
+   "overlap": false,
+   "text": "Two cheers is not blind devotion. It recognizes a system that turns scattered preferences into governing choices, asks rivals to build broad support, and lets voters identify who made decisions. Abigail rightly worries about insider barriers, and those deserve reform. But more labels alone do not create power for citizens; clear responsibility and workable compromise do."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 260.73,
+   "end_sec": 261.61,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 261.18,
+   "end_sec": 272.21,
+   "dur_sec": 11.03,
+   "overlap": false,
+   "text": "Give two cheers because this system is imperfect but useful: it organizes choice, exposes responsibility, and makes peaceful replacement possible. That is democratic value worth preserving. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 272.41,
+   "end_sec": 274.02,
+   "dur_sec": 1.61,
+   "overlap": false,
+   "text": "So the floor is yours."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 274.22,
+   "end_sec": 293.56,
+   "dur_sec": 19.34,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether convenience for large parties outweighs meaningful choice for citizens. Two labels can make a ballot tidy while narrowing who gets heard. Reform from inside is uncertain when insiders control the door; do not praise a system whose advantage is keeping alternatives dependent. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 293.76,
+   "end_sec": 300.09,
+   "dur_sec": 6.33,
+   "overlap": false,
+   "text": "Thank you, Graham and Abigail, for a thoughtful debate; that concludes our discussion of tonight's motion for now."
+  }
+ ]
+}

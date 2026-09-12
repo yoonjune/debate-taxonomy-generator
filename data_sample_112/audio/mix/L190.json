@@ -1,0 +1,400 @@
+{
+ "debate_id": "L111",
+ "motion": "The U.S. drone program is fatally flawed.",
+ "speakers": {
+  "MOD": {
+   "name": "Javier",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6699_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6699/MSP-PODCAST_6699_79.wav",
+   "wpm": 176.38
+  },
+  "PRO": {
+   "name": "Gloria",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  },
+  "CON": {
+   "name": "Annette",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 103.39,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 298.85,
+ "ext": {
+  "a32": {
+   "file": "L111_ext_a32.wav",
+   "place_at_sec": 245.641,
+   "dur_sec": 32.49,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I reject the premise that affected people must correct every decision for it to be sound. Multiple sources and delayed action can test claims, whereas your standard would rule out useful protection."
+  },
+  {
+   "src_i": 25,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "On your multiple sources point, several secret sources can repeat the same bad assumption. Delaying action helps sometimes, but it does not give innocent people control over life-or-death decisions."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.21,
+   "dur_sec": 19.21,
+   "overlap": false,
+   "text": "Welcome to our debate on whether the U.S. drone program is fatally flawed. Gloria supports the motion, and Annette opposes it. Each has thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue; please keep answers direct and let each other speak throughout."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.41,
+   "end_sec": 39.57,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Drone strikes promise precision, yet their decisions often rest on distant screens, uncertain identities, and secret standards. When force is used without meaningful public scrutiny, mistakes cannot be tested or repaired. Families living beneath that threat lose safety even when they are not targets. That is not a minor defect in any serious sense."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.41,
+   "end_sec": 40.93,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.77,
+   "end_sec": 52.91,
+   "dur_sec": 13.14,
+   "overlap": false,
+   "text": "The program also makes the boundary between combat and ordinary life dangerously porous. Its secrecy leaves victims with little way to challenge a killing. A system that cannot reliably identify-",
+   "cut_at_sec": 50.71,
+   "full_dur_sec": 14.16,
+   "ext_file": "L111_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 49.91,
+   "end_sec": 53.27,
+   "dur_sec": 3.36,
+   "overlap": true,
+   "text": "Gloria, that's your time. Thank you. And now, Annette."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.47,
+   "end_sec": 73.63,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Calling the entire program fatally flawed mistakes risk for impossibility. Remote aircraft can watch a threat longer than a rushed raid, giving decision makers chances to delay or cancel. Clear rules and review can expose errors and improve choices. The question is whether reform is possible, not whether danger exists in difficult conflicts today."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 73.47,
+   "end_sec": 75.4,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 73.83,
+   "end_sec": 86.97,
+   "dur_sec": 13.14,
+   "overlap": false,
+   "text": "Gloria treats secrecy as proof that accountability is absent, but confidential procedures can still demand records, approvals, and correction. No tool is harmless. Yet abandoning a tool-",
+   "cut_at_sec": 84.77,
+   "full_dur_sec": 14.24,
+   "ext_file": "L111_007.wav"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 83.97,
+   "end_sec": 85.18,
+   "dur_sec": 1.21,
+   "overlap": true,
+   "text": "Not this time."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 85.38,
+   "end_sec": 103.39,
+   "dur_sec": 18.01,
+   "overlap": false,
+   "text": "All right, so now we're going to move into a part of the debate where it's more of a conversation that moves back and forth, robustly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 103.59,
+   "end_sec": 113.84,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "Your claim that secrecy makes correction impossible is too sweeping. Sensitive operations can be reviewed by authorized officials, and protecting details during review does not make the program fatally flawed."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 114.27,
+   "end_sec": 125.75,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I did not say correction is impossible; I said victims lack a meaningful way to challenge lethal mistakes. Why trust internal review when the program itself controls what facts outsiders may see?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 126.311,
+   "end_sec": 136.641,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "On the victim challenge point, you assume outside access is the only safeguard. Independent reviewers can inspect evidence without publishing it, so secrecy can protect people while accountability remains."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 136.95,
+   "end_sec": 148.63,
+   "dur_sec": 11.68,
+   "overlap": false,
+   "text": "Consider a household labeled a threat after a visitor is misread from above. A strike kills relatives without warning or recourse. That proves remote certainty can fail catastrophically, making the program fatally flawed."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.049,
+   "end_sec": 160.169,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "If every tragic mistake makes a program fatally flawed, what lawful method would you use against an imminent attacker hiding beyond reach? You cannot protect civilians by refusing every remote option."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 160.964,
+   "end_sec": 172.204,
+   "dur_sec": 11.24,
+   "overlap": false,
+   "text": "The issue is who designs oversight, how quickly officials authorize action, and whether communities get notice or remedies. Security policy should give affected people a voice before officials decide whose risks count."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 172.404,
+   "end_sec": 177.294,
+   "dur_sec": 4.89,
+   "overlap": false,
+   "text": "Come back to the whether the U.S. drone program is fatally flawed, will you?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 177.494,
+   "end_sec": 189.334,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "The motion asks whether this drone program is fatally flawed, and it is because lethal errors are insulated from those harmed. Better oversight cannot erase a structure that makes accountability optional after death."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 190.233,
+   "end_sec": 201.713,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I reject the premise that accountability is optional after death. Reviews, records, and consequences can follow a wrongful strike, and reforming weak procedures is precisely why the program is not fatally flawed."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 201.935,
+   "end_sec": 213.695,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Training and reporting matter because operators need disciplined habits, and leaders must explain decisions to their public. But those improvements cannot cure the distance from consequence, so the drone program remains fatally flawed."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 213.988,
+   "end_sec": 224.748,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Imagine a planner preparing an attack inside a guarded compound. A drone can wait and strike without sending troops inside. That can save residents and responders, showing the program is-"
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 223.848,
+   "end_sec": 234.528,
+   "dur_sec": 10.68,
+   "overlap": true,
+   "text": "But your example assumes a clear moment tells you who is truly inside. From a screen, uncertainty becomes deadly, and troops not being present does not make unseen families safe."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 235.068,
+   "end_sec": 245.138,
+   "dur_sec": 10.07,
+   "overlap": false,
+   "text": "I agree that misidentification is grave. But careful verification can reduce it, while avoiding a ground assault's wider danger; that is why the program is not fatally flawed."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 243.39,
+   "end_sec": 245.64,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 245.641,
+   "end_sec": 256.081,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Your verification point fails because watched people cannot correct the story before force arrives. Procedures reduce error, but cannot make secret lethal judgment sound-",
+   "ext_file": "L111_ext_a32.wav",
+   "cut_at_sec": 254.19,
+   "full_dur_sec": 10.44
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 253.39,
+   "end_sec": 259.16,
+   "dur_sec": 5.77,
+   "overlap": true,
+   "text": "Time's up. So we move on to our closing round. And Gloria, you again have the floor."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.36,
+   "end_sec": 276.34,
+   "dur_sec": 16.98,
+   "overlap": false,
+   "text": "Deciding this motion turns on what we permit when certainty is missing and the consequences are irreversible. A system built on secret lethal judgments cannot offer victims meaningful protection or remedy. Because that failure is structural, the drone program is fatally flawed. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 276.54,
+   "end_sec": 278.42,
+   "dur_sec": 1.88,
+   "overlap": false,
+   "text": "Go ahead. Go ahead, Annette."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 278.62,
+   "end_sec": 296.9,
+   "dur_sec": 18.28,
+   "overlap": false,
+   "text": "The strongest point is that mistakes are serious, but serious risk does not make a tool beyond repair. Watching, delaying, recording, and reviewing can prevent worse harm than a rushed ground operation. The program can be constrained and corrected, so it is not fatally flawed. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 297.1,
+   "end_sec": 303.11,
+   "dur_sec": 6.01,
+   "overlap": false,
+   "text": "Thank you, Gloria and Annette, for a thoughtful exchange; that concludes our debate on this motion tonight."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+L225  |  Repeal Obamacare
+  MOD=Mari   PRO=Walter   CON=Rima
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Mari(MOD): Welcome to tonight's debate. The motion is repeal Obamacare, with Walter for it and Rima against it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire and thirty seconds for closings; I will give a ten-second cue. Keep your remarks focused, clear, and respectful as you answer each other directly.
+[t01] Walter(PRO): Repeal is not abandoning people; it is ending a rigid federal mandate that narrows choices. Families need coverage they can understand, doctors they can reach, and plans shaped around their needs. We can protect people with illness without preserving a law that raises costs and traps choices. That's all, thank you.
+[t02] @A2-2 Mari(MOD): Okay. Rima, you're in.
+[t03] Rima(CON): Repeal would rip away a basic promise: people can seek coverage even when they need care most. This law is imperfect, and it can be improved. But tearing it down risks confusion, higher bills, and lost protections for families who cannot afford a gap. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Mari(MOD): So, in round two, the debaters direct questions to one another. Two and a half minutes on the clock, starting the moment I stop talking.
+[t05] Walter(PRO): You say improvement is enough, but what prevents a future rulemaker from cutting benefits just as abruptly? If the law cannot guarantee affordable choices or stable rules, why should families be locked into it?
+[t06] Rima(CON): No person should ever be forced to lose coverage. The safeguard is public accountability: people can challenge harmful changes, while repeal removes the floor altogether and leaves families exposed to whatever replacement arrives.
+[t07] Walter(PRO): I agree that sudden rule changes can frighten families. But your answer keeps power in the same system that creates those shocks; people need options independent of a federal law, which is why repeal is necessary.
+[t08] Rima(CON): This person should be forced to lose coverage. Keeping a harmful arrangement in place is not compassion; the law should help someone move toward better care, and that is a reason to improve it, not repeal it.
+[t09] @B2 Mari(MOD): I'm puzzled by your stand. On the one hand no person should ever be forced to lose coverage and on the other hand this person should be forced to lose coverage.
+[t10] Rima(CON): The first statement protects a person's claim against arbitrary loss; the second treats a harmful arrangement as coverage only in name. A workable law distinguishes protection from a label, so repair preserves real security and repeal does not.
+[t11] Walter(PRO): Your distinction depends on who reviews each disputed plan, what forms they require, and how long a clinic waits for approval. The real struggle is training call-center workers, revising notices, and sorting enrollment files.
+[t12] @B1 Mari(MOD): I feel we're getting a little bit off the topic of whether whether the current Obamacare law should be repealed now. So, I want you to come in and bring it back around to that.
+[t13] Walter(PRO): On whether Obamacare should be repealed, its rules make coverage depend on offices and endless paperwork. Even a well-meant system fails when families cannot understand choices or providers cannot get timely answers, so repeal is the better path.
+[t14] Rima(CON): Your paperwork point mistakes administration for the whole law. Repeal does not make forms vanish; it replaces clear protections with uncertainty, and families facing illness need a dependable guarantee, not a promise that a new system might work.
+[t15] Walter(PRO): I agree that paperwork can exist under any system. But your guarantee is hollow if premiums and choices remain beyond reach; how does keeping this law help a family offered one costly plan and no nearby doctor?
+[t16] @A4 <ovl> Mari(MOD): Ten seconds left on the crossfire.
+[t17] <cut> Rima(CON): Keeping the law helps because its protections give that family a place to start, rather than nothing. Your costly-plan example shows-
+
+--- phase 3 ---
+[t18] @A3-2 <ovl> Mari(MOD): Time's up. That wraps the discussion. Now, we go to closing statements. Walter, you are up first.
+[t19] Walter(PRO): The central failure is not that every rule is bad; it is that this law leaves families with expensive, narrow choices and calls them secure. My example of the parent without a usable doctor shows the human cost. Reform can protect people with illness without preserving this structure. Repeal clears room for coverage that families can actually use.
+[t20] @A4 <ovl> Mari(MOD): I can give you ten seconds to do this.
+[t21] <cut> Walter(PRO): Those choices matter to families. Communities can build plans around local doctors rather than one rigid design, and care should be reachable and affordable. Repeal is not a-
+[t22] @A2-1 <ovl> Mari(MOD): Your time is up, Walter. Thank you. And here to summarize her position against the motion, Rima.
+[t23] Rima(CON): Walter's doctor example identifies a real problem, but repeal does not guarantee a better network or a cheaper plan. Keeping protections while fixing weak networks is more responsible than gambling with care. Improve the law, preserve coverage, and reject repeal. That's all, thank you.
+[t24] Mari(MOD): Thank you, Walter and Rima, for a thoughtful exchange on this motion; this concludes our discussion for today.

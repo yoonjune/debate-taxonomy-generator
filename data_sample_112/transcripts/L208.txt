@@ -1,0 +1,40 @@
+L208  |  Taylor Swift deserves her billion-dollar fortune.
+  MOD=Daisy   PRO=Andreas   CON=Nina
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Daisy(MOD): Welcome. The motion is whether Taylor Swift deserves her billion-dollar fortune. Andreas supports it, and Nina opposes it. Each opening and closing gets thirty seconds, crossfire lasts two and a half minutes, and I will give a ten-second cue.
+[t01] Andreas(PRO): Deserving a fortune does not mean nobody else needs money. It means the person created value that willing listeners repeatedly chose to reward. She writes, performs, and builds experiences that matter to millions of individual fans. Their voluntary support is not an accident; it reflects effort, skill, risk, and a long relationship with an audience.
+[t02] @A4 <ovl> Daisy(MOD): Ten seconds please.
+[t03] <cut> Andreas(PRO): A large result can be surprising, but surprise is not proof of unfairness. If people freely pay for work, its creator may fairly receive the reward, and calling her wealth undeserved because-
+[t04] @A2-1 <ovl> Daisy(MOD): I'm going to stop you there, Andreas, we're out of time. Nina.
+[t05] Nina(CON): Success shows popularity, not moral desert. A billion-dollar fortune reflects a system that can funnel vast rewards upward while many contributors and listeners carry the costs. Her talent may merit comfort and praise, yet no performance justifies control over resources on that scale. The question is fairness, not whether people enjoy the songs.
+[t06] @A4 <ovl> Daisy(MOD): You've got ten seconds.
+[t07] Nina(CON): When wealth becomes that concentrated, voluntary purchases alone cannot settle what anyone deserves. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Daisy(MOD): That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t09] Nina(CON): Your claim that purchases prove desert is weakest. Fans can enjoy a song and still face a market where attention, workers, and access are arranged to send one person an extreme share.
+[t10] Andreas(PRO): Consider a fan who saves for a concert, shares its songs with friends, and leaves feeling understood after a hard week. Her work created that real benefit without force, proving voluntary reward can be deserved.
+[t11] <cut> Nina(CON): You did not ask a question, so I reject the idea that comfort proves desert. That fan's good feeling cannot turn unlimited private accumulation into fairness when others who enable the show receive far less, and your example-
+[t12] Andreas(PRO): The industry also shapes merchandise, publicity, and what choices fans even see. But setting that aside, people still decide whether to buy, and she delivered work they valued; that supports deserving her fortune.
+[t13] Nina(CON): No entertainer should ever deserve every dollar earned. A market price records power and scarcity, not a full moral contribution, and her enormous payout leaves too little recognition and security for the people whose labor supports it.
+[t14] Andreas(PRO): If her audience freely chooses to spend on music and shows, what gives you the right to declare those exchanges morally invalid? You have shown inequality, not that she failed to earn her fortune.
+[t15] Nina(CON): Taylor Swift should deserve every dollar earned. That does not settle the motion, because a billion-dollar fortune includes leverage from a system that turns ordinary purchases into outsized control, so I oppose calling it deserved.
+[t16] @B2 Daisy(MOD): They do no entertainer should ever deserve every dollar earned or they should taylor Swift should deserve every dollar earned?
+[t17] Nina(CON): My first statement names an ideal about earnings; my second recognizes that her earnings can be legitimate while the fortune remains undeserved. This separates payment for work from concentrated power, so I oppose the motion.
+[t18] Andreas(PRO): No, your distinction does not solve the contradiction: a fortune is earnings people chose to give. You call her payments legitimate, then deny their total, although repeated voluntary choices explain why her fortune is deserved.
+[t19] Nina(CON): On the voluntary choices point, you treat consent as a blank check. People can choose within unfair options, and millions of small choices do not prove that one person morally deserves vast power beyond communities sustaining her.
+[t20] Andreas(PRO): I agree that popularity alone is not a moral blank check. But you never show coercion or theft; you only dislike the scale, while she made work people freely reward, so she deserves her billion-dollar fortune.
+[t21] @A4 <ovl> Daisy(MOD): Ten.
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Daisy(MOD): Time. Now we move on to round three. Round three will be closing statements by each debater in turn. Making his closing statement in support of the resolution whether taylor swift truly deserves her billion-dollar fortune, Andreas.
+[t23] Andreas(PRO): This decision turns on whether earned, voluntary support can make a large reward deserved. Nina rightly asks us to care about inequality, but concern is not evidence that this creator took what was not hers. Listeners chose the work, returned to it, and paid for it. That is the moral link between contribution and reward.
+[t24] @A4 <ovl> Daisy(MOD): Andreas, ten seconds.
+[t25] Andreas(PRO): Her fortune follows value freely exchanged, so the fair verdict is that she deserves it. That's all, thank you.
+[t26] @A2-2 Daisy(MOD): Nina, you're up first.
+[t27] Nina(CON): The decision turns not on whether she worked hard, but whether popularity can justify extreme private command over shared resources. I granted that artists may deserve payment. Yet payment is not the same as a billion-dollar fortune. When markets magnify attention into overwhelming wealth, calling the result deserved confuses choice with justice. The motion should fail because fairness has limits.
+[t28] @A4 <ovl> Daisy(MOD): I'll give you ten more seconds to nail this.
+[t29] Nina(CON): Enjoying her work does not prove she deserves limitless wealth. Reward the art, but reject the claim that a billion-dollar fortune is morally deserved. That's all, thank you.
+[t30] Daisy(MOD): Thank you, Andreas and Nina, for a thoughtful debate. That concludes our discussion of this motion today.

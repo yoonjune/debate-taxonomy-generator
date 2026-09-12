@@ -1,0 +1,37 @@
+L182  |  For a better future, live in a red state.
+  MOD=Martha   PRO=Raymond   CON=Liz
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Martha(MOD): Welcome. Tonight's motion is: for a better future, live in a red state. Raymond supports it, and Liz opposes it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before time expires. Let's begin.
+[t01] Raymond(PRO): A better future needs room to raise families, build work, and keep local ties strong. Red states often protect choice in schooling, reward effort, and let communities set priorities. That creates confidence rather than dependence, because people see a path from effort to ownership. It also means...
+[t02] @A4 <ovl> Martha(MOD): I'll give you ten more seconds to nail this.
+[t03] <cut> Raymond(PRO): safer streets, reliable energy, and rules shaped close to home. A future works when ordinary people can plan without distant officials changing the terms, and that is why living in a red-
+[t04] @A2-1 <ovl> Martha(MOD): Your time is up. Thank you. Liz.
+[t05] Liz(CON): Your picture confuses a label with a life. A better future depends on affordable homes, good schools, fair chances, and freedom to make personal decisions. Those things vary from community to community, so no state color can promise them. People deserve choices, not a political map deciding their future. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Martha(MOD): Okay. So now, we know where each of you stand and why. We'll be diving into discussion on our question, for a better future, live in a red state. Two and a half minutes on the clock, starting the moment I stop talking.
+[t07] Liz(CON): You say a red state builds opportunity, but how does a color guarantee a child good teaching, safe housing, and personal freedom? Name the policy that makes those gains certain for every family.
+[t08] Raymond(PRO): Parents also care about who runs the school board, what appears in libraries, and whether local meetings feel heard. But the motion is about futures, and local control gives red-state families more power to shape theirs.
+[t09] Liz(CON): Your local-control point overlooks unequal power. A family cannot shape a future merely by attending meetings when basic options are thin; better futures require dependable opportunities, not just nearby decision makers.
+[t10] Raymond(PRO): At a school-board meeting, one parent asks for a reading list, another requests a bus route, and volunteers inspect the playground. Then committees revise forms, schedule hearings, and decide which classroom roof gets repaired first.
+[t11] @B1 Martha(MOD): Just to remind you that we are discussing the motion, for a better future, live in a red state.
+[t12] Raymond(PRO): Fair point: the motion concerns futures, not meeting agendas. Every family thrives in a red state. Local authority, work, and steady rules give people durable control over home, school, and livelihood.
+[t13] Liz(CON): Your claim that every family gains is the weakest part. Families differ in jobs, health, identity, and needs, so a state label cannot ensure control; it can even limit the choices that make futures secure.
+[t14] Raymond(PRO): This family does not thrive in a red state. I mean a parent whose available work disappears and whose local rules shut down the path they need; that hardship is real, while the broader model remains better.
+[t15] @B2 Martha(MOD): Well you're every family thrives in a red state and then you're this family does not thrive in a red state. Which?
+[t16] Raymond(PRO): Those statements address different levels. The first describes the future red-state system makes available, while the second describes one family's lived setback; a broad promise of opportunity does not erase a hard case.
+[t17] Liz(CON): Your different-levels point fails because an available future is not the same as a better future for everyone. If one family can be left behind, your absolute promise collapses, and the motion needs more than direction.
+[t18] Raymond(PRO): You're right that no community removes every hardship. But the main issue is which places leave more room to respond through work, family networks, and local decisions; that practical freedom makes red states the wiser future.
+[t19] @A4 <ovl> Martha(MOD): Ten seconds warning.
+[t20] <cut> Liz(CON): Imagine a worker in a town with one employer and few training options. When the job vanishes, local slogans create-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Martha(MOD): Time's up. And now we move on to round three. And here making his closing statement in support of the motion, Raymond.
+[t22] Raymond(PRO): Living in a red state is the better bet because the future is built through daily control: choosing schools, pursuing work, raising children, and solving problems close to home. Liz rightly notes that hardship can exist anywhere, but a system that trusts families and neighborhoods gives people more ways to answer it. That is the
+[t23] @A4 <ovl> Martha(MOD): Ten seconds please.
+[t24] Raymond(PRO): reason red states offer not perfection, but the strongest foundation for families and a better future. That's all, thank you.
+[t25] @A2-2 Martha(MOD): We've got your point. Liz.
+[t26] Liz(CON): This decision turns on whether a political label can tell you where a life will improve. It cannot: people need options, personal freedom, and support when local systems fail. A red state may suit some people, but the motion promises a better future too broadly, so reject it. That's all, thank you.
+[t27] Martha(MOD): Thank you, Raymond and Liz, for a thoughtful debate. That concludes our discussion of the motion tonight.

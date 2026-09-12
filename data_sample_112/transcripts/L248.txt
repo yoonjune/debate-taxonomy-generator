@@ -1,0 +1,40 @@
+L248  |  Legalizing sports gambling has become a bad bet.
+  MOD=Javier   PRO=Amy   CON=Abigail
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Javier(MOD): Welcome to our debate. Tonight's motion is: legalizing sports gambling has become a bad bet. Amy argues for the motion, and Abigail argues against it. Each opening and closing lasts thirty seconds and crossfire lasts two and a half minutes. Please listen closely, answer arguments, and keep remarks respectful and focused on this question; I will give a ten-second cue.
+[t01] Amy(PRO): Legalizing sports gambling has become a bad bet because it turns every game into a sales pitch for risking money. Easy access does not stay neutral when people are upset, lonely, or chasing a loss. Safeguards alone help at the edges, but the business depends on repeat wagers. Why should families carry that burden?
+[t02] <cut> Amy(PRO): And when betting is built into every broadcast and every phone, saying people can simply ignore it misses the point. The product gains customers by making a private risk feel like ordinary-
+[t03] @A4 <ovl> Javier(MOD): I can give you ten seconds to wrap this round.
+[t04] @A2-1 <ovl> Javier(MOD): That's time, thank you. Abigail, the floor is yours.
+[t05] Abigail(CON): Families should not carry the burden of illegal markets either, and legalization gives them more protection than denial does. Adults already want to wager, so the real choice is between rules and secrecy. Legal services can offer limits, records, and pauses. Banning the legal route leaves the riskiest route untouched in practice.
+[t06] @A4 <ovl> Javier(MOD): Just, just about ten seconds left.
+[t07] <cut> Abigail(CON): That does not mean every wager is wise. It means a regulated system can identify trouble and give someone a way back before debt grows, while prohibition sends the person toward sellers-
+[t08] @A1 <ovl> Javier(MOD): I'm sorry, you've hit time.
+
+--- phase 2 ---
+[t09] @A3-1 Javier(MOD): Thank you, Abigail. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+[t10] Abigail(CON): Families should not carry risks created by illegal betting, which is why legalization is better. You call safeguards failure, but a visible, regulated market lets adults choose and lets families spot trouble sooner.
+[t11] <cut> Amy(PRO): Your visible-market claim is weakest: putting a betting button everywhere does not make its pull harmless. It normalizes chasing losses, and families still absorb the damage when a wager turns-
+[t12] Abigail(CON): Advertising can crowd broadcasts and change how people talk about games; that is irritating, but not my central objection. The motion fails because legal options replace hidden operators with rules, records, and intervention.
+[t13] Amy(PRO): Every legal betting market harms fans. It turns a shared game into a constant invitation to risk rent money, and the promise of oversight cannot repair an industry built on repeated losses.
+[t14] Abigail(CON): If legalization is a bad bet, why would you drive people back toward unregulated sellers who offer no clear limits or recourse? Adults deserve lawful choices, and prohibition has never made demand disappear.
+[t15] Amy(PRO): I would not drive anyone underground; this legal betting market does not harm fans. But legalization spreads betting across daily life, so its overall bargain remains a bad one.
+[t16] @B2 Javier(MOD): They do every legal betting market harms fans or they should this legal betting market does not harm fans?
+[t17] Amy(PRO): Both statements describe different levels: one market may look harmless in isolation, while legal markets as a system harm fans by making betting routine. That routine is why I still support the motion.
+[t18] Abigail(CON): Different levels is an escape, not an answer: every already includes the market you just excused. More importantly, normalizing a legal choice is not harm when adults can decline it and seek help.
+[t19] Amy(PRO): I grant that clear rules can make a single transaction safer than a hidden one. But easier, constant access creates more chances to lose control, so legalization has become a bad bet.
+[t20] Abigail(CON): Imagine an adult who notices betting escalating and uses a legal service's pause tool, rather than borrowing from a shadow seller. That route creates a chance to stop and recover, proving legalization is not a bad bet.
+[t21] Amy(PRO): Your pause-tool example assumes people pause before damage mounts. How does putting betting prompts beside every game protect the fan who opens an app after a painful loss?
+[t22] Abigail(CON): On your prompt point, a prompt is not a command, and legal services can place limits beside it. Why assume removing lawful options protects that fan, when practical tools make the motion false?
+[t23] @A4 <ovl> Javier(MOD): Ten.
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Javier(MOD): Time's up. Okay, now we're gonna pivot to our closing round. Amy, you are up first.
+[t25] Amy(PRO): The strongest point is simple: legalization puts gambling inside ordinary sports watching, where temptation becomes routine. A pause tool matters only after someone has begun chasing a loss. Families and fans can bear the strain long before any safeguard works. The industry calls this choice, yet it sells risk as part of every game.
+[t26] @A4 <ovl> Javier(MOD): Well, now it's ten.
+[t27] Amy(PRO): And when risk is marketed as ordinary entertainment, harm is not an accident. That is why legalization has become a bad bet for far too many fans. That's all, thank you.
+[t28] @A2-2 Javier(MOD): I want to give the floor to Abigail.
+[t29] Abigail(CON): Legalization is not a promise that nobody will make a harmful choice. It is a choice to replace secrecy with accounts, limits, and ways to pause or seek help. Adults deserve that path, so calling legalization a bad bet mistakes regulation for the harm it can reduce. That's all, thank you.
+[t30] Javier(MOD): Thank you, Amy and Abigail, for a thoughtful debate. That concludes our discussion of tonight's motion for now.

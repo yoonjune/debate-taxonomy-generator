@@ -1,0 +1,41 @@
+L157  |  America and its allies should tolerate a nuclear Iran rather than stop Iran now.
+  MOD=Monica   PRO=Alice   CON=Gavin
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Monica(MOD): Good evening. Our motion is whether America and its allies should tolerate a nuclear Iran rather than stop Iran now. Alice supports it, and Gavin opposes it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue.
+[t01] Alice(PRO): Stopping Iran now risks a war that could spread far beyond the disputed program. Tolerating deterrence is not trust; it is choosing pressure, defense, and talks over a gamble whose damage cannot be undone. America and its allies should choose the less irreversible path. That's all, thank you.
+[t02] @A2-2 Monica(MOD): I just want to let Gavin respond to that.
+[t03] Gavin(CON): A nuclear Iran would give its leaders a shield behind which threats, coercion, and reckless partners can grow. Deterrence works only when each side trusts the other will avoid catastrophe, and that trust is thin here. Waiting does not preserve peace; it gives danger time to harden. The consequences would not stay within this dispute.
+[t04] Gavin(CON): The choice is to prevent that leverage before it becomes permanent. Tolerance is not restraint when it leaves everyone else living under a nuclear shadow. That's all, thank you.
+[t05] @A4 <ovl> Monica(MOD): Ten seconds from this side?
+
+--- phase 2 ---
+[t06] @A3-1 Monica(MOD): Now we go on to round two, where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t07] Alice(PRO): Imagine a tense naval encounter where a warning is misunderstood and missiles are prepared before anyone can pause. Tolerating Iran's capability avoids creating that immediate crisis; it proves restraint can prevent a needless war.
+[t08] Gavin(CON): Always stop Iran now. Letting the program become a weapon would multiply coercion and make every later response more dangerous, so action is responsible for everyone involved.
+[t09] Alice(PRO): Your always-stop point mistakes possession for permission to attack. Nuclear states can still face containment and consequences; launching a preventive war to avoid uncertainty creates the catastrophe you say you fear most today.
+[t10] Gavin(CON): With a nuclear Iran, America and its allies should not stop Iran now. Yet the motion remains wrong because accepting that permanent danger leaves all allies exposed to future coercion.
+[t11] @B2 Monica(MOD): They do always stop Iran now or they should not stop Iran now?
+[t12] Gavin(CON): Both statements reflect the same concern: danger must not become normal. The first rejects acceptance, while the second recognizes that forcing reversal after a weapon exists may be worse; that is why stopping Iran now matters.
+[t13] Alice(PRO): You are right that a nuclear weapon would deepen fear and raise the stakes. But your answer assumes war removes that danger; it may instead spread it, so tolerance remains the safer choice.
+[t14] Gavin(CON): When a family keeps faulty wiring despite repeated sparks, the dispute becomes whether adults should repair it before children sleep nearby. Their neighbors may discuss alarms, insurance, and routines, but the wiring remains the issue.
+[t15] @B1 Monica(MOD): It's really off the topic of tolerating a nuclear Iran rather than stopping it now.
+[t16] Gavin(CON): The motion asks whether America and its allies should tolerate a nuclear Iran, and they should not. Tolerance rewards a dangerous achievement, while stopping Iran now preserves leverage before the threat becomes harder to contain.
+[t17] Alice(PRO): Your leverage point ignores the price of using it: coercion can ignite the very conflict it claims to prevent. Containment keeps leverage too, through defense and diplomacy, without making war the opening move.
+[t18] Gavin(CON): Your claim that containment keeps leverage is the weakest part of your case. A rival protected by a nuclear weapon can test every limit, and diplomacy then becomes pleading rather than leverage.
+[t19] Alice(PRO): Containment is not pleading; it combines clear defenses with consequences short of war. You treat a weapon as automatic control, but leaders still fear isolation and retaliation, which is why tolerance avoids a disastrous preventive strike.
+[t20] @A4 <ovl> Monica(MOD): Ten seconds left, both of you.
+[t21] <cut> Gavin(CON): Defense can reduce risk, and I grant that war carries terrible costs. But postponement lets the hardest-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Monica(MOD): Time. Let's move on to Round three, closing statements from each debater in turn. Our resolution is, tolerating a nuclear Iran rather than stopping it now. Leading off with her closing statement, Alice.
+[t23] Alice(PRO): Stopping now may feel decisive, but it trades a feared future for an immediate conflict. Deterrence, defenses, and diplomacy give everyone room to avoid that irreversible choice.
+[t24] <ovl> <cut> Gavin(CON): That room is an illusion. Once Iran-
+[t25] @A5 <ovl> Monica(MOD): Please let her answer the question.
+[t26] Alice(PRO): and that choice is not courage. A preventive war can poison relations, invite retaliation, and leave nuclear knowledge intact; patient deterrence limits harm without pretending it disappears.
+[t27] @A4 <ovl> Monica(MOD): You've got ten seconds.
+[t28] Alice(PRO): America and its allies should choose managed risk over a war they cannot undo later. That's all, thank you.
+[t29] @A2-2 Monica(MOD): Thank you Alice. Gavin, closing statement.
+[t30] Gavin(CON): Tolerance asks everyone to bet that a new nuclear power will remain cautious forever. That is not a plan; it is surrendering leverage while danger grows. Stopping Iran now is difficult, but it preserves choices before the threat turns every future choice into fear. That's all, thank you.
+[t31] Monica(MOD): Thank you both for a thoughtful exchange; this concludes our debate on the motion, and good night.

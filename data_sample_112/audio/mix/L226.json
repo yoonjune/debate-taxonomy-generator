@@ -1,0 +1,369 @@
+{
+ "debate_id": "L170",
+ "motion": "January 6 was an existential threat to American democracy.",
+ "speakers": {
+  "MOD": {
+   "name": "Teresa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "PRO": {
+   "name": "Joanna",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "CON": {
+   "name": "Ron",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 85.1,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 305.2,
+ "ext": {
+  "a32": {
+   "file": "L170_ext_a32.wav",
+   "place_at_sec": 230.154,
+   "dur_sec": 24.85,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "Your resilience point mistakes survival for safety. A bridge can remain standing after an attack and still reveal a fatal weakness; January sixth exposed that weakness at the transfer of power, which supports the motion."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.24,
+   "dur_sec": 20.24,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is whether January sixth was an existential threat to American democracy. Joanna supports it, and Ron opposes it. Each opening and closing lasts thirty seconds; crossfire lasts two and a half minutes, and I will give a ten-second cue. Address each other directly, keep answers brief, and let the other speaker finish before responding."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.44,
+   "end_sec": 40.53,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "January sixth put the peaceful transfer of power under direct attack. A crowd tried to halt a lawful result while officials faced pressure to abandon their duty. How can Ron call that merely a disturbance when democracy depends on accepting a loss? The danger was not only what happened that day; it was the permission it offered for future refusal."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.44,
+   "end_sec": 41.96,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.73,
+   "end_sec": 51.72,
+   "dur_sec": 10.99,
+   "overlap": false,
+   "text": "That permission matters because a system can survive one shock yet be weakened when force becomes a usable political tool. That is why this was existential. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 51.92,
+   "end_sec": 58.1,
+   "dur_sec": 6.18,
+   "overlap": false,
+   "text": "Thank you very much indeed. All right. Could I please ask Ron to speak against the motion, please."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 58.3,
+   "end_sec": 76.28,
+   "dur_sec": 17.98,
+   "overlap": false,
+   "text": "Joanna is right that force and pressure were wrong, but wrong does not mean existential. The system resisted, officials completed their work, and the lawful result stood. A democracy facing a serious attack and preserving its core rules has shown resilience, not near extinction. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 76.48,
+   "end_sec": 89.62,
+   "dur_sec": 13.14,
+   "overlap": false,
+   "text": "That concludes round one. Now we move on to round two and in round two the debaters have a conversation, address one another directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 89.82,
+   "end_sec": 101.66,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "I do not call it merely a disturbance; I call it a grave but contained assault. The lawful transfer happened anyway, so Joanna must show that danger alone made democracy's survival genuinely uncertain."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 102.511,
+   "end_sec": 115.081,
+   "dur_sec": 12.57,
+   "overlap": false,
+   "text": "Ron, a system is endangered whenever people treat a lawful result as optional. I believe every attack on a lawful transfer of power always threatens democracy, because it tells future losers that force may replace consent."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 115.383,
+   "end_sec": 126.783,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Your weakest word is always. A threat is not automatically existential, and your rule erases the difference between an attack a democracy defeats and one that actually destroys its capacity to govern."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 127.423,
+   "end_sec": 135.913,
+   "dur_sec": 8.49,
+   "overlap": false,
+   "text": "I say this attack does not threaten democracy. It threatened the peaceful transfer of power, and that makes it an existential threat to American democracy."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 136.113,
+   "end_sec": 147.643,
+   "dur_sec": 11.53,
+   "overlap": false,
+   "text": "But you can't have it both ways, you can't every attack on a lawful transfer of power always threatens democracy on one hand and then this attack does not threaten democracy the next."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 147.843,
+   "end_sec": 160.653,
+   "dur_sec": 12.81,
+   "overlap": false,
+   "text": "I use threat in two senses: the event may fail to end democracy, yet its challenge to lawful transfer can menace democracy's future. Both statements separate immediate collapse from existential danger, so I remain for the motion."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 161.249,
+   "end_sec": 174.769,
+   "dur_sec": 13.52,
+   "overlap": false,
+   "text": "The larger issue is whether emergency security rules should give officials wider power to restrict gatherings before they turn violent. Those powers can burden peaceful citizens, invite selective enforcement, and deserve strict limits in any future security policy."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 174.969,
+   "end_sec": 184.529,
+   "dur_sec": 9.56,
+   "overlap": false,
+   "text": "Okay, I'm not sure that that's getting to january sixth was an existential threat to american democracy, which I think is a little bit more on point."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 184.729,
+   "end_sec": 196.569,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "On the motion, January sixth was a severe attack but not an existential threat to American democracy. Its institutions processed the challenge, rejected coercion, and completed the lawful transfer without surrendering their authority."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 196.907,
+   "end_sec": 209.557,
+   "dur_sec": 12.65,
+   "overlap": false,
+   "text": "When officials had to pause their work while a crowd sought to stop certification, the country saw force interrupt a constitutional duty. That example proves the danger was aimed at democracy's central mechanism, not a side issue."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 209.995,
+   "end_sec": 221.475,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Your example proves disruption, not extinction. A pause is precisely what institutions can recover from, and the work resumed under the same rules, showing that the central mechanism endured rather than collapsed."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 222.35,
+   "end_sec": 233.96,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "Ron, if force can be used to pressure officials whenever a side loses, what prevents the next losing side from trying again with greater coordination? Please answer how democracy remains safe under that lesson."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 229.62,
+   "end_sec": 231.94,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 234.674,
+   "end_sec": 243.12,
+   "dur_sec": 8.446,
+   "overlap": false,
+   "text": "I grant that repetition would be dangerous and demands accountability. But a warning about what might happen later-",
+   "ext_file": "L170_ext_a32.wav",
+   "cut_at_sec": 235.9,
+   "full_dur_sec": 12.64
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 239.62,
+   "end_sec": 253.86,
+   "dur_sec": 14.24,
+   "overlap": true,
+   "text": "Time's up. We are about to hear brief closing remarks from each debater in turn. On to round three, closing statements. First summarizing her position in support of the motion january sixth was an existential threat to american democracy, Joanna."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 254.06,
+   "end_sec": 273.91,
+   "dur_sec": 19.85,
+   "overlap": false,
+   "text": "January sixth was not simply angry speech or disorder around a political event. It was an effort to stop a lawful transfer by pressure and force. Democracy depends on losers accepting rules even when they hate the outcome. Once force is offered as an alternative, the system's future is placed in danger."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 274.06,
+   "end_sec": 274.94,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 274.11,
+   "end_sec": 287.56,
+   "dur_sec": 13.45,
+   "overlap": false,
+   "text": "Ron points to the result, but a democracy is not secure merely because it survived one test. The event showed how quickly a lawful outcome could be challenged, and future actors-",
+   "cut_at_sec": 280.84,
+   "full_dur_sec": 14.32,
+   "ext_file": "L170_025.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 284.56,
+   "end_sec": 287.92,
+   "dur_sec": 3.36,
+   "overlap": true,
+   "text": "Joanna, that's your time. Thank you. And now, Ron."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 288.12,
+   "end_sec": 305.74,
+   "dur_sec": 17.62,
+   "overlap": false,
+   "text": "Deciding this motion turns on the meaning of existential. January sixth was dangerous, wrongful, and worthy of serious condemnation, but democracy's core process continued and the lawful result prevailed. Calling every grave challenge existential confuses resilience with collapse, so the motion is false. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 305.94,
+   "end_sec": 311.98,
+   "dur_sec": 6.04,
+   "overlap": false,
+   "text": "Thank you, Joanna and Ron, for a direct debate on a difficult question, and thank you for listening."
+  }
+ ]
+}

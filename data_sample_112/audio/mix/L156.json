@@ -1,0 +1,376 @@
+{
+ "debate_id": "L060",
+ "motion": "Containment is not enough: ISIS must be defeated",
+ "speakers": {
+  "MOD": {
+   "name": "Franklin",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5176_653",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5176/MSP-PODCAST_5176_653.wav",
+   "wpm": 176.47
+  },
+  "PRO": {
+   "name": "Kate",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0860_780",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0860/MSP-PODCAST_0860_780.wav",
+   "wpm": 165.06
+  },
+  "CON": {
+   "name": "Nick",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0285_1010",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0285/MSP-PODCAST_0285_1010.wav",
+   "wpm": 163.03
+  }
+ },
+ "selective": [
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 75.51,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 282.98,
+ "ext": {
+  "a32": {
+   "file": "L060_ext_a32.wav",
+   "place_at_sec": 221.586,
+   "dur_sec": 24.56,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Your phrase lasting safety assumes defeat produces an ending, yet conflict can outlive any battlefield victory. Removing one force may leave angry rivals and shattered communities, whereas containment limits damage while recovery grows."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.29,
+   "dur_sec": 19.29,
+   "overlap": false,
+   "text": "Welcome. Our motion is whether containment is not enough and ISIS must be defeated. Kate argues for it, and Nick argues against it. Each opening and closing gets thirty seconds, followed by two and a half minutes of crossfire; I will give a ten-second cue. Address each other directly, and keep remarks civil and concise."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.49,
+   "end_sec": 35.74,
+   "dur_sec": 16.25,
+   "overlap": false,
+   "text": "Containment leaves ISIS able to recruit, threaten, and wait for an opening. A policy that merely fences danger in accepts permanent risk. Defeat means dismantling its capacity, so communities can live without an armed shadow over every choice in daily life. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 35.94,
+   "end_sec": 38.35,
+   "dur_sec": 2.41,
+   "overlap": false,
+   "text": "All right, Nick, take that on."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 38.55,
+   "end_sec": 58.48,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Kate treats defeat as a clean finish, but it can spread fighting and create new grievances. Containment can block expansion, protect threatened communities, and leave room for local life to recover. You have not shown why an open-ended campaign is safer than patient pressure, especially when"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 58.55,
+   "end_sec": 60.16,
+   "dur_sec": 1.61,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 58.68,
+   "end_sec": 65.14,
+   "dur_sec": 6.46,
+   "overlap": false,
+   "text": "its costs fall on people who cannot choose the battlefield. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 65.34,
+   "end_sec": 79.11,
+   "dur_sec": 13.77,
+   "overlap": false,
+   "text": "And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 79.31,
+   "end_sec": 90.39,
+   "dur_sec": 11.08,
+   "overlap": false,
+   "text": "Your claim that dismantling capacity ends the threat is weakest. Force can scatter networks and turn fear into recruitment; containment denies them space without pretending every hostile idea disappears at once."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 91.37,
+   "end_sec": 102.13,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "I'm answering your claim that force only scatters networks. Containment lets leaders regroup and plan, while targeted defeat removes their command, resources, and ability to menace families over and over-"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 101.23,
+   "end_sec": 111.59,
+   "dur_sec": 10.36,
+   "overlap": true,
+   "text": "No, Kate, removing commanders does not remove the cause of recruitment. A defeated group can splinter, and a containment strategy can isolate those splinters without widening a war around them."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 112.523,
+   "end_sec": 124.283,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Who will train neighborhood councils, pay teachers, and settle disputes when armed patrols leave? Durable local authority needs trusted courts and jobs, not distant directives, because families need ordinary institutions they can use."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 124.483,
+   "end_sec": 130.843,
+   "dur_sec": 6.36,
+   "overlap": false,
+   "text": "We're talking about the practicality or the morality of containment is not enough and ISIS must be defeated."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 131.043,
+   "end_sec": 141.693,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "On whether containment is enough, it plainly is not when ISIS can still choose violence and rebuild influence. Nick, how does leaving that capacity intact protect anyone facing its threats?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 142.485,
+   "end_sec": 153.405,
+   "dur_sec": 10.92,
+   "overlap": false,
+   "text": "I believe containment always protects civilians. Its barriers reduce exposure, restrain escalation, and give communities breathing room; demanding defeat invites a larger struggle that can place more civilians directly in danger."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 153.895,
+   "end_sec": 166.415,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Your absolute claim that containment always protects civilians fails where ISIS controls daily life behind those barriers. Protection is not merely fewer battles; it means removing the coercion that governs people's homes, work, and speech."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 167.344,
+   "end_sec": 178.514,
+   "dur_sec": 11.17,
+   "overlap": false,
+   "text": "Here containment does not protect civilians. When a trapped family faces an ISIS enforcer, holding a line elsewhere leaves that person exposed, yet expanding war to claim defeat can expose many more."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 178.714,
+   "end_sec": 187.764,
+   "dur_sec": 9.05,
+   "overlap": false,
+   "text": "I'm puzzled by your stand. On the one hand i believe containment always protects civilians and on the other hand here containment does not protect civilians."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 187.964,
+   "end_sec": 199.514,
+   "dur_sec": 11.55,
+   "overlap": false,
+   "text": "Containment protects civilians by limiting the violence that reaches them, and here it does not protect civilians from every danger. No policy erases all peril; defeat can multiply it, so restraint remains wiser."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 200.097,
+   "end_sec": 211.577,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "If containment fails to protect people in the case you named, why keep it rather than defeat ISIS? What do you tell the family left under its rule while you defend restraint?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 211.792,
+   "end_sec": 224.672,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "No, because I reject your premise that defeat protects that family; it may bring a broader fight to them. You treat military victory as rescue, but containment can reduce harm while alternatives weaken ISIS over time."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 219.11,
+   "end_sec": 221.12,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "You both have ten seconds."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 225.186,
+   "end_sec": 232.61,
+   "dur_sec": 7.424,
+   "overlap": false,
+   "text": "I grant that containment can buy time and avert some immediate bloodshed. But time is wasted-",
+   "ext_file": "L060_ext_a32.wav",
+   "cut_at_sec": 226.31,
+   "full_dur_sec": 12.52
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 229.11,
+   "end_sec": 235.04,
+   "dur_sec": 5.93,
+   "overlap": true,
+   "text": "And that's time. We have to move on to our closing round. Kate, the floor is yours."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 235.24,
+   "end_sec": 255.44,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "Containment can slow danger, and I have never denied that narrow benefit. But a strategy designed to manage ISIS leaves its coercive system alive, able to exploit every pause. Defeat is not reckless expansion; it is the necessary aim of breaking the power that terrorizes families and dictates their future."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 255.24,
+   "end_sec": 258.29,
+   "dur_sec": 3.05,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 255.64,
+   "end_sec": 263.26,
+   "dur_sec": 7.62,
+   "overlap": false,
+   "text": "We must end that power, because merely containing it abandons those living beneath it. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 263.46,
+   "end_sec": 265.95,
+   "dur_sec": 2.49,
+   "overlap": false,
+   "text": "Let me bring back Nick, please. Thanks."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.15,
+   "end_sec": 283.41,
+   "dur_sec": 17.26,
+   "overlap": false,
+   "text": "Kate calls defeat necessary, yet necessity does not make it safe or achievable. Containment can deny expansion, lower immediate harm, and preserve room for communities to rebuild. The wiser course is disciplined pressure, not a promise of final victory that may deepen the conflict. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 283.61,
+   "end_sec": 290.18,
+   "dur_sec": 6.57,
+   "overlap": false,
+   "text": "Thank you, Kate and Nick, for a thoughtful exchange; this debate is now closed, and we appreciate your arguments."
+  }
+ ]
+}

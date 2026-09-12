@@ -1,0 +1,40 @@
+L141  |  Progressive populism will save the Democratic Party.
+  MOD=Dean   PRO=Wendy   CON=Nina
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Dean(MOD): Welcome. Tonight's motion is that progressive populism will save the Democratic Party. Wendy speaks for the motion, and Nina speaks against it; they should address arguments, not people. Each has thirty seconds to open, then two and a half minutes of crossfire, and thirty seconds to close. I will give a ten-second cue before time expires.
+[t01] Wendy(PRO): Progressive populism gives a party a clear purpose: stand with people who feel ignored and challenge concentrated power. It turns private frustrations into shared action, while offering practical gains such as fair pay, affordable care, and accountable government. That message can rebuild trust among voters who think politics only serves insiders.
+[t02] Wendy(PRO): By making democracy deliver visibly, progressive populism can save the party from irrelevance. That's all, thank you.
+[t03] @A4 <ovl> Dean(MOD): Ten seconds warning.
+[t04] @A2-2 Dean(MOD): I want to let Nina respond to some of that.
+[t05] Nina(CON): Anger at insiders is real, but progressive populism narrows a diverse party into one loud faction. Promising fights can alienate cautious supporters and make compromise look like betrayal. A party survives by building coalitions and governing credibly, not by treating disagreement as a battle between people and elites. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Dean(MOD): That concludes round one. So, now, on to round two where the debaters can address one another directly. You have two and a half minutes, starting when I stop talking.
+[t07] Nina(CON): Your claim that a clear purpose rebuilds trust is weak because many people want results, not a permanent fight. If every compromise becomes surrender, how can your party govern with anyone beyond its base?
+[t08] <cut> Wendy(PRO): I reject the idea that populism means permanent fighting; it means making government answer ordinary people. Your coalition fails when it asks ignored voters to wait politely while powerful interests keep deciding whose needs matter, and that is-
+[t09] <ovl> Nina(CON): No, making every opponent powerful is precisely the problem. You turn neighbors with different priorities into enemies, then call that unity; a party saved that way cannot represent the broad public it needs.
+[t10] Wendy(PRO): You're right that ignored voters deserve urgency. But calling every differing priority an enemy is your caricature, because progressive populism identifies shared opponents in unfair systems and invites a broad public to change them together.
+[t11] Nina(CON): Imagine a local shop owner who supports better wages but hears that every owner is an exploiter. She stops listening, joins opponents, and the party loses a potential ally; that proves divisive populism shrinks coalitions.
+[t12] Wendy(PRO): Campaign funding deserves tougher rules, because candidates should not spend their days chasing wealthy donors. Public forums, small contributions, and transparent advertising would make elections healthier and give ordinary residents a real voice in campaigns.
+[t13] @B1 Dean(MOD): This House believes progressive populism will save the democratic party.
+[t14] Wendy(PRO): Yes, the question is whether progressive populism will save the Democratic Party, and I say it can by giving neglected voters a reason to return. Clear economic fairness builds participation, trust, and a coalition larger than insiders.
+[t15] Nina(CON): Leaders also need room to negotiate details, and internal meetings can become needlessly tense when slogans dominate. Still, that is why progressive populism will not save the party: it rewards purity tests over the wide trust survival requires.
+[t16] Wendy(PRO): If progressive populism supposedly divides everyone, why do you offer ignored workers only moderation and patience instead of power? How does asking them to trust the same cautious approach save a party they already doubt?
+[t17] Nina(CON): People deserve more than patience, and your demand for power speaks to a real frustration. But power built by dividing every voter into victims and villains cannot hold a governing coalition; progressive populism will weaken the party.
+[t18] Wendy(PRO): Picture a renter facing a sudden fee while officials dismiss her calls and landlords set the terms. A progressive populist campaign organizes tenants, wins a fair rule, and shows government can listen; that proof brings people back.
+[t19] @A4 <ovl> Dean(MOD): Ten seconds left in this round.
+[t20] <cut> Nina(CON): Your renter example assumes one campaign victory saves an entire party-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Dean(MOD): We've come up against the clock, so we're going to move now to our closing statements. Wendy, the stage is all yours.
+[t22] Wendy(PRO): Nina's strongest concern is that populism can turn disagreement into hostility, and that risk demands disciplined language. But abandoning a forceful, people-centered politics leaves anger to harden without representation. Progressive populism saves the party by converting that anger into practical solidarity, accountable power, and renewed participation. That's all, thank you.
+[t23] @A2-2 Dean(MOD): Nina has the floor right now.
+[t24] Nina(CON): A party is saved by winning broad trust, not just by naming grievances. That trust breaks when leaders divide every dispute into ordinary people and enemies,
+[t25] <ovl> <cut> Wendy(PRO): But that is not my case. I name unfair-
+[t26] @A5 <ovl> Dean(MOD): No. Let Nina come in. Please.
+[t27] Nina(CON): and enemies. It makes compromise suspect and turns potential partners away, so the party loses the trust required to win and govern for everyone.
+[t28] @A4 <ovl> Dean(MOD): Ten seconds from this side?
+[t29] Nina(CON): Progressive populism may energize some voters, but it will not save a broad Democratic Party. That's all, thank you.
+[t30] Dean(MOD): Thank you, Wendy and Nina, for your arguments today; this debate is concluded, with no winner declared by the moderator.

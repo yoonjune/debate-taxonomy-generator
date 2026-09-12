@@ -1,0 +1,401 @@
+{
+ "debate_id": "L044",
+ "motion": "Give undocumented immigrants a path to citizenship.",
+ "speakers": {
+  "MOD": {
+   "name": "Joe",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  },
+  "PRO": {
+   "name": "Albert",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6504_583",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6504/MSP-PODCAST_6504_583.wav",
+   "wpm": 171.06
+  },
+  "CON": {
+   "name": "Daisy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  }
+ },
+ "selective": [
+  "A1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 90.7,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 305.4,
+ "ext": {
+  "a32": {
+   "file": "L044_ext_a32.wav",
+   "place_at_sec": 232.179,
+   "dur_sec": 25.12,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Daisy's lawful-residence alternative is the weak point: it leaves families permanently separate from the political community they sustain. A real path asks responsibility, then grants belonging; that is fairer than permanent second-class status."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.84,
+   "dur_sec": 17.84,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is: give undocumented immigrants a path to citizenship. Albert argues for it and Daisy argues against it. Each opening is thirty seconds, crossfire is two and a half minutes, and closings are thirty seconds; I will give a ten-second cue. Speak directly and keep the exchange focused."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.04,
+   "end_sec": 38.4,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "I support a fair process because people who work, raise children, and live under our laws need a way to belong. Legal recognition encourages openness, responsibility, and trust with neighbors. This is not a gift without effort; it is a route with requirements. It also lets our communities know who is here and why they seek a future."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.04,
+   "end_sec": 39.64,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.6,
+   "end_sec": 49.47,
+   "dur_sec": 10.87,
+   "overlap": false,
+   "text": "A workable path can include review, learning, and a pledge to the country. It replaces shadows with accountable membership, which is why I support it. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 49.67,
+   "end_sec": 51.27,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Great, Daisy, go ahead."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.47,
+   "end_sec": 71.24,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "I oppose creating citizenship for people who entered or remained outside the legal process. A nation needs rules that mean something, especially when membership carries lasting duties and power. Albert calls this responsibility, but the proposal rewards bypassing the line. We should improve lawful routes instead of turning unlawful presence into a claim on citizenship."
+  },
+  {
+   "i": 6,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 71.44,
+   "end_sec": 84.97,
+   "dur_sec": 13.53,
+   "overlap": false,
+   "text": "People already waiting through lawful channels deserve equal respect, and changing the result after unlawful entry tells them patience was pointless. Compassion matters, but citizenship is the highest public bond, not merely-",
+   "cut_at_sec": 80.7,
+   "full_dur_sec": 15.36,
+   "ext_file": "L044_007.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 71.47,
+   "end_sec": 72.11,
+   "dur_sec": 0.64,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 81.97,
+   "end_sec": 84.29,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "I'm sorry, I'm sorry. Hit time."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 84.49,
+   "end_sec": 92.77,
+   "dur_sec": 8.28,
+   "overlap": false,
+   "text": "We're going to move into our proverbial free-for-all session. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 92.97,
+   "end_sec": 104.45,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Albert's openness point mistakes identification for citizenship. Why should people who complied with the process watch unlawful presence become the route to the same status they earned through patience and documented steps?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 105.156,
+   "end_sec": 117.436,
+   "dur_sec": 12.28,
+   "overlap": false,
+   "text": "They should not lose respect, because a path can require review and duties rather than erase their effort. But Daisy's reward claim ignores families already rooted here; permanent exclusion creates fear, not respect for law."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 117.859,
+   "end_sec": 128.299,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "No undocumented immigrant should ever receive citizenship. Citizenship must follow lawful entry and permission, or the rule becomes an invitation to bypass the process for anyone willing to wait."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 129.209,
+   "end_sec": 141.649,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Daisy, if people have lived openly, passed review, and accepted obligations, why is permanent exclusion a better outcome than earned membership? Your rule offers no way to repair a life already woven into this community."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 142.119,
+   "end_sec": 151.089,
+   "dur_sec": 8.97,
+   "overlap": false,
+   "text": "This undocumented immigrant should receive citizenship. I still oppose a general path because one hard case cannot decide the rule for everyone seeking the same status."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 151.289,
+   "end_sec": 158.169,
+   "dur_sec": 6.88,
+   "overlap": false,
+   "text": "So, so while saying no undocumented immigrant should ever receive citizenship, you're saying this undocumented immigrant should receive citizenship?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 158.369,
+   "end_sec": 170.619,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "My first statement protects the general rule, while my second recognizes the person before us as deserving citizenship. I keep both views, yet the motion asks for a broad path, and I reject that policy."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 171.393,
+   "end_sec": 183.433,
+   "dur_sec": 12.04,
+   "overlap": false,
+   "text": "Daisy's general-rule explanation fails because she has conceded that the person actually affected deserves citizenship. A policy is made of people, and denying everyone else a path simply because it is broad leaves families-"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 184.169,
+   "end_sec": 196.689,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Schools and clinics also feel strain when families live in uncertainty, and local workers worry about changing neighborhoods. Still, the motion is citizenship, and that status should follow lawful permission, not years of unauthorized presence."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 197.445,
+   "end_sec": 209.565,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Daisy's weakest claim is that time without permission can never matter. Time creates families, duties, and deep ties; refusing any process ignores those facts and preserves a fearful underground population instead of orderly inclusion."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 210.429,
+   "end_sec": 221.079,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "Albert, would you give citizenship to someone who knowingly ignored the same rules others followed, and if so, what remains fair to those waiting lawfully? Answer that before calling exclusion cruel."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 221.55,
+   "end_sec": 233.39,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Yes, after review, because fairness includes judging present conduct, not only an old entry. A parent who reports abuse can cooperate safely once protected; that proves citizenship paths strengthen accountability and community safety."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 232.77,
+   "end_sec": 235.41,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 234.249,
+   "end_sec": 246.27,
+   "dur_sec": 12.021,
+   "overlap": false,
+   "text": "I grant that people who have built families deserve humane treatment and clear procedures. But humane treatment can mean lawful residence without citizenship; turning unlawful presence-",
+   "ext_file": "L044_ext_a32.wav",
+   "cut_at_sec": 241.5,
+   "full_dur_sec": 13.16
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 242.77,
+   "end_sec": 252.13,
+   "dur_sec": 9.36,
+   "overlap": true,
+   "text": "We're going to move now into our closing round. Albert, you are answering yes to the question, and this is your time for your closing statement."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 252.33,
+   "end_sec": 272.61,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Our strongest point is accountability. A structured path brings people into the open, requires review and obligations, and lets families participate fully in the community. Daisy offered temporary legal residence, but permanent exclusion leaves people responsible without a real stake. Citizenship is not a reward for harm; it is a practical way to turn long-settled neighbors into accountable members."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 272.33,
+   "end_sec": 275.69,
+   "dur_sec": 3.36,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 272.81,
+   "end_sec": 284.01,
+   "dur_sec": 11.2,
+   "overlap": false,
+   "text": "Let people meet clear standards, step forward, and become full partners in the place they call home. That is the path I support. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 284.21,
+   "end_sec": 286.53,
+   "dur_sec": 2.32,
+   "overlap": false,
+   "text": "Daisy, you have the last word."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 286.73,
+   "end_sec": 305.39,
+   "dur_sec": 18.66,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether citizenship is a remedy for unlawful presence or the outcome of following a lawful process. We can treat people humanely and improve legal routes without erasing that distinction. That path changes rules for everyone waiting lawfully, so reject the motion. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 305.59,
+   "end_sec": 312.03,
+   "dur_sec": 6.44,
+   "overlap": false,
+   "text": "Thank you, Albert and Daisy, for a thoughtful debate, and thank you for joining us for this discussion."
+  }
+ ]
+}

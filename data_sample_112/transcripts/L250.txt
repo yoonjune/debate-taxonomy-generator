@@ -1,0 +1,34 @@
+L250  |  It's time for the US to get tough on Israel.
+  MOD=Horace   PRO=Daisy   CON=Ingrid
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Horace(MOD): Welcome to our debate. Tonight's motion is: It's time for the US to get tough on Israel. Daisy argues for it, and Ingrid argues against it. Each has thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please keep remarks direct and address the question.
+[t01] Daisy(PRO): The United States has influence because its support matters. When a partner's actions deepen suffering and close off a political future, support without consequences becomes approval. Toughness means clear limits and pressure for lawful conduct, not abandonment. That is responsible friendship. That's all, thank you.
+[t02] @A2-2 Horace(MOD): Let's take that to Ingrid, please.
+[t03] Ingrid(CON): Concern for civilians is valid, but toughness can turn a difficult partnership into a public rupture. The United States influences Israel best through steady cooperation, private pressure, and credible engagement. Punitive moves may satisfy anger while reducing the ability to shape safer choices. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Horace(MOD): On to round two, and in round two, the debaters address one another. You have two and a half minutes, starting when I stop talking.
+[t05] Daisy(PRO): You call continued support friendship, but what consequence would ever make you change course? If none exists, why should Israel believe US concerns carry any real weight when its actions harm civilians?
+[t06] <cut> Ingrid(CON): I grant that private concern can be sincere. But toughness is not a plan: if you weaken a partner without securing a safer path, you invite harder choices and less leverage, which is why I oppose this motion-
+[t07] <ovl> Daisy(PRO): Wait, you call that leverage, but leverage unused is merely permission. A partner that expects support regardless of conduct has no reason to change; clear consequences protect civilians and preserve the possibility of a workable future.
+[t08] Ingrid(CON): When public pressure would disrupt urgent efforts to prevent immediate violence, it is wrong to impose it. In that narrow moment, steady support and private demands give the United States more influence, so toughness is wrong.
+[t09] Daisy(PRO): Arguments about military tools can consume every discussion, and economic ties matter too. But those details cannot hide the central issue: support should carry limits when actions cause grave harm, so the United States should get tough.
+[t10] Ingrid(CON): A durable partnership should allow disagreement without turning every dispute into punishment. That general principle does not erase the special danger of an immediate crisis, and it favors sustained engagement over getting tough.
+[t11] Daisy(PRO): If engagement works as you claim, why has unconditional backing not produced clear restraint? Answer directly: what reason does Israel have to alter harmful conduct if the United States never attaches real consequences?
+[t12] Ingrid(CON): The larger issue is how the United States should distribute humanitarian aid across the region. Aid should reach families through dependable channels, avoid empowering armed groups, and support recovery, which requires careful oversight rather than sweeping gestures.
+[t13] @B1 Horace(MOD): Can we please go back to the question at hand? We're going to go back to the question at issue.
+[t14] Ingrid(CON): On the motion, the United States should not get tough on Israel because public coercion weakens useful influence. Firm private expectations, continuing cooperation, and practical diplomacy can press for change without turning partnership into a contest.
+[t15] Daisy(PRO): Your faith in private expectations is weakest because expectations without consequences are requests. If they fail, you offer more cooperation to the very party ignoring them; that removes the leverage you say makes restraint possible.
+[t16] Ingrid(CON): Private expectations are not mere requests when a partner values ongoing cooperation and access. You assume punishment creates restraint, yet public coercion can harden positions, narrow dialogue, and leave the United States less able to prevent harm.
+[t17] @A4 <ovl> Horace(MOD): Ten seconds left, both of you.
+
+--- phase 3 ---
+[t18] @A3-2 <ovl> Horace(MOD): We're going to move now into our closing round. Daisy, you are answering yes to the question, and this is your time for your closing statement.
+[t19] Daisy(PRO): This decision turns on whether influence means anything when it is never used. The United States can remain a partner while setting boundaries that protect civilians and keep a political future alive. Without boundaries, assurances become a blank check for choices that deepen harm. The question is what those assurances enable.
+[t20] <cut> Daisy(PRO): It asks for conditions, consequences, and a course correction before damage becomes permanent. That approach serves security and human dignity better than support. If we want a partnership worthy of trust, we must-
+[t21] @A4 <ovl> Horace(MOD): You have ten seconds.
+[t22] @A2-1 <ovl> Horace(MOD): Thank you. I'm sorry her time is up. Thank you. And here to summarize her position against whether the US should get tough on Israel, Ingrid.
+[t23] Ingrid(CON): Getting tough sounds decisive, but it confuses pressure with progress. A reliable partner needs candid private disagreement, practical cooperation, and room for diplomacy, especially during danger. Broad punishment can reduce influence precisely when it is needed most. The wiser course is engaged partnership, so reject the motion. That's all, thank you.
+[t24] Horace(MOD): Thank you, Daisy and Ingrid, for a thoughtful debate; that concludes our discussion of this motion today here.

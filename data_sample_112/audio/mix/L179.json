@@ -1,0 +1,432 @@
+{
+ "debate_id": "L090",
+ "motion": "Prohibit genetically engineered babies.",
+ "speakers": {
+  "MOD": {
+   "name": "Rachel",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0929_326",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0929/MSP-PODCAST_0929_326.wav",
+   "wpm": 180.84
+  },
+  "PRO": {
+   "name": "Ross",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6504_583",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6504/MSP-PODCAST_6504_583.wav",
+   "wpm": 171.06
+  },
+  "CON": {
+   "name": "Carla",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4100_1134",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4100/MSP-PODCAST_4100_1134.wav",
+   "wpm": 166.01
+  }
+ },
+ "selective": [
+  "A1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 98.89,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 310.56,
+ "ext": {
+  "a32": {
+   "file": "L090_ext_a32.wav",
+   "place_at_sec": 238.506,
+   "dur_sec": 25.77,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Your 'carefully limited' point assumes limits can remain stable when parents, clinics, and sellers all benefit from expanding them. Rules creep from prevention toward preference. That enforcement problem is why prohibition, not permission, protects children."
+  },
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "How would your ban handle an alteration sought only to prevent a painful inherited condition, while leaving no genetic preference involved? What humane answer do you offer that family under your rule?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.32,
+   "dur_sec": 20.32,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, prohibit genetically engineered babies. Ross supports the motion, and Carla opposes it. Each speaker has thirty seconds for an opening statement, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue, and I ask both speakers to address each other fairly today."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.52,
+   "end_sec": 40.8,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Genetically engineered babies would turn early human life into a design project. Parents may begin with care, yet markets and fear can turn ordinary traits into demands. A child deserves room to arrive without being selected for a preferred body or temperament. Once clinics sell these choices, social pressure will make refusal feel reckless."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.52,
+   "end_sec": 41.89,
+   "dur_sec": 1.37,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.0,
+   "end_sec": 51.87,
+   "dur_sec": 10.87,
+   "overlap": false,
+   "text": "That pressure is why public rules must protect every future child from being treated as a customized outcome. The safest boundary is a clear public prohibition. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 52.07,
+   "end_sec": 53.6,
+   "dur_sec": 1.53,
+   "overlap": false,
+   "text": "Okay. Carla, you're in."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.8,
+   "end_sec": 73.37,
+   "dur_sec": 19.57,
+   "overlap": false,
+   "text": "A total ban treats every possible use as though it were vanity. Some parents could seek an alteration to spare a future child a severe inherited illness. We should regulate risky clinics, require review, and protect children from pressure. But taking every option away also takes a family's chance to prevent avoidable suffering."
+  },
+  {
+   "i": 6,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 73.57,
+   "end_sec": 87.3,
+   "dur_sec": 13.73,
+   "overlap": false,
+   "text": "Ross says pressure makes choice impossible, but careful rules can punish coercion and preserve consent. We can distinguish medical decisions from perfection demands, and a blanket ban would deny families help-",
+   "cut_at_sec": 83.03,
+   "full_dur_sec": 14.64,
+   "ext_file": "L090_007.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 73.8,
+   "end_sec": 75.04,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 84.3,
+   "end_sec": 85.9,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 86.1,
+   "end_sec": 100.96,
+   "dur_sec": 14.86,
+   "overlap": false,
+   "text": "And that concludes opening statements. Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 101.16,
+   "end_sec": 112.56,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Your consent point misses the child, who cannot agree to a permanent change made for parental goals. Regulation can police a clinic, but it cannot erase expectations built into a designed birth."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 113.395,
+   "end_sec": 123.885,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "If a parent can choose a trait thought to improve status, what stops employers and neighbors from rewarding that choice? Please explain how your ban actually prevents those secret demands."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 124.113,
+   "end_sec": 137.193,
+   "dur_sec": 13.08,
+   "overlap": false,
+   "text": "Imagine a child engineered for unusual height because parents fear social disadvantage. At school, every setback becomes proof that the child failed a purchased promise. That shows design invites burdens no child chose, so prohibition protects them."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 137.566,
+   "end_sec": 150.696,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "Families also face high costs, confusing paperwork, and unequal health care before any genetic choice. Those problems matter, but the motion is about prohibition. A carefully reviewed intervention may prevent suffering, so a ban is too blunt."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 151.143,
+   "end_sec": 164.423,
+   "dur_sec": 13.28,
+   "overlap": false,
+   "text": "When an alteration is intended to meet parental preference rather than treat a grave illness, the child becomes a product of adult anxiety. Under that condition, no safeguard can make the imposed identity fair, so prohibition is justified."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 165.152,
+   "end_sec": 177.402,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "I agree that status competition can pressure parents, and clinics should never market traits as social upgrades. But Ross's condition leaves room for illness prevention, which is exactly why a total prohibition sacrifices compassionate care."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 178.141,
+   "end_sec": 190.581,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Your illness-prevention point assumes engineering is the only compassionate response. It is not: care can support children with inherited conditions without giving parents power to set biological specifications. Compassion needs limits, and prohibition supplies one."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 190.991,
+   "end_sec": 201.671,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "If a future child faces a grave inherited illness that an alteration could prevent, why force that family to accept it? Please explain why your prohibition is kinder than prevention."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.17,
+   "end_sec": 213.29,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "No child should be engineered to satisfy adult plans, because redesigning inheritance makes acceptance conditional. Society should protect children as persons before it treats their bodies as solutions to adult fears."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.025,
+   "end_sec": 227.155,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "Your phrase 'adult plans' is the weakest part of your case. Preventing a severe illness is not making acceptance conditional; it is protecting a child's future freedom from pain. Calling that redesign turns care into something shameful."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 227.6,
+   "end_sec": 239.8,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "No, forcing illness is not kinder, but prohibition need not force illness because treatment after birth and non-engineering choices remain. Your prevention claim falsely makes genetic design the sole path to compassion and safety."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 240.576,
+   "end_sec": 253.706,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "I accept that genetic design is not the only response, and families need counseling about alternatives. But denying every carefully limited preventive use replaces their judgment with a blanket rule, which is-",
+   "ext_file": "L090_ext_a32.wav",
+   "cut_at_sec": 249.69,
+   "full_dur_sec": 13.13
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 240.96,
+   "end_sec": 242.2,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 250.96,
+   "end_sec": 259.32,
+   "dur_sec": 8.36,
+   "overlap": true,
+   "text": "And that's time. We need to move into our closing round. Ross, you are up first with that, as you were at the beginning."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.52,
+   "end_sec": 278.22,
+   "dur_sec": 18.7,
+   "overlap": false,
+   "text": "Carla's strongest point is preventing illness, and that wish is humane. But inherited redesign gives adults authority over a child and invites markets to stretch every exception. We can support families and treat illness without creating birth rights. Prohibition keeps the child's dignity ahead of control. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 278.42,
+   "end_sec": 280.62,
+   "dur_sec": 2.2,
+   "overlap": false,
+   "text": "It's Carla's turn to talk."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 280.82,
+   "end_sec": 290.51,
+   "dur_sec": 9.69,
+   "overlap": false,
+   "text": "Ross rightly worries about markets and pressure. Yet those dangers call for strict limits, not a ban that removes a possible protection against inherited illness."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 289.61,
+   "end_sec": 291.91,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But strict limits always fail once families-",
+   "cut_at_sec": 287.54,
+   "full_dur_sec": 9.12,
+   "ext_file": "L090_029.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 291.11,
+   "end_sec": 292.63,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "Ross, please. Thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 292.83,
+   "end_sec": 302.52,
+   "dur_sec": 9.69,
+   "overlap": false,
+   "text": "That is not a safe answer. Families deserve support, counseling, and tightly supervised care, rather than a rule that assumes every genetic intervention is a designer demand."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 300.82,
+   "end_sec": 302.42,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 302.72,
+   "end_sec": 310.53,
+   "dur_sec": 7.81,
+   "overlap": false,
+   "text": "Regulate genuine medical prevention, protect children from pressure, and reject this sweeping prohibition instead. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 310.73,
+   "end_sec": 316.97,
+   "dur_sec": 6.24,
+   "overlap": false,
+   "text": "Thank you, Ross and Carla, for a thoughtful debate. This concludes our discussion of the motion. Good night."
+  }
+ ]
+}

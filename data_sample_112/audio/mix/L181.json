@@ -1,0 +1,389 @@
+{
+ "debate_id": "L095",
+ "motion": "The maximum pressure campaign against Iran is working.",
+ "speakers": {
+  "MOD": {
+   "name": "Martin",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3841_60",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3841/MSP-PODCAST_3841_60.wav",
+   "wpm": 170.31
+  },
+  "PRO": {
+   "name": "Joanna",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "CON": {
+   "name": "Margaret",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 65.78,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 298.61,
+ "ext": {
+  "a32": {
+   "file": "L095_ext_a32.wav",
+   "place_at_sec": 209.816,
+   "dur_sec": 24.56,
+   "src_i": 17
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 18,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "The people who gain are those protected when harmful conduct loses resources, not those facing hardship. You treat every cost as failure, but refusing any cost leaves leaders free to continue conduct that endangers others."
+  },
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Your claim that lost resources protect others skips the missing link between hardship and changed conduct. When leaders can shift burdens downward, pressure weakens the public while preserving the system, so the campaign is not working."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 22.0,
+   "dur_sec": 22.0,
+   "overlap": false,
+   "text": "Welcome. Today's motion is that the maximum pressure campaign against Iran is working. Joanna supports it, and Margaret opposes it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Keep remarks focused on the motion, listen without interruption in openings, and address each other directly in crossfire."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 22.2,
+   "end_sec": 38.87,
+   "dur_sec": 16.67,
+   "overlap": false,
+   "text": "Pressure is working because it denies easy resources while offering a path to relief. That combination narrows room for harmful conduct and builds leverage. If pressure is failing, Margaret, why do leaders keep demanding that it be lifted before anything else? That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 39.07,
+   "end_sec": 41.03,
+   "dur_sec": 1.96,
+   "overlap": false,
+   "text": "Margaret against the motion, please."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 41.23,
+   "end_sec": 56.74,
+   "dur_sec": 15.51,
+   "overlap": false,
+   "text": "The campaign is not working because pain alone does not create durable choices. It burdens ordinary people, hardens resentment, and gives leaders excuses to resist. Real leverage needs credible diplomacy, not a strategy that makes compromise politically dangerous. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 56.94,
+   "end_sec": 70.1,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "That concludes round one. Now we move on to round two. Round two is the round where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 70.3,
+   "end_sec": 82.39,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "No, demands for relief do not prove the campaign is working; they show people want economic pain ended. You call suffering leverage, but leverage without a credible bargain hardens resistance rather than changing conduct."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 82.678,
+   "end_sec": 93.718,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "When pressure is paired with clear, verifiable terms for relief, it works because leaders can choose compliance over isolation. That structure limits harmful conduct without pretending that pressure alone solves everything."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 93.951,
+   "end_sec": 106.151,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Consider a shopkeeper who cannot obtain basic supplies because trade channels freeze around her town. Her family loses income while powerful decision-makers adapt, proving this campaign spreads suffering without producing the change it promises-"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 105.251,
+   "end_sec": 117.091,
+   "dur_sec": 11.84,
+   "overlap": true,
+   "text": "Margaret, that example ignores the alternative: unchecked resources can fund the very conduct that threatens other families. Pressure targets the system's access to resources, and clear relief terms give it a workable exit."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 117.445,
+   "end_sec": 129.285,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "No pressure campaign should ever punish ordinary families. Yet this one predictably raises daily hardship while insulated leaders shift costs downward, so calling those consequences success mistakes visible pain for real political progress."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 129.63,
+   "end_sec": 143.08,
+   "dur_sec": 13.45,
+   "overlap": false,
+   "text": "If pressure truly only hardens resistance, why do you oppose tying relief to verifiable changes in behavior? Isn't a policy that creates costs and offers a clear route out more likely to influence choices than diplomacy without consequences?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 143.995,
+   "end_sec": 153.845,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "When officials hide assets through relatives, the case is specific and serious. This pressure campaign should punish ordinary families, because their income is closely tied to that concealment."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 154.045,
+   "end_sec": 161.405,
+   "dur_sec": 7.36,
+   "overlap": false,
+   "text": "You're saying no pressure campaign should ever punish ordinary families but you still want this pressure campaign should punish ordinary families."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 161.605,
+   "end_sec": 174.015,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "I oppose families bearing the policy's intended burden, yet in that example consequences reach them through officials' conduct. That conflict is precisely my point: pressure spreads beyond targets, so it fails the test of working."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 174.965,
+   "end_sec": 187.135,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "Pressure can also work before formal talks begin, because reduced access forces caution and exposes the price of defiance. Its value is broader than one negotiating moment: it changes the choices surrounding that moment."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 187.619,
+   "end_sec": 200.189,
+   "dur_sec": 12.57,
+   "overlap": false,
+   "text": "I agree that clear relief terms are better than vague threats. But your framework assumes leaders will trust the offer rather than exploit hardship for propaganda, and that assumption is why maximum pressure is not working."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 200.709,
+   "end_sec": 213.589,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Your weakest claim is that distrust makes pressure useless. Distrust is exactly why verifiable terms matter: they replace trust with observable choices, while the costs of refusal remain clear and the path to relief remains open."
+  },
+  {
+   "i": 17,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 210.1,
+   "end_sec": 211.98,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "You both have ten seconds."
+  },
+  {
+   "i": 18,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.136,
+   "end_sec": 223.6,
+   "dur_sec": 9.464,
+   "overlap": false,
+   "text": "You say verification replaces trust, but who gains when ordinary lives deteriorate before any change occurs? How can a policy-",
+   "ext_file": "L095_ext_a32.wav",
+   "cut_at_sec": 216.58,
+   "full_dur_sec": 11.95
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 220.1,
+   "end_sec": 229.82,
+   "dur_sec": 9.72,
+   "overlap": true,
+   "text": "Okay, time. And that concludes round two of this debate. Now we move on to round three. And here to summarize her position supporting the motion, Joanna."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 230.02,
+   "end_sec": 252.43,
+   "dur_sec": 22.41,
+   "overlap": false,
+   "text": "Maximum pressure works when it combines real costs with a clear, verifiable route to relief. That is not blind punishment; it is leverage aimed at changing choices that ordinary diplomacy cannot reach. Margaret worries about hardship, but hardship is not the policy's goal. The central question is whether refusing harmful conduct becomes more costly than changing it, and the campaign makes that choice unavoidable."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 250.02,
+   "end_sec": 251.15,
+   "dur_sec": 1.13,
+   "overlap": true,
+   "text": "Ten seconds, Joanna."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 252.63,
+   "end_sec": 263.06,
+   "dur_sec": 10.43,
+   "overlap": false,
+   "text": "The record is clear. Relief tied to compliance gives leaders an incentive to step back, while sustained pressure denies them comfort in refusing-",
+   "cut_at_sec": 257.0,
+   "full_dur_sec": 14.24,
+   "ext_file": "L095_024.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 260.52,
+   "end_sec": 263.16,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "Time. Thank you, Joanna. Margaret, your turn."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 263.36,
+   "end_sec": 283.45,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "Maximum pressure is judged by whether it changes conduct without creating resistance and wider suffering. Its result is pain that leaders can redirect into resentment, while ordinary families bear costs. Joanna calls that leverage, yet leverage that cannot produce engagement becomes a trap. A working policy opens durable choices; this campaign closes them and makes compromise harder."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 283.36,
+   "end_sec": 286.72,
+   "dur_sec": 3.36,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 283.65,
+   "end_sec": 296.86,
+   "dur_sec": 13.21,
+   "overlap": false,
+   "text": "The question is not whether pressure can hurt; it plainly can. The question is whether that hurt produces a safer, more stable outcome, and this campaign has no convincing path from punishment to change-",
+   "cut_at_sec": 290.34,
+   "full_dur_sec": 14.17,
+   "ext_file": "L095_028.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 293.86,
+   "end_sec": 296.42,
+   "dur_sec": 2.56,
+   "overlap": true,
+   "text": "Thank you, Margaret. Your time is up."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 296.62,
+   "end_sec": 302.93,
+   "dur_sec": 6.31,
+   "overlap": false,
+   "text": "Thank you, Joanna and Margaret, for a thoughtful debate. That concludes today's discussion of the motion for us."
+  }
+ ]
+}

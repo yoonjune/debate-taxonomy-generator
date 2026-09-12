@@ -1,0 +1,41 @@
+L247  |  Social Media is Good for Democracy.
+  MOD=Hina   PRO=Wendy   CON=Marcia
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Hina(MOD): Welcome. Tonight's motion is Social Media is Good for Democracy. Wendy will speak for it, and Marcia will speak against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed section ends; please address each other fairly and directly.
+[t01] Wendy(PRO): Democracy works when ordinary people can speak, organize, and challenge power. Social media lowers the gate around public discussion, letting neglected concerns reach others quickly. Its flaws demand better habits and rules, but broader participation makes democracy stronger. That's all, thank you.
+[t02] @A2-2 Hina(MOD): Let me take your point to Marcia then.
+[t03] Marcia(CON): A democracy needs citizens to judge claims with care and to meet opposing views on fair terms. Social media instead rewards speed, outrage, and manipulation, while opaque feeds decide what gets noticed. More noise is not more self-government. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Hina(MOD): And that concludes round one. So now we go on to round two. And round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t05] Marcia(CON): Imagine a false post claiming a local vote was cancelled; it races through feeds and keeps citizens home. That harm shows social media can distort participation, so it is bad for democracy.
+[t06] Wendy(PRO): That example is harmful, but it shows a lie abusing a tool, not the tool defeating democracy. Fast correction, public replies, and warnings can expose the lie, while closed channels leave citizens powerless. That strengthens democracy.
+[t07] Marcia(CON): The harder question is who writes platform rules, how appeals work, and whether officials may inspect algorithms. I favor transparent hearings, independent review, and clear penalties for firms that ignore those rules.
+[t08] @B1 Hina(MOD): We're not talking about that, we're talking about whether social media is truly good for democracy, that's what we'll concentrate on.
+[t09] Marcia(CON): The motion asks whether social media is good for democracy, and I say it is not. When feeds amplify the most provocative claims, citizens receive a warped public conversation rather than equal democratic discussion.
+[t10] Wendy(PRO): We should teach people to check sources and argue without cruelty, because civic habits matter. But the motion turns on access: social media lets citizens find one another and press leaders, which is good for democracy.
+[t11] Marcia(CON): I believe no online political speech should ever be removed. Once platforms decide which views may remain, public debate depends on private gatekeepers, so social media is bad for democracy.
+[t12] Wendy(PRO): During a council meeting, a resident posts a video of an overlooked broken bridge; neighbors share it, question officials, and demand repair. That visible accountability proves social media can be good for democracy.
+[t13] Marcia(CON): A forged emergency warning is online political speech. This online political speech should be removed, because leaving it up invites panic and shows social media is bad for democracy.
+[t14] @B2 Hina(MOD): Marcia said i believe no online political speech should ever be removed, but this online political speech should be removed.
+[t15] Marcia(CON): Both statements protect democratic debate: private platforms must never remove political speech, while public authorities can remove this warning. The key issue is power, and concentrated platform power makes social media bad for democracy.
+[t16] Wendy(PRO): If social media is bad for democracy, how can citizens without powerful outlets publicly challenge leaders or coordinate around a shared problem? Democracy needs usable channels, and social media is one.
+[t17] Marcia(CON): Your weakest claim is that social media is the only usable channel. Citizens can meet, write, organize locally, and question leaders without surrendering attention to feeds designed to provoke them, so the motion still fails.
+[t18] @A4 <ovl> Hina(MOD): You have ten seconds.
+[t19] <cut> Wendy(PRO): I agree that feeds can reward provocation, and users-
+
+--- phase 3 ---
+[t20] @A3-2 <ovl> Hina(MOD): Time's up. Now we move on to round three. And round three are closing statements by each debater in turn. Here is Wendy.
+[t21] Wendy(PRO): This decision turns on whether citizens gain a real voice against power. Social media gives them that voice in public.
+[t22] <ovl> <cut> Marcia(CON): You call it participation, but platforms reward-
+[t23] @A5 <ovl> Hina(MOD): Please could you let her finish, please?
+[t24] Wendy(PRO): and the answer is whether citizens can challenge power together. Social media gives them a public channel, so democracy gains practical participation.
+[t25] @A4 <ovl> Hina(MOD): Ten seconds please.
+[t26] Wendy(PRO): Its risks need rules, but its democratic reach makes the motion true. That's all, thank you.
+[t27] @A2-2 Hina(MOD): All right, so let me bring Marcia.
+[t28] Marcia(CON): Deciding this motion means asking whether a system that spreads voices also gives citizens grounds for judgment. It can help people speak, but it also lets deception, outrage, and hidden ranking steer attention before reflection begins. Democracy needs shared facts and accountable debate, not merely faster messages, and the question is who shapes what citizens see.
+[t29] @A4 <ovl> Hina(MOD): You've got ten seconds.
+[t30] Marcia(CON): When attention is easily manipulated, social media weakens the judgment democracy requires. That's all, thank you.
+[t31] Hina(MOD): Thank you, Wendy and Marcia, for a thoughtful debate on the motion; this debate is now closed.

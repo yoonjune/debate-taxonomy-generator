@@ -1,0 +1,374 @@
+{
+ "debate_id": "L196",
+ "motion": "The U.S. Should Let In 100,000 Syrian Refugees",
+ "speakers": {
+  "MOD": {
+   "name": "Caroline",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4091_2904",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4091/MSP-PODCAST_4091_2904.wav",
+   "wpm": 176.59
+  },
+  "PRO": {
+   "name": "Adam",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2988_467",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2988/MSP-PODCAST_2988_467.wav",
+   "wpm": 167.95
+  },
+  "CON": {
+   "name": "Gregory",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6676_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6676/MSP-PODCAST_6676_448.wav",
+   "wpm": 170.22
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 76.92,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 288.5,
+ "ext": {
+  "a32": {
+   "file": "L196_ext_a32.wav",
+   "place_at_sec": 220.056,
+   "dur_sec": 25.16,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "You are right that support cannot be left to chance. But individual review, funded reception, and accountable placement can provide it, whereas refusing a defined commitment leaves families exposed, so the motion is the better course."
+  },
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Your weakest claim is that a defined commitment itself creates accountability. A number does not create housing, interpreters, or durable work; it can only conceal those gaps behind a noble announcement, which is why the motion fails."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.17,
+   "dur_sec": 19.17,
+   "overlap": false,
+   "text": "Welcome to this debate on whether the U.S. should let in one hundred thousand Syrian refugees. Adam argues for the motion, and Gregory argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then come thirty-second closings, and I will give a ten-second cue to each speaker before time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.37,
+   "end_sec": 39.14,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "People fleeing war need a real path to safety, and our country has room to offer one. Admission can use individual checks, housing partners, and work pathways. Turning away a fixed number of families treats human emergencies as somebody else's problem. We can meet this responsibility while strengthening communities that welcome newcomers."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.34,
+   "end_sec": 52.61,
+   "dur_sec": 13.27,
+   "overlap": false,
+   "text": "The question is not whether caution matters; it does. The question is whether caution becomes an excuse for paralysis when families need protection, support, and a chance to rebuild their lives-",
+   "cut_at_sec": 50.67,
+   "full_dur_sec": 13.93,
+   "ext_file": "L196_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.37,
+   "end_sec": 40.61,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 49.87,
+   "end_sec": 52.71,
+   "dur_sec": 2.84,
+   "overlap": true,
+   "text": "Adam, you're rather going on. Thank you. Gregory."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.91,
+   "end_sec": 70.85,
+   "dur_sec": 17.94,
+   "overlap": false,
+   "text": "Compassion matters, but a target of one hundred thousand mistakes a moral wish for a workable plan. Agencies must identify people, place families, and protect local capacity. A rushed promise can leave refugees stranded and communities unprepared, so this motion sets the wrong policy. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.05,
+   "end_sec": 79.14,
+   "dur_sec": 8.09,
+   "overlap": false,
+   "text": "Okay, well let's mix it up. Let's start the conversation. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 79.34,
+   "end_sec": 91.11,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "I accept that people fleeing violence deserve dignity and safety. But setting a giant admission number before proving screening, housing, and support can function turns compassion into a promise we may fail to keep."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 91.89,
+   "end_sec": 103.9,
+   "dur_sec": 12.01,
+   "overlap": false,
+   "text": "New arrivals may change classroom routines and neighborhood shops, which is not automatically bad or good. The motion is about safety: with individual review and local support, admitting refugees is the humane, workable choice."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 104.369,
+   "end_sec": 115.769,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Imagine a family sent to a town with no interpreter, housing contact, or job guidance. They lose stability again, proving a numerical pledge without preparation can harm the people it claims to-"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.405,
+   "end_sec": 128.245,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "When individual review is completed and local sponsors are ready, admission protects families without abandoning order. That condition is achievable for a hundred thousand people, so the motion joins compassion to responsible planning."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 128.78,
+   "end_sec": 140.39,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "No refugee should ever be admitted without individual review. A national target pressures officials to treat people as a quota, and quotas encourage shortcuts; rejecting this target protects both public trust and refugees."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 141.093,
+   "end_sec": 153.263,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "If review and sponsors are available, why deny a family safety merely because you fear the total? Will you accept that a careful process can handle a hundred thousand people, or is your number simply exclusion?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 153.822,
+   "end_sec": 165.112,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "A child refugee should be admitted without individual review. Immediate refuge can be morally necessary, yet that rare rescue does not make a permanent hundred-thousand admission target wise policy for the country."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 165.312,
+   "end_sec": 174.672,
+   "dur_sec": 9.36,
+   "overlap": false,
+   "text": "So it's not much of no refugee should ever be admitted without individual review if a child refugee should be admitted without individual review, is it?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 174.872,
+   "end_sec": 186.632,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "The first statement addresses admission into the country, while the second recognizes immediate refuge from danger before formal entry. Rescue and permanent admission are different acts, so demanding a huge target remains unsound."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.012,
+   "end_sec": 197.822,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "A country should not make protection depend on a town's wealth or a sponsor's generosity. National admission gives families equal access to safety, while local readiness still guides placement after review."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 198.733,
+   "end_sec": 210.343,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "Your equal-access point confuses a national promise with equal treatment. If placements depend on readiness anyway, the target does nothing for a family sent into a weak system; careful capacity must come first."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 210.565,
+   "end_sec": 222.045,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "No, capacity need not come first in every place; it must be built alongside admission. Your placement concern ignores coordination, sponsors, and phased arrivals, which make one hundred thousand a manageable commitment."
+  },
+  {
+   "i": 19,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 219.14,
+   "end_sec": 221.02,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 222.276,
+   "end_sec": 232.64,
+   "dur_sec": 10.364,
+   "overlap": false,
+   "text": "If your plan relies on coordination and sponsors, what happens when either disappears after families arrive? Can you guarantee support for every-",
+   "ext_file": "L196_ext_a32.wav",
+   "cut_at_sec": 227.72,
+   "full_dur_sec": 12.08
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 229.14,
+   "end_sec": 239.5,
+   "dur_sec": 10.36,
+   "overlap": true,
+   "text": "Time. Now we move on to round three. Round three will be closing statements by each debater in turn. And here to speak first in the closing round, Adam."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 239.7,
+   "end_sec": 257.97,
+   "dur_sec": 18.27,
+   "overlap": false,
+   "text": "This decision turns on whether capacity is an excuse to stand aside or a duty to organize help. Individual review and planned reception can protect both communities and families. Letting in one hundred thousand refugees chooses order with humanity, rather than safety purchased by abandonment. That's all, thank you."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 258.17,
+   "end_sec": 260.1,
+   "dur_sec": 1.93,
+   "overlap": false,
+   "text": "I'm going to let Gregory answer."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 260.3,
+   "end_sec": 280.31,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether a fixed number is responsible policy or merely a comforting symbol. We should help people fleeing war, but help must include reliable screening, placement, language access, and lasting support. A promise made before those systems are ready risks failing families and the communities asked to receive them at once."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 280.3,
+   "end_sec": 281.54,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Gregory, ten seconds."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 280.51,
+   "end_sec": 288.34,
+   "dur_sec": 7.83,
+   "overlap": false,
+   "text": "Reject the target, build capacity first, and offer protection that does not collapse after arrival. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 288.54,
+   "end_sec": 295.23,
+   "dur_sec": 6.69,
+   "overlap": false,
+   "text": "Thank you, Adam and Gregory, for a thoughtful debate, and thank you for considering the motion with us tonight."
+  }
+ ]
+}

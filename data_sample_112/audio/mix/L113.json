@@ -1,0 +1,445 @@
+{
+ "debate_id": "L001",
+ "motion": "Happiness is doing good rather than feeling good.",
+ "speakers": {
+  "MOD": {
+   "name": "Oliver",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  },
+  "PRO": {
+   "name": "Joanne",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "CON": {
+   "name": "Alice",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 94.88,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 309.97,
+ "ext": {
+  "a32": {
+   "file": "L001_ext_a32.wav",
+   "place_at_sec": 231.592,
+   "dur_sec": 35.57,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Your teaching a child point shows a moving possibility, not a definition. The volunteer is happy only if she feels pride or connection; without those feelings, the act remains good but not happiness."
+  },
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Yes, feelings such as pride can accompany that work, but they matter because they answer to something valuable. Your definition cannot distinguish contentment from empty distraction, so doing good remains the better measure."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.08,
+   "dur_sec": 16.08,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is: happiness is doing good rather than feeling good. Joanne argues for it, and Alice argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.28,
+   "end_sec": 36.13,
+   "dur_sec": 19.85,
+   "overlap": false,
+   "text": "Happiness lasts when it is tied to a life we can respect. Feeling good can arrive from comfort, praise, or escape, yet none requires us to matter to anyone else. Doing good joins our wellbeing to another person's real need. That gives happiness weight, direction, and a reason to endure."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 36.28,
+   "end_sec": 37.16,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 36.33,
+   "end_sec": 49.78,
+   "dur_sec": 13.45,
+   "overlap": false,
+   "text": "I am not saying pleasure is worthless. A warm meal or a laugh can brighten a day, but brightness alone is fragile. When you help someone carry a burden, the satisfaction-",
+   "cut_at_sec": 47.58,
+   "full_dur_sec": 13.85,
+   "ext_file": "L001_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 46.78,
+   "end_sec": 50.78,
+   "dur_sec": 4.0,
+   "overlap": true,
+   "text": "Joanne, I have to stop you, that's time. Alice, go ahead."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 50.98,
+   "end_sec": 70.64,
+   "dur_sec": 19.66,
+   "overlap": false,
+   "text": "Joanne treats happiness as a moral prize, but happiness is an experience, not a report card. Doing good may bring satisfaction, yet it can also bring exhaustion, resentment, or grief. Feeling good is not shallow; it is the very state people mean by happiness. Good action matters, but it cannot replace."
+  },
+  {
+   "i": 6,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 70.84,
+   "end_sec": 84.48,
+   "dur_sec": 13.64,
+   "overlap": false,
+   "text": "Feeling good includes peace, connection, curiosity, and relief. You keep calling joy fragile, as if a kind act automatically creates happiness, but someone can do everything right while feeling empty-",
+   "cut_at_sec": 82.28,
+   "full_dur_sec": 14.16,
+   "ext_file": "L001_007.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 70.98,
+   "end_sec": 74.7,
+   "dur_sec": 3.72,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 81.48,
+   "end_sec": 83.08,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 83.28,
+   "end_sec": 94.88,
+   "dur_sec": 11.6,
+   "overlap": false,
+   "text": "And that concludes round one. Now, on to round two. This is where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 95.08,
+   "end_sec": 106.21,
+   "dur_sec": 11.13,
+   "overlap": false,
+   "text": "Imagine you spend an evening listening to a lonely neighbor and arranging help. The relief is not just a pleasant mood; you repaired a human bond, proving doing good creates deeper happiness."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 107.196,
+   "end_sec": 117.266,
+   "dur_sec": 10.07,
+   "overlap": false,
+   "text": "Your repaired human bond point confuses a worthy act with happiness itself. The neighbor may benefit while you feel drained, so the good act proves morality, not your happiness."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 118.222,
+   "end_sec": 129.672,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "No, exhaustion does not erase the fulfillment that can follow meaningful service; your example only separates a momentary mood from a whole life. You reduce happiness to sensation, leaving it without purpose."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 129.879,
+   "end_sec": 140.179,
+   "dur_sec": 10.3,
+   "overlap": false,
+   "text": "Your weakest claim is that purpose makes a feeling less central. A whole life is still lived through experience; if service brings only misery, calling it happiness empties the word."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 140.612,
+   "end_sec": 151.262,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "I agree that a good deed can feel burdensome in the moment. But your main test makes any pleasant escape happiness, while doing good builds a life that is worthy of-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.136,
+   "end_sec": 163.346,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "When a person is coerced into helping, doing good may not make her happy, because agency is missing. Happiness depends on how life feels to the person, not merely what she does."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 164.093,
+   "end_sec": 175.943,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "Consider someone who regularly checks on an isolated relative, even when it is inconvenient. She gains trust, gratitude, and a sense that her days count; that lasting belonging shows happiness grows through doing good."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 176.735,
+   "end_sec": 187.855,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Your lasting belonging point assumes gratitude will arrive and that duty feels rewarding. The relative may stay distant, while the helper becomes depleted; outcomes cannot redefine happiness away from feeling good."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 188.602,
+   "end_sec": 199.412,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "No, gratitude is not required for the helper's life to have meaning; the premise that happiness needs a rewarding outcome is false. You make happiness dependent on luck instead of character."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 199.632,
+   "end_sec": 209.562,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "People can find happiness in play, rest, friendship, achievement, and care for others. None of these requires moral usefulness, because happiness names the felt quality of a life."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 209.769,
+   "end_sec": 220.419,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "I grant that rest and friendship can genuinely delight us. But they become fuller when they connect us beyond ourselves; your view protects private comfort, while doing good makes happiness substantial."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 221.167,
+   "end_sec": 230.697,
+   "dur_sec": 9.53,
+   "overlap": false,
+   "text": "If you help someone for years and feel only dread, grief, and resentment, where is the happiness? Why should the deed outrank the person's own lived experience?"
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 231.592,
+   "end_sec": 243.682,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "The happiness lies in the relationship and purpose, though dread may signal that support is needed. A volunteer teaching a child to read sees confidence grow, proving good action can anchor happiness beyond passing comfort.",
+   "ext_file": "L001_ext_a32.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 234.88,
+   "end_sec": 237.12,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "Ten seconds, and then closing statements."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 244.88,
+   "end_sec": 254.16,
+   "dur_sec": 9.28,
+   "overlap": true,
+   "text": "Time's up. Now, we move on to round three, and round three are closing statements by each debater in turn. And making her closing statement, Joanne."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 254.36,
+   "end_sec": 271.75,
+   "dur_sec": 17.39,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether happiness is merely passing inner weather or a life made meaningful through our choices. Feelings matter, but they are unstable and can mislead. Doing good connects happiness to purpose, relationships, and a self we can stand behind. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 271.95,
+   "end_sec": 274.51,
+   "dur_sec": 2.56,
+   "overlap": false,
+   "text": "All right, so let me bring Alice."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 274.71,
+   "end_sec": 284.75,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "Doing good is admirable, but Joanne's best point confuses a meaningful life with a happy one. Meaning cannot make misery feel like happiness, because."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 283.85,
+   "end_sec": 286.15,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But a life cannot be judged by a single bad-",
+   "cut_at_sec": 283.89,
+   "full_dur_sec": 9.21,
+   "ext_file": "L001_030.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 285.35,
+   "end_sec": 289.79,
+   "dur_sec": 4.44,
+   "overlap": true,
+   "text": "Let Alice say something, then you, and then we're going to wrap."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 289.99,
+   "end_sec": 299.55,
+   "dur_sec": 9.56,
+   "overlap": false,
+   "text": "because the person living it is the only one who can feel its joy or pain. Goodness may enrich happiness, but it never replaces the feeling itself."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 294.71,
+   "end_sec": 295.95,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 299.75,
+   "end_sec": 305.83,
+   "dur_sec": 6.08,
+   "overlap": false,
+   "text": "Choose compassion, but call happiness what it is: genuinely feeling good in your own life."
+  },
+  {
+   "i": 33,
+   "src_i": 35,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 306.03,
+   "end_sec": 312.23,
+   "dur_sec": 6.2,
+   "overlap": false,
+   "text": "Thank you, Joanne and Alice, for a thoughtful debate. That concludes our discussion of the motion tonight."
+  }
+ ]
+}

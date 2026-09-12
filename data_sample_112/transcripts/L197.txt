@@ -1,0 +1,41 @@
+L197  |  religion is a force for good in the world
+  MOD=Paula   PRO=Gideon   CON=Gabriel
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Paula(MOD): Welcome to our debate on the motion that religion is a force for good in the world. Gideon speaks for the motion, and Gabriel speaks against it. Each speaker has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed speech ends. Please address the motion and one another directly.
+[t01] Gideon(PRO): Religion can turn belief into public care. It teaches people to see strangers as worthy, then gives them habits of service, forgiveness, and mutual duty. You will hear about abuse, and abuse is real, but the relevant question is whether a force that builds conscience and community deserves to be called good. Its answer begins with
+[t02] @A4 <ovl> Paula(MOD): I can give you ten seconds to do this.
+[t03] Gideon(PRO): people who choose compassion together, even when no law compels them to act for strangers. That's all, thank you.
+[t04] @A2-2 Paula(MOD): I'm going to let Gabriel answer.
+[t05] Gabriel(CON): Good acts can grow around religion, but that does not make religion a force for good. Its certainty can divide neighbors into pure and impure, and its authority can shield choices from challenge. We should judge a force by the harm it licenses as well as comfort it offers. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Paula(MOD): As the conversation continues, we're going to give you each a chance to rebut one another. You have two and a half minutes, starting when I stop talking.
+[t07] Gabriel(CON): Consider a child told that questioning a family belief is shameful. That lesson can silence fear and pain for years, proving religion can train obedience above human well-being.
+[t08] Gideon(PRO): Schools need fair rules for holidays, food, and shared spaces; those details matter to daily life. But they point back to religion's ability to make people accommodate neighbors, a good force in the world.
+[t09] Gabriel(CON): I grant that many believers offer sincere help. But help does not erase a system that can label doubt failure and make belonging depend on submission; that is not good.
+[t10] <cut> Gideon(PRO): Your point is that belonging requires submission. Yet faith communities can make belonging a source of courage to question injustice, because shared moral language lets ordinary people say cruelty is-
+[t11] <ovl> Gabriel(CON): No, shared language can also make cruelty sound sacred, and your answer ignores who gets to define it. When leaders claim divine approval, dissenters face guilt before they can even argue.
+[t12] Gideon(PRO): Public institutions should make room for observance when schedules, food, and dress are concerned. Flexible rules let people participate without hiding convictions, and that makes shared civic life more humane.
+[t13] @B1 Paula(MOD): No, religion is a force for good in the world, religion is a force for good in the world. Those are the key words.
+[t14] Gideon(PRO): Religion never harms anyone. Harm comes from people abandoning its commands of mercy, while religion gives them language to resist selfishness and choose care; that is why it remains a good force.
+[t15] Gabriel(CON): If religion is so harmless, how do you explain a parent refusing medicine because belief demands it? Does that child receive a good force from religion?
+[t16] Gideon(PRO): A child denied medicine deserves protection, and that parent has chosen cruelty over faith. Here religion harms someone. Still, its core teachings can mobilize care and correction, so it remains good.
+[t17] @B2 Paula(MOD): Gideon said religion never harms anyone, but here religion harms someone.
+[t18] Gideon(PRO): Both statements stand because religion's moral claims point toward mercy, while religion in lived institutions can injure people. That tension proves we should judge its direction and repair its failures, not deny its good force.
+[t19] Gabriel(CON): No, that child does not receive a good force. Your split between pure teachings and institutions concedes my point: a force judged by effects cannot be called good when authority enables harm.
+[t20] Gideon(PRO): Your weakest claim is that actual harm settles the question. By that standard, any human practice becomes evil when abused; religion also supplies the conscience that names abuse and demands repair.
+[t21] @A4 <ovl> Paula(MOD): Ten seconds remaining in this round.
+[t22] <cut> Gabriel(CON): A young person can be cast out by relatives-
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Paula(MOD): Now, it's time to bring this all home with closing remarks. Gideon, you're up first for this. You have the floor.
+[t24] Gideon(PRO): Tonight turns on whether we judge religion only by people who betray it, or also by the moral practices it sustains. It gathers people for service, asks them to forgive, and gives suffering a language of dignity. Those goods are not imaginary just because authority can be abused. The real task is to strengthen the compassion within religion and
+[t25] @A4 <ovl> Paula(MOD): You have ten seconds left.
+[t26] <cut> Gideon(PRO): make its institutions answerable to the vulnerable. My opponent showed why misuse deserves resistance, but misuse is not the whole story. When belief moves people beyond self-interest-
+[t27] @A2-1 <ovl> Paula(MOD): Thank you. I'm sorry his time is up. Thank you. And here to summarize his position against religion is a force for good in the world, Gabriel.
+[t28] Gabriel(CON): Your decision turns on what the motion asks us to call good: an ideal message, or the force religion actually exerts. A force can inspire care and still authorize silence, exclusion, and obedience. We cannot excuse those patterns by saying better believers would act differently. If religion claims moral authority over lives, its harms belong in the verdict, and
+[t29] @A4 <ovl> Paula(MOD): You have ten seconds.
+[t30] Gabriel(CON): that verdict cannot be good. Compassion matters, but a force that repeatedly makes harm harder to challenge is not a force for good. That's all, thank you.
+[t31] Paula(MOD): Thank you both. This concludes our debate on religion as a force for good in the world.

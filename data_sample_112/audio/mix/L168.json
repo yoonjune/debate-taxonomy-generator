@@ -1,0 +1,422 @@
+{
+ "debate_id": "L077",
+ "motion": "Silicon Valley has lost its soul.",
+ "speakers": {
+  "MOD": {
+   "name": "Mira",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  },
+  "PRO": {
+   "name": "Rich",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5993_347",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5993/MSP-PODCAST_5993_347.wav",
+   "wpm": 163.88
+  },
+  "CON": {
+   "name": "Ralph",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0417_1197",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0417/MSP-PODCAST_0417_1197.wav",
+   "wpm": 171.29
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 88.09,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 314.32,
+ "ext": {
+  "a32": {
+   "file": "L077_ext_a32.wav",
+   "place_at_sec": 225.632,
+   "dur_sec": 36.25,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "A small team makes a simple tool that lets a family member with limited sight manage daily tasks without surrendering control. That patient, practical work restores independence, proving Silicon Valley still has a soul."
+  },
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Your weakest claim is that one helpful tool restores the whole culture. Kindness in a corner cannot outweigh systems built to harvest attention and lock people in; Silicon Valley has lost its soul."
+  },
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Will you answer this: if a culture can still produce humane tools and punish abuse, why call its soul gone rather than contested? You cannot explain that without conceding Silicon Valley still has a soul."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.31,
+   "dur_sec": 19.31,
+   "overlap": false,
+   "text": "Welcome to our debate. The motion is: Silicon Valley has lost its soul. Rich speaks for the motion, and Ralph speaks against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; please address each other directly, stay on the motion, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.51,
+   "end_sec": 40.15,
+   "dur_sec": 20.64,
+   "overlap": false,
+   "text": "Silicon Valley once sold a belief that clever tools could widen ordinary people's choices. Now its loudest habits reward capture, surveillance, and quick exits. Workers are treated as inputs, users as inventory, and communities as obstacles. That change matters because a place loses its soul when human purpose becomes a slogan. I will show how that bargain broke."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.51,
+   "end_sec": 41.89,
+   "dur_sec": 2.38,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.35,
+   "end_sec": 53.01,
+   "dur_sec": 12.66,
+   "overlap": false,
+   "text": "The damage is visible in products that demand attention, extract personal life, and call dependence connection. A culture can still make brilliant machines while forgetting whom-",
+   "cut_at_sec": 50.81,
+   "full_dur_sec": 14.16,
+   "ext_file": "L077_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 50.01,
+   "end_sec": 53.51,
+   "dur_sec": 3.5,
+   "overlap": true,
+   "text": "Rich, you're rather going on. Thank you. Ralph."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.71,
+   "end_sec": 73.99,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "That story mistakes visible bad behavior for the character of an entire creative community. Silicon Valley is not a single boardroom; it is people repeatedly trying to solve hard problems with imperfect tools. Its soul is the stubborn habit of building, questioning, and starting again, even when powerful firms disappoint us."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 73.71,
+   "end_sec": 75.31,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 74.19,
+   "end_sec": 82.02,
+   "dur_sec": 7.83,
+   "overlap": false,
+   "text": "A soul is not lost because some people betray it; it survives in those who refuse to. That's all, thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 82.22,
+   "end_sec": 90.15,
+   "dur_sec": 7.93,
+   "overlap": false,
+   "text": "Okay, well let's mix it up. Let's start the conversation. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 90.35,
+   "end_sec": 101.61,
+   "dur_sec": 11.26,
+   "overlap": false,
+   "text": "Consider a neighborhood shop pushed to buy opaque software just to reach customers, then trapped by rising fees. The tool no longer serves the neighborhood; it proves the Valley's priorities have hardened."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 101.899,
+   "end_sec": 113.379,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "When founders remain accountable to the people using a tool, profit and care can reinforce each other. Under that condition, Silicon Valley still shows its soul through useful invention and honest repair."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 113.85,
+   "end_sec": 125.74,
+   "dur_sec": 11.89,
+   "overlap": false,
+   "text": "If accountability is the test, why do so many products hide their costs until people are dependent? Answer that plainly: isn't a culture built on concealment evidence that its soul has been traded away?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 126.434,
+   "end_sec": 136.604,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "Innovation always serves people before profit. That is why even flawed companies can be challenged by workers, users, and rival builders who keep the Valley's basic moral purpose alive."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.225,
+   "end_sec": 149.065,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "I agree that some builders still care deeply about users. But a few decent people cannot rescue a culture whose rewards favor extraction; the dominant incentives show Silicon Valley has lost its soul."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.716,
+   "end_sec": 160.076,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "A compulsive scrolling platform does not serve people before profit. I would stop it, because bad inventions deserve resistance, yet the people resisting them show Silicon Valley's soul remains."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 160.276,
+   "end_sec": 168.396,
+   "dur_sec": 8.12,
+   "overlap": false,
+   "text": "Ralph, thank you very much indeed. You said innovation always serves people before profit. A compulsive scrolling platform does not serve people before profit?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 168.596,
+   "end_sec": 180.436,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "They fit because the first expresses what innovation is for, while the second identifies a betrayal of that purpose. Naming betrayal is not surrender; resistance inside the Valley proves its conscience is alive."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 181.11,
+   "end_sec": 193.5,
+   "dur_sec": 12.39,
+   "overlap": false,
+   "text": "People also worry about rent, crowded buses, and who gets invited into rooms where ideas become companies. Those concerns matter, but the motion is about moral character, and its profit-first culture has lost its soul."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 193.97,
+   "end_sec": 204.38,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "The soul survives beyond any one accountable founder, in mentors, tinkerers, and users who demand better tools. Doesn't that wider community show the Valley cannot simply lose its soul?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 205.051,
+   "end_sec": 216.231,
+   "dur_sec": 11.18,
+   "overlap": false,
+   "text": "No, a surviving pocket is not the Valley's soul when its institutions reward the opposite. Your wider community is fighting the culture, not defining it, and that struggle shows the loss is-"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 215.331,
+   "end_sec": 226.731,
+   "dur_sec": 11.4,
+   "overlap": true,
+   "text": "No, that struggle shows a living moral argument, not a corpse. People inside this community build alternatives, expose abuse, and force repairs; a place with that capacity has not lost its soul."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 227.692,
+   "end_sec": 239.532,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Your living moral argument point confuses protest with health. A conscience that must constantly fight its own institutions signals power has abandoned the values it advertises, so the Valley has lost its soul.",
+   "ext_file": "L077_ext_a32.wav"
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 230.15,
+   "end_sec": 232.47,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds, and then closing statements."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 240.15,
+   "end_sec": 250.24,
+   "dur_sec": 10.09,
+   "overlap": true,
+   "text": "And that's time. I want to move into our third round, which is basically closing statements from each of you. And Rich, you again, get to go first on this."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 250.44,
+   "end_sec": 270.57,
+   "dur_sec": 20.13,
+   "overlap": false,
+   "text": "We have heard that good people and useful tools still exist. I grant that, but the motion asks about the Valley's governing spirit, not whether every person inside it is cruel. When attention, data, and dependence become default business models, human dignity becomes secondary. The deciding question is what those habits reward."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 270.44,
+   "end_sec": 272.25,
+   "dur_sec": 1.81,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 270.77,
+   "end_sec": 278.37,
+   "dur_sec": 7.6,
+   "overlap": false,
+   "text": "They reward extraction over care, so Silicon Valley has lost the soul that justified its power. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 278.57,
+   "end_sec": 281.58,
+   "dur_sec": 3.01,
+   "overlap": false,
+   "text": "All right, let's give Ralph a chance to reply."
+  },
+  {
+   "i": 28,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.78,
+   "end_sec": 302.14,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "This motion turns on whether a place is defined only by its worst incentives or by the people who contest them. The other side treats corruption as final proof of emptiness. I see workers, users, and builders refusing that emptiness, making useful things, and demanding repair. A soul is not purity; it is the capacity to recognize failure and choose better."
+  },
+  {
+   "i": 29,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 301.78,
+   "end_sec": 304.31,
+   "dur_sec": 2.53,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 30,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 302.34,
+   "end_sec": 313.44,
+   "dur_sec": 11.1,
+   "overlap": false,
+   "text": "Silicon Valley has serious failures, and those failures deserve pressure, rules, and better choices. But a community still capable of reform has not lost its soul. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 313.64,
+   "end_sec": 320.24,
+   "dur_sec": 6.6,
+   "overlap": false,
+   "text": "Thank you, Rich and Ralph, for the debate. This concludes our discussion of Silicon Valley's soul."
+  }
+ ]
+}

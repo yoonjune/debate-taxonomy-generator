@@ -1,0 +1,37 @@
+L123  |  The rich are taxed enough.
+  MOD=Andrew   PRO=Peter   CON=Michelle
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Andrew(MOD): Welcome. Tonight's motion is The rich are taxed enough. Peter argues for it, and Michelle argues against it. Each has thirty seconds to open, then we have two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. Please speak directly, keep to the motion, and listen for my cue.
+[t01] Peter(PRO): Taxing the rich enough does not mean treating success as sacred. It means they already contribute substantially through taxes, while their investments support jobs, ideas, and ordinary spending. Raising their burden again can shrink resources for building businesses and meeting responsibilities, so fairness must consider what they pay and what society asks of everyone.
+[t02] @A4 <ovl> Andrew(MOD): I'll give you ten more seconds to nail this.
+[t03] Peter(PRO): Enough means a serious contribution without turning achievement into an endless target for government. That's all, thank you.
+[t04] @A2-2 Andrew(MOD): Michelle, the floor is yours.
+[t05] Michelle(CON): The issue is not whether wealthy people pay something; they do. The issue is whether their share matches the power and security they gain from the system. When public needs go unmet while vast fortunes grow, the rich are not taxed enough. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Andrew(MOD): On to round two, and in round two, the debaters address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t07] Michelle(CON): Imagine a school roof leaking while a wealthy owner receives income from many properties and contributes little more than before. Repairing that roof through a fairer levy proves the rich are not taxed enough.
+[t08] <cut> Peter(PRO): Your leaking roof is an argument for spending wisely, not for assuming one group owes every repair. You never showed that this owner avoids a fair share, and your levy would-
+[t09] <ovl> Michelle(CON): No, the roof cannot wait for your vague promise of wiser spending. When those with the greatest spare resources contribute more, shared institutions work, which is why the rich are not taxed enough.
+[t10] Peter(PRO): You call resources spare, but who decides after a business pays suppliers, repairs equipment, and covers payroll? That label depends on invoices, inspection dates, contractor bids, and whether the roof work used cedar or slate.
+[t11] @B1 Andrew(MOD): I really want to stay on the question of whether the rich are taxed enough.
+[t12] Peter(PRO): We should debate sensible rates, not chase every dollar someone earns. I believe the rich should never pay more tax, because government must respect the limits of what it can claim.
+[t13] Michelle(CON): I agree that vague rules can burden people and should be clear. But clarity does not excuse a system where enormous wealth gains more protection than public services, so the rich are not taxed enough.
+[t14] Peter(PRO): A rich parent should pay more tax. If that parent earns from many homes while neighbors cannot fund basic repairs, the current burden fails the community, so the rich are taxed enough overall.
+[t15] @B2 Andrew(MOD): Peter, thank you very much indeed. You said i believe the rich should never pay more tax. A rich parent should pay more tax?
+[t16] Peter(PRO): Both statements fit because a general tax system must not keep raising rates, yet one parent should contribute more from personal duty. That duty preserves limits while supporting the view that the rich are taxed enough.
+[t17] Michelle(CON): If the rich are taxed enough, why should a family with several homes face the same public neglect as everyone else? Tell me how your ceiling on contribution repairs services without shifting burdens downward.
+[t18] Peter(PRO): It should not face neglect; I reject the idea that higher taxes are the only repair. You can fund services by setting priorities and collecting obligations, whereas increases punish success and leave the rich taxed enough.
+[t19] <cut> Michelle(CON): Your priorities point misses the problem: priorities cannot create resources when wealth is sheltered from a fair share. Collecting existing obligations helps, but it cannot replace a better rate, so the rich are not taxed-
+[t20] @A4 <ovl> Andrew(MOD): Ten seconds left in this round.
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Andrew(MOD): Time's up. So let's move on to our closing round. You go first in this closing round, Peter, the floor is yours.
+[t22] Peter(PRO): This debate is about enough, not about pretending public needs do not matter. The other side showed real needs, but never proved that raising taxes on one group is the fair answer. A sound system collects serious revenue, protects initiative, and expects government to use funds responsibly. Punishing greater earnings whenever problems remain makes no principle safe.
+[t23] @A4 <ovl> Andrew(MOD): Ten seconds, ten seconds.
+[t24] <cut> Peter(PRO): We can improve services and close genuine loopholes without declaring every successful person a permanent source of more. Enough taxation sets a boundary, preserves choice, and keeps effort worthwhile-
+[t25] @A2-1 <ovl> Andrew(MOD): You're out of time. And here to summarize her position, Michelle.
+[t26] Michelle(CON): Peter asks us to trust boundaries while accepting a richer parent should pay more, and that reveals the weakness. Public services are not punishment; they are the foundation that lets wealth flourish. When those with the means contribute fairly, communities function, so the rich are not taxed enough. That's all, thank you.
+[t27] Andrew(MOD): Thank you, Peter and Michelle, for a spirited exchange. That concludes tonight's debate on the motion before us.

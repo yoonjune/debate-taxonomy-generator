@@ -1,0 +1,422 @@
+{
+ "debate_id": "L066",
+ "motion": "It is time to talk to Al Qaeda",
+ "speakers": {
+  "MOD": {
+   "name": "Carla",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0894_483",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0894/MSP-PODCAST_0894_483.wav",
+   "wpm": 177.23
+  },
+  "PRO": {
+   "name": "Eugene",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6071_804",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6071/MSP-PODCAST_6071_804.wav",
+   "wpm": 168.17
+  },
+  "CON": {
+   "name": "Mira",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4100_1134",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4100/MSP-PODCAST_4100_1134.wav",
+   "wpm": 166.01
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 94.05,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 307.39,
+ "ext": {
+  "a32": {
+   "file": "L066_ext_a32.wav",
+   "place_at_sec": 234.476,
+   "dur_sec": 25.98,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "On the propaganda point, Mira assumes their importance comes from our reply. It comes from their actions; refusing to communicate does not erase them, while contact can challenge claims, protect captives, and test whether violence can be reduced."
+  },
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Eugene's weakest claim is that contact can test restraint. They have every incentive to promise restraint while gaining time, attention, and information; a test that exposes people to manipulation is not prudence, it is avoidable risk."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.08,
+   "dur_sec": 16.08,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is whether it is time to talk to al Qaeda. Eugene supports it, and Mira opposes it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.28,
+   "end_sec": 36.44,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Talking does not mean trusting or rewarding them. It means testing whether words can reduce danger, recover captives, and separate those willing to stop from those who will not. Refusing every contact leaves only guesses, while limited communication can expose intentions. We should use dialogue as a tool, with firm limits and clear demands."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 36.28,
+   "end_sec": 38.6,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 36.64,
+   "end_sec": 49.32,
+   "dur_sec": 12.68,
+   "overlap": false,
+   "text": "The alternative is not safety; it is silence until crises harden. If contact produces no change, we can end it, but refusing to speak before hearing any terms closes paths that-",
+   "cut_at_sec": 47.58,
+   "full_dur_sec": 15.21,
+   "ext_file": "L066_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 46.78,
+   "end_sec": 49.42,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "Time's up, Eugene. Thank you. Mira, please."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 49.62,
+   "end_sec": 59.15,
+   "dur_sec": 9.53,
+   "overlap": false,
+   "text": "You call it a tool, but tools can be seized by the people they target. Speaking grants a platform and suggests violence has purchased attention."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 58.25,
+   "end_sec": 60.55,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But Mira, silence has not protected anyone-",
+   "cut_at_sec": 60.55,
+   "full_dur_sec": 9.53,
+   "ext_file": "L066_006.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 59.75,
+   "end_sec": 62.39,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "Hang on. Hang on. Go ahead, Mira."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 62.59,
+   "end_sec": 72.52,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "-has purchased attention. Once armed groups learn that spectacle brings a seat at the table, they have reason to repeat it, not abandon it."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 69.62,
+   "end_sec": 70.22,
+   "dur_sec": 0.6,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 72.72,
+   "end_sec": 80.61,
+   "dur_sec": 7.89,
+   "overlap": false,
+   "text": "A government protects people by isolating coercion, not by inviting it into negotiation. That's all, thank you."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 80.81,
+   "end_sec": 96.09,
+   "dur_sec": 15.28,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.29,
+   "end_sec": 107.26,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "Mira's claim that any contact rewards violence confuses listening with yielding. We can speak through controlled channels, demand restraint, and leave if they exploit it; isolation guarantees no leverage at all."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 107.648,
+   "end_sec": 118.858,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "Consider instead the families around a negotiator who must return home after carrying messages. Their neighbors may suspect betrayal, their children may face hostility, and informal mediators can lose standing for years."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 119.058,
+   "end_sec": 128.028,
+   "dur_sec": 8.97,
+   "overlap": false,
+   "text": "But, how do you relate that to whether it is time to talk to al Qaeda? Land that on whether it is time to talk to al Qaeda."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 128.228,
+   "end_sec": 141.518,
+   "dur_sec": 13.29,
+   "overlap": false,
+   "text": "That risk shows why the motion is wrong: talking to al Qaeda places civilians and intermediaries under pressure. You call channels controlled, but the other side decides when to publicize them, distort them, or punish anyone linked to them."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 141.994,
+   "end_sec": 155.124,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "They can publicize nothing if contact is structured and guarded; the premise that every channel endangers people is false. Mira offers permanent silence, yet silence gives no way to seek releases, clarify demands, or test an opening."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 155.585,
+   "end_sec": 168.235,
+   "dur_sec": 12.65,
+   "overlap": false,
+   "text": "If you say dialogue can be guarded, who decides that the price is acceptable when they demand publicity, concessions, or recognition? Your plan begins with a conversation, but conversations create expectations, and once those expectations exist-"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 167.335,
+   "end_sec": 180.495,
+   "dur_sec": 13.16,
+   "overlap": true,
+   "text": "I decide that no concession is owed, and that is precisely why talking is not surrender. You assume every conversation creates recognition, but a message can reject demands, set boundaries, and reveal whether any restraint is possible."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 181.443,
+   "end_sec": 195.213,
+   "dur_sec": 13.77,
+   "overlap": false,
+   "text": "Messages can also affect rumor, since people often fill silence with fear and wild claims. Still, rumor management is not the issue here: the motion fails because talks give al Qaeda a stage, while refusing talks denies that stage."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 195.721,
+   "end_sec": 208.051,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "Mira is right that publicity can be dangerous, and any contact must avoid it. But danger is not a reason to abandon a possible safeguard; disciplined talks can reduce misunderstanding and create off-ramps from violence."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 208.41,
+   "end_sec": 221.65,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "Imagine a commander holding an aid worker and demanding a public meeting. Granting that meeting teaches other commanders that kidnapping earns attention; refusing it keeps the hostage situation but denies a reward. That proves talks invite coercion."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 222.387,
+   "end_sec": 235.837,
+   "dur_sec": 13.45,
+   "overlap": false,
+   "text": "I would not grant a public meeting; that premise mistakes talks for payment. A private, conditional message can seek the worker's release without validating kidnapping, and refusing all contact may leave the captive with no peaceful route home."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 236.09,
+   "end_sec": 239.09,
+   "dur_sec": 3.0,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 236.516,
+   "end_sec": 248.766,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "If your private channel fails and they use its existence as propaganda, what have you gained besides confirming their importance? How do you stop a limited exchange from becoming a standing-",
+   "ext_file": "L066_ext_a32.wav",
+   "cut_at_sec": 244.85,
+   "full_dur_sec": 12.25
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 246.09,
+   "end_sec": 253.46,
+   "dur_sec": 7.37,
+   "overlap": true,
+   "text": "Time. And now, we move on to Round Three. First speaking, making his closing statement in favor of the motion, Eugene."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 253.66,
+   "end_sec": 270.53,
+   "dur_sec": 16.87,
+   "overlap": false,
+   "text": "Mira rightly warns that publicity and manipulation are dangers. But refusing every channel leaves captives, misunderstandings, and possible exits to violence unaddressed. Talk with strict limits, no rewards, and a readiness to walk away; that is not trust, but responsible protection. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 270.73,
+   "end_sec": 275.45,
+   "dur_sec": 4.72,
+   "overlap": false,
+   "text": "Here's Mira to argue against whether it is time to talk to al Qaeda."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.65,
+   "end_sec": 295.98,
+   "dur_sec": 20.33,
+   "overlap": false,
+   "text": "My opponent calls talks responsible protection, yet the people facing danger may pay for a gesture made far away. A channel can become propaganda, a bargaining chip, or a lure for further coercion. We should protect captives and civilians through pressure, patience, clear refusal, and careful support for those caught in harm. Giving violent actors direct attention changes the incentives."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 295.65,
+   "end_sec": 296.89,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 296.18,
+   "end_sec": 306.87,
+   "dur_sec": 10.69,
+   "overlap": false,
+   "text": "Once attention becomes a prize, future violence has a reason to seek it. The safer choice is to deny that prize and reject the motion. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 307.07,
+   "end_sec": 313.77,
+   "dur_sec": 6.7,
+   "overlap": false,
+   "text": "Thank you both. This concludes our debate on whether it is time to talk to al Qaeda."
+  }
+ ]
+}

@@ -1,0 +1,432 @@
+{
+ "debate_id": "L135",
+ "motion": "The international community must accept Hamas as a political partner",
+ "speakers": {
+  "MOD": {
+   "name": "Paul",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6699_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6699/MSP-PODCAST_6699_79.wav",
+   "wpm": 176.38
+  },
+  "PRO": {
+   "name": "Joanna",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  },
+  "CON": {
+   "name": "Sarah",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4100_1134",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4100/MSP-PODCAST_4100_1134.wav",
+   "wpm": 166.01
+  }
+ },
+ "selective": [
+  "A1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 78.68,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 309.75,
+ "ext": {
+  "a32": {
+   "file": "L135_ext_a32.wav",
+   "place_at_sec": 219.741,
+   "dur_sec": 26.54,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "No, acceptance is not cover when it is publicly conditional and reversible; your premise assumes outsiders surrender their leverage. Refusing partnership does not make coercion vanish, but it does remove the most direct route to demand restraint."
+  },
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Your weakest assurance is reversibility. Once recognition is granted, withdrawing it may change nothing, while the group has gained a platform and its opponents have lost ground. A reversible label cannot undo irreversible harm."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 22.33,
+   "dur_sec": 22.33,
+   "overlap": false,
+   "text": "Welcome to tonight's debate. Our motion is: the international community must accept Hamas as a political partner; Joanna speaks for it, and Sarah speaks against. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue before time expires. Please address one another directly and keep your remarks focused on the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 22.53,
+   "end_sec": 39.68,
+   "dur_sec": 17.15,
+   "overlap": false,
+   "text": "Acceptance is not approval; it is a way to test commitments, protect civilians, and create accountable channels. Refusing contact leaves decisions to force alone. Sarah, if outsiders will not speak with the people who exercise power, how can they press for real change? That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 39.88,
+   "end_sec": 41.81,
+   "dur_sec": 1.93,
+   "overlap": false,
+   "text": "Sarah, the floor is yours."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 42.01,
+   "end_sec": 62.21,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "They can press for change without granting political partnership, through clear demands and limited contact. Partnership gives standing to an armed movement before it has shown durable respect for civilian life. Joanna treats recognition as leverage, but leverage disappears when the other party can claim legitimacy while keeping coercive tools, and"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 62.01,
+   "end_sec": 63.25,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Sarah."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 62.41,
+   "end_sec": 70.22,
+   "dur_sec": 7.81,
+   "overlap": false,
+   "text": "that is why acceptance would reward power rather than create the responsibility you promise here. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.42,
+   "end_sec": 82.59,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "And that concludes round one. Now on to round two. Round two is where the debaters address one and another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 82.79,
+   "end_sec": 94.88,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Limited contact cannot replace partnership, because demands without a recognized channel are easy to ignore. You say standing is a reward, yet exclusion also removes oversight and lets hardliners insist that diplomacy offers nothing."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 95.463,
+   "end_sec": 108.513,
+   "dur_sec": 13.05,
+   "overlap": false,
+   "text": "Outside governments worry about rebuilding, aid delivery, and who controls local permits. Those matters are difficult, but they do not decide this motion. Accepting Hamas as a political partner confers status before disarmament, so it is wrong."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 108.894,
+   "end_sec": 121.304,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "If acceptance must wait for disarmament, what peaceful route do you offer to negotiate disarmament with the authority that controls armed members? A partner can be bound by conditions, monitored, and challenged; isolation binds nobody."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 121.534,
+   "end_sec": 134.744,
+   "dur_sec": 13.21,
+   "overlap": false,
+   "text": "You could negotiate a ceasefire without calling the group a political partner; mediation is not acceptance. Imagine a local council silencing rivals after recognition, then using its standing to demand funds and influence; that proves partnership can-"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 133.844,
+   "end_sec": 145.134,
+   "dur_sec": 11.29,
+   "overlap": true,
+   "text": "No, because your council example assumes acceptance removes all conditions. It can instead tie access, funding, and talks to protecting rivals, while exclusion gives outsiders no practical way to enforce those safeguards."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 145.638,
+   "end_sec": 158.768,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "Conditions may create some leverage, and I agree that channels can reduce confusion. But political partnership is more than a channel: it grants recognition to an actor that can exploit it while avoiding change. That remains unacceptable."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 159.615,
+   "end_sec": 172.105,
+   "dur_sec": 12.49,
+   "overlap": false,
+   "text": "When acceptance is conditioned on renouncing attacks, protecting opponents, and allowing verification, it is a tool for change rather than a blank check. You reject the very framework that could test whether commitments are real."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 172.424,
+   "end_sec": 185.154,
+   "dur_sec": 12.73,
+   "overlap": false,
+   "text": "Your weakest claim is that outsiders can verify promises after granting partnership. Verification needs access and consequences, yet acceptance gives the group a prize before either exists. A test that cannot be enforced is not protection."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 185.454,
+   "end_sec": 197.654,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Political engagement is necessary wherever a group governs lives and can affect war or peace. It does not erase condemnation; it creates the forum where condemnation, demands, and consequences can actually reach decision makers."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 198.29,
+   "end_sec": 210.9,
+   "dur_sec": 12.61,
+   "overlap": false,
+   "text": "Imagine negotiators recognizing an armed faction as partner, then that faction jails a local critic who challenges its rule. Outsiders issue protests, but their recognition is already claimed as endorsement. That proves acceptance can weaken accountability."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 211.81,
+   "end_sec": 223.29,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Your jailed critic point mistakes engagement for endorsement. A partner status can include public benchmarks and penalties when critics are harmed; refusing any relationship leaves victims with fewer outside levers, not more."
+  },
+  {
+   "i": 18,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 222.59,
+   "end_sec": 224.84,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Ten seconds left on the clock."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 223.651,
+   "end_sec": 236.09,
+   "dur_sec": 12.439,
+   "overlap": false,
+   "text": "Public benchmarks are useful, and I support demanding protection for critics. Yet your penalties depend on a partner valuing its status, while an armed movement may use recognition for cover-",
+   "ext_file": "L135_ext_a32.wav",
+   "cut_at_sec": 229.48,
+   "full_dur_sec": 13.13
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 232.59,
+   "end_sec": 240.6,
+   "dur_sec": 8.01,
+   "overlap": true,
+   "text": "But now, it is time to bring this all home with our closing round. Joanna for your closing statement, you are up first."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.8,
+   "end_sec": 250.81,
+   "dur_sec": 10.01,
+   "overlap": false,
+   "text": "This decision turns on whether exclusion protects civilians more than disciplined engagement. Power is already exercised, so the choice is between influencing it through conditions and leaving it"
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 249.91,
+   "end_sec": 252.21,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But conditions are fantasy when armed power decides-",
+   "cut_at_sec": 248.3,
+   "full_dur_sec": 8.65,
+   "ext_file": "L135_024.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 251.41,
+   "end_sec": 253.37,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Just let her finish, please."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 253.57,
+   "end_sec": 264.01,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "outside any structured conversation. A conditional partnership makes continued access depend on conduct, giving outsiders a way to protect civilians and measure whether commitments survive pressure."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 260.8,
+   "end_sec": 262.04,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Joanna, ten seconds."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 264.21,
+   "end_sec": 272.08,
+   "dur_sec": 7.87,
+   "overlap": false,
+   "text": "Acceptance is not trust; it is the harder choice to demand change where power operates. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 272.28,
+   "end_sec": 274.85,
+   "dur_sec": 2.57,
+   "overlap": false,
+   "text": "Now her summation against the motion, Sarah."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.05,
+   "end_sec": 295.86,
+   "dur_sec": 20.81,
+   "overlap": false,
+   "text": "This motion turns on the difference between talking to a force and accepting it as a political partner. Contact can pursue urgent needs without granting standing. Partnership tells victims and rivals that coercion has earned a seat before accountable conduct exists. The other side calls conditions leverage, but conditions cannot repair the signal sent when recognition comes first, and"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 295.05,
+   "end_sec": 296.29,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 296.06,
+   "end_sec": 308.55,
+   "dur_sec": 12.49,
+   "overlap": false,
+   "text": "that signal invites groups to seek status before reform. I accept that dialogue may reduce danger, but the motion demands acceptance, not dialogue. We should insist on accountability before partnership-",
+   "cut_at_sec": 300.65,
+   "full_dur_sec": 14.57,
+   "ext_file": "L135_032.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 305.55,
+   "end_sec": 309.4,
+   "dur_sec": 3.85,
+   "overlap": true,
+   "text": "Please come to an end, we're running out of time, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 309.6,
+   "end_sec": 315.45,
+   "dur_sec": 5.85,
+   "overlap": false,
+   "text": "Thank you, Joanna and Sarah, for a vigorous debate; this now concludes our discussion of tonight's motion."
+  }
+ ]
+}

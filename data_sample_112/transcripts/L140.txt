@@ -1,0 +1,40 @@
+L140  |  We should expand the Supreme Court
+  MOD=Kirsten   PRO=Rachel   CON=Joel
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Kirsten(MOD): Welcome. Tonight's motion is whether we should expand the Supreme Court. Rachel supports it, and Joel opposes it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Keep answers direct, and I may step in to keep discussion on the motion.
+[t01] Rachel(PRO): Expanding the Court is a practical repair when a small bench cannot reflect the range of legal experience facing it. More justices mean broader deliberation and fewer outcomes resting on one narrow bloc. The Court's authority is stronger when its structure can serve the country. That's all, thank you.
+[t02] @A2-2 Kirsten(MOD): Okay, let him reply, please, please.
+[t03] Joel(CON): Adding seats whenever political pressure rises turns the Court into a prize for whoever holds power. A larger bench does not guarantee better judgment; it can invite retaliation and constant redesign. Keep a stable size, and judges can decide cases without wondering who will rewrite the institution next. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Kirsten(MOD): And that concludes round one. So now on to round two. They address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t05] Joel(CON): Imagine each new majority adding allies, then the next majority adding more. Litigants would see the Court as a rotating political chamber, not a neutral referee. That cycle proves expansion risks the independence it claims to protect.
+[t06] <cut> Rachel(PRO): If the Court's present size is supposedly sacred, why should a temporary political arrangement outweigh the need for fairer deliberation? Will you accept that refusing any adjustment leaves power concentrated in too few hands, or will you-
+[t07] <ovl> Joel(CON): No, because adding seats does not make deliberation fairer; it lets a governing coalition choose a new outcome. Your question treats more voices as neutral, but chosen additions are political leverage, and stability protects impartial judgment.
+[t08] Rachel(PRO): It does not let a coalition choose outcomes, because new justices retain independent duties after appointment. You call every addition political leverage, yet the current size was itself chosen politically; freezing that choice protects an accident, not impartiality.
+[t09] Joel(CON): That choice raises how nominees are questioned before wearing the robe. Should hearings test legal reasoning or private temperament? A rushed hearing makes thoughtful candidates look evasive and rewards the loudest performance.
+[t10] @B1 Kirsten(MOD): We're talking about the practicality or the morality of expanding the Supreme Court at this particular time.
+[t11] Joel(CON): Which future failure does adding seats cure that ordinary appointments cannot address? No Court should ever change its number of seats. A settled structure gives each decision distance from politicians who dislike it.
+[t12] Rachel(PRO): An unexpected absence can leave a major case shaped by too thin a group. Adding seats creates room for fuller discussion across legal approaches. That resilience proves expansion can strengthen legitimate judgment.
+[t13] Joel(CON): This Court should change its number of seats. At thirteen, I would reduce it, because a smaller bench makes discussion manageable and preserves confidence rather than adding more.
+[t14] @B2 Kirsten(MOD): So one moment it's no Court should ever change its number of seats and the next moment it's this Court should change its number of seats?
+[t15] Joel(CON): Both statements protect independence: a Court needs a fixed size, and thirteen is not the fixed size it should have. I oppose expansion because correcting an oversized bench means reducing it, not giving politicians extra appointments.
+[t16] Rachel(PRO): No, correcting it by shrinking would not escape your contradiction; it still changes the number after declaring that no Court ever should. Your defense proves the rule was a slogan, while expansion openly addresses representation and workload.
+[t17] @A4 <ovl> Kirsten(MOD): Ten seconds remaining in this round.
+[t18] <cut> Joel(CON): Your 'rule was a slogan' point misses my argument. I am opposing additions, not pretending every structural question has one answer; reducing an inflated bench restores restraint, whereas expansion-
+
+--- phase 3 ---
+[t19] @A3-2 <ovl> Kirsten(MOD): Time's up. And now we move on to round three. And those will be closing statements by each debater. And speaking first and answering yes to expanding the Supreme Court at this particular time, here again, is Rachel.
+[t20] Rachel(PRO): Joel's best warning is retaliation: one majority might add seats and invite the next to answer in kind. But paralysis is not neutrality when a narrow bench carries enormous power for generations. A carefully enacted expansion can create broader deliberation without dictating any case. The question is whether the Court can remain credible while its capacity stays artificially cramped.
+[t21] @A4 <ovl> Kirsten(MOD): Ten.
+[t22] Rachel(PRO): Adding seats is not a demand for preferred rulings. It is a choice to make judgment more durable, representative, and worthy of public trust. That's all, thank you.
+[t23] @A2-2 Kirsten(MOD): Thank you very much. We now turn to Joel who is going to speak against the motion.
+[t24] Joel(CON): This decision turns on whether frustration with today's Court justifies giving future leaders a tool to reshape it. Institutions survive when rules outlast coalitions that dislike results.
+[t25] <ovl> <cut> Rachel(PRO): But why does the current size deserve permanence-
+[t26] @A5 <ovl> Kirsten(MOD): Let him just answer that very briefly.
+[t27] Joel(CON): And that is why permanence matters: an old rule is visible and durable, while new seats answer a passing fight. More perspectives do not erase that risk.
+[t28] @A4 <ovl> Kirsten(MOD): I can give you ten seconds to wrap this round.
+[t29] Joel(CON): Reject expansion, because judicial independence needs limits no temporary majority can freely redraw at will. That's all, thank you.
+[t30] Kirsten(MOD): Thank you both for a thoughtful exchange. This concludes our debate on whether we should expand the Supreme Court.

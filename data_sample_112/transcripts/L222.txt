@@ -1,0 +1,42 @@
+L222  |  DEI mandates for university faculties are a bad idea.
+  MOD=Floyd   PRO=Mark   CON=Horace
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Floyd(MOD): Welcome to our debate on whether DEI mandates for university faculties are a bad idea. Mark supports the motion, and Horace opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Closings last thirty seconds, and I will give a ten-second cue.
+[t01] Mark(PRO): DEI mandates replace academic judgment with required political tests. Faculties need varied perspectives, but hiring should assess scholarship, teaching, and fit, not compliance with.
+[t02] <ovl> <cut> Horace(CON): That ignores why mandates exist: informal-
+[t03] @A5 <ovl> Floyd(MOD): Could you let him finish.
+[t04] Mark(PRO): compliance with a prescribed outlook. Once administrators demand statements and targets, applicants learn to perform approved language instead of honestly discussing their work and views.
+[t05] @A4 <ovl> Floyd(MOD): I can give you ten seconds to do this.
+[t06] Mark(PRO): Universities should welcome diversity voluntarily, but mandates undermine trust, inquiry, and fair hiring. That's all, thank you.
+[t07] @A2-2 Floyd(MOD): I'm going to let Horace answer.
+[t08] Horace(CON): A mandate need not dictate beliefs or lower standards. It can require transparent searches, broader outreach, and serious attention to barriers that narrow who gets considered. Without such structure, familiar networks quietly decide opportunity. That makes faculties less open, not more free. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Floyd(MOD): And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t10] Horace(CON): I agree that forced slogans are a poor hiring tool. But the main issue is whether universities must actively prevent narrow networks from reproducing themselves, and mandates provide that accountability.
+[t11] Mark(PRO): You call mandates accountability, but accountability can measure fair procedures without compelling DEI declarations. Why give administrators power to judge an applicant's moral language rather than academic merit?
+[t12] Horace(CON): No, a sound mandate need not judge moral language; it can require fair procedures. Your alternative leaves enforcement optional, so what stops a department from repeating the same closed search?
+[t13] Mark(PRO): When a mandate requires applicants to endorse a particular DEI view, it becomes an ideological screen. Universities may broaden recruitment, but they should not make employment depend on political affirmation.
+[t14] <cut> Horace(CON): Why assume a mandate must demand affirmation when it can require an open search and documented reasons? If departments face no common obligation, how will you protect qualified applicants from-
+[t15] Mark(PRO): Universities should never use compelled political commitments in faculty hiring. They can publish criteria, advertise widely, and review bias without turning a diversity policy into a loyalty requirement.
+[t16] Horace(CON): Every faculty hiring process should always use DEI mandates. Otherwise, departments can call themselves neutral while habits and networks keep qualified people outside the room.
+[t17] Mark(PRO): Your absolute rule is the weakness: mandates vary wildly, and some plainly demand viewpoint statements. A process can be fair through clear standards and broad outreach without a compulsory DEI mandate.
+[t18] Horace(CON): This faculty hiring process should not use DEI mandates. A department choosing transparent outreach on its own can still build a fair, diverse faculty, so the motion remains false.
+[t19] @B2 Floyd(MOD): But you can't have it both ways, you can't every faculty hiring process should always use DEI mandates on one hand and then this faculty hiring process should not use DEI mandates the next.
+[t20] Horace(CON): The first statement describes the institutional norm I support, while the second recognizes a process that reaches fairness without it. That tension shows mandates are tools for access, not ideological punishment.
+[t21] Mark(PRO): If a mandate pressures candidates to praise contested ideas, will you oppose it even when administrators call it inclusion? Please answer directly: is compelled agreement acceptable in hiring?
+[t22] Horace(CON): No, compelled agreement is unacceptable. Imagine a department that only circulates jobs among former colleagues; a mandate requiring public posting and documented outreach brings overlooked scholars into consideration. That proves mandates can widen opportunity without controlling thought.
+[t23] @A4 <ovl> Floyd(MOD): Ten seconds left, both of you.
+[t24] <cut> Mark(PRO): Public posting is sensible, and I support it. But a general hiring rule is not-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Floyd(MOD): Time's up. Now we move on to round three. Round three will be closing statements. Here is Mark.
+[t26] Mark(PRO): My opponent's best point is that closed networks can distort hiring, and universities should counter them. Yet DEI mandates invite ideological screening and administrative control. Broad recruitment and transparent criteria achieve fairness without making faculty employment depend on prescribed commitments. That's all, thank you.
+[t27] @A2-2 Floyd(MOD): Just one brief comment, Horace.
+[t28] Horace(CON): Mark rightly rejects compelled belief, but that is not the necessary meaning of a DEI mandate. A well-designed mandate asks departments to search openly, explain decisions, and confront barriers they might ignore. Those duties protect academic opportunity rather than dictate scholarship. Leaving them voluntary lets old habits return.
+[t29] @A4 <ovl> Floyd(MOD): You've got ten seconds.
+[t30] <cut> Horace(CON): Universities need standards that make inclusion real, not merely a hopeful promise. Transparent outreach and review can preserve merit while widening the pool, and abandoning mandates risks returning faculty hiring-
+[t31] @A1 <ovl> Floyd(MOD): I'm sorry, you've hit time.
+[t32] Floyd(MOD): Thank you, Mark and Horace, for a thoughtful debate. This concludes our discussion of the motion.

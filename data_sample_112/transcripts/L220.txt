@@ -1,0 +1,39 @@
+L220  |  The Art Market is Less Ethical Than the Stock Market
+  MOD=Brian   PRO=Karen   CON=Jack
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Brian(MOD): Welcome to our debate on the motion, the art market is less ethical than the stock market. Karen speaks for the motion, and Jack speaks against it. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue before each speaking limit.
+[t01] Karen(PRO): The art market often asks buyers to trust private stories, private prices, and private relationships. That makes conflicts of interest easier to hide than in the stock market. A dealer can shape both an object's value and the account of its history. Buyers may not know who profits at each step.
+[t02] Karen(PRO): Stock trading has flaws, but it uses clearer disclosures and visible records. In art, secrecy is often treated as normal business practice. That's all, thank you.
+[t03] @A4 <ovl> Brian(MOD): Ten seconds.
+[t04] @A2-2 Brian(MOD): OK. Jack, you wanted to come in.
+[t05] Jack(CON): Secrecy can be troubling, but it does not make an entire market less ethical. Art buyers can inspect the work, negotiate directly, and decline a deal. Stock investors also face opaque corporate choices and distant decision-makers. Ethics depends on conduct, not the asset being sold. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Brian(MOD): And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Karen(PRO): If an art dealer represents both seller and buyer while keeping that role quiet, how can either side judge whether the price is fair? That hidden conflict makes the art market less ethical.
+[t08] Jack(CON): I agree that undisclosed dual representation is wrong. But you treat it as the market's defining feature, while stock buyers can also be harmed by insiders and managers they cannot question. That does not make art less ethical.
+[t09] Karen(PRO): Public policy should therefore fund independent appraisal training and require cultural venues to publish their acquisition budgets. Communities also need stronger support for small artists who cannot afford advisers. Those funding choices should prioritize fair access to creative careers.
+[t10] @B1 Brian(MOD): But you're on that side of the motion, that's the one that you are supporting. the art market is less ethical than the stock market. That's the side that you are on.
+[t11] Karen(PRO): The question is whether the art market is less ethical than the stock market, and concealed conflicts make it so. Its customs can leave buyers unsure of price, ownership, and the seller's real interest.
+[t12] <cut> Jack(CON): Consider an artist selling a painting directly to a neighbor: they agree on a price, inspect the work, and know each other. A stock buyer may own a company shaped by unseen managers, which proves art can be more accountable-
+[t13] <ovl> Karen(PRO): No, Jack, a friendly direct sale is not the art market's difficult case. The motion concerns the broader system, where intermediaries can conceal commissions and ownership, making art less ethical.
+[t14] Jack(CON): If disclosure is your standard, why call art less ethical rather than demand better disclosure from particular dealers? Does a transparent gallery sale become unethical merely because it is art?
+[t15] Karen(PRO): A transparent gallery sale can be fair, and I grant that. But the main problem is that opacity is tolerated more readily across art dealing, so the art market remains less ethical.
+[t16] Jack(CON): Artists also need protection from unfair copying and pressure, which is a serious related concern. But returning to this motion, stock markets can distance owners from consequences, so art is not inherently less ethical.
+[t17] Karen(PRO): Your point about distant stock owners does not answer concealed art transactions. Stock ownership may be remote, but art participants can hide the very facts needed to assess a sale, making art less ethical.
+[t18] <cut> Jack(CON): A buyer can purchase a painting after seeing it, meeting the seller, and receiving a written ownership record. That direct accountability is harder when a stockholder cannot meet corporate leaders. It proves art need not be less-
+[t19] @A4 <ovl> Brian(MOD): Ten seconds remaining in this round.
+
+--- phase 3 ---
+[t20] @A3-2 <ovl> Brian(MOD): And that's time. Now we move on to round three. And round three are closing statements by each debater in turn. Here is Karen.
+[t21] Karen(PRO): This decision turns on whether ordinary participants can see the interests shaping a transaction. In art, price, ownership, and commissions may remain concealed behind trusted intermediaries. Jack rightly noted that transparent sales exist. Yet isolated good sales do not cure a system that accepts opacity as routine.
+[t22] <cut> Karen(PRO): The stock market has serious ethical failures, but its basic structure demands more public information and clearer reporting. Art dealing too often makes secrecy part of the bargain. When people cannot identify-
+[t23] @A4 <ovl> Brian(MOD): Well, now it's ten.
+[t24] @A2-1 <ovl> Brian(MOD): Your time is up, Karen. Thank you. And here to summarize his position against the motion, Jack.
+[t25] Jack(CON): Karen's strongest point is that hidden commissions and unclear ownership can corrupt an art sale. I agree those practices deserve scrutiny. But the motion compares whole markets, not their worst examples. Stock investors regularly rely on distant managers and complicated decisions they cannot meaningfully inspect. Art can offer direct knowledge, negotiation, and personal accountability.
+[t26] @A4 <ovl> Brian(MOD): Ten seconds please.
+[t27] <cut> Jack(CON): Ethical conduct comes from honest disclosure and responsible behavior, wherever people trade. Calling art less ethical ignores transparent dealers, informed buyers, and direct sales. The better conclusion is that both-
+[t28] @A1 <ovl> Brian(MOD): Thank you, Jack. Your time is up.
+[t29] Brian(MOD): Thank you, Karen and Jack, for a thoughtful debate on the ethics of art and stock markets.

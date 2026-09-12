@@ -1,0 +1,378 @@
+{
+ "debate_id": "L087",
+ "motion": "Preserve net neutrality: all data is created equal.",
+ "speakers": {
+  "MOD": {
+   "name": "Oliver",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1656_617",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1656/MSP-PODCAST_1656_617.wav",
+   "wpm": 172.62
+  },
+  "PRO": {
+   "name": "Melissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  },
+  "CON": {
+   "name": "Danielle",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 90.73,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 307.51,
+ "ext": {
+  "a32": {
+   "file": "L087_ext_a32.wav",
+   "place_at_sec": 227.762,
+   "dur_sec": 35.33,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Your policing point mistakes neutrality for consumer homework, Danielle. Clear equal-treatment rules prevent the premium price from controlling reach before harm happens, and they give every service the same basic path to users."
+  },
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "A home warning system sends an urgent danger alert while a game download fills the connection. Priority gets help through first. That proves data should not always be treated equally."
+  },
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Who should decide that a game download deserves delay: the user, or the provider with a financial interest in selling faster access? Please answer how your flexible rule stops that provider from favoring itself."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.86,
+   "dur_sec": 20.86,
+   "overlap": false,
+   "text": "Welcome. Today's motion is preserve net neutrality: all data is created equal. Melissa speaks for it, and Danielle speaks against it. Each debater has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed segment ends, and I ask both speakers to address arguments directly."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.06,
+   "end_sec": 41.23,
+   "dur_sec": 20.17,
+   "overlap": false,
+   "text": "Net neutrality means the network carries messages without selling a faster lane to whoever can pay. That protects a new voice from being buried by an established one. It also keeps the network from becoming a gatekeeper that chooses whose ideas arrive smoothly. Equal treatment is not sameness of content; it is equal access to the road."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.06,
+   "end_sec": 42.3,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Melissa, ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.43,
+   "end_sec": 52.26,
+   "dur_sec": 10.83,
+   "overlap": false,
+   "text": "When access depends on payment, the powerful buy visibility while everyone else waits. Preserving neutrality keeps the network open for ordinary users, creators, and rivals. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 52.46,
+   "end_sec": 61.51,
+   "dur_sec": 9.05,
+   "overlap": false,
+   "text": "Thank you, Melissa. And that is the motion, preserve net neutrality: all data is created equal. And here making her opening statement against the motion, Danielle."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 61.71,
+   "end_sec": 79.55,
+   "dur_sec": 17.84,
+   "overlap": false,
+   "text": "Melissa's access point matters, but equal packets do not always serve equal people. A network sometimes needs to prioritize urgent traffic or offer better service that users choose. Banning every distinction treats useful management like censorship and freezes improvements that could help people more. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 79.75,
+   "end_sec": 94.64,
+   "dur_sec": 14.89,
+   "overlap": false,
+   "text": "That concludes round one. Now on to round two. It's our middle round. And it's where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 94.84,
+   "end_sec": 106.68,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Your access point assumes every difference is a paywall, Melissa. Why should a user who wants a smoother service be barred from choosing it, when that choice can fund better networks for everyone?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 106.95,
+   "end_sec": 118.43,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "When a provider owns a service that competes with an independent one, it must not favor its own traffic. That conflict lets a gatekeeper pick winners, which is why neutrality protects choice."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 119.248,
+   "end_sec": 128.858,
+   "dur_sec": 9.61,
+   "overlap": false,
+   "text": "I believe every data stream must always receive the same treatment. If carrying data is a service, why deny customers different levels of speed they willingly purchase?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 129.722,
+   "end_sec": 140.692,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "I reject the premise that a gated speed tier is a free choice; I would prevent it. Your rule ignores that providers can manufacture scarcity and charge people to escape it."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 141.213,
+   "end_sec": 151.783,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "An emergency data stream does not receive the same treatment. Sending a danger warning first can protect people, and refusing that priority merely worships a slogan instead of serving users."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 151.983,
+   "end_sec": 161.403,
+   "dur_sec": 9.42,
+   "overlap": false,
+   "text": "You said every data stream must always receive the same treatment, but you see it as an emergency data stream does not receive the same treatment."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 161.603,
+   "end_sec": 171.683,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "I keep both statements because equal treatment is the ideal, yet emergency priority serves the people behind data. That tension shows neutrality needs flexibility, not a rigid command."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 172.073,
+   "end_sec": 184.563,
+   "dur_sec": 12.49,
+   "overlap": false,
+   "text": "Your emergency-priority point confuses limited safety routing with paid discrimination. Neutrality can allow reasonable technical handling while forbidding providers from turning access into a private toll road, and your claim that flexibility requires unequal treatment-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 183.663,
+   "end_sec": 194.423,
+   "dur_sec": 10.76,
+   "overlap": true,
+   "text": "No, technical exceptions invite the same gatekeepers you fear to label profitable traffic special. Once rules become flexible, smaller services cannot know whether delay reflects congestion or a rival's deal."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 194.968,
+   "end_sec": 206.418,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "The network should be neutral for everyone using it, because no speaker should need an owner's permission to reach listeners. That public principle includes every user, while my conflict rule targets abuse."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 206.764,
+   "end_sec": 218.934,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "People also care about confusing bills and whether service workers can explain them honestly. But the motion is about equal data, and rigid equality blocks offers that let people choose the service they value."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 219.868,
+   "end_sec": 231.348,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I agree hidden delays are unfair, and providers should disclose traffic management. But disclosure cannot cure a paid fast lane; smaller voices still lose a fair chance. Neutrality keeps that chance open."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 231.672,
+   "end_sec": 244.192,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Your disclosure point is weak because it assumes users can police complex routing after harm occurs. People may see a label, but they cannot force a provider to expand capacity or lower a premium price.",
+   "ext_file": "L087_ext_a32.wav"
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 234.64,
+   "end_sec": 236.62,
+   "dur_sec": 1.98,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 244.64,
+   "end_sec": 253.96,
+   "dur_sec": 9.32,
+   "overlap": true,
+   "text": "Time's up. And now we move on to round three. Round three, closing statements from each debater in turn. And here to make her closing statement, Melissa."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 254.16,
+   "end_sec": 274.32,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Danielle's emergency example was the strongest challenge, but it does not justify selling ordinary access to the highest bidder. We can handle genuine technical needs without giving providers power to favor their own services. The core issue is who controls a person's path to an audience. Neutrality keeps that control from becoming a price."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 274.16,
+   "end_sec": 275.92,
+   "dur_sec": 1.76,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 274.52,
+   "end_sec": 287.66,
+   "dur_sec": 13.14,
+   "overlap": false,
+   "text": "An open baseline lets new ideas compete before money decides who is heard. It protects users from quiet pressure and keeps providers accountable to the people relying on them-",
+   "cut_at_sec": 281.55,
+   "full_dur_sec": 14.64,
+   "ext_file": "L087_027.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 284.66,
+   "end_sec": 288.61,
+   "dur_sec": 3.95,
+   "overlap": true,
+   "text": "You're out of time. And here to summarize her position, Danielle."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 288.81,
+   "end_sec": 307.27,
+   "dur_sec": 18.46,
+   "overlap": false,
+   "text": "Equal opportunity matters, but forcing every packet into one rule ignores what people need from a network. Urgent alerts, chosen service levels, and practical management can make access more useful. Preserve fairness by stopping abuse, not by declaring that every kind of data deserves identical treatment. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 307.47,
+   "end_sec": 313.48,
+   "dur_sec": 6.01,
+   "overlap": false,
+   "text": "Thank you, Melissa and Danielle, for a thoughtful debate. This concludes our discussion of the motion for today."
+  }
+ ]
+}

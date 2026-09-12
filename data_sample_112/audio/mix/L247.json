@@ -1,0 +1,413 @@
+{
+ "debate_id": "L214",
+ "motion": "Social Media is Good for Democracy.",
+ "speakers": {
+  "MOD": {
+   "name": "Hina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0927_381",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0927/MSP-PODCAST_0927_381.wav",
+   "wpm": 176.74
+  },
+  "PRO": {
+   "name": "Wendy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0370_980",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0370/MSP-PODCAST_0370_980.wav",
+   "wpm": 153.41
+  },
+  "CON": {
+   "name": "Marcia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 66.28,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 287.97,
+ "ext": {
+  "a32": {
+   "file": "L214_ext_a32.wav",
+   "place_at_sec": 214.514,
+   "dur_sec": 24.38,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "A fabricated video can make a candidate appear to confess to wrongdoing, and angry users spread it before anyone checks. That manufactured judgment shows social media corrupts democratic choice, so it is bad for democracy."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.25,
+   "dur_sec": 20.25,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is Social Media is Good for Democracy. Wendy will speak for it, and Marcia will speak against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed section ends; please address each other fairly and directly."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.45,
+   "end_sec": 35.73,
+   "dur_sec": 15.28,
+   "overlap": false,
+   "text": "Democracy works when ordinary people can speak, organize, and challenge power. Social media lowers the gate around public discussion, letting neglected concerns reach others quickly. Its flaws demand better habits and rules, but broader participation makes democracy stronger. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 35.93,
+   "end_sec": 38.66,
+   "dur_sec": 2.73,
+   "overlap": false,
+   "text": "Let me take your point to Marcia then."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 38.86,
+   "end_sec": 54.21,
+   "dur_sec": 15.35,
+   "overlap": false,
+   "text": "A democracy needs citizens to judge claims with care and to meet opposing views on fair terms. Social media instead rewards speed, outrage, and manipulation, while opaque feeds decide what gets noticed. More noise is not more self-government. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 54.41,
+   "end_sec": 69.94,
+   "dur_sec": 15.53,
+   "overlap": false,
+   "text": "And that concludes round one. So now we go on to round two. And round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 70.14,
+   "end_sec": 81.51,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "Imagine a false post claiming a local vote was cancelled; it races through feeds and keeps citizens home. That harm shows social media can distort participation, so it is bad for democracy."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 82.101,
+   "end_sec": 94.901,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "That example is harmful, but it shows a lie abusing a tool, not the tool defeating democracy. Fast correction, public replies, and warnings can expose the lie, while closed channels leave citizens powerless. That strengthens democracy."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 95.778,
+   "end_sec": 107.178,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "The harder question is who writes platform rules, how appeals work, and whether officials may inspect algorithms. I favor transparent hearings, independent review, and clear penalties for firms that ignore those rules."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 107.378,
+   "end_sec": 114.748,
+   "dur_sec": 7.37,
+   "overlap": false,
+   "text": "We're not talking about that, we're talking about whether social media is truly good for democracy, that's what we'll concentrate on."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 114.948,
+   "end_sec": 126.798,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "The motion asks whether social media is good for democracy, and I say it is not. When feeds amplify the most provocative claims, citizens receive a warped public conversation rather than equal democratic discussion."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 127.486,
+   "end_sec": 139.866,
+   "dur_sec": 12.38,
+   "overlap": false,
+   "text": "We should teach people to check sources and argue without cruelty, because civic habits matter. But the motion turns on access: social media lets citizens find one another and press leaders, which is good for democracy."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 140.45,
+   "end_sec": 151.21,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "I believe no online political speech should ever be removed. Once platforms decide which views may remain, public debate depends on private gatekeepers, so social media is bad for democracy."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 151.726,
+   "end_sec": 163.256,
+   "dur_sec": 11.53,
+   "overlap": false,
+   "text": "During a council meeting, a resident posts a video of an overlooked broken bridge; neighbors share it, question officials, and demand repair. That visible accountability proves social media can be good for democracy."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 163.939,
+   "end_sec": 174.269,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "A forged emergency warning is online political speech. This online political speech should be removed, because leaving it up invites panic and shows social media is bad for democracy."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 174.469,
+   "end_sec": 181.679,
+   "dur_sec": 7.21,
+   "overlap": false,
+   "text": "Marcia said i believe no online political speech should ever be removed, but this online political speech should be removed."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 181.879,
+   "end_sec": 194.079,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Both statements protect democratic debate: private platforms must never remove political speech, while public authorities can remove this warning. The key issue is power, and concentrated platform power makes social media bad for democracy."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 194.432,
+   "end_sec": 205.402,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "If social media is bad for democracy, how can citizens without powerful outlets publicly challenge leaders or coordinate around a shared problem? Democracy needs usable channels, and social media is one."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 205.61,
+   "end_sec": 217.86,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "Your weakest claim is that social media is the only usable channel. Citizens can meet, write, organize locally, and question leaders without surrendering attention to feeds designed to provoke them, so the motion still fails."
+  },
+  {
+   "i": 18,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 209.94,
+   "end_sec": 211.71,
+   "dur_sec": 1.77,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 218.174,
+   "end_sec": 223.44,
+   "dur_sec": 5.266,
+   "overlap": false,
+   "text": "I agree that feeds can reward provocation, and users-",
+   "ext_file": "L214_ext_a32.wav",
+   "cut_at_sec": 217.08,
+   "full_dur_sec": 11.93
+  },
+  {
+   "i": 20,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 219.94,
+   "end_sec": 228.11,
+   "dur_sec": 8.17,
+   "overlap": true,
+   "text": "Time's up. Now we move on to round three. And round three are closing statements by each debater in turn. Here is Wendy."
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 228.31,
+   "end_sec": 237.36,
+   "dur_sec": 9.05,
+   "overlap": false,
+   "text": "This decision turns on whether citizens gain a real voice against power. Social media gives them that voice in public."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 236.46,
+   "end_sec": 238.76,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "You call it participation, but platforms reward-",
+   "cut_at_sec": 235.1,
+   "full_dur_sec": 9.36,
+   "ext_file": "L214_023.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 237.96,
+   "end_sec": 240.21,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Please could you let her finish, please?"
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.41,
+   "end_sec": 250.42,
+   "dur_sec": 10.01,
+   "overlap": false,
+   "text": "and the answer is whether citizens can challenge power together. Social media gives them a public channel, so democracy gains practical participation."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 248.31,
+   "end_sec": 249.55,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 250.62,
+   "end_sec": 257.98,
+   "dur_sec": 7.36,
+   "overlap": false,
+   "text": "Its risks need rules, but its democratic reach makes the motion true. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 258.18,
+   "end_sec": 261.07,
+   "dur_sec": 2.89,
+   "overlap": false,
+   "text": "All right, so let me bring Marcia."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 261.27,
+   "end_sec": 281.28,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "Deciding this motion means asking whether a system that spreads voices also gives citizens grounds for judgment. It can help people speak, but it also lets deception, outrage, and hidden ranking steer attention before reflection begins. Democracy needs shared facts and accountable debate, not merely faster messages, and the question is who shapes what citizens see."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 281.27,
+   "end_sec": 282.88,
+   "dur_sec": 1.61,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.48,
+   "end_sec": 289.08,
+   "dur_sec": 7.6,
+   "overlap": false,
+   "text": "When attention is easily manipulated, social media weakens the judgment democracy requires. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 289.28,
+   "end_sec": 295.29,
+   "dur_sec": 6.01,
+   "overlap": false,
+   "text": "Thank you, Wendy and Marcia, for a thoughtful debate on the motion; this debate is now closed."
+  }
+ ]
+}

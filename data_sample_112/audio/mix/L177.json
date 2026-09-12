@@ -1,0 +1,447 @@
+{
+ "debate_id": "L088",
+ "motion": "Ukraine should get Russia's frozen assets.",
+ "speakers": {
+  "MOD": {
+   "name": "Art",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6916_657",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6916/MSP-PODCAST_6916_657.wav",
+   "wpm": 175.38
+  },
+  "PRO": {
+   "name": "Tony",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6504_583",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6504/MSP-PODCAST_6504_583.wav",
+   "wpm": 171.06
+  },
+  "CON": {
+   "name": "Daisy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3725_146",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3725/MSP-PODCAST_3725_146.wav",
+   "wpm": 172.52
+  }
+ },
+ "selective": [
+  "A1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 99.94,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 309.41,
+ "ext": {
+  "a32": {
+   "file": "L088_ext_a32.wav",
+   "place_at_sec": 239.879,
+   "dur_sec": 31.44,
+   "src_i": 25
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 26,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "I accept that negotiated payments can help, but your compensation point leaves Ukraine waiting for Russia's consent. Frozen assets provide enforceable repair through lawful transfer, so Ukraine should get them."
+  },
+  {
+   "src_i": 27,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Picture a repair contractor promised money from transferred reserves, then a court reverses the seizure and work halts halfway. Families face unfinished roofs, proving uncertain confiscation can hurt Ukraine."
+  },
+  {
+   "src_i": 28,
+   "speaker": "PRO",
+   "slot": "X16",
+   "text": "If Russia refuses negotiated payment for years, what enforceable source would you use to repair destroyed homes: public donations alone? Please answer how that leaves Ukraine with a fair remedy."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.88,
+   "dur_sec": 18.88,
+   "overlap": false,
+   "text": "Welcome. The motion is that Ukraine should get Russia's frozen assets; Tony supports it, and Daisy opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed speech ends; speak in turn and address the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.08,
+   "end_sec": 28.88,
+   "dur_sec": 9.8,
+   "overlap": false,
+   "text": "Russia's assets are frozen because its state caused terrible damage. Transferring them would make the aggressor help repair homes, schools, and power lines instead of leaving Ukraine alone with."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 27.98,
+   "end_sec": 30.28,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "You call this repair, but you skip the-",
+   "cut_at_sec": 30.28,
+   "full_dur_sec": 9.74,
+   "ext_file": "L088_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 29.48,
+   "end_sec": 31.25,
+   "dur_sec": 1.77,
+   "overlap": true,
+   "text": "Let's talk one at a time."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 31.45,
+   "end_sec": 41.89,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "the burden. Ukraine needs a real path to rebuild, and these state funds were immobilized for a reason. Keeping them idle protects Russia from consequences of its own war."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.08,
+   "end_sec": 41.95,
+   "dur_sec": 2.87,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 42.09,
+   "end_sec": 50.0,
+   "dur_sec": 7.91,
+   "overlap": false,
+   "text": "Giving them to Ukraine turns a frozen penalty into repair, which is exactly what justice demands. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 50.2,
+   "end_sec": 52.05,
+   "dur_sec": 1.85,
+   "overlap": false,
+   "text": "Let her come back on that."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.25,
+   "end_sec": 73.25,
+   "dur_sec": 21.0,
+   "overlap": false,
+   "text": "Tony's repair point sounds fair, but fairness also needs rules that survive a hard case. Frozen assets are not a blank check for outsiders to spend. Taking them without a settled legal basis weakens the protection that keeps countries from seizing each other's property. Ukraine deserves support, but it can come through agreed funding without creating a permanent power."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 72.25,
+   "end_sec": 73.25,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 73.45,
+   "end_sec": 85.75,
+   "dur_sec": 12.3,
+   "overlap": false,
+   "text": "That limit matters because today's popular target can become tomorrow's excuse. If governments can redirect another state's reserves by political choice, trust in safe custody shrinks. And-",
+   "cut_at_sec": 81.48,
+   "full_dur_sec": 14.08,
+   "ext_file": "L088_010.wav"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 82.75,
+   "end_sec": 86.12,
+   "dur_sec": 3.37,
+   "overlap": true,
+   "text": "I have to step in because we hit our time limit."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 86.32,
+   "end_sec": 102.01,
+   "dur_sec": 15.69,
+   "overlap": false,
+   "text": "And that concludes Round one. Now we move onto Round two. And in Round two, it's freer form. The debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 102.21,
+   "end_sec": 111.73,
+   "dur_sec": 9.52,
+   "overlap": false,
+   "text": "Your repair point assumes seized money remains harmlessly available, but the custody point says otherwise. If states fear confiscation, they hide assets and make future settlements harder."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 112.083,
+   "end_sec": 123.563,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I agree that stable rules matter, but your custody point treats Russia's state assets as untouchable regardless of aggression. A lawful transfer tied to repair enforces responsibility, so Ukraine should receive them."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 124.521,
+   "end_sec": 135.561,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Consider a small neutral saver whose pension fund holds reserves abroad. After a transfer, its value falls, and her retirement payment is cut. That harm proves confiscation spreads costs beyond Russia."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 136.403,
+   "end_sec": 147.003,
+   "dur_sec": 10.6,
+   "overlap": false,
+   "text": "When an independent legal process finds particular frozen state funds available for compensation, transfer is justified. That condition protects rights while ensuring Russia, rather than Ukraine alone, bears repair costs."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 147.625,
+   "end_sec": 159.385,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Your legal-process condition is the weak point, because you have not shown who can make that finding without political pressure. A label of independence cannot cure confiscation, so Ukraine should not get them."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 159.778,
+   "end_sec": 171.538,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "A credible international legal panel can make that finding, rather than a single government. Your fear of pressure cannot erase Russia's obligation to repair the damage it caused, so Ukraine should get them."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 172.156,
+   "end_sec": 183.556,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "The panel point fails because a panel still needs authority over property it does not own. Creating that authority after freezing funds makes law follow politics, so Ukraine should not get them."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 184.303,
+   "end_sec": 195.343,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "You are right that authority cannot be invented casually, but existing legal principles can address wrongful state conduct. Refusing remedies leaves frozen assets useless, while Ukraine should receive them for repair."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 196.217,
+   "end_sec": 207.257,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Imagine a future dispute where a weaker country is accused by stronger rivals and its reserves are transferred before facts are settled. Its hospitals lose imported supplies, proving this tool can-"
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 207.51,
+   "end_sec": 217.11,
+   "dur_sec": 9.6,
+   "overlap": false,
+   "text": "Frozen state assets should serve repair after an unlawful invasion, because victims should not carry destruction alone. That principle guides legal processes toward Ukraine receiving Russia's assets."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 217.817,
+   "end_sec": 228.857,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Your broader principle abandons the safeguard you just praised: it says assets should serve repair, then hopes process follows. Principles do not authorize taking property, so Ukraine should not get them."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 229.301,
+   "end_sec": 241.421,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "No, the principle does not authorize seizure by itself; legal process remains necessary. But your position makes procedure a shield for the party that caused damage, while Ukraine should get assets once lawfully awarded."
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 241.949,
+   "end_sec": 251.949,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "Your procedure-shield point mistakes caution for protection of wrongdoing. Courts can require compensation without handing over reserves, and negotiated arrangements preserve pressure, so Ukraine should not get them.",
+   "ext_file": "L088_ext_a32.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 242.01,
+   "end_sec": 244.18,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 252.01,
+   "end_sec": 257.77,
+   "dur_sec": 5.76,
+   "overlap": true,
+   "text": "Time. And now we move into closing statements from each debater in turn, starting with Tony."
+  },
+  {
+   "i": 28,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 257.97,
+   "end_sec": 275.55,
+   "dur_sec": 17.58,
+   "overlap": false,
+   "text": "This turns on responsibility, not revenge. Russia's frozen state assets can, through lawful process, repair the damage its war caused rather than sit unused while Ukraine rebuilds. Daisy offers caution, but caution cannot mean the victim alone pays; Ukraine should get the assets. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 275.75,
+   "end_sec": 277.35,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "All right, let her answer."
+  },
+  {
+   "i": 30,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 277.55,
+   "end_sec": 297.82,
+   "dur_sec": 20.27,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether a justified goal permits an unreliable method. Ukraine needs rebuilding, and Russia should face pressure to pay. But transferring frozen assets risks turning legal custody into political taking. A durable peace needs rules that protect property, permit compensation through recognized decisions, and keep support for Ukraine from depending on a precedent that others can misuse."
+  },
+  {
+   "i": 31,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 297.55,
+   "end_sec": 298.79,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 32,
+   "src_i": 35,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 298.02,
+   "end_sec": 309.03,
+   "dur_sec": 11.01,
+   "overlap": false,
+   "text": "That is why aid and compensation should continue, but this particular transfer should not. The safer path helps Ukraine without weakening the rules everyone may need. That's all, thank you."
+  },
+  {
+   "i": 33,
+   "src_i": 36,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 309.23,
+   "end_sec": 315.99,
+   "dur_sec": 6.76,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate. This concludes our discussion of whether Ukraine should receive Russia's frozen assets."
+  }
+ ]
+}

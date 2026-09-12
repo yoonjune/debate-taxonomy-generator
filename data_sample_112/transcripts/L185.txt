@@ -1,0 +1,43 @@
+L185  |  Citizens United has undermined democracy.
+  MOD=Nadine   PRO=Rima   CON=Helen
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Nadine(MOD): Welcome. Tonight's motion is that Citizens United has undermined democracy. Rima speaks for the motion, and Helen speaks against it. Each has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address each other directly and keep remarks to the motion.
+[t01] Rima(PRO): The ruling opened a political marketplace where a few wealthy voices can dominate. Elections should let citizens weigh arguments, not force them to compete with endless paid persuasion. When money buys repetition, candidates answer donors before neighbors. That changes whose concerns get heard, and it weakens democratic equality at the ballot box.
+[t02] @A4 <ovl> Nadine(MOD): Ten seconds, Rima.
+[t03] <cut> Rima(PRO): And the damage is dependence: officials know a small circle can finance attacks, so access follows wealth. If ordinary citizens cannot answer that pressure, how can their voice be equal when elections-
+[t04] @A2-1 <ovl> Nadine(MOD): Rima, you're rather going on. Thank you. Helen.
+[t05] Helen(CON): No, equality does not mean equal spending. It means equal ballots, open debate, and citizens free to hear competing speakers. The ruling protects that freedom.
+[t06] <ovl> <cut> Rima(PRO): But ballots fail when wealthy groups drown out other-
+[t07] @A5 <ovl> Nadine(MOD): Yes. You go ahead, Helen.
+[t08] Helen(CON): Competing speakers, and voters can reject every one of them. Your theory treats citizens as helpless, rather than capable of judging claims, motives, and exaggeration for themselves.
+[t09] @A4 <ovl> Nadine(MOD): Well, now ten.
+[t10] Helen(CON): Democracy trusts people to decide after hearing more speech, not less. That's all, thank you.
+
+--- phase 2 ---
+[t11] @A3-1 Nadine(MOD): And that concludes round one of this debate. Now we go on to round two. And round two are where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t12] Helen(CON): They can have equal political standing without equal megaphones, because each vote counts the same. You mistake persuasion for control; voters can discount an attack and choose independently.
+[t13] Rima(PRO): Imagine a local candidate facing anonymous ads funded by one wealthy interest. She spends every day answering distortions instead of meeting voters; that proves the ruling tilts representation toward money.
+[t14] Helen(CON): That example also raises how campaigns hire designers, rent rooms, and train volunteers, since those choices shape a message. Fair rules for volunteers and campaign staff matter because their work determines whether candidates communicate clearly.
+[t15] @B1 Nadine(MOD): That's whether the citizens united ruling has undermined our democracy. That's the motion we're discussing.
+[t16] Helen(CON): On the ruling itself, it did not undermine democracy because it left the voter, the ballot, and public disagreement intact. Suppressing political spending would give officials power to decide which voices may reach citizens.
+[t17] Rima(PRO): Money can make political speech irritating and uneven, and I share that concern. But the main danger is allowing wealth to dominate attention, which undermines democracy by making political equality hollow.
+[t18] Helen(CON): When spending is disclosed clearly and voters can examine its source, political advocacy adds information rather than corruption. Why assume a message becomes undemocratic merely because its sponsor has money?
+[t19] Rima(PRO): I reject that premise: disclosure does not erase a donor's ability to flood the conversation. When one sponsor buys constant attention, information becomes pressure, and democracy is undermined there.
+[t20] Helen(CON): Political speech can inform voters, and democracy should welcome vigorous disagreement from people with different means. The ruling protects that open exchange rather than making government the referee of acceptable political voices.
+[t21] Rima(PRO): Campaigns also need volunteers, debate halls, and local conversations; those parts of politics cannot simply be purchased. But unlimited outside spending can swamp those public voices, so this ruling still undermines democracy.
+[t22] Helen(CON): If voters can compare messages, talk with neighbors, and cast equal ballots, what democratic power has been taken from them? Aren't you really objecting to persuasive speech you dislike, not to democracy?
+[t23] Rima(PRO): You are right that voters retain ballots and can reject ads. But a few funders can set the agenda through relentless spending; that structural imbalance plainly undermines democracy itself.
+[t24] Helen(CON): Your agenda claim is weakest because candidates, journalists, neighbors, and opponents can answer any funded message. How does a donor setting a topic erase the citizen's equal vote or independent judgment?
+[t25] @A4 <ovl> Nadine(MOD): Ten seconds left, then we go to closings.
+[t26] <cut> Rima(PRO): It does not erase a ballot, but democracy requires more than a formal vote. When donors decide-
+
+--- phase 3 ---
+[t27] @A3-2 <ovl> Nadine(MOD): Okay, time. Now we move on to round three. Round three will be closing statements. Here is Rima.
+[t28] Rima(PRO): Helen's best point is that equal ballots and open speech matter. Yet ballots are meaningful only when no wealthy sponsor can command the political agenda through unlimited spending. This ruling protects spending power above political equality, allowing money to distort representation; that is why it has undermined democracy. That's all, thank you.
+[t29] @A2-2 Nadine(MOD): What about that, Helen?
+[t30] Helen(CON): Rima rightly worries wealth can amplify speech, and voters deserve information about who pays. But amplification is not control because citizens hear rivals, challenge claims, and cast equal ballots. The ruling does not bar anyone from speaking; it prevents government from silencing speakers based on resources. A democracy confident in its citizens protects discussion even when some voices are louder, and it
+[t31] @A4 <ovl> Nadine(MOD): You have ten seconds.
+[t32] Helen(CON): trusts voters to sort persuasion from truth, seek other views, and reject arguments they find empty. That safeguard preserves our democracy rather than undermining it. That's all, thank you.
+[t33] Nadine(MOD): Thank you both for a focused exchange on this motion; this debate is now closed.

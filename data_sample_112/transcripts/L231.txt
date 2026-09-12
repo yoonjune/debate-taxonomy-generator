@@ -1,0 +1,42 @@
+L231  |  Affirmative action is unfair to Asian Americans.
+  MOD=Helen   PRO=Franklin   CON=Gloria
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Helen(MOD): Welcome. Tonight's motion is that affirmative action is unfair to Asian Americans; Franklin argues for it, and Gloria argues against it. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire. Please address the motion directly and listen carefully to one another throughout tonight. I will give a ten-second cue.
+[t01] Franklin(PRO): Affirmative action can judge an Asian American applicant by a racial category before hearing the whole person. That is unfair when a qualified individual loses a real opportunity because administrators seek a preferred racial balance. Fairness means judging applicants as individuals, not using them to repair past wrongs. That's all, thank you.
+[t02] @A2-2 Helen(MOD): Thank you very much indeed. All right. Could I please ask Gloria to speak against the motion, please.
+[t03] Gloria(CON): Franklin treats any consideration of race as a verdict on an individual's worth. It can instead be one limited tool for opening doors where old barriers still shape access. Applicants are more than test scores or a single label, and schools may consider varied experiences. The question is whether a process sees the whole candidate.
+[t04] @A4 <ovl> Helen(MOD): You have ten seconds.
+[t05] <cut> Gloria(CON): That does not mean every choice is perfect, but it does mean race-conscious review can prevent talent from being overlooked. Calling that unfair assumes equal starting points, while the issue is-
+[t06] @A1 <ovl> Helen(MOD): I have to step in because we hit our time limit.
+
+--- phase 2 ---
+[t07] @A3-1 Helen(MOD): Now we go on to round two. Round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t08] Franklin(PRO): Your opening called race a limited tool, yet a tool can still burden the person measured by it. If an Asian American's race counts against admission, the limit does not erase the unfairness.
+[t09] <cut> Gloria(CON): How can you call a process unfair merely because it notices race, when ignoring race can hide barriers that shape preparation and access? You want applicants judged as individuals, but an individual lives within-
+[t10] Franklin(PRO): Where a review treats race as a penalty against an Asian American applicant, it is unfair, even if barriers exist elsewhere. Would you accept that person losing a place because of that category?
+[t11] Gloria(CON): No, I would not accept a racial penalty; your premise wrongly treats every race-conscious review as one. A process can consider disadvantage and background without assigning Asian Americans a negative mark or making them responsible.
+[t12] Franklin(PRO): Individual judgment is the standard for every applicant, not merely cases with an explicit penalty. Any policy that lets race affect an Asian American's prospects makes that applicant carry a group burden.
+[t13] Gloria(CON): Your group-burden point assumes any consideration has the same weight as a fixed racial verdict. Holistic review can recognize obstacles without reducing Asian Americans to a group, which is why the motion overstates unfairness.
+[t14] Franklin(PRO): Admissions also shape classrooms, conversations, and the trust students build after arrival; those things matter to education. But the motion is fairness to Asian Americans, and race-based preference can deny them equal individual treatment.
+[t15] Gloria(CON): If you demand equal individual treatment, why should a reviewer ignore disadvantages that helped shape one applicant's record while pretending every file began at the same starting line in practice?
+[t16] Franklin(PRO): Reviewers may consider hardship; I grant that narrow point. But why should another applicant's hardship permit race to lower the standing of a qualified Asian American, when fairness requires equal treatment?
+[t17] Gloria(CON): No hardship should lower an Asian American's standing because of race; I reject that premise. But your equal-treatment claim ignores that fair review can notice unequal paths without setting a racial penalty.
+[t18] Franklin(PRO): Consider two equally prepared students seeking one seat: an Asian American is passed over because the committee wants a different racial mix. The rejected student did nothing wrong, and that outcome proves unfairness.
+[t19] Gloria(CON): Your one-seat example assumes the committee simply traded race against race, which is the point I reject. A whole-file review may value experiences affecting opportunity, so it does not prove Asian Americans are treated unfairly.
+[t20] @A4 <ovl> Helen(MOD): Ten seconds left in the crossfire.
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Helen(MOD): Time. I'm going to jump in because we're going to go to closing statements. Now we move on to our final round. Franklin, you are up first.
+[t22] Franklin(PRO): Deciding this motion turns on a simple line: may an institution make an Asian American's race count against that individual? Context and hardship deserve attention, but they should be personal, not assigned by ancestry. Gloria calls the process holistic, yet a holistic label cannot excuse a racial burden. The listener should ask who pays when balance is pursued.
+[t23] @A4 <ovl> Helen(MOD): Ten.
+[t24] <cut> Franklin(PRO): Fairness is not achieved by moving a cost from one group to another. An applicant denied opportunity because of race is treated as a symbol, not a person, and that is why-
+[t25] @A2-1 <ovl> Helen(MOD): I'm going to stop you there, Franklin, we're out of time. Gloria.
+[t26] Gloria(CON): Franklin makes fairness sound like blindness to every social fact. But an applicant is not harmed simply because a reviewer understands barriers and opportunity in context.
+[t27] <ovl> <cut> Franklin(PRO): But that context becomes a racial excuse-
+[t28] @A5 <ovl> Helen(MOD): Please let her answer it then.
+[t29] Gloria(CON): must be seen alongside the conditions that shaped the application. Fair review is not a penalty; it is an effort to judge people beyond a narrow scorecard.
+[t30] @A4 <ovl> Helen(MOD): I'll give you ten more seconds to nail this.
+[t31] Gloria(CON): The motion fails because context-sensitive review can expand fairness without making Asian Americans bear blame. That's all, thank you.
+[t32] Helen(MOD): Thank you both for a thoughtful debate on this motion. That concludes our discussion this evening.

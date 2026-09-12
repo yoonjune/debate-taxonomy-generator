@@ -1,0 +1,391 @@
+{
+ "debate_id": "L158",
+ "motion": "The liberal international order is over",
+ "speakers": {
+  "MOD": {
+   "name": "Christopher",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6504_583",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6504/MSP-PODCAST_6504_583.wav",
+   "wpm": 171.06
+  },
+  "PRO": {
+   "name": "Enrique",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2988_467",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2988/MSP-PODCAST_2988_467.wav",
+   "wpm": 167.95
+  },
+  "CON": {
+   "name": "Annette",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 87.32,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 298.99,
+ "ext": {
+  "a32": {
+   "file": "L158_ext_a32.wav",
+   "place_at_sec": 234.218,
+   "dur_sec": 21.34,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "They appeal because the language is useful, not because the order commands them. Annette, a borrowed vocabulary can outlive the authority behind it; why call a fading habit a living order?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.36,
+   "dur_sec": 21.36,
+   "overlap": false,
+   "text": "Welcome to our debate on whether the liberal international order is over. Enrique argues for the motion, and Annette argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each speaker has thirty seconds to close; I will give a ten-second cue. Please address each other directly and keep your arguments focused."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.56,
+   "end_sec": 37.47,
+   "dur_sec": 15.91,
+   "overlap": false,
+   "text": "The order is over because its promises no longer command obedience when pressure arrives. Rules remain on paper, but power now decides which rules matter. Annette may call that adaptation; I call it the end of an order in practice. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 37.67,
+   "end_sec": 39.59,
+   "dur_sec": 1.92,
+   "overlap": false,
+   "text": "What about that, Annette?"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 39.79,
+   "end_sec": 59.56,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "I agree that rules can be ignored, but an order is not a promise of perfect obedience. It is a shared framework that lets rivals bargain, restrain conflict, and rebuild cooperation after failure. The fact that power matters has always been true. What matters is whether states still need rules to"
+  },
+  {
+   "i": 4,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 59.76,
+   "end_sec": 73.29,
+   "dur_sec": 13.53,
+   "overlap": false,
+   "text": "solve disputes without force. They do, and that continuing need is why the order has changed rather than vanished. Enrique treats every breach as a funeral notice, yet institutions still give opponents-",
+   "cut_at_sec": 68.79,
+   "full_dur_sec": 14.64,
+   "ext_file": "L158_005.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 59.79,
+   "end_sec": 61.63,
+   "dur_sec": 1.84,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 70.29,
+   "end_sec": 74.01,
+   "dur_sec": 3.72,
+   "overlap": true,
+   "text": "I'm sorry. Your time is up. Thank you very much."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 74.21,
+   "end_sec": 89.62,
+   "dur_sec": 15.41,
+   "overlap": false,
+   "text": "That concludes round one. Now we move on to round two and in round two the debaters have a conversation, address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 89.82,
+   "end_sec": 102.23,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "They do still need rules, but need does not prove an order exists. You confuse a remaining vocabulary for cooperation with authority; when strong states choose rules only when convenient, the old liberal order is over."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 102.723,
+   "end_sec": 115.373,
+   "dur_sec": 12.65,
+   "overlap": false,
+   "text": "Even the ceremonies around agreements matter: they teach officials to listen, preserve memory, and leave doors open. But those habits serve a living framework, Enrique, so adaptation does not mean the liberal international order is over."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.239,
+   "end_sec": 126.999,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "I believe this: a liberal order never survives when rules lose authority. Your ceremonies may continue, but ritual cannot restore order once members treat commitments as optional in practice now."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 127.619,
+   "end_sec": 138.509,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "Your authority point mistakes violations for extinction. Rules have always faced breaches; their value lies in giving even rivals a standard to invoke, and that continuing standard means the order persists."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 138.954,
+   "end_sec": 150.714,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "This liberal order survives when rules lose authority. When members ignore a trade promise yet keep bargaining through its shared channels, the order survives as a shell, but its liberal core has ended."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 150.914,
+   "end_sec": 159.194,
+   "dur_sec": 8.28,
+   "overlap": false,
+   "text": "So, so while saying a liberal order never survives when rules lose authority, you're saying this liberal order survives when rules lose authority?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 159.394,
+   "end_sec": 169.724,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "Both statements distinguish an operating shell from a liberal order with authority. Bargaining can survive mechanically after rules lose force, but the order itself, as a governing bargain, cannot survive."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 169.978,
+   "end_sec": 181.748,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "No, he has not reconciled them; calling the same order a shell does not erase its survival. You admit cooperation continues, Enrique, and durable cooperation under shared rules is precisely what the order is."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 182.176,
+   "end_sec": 194.266,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "That cooperation also depends on how new officials learn to read old agreements and trust unfamiliar counterparts. If they inherit patient mentors rather than cynical performers, the next generation will negotiate with more confidence."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 194.466,
+   "end_sec": 199.866,
+   "dur_sec": 5.4,
+   "overlap": false,
+   "text": "It's really off the topic of the proposition that the liberal international order is over."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 200.066,
+   "end_sec": 211.196,
+   "dur_sec": 11.13,
+   "overlap": false,
+   "text": "On the motion, the liberal international order is over because its rules no longer govern conduct reliably. Annette calls continued negotiation survival, but negotiation without accepted restraint is merely bargaining among powers."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 211.774,
+   "end_sec": 224.264,
+   "dur_sec": 12.49,
+   "overlap": false,
+   "text": "Your restraint point sets an impossible test: no order governs every act reliably. The relevant question is whether shared rules still shape choices, and the ongoing need to justify conduct through them proves they do."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 224.789,
+   "end_sec": 235.999,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "The weakest claim is that justification proves authority. Powerful members can borrow moral language while ignoring its limits; a speech defending a breach shows reputation matters, not that an order still governs."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 229.62,
+   "end_sec": 231.81,
+   "dur_sec": 2.19,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 236.518,
+   "end_sec": 243.12,
+   "dur_sec": 6.602,
+   "overlap": false,
+   "text": "If the order is truly over, why do even hostile members keep-",
+   "ext_file": "L158_ext_a32.wav",
+   "cut_at_sec": 238.12,
+   "full_dur_sec": 10.57
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 239.62,
+   "end_sec": 251.82,
+   "dur_sec": 12.2,
+   "overlap": true,
+   "text": "Time. So, let's move on to round three, closing statements. Each debater in turn, here to make his closing statement in support of the proposition that the liberal international order is over, is Enrique."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 252.02,
+   "end_sec": 271.23,
+   "dur_sec": 19.21,
+   "overlap": false,
+   "text": "This decision turns on whether an order is defined by its surviving paperwork or by its power to bind those who matter. Annette has shown that people still use its language, and I concede that language can linger. But when commitments become optional, the structure beneath that language has already failed, and the real question is"
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 271.43,
+   "end_sec": 279.01,
+   "dur_sec": 7.58,
+   "overlap": false,
+   "text": "whether we call that hollow survival, or recognize it as the order's end. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 272.02,
+   "end_sec": 273.9,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 279.21,
+   "end_sec": 281.17,
+   "dur_sec": 1.96,
+   "overlap": false,
+   "text": "It's Annette's turn to talk."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.37,
+   "end_sec": 299.88,
+   "dur_sec": 18.51,
+   "overlap": false,
+   "text": "The strongest point is simple: an order survives through repeated cooperation, not perfect compliance. Enrique calls its institutions a shell, yet that shell still channels disputes toward rules and dialogue. Change is not death; as long as shared rules shape choices, the liberal international order endures. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 300.08,
+   "end_sec": 305.84,
+   "dur_sec": 5.76,
+   "overlap": false,
+   "text": "Thank you, Enrique and Annette, for a thoughtful exchange; this concludes our debate on today's motion."
+  }
+ ]
+}

@@ -1,0 +1,418 @@
+{
+ "debate_id": "L112",
+ "motion": "Hunters conserve wildlife.",
+ "speakers": {
+  "MOD": {
+   "name": "Nolan",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4930_104",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4930/MSP-PODCAST_4930_104.wav",
+   "wpm": 173.57
+  },
+  "PRO": {
+   "name": "Ryan",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4066_400",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4066/MSP-PODCAST_4066_400.wav",
+   "wpm": 162.5
+  },
+  "CON": {
+   "name": "Bernard",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  }
+ },
+ "selective": [
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 58.57,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 280.86,
+ "ext": {
+  "a32": {
+   "file": "L112_ext_a32.wav",
+   "place_at_sec": 202.497,
+   "dur_sec": 9.72,
+   "src_i": 19
+  }
+ },
+ "flags": [
+  "ext_a32: 마감 뒤 3.6초뿐 (여유분 부족)"
+ ],
+ "dropped_turns": [],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.69,
+   "dur_sec": 15.69,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, hunters conserve wildlife. Ryan argues for the motion, and Bernard argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.89,
+   "end_sec": 31.43,
+   "dur_sec": 15.54,
+   "overlap": false,
+   "text": "Hunters can fund habitat care, report damage, and support limits that keep animal populations healthy. Taking responsibility for wildlife is not only avoiding harm; it is protecting land and balance. That practical stewardship means hunters conserve wildlife. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 31.63,
+   "end_sec": 34.41,
+   "dur_sec": 2.78,
+   "overlap": false,
+   "text": "All right, let's give Bernard a chance to reply."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 34.61,
+   "end_sec": 50.06,
+   "dur_sec": 15.45,
+   "overlap": false,
+   "text": "A hunter's central purpose is to kill an animal, not preserve it. Money or rules around hunting may sometimes help, but those benefits do not turn the act into conservation. Wildlife deserves protection without being treated as a target. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 50.26,
+   "end_sec": 62.36,
+   "dur_sec": 12.1,
+   "overlap": false,
+   "text": "Thank you, Bernard. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 62.56,
+   "end_sec": 73.0,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "I agree that killing an animal can feel troubling. But conservation means caring for a whole population and its habitat, and hunters often accept limits to do exactly that."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 73.202,
+   "end_sec": 83.562,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "You call accepting limits stewardship, but limits only restrain an activity that creates danger. If hunters truly conserved wildlife, their basic practice would protect animals rather than remove them."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 84.493,
+   "end_sec": 95.613,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "People also argue about outdoor traditions and personal freedom, but that is not the real test. The question is whether hunters help wildlife persist, and responsible habitat work shows they do."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 96.031,
+   "end_sec": 104.311,
+   "dur_sec": 8.28,
+   "overlap": false,
+   "text": "No hunter ever conserves wildlife. A person who aims a weapon at an animal cannot honestly claim that taking its life is protection."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 105.011,
+   "end_sec": 115.091,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "A hunter clears tangled fencing from a feeding area, so young animals stop getting trapped there. That direct care protects living wildlife and proves hunters can conserve it."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 115.797,
+   "end_sec": 124.077,
+   "dur_sec": 8.28,
+   "overlap": false,
+   "text": "This hunter conserves wildlife. Still, one helpful act does not erase the violence at the center of hunting, so the motion remains false."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 124.277,
+   "end_sec": 131.927,
+   "dur_sec": 7.65,
+   "overlap": false,
+   "text": "I'm puzzled by your stand. On the one hand no hunter ever conserves wildlife and on the other hand this hunter conserves wildlife."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 132.127,
+   "end_sec": 143.607,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "My first statement judged hunting as a practice, while the second credits a helpful act apart from that purpose. Helping once does not make the hunter's killing conservation, so I remain against."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 144.231,
+   "end_sec": 153.791,
+   "dur_sec": 9.56,
+   "overlap": false,
+   "text": "That distinction fails because the same person protects habitat and follows population limits as part of hunting. You cannot erase real conservation simply by calling it separate-"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.891,
+   "end_sec": 164.011,
+   "dur_sec": 11.12,
+   "overlap": true,
+   "text": "No, the point is that clearing a fence is conservation, but killing is not. You are borrowing the good deed to excuse the harmful purpose, so hunters do not conserve wildlife."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 164.717,
+   "end_sec": 175.037,
+   "dur_sec": 10.32,
+   "overlap": false,
+   "text": "On your claim that habitat care merely excuses harm, conservation measures results for wildlife, not motives alone. When hunters protect space, obey limits, and support recovery, wildlife is conserved."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 175.908,
+   "end_sec": 186.588,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "A hunter shoots a rare-looking animal because he mistakes it for a common one, leaving its young without care. That avoidable loss shows hunting threatens wildlife rather than conserving it."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.32,
+   "end_sec": 195.6,
+   "dur_sec": 8.28,
+   "overlap": false,
+   "text": "If hunters must follow strict seasons, protect nesting areas, and avoid vulnerable animals, how can you say their organized effort never conserves wildlife?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 196.326,
+   "end_sec": 205.526,
+   "dur_sec": 9.2,
+   "overlap": false,
+   "text": "I grant that some hunters respect rules and care about animals. Yet respect cannot change a practice built on killing, so hunters do not conserve wildlife."
+  },
+  {
+   "i": 19,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 202.36,
+   "end_sec": 204.8,
+   "dur_sec": 2.44,
+   "overlap": true,
+   "text": "Ten seconds, and then closing statements."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.287,
+   "end_sec": 215.86,
+   "dur_sec": 9.573,
+   "overlap": false,
+   "text": "Your weakest claim is that concern cannot matter beside killing. Conservation concerns populations and habitat over time, so careful-",
+   "ext_file": "L112_ext_a32.wav",
+   "cut_at_sec": 209.37,
+   "full_dur_sec": 9.72
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 212.36,
+   "end_sec": 220.21,
+   "dur_sec": 7.85,
+   "overlap": true,
+   "text": "That's time. And now, we move on to Round three. Here up first in the round of closing statements, arguing for the resolution, Ryan."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 220.41,
+   "end_sec": 229.87,
+   "dur_sec": 9.46,
+   "overlap": false,
+   "text": "This decision turns on whether conservation means protecting whole wildlife communities, not pretending no animal ever dies. I was not claiming that every hunt is harmless;"
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 228.97,
+   "end_sec": 231.27,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "So you admit killing animals protects them-",
+   "cut_at_sec": 227.48,
+   "full_dur_sec": 9.0,
+   "ext_file": "L112_023.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 230.47,
+   "end_sec": 231.92,
+   "dur_sec": 1.45,
+   "overlap": true,
+   "text": "Let him clarify, please."
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 232.12,
+   "end_sec": 242.31,
+   "dur_sec": 10.19,
+   "overlap": false,
+   "text": "I was saying responsible hunting is judged by its effect on populations and habitat. Rules, restraint, and direct care can protect the wildlife that remains."
+  },
+  {
+   "i": 26,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 240.41,
+   "end_sec": 243.0,
+   "dur_sec": 2.59,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 27,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.51,
+   "end_sec": 250.89,
+   "dur_sec": 8.38,
+   "overlap": false,
+   "text": "Choose the side that recognizes practical stewardship: hunters can conserve wildlife through responsible action. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 251.09,
+   "end_sec": 254.66,
+   "dur_sec": 3.57,
+   "overlap": false,
+   "text": "Bernard, you're going to get the last word."
+  },
+  {
+   "i": 29,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 254.86,
+   "end_sec": 275.14,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Ryan's best point is that hunters may clean habitat or obey limits. Those acts can help, but they are not the same as hunting, whose defining act removes animals and risks mistakes. Conservation should put wildlife's safety first, rather than making its survival depend on people who pursue it."
+  },
+  {
+   "i": 30,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 274.86,
+   "end_sec": 276.05,
+   "dur_sec": 1.19,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 31,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.34,
+   "end_sec": 282.59,
+   "dur_sec": 7.25,
+   "overlap": false,
+   "text": "Because hunting harms the very animals it claims to protect, reject this motion. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 282.79,
+   "end_sec": 288.44,
+   "dur_sec": 5.65,
+   "overlap": false,
+   "text": "Thank you, Ryan and Bernard, for a thoughtful debate, and thank you for joining us today."
+  }
+ ]
+}

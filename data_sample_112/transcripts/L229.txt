@@ -1,0 +1,42 @@
+L229  |  Being married is a better way to live than being single.
+  MOD=Amy   PRO=Bradley   CON=Isaac
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Amy(MOD): Welcome. Today's motion is that being married is a better way to live than being single. Bradley supports it, and Isaac opposes it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Listen without interrupting, address the motion, and stop when I call time.
+[t01] Bradley(PRO): Marriage can turn daily life into a shared project, where two people divide burdens and celebrate gains. That steady partnership gives people more support when.
+[t02] <ovl> <cut> Isaac(CON): But sharing a home does not make life better-
+[t03] @A5 <ovl> Amy(MOD): Let's talk one at a time.
+[t04] Bradley(PRO): pressure hits, because promises create a reason to stay engaged. The question is not whether singles can thrive; it is which arrangement more reliably builds connection.
+[t05] @A4 <ovl> Amy(MOD): Well, now ten.
+[t06] Bradley(PRO): Marriage makes mutual care an everyday commitment, which is why it offers the better life. That's all, thank you.
+[t07] @A2-2 Amy(MOD): Isaac wants to answer that.
+[t08] Isaac(CON): Bradley treats commitment as if it must mean marriage. It does not: friends, relatives, and chosen communities can provide durable care without making one relationship the center. Marriage can also turn ordinary choices into negotiations, from spending to rest to where someone lives. A better life leaves room for each person to shape it.
+[t09] @A4 <ovl> Amy(MOD): Ten seconds from this side?
+[t10] <cut> Isaac(CON): Of course spouses may help, but help matters because people choose it, not because marriage makes it superior. Singles can leave unhealthy dependence. Better living means freedom-
+[t11] @A1 <ovl> Amy(MOD): I'm sorry, his time is up.
+
+--- phase 2 ---
+[t12] @A3-1 Amy(MOD): And that concludes Round one. Now onto Round two. Two and a half minutes on the clock, starting the moment I stop talking.
+[t13] Isaac(CON): I agree marriage can offer companionship. But companionship exists outside marriage, and tying the better life to one status ignores people whose independence and wider bonds make them flourish.
+[t14] Bradley(PRO): Consider a couple facing a sudden job loss: they plan together, share household tasks, and reassure each other through fear. That dependable teammate proves marriage can make life better.
+[t15] Isaac(CON): That example shows two caring people, not that marriage itself causes support. A single person can have dependable teammates too, while keeping choices and living space fully their own.
+[t16] Bradley(PRO): When two people want to build a home and raise children together, marriage gives their promises a clear structure. That structure makes cooperation easier, so marriage is better in that shared-life case.
+[t17] Isaac(CON): People also argue about ceremonies, rings, and family expectations, which can distract from real relationships. But beneath those customs, single life remains better because it lets people define commitment for themselves.
+[t18] Bradley(PRO): Marriage is not merely useful for parents or homeowners; it can deepen any loving partnership through shared responsibility. People generally live better when devotion is practiced daily, and marriage gives devotion durable form.
+[t19] Isaac(CON): No adult should ever marry. A better life must remain open to changing needs, and marriage encourages people to treat one permanent arrangement as the answer for everyone.
+[t20] Bradley(PRO): A married pair caring for a sick parent can alternate errands, meals, and difficult conversations, so neither carries every worry alone. That shared duty proves marriage offers a stronger daily life.
+[t21] Isaac(CON): This adult should marry. Someone devoted to a partner and wanting a lasting household deserves marriage, while single life is still the better way to live overall.
+[t22] @B2 Amy(MOD): You said no adult should ever marry, but you see it as this adult should marry.
+[t23] Isaac(CON): I mean both statements as guides: people should reject marriage as a general path, yet this adult should take it. The motion still fails because exceptions do not define better living.
+[t24] Bradley(PRO): Your exception point exposes the problem: if marriage is right for this adult, it can be a better way to live. A supportive committed household is not an accident; it is marriage's purpose.
+[t25] Isaac(CON): Your weakest claim is that marriage's purpose guarantees support. A title cannot create patience or fairness, and singles can choose dependable people without risking a mismatched permanent bond.
+[t26] @A4 <ovl> Amy(MOD): Ten seconds to go in this round.
+[t27] <cut> Bradley(PRO): I grant that a bad marriage can feel confining. Yet the motion compares ways to live at their best, and marriage adds chosen partnership, shared responsibility-
+
+--- phase 3 ---
+[t28] @A3-2 <ovl> Amy(MOD): And that's time. We are about to hear brief closing remarks from each debater in turn. On to round three, closing statements. First summarizing his position in support of the motion being married is a better way to live than single, Bradley.
+[t29] Bradley(PRO): This choice turns on what makes a life stronger when ordinary burdens arrive. Single people can flourish, but marriage joins love to daily responsibility, creating a dependable partner for decisions, hardship, and joy. That enduring mutual commitment makes married life the better way to live. That's all, thank you.
+[t30] @A2-2 Amy(MOD): Now his summation against the motion, Isaac.
+[t31] Isaac(CON): This choice turns on whether one model should be called better for everyone. Marriage can be loving, yet it can also narrow choices and concentrate needs in one bond. Single life preserves independence and allows care through many relationships, so it is not an inferior way to live. That's all, thank you.
+[t32] Amy(MOD): Thank you, Bradley and Isaac, for a thoughtful debate. This concludes our discussion of the motion for today.

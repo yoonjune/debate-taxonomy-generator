@@ -1,0 +1,433 @@
+{
+ "debate_id": "L165",
+ "motion": "DEI mandates for university faculties are a bad idea.",
+ "speakers": {
+  "MOD": {
+   "name": "Floyd",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0666_828",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0666/MSP-PODCAST_0666_828.wav",
+   "wpm": 171.12
+  },
+  "PRO": {
+   "name": "Mark",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  },
+  "CON": {
+   "name": "Horace",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0341_111",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0341/MSP-PODCAST_0341_111.wav",
+   "wpm": 167.28
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 75.91,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 287.09,
+ "ext": {
+  "a32": {
+   "file": "L165_ext_a32.wav",
+   "place_at_sec": 222.496,
+   "dur_sec": 21.4,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Calling every mandate ideological enforcement is your weakest move. A requirement to document outreach concerns conduct, not belief, and it helps universities notice when their searches exclude capable applicants."
+  },
+  {
+   "src_i": 25,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "No, documentation itself is not the problem. The problem begins when DEI mandates rank candidates by approved identity claims or viewpoints, because academic hiring must protect independent judgment."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.04,
+   "dur_sec": 17.04,
+   "overlap": false,
+   "text": "Welcome to our debate on whether DEI mandates for university faculties are a bad idea. Mark supports the motion, and Horace opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Closings last thirty seconds, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.24,
+   "end_sec": 27.28,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "DEI mandates replace academic judgment with required political tests. Faculties need varied perspectives, but hiring should assess scholarship, teaching, and fit, not compliance with."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 26.38,
+   "end_sec": 28.68,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That ignores why mandates exist: informal-",
+   "cut_at_sec": 28.68,
+   "full_dur_sec": 9.21,
+   "ext_file": "L165_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 27.88,
+   "end_sec": 29.41,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "Could you let him finish."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 29.61,
+   "end_sec": 39.97,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "compliance with a prescribed outlook. Once administrators demand statements and targets, applicants learn to perform approved language instead of honestly discussing their work and views."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 37.24,
+   "end_sec": 40.53,
+   "dur_sec": 3.29,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.17,
+   "end_sec": 48.63,
+   "dur_sec": 8.46,
+   "overlap": false,
+   "text": "Universities should welcome diversity voluntarily, but mandates undermine trust, inquiry, and fair hiring. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 48.83,
+   "end_sec": 50.52,
+   "dur_sec": 1.69,
+   "overlap": false,
+   "text": "I'm going to let Horace answer."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 50.72,
+   "end_sec": 67.21,
+   "dur_sec": 16.49,
+   "overlap": false,
+   "text": "A mandate need not dictate beliefs or lower standards. It can require transparent searches, broader outreach, and serious attention to barriers that narrow who gets considered. Without such structure, familiar networks quietly decide opportunity. That makes faculties less open, not more free. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 67.41,
+   "end_sec": 80.06,
+   "dur_sec": 12.65,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 80.26,
+   "end_sec": 90.94,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "I agree that forced slogans are a poor hiring tool. But the main issue is whether universities must actively prevent narrow networks from reproducing themselves, and mandates provide that accountability."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 91.257,
+   "end_sec": 101.257,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "You call mandates accountability, but accountability can measure fair procedures without compelling DEI declarations. Why give administrators power to judge an applicant's moral language rather than academic merit?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 102.069,
+   "end_sec": 112.719,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "No, a sound mandate need not judge moral language; it can require fair procedures. Your alternative leaves enforcement optional, so what stops a department from repeating the same closed search?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 113.459,
+   "end_sec": 124.139,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "When a mandate requires applicants to endorse a particular DEI view, it becomes an ideological screen. Universities may broaden recruitment, but they should not make employment depend on political affirmation."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 124.529,
+   "end_sec": 135.209,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Why assume a mandate must demand affirmation when it can require an open search and documented reasons? If departments face no common obligation, how will you protect qualified applicants from-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 135.762,
+   "end_sec": 145.842,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "Universities should never use compelled political commitments in faculty hiring. They can publish criteria, advertise widely, and review bias without turning a diversity policy into a loyalty requirement."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 146.791,
+   "end_sec": 155.711,
+   "dur_sec": 8.92,
+   "overlap": false,
+   "text": "Every faculty hiring process should always use DEI mandates. Otherwise, departments can call themselves neutral while habits and networks keep qualified people outside the room."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 156.658,
+   "end_sec": 167.778,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Your absolute rule is the weakness: mandates vary wildly, and some plainly demand viewpoint statements. A process can be fair through clear standards and broad outreach without a compulsory DEI mandate."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 168.383,
+   "end_sec": 178.743,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "This faculty hiring process should not use DEI mandates. A department choosing transparent outreach on its own can still build a fair, diverse faculty, so the motion remains false."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 178.943,
+   "end_sec": 191.063,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "But you can't have it both ways, you can't every faculty hiring process should always use DEI mandates on one hand and then this faculty hiring process should not use DEI mandates the next."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 191.263,
+   "end_sec": 202.303,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "The first statement describes the institutional norm I support, while the second recognizes a process that reaches fairness without it. That tension shows mandates are tools for access, not ideological punishment."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.633,
+   "end_sec": 212.713,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "If a mandate pressures candidates to praise contested ideas, will you oppose it even when administrators call it inclusion? Please answer directly: is compelled agreement acceptable in hiring?"
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 212.958,
+   "end_sec": 225.898,
+   "dur_sec": 12.94,
+   "overlap": false,
+   "text": "No, compelled agreement is unacceptable. Imagine a department that only circulates jobs among former colleagues; a mandate requiring public posting and documented outreach brings overlooked scholars into consideration. That proves mandates can widen opportunity without controlling thought."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 220.06,
+   "end_sec": 222.31,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Ten seconds left, both of you."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 226.646,
+   "end_sec": 233.56,
+   "dur_sec": 6.914,
+   "overlap": false,
+   "text": "Public posting is sensible, and I support it. But a general hiring rule is not-",
+   "ext_file": "L165_ext_a32.wav",
+   "cut_at_sec": 226.71,
+   "full_dur_sec": 10.76
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.06,
+   "end_sec": 236.31,
+   "dur_sec": 6.25,
+   "overlap": true,
+   "text": "Time's up. Now we move on to round three. Round three will be closing statements. Here is Mark."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 236.51,
+   "end_sec": 253.21,
+   "dur_sec": 16.7,
+   "overlap": false,
+   "text": "My opponent's best point is that closed networks can distort hiring, and universities should counter them. Yet DEI mandates invite ideological screening and administrative control. Broad recruitment and transparent criteria achieve fairness without making faculty employment depend on prescribed commitments. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 253.41,
+   "end_sec": 255.26,
+   "dur_sec": 1.85,
+   "overlap": false,
+   "text": "Just one brief comment, Horace."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 255.46,
+   "end_sec": 275.54,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "Mark rightly rejects compelled belief, but that is not the necessary meaning of a DEI mandate. A well-designed mandate asks departments to search openly, explain decisions, and confront barriers they might ignore. Those duties protect academic opportunity rather than dictate scholarship. Leaving them voluntary lets old habits return."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 275.46,
+   "end_sec": 276.91,
+   "dur_sec": 1.45,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.74,
+   "end_sec": 288.96,
+   "dur_sec": 13.22,
+   "overlap": false,
+   "text": "Universities need standards that make inclusion real, not merely a hopeful promise. Transparent outreach and review can preserve merit while widening the pool, and abandoning mandates risks returning faculty hiring-",
+   "cut_at_sec": 280.23,
+   "full_dur_sec": 14.01,
+   "ext_file": "L165_032.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 285.96,
+   "end_sec": 287.97,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "I'm sorry, you've hit time."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 288.17,
+   "end_sec": 293.62,
+   "dur_sec": 5.45,
+   "overlap": false,
+   "text": "Thank you, Mark and Horace, for a thoughtful debate. This concludes our discussion of the motion."
+  }
+ ]
+}

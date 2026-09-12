@@ -1,0 +1,41 @@
+L202  |  Congress should pass Obama's jobs plan piece by piece
+  MOD=Paula   PRO=Amy   CON=Kirsten
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Paula(MOD): Welcome. Tonight's motion is that Congress should pass Obama's jobs plan piece by piece. Amy supports it, and Kirsten opposes it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue.
+[t01] Amy(PRO): Congress need not choose between passing everything and doing nothing. Passing workable provisions separately lets people get help while members test each proposal on its merits.
+[t02] <ovl> <cut> Kirsten(CON): But picture a shop owner waiting each morning for-
+[t03] @A5 <ovl> Paula(MOD): Please let her address the principle.
+[t04] Amy(PRO): members can judge whether a payroll tax cut works, whether repair funding reaches workers, and whether the cost is justified. That is responsible lawmaking, not delay.
+[t05] @A4 <ovl> Paula(MOD): Just, just about ten seconds left.
+[t06] Amy(PRO): Useful parts can help families sooner, so Congress should pass this plan piece by piece. That's all, thank you.
+[t07] @A2-2 Paula(MOD): Kirsten against the motion, please.
+[t08] Kirsten(CON): A jobs plan is designed as a package: its costs, incentives, and priorities affect one another. Splitting it invites lawmakers to take popular benefits while discarding parts that pay for them. Congress should judge it as a whole, rather than turn it into easy but unfinished promises. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Paula(MOD): Now we move on to round two. And round two is where the debaters address each other in turn. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Amy(PRO): Consider a mechanic whose workplace needs wiring repairs but cannot hire her crew until work begins. A separate vote on repair funding can start that job promptly, proving targeted action beats waiting for a giant bargain.
+[t11] Kirsten(CON): If Congress passes the spending parts first, what stops it from abandoning the savings parts later? Your approach lets a temporary political majority collect applause now and leave the bill for later.
+[t12] Amy(PRO): Committee procedures and televised arguments can make lawmaking look like theater, and that frustrates people. But the motion concerns results: separate votes let Congress move a ready provision instead of burying it with disputed ones.
+[t13] Kirsten(CON): Your claim that separate votes produce results ignores the result of separation: each provision loses the balance supplied by the others. A ready benefit is not ready when its financing and incentives are left behind.
+[t14] Amy(PRO): Your weakest claim is that a package protects taxpayers. If the whole plan fails, how does protecting every provision help the worker who gets no job at all? Separate votes expose costs and allow work.
+[t15] <cut> Kirsten(CON): It does not help that worker, but passing costly fragments without funding will not help either. Your separate votes let members approve benefits while refusing responsibility, and the result is-
+[t16] <ovl> Amy(PRO): No, that is exactly why each vote is public: members cannot hide behind a giant package and blame its collapse on someone else. If they reject funding, voters can see that choice clearly.
+[t17] Kirsten(CON): And that public blame changes committee relationships. Members who feel exposed become less willing to share drafts, trade favors, or trust private assurances, so meetings grow colder and future negotiations become harder for everyone involved.
+[t18] @B1 Paula(MOD): We're not debating those points. We're debating congress should pass obama's jobs plan piece by piece.
+[t19] Kirsten(CON): On whether Congress should pass the jobs plan piece by piece, it should not. Separate votes let supporters demand credit for benefits while opponents can strip away the safeguards that make those benefits sustainable.
+[t20] Amy(PRO): Your safeguards point assumes each provision needs the others to be responsible. Repairs to public spaces have clear purposes and costs; holding them hostage to disputes creates the paralysis you claim to fear.
+[t21] Kirsten(CON): Your weakest claim is that repairs are unrelated to the rest of a jobs plan. Who decides which links matter before Congress has weighed the entire design? Calling connections disputes does not make them disappear.
+[t22] @A4 <ovl> Paula(MOD): Well, now it's ten.
+[t23] <cut> Amy(PRO): Congress decides through open votes, where each link can be debated plainly. You treat any connection as a reason for total delay-
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Paula(MOD): Time. Now we move on to round three. And round three are closing statements by each debater in turn. Here is Amy.
+[t25] Amy(PRO): This choice is not between care and carelessness. It is between letting disagreement freeze every useful idea and allowing Congress to consider each idea openly. Passing the workable parts piece by piece gives workers, businesses, and communities a fair chance at timely action. That's all, thank you.
+[t26] @A2-2 Paula(MOD): Kirsten wants to answer that.
+[t27] Kirsten(CON): Passing a plan piece by piece sounds practical, but it changes what voters are asked to judge. Benefits can be separated from costs, and promises can be separated from the conditions that make them work. That rewards short-term applause rather than responsible choices. Congress should examine how the pieces fit before it approves even the popular ones.
+[t28] @A4 <ovl> Paula(MOD): Ten seconds please.
+[t29] <cut> Kirsten(CON): A worker deserves more than a headline about one approved provision. She deserves a plan whose training, hiring, and funding commitments reinforce one another. If Congress takes only the attractive-
+[t30] @A1 <ovl> Paula(MOD): Kirsten, her time is up.
+[t31] Paula(MOD): Thank you, Amy and Kirsten, for a thoughtful debate. That concludes our discussion of the motion tonight for now.

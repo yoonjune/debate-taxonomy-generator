@@ -1,0 +1,420 @@
+{
+ "debate_id": "L052",
+ "motion": "Oil has been more of a curse than a blessing for the Middle East",
+ "speakers": {
+  "MOD": {
+   "name": "Cecilia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  },
+  "PRO": {
+   "name": "Paul",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5993_347",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5993/MSP-PODCAST_5993_347.wav",
+   "wpm": 163.88
+  },
+  "CON": {
+   "name": "Russell",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0341_111",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0341/MSP-PODCAST_0341_111.wav",
+   "wpm": 167.28
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 83.54,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 312.22,
+ "ext": {
+  "a32": {
+   "file": "L052_ext_a32.wav",
+   "place_at_sec": 223.152,
+   "dur_sec": 31.5,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "A young mechanic can train through an oil-funded program, open a repair shop, and support relatives. That chain of opportunity is tangible, and it proves oil can be more blessing than curse."
+  },
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "How secure is that mechanic's future when oil money falls, public support disappears, and no diverse local economy was built to carry families through the shock?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.01,
+   "dur_sec": 18.01,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is: Oil has been more of a curse than a blessing for the Middle East. Paul supports the motion, and Russell opposes it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.21,
+   "end_sec": 38.07,
+   "dur_sec": 19.86,
+   "overlap": false,
+   "text": "Oil has brought revenue, but it has too often concentrated power instead of spreading opportunity. Leaders funded by wells need fewer bargains with ordinary people. Communities become tied to one volatile export while other work withers. The result is fragile power, corruption, and conflict that reaches far beyond the oil fields."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.21,
+   "end_sec": 39.58,
+   "dur_sec": 1.37,
+   "overlap": true,
+   "text": "Ten seconds, Paul."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.27,
+   "end_sec": 51.02,
+   "dur_sec": 12.75,
+   "overlap": false,
+   "text": "When prices fall, families face cuts they did not choose, because their economies were built around a resource they do not control. Even where money builds roads, it can also buy silence-",
+   "cut_at_sec": 49.51,
+   "full_dur_sec": 17.12,
+   "ext_file": "L052_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 48.71,
+   "end_sec": 51.12,
+   "dur_sec": 2.41,
+   "overlap": true,
+   "text": "That's time, Paul. Thank you. Russell."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.32,
+   "end_sec": 70.0,
+   "dur_sec": 18.68,
+   "overlap": false,
+   "text": "Oil can be misused, but misuse is not the same as a curse. Its income has paid for homes, transport, education, and medical care that many families needed quickly. A resource that expands choices and funds development can be governed badly, yet it remains more blessing than curse. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.2,
+   "end_sec": 85.25,
+   "dur_sec": 15.05,
+   "overlap": false,
+   "text": "And that concludes Round One. Now, we move on to Round Two. And Round Two are where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 85.45,
+   "end_sec": 97.54,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Oil can distort politics, and I do not deny that risk. But blaming the resource ignores choices by leaders and citizens; wisely used revenue can create lasting opportunity, making oil more blessing than curse."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 98.356,
+   "end_sec": 107.756,
+   "dur_sec": 9.4,
+   "overlap": false,
+   "text": "When an oil boom lets leaders fund themselves without listening, a parent seeking a fair job finds closed doors while rulers buy loyalty, proving the future is-"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 106.856,
+   "end_sec": 117.976,
+   "dur_sec": 11.12,
+   "overlap": true,
+   "text": "Paul, that picture assumes every government rejects its people. Oil income can build roads, schools, and clinics before private markets grow; that capacity gives families real options and is a blessing."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 118.705,
+   "end_sec": 127.705,
+   "dur_sec": 9.0,
+   "overlap": false,
+   "text": "Oil wealth never strengthens ordinary people. How can you call dependence a blessing when leaders can ignore workers, silence criticism, and protect their own power instead?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 128.303,
+   "end_sec": 138.473,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "I reject your premise: dependence is not the only result of oil. When revenues fund skills, services, and accountable institutions, why must a useful resource be called a curse?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 139.116,
+   "end_sec": 149.206,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "In a town where oil income pays local workers directly, Oil wealth strengthens ordinary people here. Yet across the region, control and dependence make oil more curse than blessing."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 149.406,
+   "end_sec": 156.296,
+   "dur_sec": 6.89,
+   "overlap": false,
+   "text": "So it's not much of oil wealth never strengthens ordinary people if oil wealth strengthens ordinary people here, is it?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 156.496,
+   "end_sec": 167.566,
+   "dur_sec": 11.07,
+   "overlap": false,
+   "text": "I mean political strength in the first statement and household income in the second. Both remain true because a paycheck can help one family while the wider oil system weakens public power."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 168.448,
+   "end_sec": 179.448,
+   "dur_sec": 11.0,
+   "overlap": false,
+   "text": "Consider a village clinic built and staffed with oil revenue: children receive care, parents avoid long journeys, and local workers earn wages. That direct improvement proves oil can be a blessing."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 180.243,
+   "end_sec": 190.173,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "If oil is such a blessing, why do rulers who rely on its revenue so often avoid building broad-based work and answering to citizens when prices and power shift?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 190.424,
+   "end_sec": 201.904,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Public buildings can become grand displays, and that deserves scrutiny. But does a polished capital outweigh clinics, schools, and household incomes funded by oil? No, so oil remains more blessing than curse."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.672,
+   "end_sec": 214.152,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "No, visible projects do not outweigh lost independence, unequal power, and neglected work outside oil. Your focus on buildings misses the deeper bargain: revenue without accountability makes oil more curse than blessing."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.656,
+   "end_sec": 224.496,
+   "dur_sec": 9.84,
+   "overlap": false,
+   "text": "Your accountability point confuses poor government with the resource itself. Oil can finance accountable services when people demand them, so its benefits remain available and outweigh the harms."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 224.862,
+   "end_sec": 235.762,
+   "dur_sec": 10.9,
+   "overlap": false,
+   "text": "I grant that oil can pay for useful services in the short term. But its main effect is to let power concentrate and other livelihoods shrink, leaving oil more curse than blessing.",
+   "ext_file": "L052_ext_a32.wav"
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 225.25,
+   "end_sec": 227.26,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "You both have ten seconds."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 235.25,
+   "end_sec": 242.78,
+   "dur_sec": 7.53,
+   "overlap": true,
+   "text": "Okay, time. And now we move on to round three. And the first to speak in support of the resolution is Paul."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.98,
+   "end_sec": 263.23,
+   "dur_sec": 20.25,
+   "overlap": false,
+   "text": "This debate is about the overall balance, not whether oil ever buys something useful. I showed how oil revenue can free rulers from accountability and leave ordinary people dependent on decisions they cannot influence. It crowds out diverse work and turns price swings into social crises. Those are structural harms, not isolated mistakes."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 262.98,
+   "end_sec": 263.58,
+   "dur_sec": 0.6,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 263.43,
+   "end_sec": 273.64,
+   "dur_sec": 10.21,
+   "overlap": false,
+   "text": "A clinic or a paycheck matters, but neither cancels lost voice and lasting dependence. For the region, oil has been more curse than blessing. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 273.84,
+   "end_sec": 277.37,
+   "dur_sec": 3.53,
+   "overlap": false,
+   "text": "Thank you. Up next, speaking against the resolution is Russell."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 277.57,
+   "end_sec": 297.58,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "The other side treated every failure of government as proof that oil itself harms people. I showed a more practical truth: oil revenue can rapidly fund care, education, infrastructure, and livelihoods. Those gains are not imaginary, and families experience them directly. Bad management creates danger, but good management preserves the resource's great value."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 297.57,
+   "end_sec": 299.49,
+   "dur_sec": 1.92,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 297.78,
+   "end_sec": 311.07,
+   "dur_sec": 13.29,
+   "overlap": false,
+   "text": "A blessing need not be perfect to be real. Oil has given communities tools to build better lives, and the answer to abuse is better institutions, not calling the resource-",
+   "cut_at_sec": 305.36,
+   "full_dur_sec": 13.93,
+   "ext_file": "L052_031.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 308.07,
+   "end_sec": 310.08,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "Russell, his time is up."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 310.28,
+   "end_sec": 315.73,
+   "dur_sec": 5.45,
+   "overlap": false,
+   "text": "Thank you, Paul and Russell, for a thoughtful debate on this motion. This concludes our discussion."
+  }
+ ]
+}

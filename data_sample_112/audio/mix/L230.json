@@ -1,0 +1,424 @@
+{
+ "debate_id": "L177",
+ "motion": "A booming China spells trouble for America.",
+ "speakers": {
+  "MOD": {
+   "name": "Bobby",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3981_550",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_3981/MSP-PODCAST_3981_550.wav",
+   "wpm": 173.5
+  },
+  "PRO": {
+   "name": "Jacob",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  },
+  "CON": {
+   "name": "Genevieve",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5110_802",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5110/MSP-PODCAST_5110_802.wav",
+   "wpm": 164.06
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 82.37,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 289.86,
+ "ext": {
+  "a32": {
+   "file": "L177_ext_a32.wav",
+   "place_at_sec": 222.697,
+   "dur_sec": 20.41,
+   "src_i": 24
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "On the 'essential device part' point, the answer is diversification, not fearing growth. American businesses can develop backup suppliers and still benefit from Chinese customers."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.49,
+   "dur_sec": 18.49,
+   "overlap": false,
+   "text": "Welcome to tonight's debate. Tonight's motion is whether a booming China spells trouble for America. Jacob argues for it, and Genevieve argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue before time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.69,
+   "end_sec": 36.24,
+   "dur_sec": 17.55,
+   "overlap": false,
+   "text": "A booming China does not merely offer new customers; it gives a rival government greater wealth, influence, and control over vital supply chains. When American jobs and essential goods depend on choices made elsewhere, prosperity becomes leverage. That leverage spells trouble for America. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.44,
+   "end_sec": 41.03,
+   "dur_sec": 4.59,
+   "overlap": false,
+   "text": "Here's Genevieve to argue against whether a booming China spells trouble for America."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 41.23,
+   "end_sec": 50.36,
+   "dur_sec": 9.13,
+   "overlap": false,
+   "text": "A growing China can buy more from American makers. Prosperity is not fixed; when buyers and sellers gain, America can gain too, rather than treating..."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 49.46,
+   "end_sec": 51.76,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But buying our goods can also build leverage-",
+   "cut_at_sec": 49.5,
+   "full_dur_sec": 9.28,
+   "ext_file": "L177_004.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 50.96,
+   "end_sec": 55.13,
+   "dur_sec": 4.17,
+   "overlap": true,
+   "text": "Let her answer that, if you want to come back on this."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 55.33,
+   "end_sec": 65.42,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "it as harmless. If one buyer becomes powerful, American firms still have other customers and can set their own terms. More trade creates options, not automatic control."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 61.23,
+   "end_sec": 62.47,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 65.62,
+   "end_sec": 71.23,
+   "dur_sec": 5.61,
+   "overlap": false,
+   "text": "That is why China's growth can expand American opportunity, not spell trouble."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.43,
+   "end_sec": 84.63,
+   "dur_sec": 13.2,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two. And round two is where the debaters can address one another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 84.83,
+   "end_sec": 95.51,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Imagine a Chinese supplier suddenly withholding key machine parts after a dispute. American workshops halt, workers lose pay, and choices shrink. That dependence proves booming Chinese power can trouble America."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 96.351,
+   "end_sec": 105.161,
+   "dur_sec": 8.81,
+   "overlap": false,
+   "text": "Every Chinese success benefits America. How does a cheaper product from a growing China spell trouble when families save money and American sellers reach more customers?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 105.79,
+   "end_sec": 116.55,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Cheaper goods do not erase the danger; I reject the idea that lower prices settle this. When vital production moves abroad, China gains leverage over American jobs, security, and choices."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 116.835,
+   "end_sec": 127.005,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "This Chinese success harms America. When a Chinese firm dominates a tool market, it can squeeze American rivals, yet overall growth still gives families more choices and lower costs."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 127.205,
+   "end_sec": 133.045,
+   "dur_sec": 5.84,
+   "overlap": false,
+   "text": "You're saying every Chinese success benefits America but you still want this Chinese success harms America."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 133.245,
+   "end_sec": 143.875,
+   "dur_sec": 10.63,
+   "overlap": false,
+   "text": "Both statements fit: the same success harms America by exposing a weakness, while it benefits America through cheaper goods. The net effect remains opportunity, so China's growth is not trouble."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 144.65,
+   "end_sec": 155.41,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Your answer quietly swaps America for a single family at a checkout. Lower prices cannot compensate for lost capacity or coercion, so your claimed overall benefit ignores the motion's danger."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 156.331,
+   "end_sec": 167.091,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Take the tool market: machines need repair crews, spare bolts, training manuals, and warehouse schedules. Once a local workshop closes, its apprentices lose mentors, and the town's repair skills fade."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 167.291,
+   "end_sec": 173.331,
+   "dur_sec": 6.04,
+   "overlap": false,
+   "text": "Okay. What does your point have to do with whether a booming China spells trouble for America?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 173.531,
+   "end_sec": 184.711,
+   "dur_sec": 11.18,
+   "overlap": false,
+   "text": "That matters to the motion because China's growth need not cause those closures; American firms can adapt and sell into its expanding market. Trouble comes from poor domestic choices, not China's boom."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 185.137,
+   "end_sec": 195.577,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "No, I reject your claim that domestic choices alone explain closures. A giant competitor backed by its government can underprice rivals until supply chains rely on it, and then-"
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 194.677,
+   "end_sec": 204.677,
+   "dur_sec": 10.0,
+   "overlap": true,
+   "text": "And then you assume competition is coercion. Firms can choose suppliers, build alternatives, and sell to Chinese customers; growth creates bargaining partners, not a command over America's future."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 205.622,
+   "end_sec": 214.622,
+   "dur_sec": 9.0,
+   "overlap": false,
+   "text": "If booming China gives its leaders more control over shipping and components, why should American workers trust that leverage will never be used against them?"
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.997,
+   "end_sec": 224.607,
+   "dur_sec": 9.61,
+   "overlap": false,
+   "text": "Your word 'never' is the weakness: no country can promise another government's future behavior. But fear of a possible abuse cannot make every Chinese success trouble for America."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 224.63,
+   "end_sec": 227.19,
+   "dur_sec": 2.56,
+   "overlap": true,
+   "text": "About ten seconds left in the crossfire."
+  },
+  {
+   "i": 25,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 224.957,
+   "end_sec": 236.437,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Consider an American designer whose essential device part is made only in China. A political quarrel stops deliveries, customers wait, and the small business collapses. That proves concentrated power can-",
+   "ext_file": "L177_ext_a32.wav",
+   "cut_at_sec": 233.17,
+   "full_dur_sec": 11.48
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 234.63,
+   "end_sec": 240.99,
+   "dur_sec": 6.36,
+   "overlap": true,
+   "text": "Okay, time. Now we move on to round three. Round three will be closing statements. Here is Jacob."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.19,
+   "end_sec": 261.47,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Genevieve calls this diversification, but the motion asks what a booming China can do, not what we hope everyone will prevent. When its wealth turns into control over crucial goods and markets, American choices narrow. Cheap purchases today do not replace the independence lost when key businesses must wait for decisions made elsewhere."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 261.19,
+   "end_sec": 262.35,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 261.67,
+   "end_sec": 269.89,
+   "dur_sec": 8.22,
+   "overlap": false,
+   "text": "A boom that creates that leverage spells trouble, even if it also offers bargains. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 270.09,
+   "end_sec": 271.97,
+   "dur_sec": 1.88,
+   "overlap": false,
+   "text": "Genevieve, the floor is yours."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 272.17,
+   "end_sec": 290.79,
+   "dur_sec": 18.62,
+   "overlap": false,
+   "text": "The strongest point is that growth creates more customers, more goods, and more American choice. A foreign boom is not a command over America; dependence results from America's own failures to adapt. Meet competition with resilience and trade, and China's prosperity becomes an opportunity, not trouble. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 290.99,
+   "end_sec": 296.68,
+   "dur_sec": 5.69,
+   "overlap": false,
+   "text": "Thank you, Jacob and Genevieve, for a spirited exchange, and thank you for joining us for this debate."
+  }
+ ]
+}

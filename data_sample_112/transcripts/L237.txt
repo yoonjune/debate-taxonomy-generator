@@ -1,0 +1,38 @@
+L237  |  Universal health coverage should be the federal government's responsibility.
+  MOD=Justine   PRO=Larry   CON=Nolan
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Justine(MOD): Welcome. Today's motion is that universal health coverage should be the federal government's responsibility. Larry supports it, and Nolan opposes it. Each opening and closing lasts thirty seconds; crossfire lasts two and a half minutes, and I will give a ten-second cue. Please address claims, not personalities, and listen carefully to each other throughout.
+[t01] Larry(PRO): Health needs do not vanish when a job ends, a family moves, or a local budget tightens. A federal responsibility creates a shared floor, so care is not a prize for luck. It can set clear protections while local clinicians still deliver care. That matters because people should not have to bargain with fear before seeking basic help.
+[t02] @A4 <ovl> Justine(MOD): Well, now it's ten.
+[t03] Larry(PRO): A national promise also spreads costs across the whole country, instead of abandoning struggling communities. Federal responsibility makes that promise real for everyone. That's all, thank you.
+[t04] @A2-2 Justine(MOD): All right, Nolan, quickly.
+[t05] Nolan(CON): Nobody should be denied urgent care simply because money is tight. But calling coverage a federal responsibility puts one distant authority above families, workers, and communities with different needs. A national rule can become rigid, expensive, and hard to correct. Better systems let people choose arrangements that fit them, because
+[t06] <cut> Nolan(CON): choice keeps providers answerable, and local plans can learn from mistakes without forcing every household into the same design. The federal government should support access, but it should not command health care-
+[t07] @A4 <ovl> Justine(MOD): Well, now ten.
+[t08] @A1 <ovl> Justine(MOD): I have to step in because we hit our time limit.
+
+--- phase 2 ---
+[t09] @A3-1 Justine(MOD): Now we go on to round two. Round two is where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t10] Nolan(CON): I agree that losing work should not mean losing care. Yet your federal floor becomes a federal ceiling when one rule displaces better local choices, so responsibility should remain shared, not federal.
+[t11] Larry(PRO): Every person always deserves federally guaranteed health coverage. Your shared approach leaves people navigating different promises, while a federal duty makes coverage dependable wherever someone lives or works, which is why federal responsibility is necessary.
+[t12] Nolan(CON): Your absolute promise ignores who pays and who decides, so it is not a guarantee but a blank check. Dependable care needs accountable choices, not federal control pretending every community is identical.
+[t13] Larry(PRO): A wealthy person does not deserve federally guaranteed health coverage. Public resources should protect those without means first, yet universal coverage remains a federal responsibility because national rules can secure everyone else.
+[t14] @B2 Justine(MOD): I'm puzzled by your stand. On the one hand every person always deserves federally guaranteed health coverage and on the other hand a wealthy person does not deserve federally guaranteed health coverage.
+[t15] Larry(PRO): Both statements fit because a basic guarantee recognizes everyone's humanity, while denying a wealthy person's special claim protects fairness in how that guarantee is funded. Federal responsibility can hold that line for all.
+[t16] Nolan(CON): If federal responsibility is so reliable, who corrects a harmful national coverage rule when every family is trapped under it? Can you explain why local accountability is weaker than one distant decision?
+[t17] Larry(PRO): Local accountability means a clinic manager can notice that appointment cards confuse older patients and replace them by morning. Then staff can adjust the reminder wording, the phone menu, and the chairs in the waiting room.
+[t18] @B1 Justine(MOD): Wait, can you frame your question more towards, to something that feeds into universal health coverage being the federal government's responsibility?
+[t19] Larry(PRO): The question is whether universal health coverage should be the federal government's responsibility, and it should because only federal action guarantees the basic protection across all communities. Local improvements matter, but they cannot replace that duty.
+[t20] Nolan(CON): Your claim that only federal action guarantees protection confuses uniformity with security. A single national failure harms everyone at once, while diverse local approaches give people alternatives and keep power closer to care.
+[t21] Larry(PRO): Imagine a parent changes jobs and learns the new local plan excludes the medicine keeping her child stable. A federal coverage guarantee prevents that gap, proving national responsibility protects families from arbitrary loss.
+[t22] @A4 <ovl> Justine(MOD): About ten seconds left in the crossfire.
+[t23] <cut> Nolan(CON): Your job-change example assumes federal coverage cannot change or fail, which is the weak point in your guarantee. A national promise can still-
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Justine(MOD): Time's up. So, let's move on to round three, closing statements. Each debater in turn, here to make his closing statement in support of universal health coverage being the federal government's responsibility, is Larry.
+[t25] Larry(PRO): This decision turns on whether basic health security is a national promise or a local gamble. Federal responsibility gives every person a dependable floor when work, residence, or finances change. Local care can stay flexible, but only a federal duty makes universal coverage real. That's all, thank you.
+[t26] @A2-2 Justine(MOD): Oh, Nolan go ahead.
+[t27] Nolan(CON): The strongest problem is accountability: a federal responsibility concentrates decisions that should answer to people nearby. A national promise sounds secure, but it can impose one flawed design on everyone. Universal health coverage needs access and protection, yet responsibility should stay distributed rather than federal. That's all, thank you.
+[t28] Justine(MOD): Thank you, Larry and Nolan, for a thoughtful debate on this motion. This concludes our discussion for today.

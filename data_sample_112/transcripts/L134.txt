@@ -1,0 +1,42 @@
+L134  |  the world is better off with Wikileaks
+  MOD=Ramesh   PRO=Liz   CON=Todd
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Ramesh(MOD): Welcome. Our motion is that the world is better off with Wikileaks. Liz argues for it, and Todd argues against it. Each opening and closing lasts thirty seconds; then we have two and a half minutes of crossfire. I will give a ten-second cue before each timed segment ends. Keep answers direct and address the motion.
+[t01] Liz(PRO): Leaks can expose abuse that hidden power would otherwise preserve. Wikileaks gives citizens material to question officials, rather than asking them to trust secret claims. Publication can require care, but a world with a channel for consequential evidence is better than one where powerful actors control every record. That's all, thank you.
+[t02] @A2-2 Ramesh(MOD): Todd, the floor is yours.
+[t03] Todd(CON): Your claim treats disclosure as automatically empowering, but exposed files can endanger ordinary people and ruin delicate negotiations. Wikileaks does not answer to the people harmed by its choices. When a publisher releases a cache without accountable judgment, it can spread fear, expose private lives, and make future cooperation harder. That damage matters because
+[t04] @A4 <ovl> Ramesh(MOD): Ten seconds warning.
+[t05] Todd(CON): a public's right to know does not erase its duty to avoid needless real harm. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Ramesh(MOD): You're now going to argue with one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Liz(PRO): Todd's point about harm ignores the harm of secrecy itself. When wrongdoing stays buried, those affected cannot challenge it, and officials face little reason to correct abuses.
+[t08] Todd(CON): Security also depends on how people learn to judge documents, and schools should teach that skill. But the motion is about Wikileaks: its broad releases can create risks faster than readers can judge them.
+[t09] <cut> Liz(PRO): If readers need evidence to judge power, why should a platform that supplies it be rejected? What safer path lets citizens test official stories without simply trusting-
+[t10] <ovl> Todd(CON): Because publishing everything is not the same as giving people usable proof. A responsible reporter weighs context and danger; Wikileaks can release material indiscriminately, so it makes the world less safe.
+[t11] Liz(PRO): When documents reveal serious official misconduct and identifying details are removed, publication strengthens public oversight. Under that condition, Wikileaks serves the public better than silence does for everyone.
+[t12] Todd(CON): No, not when officials refuse independent review. Yet your condition assumes perfect redaction; one missed name or detail can expose vulnerable people, and Wikileaks cannot undo that harm.
+[t13] Liz(PRO): A missed detail might be a work schedule, a family reference, or a routine route. Then reviewers debate file formats, access settings, and who checked each page before upload.
+[t14] @B1 Ramesh(MOD): But we're getting a little bit off the question of whether the world is better off with wikileaks.
+[t15] Liz(PRO): The question is whether the world is better off with Wikileaks, and it is because secrecy needs a check. Risks call for careful handling, not abandoning a means of exposing public wrongdoing.
+[t16] Todd(CON): If release is so valuable, would you publish a file that identifies a frightened source whose safety depends on secrecy? That choice shows why Wikileaks makes the world worse off.
+[t17] Liz(PRO): Public oversight matters beyond any single release: institutions with secrets should expect scrutiny. Wikileaks creates that expectation, which improves conduct before documents ever appear.
+[t18] Todd(CON): Your expectation point is weakest because fear of exposure is not accountability. It can make officials avoid recording honest doubts, leaving the public with thinner, more misleading information.
+[t19] Liz(PRO): No, I would not publish identifying details that put a source at risk. But your example argues for redaction, while Wikileaks' existence still gives hidden misconduct a route into daylight.
+[t20] Todd(CON): Your redaction point overlooks control: Wikileaks cannot guarantee careful redaction across every release. A system that sometimes protects people is not enough when one careless disclosure can cause lasting harm.
+[t21] @A4 <ovl> Ramesh(MOD): Ten seconds left, then we go to closings.
+[t22] <cut> Liz(PRO): Imagine a public agency secretly dumping waste near homes, while its internal reports deny-
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Ramesh(MOD): That's time. Okay, here's where we are, we are about to hear closing statements from each debater in turn. So here, making her final argument for the motion, Liz.
+[t24] Liz(PRO): Deciding this motion turns on whether we trust secrecy to police itself. Todd rightly notes that exposure can carry risks. But harm from a bad release is a reason for care, not a reason to erase a vital check on concealed power. Wikileaks gives evidence to people who would otherwise receive only official assurances. That is why
+[t25] @A4 <ovl> Ramesh(MOD): Ten.
+[t26] <cut> Liz(PRO): we should judge the alternative. Without a place for suppressed evidence, abuse is easier to deny and victims go unheard. The better world lets secrecy be-
+[t27] @A2-1 <ovl> Ramesh(MOD): Your time is up, Liz. Thank you. And here to summarize his position against the motion, Todd.
+[t28] Todd(CON): Deciding this motion turns on who bears the cost when secrets are released. Liz calls disclosure a check, but unaccountable publication can strike innocent people. My strongest point is simple: Wikileaks cannot reliably protect everyone named in what it releases. Once private details spread, apologies cannot restore safety or trust. A better world needs exposure paired with responsibility for
+[t29] @A4 <ovl> Ramesh(MOD): I can give you ten seconds to wrap this round.
+[t30] <cut> Todd(CON): the people placed at risk. You cannot call a system better merely because it reveals some wrongdoing; it must also be safe enough to deserve trust. Wikileaks fails-
+[t31] @A1 <ovl> Ramesh(MOD): Please come to an end, we're running out of time, thank you.
+[t32] Ramesh(MOD): Thank you both; this concludes our discussion of whether the world is better off with Wikileaks.

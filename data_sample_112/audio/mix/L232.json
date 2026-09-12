@@ -1,0 +1,405 @@
+{
+ "debate_id": "L186",
+ "motion": "Joe Biden should step aside.",
+ "speakers": {
+  "MOD": {
+   "name": "Albert",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4043_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4043/MSP-PODCAST_4043_33.wav",
+   "wpm": 168.26
+  },
+  "PRO": {
+   "name": "Jerry",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1632_55",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1632/MSP-PODCAST_1632_55.wav",
+   "wpm": 163.08
+  },
+  "CON": {
+   "name": "Kara",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1206_312",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
+   "wpm": 165.44
+  }
+ },
+ "selective": [
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 74.5,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 290.14,
+ "ext": {
+  "a32": {
+   "file": "L186_ext_a32.wav",
+   "place_at_sec": 211.669,
+   "dur_sec": 35.54,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "On Kara's voter-choice question, voters deserve more than being told to ignore an obvious concern until later. A step aside now creates a clearer choice and respects the office, which supports the motion."
+  },
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "The weakest claim is that departure automatically respects the office. Respect also means honoring the voters' existing choice and allowing a president to complete his work, which is why Joe Biden should stay."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.17,
+   "dur_sec": 20.17,
+   "overlap": false,
+   "text": "Welcome to our debate on whether Joe Biden should step aside. Jerry argues for the motion, and Kara argues against it. Each opening and closing gets thirty seconds. Then comes two and a half minutes of crossfire, with a ten-second cue before time expires. Debaters will address each other directly and wait for the next phase before closing."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.37,
+   "end_sec": 36.46,
+   "dur_sec": 16.09,
+   "overlap": false,
+   "text": "The question is not whether anyone can serve with dignity. It is whether the country benefits when a leader's capacity is plainly questioned. Stepping aside can protect the office, invite a clearer choice, and put the public ahead of personal ambition. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.66,
+   "end_sec": 42.31,
+   "dur_sec": 5.65,
+   "overlap": false,
+   "text": "Thank you very much. We now turn to Kara who is going to speak against the motion."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 42.51,
+   "end_sec": 62.04,
+   "dur_sec": 19.53,
+   "overlap": false,
+   "text": "Jerry's capacity point treats public doubt as a verdict. Leaders face doubt whenever decisions are difficult, and replacing them because criticism grows rewards panic, not judgment. The real test is whether a president can govern, make choices, and carry out the duties voters entrusted to him."
+  },
+  {
+   "i": 4,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 62.24,
+   "end_sec": 69.72,
+   "dur_sec": 7.48,
+   "overlap": false,
+   "text": "That standard, not anxiety about appearances, is why Joe Biden should remain in office. That's all, thank you."
+  },
+  {
+   "i": 5,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 62.51,
+   "end_sec": 65.86,
+   "dur_sec": 3.35,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.92,
+   "end_sec": 77.79,
+   "dur_sec": 7.87,
+   "overlap": false,
+   "text": "Round two is where the debaters address one another in turn. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 77.99,
+   "end_sec": 89.2,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "On Jerry's capacity point, you never show that questioning a leader proves inability to govern. Demanding departure on suspicion makes the office dependent on noise, so Joe Biden should not step aside."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 89.954,
+   "end_sec": 101.434,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Your noise point misses the cost of waiting when leadership loses public confidence. Every president should step aside. When the office becomes a daily question of capacity, continuity requires a fresh leader."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 102.391,
+   "end_sec": 113.791,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I agree that continuity matters, and sudden change can unsettle people. But your every-president rule abandons elections and experience altogether; Joe Biden should not step aside merely because you prefer a reset."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 114.32,
+   "end_sec": 124.76,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Joe Biden should not step aside. Yet the office needs renewal, and his departure would open a clearer democratic choice for the country, so Joe Biden should step aside."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 124.96,
+   "end_sec": 130.68,
+   "dur_sec": 5.72,
+   "overlap": false,
+   "text": "You're saying every president should step aside but you still want joe Biden should not step aside."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 130.88,
+   "end_sec": 142.28,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "My first statement names a general democratic ideal; my second recognizes the current officeholder's value. Principles guide us, and removing Joe Biden now best serves the country, so he should step aside."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 143.198,
+   "end_sec": 155.048,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "The argument also affects party strategy, donor worries, and who might seek influence afterward. Those matters are secondary, though; the motion turns on governing today, and Joe Biden can govern, so he should stay."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 155.924,
+   "end_sec": 167.314,
+   "dur_sec": 11.39,
+   "overlap": false,
+   "text": "On Kara's governing-today point, doing familiar tasks is not enough when the public needs clear confidence in leadership. You offer reassurance, but stepping aside would let the country choose that confidence anew."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 167.764,
+   "end_sec": 179.374,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "The weakest part is your claim that a new choice creates confidence by itself. A rushed contest can divide supporters, weaken governing, and leave voters facing uncertainty rather than the clarity you promise-"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 178.474,
+   "end_sec": 189.234,
+   "dur_sec": 10.76,
+   "overlap": true,
+   "text": "No, that is not what I promise. I am saying an orderly decision to step aside gives voters a real choice, while insisting on the same path ignores visible concerns."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 189.997,
+   "end_sec": 201.367,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "Imagine a president facing a sudden emergency and needing to coordinate frightened families, staff, and lawmakers. Replacing him midstream can create confusion; why would that disruption prove Joe Biden should step aside?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.012,
+   "end_sec": 214.212,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "That disruption does not prove departure is harmful; it assumes staying is stable when confidence is already fraying. Your emergency example ignores the harm of hesitation, so a planned transition is the safer course."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.959,
+   "end_sec": 226.569,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "If Joe Biden remains, how do you answer voters who see growing uncertainty and want a clearer choice? Keeping him respects their right to judge his record, so he should not step aside.",
+   "ext_file": "L186_ext_a32.wav"
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 217.79,
+   "end_sec": 219.75,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 227.79,
+   "end_sec": 239.8,
+   "dur_sec": 12.01,
+   "overlap": true,
+   "text": "Time's up. Let's move on to Round three, closing statements from each debater in turn. Our resolution is, whether joe biden should step aside from the presidency. Leading off with his closing statement, Jerry."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.0,
+   "end_sec": 249.96,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "The strongest point is simple: leadership needs public confidence, not just endurance. When that confidence erodes, protecting the office means choosing renewal, now,"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 249.06,
+   "end_sec": 251.36,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That ignores the voters who chose him-",
+   "cut_at_sec": 248.07,
+   "full_dur_sec": 9.28,
+   "ext_file": "L186_025.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 250.56,
+   "end_sec": 252.16,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "No, wait, let Jerry."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 252.36,
+   "end_sec": 262.8,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "not rewarding uncertainty with more uncertainty. A voluntary departure would give the country a clean choice and show that the office matters more than one person's ambition."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 260.0,
+   "end_sec": 261.24,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 263.0,
+   "end_sec": 270.61,
+   "dur_sec": 7.61,
+   "overlap": false,
+   "text": "Joe Biden should step aside, because the country deserves confidence, clarity, and a fresh choice. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 270.81,
+   "end_sec": 273.08,
+   "dur_sec": 2.27,
+   "overlap": false,
+   "text": "Kara has the floor right now."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 273.28,
+   "end_sec": 290.57,
+   "dur_sec": 17.29,
+   "overlap": false,
+   "text": "This decision turns on whether doubt should erase a president's mandate and ongoing ability to govern. It should not. Joe Biden's record and current duties deserve judgment through normal democratic choice, not a forced exit driven by anxiety; therefore, he should not step aside. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 290.77,
+   "end_sec": 296.72,
+   "dur_sec": 5.95,
+   "overlap": false,
+   "text": "Thank you, Jerry and Kara, for a focused debate; that concludes our discussion of this motion today."
+  }
+ ]
+}

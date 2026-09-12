@@ -1,0 +1,411 @@
+{
+ "debate_id": "L208",
+ "motion": "We have free will.",
+ "speakers": {
+  "MOD": {
+   "name": "Pete",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1632_55",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1632/MSP-PODCAST_1632_55.wav",
+   "wpm": 163.08
+  },
+  "PRO": {
+   "name": "Nelson",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  },
+  "CON": {
+   "name": "Bella",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 103.52,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 326.91,
+ "ext": {
+  "a32": {
+   "file": "L208_ext_a32.wav",
+   "place_at_sec": 243.866,
+   "dur_sec": 35.9,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "When a frightened person makes a harmful mistake, treating the act as a product of panic can lead us to help rather than simply condemn. That humane response proves abandoning free will improves judgment."
+  },
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Helping rather than condemning does not prove the person lacked choice; it shows that wise responses consider causes and agency together. Compassion is fully compatible with responsibility, so your example never reaches free will."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.6,
+   "dur_sec": 19.6,
+   "overlap": false,
+   "text": "Welcome to our debate on whether we have free will. Nelson argues for the motion, and Bella argues against it. Each opening and closing gets thirty seconds; crossfire lasts two and a half minutes. I will give a ten-second cue before each timed speech ends, and the debaters will address the issue directly in turn."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.8,
+   "end_sec": 39.96,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "I experience choice when reasons compete. I can notice anger, imagine consequences, and choose a calmer reply. Those reasons influence me, but influence is not a hand forcing one result. Freedom means acting from my considered judgment, rather than being pushed like an object by a chain I never examine or revise."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.8,
+   "end_sec": 43.56,
+   "dur_sec": 3.76,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.16,
+   "end_sec": 53.3,
+   "dur_sec": 13.14,
+   "overlap": false,
+   "text": "That capacity matters because blame, promises, and learning address a person who can respond. If each act is merely the unavoidable output of earlier events, deliberation becomes-",
+   "cut_at_sec": 51.1,
+   "full_dur_sec": 14.16,
+   "ext_file": "L208_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 50.3,
+   "end_sec": 54.38,
+   "dur_sec": 4.08,
+   "overlap": true,
+   "text": "Nelson, I have to stop you, that's time. Bella, go ahead."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.58,
+   "end_sec": 74.11,
+   "dur_sec": 19.53,
+   "overlap": false,
+   "text": "Choice feels open because we do not see the forces shaping us. Temperament, memory, fear, and the situation arrive before any decision appears. When one thought leads to another, the next thought has causes too. Calling that chain freedom gives a comforting label, but it does not create an uncaused chooser inside it."
+  },
+  {
+   "i": 6,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 74.31,
+   "end_sec": 88.08,
+   "dur_sec": 13.77,
+   "overlap": false,
+   "text": "Deliberation itself is one more process in the chain, not an escape from it. You may pause and compare reasons, yet that pause follows the mind you were given. Until we explain how a choice starts-",
+   "cut_at_sec": 85.88,
+   "full_dur_sec": 14.65,
+   "ext_file": "L208_007.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 74.58,
+   "end_sec": 75.82,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 85.08,
+   "end_sec": 89.08,
+   "dur_sec": 4.0,
+   "overlap": true,
+   "text": "I have to step in because we hit our time limit."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 89.28,
+   "end_sec": 103.52,
+   "dur_sec": 14.24,
+   "overlap": false,
+   "text": "And that concludes round one. Now we go on to round two, where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 103.72,
+   "end_sec": 114.84,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Someone tempted to lash out can pause, consider a promise, and speak gently instead. That choice repairs trust and proves people can direct conduct through reasons, so we have free will."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 115.326,
+   "end_sec": 126.696,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "Your example only shows that reflection happens; it never shows reflection escapes its causes. The promise, pause, and gentle words could all be the next links in a process you did not-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 126.997,
+   "end_sec": 138.117,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "When a person understands two options and can act on either after weighing them, that person exercises free will. Causes supply materials for judgment; they do not settle the judgment beforehand."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 138.954,
+   "end_sec": 151.124,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "People use freedom in arguments about praise, punishment, and social rules. Those disputes matter, but labels for blame are not the question. The question is whether anyone could choose otherwise, and prior causes say no."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 151.443,
+   "end_sec": 162.563,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Human beings author their lives through countless choices, even though some choices occur under severe limits. A cause can shape a decision without replacing the person's active role in making it."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 162.981,
+   "end_sec": 174.031,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "Every human choice is produced by prior causes. Your language of authorship merely names the final stage of that production, while the person never selects the desires and thoughts doing the selecting."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 174.435,
+   "end_sec": 186.555,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "A person trying to break a cruel habit can notice an urge, reject it, and practice a better response until it becomes easier. That effort builds character and proves choice can guide a life."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 187.254,
+   "end_sec": 198.224,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "This human choice is not produced by prior causes. When someone rejects a cruel urge, the whole history of temperament, teaching, and circumstance still explains the rejection, so free will remains false."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 198.424,
+   "end_sec": 207.704,
+   "dur_sec": 9.28,
+   "overlap": false,
+   "text": "But doesn't your argument for every human choice is produced by prior causes fight your argument that this human choice is not produced by prior causes?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 207.904,
+   "end_sec": 219.514,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "Both statements use cause in different roles: one describes events, while the other names the person acting within events. The distinction does not rescue freedom, because neither role supplies an independent origin for choice."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 220.376,
+   "end_sec": 231.416,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "I agree that urges and history shape us. But Bella turns shaping into controlling without showing that reasons cannot be assessed and redirected; our capacity to redirect them is free will."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 231.62,
+   "end_sec": 242.91,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "If reasons themselves arise from prior causes, why call their outcome a choice you control? You describe a thoughtful mechanism, but where is the self that could make the mechanism produce otherwise?"
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 243.52,
+   "end_sec": 244.12,
+   "dur_sec": 0.6,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 243.866,
+   "end_sec": 255.556,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "I reject the premise that caused reasons cannot be mine: I assess and endorse them. A self is not outside its thinking; it is the agent doing the thinking, which supports-",
+   "ext_file": "L208_ext_a32.wav",
+   "cut_at_sec": 254.32,
+   "full_dur_sec": 11.69
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 253.52,
+   "end_sec": 265.72,
+   "dur_sec": 12.2,
+   "overlap": true,
+   "text": "Time's up. So onto round three. Round three, closing statements from each debater in turn, uninterrupted. And here to summarize his position in support of the claim that human beings have free will, Nelson."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 265.92,
+   "end_sec": 286.2,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Free will does not mean floating outside history or having no influences. It means a person can recognize reasons, reflect on them, and guide action through judgment. Bella treats every cause as a command, but causes can be reasons that an agent weighs. Our daily efforts to revise habits and keep commitments show more than a passive chain."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 285.92,
+   "end_sec": 287.58,
+   "dur_sec": 1.66,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 286.4,
+   "end_sec": 297.22,
+   "dur_sec": 10.82,
+   "overlap": false,
+   "text": "We are shaped, yet shaping is not surrender. The power to answer reasons with considered action is precisely why we have free will. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 297.42,
+   "end_sec": 305.78,
+   "dur_sec": 8.36,
+   "overlap": false,
+   "text": "Thank you, Nelson. And that is the motion, the claim that human beings have free will. And here to argue against the motion, Bella."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 305.98,
+   "end_sec": 323.9,
+   "dur_sec": 17.92,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether a chooser can begin an act independently of what formed that chooser. Reflection is real, but it is part of the causal story, not a break in it. Accepting that fact supports clearer, kinder judgment, and free will is false. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 324.1,
+   "end_sec": 330.75,
+   "dur_sec": 6.65,
+   "overlap": false,
+   "text": "Thank you, Nelson and Bella, for a thoughtful debate. This concludes our discussion of whether we have free will."
+  }
+ ]
+}

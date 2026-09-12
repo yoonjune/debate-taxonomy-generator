@@ -1,0 +1,458 @@
+{
+ "debate_id": "L149",
+ "motion": "America should end birthright citizenship.",
+ "speakers": {
+  "MOD": {
+   "name": "Javier",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5975_249",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5975/MSP-PODCAST_5975_249.wav",
+   "wpm": 176.03
+  },
+  "PRO": {
+   "name": "Ingrid",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1206_312",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
+   "wpm": 165.44
+  },
+  "CON": {
+   "name": "Caroline",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 97.39,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 316.23,
+ "ext": {
+  "a32": {
+   "file": "L149_ext_a32.wav",
+   "place_at_sec": 240.145,
+   "dur_sec": 31.27,
+   "src_i": 25
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 26,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "On the inherited-exclusion point, reform need not create exclusion. A child can receive citizenship through a citizen or lawfully settled parent, while the country keeps citizenship tied to a recognized bond."
+  },
+  {
+   "src_i": 27,
+   "speaker": "CON",
+   "slot": "X16",
+   "text": "Legal residence matters for adults, but it should not decide whether their newborn belongs. Your parent-based alternative still leaves some children outside, so birthright citizenship remains the fairer rule."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.12,
+   "dur_sec": 17.12,
+   "overlap": false,
+   "text": "Welcome. The motion is: America should end birthright citizenship. Ingrid supports the motion, and Caroline opposes it. Each opening is thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue. Please address the motion and one another directly."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.32,
+   "end_sec": 37.25,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Birthright citizenship makes the place of birth alone decisive, even when a child's parents have no settled legal tie to the country. That rule invites strategic timing and weakens the meaning of membership. Ending it would not demean children; it would connect citizenship to durable allegiance and shared responsibility."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 37.32,
+   "end_sec": 40.36,
+   "dur_sec": 3.04,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 37.45,
+   "end_sec": 50.82,
+   "dur_sec": 13.37,
+   "overlap": false,
+   "text": "Citizenship is a public bond, not a prize triggered by a delivery room. A reformed system can protect children from statelessness while ending automatic claims created by parents who chose-",
+   "cut_at_sec": 48.62,
+   "full_dur_sec": 14.16,
+   "ext_file": "L149_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 47.82,
+   "end_sec": 51.99,
+   "dur_sec": 4.17,
+   "overlap": true,
+   "text": "Ingrid, I have to stop you, that's time. Caroline, go ahead."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.19,
+   "end_sec": 61.88,
+   "dur_sec": 9.69,
+   "overlap": false,
+   "text": "That proposal punishes children for choices they did not make and creates a second class at birth. Belonging should begin with equal protection, not parentage."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 60.98,
+   "end_sec": 63.28,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But equal protection cannot mean automatic citizenship-",
+   "cut_at_sec": 63.28,
+   "full_dur_sec": 8.49,
+   "ext_file": "L149_006.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 62.48,
+   "end_sec": 65.46,
+   "dur_sec": 2.98,
+   "overlap": true,
+   "text": "Please, let her finish, you made your point."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 65.66,
+   "end_sec": 75.83,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "A second class at birth is exactly the danger: a newborn raised here could be treated as permanently outside. That does not strengthen membership; it makes membership inherited privilege."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 72.19,
+   "end_sec": 73.63,
+   "dur_sec": 1.44,
+   "overlap": true,
+   "text": "Caroline, ten seconds."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 76.03,
+   "end_sec": 83.69,
+   "dur_sec": 7.66,
+   "overlap": false,
+   "text": "A country is stronger when children born under its laws can fully belong. That's all, thank you."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 83.89,
+   "end_sec": 99.11,
+   "dur_sec": 15.22,
+   "overlap": false,
+   "text": "And that concludes round one. So now we go on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 99.31,
+   "end_sec": 108.84,
+   "dur_sec": 9.53,
+   "overlap": false,
+   "text": "If parents can obtain citizenship for a child simply by arriving before birth, what meaningful limit remains on using childbirth to evade immigration rules? Please answer that."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 109.512,
+   "end_sec": 119.872,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "That assumes every family plans a birth as a loophole, which is the weakest part of your case. Enforce immigration rules against adults, but do not strip a newborn's equal standing."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 120.522,
+   "end_sec": 130.692,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "On your planned-loophole point, I did not say every family acts strategically. I said the current rule creates that incentive, and a citizenship policy should not reward deliberate evasion."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 131.454,
+   "end_sec": 143.204,
+   "dur_sec": 11.75,
+   "overlap": false,
+   "text": "There is a limit: enforce immigration rules against adults, not newborns. Your answer turns a possible parental motive into a reason to deny the child membership, even when she grows up fully here and-"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 142.304,
+   "end_sec": 152.554,
+   "dur_sec": 10.25,
+   "overlap": true,
+   "text": "No, the point is not blame; it is the rule itself. Citizenship can be granted through a parent's lawful permanent tie, which protects children without making location alone controlling."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 153.069,
+   "end_sec": 164.469,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Imagine a teenager born here who learns she lacks citizenship because of a parent's old paperwork. She cannot easily work, travel, or remain with family; that proves ending birthright citizenship harms children."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 165.198,
+   "end_sec": 175.368,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "When a parent's legal status is unresolved at a child's birth, citizenship should follow a clear legal connection rather than geography alone. That condition makes membership predictable and lawful."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 176.143,
+   "end_sec": 187.183,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Your condition is weak because an unresolved status can last years while a child grows up here. You call that predictability, but it leaves a child's basic belonging dependent on bureaucracy."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 188.014,
+   "end_sec": 197.544,
+   "dur_sec": 9.53,
+   "overlap": false,
+   "text": "Citizenship should reflect a real national connection, because it carries permanent rights and duties. A system built on legal membership gives that connection a clear public meaning."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 198.502,
+   "end_sec": 208.532,
+   "dur_sec": 10.03,
+   "overlap": false,
+   "text": "I reject the premise that connection must be measured through parents' paperwork. A child born and raised under the country's laws has a real connection, and equal citizenship recognizes it."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 209.361,
+   "end_sec": 220.011,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "I agree that children deserve security and dignity. But the main question is who sets citizenship rules, and ending automatic birthplace citizenship restores a lawful boundary that protects its meaning."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 220.773,
+   "end_sec": 232.253,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Consider a child whose parents have lived quietly for years but lack final papers when she is born. Denying her citizenship makes the family's future precarious; that proves this policy creates needless insecurity."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 232.762,
+   "end_sec": 241.642,
+   "dur_sec": 8.88,
+   "overlap": false,
+   "text": "If citizenship is automatic regardless of parental status, why should lawful entry and legal residence matter when the same result can be secured through a birth?"
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 239.11,
+   "end_sec": 241.19,
+   "dur_sec": 2.08,
+   "overlap": true,
+   "text": "Ten seconds left, both of you."
+  },
+  {
+   "i": 26,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 241.865,
+   "end_sec": 251.425,
+   "dur_sec": 9.56,
+   "overlap": false,
+   "text": "That question falsely treats a newborn's citizenship as a reward for unlawful entry. Legal residence still matters for adults, while birthright citizenship prevents children-",
+   "ext_file": "L149_ext_a32.wav",
+   "cut_at_sec": 248.19,
+   "full_dur_sec": 9.56
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 249.11,
+   "end_sec": 260.24,
+   "dur_sec": 11.13,
+   "overlap": true,
+   "text": "Okay, time. That concludes round two. Now we go on to round three. Round three is our closing statements by each debater in turn. Making her closing statement for the motion, Ingrid."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 260.44,
+   "end_sec": 277.49,
+   "dur_sec": 17.05,
+   "overlap": false,
+   "text": "The strongest point is simple: citizenship is a lasting national bond, not an automatic consequence of location. We can protect children against statelessness while requiring a real legal connection. Ending birthright citizenship makes the rules clearer, fairer, and more faithful to meaningful membership. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 277.69,
+   "end_sec": 279.55,
+   "dur_sec": 1.86,
+   "overlap": false,
+   "text": "You can come in, Caroline."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 279.75,
+   "end_sec": 299.83,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "The other side says children can be protected through parent-based rules, but those rules still make a child's standing depend on adult paperwork. Birthright citizenship gives every child born here an equal start. It avoids a caste of people raised under the laws yet denied full belonging. Immigration enforcement should focus on adults, not infants."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 299.75,
+   "end_sec": 302.48,
+   "dur_sec": 2.73,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 300.03,
+   "end_sec": 313.25,
+   "dur_sec": 13.22,
+   "overlap": false,
+   "text": "A country can maintain borders without making newborns carry legal uncertainty. The proposal solves an alleged incentive by withdrawing security from children who did nothing wrong-",
+   "cut_at_sec": 307.57,
+   "full_dur_sec": 14.16,
+   "ext_file": "L149_034.wav"
+  },
+  {
+   "i": 33,
+   "src_i": 35,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 310.25,
+   "end_sec": 314.05,
+   "dur_sec": 3.8,
+   "overlap": true,
+   "text": "I have to step in because we hit our time limit."
+  },
+  {
+   "i": 34,
+   "src_i": 36,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 314.25,
+   "end_sec": 319.71,
+   "dur_sec": 5.46,
+   "overlap": false,
+   "text": "Thank you, Ingrid and Caroline, for a focused debate on whether America should end birthright citizenship."
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+L214  |  Tough Interrogation of Terror Suspects is Necessary.
+  MOD=Elise   PRO=Carissa   CON=Jillian
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Elise(MOD): Welcome. Today's motion is whether tough interrogation of terror suspects is necessary. Carissa supports the motion, and Jillian opposes it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address one another directly, stay on the motion, and let each turn finish.
+[t01] Carissa(PRO): Tough questioning is necessary when a suspect may know where danger is moving. It is not cruelty; it is a focused effort to protect people before.
+[t02] <ovl> <cut> Jillian(CON): You call this protection, but you ignore how-
+[t03] @A5 <ovl> Elise(MOD): Can you let her answer the point please?
+[t04] Carissa(PRO): before anyone is hurt. When a suspect deliberately hides a location or plan, firm questioning can break silence and give responders time to protect those at risk.
+[t05] @A4 <ovl> Elise(MOD): You've got ten seconds.
+[t06] Carissa(PRO): That limited tool is necessary because protecting people sometimes requires more than patient requests.
+[t07] @A2-2 Elise(MOD): You guys want to respond? Jillian.
+[t08] Jillian(CON): Necessity means no workable alternative exists, and Carissa has not shown that. Skilled questioning, verification, and lawful pressure can uncover plans without forcing unreliable words. Once officials use fear as a tool, they invite false leads and damage the trust that makes genuine cooperation possible. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Elise(MOD): We have just heard opening arguments on whether tough interrogation of terror suspects is necessary, and now we're going to give our debaters a chance to respond to one another. You have two and a half minutes, starting when I stop talking.
+[t10] Jillian(CON): Your claim that urgency makes tough methods necessary confuses speed with truth. A frightened suspect may say anything to end pressure, so the supposed shortcut can send responders toward invented threats while real danger remains hidden.
+[t11] Carissa(PRO): Good training and clear supervision matter, and agencies should recruit people with language skills. But those supports do not answer an imminent threat; tough interrogation remains necessary when ordinary questioning cannot promptly protect lives.
+[t12] Jillian(CON): No suspect should ever face coercion. If evidence is weak, force cannot repair it; if evidence is strong, careful questioning can test it, making coercion both needless and dangerous to everyone.
+[t13] Carissa(PRO): Your no-coercion point ignores the person who withholds a location while danger approaches. Careful limits do not make pressure pleasant, but they can make it necessary when delay leaves innocent people exposed.
+[t14] Jillian(CON): This suspect should face coercion. A captive who knows where a hidden device is set can be pressed for the location, because protecting potential victims matters more than preserving that person's comfort.
+[t15] @B2 Elise(MOD): One moment you're saying no suspect should ever face coercion, then you're having them this suspect should face coercion. Which?
+[t16] Jillian(CON): The two statements fit because my first statement rejects coercion as a rule, while the second recognizes its use for this suspect. I am describing a moral line between general safety and one person's choice.
+[t17] Carissa(PRO): That explanation is not a line; it is an exception that swallows your rule. If one suspect may be pressured when lives hang in balance, necessity is exactly what you have conceded.
+[t18] Jillian(CON): That moral line depends on who writes incident reports, who reads them, and whether wording sounds calm afterward. A supervisor's file can shape promotions, friendships, and private grudges long after the room is empty.
+[t19] @B1 Elise(MOD): It's really off the topic of whether tough interrogation of terror suspects is necessary.
+[t20] Jillian(CON): On whether tough interrogation is necessary, it is not: reliable information comes from testing facts, not breaking people. Pressure may produce a location, but it also produces lies that waste the critical time Carissa invokes.
+[t21] Carissa(PRO): Your reliability point assumes tough questioning means blind force and no verification. It does not; investigators can compare answers against known details, while measured pressure may overcome deliberate silence when ordinary methods fail.
+[t22] Jillian(CON): Would you at least agree that every questioning session should be recorded and reviewed? Those safeguards matter because power needs oversight, and your position gives frightened officials too much room to hide mistakes.
+[t23] @A4 <ovl> Elise(MOD): Ten.
+[t24] <cut> Carissa(PRO): Yes, every session should be recorded and reviewed. But that oversight does not-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Elise(MOD): Okay, time. Now, we move on to round three, and round three are closing statements by each debater in turn. And making her closing statement, Carissa.
+[t26] Carissa(PRO): Jillian's best point is reliability: force can create false answers, and that danger demands strict limits, records, and verification. But danger from false answers does not prove every tough method is unnecessary. When ordinary questioning fails and people face an imminent threat, calibrated pressure can obtain a lead. Refusing that tool in every case leaves protectors unable to respond to deliberate silence.
+[t27] @A4 <ovl> Elise(MOD): Well, now ten.
+[t28] Carissa(PRO): Necessity does not mean permission without boundaries. It means keeping a limited option for the rare moment when delay costs lives and ordinary questioning cannot break through. That's all, thank you.
+[t29] @A2-2 Elise(MOD): Jillian, take the response.
+[t30] Jillian(CON): The other side calls coercion calibrated, yet no calibration makes fear a reliable path to truth. Necessity requires proof that no safer method can work, not anxiety about delay. Keep questioning firm, lawful, and verifiable; tough interrogation is a risk we do not need. That's all, thank you.
+[t31] Elise(MOD): Thank you, Carissa and Jillian, for a serious exchange; this debate is now concluded, and we appreciate your thoughtful arguments.

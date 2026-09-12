@@ -1,0 +1,413 @@
+{
+ "debate_id": "L150",
+ "motion": "Tough Interrogation of Terror Suspects is Necessary.",
+ "speakers": {
+  "MOD": {
+   "name": "Elise",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  },
+  "PRO": {
+   "name": "Carissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5920_66",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5920/MSP-PODCAST_5920_66.wav",
+   "wpm": 171.3
+  },
+  "CON": {
+   "name": "Jillian",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0941_297",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0941/MSP-PODCAST_0941_297.wav",
+   "wpm": 170.38
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 83.01,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 296.13,
+ "ext": {
+  "a32": {
+   "file": "L150_ext_a32.wav",
+   "place_at_sec": 229.683,
+   "dur_sec": 21.85,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Recording the session does not turn coercion into a sound method. A record may show procedure was followed, yet it cannot make a frightened answer reliable or make tough interrogation necessary."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.11,
+   "dur_sec": 20.11,
+   "overlap": false,
+   "text": "Welcome. Today's motion is whether tough interrogation of terror suspects is necessary. Carissa supports the motion, and Jillian opposes it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address one another directly, stay on the motion, and let each turn finish."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.31,
+   "end_sec": 30.24,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "Tough questioning is necessary when a suspect may know where danger is moving. It is not cruelty; it is a focused effort to protect people before."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 29.34,
+   "end_sec": 31.64,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "You call this protection, but you ignore how-",
+   "cut_at_sec": 31.64,
+   "full_dur_sec": 9.02,
+   "ext_file": "L150_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 30.84,
+   "end_sec": 33.57,
+   "dur_sec": 2.73,
+   "overlap": true,
+   "text": "Can you let her answer the point please?"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 33.77,
+   "end_sec": 44.18,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "before anyone is hurt. When a suspect deliberately hides a location or plan, firm questioning can break silence and give responders time to protect those at risk."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.31,
+   "end_sec": 41.91,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 44.38,
+   "end_sec": 50.15,
+   "dur_sec": 5.77,
+   "overlap": false,
+   "text": "That limited tool is necessary because protecting people sometimes requires more than patient requests."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 50.35,
+   "end_sec": 52.68,
+   "dur_sec": 2.33,
+   "overlap": false,
+   "text": "You guys want to respond? Jillian."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.88,
+   "end_sec": 70.66,
+   "dur_sec": 17.78,
+   "overlap": false,
+   "text": "Necessity means no workable alternative exists, and Carissa has not shown that. Skilled questioning, verification, and lawful pressure can uncover plans without forcing unreliable words. Once officials use fear as a tool, they invite false leads and damage the trust that makes genuine cooperation possible. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.86,
+   "end_sec": 84.71,
+   "dur_sec": 13.85,
+   "overlap": false,
+   "text": "We have just heard opening arguments on whether tough interrogation of terror suspects is necessary, and now we're going to give our debaters a chance to respond to one another. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 84.91,
+   "end_sec": 97.66,
+   "dur_sec": 12.75,
+   "overlap": false,
+   "text": "Your claim that urgency makes tough methods necessary confuses speed with truth. A frightened suspect may say anything to end pressure, so the supposed shortcut can send responders toward invented threats while real danger remains hidden."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 97.951,
+   "end_sec": 110.041,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Good training and clear supervision matter, and agencies should recruit people with language skills. But those supports do not answer an imminent threat; tough interrogation remains necessary when ordinary questioning cannot promptly protect lives."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 110.492,
+   "end_sec": 121.512,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "No suspect should ever face coercion. If evidence is weak, force cannot repair it; if evidence is strong, careful questioning can test it, making coercion both needless and dangerous to everyone."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 122.041,
+   "end_sec": 133.331,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "Your no-coercion point ignores the person who withholds a location while danger approaches. Careful limits do not make pressure pleasant, but they can make it necessary when delay leaves innocent people exposed."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 133.753,
+   "end_sec": 144.703,
+   "dur_sec": 10.95,
+   "overlap": false,
+   "text": "This suspect should face coercion. A captive who knows where a hidden device is set can be pressed for the location, because protecting potential victims matters more than preserving that person's comfort."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 144.903,
+   "end_sec": 152.063,
+   "dur_sec": 7.16,
+   "overlap": false,
+   "text": "One moment you're saying no suspect should ever face coercion, then you're having them this suspect should face coercion. Which?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.263,
+   "end_sec": 164.433,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "The two statements fit because my first statement rejects coercion as a rule, while the second recognizes its use for this suspect. I am describing a moral line between general safety and one person's choice."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 164.72,
+   "end_sec": 175.93,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "That explanation is not a line; it is an exception that swallows your rule. If one suspect may be pressured when lives hang in balance, necessity is exactly what you have conceded."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 176.301,
+   "end_sec": 188.301,
+   "dur_sec": 12.0,
+   "overlap": false,
+   "text": "That moral line depends on who writes incident reports, who reads them, and whether wording sounds calm afterward. A supervisor's file can shape promotions, friendships, and private grudges long after the room is empty."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 188.501,
+   "end_sec": 193.371,
+   "dur_sec": 4.87,
+   "overlap": false,
+   "text": "It's really off the topic of whether tough interrogation of terror suspects is necessary."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 193.571,
+   "end_sec": 205.881,
+   "dur_sec": 12.31,
+   "overlap": false,
+   "text": "On whether tough interrogation is necessary, it is not: reliable information comes from testing facts, not breaking people. Pressure may produce a location, but it also produces lies that waste the critical time Carissa invokes."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.687,
+   "end_sec": 218.457,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "Your reliability point assumes tough questioning means blind force and no verification. It does not; investigators can compare answers against known details, while measured pressure may overcome deliberate silence when ordinary methods fail."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 219.213,
+   "end_sec": 230.743,
+   "dur_sec": 11.53,
+   "overlap": false,
+   "text": "Would you at least agree that every questioning session should be recorded and reviewed? Those safeguards matter because power needs oversight, and your position gives frightened officials too much room to hide mistakes."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 224.71,
+   "end_sec": 225.35,
+   "dur_sec": 0.64,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 231.383,
+   "end_sec": 238.21,
+   "dur_sec": 6.827,
+   "overlap": false,
+   "text": "Yes, every session should be recorded and reviewed. But that oversight does not-",
+   "ext_file": "L150_ext_a32.wav",
+   "cut_at_sec": 233.81,
+   "full_dur_sec": 10.73
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 234.71,
+   "end_sec": 243.22,
+   "dur_sec": 8.51,
+   "overlap": true,
+   "text": "Okay, time. Now, we move on to round three, and round three are closing statements by each debater in turn. And making her closing statement, Carissa."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 243.42,
+   "end_sec": 263.78,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Jillian's best point is reliability: force can create false answers, and that danger demands strict limits, records, and verification. But danger from false answers does not prove every tough method is unnecessary. When ordinary questioning fails and people face an imminent threat, calibrated pressure can obtain a lead. Refusing that tool in every case leaves protectors unable to respond to deliberate silence."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 263.42,
+   "end_sec": 264.74,
+   "dur_sec": 1.32,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 263.98,
+   "end_sec": 275.26,
+   "dur_sec": 11.28,
+   "overlap": false,
+   "text": "Necessity does not mean permission without boundaries. It means keeping a limited option for the rare moment when delay costs lives and ordinary questioning cannot break through. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 275.46,
+   "end_sec": 277.06,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Jillian, take the response."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 277.26,
+   "end_sec": 294.64,
+   "dur_sec": 17.38,
+   "overlap": false,
+   "text": "The other side calls coercion calibrated, yet no calibration makes fear a reliable path to truth. Necessity requires proof that no safer method can work, not anxiety about delay. Keep questioning firm, lawful, and verifiable; tough interrogation is a risk we do not need. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 294.84,
+   "end_sec": 301.77,
+   "dur_sec": 6.93,
+   "overlap": false,
+   "text": "Thank you, Carissa and Jillian, for a serious exchange; this debate is now concluded, and we appreciate your thoughtful arguments."
+  }
+ ]
+}

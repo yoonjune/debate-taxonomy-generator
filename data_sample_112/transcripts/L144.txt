@@ -1,0 +1,38 @@
+L144  |  Islam is antisemitic.
+  MOD=Carissa   PRO=Max   CON=Teresa
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Carissa(MOD): Welcome. The motion is, Islam is antisemitic. Max argues for it, and Teresa argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each opening time expires. Keep the exchange direct, and address claims, not people.
+[t01] Max(PRO): Islam is not merely whatever its kindest followers make of it. Its foundational language and inherited teachings include hostile portrayals of Jews, and those ideas have been used to excuse exclusion. Individual Muslims can reject that legacy, but the motion concerns the religion's content. We should judge whether that content carries antisemitism, not whether every believer acts badly.
+[t02] @A4 <ovl> Carissa(MOD): Ten seconds, Max.
+[t03] <cut> Max(PRO): A faith may contain a prejudice even when many adherents oppose it. Calling that out does not condemn every Muslim; it identifies a problem in the tradition that deserves honest scrutiny, because-
+[t04] @A2-1 <ovl> Carissa(MOD): That's time, thank you. Teresa, the floor is yours.
+[t05] Teresa(CON): The claim treats a vast faith as if one hostile reading defines it. Islamic scripture and practice also command fairness, protect Jewish neighbors, and recognize a shared moral inheritance. Some Muslims have promoted antisemitism, but prejudice by people is not proof that Islam itself is antisemitic. We must separate selective misuse from the religion's central ethical teaching.
+[t06] @A4 <ovl> Carissa(MOD): I can give you ten seconds to do this.
+[t07] <cut> Teresa(CON): Criticism of particular passages is legitimate, and Muslims should confront hatred wherever it appears. But a whole religion is not antisemitic when its moral core rejects collective blame and demands-
+[t08] @A1 <ovl> Carissa(MOD): I'm sorry, I'm sorry. Hit time.
+
+--- phase 2 ---
+[t09] @A3-1 Carissa(MOD): And now we move on to round two where the debaters address each other directly. You have two and a half minutes, starting when I stop talking.
+[t10] Max(PRO): Consider a student who hears a teacher repeat an inherited slur about Jews as religious truth. That student learns suspicion has sacred backing, which proves harmful antisemitic material within Islam matters.
+[t11] Teresa(CON): Schools also need clear rules for religious accommodation, and that can become a needless fight over clothing or meals. But returning to the motion, a teacher's slur violates Islam's demand for justice, so it doesn't define Islam.
+[t12] <cut> Max(PRO): I reject the premise that justice language cancels hostile language in the same tradition. A rule against one abuse cannot erase a recurring pattern of Jewish denigration in authoritative teachings and communities still inherit it-
+[t13] <ovl> Teresa(CON): No, Max, you are treating every difficult passage as a permanent command. Islam contains debate, context, and moral limits; believers who reject Jewish hatred are following the faith's better and broader principles.
+[t14] Max(PRO): Your weakest claim is that context makes the hostility harmless. Context may explain a passage, but it does not remove its target; if Jews are portrayed collectively as deceitful, the prejudice remains.
+[t15] Teresa(CON): I agree that troubling passages should never be ignored. Yet your leap from passages to Islam as a whole fails, because its interpreters can read them critically through justice and reject antisemitism as betrayal.
+[t16] Max(PRO): When a preacher presents anti-Jewish language as binding religious guidance, it becomes antisemitism rooted in Islam, not merely private bigotry. That condition is met whenever authority shields the prejudice from challenge.
+[t17] Teresa(CON): If Islam is inherently antisemitic, why do its core calls for justice obligate believers to oppose hatred of Jews? Answer the conflict: are those commands Islamic, or not, in your view?
+[t18] Max(PRO): Yes, those commands are Islamic, but they do not erase other authoritative anti-Jewish material. A religion can teach justice in general while still carrying a specific prejudice, and Islam does within it.
+[t19] Teresa(CON): On your point about authoritative material, you assume disputed readings speak for the whole faith. They do not: Islam's moral framework judges collective hatred as wrong, so your conclusion overreaches badly.
+[t20] Max(PRO): Your weakest word is 'disputed.' Disagreement about meaning does not make every meaning innocent; when a hostile reading is preserved, taught, and protected as sacred, Islam retains an antisemitic strand within it.
+[t21] Teresa(CON): I accept that some Muslims preserve hostile readings, and that deserves direct challenge. But your strand claim still mistakes an internal struggle for the faith's essence; Islam's governing ethic can reject antisemitism.
+[t22] @A4 <ovl> Carissa(MOD): About ten seconds left in the crossfire.
+[t23] <cut> Max(PRO): A shopkeeper hears a sermon blame Jews for society's troubles, then refuses a Jewish customer with religious confidence-
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Carissa(MOD): Okay, time. Okay, now we're gonna pivot to our closing round. Max, you are up first.
+[t25] Max(PRO): Decide whether a religion can be assessed by authoritative teachings that portray Jews with collective hostility, even when many followers reject them. It can. Individual decency matters, but it cannot erase harmful religious content; that is why the motion is true. That's all, thank you.
+[t26] @A2-2 Carissa(MOD): It's Teresa's turn to talk.
+[t27] Teresa(CON): Decide whether selective hostile readings outweigh a faith's central commands of justice, neighborliness, and moral accountability. They do not. Muslims must confront antisemitism wherever it appears, yet blaming Islam itself mistakes abuse and dispute for the religion's ethical core as a whole. That's all, thank you.
+[t28] Carissa(MOD): Thank you, Max and Teresa, for a direct exchange. That concludes this debate. We appreciate both perspectives presented tonight.

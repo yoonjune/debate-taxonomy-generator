@@ -1,0 +1,403 @@
+{
+ "debate_id": "L216",
+ "motion": "Legalizing sports gambling has become a bad bet.",
+ "speakers": {
+  "MOD": {
+   "name": "Javier",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  },
+  "PRO": {
+   "name": "Amy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  },
+  "CON": {
+   "name": "Abigail",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4100_1134",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4100/MSP-PODCAST_4100_1134.wav",
+   "wpm": 166.01
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 101.12,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 312.79,
+ "ext": {
+  "a32": {
+   "file": "L216_ext_a32.wav",
+   "place_at_sec": 238.296,
+   "dur_sec": 23.42,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Removing lawful options alone will not protect that fan, but that does not make expansion wise. Your practical tools arrive after the industry has invited the loss, which keeps legalization a bad bet."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.28,
+   "dur_sec": 21.28,
+   "overlap": false,
+   "text": "Welcome to our debate. Tonight's motion is: legalizing sports gambling has become a bad bet. Amy argues for the motion, and Abigail argues against it. Each opening and closing lasts thirty seconds and crossfire lasts two and a half minutes. Please listen closely, answer arguments, and keep remarks respectful and focused on this question; I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.48,
+   "end_sec": 40.95,
+   "dur_sec": 19.47,
+   "overlap": false,
+   "text": "Legalizing sports gambling has become a bad bet because it turns every game into a sales pitch for risking money. Easy access does not stay neutral when people are upset, lonely, or chasing a loss. Safeguards alone help at the edges, but the business depends on repeat wagers. Why should families carry that burden?"
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.15,
+   "end_sec": 54.98,
+   "dur_sec": 13.83,
+   "overlap": false,
+   "text": "And when betting is built into every broadcast and every phone, saying people can simply ignore it misses the point. The product gains customers by making a private risk feel like ordinary-",
+   "cut_at_sec": 52.78,
+   "full_dur_sec": 13.93,
+   "ext_file": "L216_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.48,
+   "end_sec": 45.2,
+   "dur_sec": 3.72,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 51.98,
+   "end_sec": 55.34,
+   "dur_sec": 3.36,
+   "overlap": true,
+   "text": "That's time, thank you. Abigail, the floor is yours."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 55.54,
+   "end_sec": 75.39,
+   "dur_sec": 19.85,
+   "overlap": false,
+   "text": "Families should not carry the burden of illegal markets either, and legalization gives them more protection than denial does. Adults already want to wager, so the real choice is between rules and secrecy. Legal services can offer limits, records, and pauses. Banning the legal route leaves the riskiest route untouched in practice."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 75.54,
+   "end_sec": 77.86,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 75.59,
+   "end_sec": 89.04,
+   "dur_sec": 13.45,
+   "overlap": false,
+   "text": "That does not mean every wager is wise. It means a regulated system can identify trouble and give someone a way back before debt grows, while prohibition sends the person toward sellers-",
+   "cut_at_sec": 86.84,
+   "full_dur_sec": 13.93,
+   "ext_file": "L216_007.wav"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 86.04,
+   "end_sec": 87.76,
+   "dur_sec": 1.72,
+   "overlap": true,
+   "text": "I'm sorry, you've hit time."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 87.96,
+   "end_sec": 101.12,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "Thank you, Abigail. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 101.32,
+   "end_sec": 112.92,
+   "dur_sec": 11.6,
+   "overlap": false,
+   "text": "Families should not carry risks created by illegal betting, which is why legalization is better. You call safeguards failure, but a visible, regulated market lets adults choose and lets families spot trouble sooner."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 113.721,
+   "end_sec": 124.211,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "Your visible-market claim is weakest: putting a betting button everywhere does not make its pull harmless. It normalizes chasing losses, and families still absorb the damage when a wager turns-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 124.47,
+   "end_sec": 136.31,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Advertising can crowd broadcasts and change how people talk about games; that is irritating, but not my central objection. The motion fails because legal options replace hidden operators with rules, records, and intervention."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 136.864,
+   "end_sec": 147.994,
+   "dur_sec": 11.13,
+   "overlap": false,
+   "text": "Every legal betting market harms fans. It turns a shared game into a constant invitation to risk rent money, and the promise of oversight cannot repair an industry built on repeated losses."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.615,
+   "end_sec": 160.305,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "If legalization is a bad bet, why would you drive people back toward unregulated sellers who offer no clear limits or recourse? Adults deserve lawful choices, and prohibition has never made demand disappear."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 160.866,
+   "end_sec": 171.036,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "I would not drive anyone underground; this legal betting market does not harm fans. But legalization spreads betting across daily life, so its overall bargain remains a bad one."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 171.236,
+   "end_sec": 178.116,
+   "dur_sec": 6.88,
+   "overlap": false,
+   "text": "They do every legal betting market harms fans or they should this legal betting market does not harm fans?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 178.316,
+   "end_sec": 189.926,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "Both statements describe different levels: one market may look harmless in isolation, while legal markets as a system harm fans by making betting routine. That routine is why I still support the motion."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 190.419,
+   "end_sec": 202.029,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "Different levels is an escape, not an answer: every already includes the market you just excused. More importantly, normalizing a legal choice is not harm when adults can decline it and seek help."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.972,
+   "end_sec": 214.022,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "I grant that clear rules can make a single transaction safer than a hidden one. But easier, constant access creates more chances to lose control, so legalization has become a bad bet."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.997,
+   "end_sec": 227.887,
+   "dur_sec": 12.89,
+   "overlap": false,
+   "text": "Imagine an adult who notices betting escalating and uses a legal service's pause tool, rather than borrowing from a shadow seller. That route creates a chance to stop and recover, proving legalization is not a bad bet."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 228.2,
+   "end_sec": 238.05,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "Your pause-tool example assumes people pause before damage mounts. How does putting betting prompts beside every game protect the fan who opens an app after a painful loss?"
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 238.296,
+   "end_sec": 249.906,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "On your prompt point, a prompt is not a command, and legal services can place limits beside it. Why assume removing lawful options protects that fan, when practical tools make the motion false?",
+   "ext_file": "L216_ext_a32.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 241.12,
+   "end_sec": 241.72,
+   "dur_sec": 0.6,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 251.12,
+   "end_sec": 256.88,
+   "dur_sec": 5.76,
+   "overlap": true,
+   "text": "Time's up. Okay, now we're gonna pivot to our closing round. Amy, you are up first."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 257.08,
+   "end_sec": 277.25,
+   "dur_sec": 20.17,
+   "overlap": false,
+   "text": "The strongest point is simple: legalization puts gambling inside ordinary sports watching, where temptation becomes routine. A pause tool matters only after someone has begun chasing a loss. Families and fans can bear the strain long before any safeguard works. The industry calls this choice, yet it sells risk as part of every game."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 277.08,
+   "end_sec": 279.16,
+   "dur_sec": 2.08,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 277.45,
+   "end_sec": 288.08,
+   "dur_sec": 10.63,
+   "overlap": false,
+   "text": "And when risk is marketed as ordinary entertainment, harm is not an accident. That is why legalization has become a bad bet for far too many fans. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 288.28,
+   "end_sec": 291.28,
+   "dur_sec": 3.0,
+   "overlap": false,
+   "text": "I want to give the floor to Abigail."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 291.48,
+   "end_sec": 310.17,
+   "dur_sec": 18.69,
+   "overlap": false,
+   "text": "Legalization is not a promise that nobody will make a harmful choice. It is a choice to replace secrecy with accounts, limits, and ways to pause or seek help. Adults deserve that path, so calling legalization a bad bet mistakes regulation for the harm it can reduce. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 310.37,
+   "end_sec": 316.89,
+   "dur_sec": 6.52,
+   "overlap": false,
+   "text": "Thank you, Amy and Abigail, for a thoughtful debate. That concludes our discussion of tonight's motion for now."
+  }
+ ]
+}

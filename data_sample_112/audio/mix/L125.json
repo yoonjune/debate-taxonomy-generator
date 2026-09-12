@@ -1,0 +1,438 @@
+{
+ "debate_id": "L017",
+ "motion": "Clean energy can drive America's economic recovery.",
+ "speakers": {
+  "MOD": {
+   "name": "Julian",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1656_617",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1656/MSP-PODCAST_1656_617.wav",
+   "wpm": 172.62
+  },
+  "PRO": {
+   "name": "Danny",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0417_1197",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0417/MSP-PODCAST_0417_1197.wav",
+   "wpm": 171.29
+  },
+  "CON": {
+   "name": "Jillian",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 82.52,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 297.83,
+ "ext": {
+  "a32": {
+   "file": "L017_ext_a32.wav",
+   "place_at_sec": 229.982,
+   "dur_sec": 19.45,
+   "src_i": 24
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 25,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Your worker-protection question assumes upgrades must force closure, and that premise is false. Sensible financing and phased work retain staff while cleaner investments create demand, so clean energy drives recovery."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.29,
+   "dur_sec": 19.29,
+   "overlap": false,
+   "text": "Welcome. The motion is that clean energy can drive America's economic recovery. Danny argues for it, and Jillian argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. Speak directly, stay on the motion, let each other finish, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.49,
+   "end_sec": 37.19,
+   "dur_sec": 17.7,
+   "overlap": false,
+   "text": "Recovery needs work that begins now and keeps paying back. Building cleaner power, upgrading homes, and making equipment create jobs while lowering bills. Those savings leave families and local businesses able to hire, spend, and grow, instead of sending money away for wasteful fuel. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 37.39,
+   "end_sec": 45.59,
+   "dur_sec": 8.2,
+   "overlap": false,
+   "text": "Thank you, Danny. And that is the motion, clean energy can drive America's economic recovery today. And here to argue against the motion, Jillian."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 45.79,
+   "end_sec": 55.83,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "New projects can create work, but recovery needs dependable gains. If families face higher upfront bills, promised savings do not rescue budgets already under pressure."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 54.93,
+   "end_sec": 57.23,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But you ignore the workers whose old jobs-",
+   "cut_at_sec": 55.17,
+   "full_dur_sec": 8.56,
+   "ext_file": "L017_004.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 56.43,
+   "end_sec": 57.8,
+   "dur_sec": 1.37,
+   "overlap": true,
+   "text": "Let her answer that."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 58.0,
+   "end_sec": 68.41,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "those people need steady paychecks, not promises that new industries may eventually replace them. Recovery means broad, reliable work, not a costly bet for communities."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 65.79,
+   "end_sec": 67.55,
+   "dur_sec": 1.76,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 68.61,
+   "end_sec": 76.56,
+   "dur_sec": 7.95,
+   "overlap": false,
+   "text": "A plan that raises risk for households cannot drive a durable, broad recovery at all. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 76.76,
+   "end_sec": 86.84,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "Now we go on to round two. And round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 87.04,
+   "end_sec": 97.12,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "I agree cleaner equipment can lower a bill after installation. But the main question is whether it drives recovery, and costly transitions can drain households before benefits arrive."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 97.49,
+   "end_sec": 106.49,
+   "dur_sec": 9.0,
+   "overlap": false,
+   "text": "When financing is affordable and predictable, clean energy drives recovery by putting installers and suppliers to work. Those workers earn, spend, and support nearby businesses."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 106.993,
+   "end_sec": 117.643,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "Your affordable financing point assumes someone else absorbs the risk. If projects fail to deliver savings, taxpayers or customers carry the loss, so recovery is not driven by clean energy."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 118.13,
+   "end_sec": 128.21,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "No, taxpayers need not carry losses when contracts require performance. You focus on failed projects, but reliable clean power protects firms from sudden fuel costs and supports recovery."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 128.65,
+   "end_sec": 136.93,
+   "dur_sec": 8.28,
+   "overlap": false,
+   "text": "Clean energy projects should always pay for themselves. A recovery cannot rest on ventures that demand public support while families are already struggling."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.14,
+   "end_sec": 148.62,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Consider a workshop that installs efficient cooling and cleaner power, then uses lower monthly costs to keep its staff and buy materials. That direct local benefit proves clean energy can drive recovery."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.234,
+   "end_sec": 160.204,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "This clean energy project should not pay for itself. A community may support a project that protects a favorite view, but that choice shows why clean energy cannot drive economic recovery."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 160.404,
+   "end_sec": 168.684,
+   "dur_sec": 8.28,
+   "overlap": false,
+   "text": "You're saying clean energy projects should always pay for themselves but you still want this clean energy project should not pay for itself."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 168.884,
+   "end_sec": 180.284,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "The first statement concerns economic projects; the second describes a public choice with no economic purpose. Supporting an amenity can be worthwhile, yet it confirms clean energy is not a recovery engine."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 180.913,
+   "end_sec": 191.593,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Clean energy can strengthen recovery across many kinds of communities, from makers to renters. Its value is not limited to any single financing plan, because workable paths can lower costs."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 191.809,
+   "end_sec": 201.529,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "No, several paths do not make the overall gamble safe. Your claim ignores families facing price increases when projects need support, and those burdens can spread through-"
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 200.629,
+   "end_sec": 211.669,
+   "dur_sec": 11.04,
+   "overlap": true,
+   "text": "That is exactly the problem with calling every investment a burden. A home repair crew sealing drafty rooms earns wages now, and residents keep more pay: recovery driven by clean energy."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 212.223,
+   "end_sec": 223.273,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "Imagine a small manufacturer required to replace working machines before it can afford them. It cuts shifts to cover the expense, showing clean energy rules can slow recovery rather than drive it."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 224.056,
+   "end_sec": 234.056,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "That manufacturer deserves a practical timetable, not a sudden mandate. Yet the main issue is opportunity: cleaner upgrades create demand for builders, repair crews, and suppliers, driving recovery."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 226.84,
+   "end_sec": 229.62,
+   "dur_sec": 2.78,
+   "overlap": true,
+   "text": "About ten seconds left in the crossfire."
+  },
+  {
+   "i": 25,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 234.302,
+   "end_sec": 240.34,
+   "dur_sec": 6.038,
+   "overlap": false,
+   "text": "If clean energy is the driver, how do you protect workers when-",
+   "ext_file": "L017_ext_a32.wav",
+   "cut_at_sec": 233.32,
+   "full_dur_sec": 8.49
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 236.84,
+   "end_sec": 245.87,
+   "dur_sec": 9.03,
+   "overlap": true,
+   "text": "And that's time. Now, we move on to round three, and round three are closing statements by each debater in turn. And making his closing statement, Danny."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 246.07,
+   "end_sec": 262.01,
+   "dur_sec": 15.94,
+   "overlap": false,
+   "text": "Jillian's strongest point is that a costly change can hurt a fragile business. That risk calls for practical financing, not abandonment. Clean energy creates work, reduces recurring costs, and gives businesses steadier footing, so it can drive America's recovery. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 262.21,
+   "end_sec": 263.81,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Jillian, take the response."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 264.01,
+   "end_sec": 284.26,
+   "dur_sec": 20.25,
+   "overlap": false,
+   "text": "Deciding this motion turns on more than whether a few projects create jobs. It turns on whether clean energy is reliable enough to lead the whole recovery without shifting heavy costs onto households and employers. Danny offers safeguards, but safeguards admit the plan can strain those already trying to stay open. A driver must pull everyone forward."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 284.01,
+   "end_sec": 287.0,
+   "dur_sec": 2.99,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 284.46,
+   "end_sec": 297.51,
+   "dur_sec": 13.05,
+   "overlap": false,
+   "text": "Clean energy may help, but the motion says it can drive recovery. When success depends on subsidies, timing, and firms absorbing changes, it is not the engine described. Recovery needs dependable-",
+   "cut_at_sec": 288.93,
+   "full_dur_sec": 14.32,
+   "ext_file": "L017_032.wav"
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 294.51,
+   "end_sec": 297.94,
+   "dur_sec": 3.43,
+   "overlap": true,
+   "text": "I have to step in because we hit our time limit."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 298.14,
+   "end_sec": 304.21,
+   "dur_sec": 6.07,
+   "overlap": false,
+   "text": "Thank you, Danny and Jillian, for a direct debate on the motion. This concludes our discussion here today."
+  }
+ ]
+}

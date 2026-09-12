@@ -1,0 +1,420 @@
+{
+ "debate_id": "L154",
+ "motion": "Marriage between close family members should be discouraged",
+ "speakers": {
+  "MOD": {
+   "name": "Virginia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4091_2904",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4091/MSP-PODCAST_4091_2904.wav",
+   "wpm": 176.59
+  },
+  "PRO": {
+   "name": "Frederick",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  },
+  "CON": {
+   "name": "Lanny",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 97.54,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 299.84,
+ "ext": {
+  "a32": {
+   "file": "L154_ext_a32.wav",
+   "place_at_sec": 236.361,
+   "dur_sec": 36.85,
+   "src_i": 25
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 26,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "No principle permits burdening a freely consenting couple; I reject your claim that family dependence makes consent presumptively suspect. Address actual coercion with help and law, not broad discouragement that labels relatives' commitments doubtful."
+  },
+  {
+   "src_i": 27,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Your weakest claim is that support can replace discouragement, because support often reaches people only after they can speak freely. A norm of caution opens that conversation earlier and protects choice before dependence hides it."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 22.68,
+   "dur_sec": 22.68,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is whether marriage between close family members should be discouraged. Frederick argues for it, and Lanny argues against it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address each other directly, keep remarks civil, and listen when the other speaker has the floor."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 22.88,
+   "end_sec": 32.92,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "Marriage between close relatives can place family roles under intense pressure. Discouragement is a gentle public signal that protects vulnerable relatives and preserves clear boundaries."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 32.02,
+   "end_sec": 34.32,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "Excuse me, why should a public signal override-",
+   "cut_at_sec": 34.32,
+   "full_dur_sec": 9.36,
+   "ext_file": "L154_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 33.52,
+   "end_sec": 35.04,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "Let him finish, yeah."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 35.24,
+   "end_sec": 45.57,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "when relatives depend on one another for care, authority, or housing, romance can make consent harder to read. Society should encourage distance before pressure becomes invisible."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 42.88,
+   "end_sec": 44.17,
+   "dur_sec": 1.29,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 45.77,
+   "end_sec": 53.86,
+   "dur_sec": 8.09,
+   "overlap": false,
+   "text": "That caution respects adults while recognizing that family loyalty can distort choices, so discouragement is justified. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 54.06,
+   "end_sec": 56.87,
+   "dur_sec": 2.81,
+   "overlap": false,
+   "text": "So, Lanny, can we let Lanny come in?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 57.07,
+   "end_sec": 77.23,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Adults within a family may face hard choices, but outsiders cannot reliably judge their private consent. A general warning can turn suspicion into shame. It may isolate people who already need support. The better response is to guard against coercion in any relationship, rather than discourage a commitment simply because relatives chose it."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 77.07,
+   "end_sec": 78.31,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Lanny, ten seconds."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 77.43,
+   "end_sec": 90.57,
+   "dur_sec": 13.14,
+   "overlap": false,
+   "text": "Close relatives can make thoughtful promises, and treating those promises as suspect does not make anyone safer. Families differ in how they share care, money, and privacy. We should challenge force-",
+   "cut_at_sec": 86.36,
+   "full_dur_sec": 16.76,
+   "ext_file": "L154_010.wav"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 87.57,
+   "end_sec": 89.58,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "I'm gonna cut you off just for time."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 89.78,
+   "end_sec": 99.55,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "And now we move on to round two. Round two is where the debaters address each other. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 99.75,
+   "end_sec": 110.4,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "No, I am not claiming every promise is forced; I am saying family dependence makes pressure unusually hard to spot. Your approach waits for damage, while discouragement helps prevent it."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 110.987,
+   "end_sec": 121.747,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "When both adults are independent, informed, and free to leave without losing housing or care, discouragement is unwarranted. In that condition, public disapproval punishes a relationship rather than protecting anyone."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 122.285,
+   "end_sec": 132.725,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "I agree independence matters, but it is not a switch that removes lifelong family expectations. Those expectations can quietly shape choice, so discouragement protects people before they face hidden-"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 131.825,
+   "end_sec": 142.165,
+   "dur_sec": 10.34,
+   "overlap": true,
+   "text": "But that assumes expectations erase agency, which they do not. Adults can recognize family pressure, seek advice, and still choose commitment; discouragement wrongly tells them their judgment counts less."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 142.633,
+   "end_sec": 154.473,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "That kind of family arrangement also changes how relatives handle ordinary gatherings after a couple announces it. Children may hear confusing roles, invitations become tense, and family mediators spend meetings repairing that strain."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 154.673,
+   "end_sec": 164.623,
+   "dur_sec": 9.95,
+   "overlap": false,
+   "text": "It's getting a little bit off the whether marriage between close family members should be discouraged issue. Fair enough? But that's why I stopped you. Frederick to respond."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 164.823,
+   "end_sec": 176.583,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "The question is whether close-family marriage should be discouraged, and its risks to free consent justify that caution. Your exception assumes outsiders can see dependence clearly, yet hidden obligation is precisely the problem."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 177.438,
+   "end_sec": 189.638,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Families may need private counseling when conflicts arise, and respectful support matters there. But support does not require public discouragement; the motion asks whether adults' family ties alone justify it, and they do not."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 190.168,
+   "end_sec": 201.648,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Your phrase 'family ties alone' is the weak point, because no one claims ties alone prove coercion. They create a distinctive risk of concealed dependence, enough to justify discouragement without criminalizing anyone."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 202.529,
+   "end_sec": 214.009,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "People deserve room to make intimate decisions without official shame, especially in families already under scrutiny. That principle applies broadly, while safeguards against coercion can still protect people when genuine pressure appears."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.313,
+   "end_sec": 226.433,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Imagine a young adult whose housing and daily care depend on an older relative proposing marriage. Even without threats, refusing may feel impossible; discouragement signals that this arrangement deserves caution, which supports the motion."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 227.006,
+   "end_sec": 237.766,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "If discouragement is merely gentle, why should adults who have demonstrated free consent bear its public stigma? What principle lets you burden their commitment before any coercion has been shown?"
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 238.371,
+   "end_sec": 250.211,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "On your stigma point, discouragement need not shame anyone; it can mean clear advice and supportive boundaries. Waiting until coercion is proven ignores how family dependence can silence refusal, so caution remains justified.",
+   "ext_file": "L154_ext_a32.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 239.55,
+   "end_sec": 241.4,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "You both have ten seconds."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 249.55,
+   "end_sec": 262.52,
+   "dur_sec": 12.97,
+   "overlap": true,
+   "text": "Time. Now we move on to round three. Round three will be closing statements by each debater in turn. Making his closing statement in support of the resolution whether marriage between close family members should be discouraged, Frederick."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 262.72,
+   "end_sec": 279.38,
+   "dur_sec": 16.66,
+   "overlap": false,
+   "text": "Close-family marriage can mix romance with lifelong dependence, authority, and fear of losing support. No rule can inspect every private pressure, so prevention matters. Discouragement is a modest, humane boundary that protects real freedom without punishing people for private choices. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 279.58,
+   "end_sec": 281.83,
+   "dur_sec": 2.25,
+   "overlap": false,
+   "text": "All right. Let me bring it back to Lanny."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 282.03,
+   "end_sec": 299.45,
+   "dur_sec": 17.42,
+   "overlap": false,
+   "text": "Discouragement sounds mild, yet it places public doubt on adults because of their family connection. We should oppose coercion wherever it exists and offer practical support. But a blanket warning cannot measure consent; it substitutes suspicion for respect and unfairly narrows personal choice. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 299.65,
+   "end_sec": 306.25,
+   "dur_sec": 6.6,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful discussion of this motion; that concludes our debate, and we appreciate your participation."
+  }
+ ]
+}

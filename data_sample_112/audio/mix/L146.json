@@ -1,0 +1,406 @@
+{
+ "debate_id": "L048",
+ "motion": "Grandma's benefits imperil Junior's future.",
+ "speakers": {
+  "MOD": {
+   "name": "Philip",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  },
+  "PRO": {
+   "name": "Rima",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  },
+  "CON": {
+   "name": "Elias",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4043_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4043/MSP-PODCAST_4043_33.wav",
+   "wpm": 168.26
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 63.53,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 293.82,
+ "ext": {
+  "a32": {
+   "file": "L048_ext_a32.wav",
+   "place_at_sec": 202.715,
+   "dur_sec": 33.06,
+   "src_i": 17
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 18,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Picture Grandma receiving modest help for food and warmth, so Junior's parent can keep working instead of scrambling for care. The household steadies. Why deny that this protects Junior's future?"
+  },
+  {
+   "src_i": 19,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "I do not deny that short-term help can steady a household; I reject your claim that it settles Junior's future. Without limits and investment in him, that steadiness becomes dependence and fewer chances."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.76,
+   "dur_sec": 17.76,
+   "overlap": false,
+   "text": "Welcome. The motion is grandma's benefits imperil junior's future in the long term. Rima supports it, and Elias opposes it. Each debater gets thirty seconds to open, then two and a half minutes of crossfire, followed by thirty-second closings. Speak directly, stay respectful, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.96,
+   "end_sec": 33.2,
+   "dur_sec": 15.24,
+   "overlap": false,
+   "text": "Grandma's benefits can be humane, but the bill does not vanish. When today's payments consume resources meant for schooling, training, and beginnings, Junior inherits fewer choices. Protecting one generation without guarding the next turns help into a burden. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 33.4,
+   "end_sec": 35.72,
+   "dur_sec": 2.32,
+   "overlap": false,
+   "text": "You guys want to respond? Elias."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 35.92,
+   "end_sec": 52.84,
+   "dur_sec": 16.92,
+   "overlap": false,
+   "text": "Rima treats support for Grandma as theft from Junior, but that is a false choice. Benefits can keep families steady and let younger relatives work, learn, and plan. Why call a safety net a threat when it gives Junior room to build? That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 53.04,
+   "end_sec": 67.28,
+   "dur_sec": 14.24,
+   "overlap": false,
+   "text": "And that concludes round one of this debate. Now we move on to round two. And round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 67.48,
+   "end_sec": 78.39,
+   "dur_sec": 10.91,
+   "overlap": false,
+   "text": "No, a safety net is not automatically a threat; the danger is letting it outrun obligations to Junior. If you refuse to weigh future choices, how can you promise support is fair?"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 79.257,
+   "end_sec": 90.067,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "You say resources are finite, yet families often gain when Grandma can cover her own needs. Would you cut her support even when Junior would otherwise leave work to care for her?"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 90.397,
+   "end_sec": 103.287,
+   "dur_sec": 12.89,
+   "overlap": false,
+   "text": "I would not cut care; I would ask families to plan it honestly, including how shared homes divide care. When adult relatives argue over chores, resentment can poison birthdays, meals, and the trust children see every day."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 103.487,
+   "end_sec": 111.367,
+   "dur_sec": 7.88,
+   "overlap": false,
+   "text": "We're not talking about that, we're talking about grandma's benefits imperil junior's future in the long term, that's what we'll concentrate on."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 111.567,
+   "end_sec": 122.017,
+   "dur_sec": 10.45,
+   "overlap": false,
+   "text": "The motion asks whether Grandma's benefits can imperil Junior's future, and they can when current promises crowd out his opportunities. Family goodwill cannot replace a budget that protects both generations."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 122.243,
+   "end_sec": 134.443,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Benefits can support Junior through a stable home, so the motion is not inevitable. No benefit payment should ever ignore a child's future. The answer is wiser design, not treating Grandma's support as danger."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 135.382,
+   "end_sec": 148.542,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "Imagine Junior needing a basic training course while public funds are locked into unchecked payments that no longer match need. His course is delayed, his first job slips away. That proves Grandma's benefits can imperil his future."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.743,
+   "end_sec": 160.583,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "This benefit payment should ignore a child's future: Grandma needs it for medicine today, and Junior can manage his own path. Protecting her immediate dignity shows these benefits do not imperil Junior's future."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 160.783,
+   "end_sec": 169.063,
+   "dur_sec": 8.28,
+   "overlap": false,
+   "text": "Well you're no benefit payment should ever ignore a child's future and then you're this benefit payment should ignore a child's future. Which?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 169.263,
+   "end_sec": 182.143,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Both statements point to responsibility, not abandonment. A payment can meet Grandma's immediate need while families and public programs separately support Junior; the words sound opposed only because you pretend one payment must carry every duty."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 182.791,
+   "end_sec": 193.761,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "Your claim that separate support solves everything is the weak link. If the same limited pool funds Grandma first, calling Junior's help separate merely hides the tradeoff and leaves his future exposed."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 194.371,
+   "end_sec": 205.741,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "I am answering your limited-pool point. You assume every payment takes directly from Junior, but support for Grandma can prevent family crises and free adults to invest time and care in him."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.465,
+   "end_sec": 216.905,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "I grant that careless payments waste resources. But your claim treats all benefits as harmless when reliable support can still leave Junior without investment, and that imperils his future.",
+   "ext_file": "L048_ext_a32.wav"
+  },
+  {
+   "i": 18,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 207.28,
+   "end_sec": 209.6,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left, both of you."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 217.28,
+   "end_sec": 231.16,
+   "dur_sec": 13.88,
+   "overlap": true,
+   "text": "Okay, time. Now we move on to round three. Round three will be closing statements by each debater in turn. Making her closing statement in support of the resolution grandma's benefits imperil junior's future in the long term, Rima."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 231.36,
+   "end_sec": 241.32,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "Junior's future is harmed when we promise support without asking what remains for schooling, work, and independence. Compassion must reach forward, which means"
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 240.42,
+   "end_sec": 242.72,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That makes Grandma sound like a burden-",
+   "cut_at_sec": 238.97,
+   "full_dur_sec": 8.62,
+   "ext_file": "L048_023.wav"
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 241.92,
+   "end_sec": 243.29,
+   "dur_sec": 1.37,
+   "overlap": true,
+   "text": "Let her answer that."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 243.49,
+   "end_sec": 253.93,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "we protect those choices by setting priorities before money is committed. Junior cannot recover a lost start later, so support must be balanced with investment in his future."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 251.36,
+   "end_sec": 252.96,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 254.13,
+   "end_sec": 261.85,
+   "dur_sec": 7.72,
+   "overlap": false,
+   "text": "Grandma deserves dignity, but Junior deserves a future that is not quietly spent already. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 262.05,
+   "end_sec": 263.57,
+   "dur_sec": 1.52,
+   "overlap": false,
+   "text": "Yeah, Elias. Thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 263.77,
+   "end_sec": 284.13,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether support is treated as a drain or as a foundation. Grandma's benefits can buy stability, reduce family strain, and keep care from falling on Junior. The question is not whether bad design exists; it is whether benefits themselves imperil his future. That distinction matters: secure elders can strengthen the whole household."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 283.77,
+   "end_sec": 285.37,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 284.33,
+   "end_sec": 295.18,
+   "dur_sec": 10.85,
+   "overlap": false,
+   "text": "When Grandma is secure, Junior gains a calmer home and adults with room to help him. That is protection, not peril, so reject the motion. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 295.38,
+   "end_sec": 301.32,
+   "dur_sec": 5.94,
+   "overlap": false,
+   "text": "Thank you, Rima and Elias, for a thoughtful debate on this motion. This debate is now concluded."
+  }
+ ]
+}

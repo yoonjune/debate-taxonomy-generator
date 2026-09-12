@@ -1,0 +1,40 @@
+L200  |  We should erase bad memories.
+  MOD=Theodore   PRO=Rima   CON=Mira
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Theodore(MOD): Welcome. Tonight's motion is whether we should erase bad memories from our minds. Rima argues for it, and Mira argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. Keep remarks direct; I will give a ten-second cue before time ends for each section.
+[t01] Rima(PRO): Some memories do not teach; they repeatedly wound the people carrying them. Safe erasure can return sleep, calm, and freedom without erasing a person's values. We should let people remove pain that has stopped serving them when they choose it. That's all, thank you.
+[t02] @A2-2 Theodore(MOD): Yeah, Mira. Thank you.
+[t03] Mira(CON): Bad memories hurt, but they connect actions to consequences and help people understand who they became. Erasing them may bring relief today while weakening judgment, empathy, and responsibility tomorrow. We should heal around painful memories, not delete parts of ourselves. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Theodore(MOD): In round two, the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t05] Mira(CON): You call pain useless, but painful memories can signal danger and shape judgment. If people erase them, what helps them recognize harm before they repeat it again?
+[t06] Rima(PRO): People can retain practical lessons without reliving terror; the premise that learning requires suffering is false. Why force someone to keep a wound when its lesson remains?
+[t07] Mira(CON): Once clinics offer memory erasure, regulators must decide who approves it, what records employers may request, and how insurers price it. Those rules could expose private histories.
+[t08] @B1 Theodore(MOD): Okay, I'm not sure that that's getting to whether we should erase bad memories from our minds, which I think is a little bit more on point.
+[t09] Mira(CON): The real question is whether we should erase bad memories, and we should not. Removing pain may remove context, leaving people less able to understand their choices and relationships.
+[t10] Rima(PRO): Every bad memory should be erased. People deserve relief from mental injuries, and keeping an injury merely because it happened treats suffering as a duty for life.
+[t11] Mira(CON): Imagine someone who remembers a violent accident whenever they hear a door close. Erasing that memory could also erase the caution that keeps them safe. That proves preservation protects them.
+[t12] Rima(PRO): This bad memory should not be erased. People deserve tools to escape suffering, and erasure remains a humane, necessary public commitment for wounded minds everywhere, starting today.
+[t13] @B2 Theodore(MOD): You said every bad memory should be erased, but you see it as this bad memory should not be erased.
+[t14] Rima(PRO): The first statement names the goal for bad memories; the second names a memory that must be faced before relief. Both protect people from pain, so erasure remains right.
+[t15] <cut> Mira(CON): I grant that relief matters, and people deserve compassion. But you cannot promise that deleting pain preserves meaning, judgment, or responsibility, which is why we should keep bad memories rather than-
+[t16] <ovl> Rima(PRO): You can preserve meaning and responsibility without preserving torment. Memory erasure targets the pain's grip, not every fact, so denying relief makes suffering the price of being responsible.
+[t17] Mira(CON): If someone relives a terrifying attack each night, why should your principle require her to carry it forever? What right do you have to make pain her teacher?
+[t18] Rima(PRO): Imagine a parent who cannot enter a child's room after finding it empty during a past emergency. Erasure lets her return, comfort the child, and live. That proves relief restores care.
+[t19] @A4 <ovl> Theodore(MOD): Ten.
+[t20] <cut> Mira(CON): Your example assumes erasure restores care, but the parent may lose the memory that explains the child's fear and needs. Relief without understanding-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Theodore(MOD): That's time. Now we move on to round three. Round three will be closing statements. Here is Rima.
+[t22] Rima(PRO): Pain can trap a person in fear long after danger ends. Erasure should be a careful choice because it gives people room to
+[t23] <ovl> <cut> Mira(CON): But that is not mercy if a person loses-
+[t24] @A5 <ovl> Theodore(MOD): Wait, wait. Let Rima finish.
+[t25] Rima(PRO): breathe, rebuild trust, and choose a future not ruled by one awful moment. That is mercy, not denial, and it supports erasing bad memories.
+[t26] @A4 <ovl> Theodore(MOD): Ten seconds from this side?
+[t27] Rima(PRO): Give people control over pain that has already taken enough from them. That's all, thank you.
+[t28] @A2-2 Theodore(MOD): So, let's let Mira jump in. Okay.
+[t29] Mira(CON): Erasure promises escape, but it can also sever the link between pain, understanding, and care. We can reduce suffering without making our past disappear. Choose healing that keeps people whole, because bad memories should not be erased from us forever. That's all, thank you.
+[t30] Theodore(MOD): Thank you, Rima and Mira, for a thoughtful debate. That concludes our discussion of whether bad memories should be erased.

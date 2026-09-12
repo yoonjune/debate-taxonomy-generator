@@ -1,0 +1,421 @@
+{
+ "debate_id": "L033",
+ "motion": "Big cities are past their prime.",
+ "speakers": {
+  "MOD": {
+   "name": "Bernard",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  },
+  "PRO": {
+   "name": "Norman",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3967_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_3967/MSP-PODCAST_3967_54.wav",
+   "wpm": 161.46
+  },
+  "CON": {
+   "name": "Jack",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0417_1197",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0417/MSP-PODCAST_0417_1197.wav",
+   "wpm": 171.29
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 78.69,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 299.77,
+ "ext": {
+  "a32": {
+   "file": "L033_ext_a32.wav",
+   "place_at_sec": 224.494,
+   "dur_sec": 21.77,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Those services do not cancel high costs; a park cannot replace a stable home. You describe amenities, while I am describing whether ordinary residents can remain, and too often they cannot."
+  },
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X16",
+   "text": "The stable-home point matters, but cities are adding homes and changing streets to meet it. Their ability to respond is why calling them past their prime is premature."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.29,
+   "dur_sec": 15.29,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that big cities are past their prime; Norman speaks for it, and Jack against it. Each opening gets thirty seconds. Then comes two and a half minutes of crossfire, followed by thirty-second closings; I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.49,
+   "end_sec": 25.26,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "Big cities once offered unmatched access and energy. But daily life now brings crushing commutes, strained services, and housing that pushes ordinary families outward."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 24.36,
+   "end_sec": 26.66,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "Hold on, that leaves out the people building careers-",
+   "cut_at_sec": 26.66,
+   "full_dur_sec": 9.36,
+   "ext_file": "L033_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 25.86,
+   "end_sec": 28.18,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Can we let him finish now, please?"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 28.38,
+   "end_sec": 38.47,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "and leave local shops without regular customers. A city past its prime is not empty; it is a place where basic stability costs too much."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 35.49,
+   "end_sec": 38.45,
+   "dur_sec": 2.96,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.67,
+   "end_sec": 46.82,
+   "dur_sec": 8.15,
+   "overlap": false,
+   "text": "When opportunity requires exhaustion and displacement, the city's celebrated energy has become a burden. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 47.02,
+   "end_sec": 50.47,
+   "dur_sec": 3.45,
+   "overlap": false,
+   "text": "All right. Let me bring it back to Jack."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 50.67,
+   "end_sec": 68.22,
+   "dur_sec": 17.55,
+   "overlap": false,
+   "text": "My opponent treats pressure as decline, but pressure often means people still see possibility. Big cities concentrate work, culture, transit, and different communities in ways smaller places cannot easily match. Their problems demand repair, not a verdict that their best days are over. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 68.42,
+   "end_sec": 83.25,
+   "dur_sec": 14.83,
+   "overlap": false,
+   "text": "And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 83.45,
+   "end_sec": 94.26,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "I agree cities can still offer exciting work and rich culture. But when access to those benefits depends on long travel, insecure rent, and constant competition, they are past their prime."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 94.764,
+   "end_sec": 105.524,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Your access point is weakest because travel and rent vary across neighborhoods, not across an entire city. People choose city life because shared services and possibilities can outweigh those burdens."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 106.24,
+   "end_sec": 116.09,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "Neighborhood variation does not erase the citywide pattern: affordable areas are often far from opportunity. You call burdens a choice, yet choices shrink when ordinary workers cannot stay."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 116.509,
+   "end_sec": 127.629,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "The choice point misses movement in both directions: people can live near work, share homes, or use transit. A flexible city gives residents options, which means it is adapting, not fading."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 127.85,
+   "end_sec": 138.5,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "If cities remain in their prime, why must so many workers accept distant homes and crowded commutes to afford them? A thriving center should make ordinary participation easier, not punishing."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 138.933,
+   "end_sec": 150.053,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Consider a parent who loses a job but can reach several employers, child care, and evening transit within one day. That dense network gives recovery a chance, proving cities remain valuable."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 150.452,
+   "end_sec": 161.262,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "That network can help after a setback, and it deserves credit. Yet needing a crisis to reveal nearby support does not solve rent, noise, and space pressures that wear residents down."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 162.009,
+   "end_sec": 172.769,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Housing rules and local budgets matter, and arguments about them can get technical. Still, those fights exist because dense places are worth improving; big cities are not past their prime."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 173.477,
+   "end_sec": 183.567,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "When a city requires a full-time worker to live far away from its jobs, it is past its prime for that worker. Growth that excludes its workforce is decline."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 184.285,
+   "end_sec": 194.615,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "Your worker condition confuses a serious housing failure with a final judgment on city life. Fixing homes near jobs can restore access, so the city remains capable of renewal."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 195.002,
+   "end_sec": 205.812,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "Big cities are past their prime when their central promise fails ordinary residents. Renewal plans may sound hopeful, but a place judged by plans rather than lived access has already declined."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 206.546,
+   "end_sec": 218.026,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "A newcomer can arrive with little money, take evening classes, meet collaborators, and find several kinds of work without owning a car. That concentration builds mobility, proving cities still have prime value."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 218.496,
+   "end_sec": 228.186,
+   "dur_sec": 9.69,
+   "overlap": false,
+   "text": "I grant that concentration can open doors for a newcomer. But long-term residents need room to raise children and rest, and cities increasingly price those ordinary lives out."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 223.25,
+   "end_sec": 225.85,
+   "dur_sec": 2.6,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 229.054,
+   "end_sec": 236.75,
+   "dur_sec": 7.696,
+   "overlap": false,
+   "text": "Your family point is weakest because cities offer parks, schools, clinics, and nearby-",
+   "ext_file": "L033_ext_a32.wav",
+   "cut_at_sec": 229.49,
+   "full_dur_sec": 10.76
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 233.25,
+   "end_sec": 247.42,
+   "dur_sec": 14.17,
+   "overlap": true,
+   "text": "And that's time. Now we move on to round three. Round three will be closing statements by each debater in turn. Making his closing statement in support of the resolution the claim that big cities are past their prime, Norman."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 247.62,
+   "end_sec": 267.63,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "Cities once promised that effort could bring a secure, connected life. My strongest point is simple: when ordinary workers must travel far or leave entirely to afford a home, that promise has failed. Culture and services remain, but they cannot substitute for stability. A place that excludes the people who sustain it is already losing its prime."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 267.62,
+   "end_sec": 269.58,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 267.83,
+   "end_sec": 281.12,
+   "dur_sec": 13.29,
+   "overlap": false,
+   "text": "Cities can adapt, but adaptation is not success. Residents face today's cost, not tomorrow's proposal. Until a city makes room for workers and families who keep it alive-",
+   "cut_at_sec": 274.36,
+   "full_dur_sec": 14.17,
+   "ext_file": "L033_030.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 278.12,
+   "end_sec": 281.76,
+   "dur_sec": 3.64,
+   "overlap": true,
+   "text": "Thank you. Time is up on that. And now Jack."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.96,
+   "end_sec": 300.1,
+   "dur_sec": 18.14,
+   "overlap": false,
+   "text": "Big cities are not past their prime because their difficulties show importance, not exhaustion. They gather jobs, learning, care, and relationships so people can recover and build new lives. Demand better housing and fairer access, but improvement proves a living future, not a finished past. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 300.3,
+   "end_sec": 306.39,
+   "dur_sec": 6.09,
+   "overlap": false,
+   "text": "Thank you both for discussing whether big cities are past their prime; this debate is now closed."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+L113  |  Happiness is doing good rather than feeling good.
+  MOD=Oliver   PRO=Joanne   CON=Alice
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Oliver(MOD): Welcome. Tonight's motion is: happiness is doing good rather than feeling good. Joanne argues for it, and Alice argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue.
+[t01] Joanne(PRO): Happiness lasts when it is tied to a life we can respect. Feeling good can arrive from comfort, praise, or escape, yet none requires us to matter to anyone else. Doing good joins our wellbeing to another person's real need. That gives happiness weight, direction, and a reason to endure.
+[t02] @A4 <ovl> Oliver(MOD): Ten seconds.
+[t03] <cut> Joanne(PRO): I am not saying pleasure is worthless. A warm meal or a laugh can brighten a day, but brightness alone is fragile. When you help someone carry a burden, the satisfaction-
+[t04] @A2-1 <ovl> Oliver(MOD): Joanne, I have to stop you, that's time. Alice, go ahead.
+[t05] Alice(CON): Joanne treats happiness as a moral prize, but happiness is an experience, not a report card. Doing good may bring satisfaction, yet it can also bring exhaustion, resentment, or grief. Feeling good is not shallow; it is the very state people mean by happiness. Good action matters, but it cannot replace.
+[t06] <cut> Alice(CON): Feeling good includes peace, connection, curiosity, and relief. You keep calling joy fragile, as if a kind act automatically creates happiness, but someone can do everything right while feeling empty-
+[t07] @A4 <ovl> Oliver(MOD): I can give you ten seconds to wrap this round.
+[t08] @A1 <ovl> Oliver(MOD): Time out. Time out.
+
+--- phase 2 ---
+[t09] @A3-1 Oliver(MOD): And that concludes round one. Now, on to round two. This is where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t10] Joanne(PRO): Imagine you spend an evening listening to a lonely neighbor and arranging help. The relief is not just a pleasant mood; you repaired a human bond, proving doing good creates deeper happiness.
+[t11] Alice(CON): Your repaired human bond point confuses a worthy act with happiness itself. The neighbor may benefit while you feel drained, so the good act proves morality, not your happiness.
+[t12] Joanne(PRO): No, exhaustion does not erase the fulfillment that can follow meaningful service; your example only separates a momentary mood from a whole life. You reduce happiness to sensation, leaving it without purpose.
+[t13] Alice(CON): Your weakest claim is that purpose makes a feeling less central. A whole life is still lived through experience; if service brings only misery, calling it happiness empties the word.
+[t14] <cut> Joanne(PRO): I agree that a good deed can feel burdensome in the moment. But your main test makes any pleasant escape happiness, while doing good builds a life that is worthy of-
+[t15] Alice(CON): When a person is coerced into helping, doing good may not make her happy, because agency is missing. Happiness depends on how life feels to the person, not merely what she does.
+[t16] Joanne(PRO): Consider someone who regularly checks on an isolated relative, even when it is inconvenient. She gains trust, gratitude, and a sense that her days count; that lasting belonging shows happiness grows through doing good.
+[t17] Alice(CON): Your lasting belonging point assumes gratitude will arrive and that duty feels rewarding. The relative may stay distant, while the helper becomes depleted; outcomes cannot redefine happiness away from feeling good.
+[t18] Joanne(PRO): No, gratitude is not required for the helper's life to have meaning; the premise that happiness needs a rewarding outcome is false. You make happiness dependent on luck instead of character.
+[t19] Alice(CON): People can find happiness in play, rest, friendship, achievement, and care for others. None of these requires moral usefulness, because happiness names the felt quality of a life.
+[t20] Joanne(PRO): I grant that rest and friendship can genuinely delight us. But they become fuller when they connect us beyond ourselves; your view protects private comfort, while doing good makes happiness substantial.
+[t21] Alice(CON): If you help someone for years and feel only dread, grief, and resentment, where is the happiness? Why should the deed outrank the person's own lived experience?
+[t22] Joanne(PRO): The happiness lies in the relationship and purpose, though dread may signal that support is needed. A volunteer teaching a child to read sees confidence grow, proving good action can anchor happiness beyond passing comfort.
+[t23] @A4 <ovl> Oliver(MOD): Ten seconds, and then closing statements.
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Oliver(MOD): Time's up. Now, we move on to round three, and round three are closing statements by each debater in turn. And making her closing statement, Joanne.
+[t25] Joanne(PRO): Deciding this motion turns on whether happiness is merely passing inner weather or a life made meaningful through our choices. Feelings matter, but they are unstable and can mislead. Doing good connects happiness to purpose, relationships, and a self we can stand behind. That's all, thank you.
+[t26] @A2-2 Oliver(MOD): All right, so let me bring Alice.
+[t27] Alice(CON): Doing good is admirable, but Joanne's best point confuses a meaningful life with a happy one. Meaning cannot make misery feel like happiness, because.
+[t28] <ovl> <cut> Joanne(PRO): But a life cannot be judged by a single bad-
+[t29] @A5 <ovl> Oliver(MOD): Let Alice say something, then you, and then we're going to wrap.
+[t30] Alice(CON): because the person living it is the only one who can feel its joy or pain. Goodness may enrich happiness, but it never replaces the feeling itself.
+[t31] @A4 <ovl> Oliver(MOD): Well, now ten.
+[t32] Alice(CON): Choose compassion, but call happiness what it is: genuinely feeling good in your own life.
+[t33] Oliver(MOD): Thank you, Joanne and Alice, for a thoughtful debate. That concludes our discussion of the motion tonight.

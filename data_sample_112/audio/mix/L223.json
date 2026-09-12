@@ -1,0 +1,397 @@
+{
+ "debate_id": "L167",
+ "motion": "Turkey is a bad model for the new Arab states",
+ "speakers": {
+  "MOD": {
+   "name": "Carissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "PRO": {
+   "name": "Arthur",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  },
+  "CON": {
+   "name": "Caroline",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 74.63,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 292.04,
+ "ext": {
+  "a32": {
+   "file": "L167_ext_a32.wav",
+   "place_at_sec": 218.129,
+   "dur_sec": 21.57,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "That example does not prove Turkey is a model; it merely proves open debate is valuable everywhere. Why attach a universal lesson to one country's troubled institutional package?"
+  },
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Wouldn't your case be stronger if you identified which local institutions should replace the lessons you reject? How can refusal to learn from any example help citizens build durable democratic habits?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.16,
+   "dur_sec": 19.16,
+   "overlap": false,
+   "text": "Welcome to our debate on whether Turkey is a bad model for new Arab states. Arthur argues for the motion, and Caroline argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Each closing lasts thirty seconds. I will give a ten-second cue before each time limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.36,
+   "end_sec": 39.56,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "Turkey's path grew from particular institutions, social bargains, and a long struggle over who holds power. New Arab states need accountable systems built from their own citizens' priorities, not a borrowed script. Caroline, why assume that sharing a region's pressures makes one country's institutions transferable without weakening local consent at home?"
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.36,
+   "end_sec": 40.6,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Arthur."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.76,
+   "end_sec": 47.13,
+   "dur_sec": 7.37,
+   "overlap": false,
+   "text": "That is why resemblance alone cannot turn Turkey into a safe blueprint for states seeking legitimacy. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 47.33,
+   "end_sec": 48.85,
+   "dur_sec": 1.52,
+   "overlap": false,
+   "text": "Okay. Go on, Caroline."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 49.05,
+   "end_sec": 65.2,
+   "dur_sec": 16.15,
+   "overlap": false,
+   "text": "I do not assume transfer means copying. I argue that Turkey offers lessons in elections, civilian politics, and public debate that new states can adapt. Why call a model bad when leaders can choose useful parts and reject harmful ones? That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 65.4,
+   "end_sec": 78.06,
+   "dur_sec": 12.66,
+   "overlap": false,
+   "text": "And that concludes round one. Now, onto round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 78.26,
+   "end_sec": 89.74,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I reject the idea that selective borrowing makes a model safe; the borrowed parts still carry assumptions about power. Your list ignores how easily elections become decoration when institutions lack local trust."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 90.638,
+   "end_sec": 100.968,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "If no outside example can guide new states, how can they learn without repeating avoidable mistakes? Why deny them Turkey's experience of balancing elected government, courts, and public argument?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 101.247,
+   "end_sec": 112.647,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Learning also involves translators, textbooks, and exchange programs, which can improve how officials communicate across borders. But the motion concerns political models, and Turkey's contested power arrangements make it a bad template."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 113.465,
+   "end_sec": 124.355,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "Arthur's contested power arrangements point proves too much, because every living democracy has disputes. A model is useful precisely when it shows new states ways to manage conflict without abandoning elections."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 124.897,
+   "end_sec": 136.297,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "The deeper issue is trade policy: governments need open markets, fair contracts, and protection from predatory lenders. They should decide whether foreign investment builds local industry or merely extracts wealth from workers."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 136.497,
+   "end_sec": 142.977,
+   "dur_sec": 6.48,
+   "overlap": false,
+   "text": "We're talking about the practicality or the morality of whether Turkey is a bad model for new Arab states."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 143.177,
+   "end_sec": 154.657,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "On the motion, Turkey is a bad model because its institutions emerged through its own conflicts and cannot simply supply legitimacy elsewhere. New Arab states should design arrangements citizens recognize as theirs."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 155.63,
+   "end_sec": 165.88,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "Every useful model always deserves adaptation. Turkey remains useful because its experience invites new Arab states to test institutions carefully, keep what serves citizens, and discard what does not."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 166.735,
+   "end_sec": 178.495,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "If Turkey's experience is so useful, why should new Arab states adapt a model shaped by different civil-military relations and public identities? Does choosing fragments not confirm that the whole model is bad?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 179.07,
+   "end_sec": 188.92,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "Turkey is a useful model that does not deserve adaptation. Its value lies in showing that elected institutions can endure argument, and that lesson supports rejecting the motion."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 189.12,
+   "end_sec": 197.16,
+   "dur_sec": 8.04,
+   "overlap": false,
+   "text": "You said every useful model always deserves adaptation, but you see it as turkey is a useful model that does not deserve adaptation."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 197.36,
+   "end_sec": 208.65,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "My statements fit because adaptation can mean copying structures, while learning from an example means judging its lessons. I reject copying Turkey, but I defend its value as a model for reflection."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 209.008,
+   "end_sec": 221.048,
+   "dur_sec": 12.04,
+   "overlap": false,
+   "text": "I grant that elections and public argument are worthwhile lessons. But Caroline's defense reduces Turkey to isolated ideas; once its institutions require such heavy editing, it is a bad model for new Arab states."
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 218.06,
+   "end_sec": 220.3,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 221.559,
+   "end_sec": 231.56,
+   "dur_sec": 10.001,
+   "overlap": false,
+   "text": "Imagine a new assembly using Turkey's experience to protect open debate while elected leaders answer public criticism. That example gives-",
+   "ext_file": "L167_ext_a32.wav",
+   "cut_at_sec": 225.43,
+   "full_dur_sec": 11.37
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 228.06,
+   "end_sec": 238.44,
+   "dur_sec": 10.38,
+   "overlap": true,
+   "text": "It's time to bring this home with closing remarks. This is where the debaters get to make a summary closing statement. And, Arthur, you have the floor on this one."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 238.64,
+   "end_sec": 254.57,
+   "dur_sec": 15.93,
+   "overlap": false,
+   "text": "Turkey offers lessons, but a model must travel without importing unresolved struggles over power and identity. Caroline calls for selective borrowing, which admits the whole arrangement cannot be trusted. New Arab states need homegrown legitimacy, so Turkey is a bad model. That's all, thank you."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 254.77,
+   "end_sec": 258.77,
+   "dur_sec": 4.0,
+   "overlap": false,
+   "text": "Thanks very much, Arthur, and Caroline you get the last word."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 258.97,
+   "end_sec": 278.74,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "Arthur's strongest point is that institutions need local legitimacy, and I agree that no country should copy another wholesale. But that does not make Turkey a bad model. A model can offer questions, warnings, and workable practices without replacing local judgment. New Arab states can adapt elections and open debate while building institutions their citizens own."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 278.94,
+   "end_sec": 292.47,
+   "dur_sec": 13.53,
+   "overlap": false,
+   "text": "That is practical learning, not imitation. Rejecting every imperfect example leaves new states with fewer tools, fewer cautions, and less confidence to shape rules; Turkey remains a resource, not a command-",
+   "cut_at_sec": 285.47,
+   "full_dur_sec": 14.41,
+   "ext_file": "L167_029.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 278.97,
+   "end_sec": 280.21,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 289.47,
+   "end_sec": 290.71,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Not this time."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 290.91,
+   "end_sec": 296.84,
+   "dur_sec": 5.93,
+   "overlap": false,
+   "text": "Thank you, Arthur and Caroline, for a thoughtful debate; this concludes our discussion of the motion for today."
+  }
+ ]
+}

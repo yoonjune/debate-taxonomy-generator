@@ -1,0 +1,43 @@
+L183  |  Israel can live with a nuclear Iran.
+  MOD=Jed   PRO=Lionel   CON=Joanne
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Jed(MOD): Welcome. Tonight's motion is, Israel can live with a nuclear Iran. Lionel supports it, and Joanne opposes it. Each opening is thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before time expires, and ask both speakers to address the motion fairly.
+[t01] Lionel(PRO): Israel has faced severe threats before, and survival has depended on caution rather than panic. A nuclear rival would be dangerous, but danger does not make coexistence impossible.
+[t02] <ovl> <cut> Joanne(CON): No, you are making danger sound manageable-
+[t03] @A5 <ovl> Jed(MOD): Let him go on, and then I'll come back to you.
+[t04] Lionel(PRO): which is why deterrence matters: each side sees that an attack invites catastrophe. Israel can preserve readiness, communicate limits, and avoid turning uncertainty into an unnecessary war.
+[t05] @A4 <ovl> Jed(MOD): Just, just about ten seconds left.
+[t06] Lionel(PRO): Living with risk is not approval; it is refusing to make worst fears govern Israel.
+[t07] @A2-2 Jed(MOD): Joanne? Do you want to try this one on?
+[t08] Joanne(CON): A nuclear Iran would not be merely another risk Israel manages. It would give hostile leaders a shield for pressure, threats, and miscalculation. Deterrence needs stable signals and trusted restraint; this rivalry offers neither, so Israel cannot safely live with it. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Jed(MOD): And that concludes round one of this debate. And now we go onto round two, which is where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t10] Lionel(PRO): I grant that hostile rhetoric makes any nuclear program alarming. But Joanne treats possession as an instant death sentence, whereas Israel can deter attack, strengthen defenses, and live without surrendering its security.
+[t11] Joanne(CON): If Iran's leaders could launch without clear retaliation, Israel could not live safely with a nuclear Iran. That condition makes command and intent central, because deterrence fails when a threat seems usable.
+[t12] Lionel(PRO): Imagine a crisis where a conventional clash erupts near a border and both governments pause because nuclear retaliation could follow. That pause creates room for messages and proves deterrence can protect Israel.
+[t13] Joanne(CON): Nuclear weapons do not make their owners safe; they make every nearby dispute more frightening and brittle. Israel must judge the whole pattern, and that pattern makes living with nuclear Iran unsafe.
+[t14] Lionel(PRO): No nuclear state should ever trigger war. Israel should answer danger with deterrence, shelters, diplomacy, and steady resolve, because starting a war invites the very destruction we seek to avoid.
+[t15] Joanne(CON): If a nuclear Iran uses its arsenal to shield a conventional attack, will you still tell Israel to live with it rather than act? Answer plainly: is survival secondary to your restraint?
+[t16] Lionel(PRO): A nuclear Iran should trigger war. Yet I would resist that impulse, since Israel survives by making attack costly and choosing containment over panic, so Israel can live with it.
+[t17] @B2 Jed(MOD): I'm puzzled by your stand. On the one hand no nuclear state should ever trigger war and on the other hand a nuclear Iran should trigger war.
+[t18] Lionel(PRO): I keep both statements because a threat can demand a war response without demanding bombs and invasion. Israel should wage vigilance, deterrence, and containment, which is how it lives with nuclear Iran.
+[t19] <cut> Joanne(CON): Picture an alarm after a mistaken signal, with leaders fearing they have minutes to decide and no way to verify intent. In that panic, one launch could destroy Israel and prove coexistence rests on-
+[t20] <ovl> Lionel(PRO): That is exactly why clear communication and protected decision time matter; panic is not destiny. You assume one false alarm becomes launch, but deterrence gives leaders reasons to pause, preserving Israel.
+[t21] Joanne(CON): Your false-alarm point assumes everyone pauses when the stakes rise, but nuclear danger compresses judgment and magnifies error. Clear messages cannot repair a weapon already launched, so Israel cannot live safely with Iran.
+[t22] Lionel(PRO): If deterrence has restrained far worse crises, why assume Israel alone must choose war before nuclear Iran acts? Answer this: what safer policy exists than readiness paired with restraint?
+[t23] @A4 <ovl> Jed(MOD): Ten seconds remaining in this round.
+[t24] <cut> Joanne(CON): Readiness and restraint are better than panic, I grant-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Jed(MOD): Time's up. And now we move on to round three. And here making his closing statement in support of the motion, Lionel.
+[t26] Lionel(PRO): This decision turns on whether danger means helplessness. A nuclear Iran would be grave, and Israel should prepare for coercion, accidents, and threats. But preparation is not the same as declaring coexistence impossible. Deterrence, defenses, communication, and restraint can make attack irrational; the real question is whether Israel can manage risk without choosing a ruinous war.
+[t27] @A4 <ovl> Jed(MOD): I can give you ten seconds to do this.
+[t28] <cut> Lionel(PRO): Joanne asks for certainty, but no security choice offers it. Israel can live with a nuclear Iran by preserving credible consequences and refusing panic, because the alternative risks-
+[t29] @A2-1 <ovl> Jed(MOD): Your time is up. Thank you. Joanne.
+[t30] Joanne(CON): The decision turns on whether Israel's survival may rest on the permanent caution of leaders who threaten it. Deterrence can sometimes delay conflict, but it cannot erase mistaken signals, coercion, or a leader willing to gamble behind a nuclear shield. Israel needs security it can rely on, not a fragile balance that could fail in one fearful moment.
+[t31] @A4 <ovl> Jed(MOD): You have ten seconds.
+[t32] Joanne(CON): Because one failure could be existential, Israel cannot live safely with a nuclear Iran. That's all, thank you.
+[t33] Jed(MOD): Thank you both. This concludes our debate today on whether Israel can live with a nuclear Iran.

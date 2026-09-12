@@ -1,0 +1,402 @@
+{
+ "debate_id": "L130",
+ "motion": "We should erase bad memories.",
+ "speakers": {
+  "MOD": {
+   "name": "Theodore",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2392_110",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2392/MSP-PODCAST_2392_110.wav",
+   "wpm": 165.84
+  },
+  "PRO": {
+   "name": "Rima",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2943_167",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2943/MSP-PODCAST_2943_167.wav",
+   "wpm": 160.94
+  },
+  "CON": {
+   "name": "Mira",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2678_246",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2678/MSP-PODCAST_2678_246.wav",
+   "wpm": 168.22
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 60.87,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 270.96,
+ "ext": {
+  "a32": {
+   "file": "L130_ext_a32.wav",
+   "place_at_sec": 203.38,
+   "dur_sec": 21.53,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "No, erasure need not remove the understanding a parent needs; it removes unbearable distress. You treat every painful memory as indispensable, though people can keep love and lessons without torment."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.96,
+   "dur_sec": 19.96,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is whether we should erase bad memories from our minds. Rima argues for it, and Mira argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. Keep remarks direct; I will give a ten-second cue before time ends for each section."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.16,
+   "end_sec": 36.47,
+   "dur_sec": 16.31,
+   "overlap": false,
+   "text": "Some memories do not teach; they repeatedly wound the people carrying them. Safe erasure can return sleep, calm, and freedom without erasing a person's values. We should let people remove pain that has stopped serving them when they choose it. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.67,
+   "end_sec": 38.27,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Yeah, Mira. Thank you."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 38.47,
+   "end_sec": 55.09,
+   "dur_sec": 16.62,
+   "overlap": false,
+   "text": "Bad memories hurt, but they connect actions to consequences and help people understand who they became. Erasing them may bring relief today while weakening judgment, empathy, and responsibility tomorrow. We should heal around painful memories, not delete parts of ourselves. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 55.29,
+   "end_sec": 65.47,
+   "dur_sec": 10.18,
+   "overlap": false,
+   "text": "In round two, the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 65.67,
+   "end_sec": 75.31,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "You call pain useless, but painful memories can signal danger and shape judgment. If people erase them, what helps them recognize harm before they repeat it again?"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 75.757,
+   "end_sec": 85.287,
+   "dur_sec": 9.53,
+   "overlap": false,
+   "text": "People can retain practical lessons without reliving terror; the premise that learning requires suffering is false. Why force someone to keep a wound when its lesson remains?"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 85.555,
+   "end_sec": 95.195,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "Once clinics offer memory erasure, regulators must decide who approves it, what records employers may request, and how insurers price it. Those rules could expose private histories."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 95.395,
+   "end_sec": 104.685,
+   "dur_sec": 9.29,
+   "overlap": false,
+   "text": "Okay, I'm not sure that that's getting to whether we should erase bad memories from our minds, which I think is a little bit more on point."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 104.885,
+   "end_sec": 115.245,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "The real question is whether we should erase bad memories, and we should not. Removing pain may remove context, leaving people less able to understand their choices and relationships."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 115.779,
+   "end_sec": 124.989,
+   "dur_sec": 9.21,
+   "overlap": false,
+   "text": "Every bad memory should be erased. People deserve relief from mental injuries, and keeping an injury merely because it happened treats suffering as a duty for life."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 125.349,
+   "end_sec": 136.029,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Imagine someone who remembers a violent accident whenever they hear a door close. Erasing that memory could also erase the caution that keeps them safe. That proves preservation protects them."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 136.97,
+   "end_sec": 146.34,
+   "dur_sec": 9.37,
+   "overlap": false,
+   "text": "This bad memory should not be erased. People deserve tools to escape suffering, and erasure remains a humane, necessary public commitment for wounded minds everywhere, starting today."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 146.54,
+   "end_sec": 153.7,
+   "dur_sec": 7.16,
+   "overlap": false,
+   "text": "You said every bad memory should be erased, but you see it as this bad memory should not be erased."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 153.9,
+   "end_sec": 164.07,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "The first statement names the goal for bad memories; the second names a memory that must be faced before relief. Both protect people from pain, so erasure remains right."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 164.897,
+   "end_sec": 176.017,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "I grant that relief matters, and people deserve compassion. But you cannot promise that deleting pain preserves meaning, judgment, or responsibility, which is why we should keep bad memories rather than-"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 175.117,
+   "end_sec": 185.197,
+   "dur_sec": 10.08,
+   "overlap": true,
+   "text": "You can preserve meaning and responsibility without preserving torment. Memory erasure targets the pain's grip, not every fact, so denying relief makes suffering the price of being responsible."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 185.975,
+   "end_sec": 196.055,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "If someone relives a terrifying attack each night, why should your principle require her to carry it forever? What right do you have to make pain her teacher?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 196.506,
+   "end_sec": 207.316,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "Imagine a parent who cannot enter a child's room after finding it empty during a past emergency. Erasure lets her return, comfort the child, and live. That proves relief restores care."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 205.47,
+   "end_sec": 205.96,
+   "dur_sec": 0.49,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 207.98,
+   "end_sec": 218.74,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Your example assumes erasure restores care, but the parent may lose the memory that explains the child's fear and needs. Relief without understanding-",
+   "ext_file": "L130_ext_a32.wav",
+   "cut_at_sec": 211.67,
+   "full_dur_sec": 10.76
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 215.47,
+   "end_sec": 221.99,
+   "dur_sec": 6.52,
+   "overlap": true,
+   "text": "That's time. Now we move on to round three. Round three will be closing statements. Here is Rima."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 222.19,
+   "end_sec": 232.23,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "Pain can trap a person in fear long after danger ends. Erasure should be a careful choice because it gives people room to"
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 231.33,
+   "end_sec": 233.63,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But that is not mercy if a person loses-",
+   "cut_at_sec": 229.03,
+   "full_dur_sec": 7.8,
+   "ext_file": "L130_024.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 232.83,
+   "end_sec": 234.79,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Wait, wait. Let Rima finish."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 234.99,
+   "end_sec": 245.16,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "breathe, rebuild trust, and choose a future not ruled by one awful moment. That is mercy, not denial, and it supports erasing bad memories."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 242.19,
+   "end_sec": 244.15,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 245.36,
+   "end_sec": 253.35,
+   "dur_sec": 7.99,
+   "overlap": false,
+   "text": "Give people control over pain that has already taken enough from them. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 253.55,
+   "end_sec": 256.11,
+   "dur_sec": 2.56,
+   "overlap": false,
+   "text": "So, let's let Mira jump in. Okay."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 256.31,
+   "end_sec": 272.85,
+   "dur_sec": 16.54,
+   "overlap": false,
+   "text": "Erasure promises escape, but it can also sever the link between pain, understanding, and care. We can reduce suffering without making our past disappear. Choose healing that keeps people whole, because bad memories should not be erased from us forever. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 273.05,
+   "end_sec": 280.16,
+   "dur_sec": 7.11,
+   "overlap": false,
+   "text": "Thank you, Rima and Mira, for a thoughtful debate. That concludes our discussion of whether bad memories should be erased."
+  }
+ ]
+}

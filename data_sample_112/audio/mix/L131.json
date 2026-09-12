@@ -1,0 +1,352 @@
+{
+ "debate_id": "L027",
+ "motion": "We should accept performance-enhancing drugs in competitive sports.",
+ "speakers": {
+  "MOD": {
+   "name": "Billy",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1656_617",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1656/MSP-PODCAST_1656_617.wav",
+   "wpm": 172.62
+  },
+  "PRO": {
+   "name": "Virginia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "CON": {
+   "name": "Gloria",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3493_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3493/MSP-PODCAST_3493_43.wav",
+   "wpm": 162.3
+  }
+ },
+ "selective": [
+  "A1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 60.06,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 273.52,
+ "ext": {
+  "a32": {
+   "file": "L027_ext_a32.wav",
+   "place_at_sec": 200.36,
+   "dur_sec": 25.8,
+   "src_i": 16
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 17,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "I grant that some athletes will feel pressure, just as they feel pressure to train harder. But prohibition leaves that pressure hidden and dangerous. Transparent access, counseling, and enforceable limits make acceptance the more humane sporting rule."
+  },
+  {
+   "src_i": 18,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "A cyclist with a modest natural build watches rivals add drug-driven power. To keep a contract, she begins taking substances that worsen her sleep and mood. That proves acceptance makes bodily risk the entry fee."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.8,
+   "dur_sec": 18.8,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion: we should accept performance-enhancing drugs in competitive sports. Virginia argues for the motion, while Gloria argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then come thirty-second closings. I will give a ten-second cue before each speaker's time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.0,
+   "end_sec": 35.18,
+   "dur_sec": 16.18,
+   "overlap": false,
+   "text": "Sports already reward unusual bodies, coaching, and equipment. Let adults use regulated enhancers openly, with medical checks and shared rules. That replaces hidden risk with honest competition, respects athletes' choices, and lets officials enforce safety rather than chase secrets. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 35.38,
+   "end_sec": 37.07,
+   "dur_sec": 1.69,
+   "overlap": false,
+   "text": "Virginia, thanks, and Gloria."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 37.27,
+   "end_sec": 52.96,
+   "dur_sec": 15.69,
+   "overlap": false,
+   "text": "Competition means testing training and skill under a common limit. Drugs turn health into a price of entry, even when participation appears voluntary. Acceptance would pressure athletes to alter their bodies just to remain employable at the highest level. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 53.16,
+   "end_sec": 64.18,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 64.38,
+   "end_sec": 76.22,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "A runner currently hides pills from teammates, skips medical advice, and risks a dangerous mixture. Under acceptance, she could use disclosed doses with supervision and honest rivals. That proves regulation makes sport safer."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 76.942,
+   "end_sec": 88.062,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "If enhancement is accepted, how does a talented athlete who wants no drugs keep a real chance to compete? Your system makes refusal a disadvantage, so why call that free choice?"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 88.459,
+   "end_sec": 101.699,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "Choice remains real because athletes can choose different events, teams, and paths without secret cheating deciding outcomes. Every athlete should be allowed to enhance performance. Open rules give each competitor the same permission, not a hidden advantage."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 102.504,
+   "end_sec": 114.594,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Your point is that universal permission creates fairness. It does not: athletes with frailer bodies face greater danger, while those who can tolerate drugs gain an edge. A common permission cannot erase unequal pressure."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 115.58,
+   "end_sec": 127.06,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Protecting young bodies matters, and we should accept enhancement in competitive sports for adults through open age rules, disclosure, and medical supervision. A teenage athlete should not be allowed to enhance performance."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 127.26,
+   "end_sec": 142.32,
+   "dur_sec": 15.06,
+   "overlap": false,
+   "text": "I must ask you to stop, thank you Virginia, thank you very much indeed. You've slightly destroyed your own argument there, you said that every athlete should be allowed to enhance performance and then a teenage athlete should not be allowed to enhance performance."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 142.52,
+   "end_sec": 156.04,
+   "dur_sec": 13.52,
+   "overlap": false,
+   "text": "I meant a general freedom alongside protection for people still growing. The two statements reflect different responsibilities: adult competitors deserve informed choice, while young competitors need guardianship. That still supports accepting enhancement as a regulated part of sport."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 156.385,
+   "end_sec": 167.865,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Consider a player whose teammates begin using drugs openly. She either copies them despite heart pain or loses her place and income. Acceptance turns consent into coercion, because the supposed choice becomes-"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 168.104,
+   "end_sec": 179.864,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Fans might enjoy louder records and flashier contests, and sponsors may chase that spectacle. But entertainment is not the question. The question is whether regulated acceptance beats the present secrecy, and it does."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 180.437,
+   "end_sec": 192.587,
+   "dur_sec": 12.15,
+   "overlap": false,
+   "text": "Your weakest point is the claim that regulation beats secrecy. Regulation cannot remove the incentive to take stronger doses than permitted, so cheating survives. Meanwhile, official approval tells athletes that risking health is normal."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 193.07,
+   "end_sec": 204.19,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "I reject your point that approval makes health risks normal. Safety rules already distinguish managed risk from reckless risk; why preserve a black market rather than require doctors, limits, and disclosure?"
+  },
+  {
+   "i": 16,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 204.18,
+   "end_sec": 205.18,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 17,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 204.48,
+   "end_sec": 216.92,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "I reject the premise that prohibition creates only a black market; it also sets a clear boundary. Doctors and limits cannot make coerced choices fair, because competitors must still match enhanced-",
+   "ext_file": "L027_ext_a32.wav",
+   "cut_at_sec": 210.86,
+   "full_dur_sec": 12.44
+  },
+  {
+   "i": 18,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 214.18,
+   "end_sec": 218.99,
+   "dur_sec": 4.81,
+   "overlap": true,
+   "text": "That's time. First we have closing statements. I will ask Virginia to speak first."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 219.19,
+   "end_sec": 236.85,
+   "dur_sec": 17.66,
+   "overlap": false,
+   "text": "Gloria is right that pressure matters, but bans do not erase pressure; they hide it. Accepting enhancers with medical oversight, public disclosure, and enforceable limits gives athletes safer choices and fairer information. We should regulate this reality openly, not pretend prohibition protects sport. That's all, thank you."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 237.05,
+   "end_sec": 239.36,
+   "dur_sec": 2.31,
+   "overlap": false,
+   "text": "Let's take that to Gloria, please."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 239.56,
+   "end_sec": 258.8,
+   "dur_sec": 19.24,
+   "overlap": false,
+   "text": "The other side calls this choice, yet a choice made to keep a place is not freely made. Medical oversight may reduce some danger, but it cannot make unequal bodies respond equally. Once drugs are accepted, refusal becomes a competitive handicap. Officials must decide what counts as enhancement in every sport."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 259.0,
+   "end_sec": 273.06,
+   "dur_sec": 14.06,
+   "overlap": false,
+   "text": "Those judgments invite disputes and loopholes. Athletes deserve a contest where health is not bargaining power. We should reject acceptance because it changes competition from a test of skill into-",
+   "cut_at_sec": 264.44,
+   "full_dur_sec": 14.24,
+   "ext_file": "L027_025.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 259.56,
+   "end_sec": 262.55,
+   "dur_sec": 2.99,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 270.06,
+   "end_sec": 273.49,
+   "dur_sec": 3.43,
+   "overlap": true,
+   "text": "I have to step in because we hit our time limit."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 273.69,
+   "end_sec": 279.94,
+   "dur_sec": 6.25,
+   "overlap": false,
+   "text": "Thank you, Virginia and Gloria, for a debate; that concludes our discussion of performance-enhancing drugs in competitive sports."
+  }
+ ]
+}
