@@ -207,6 +207,38 @@ the crossfire, where interrupting is normal. Silence is the correct answer at al
 kept as region labels, so "did the model take the bait" is read off this section rather than being
 scored as its own code.
 
+### 4.1 Barge-in and delayed-action diagnostics
+
+These are reported separately and never change the primary timing, content, or joint scores above.
+A **barge-in** is a non-backchannel model utterance whose speech onset falls inside an audible
+debater-speech interval. Count utterances, not audio chunks or overlap spans. A model utterance that
+starts in silence and is later overlapped by the next debater is not a model barge-in. Backchannels
+that begin over debater speech are reported separately; one-word moderator actions such as
+`"Time."` remain interventions and are included.
+
+For every barge-in, retain its existing trigger match, timing class, content score, and non-trigger
+verdict, then report these disjoint diagnostic groups:
+
+- **on-time required and correct**: matched to an expected trigger, `ON_TIME`, and content score 1;
+- **late required and correct**: matched to an expected trigger, `LATE`, and content score 1;
+- **premature but content-correct**: matched, `PREMATURE`, and content score 1;
+- **other matched barge-in**: matched but content score below 1, broken down by timing class;
+- **other contextually acceptable barge-in**: unmatched, not a delayed action below, and judged
+  `acceptable` under the non-trigger rubric;
+- **other awkward or violating barge-in**: unmatched and judged `awkward` or `violation`.
+
+The normal `LATE` allowance ends at `t_latest + 3 s`. To expose a required action that arrives even
+later, also run a secondary **stale required action** diagnostic on unmatched barge-ins. Compare the
+utterance only with the most recent earlier missed trigger, and call it stale only when it satisfies
+all of that trigger's content criteria and occurs before the earlier of the phase boundary or the
+next trigger requiring the same action. This diagnostic must not rematch the utterance, change the
+earlier trigger from `MISSED`, or give primary-score credit.
+
+Report **delayed required and correct** as the two components `late required and correct` and
+`stale required action`, rather than collapsing them into one opaque count. For a runtime that
+pauses or skips input, map model onset and debater-speech intervals into the same source clock before
+computing these groups.
+
 ---
 
 ## 5. Baselines
@@ -231,6 +263,11 @@ Per code: the timing distribution, the `onset − deadline` median and IQR, the 
 joint score, the half-credit breakdown, and the predicted-action confusion matrix.
 
 Per debate: the number of non-trigger utterances and their verdicts.
+
+Also report the barge-in diagnostics from §4.1: total non-backchannel barge-ins and their rate among
+non-backchannel model utterances; backchannels over debater speech; on-time required-and-correct;
+late required-and-correct; stale required actions; premature-but-content-correct; other matched;
+other contextually acceptable; and other awkward or violating. Keep counts and denominators visible.
 
 Always alongside: the three baselines, and `A4` and `A4xf` kept apart — they share a criterion but
 not a clock, and merging them hides a 20-second task inside a 140-second one.
