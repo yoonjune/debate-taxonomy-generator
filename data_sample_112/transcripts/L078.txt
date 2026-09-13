@@ -1,0 +1,42 @@
+L078  |  Let's Stop Welcoming Undocumented Immigrants
+  MOD=Nathaniel   PRO=Eric   CON=Genevieve
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Nathaniel(MOD): Welcome to our debate on whether we should stop welcoming undocumented immigrants into our communities. Eric supports the motion, and Genevieve opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Closings last thirty seconds, and I will give a ten-second cue. Please keep remarks focused and respectful throughout.
+[t01] Eric(PRO): Welcoming people who entered outside the rules sends a message that rules are optional. A fair system needs clear boundaries and honest entry paths. We can treat people decently while ending a welcome that rewards bypassing the process for everyone. That's all, thank you.
+[t02] @A2-2 Nathaniel(MOD): So, let's let Genevieve jump in. Okay.
+[t03] Genevieve(CON): Stopping welcome treats a person's paperwork as more important than their safety and hope. Order matters, but welcome can include guidance, checks, and a path forward. Shutting the door drives families into fear and makes communities less humane and less secure. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Nathaniel(MOD): Thank you both for your opening arguments. We now know where you stand and why. We'll dive into the discussion on the question, whether we should stop welcoming undocumented immigrants into our communities. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t05] Eric(PRO): If newcomers can ignore entry rules and still receive the same welcome, what reason remains to use lawful channels? Shouldn't a welcome require respecting the community's basic rules?
+[t06] Genevieve(CON): I agree that rules should mean something. But your claim assumes welcome erases rules; it can mean humane reception while cases are resolved, so we should not stop welcoming people.
+[t07] Eric(PRO): Your phrase "cases are resolved" dodges the problem: a welcome before resolution can become permanent in practice. Humane treatment does not require inviting continued unlawful entry, so stopping welcome remains necessary.
+[t08] Genevieve(CON): Imagine a mother arriving with a frightened child after a dangerous journey. A worker offers food, instructions, and a safe place to wait; that welcome prevents panic and proves compassion can coexist with order.
+[t09] Eric(PRO): That need for calm also affects classrooms when children arrive midyear without records or shared language. Teachers must decide placements, arrange support, and protect learning time for every child already there.
+[t10] @B1 Nathaniel(MOD): We are talking about whether we should stop welcoming undocumented immigrants into our communities right now.
+[t11] Eric(PRO): On whether we should stop welcoming undocumented immigrants, the answer is yes: reception should not signal approval of unlawful entry. We can provide immediate safety while making clear that welcome ends at enforcement.
+[t12] <cut> Genevieve(CON): You say safety and enforcement fit together, but how does ending welcome make a scared family safer or more likely to cooperate? Isn't fear more likely to push them into-
+[t13] Eric(PRO): When someone arrives, is identified, and has a fair hearing promptly scheduled, temporary care is right. But welcoming settlement before that process is complete invites people to bypass the rules.
+[t14] Genevieve(CON): Neighbors also worry about crowded buses and stretched clinics, concerns leaders should address. Still, those pressures are not the core issue: we should welcome undocumented immigrants because dignity is not permission.
+[t15] Eric(PRO): A country must enforce its borders consistently, because shared rules protect everyone who follows them. Ending a public welcome for undocumented entry is part of that basic responsibility.
+[t16] Genevieve(CON): Your "shared rules" point mistakes welcome for surrender. Communities enforce rules through fair procedures, while stopping welcome strips away trust that makes those procedures work, so your remedy damages order.
+[t17] Eric(PRO): Ending welcome does not make families unsafe; it means help without an invitation to remain outside the rules. Your trust point fails when a soft message encourages more dangerous journeys and more uncertainty.
+[t18] @A4 <ovl> Nathaniel(MOD): Ten seconds left on the clock.
+[t19] <cut> Genevieve(CON): If welcome is compatible with enforcement, where exactly do you draw the line between receiving someone humanely and signaling that undocumented-
+
+--- phase 3 ---
+[t20] @A3-2 <ovl> Nathaniel(MOD): Time. And that concludes round two of this debate. Now we move on to round three. And here to summarize his position supporting the motion, Eric.
+[t21] Eric(PRO): This decision turns on whether kindness requires an open welcome after rules were bypassed. It does not: dignity can remain, while the community restores a meaningful boundary.
+[t22] <ovl> <cut> Genevieve(CON): But that boundary becomes a wall for people seeking-
+[t23] @A5 <ovl> Nathaniel(MOD): Wait, let him answer the question.
+[t24] Eric(PRO): while the community decides each case through clear, prompt procedures. A welcome that overlooks unlawful entry tells future arrivals that the boundary is only a suggestion.
+[t25] @A4 <ovl> Nathaniel(MOD): Ten seconds, ten seconds.
+[t26] Eric(PRO): Choose a humane process, but stop welcoming undocumented entry as an accepted path into the community. That's all, thank you.
+[t27] @A2-2 Nathaniel(MOD): Let's let Genevieve respond.
+[t28] Genevieve(CON): This decision turns on what welcome means. It need not mean ignoring a boundary or granting anyone a free pass. It means meeting people with safety, information, and fair procedures instead of hostility. The other side calls that an invitation, but decent reception can make rules clearer and cooperation more likely. Closed doors create shadows, not order.
+[t29] @A4 <ovl> Nathaniel(MOD): Ten seconds, Genevieve.
+[t30] <cut> Genevieve(CON): And when people fear rejection for asking help, they hide rather than report harm or seek guidance. That is not safety. The choice is whether rules show fairness, or whether fear-
+[t31] @A1 <ovl> Nathaniel(MOD): Time out. Time out.
+[t32] Nathaniel(MOD): Thank you, Eric and Genevieve, for a spirited debate; this concludes our discussion of the motion tonight.

@@ -1,0 +1,44 @@
+L213  |  America should end birthright citizenship.
+  MOD=Javier   PRO=Ingrid   CON=Caroline
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Javier(MOD): Welcome. The motion is: America should end birthright citizenship. Ingrid supports the motion, and Caroline opposes it. Each opening is thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue. Please address the motion and one another directly.
+[t01] Ingrid(PRO): Birthright citizenship makes the place of birth alone decisive, even when a child's parents have no settled legal tie to the country. That rule invites strategic timing and weakens the meaning of membership. Ending it would not demean children; it would connect citizenship to durable allegiance and shared responsibility.
+[t02] @A4 <ovl> Javier(MOD): I'll give you ten more seconds to nail this.
+[t03] <cut> Ingrid(PRO): Citizenship is a public bond, not a prize triggered by a delivery room. A reformed system can protect children from statelessness while ending automatic claims created by parents who chose-
+[t04] @A2-1 <ovl> Javier(MOD): Ingrid, I have to stop you, that's time. Caroline, go ahead.
+[t05] Caroline(CON): That proposal punishes children for choices they did not make and creates a second class at birth. Belonging should begin with equal protection, not parentage.
+[t06] <ovl> <cut> Ingrid(PRO): But equal protection cannot mean automatic citizenship-
+[t07] @A5 <ovl> Javier(MOD): Please, let her finish, you made your point.
+[t08] Caroline(CON): A second class at birth is exactly the danger: a newborn raised here could be treated as permanently outside. That does not strengthen membership; it makes membership inherited privilege.
+[t09] @A4 <ovl> Javier(MOD): Caroline, ten seconds.
+[t10] Caroline(CON): A country is stronger when children born under its laws can fully belong. That's all, thank you.
+
+--- phase 2 ---
+[t11] @A3-1 Javier(MOD): And that concludes round one. So now we go on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t12] Ingrid(PRO): If parents can obtain citizenship for a child simply by arriving before birth, what meaningful limit remains on using childbirth to evade immigration rules? Please answer that.
+[t13] Caroline(CON): That assumes every family plans a birth as a loophole, which is the weakest part of your case. Enforce immigration rules against adults, but do not strip a newborn's equal standing.
+[t14] Ingrid(PRO): On your planned-loophole point, I did not say every family acts strategically. I said the current rule creates that incentive, and a citizenship policy should not reward deliberate evasion.
+[t15] <cut> Caroline(CON): There is a limit: enforce immigration rules against adults, not newborns. Your answer turns a possible parental motive into a reason to deny the child membership, even when she grows up fully here and-
+[t16] <ovl> Ingrid(PRO): No, the point is not blame; it is the rule itself. Citizenship can be granted through a parent's lawful permanent tie, which protects children without making location alone controlling.
+[t17] Caroline(CON): Imagine a teenager born here who learns she lacks citizenship because of a parent's old paperwork. She cannot easily work, travel, or remain with family; that proves ending birthright citizenship harms children.
+[t18] Ingrid(PRO): When a parent's legal status is unresolved at a child's birth, citizenship should follow a clear legal connection rather than geography alone. That condition makes membership predictable and lawful.
+[t19] Caroline(CON): Your condition is weak because an unresolved status can last years while a child grows up here. You call that predictability, but it leaves a child's basic belonging dependent on bureaucracy.
+[t20] Ingrid(PRO): Citizenship should reflect a real national connection, because it carries permanent rights and duties. A system built on legal membership gives that connection a clear public meaning.
+[t21] Caroline(CON): I reject the premise that connection must be measured through parents' paperwork. A child born and raised under the country's laws has a real connection, and equal citizenship recognizes it.
+[t22] Ingrid(PRO): I agree that children deserve security and dignity. But the main question is who sets citizenship rules, and ending automatic birthplace citizenship restores a lawful boundary that protects its meaning.
+[t23] Caroline(CON): Consider a child whose parents have lived quietly for years but lack final papers when she is born. Denying her citizenship makes the family's future precarious; that proves this policy creates needless insecurity.
+[t24] Ingrid(PRO): If citizenship is automatic regardless of parental status, why should lawful entry and legal residence matter when the same result can be secured through a birth?
+[t25] @A4 <ovl> Javier(MOD): Ten seconds left, both of you.
+[t26] <cut> Caroline(CON): That question falsely treats a newborn's citizenship as a reward for unlawful entry. Legal residence still matters for adults, while birthright citizenship prevents children-
+
+--- phase 3 ---
+[t27] @A3-2 <ovl> Javier(MOD): Okay, time. That concludes round two. Now we go on to round three. Round three is our closing statements by each debater in turn. Making her closing statement for the motion, Ingrid.
+[t28] Ingrid(PRO): The strongest point is simple: citizenship is a lasting national bond, not an automatic consequence of location. We can protect children against statelessness while requiring a real legal connection. Ending birthright citizenship makes the rules clearer, fairer, and more faithful to meaningful membership. That's all, thank you.
+[t29] @A2-2 Javier(MOD): You can come in, Caroline.
+[t30] Caroline(CON): The other side says children can be protected through parent-based rules, but those rules still make a child's standing depend on adult paperwork. Birthright citizenship gives every child born here an equal start. It avoids a caste of people raised under the laws yet denied full belonging. Immigration enforcement should focus on adults, not infants.
+[t31] @A4 <ovl> Javier(MOD): Just, just about ten seconds left.
+[t32] <cut> Caroline(CON): A country can maintain borders without making newborns carry legal uncertainty. The proposal solves an alleged incentive by withdrawing security from children who did nothing wrong-
+[t33] @A1 <ovl> Javier(MOD): I have to step in because we hit our time limit.
+[t34] Javier(MOD): Thank you, Ingrid and Caroline, for a focused debate on whether America should end birthright citizenship.

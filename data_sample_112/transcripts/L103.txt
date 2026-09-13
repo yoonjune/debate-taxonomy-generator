@@ -1,0 +1,38 @@
+L103  |  Religion is a force for good.
+  MOD=Rima   PRO=Emma   CON=Carl
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Rima(MOD): Welcome. Today's motion is whether religion is a force for good in society. Emma supports the motion, and Carl opposes it. Each speaker gets thirty seconds for opening remarks, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before time expires. Please address each other fairly and directly.
+[t01] Emma(PRO): Religion can turn private belief into public care. It gives people reasons to feed neighbors, forgive injury, and serve strangers. Because it builds moral duties and communities that act on them, religion is a force for good day after day. That's all, thank you.
+[t02] @A2-2 Rima(MOD): We've got your point. Carl.
+[t03] Carl(CON): Good intentions do not make a force good. Religion can offer comfort, but it also gives disagreements a sacred label and makes compromise feel like betrayal. When people claim divine certainty, dissent can become sin rather than conversation. That power can divide families, silence questioning, and excuse cruelty, so we must judge it by its effects, not its promises.
+[t04] @A4 <ovl> Rima(MOD): I'll give you ten more seconds to nail this.
+[t05] <cut> Carl(CON): And it can teach people to obey leaders who exploit that certainty. A belief system is not automatically good when it comforts some while treating-
+[t06] @A1 <ovl> Rima(MOD): I'm gonna cut you off just for time.
+
+--- phase 2 ---
+[t07] @A3-1 Rima(MOD): Round two is where the debaters address one another in turn. Two and a half minutes on the clock, starting the moment I stop talking.
+[t08] Carl(CON): You say religion builds moral duty, but any group can teach duty without sacred authority. Why credit religion itself when the same compassion can exist without its rigid and divisive demands?
+[t09] <cut> Emma(PRO): Compassion can exist without religion, but that does not erase religion's distinctive habit of binding duty to action across a community. Your argument blames faith for leaders' abuses while ignoring the people it moves to-
+[t10] Carl(CON): Tax breaks and public ceremonies can make religious groups look more useful than they are, and that deserves scrutiny. But the motion is broader: a force that can turn doubt into sin is not reliably good.
+[t11] Emma(PRO): When religion teaches that every person carries equal worth, it gives members a reason to protect even outsiders. That condition turns belief into humility and service, which makes religion a force for good.
+[t12] Carl(CON): If sacred certainty can label outsiders as wrong, how do you stop believers from treating disagreement as a moral threat? Your hopeful condition depends on an interpretation that religion itself cannot guarantee.
+[t13] Emma(PRO): Believers do not need a perfect guarantee before they can do good; religion's shared stories can inspire care across many settings. Its moral language repeatedly calls people beyond selfishness, making it a force for good.
+[t14] Carl(CON): Calling people beyond selfishness is not the same as producing good, because the same moral language can demand obedience and exclusion. Inspiration without safeguards leaves religion able to magnify both kindness and harm.
+[t15] Emma(PRO): Safeguards depend on who holds the keys to meeting halls, who controls donations, and whether records are open to members. If accounts are hidden, volunteers cannot know whether food funds paid for rent, travel, or a leader's private purchases.
+[t16] @B1 Rima(MOD): We're not talking about that, we're talking about whether religion is a force for good in society, that's what we'll concentrate on.
+[t17] Emma(PRO): Religion is a force for good when it forms people who serve others from conscience, not merely supervision. Openness matters because accountable communities can make that service trustworthy and extend its benefits.
+[t18] Carl(CON): I grant that accountable religious communities can provide real care. Yet accountability comes from human rules, while religion can still claim a higher authority against criticism; that danger means it is not a force for good.
+[t19] Emma(PRO): If human accountability makes care safer, why dismiss the moral commitment that brings people together to practice it? Can you explain why religion's capacity for abuse cancels its capacity to sustain costly service?
+[t20] @A4 <ovl> Rima(MOD): Ten seconds left in this round.
+[t21] <cut> Carl(CON): Imagine a child told that questioning a family rule insults the sacred-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Rima(MOD): Time. We are about to hear brief closing remarks from each debater in turn. On to round three, closing statements. First summarizing her position in support of the motion whether religion is a force for good in society, Emma.
+[t23] Emma(PRO): The core issue is what religion does when it binds belief to responsibility for others. At its best, it teaches equal worth, creates a community for service, and calls people beyond self-interest. Carl has shown misuse of authority, but misuse does not erase the care and courage religion can inspire, and that matters because
+[t24] @A4 <ovl> Rima(MOD): Ten seconds warning.
+[t25] Emma(PRO): A force that repeatedly turns conscience into service deserves to be called good. That's all, thank you.
+[t26] @A2-2 Rima(MOD): I want to let Carl respond to some of that.
+[t27] Carl(CON): Service is good, and religious people often perform it with devotion. But force should be judged by what it authorizes, not its best examples; sacred certainty can shield cruelty from challenge. Since religion can make authority harder to question, it is not a force for good. That's all, thank you.
+[t28] Rima(MOD): Thank you, Emma and Carl, for a thoughtful exchange on this motion; that concludes our debate tonight here.

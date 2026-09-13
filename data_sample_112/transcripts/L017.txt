@@ -1,0 +1,41 @@
+L017  |  The FDA is too cautious
+  MOD=Jed   PRO=Malcolm   CON=Kate
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Jed(MOD): Today's motion is, "The FDA is too cautious." Malcolm supports the motion, and Kate opposes it. Each speaker gets thirty seconds to open, then we have two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue during speeches, and then I will move us along.
+[t01] Malcolm(PRO): The FDA's caution once protected patients, but it now delays useful treatments long after their risks are understood. Patients with serious illnesses cannot benefit from therapies trapped in endless review. The agency should demand solid evidence, not perfect certainty. I will explain why this cautious culture harms patients and slows medical progress.
+[t02] @A4 <ovl> Jed(MOD): Ten.
+[t03] <cut> Malcolm(PRO): The problem is not careful testing; it is demanding answers that medicine cannot provide before approval. A treatment can be monitored and improved after release, while patients now receive nothing-
+[t04] @A2-1 <ovl> Jed(MOD): Thank you. Time is up on that. And now Kate.
+[t05] Kate(CON): The FDA is not too cautious; it is responsible for preventing unsafe treatments from reaching patients. Approval requires evidence because hopeful claims can hide serious harm. Faster access matters, but lowering the standard would trade visible delays for invisible injuries. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Jed(MOD): We're going to move into our proverbial free-for-all session. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Kate(CON): I grant that some reviews take longer than patients want, but that does not show the standard is excessive. The main issue is whether uncertain treatments should reach vulnerable people, and careful review keeps protection stronger than pressure.
+[t08] Malcolm(PRO): You reduce the argument to lowering standards, which I have not proposed. The FDA can require meaningful evidence while allowing earlier access with monitoring; rejecting that middle ground leaves patients waiting for certainty that may never arrive.
+[t09] Kate(CON): Patients also need protection from prices, misleading promises, and uneven access after approval. A treatment that exists but reaches only wealthy patients does not solve the healthcare problem, so public systems should control distribution and affordability.
+[t10] @B1 Jed(MOD): Okay. What does your point have to do with the FDA is too cautious when approving new medical treatments?
+[t11] Kate(CON): The motion asks whether the FDA is too cautious, and its standards are not excessive when lives are at stake. Approval decisions must weigh uncertain benefits against possible harm, so restraint remains a safeguard, not a failure.
+[t12] Malcolm(PRO): When a treatment addresses a severe illness with no good alternatives, the FDA should permit earlier access under strict follow-up. In that condition, waiting for complete evidence causes more harm than carefully managed uncertainty.
+[t13] Kate(CON): Follow-up sounds reassuring, but patients cannot easily recover from a dangerous first exposure, and companies may resist admitting failure. That is why the FDA's caution matters: it keeps the burden of uncertainty with manufacturers, not patients.
+[t14] Malcolm(PRO): Across the system, the FDA should favor timely access when evidence is promising and risks can be watched. That broader principle still allows stricter delay when risks are severe or alternatives already exist.
+[t15] <cut> Kate(CON): Your broader principle hides the hardest judgment: promising evidence can still miss rare dangers. Monitoring after approval is not a substitute for knowing who will be harmed, and the FDA should not gamble with patients merely because treatment is difficult to find-
+[t16] <ovl> Malcolm(PRO): No, the gamble is also making sick people wait indefinitely. The FDA already balances risks, but its culture treats delay as harmless; for patients losing time, that assumption is the real danger and should change.
+[t17] Kate(CON): You say delay is harmless, but I said no such thing. My point is that approval can create harm that cannot be undone, while careful review gives patients a better chance of receiving treatment that truly helps.
+[t18] <cut> Malcolm(PRO): If a patient has a serious illness, no good alternative, and accepts clearly explained uncertainty, why should the FDA block access rather than supervise it? That question exposes why your standard is too-
+[t19] @A4 <ovl> Jed(MOD): Ten seconds left, then we go to closings.
+
+--- phase 3 ---
+[t20] @A3-2 <ovl> Jed(MOD): Time's up. On to round three, closing statements. Our motion is the FDA is too cautious when approving new medical treatments, and here to summarize his position supporting this motion, Malcolm.
+[t21] Malcolm(PRO): The FDA should protect patients, not demand perfect certainty. Its delays deny people promising options when safeguards could manage the remaining risk.
+[t22] <ovl> <cut> Kate(CON): But those safeguards can fail, and patients-
+[t23] @A5 <ovl> Jed(MOD): Let him finish.
+[t24] Malcolm(PRO): The strongest case for reform is the patient with no good alternative. Monitored access can preserve safety while ending needless delay, because waiting also carries a serious cost.
+[t25] @A4 <ovl> Jed(MOD): Ten seconds warning.
+[t26] Malcolm(PRO): The FDA is too cautious when it treats uncertainty as a reason to withhold every promising option. That's all, thank you.
+[t27] @A2-2 Jed(MOD): Okay. I want to go to Kate.
+[t28] Kate(CON): The FDA's strongest duty is prevention. Patients deserve treatments supported by dependable evidence, not optimism dressed up as urgency. Malcolm's proposal sounds limited, but exceptions can expand whenever pressure rises. Once an unsafe treatment reaches patients, monitoring cannot reverse every injury or restore lost trust. Caution is not hostility to innovation; it is the condition that makes innovation worth trusting.
+[t29] @A4 <ovl> Jed(MOD): You have ten seconds.
+[t30] Kate(CON): Approval should follow evidence strong enough to protect patients, especially when they are desperate. That is responsible regulation, not excessive caution, and the motion is false. That's all, thank you.
+[t31] Jed(MOD): Thank you both for a thoughtful debate; this discussion is now closed.

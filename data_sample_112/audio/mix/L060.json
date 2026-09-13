@@ -1,0 +1,437 @@
+{
+ "debate_id": "L060",
+ "motion": "The international community has a moral and legal obligation to intervene to protect civilians from mass atrocities.",
+ "speakers": {
+  "MOD": {
+   "name": "Justine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0860_780",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0860/MSP-PODCAST_0860_780.wav",
+   "wpm": 165.06
+  },
+  "PRO": {
+   "name": "Bella",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1266_611",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1266/MSP-PODCAST_1266_611.wav",
+   "wpm": 163.47
+  },
+  "CON": {
+   "name": "Paula",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  }
+ },
+ "selective": [
+  "A1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 84.99,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 314.77,
+ "ext": {
+  "a32": {
+   "file": "L060_ext_a32.wav",
+   "place_at_sec": 232.729,
+   "dur_sec": 23.52,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Safeguards can reduce mistakes, and no one should abandon families lightly. But a universal moral and legal obligation ignores cases where intervention predictably deepens violence, so restraint can better protect civilians than imposed action."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.56,
+   "dur_sec": 20.56,
+   "overlap": false,
+   "text": "Welcome to our debate on whether the international community has a moral and legal obligation to intervene to protect civilians from mass atrocities. Bella supports the motion, and Paula opposes it. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue before each timed speech ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.76,
+   "end_sec": 30.61,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "When civilians face organized slaughter, distance does not erase duty. Law matters because it turns our shared humanity into a promise of protection in practice."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 29.71,
+   "end_sec": 32.01,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But who decides what counts as protection when-",
+   "cut_at_sec": 32.01,
+   "full_dur_sec": 9.22,
+   "ext_file": "L060_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 31.21,
+   "end_sec": 33.38,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "Can you let her answer the point please?"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 33.58,
+   "end_sec": 43.94,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "and that promise means acting when authorities are the threat, not merely expressing grief afterward. Carefully limited protection can stop killing before whole communities disappear."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.76,
+   "end_sec": 43.49,
+   "dur_sec": 2.73,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 44.14,
+   "end_sec": 51.45,
+   "dur_sec": 7.31,
+   "overlap": false,
+   "text": "If law shields people only after they are dead, it has failed its purpose entirely. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 51.65,
+   "end_sec": 57.33,
+   "dur_sec": 5.68,
+   "overlap": false,
+   "text": "Okay. I need to let Paula back into this conversation. So Paula, jump on in please."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 57.53,
+   "end_sec": 74.89,
+   "dur_sec": 17.36,
+   "overlap": false,
+   "text": "Atrocities demand compassion, but an automatic duty to intervene invites powerful outsiders to choose wars for everyone else. Legal duties need clear limits, consent, and accountability. Otherwise intervention can replace one danger with occupation, retaliation, and a longer conflict civilians cannot safely escape. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 75.09,
+   "end_sec": 88.61,
+   "dur_sec": 13.52,
+   "overlap": false,
+   "text": "The time period of uninterrupted speaking is over. We're going to move into the portion of the evening now where the debaters debate one another. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 88.81,
+   "end_sec": 100.81,
+   "dur_sec": 12.0,
+   "overlap": false,
+   "text": "Your automatic-duty point mistakes obligation for a blank check. The motion requires protection from mass atrocities, so lawful intervention must be necessary and proportionate; refusing every duty leaves victims abandoned when help is possible."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 101.79,
+   "end_sec": 113.19,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I agree that grief alone is not enough; people need real protection. But your necessity test lets outsiders judge another society, and that discretion turns a claimed duty into permission for coercion."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 114.123,
+   "end_sec": 125.873,
+   "dur_sec": 11.75,
+   "overlap": false,
+   "text": "Intervention also strains budgets and sends families into political arguments at home, concerns worth hearing. Yet the motion is about civilians facing mass atrocities, and their immediate survival creates an obligation to protect."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 126.665,
+   "end_sec": 138.065,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "You say necessity and proportionality control intervention, but who has authority to make that life-or-death finding? If competing outsiders claim necessity, why should civilians trust your obligation rather than fear another war?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 138.555,
+   "end_sec": 150.035,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Imagine armed forces surrounding a neighborhood, blocking exits, and preparing to kill every household by dawn. A protective mission that opens escape routes saves lives, proving obligation matters when rescue is still-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.135,
+   "end_sec": 160.615,
+   "dur_sec": 11.48,
+   "overlap": true,
+   "text": "Still possible according to whom? Your escape-route example assumes outsiders know the fighters, the civilians, and the consequences; a rushed mission can turn that neighborhood into a battlefield and worsen its danger."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.544,
+   "end_sec": 172.914,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "When a credible mandate identifies an ongoing mass atrocity and protection can be limited to civilians, intervention is required. Those conditions answer your uncertainty without making helpless bystanders the price of caution."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 173.497,
+   "end_sec": 186.017,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Clear limits can reduce some risks, and I welcome efforts to protect civilians. But your mandate may be delayed, contested, or captured by interests, so calling intervention a legal obligation still gives outsiders dangerous power."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 186.232,
+   "end_sec": 197.992,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "The world cannot treat mass slaughter as someone else's private affair. Even where the exact response is disputed, the international community owes civilians protection, because sovereignty never cancels their basic claims to life."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 198.506,
+   "end_sec": 210.266,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "If sovereignty never cancels basic claims, do you permit outsiders to impose protection even when local people reject them? How does your rule prevent a rescue mission from becoming control imposed without consent?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 211.023,
+   "end_sec": 222.873,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "A patrol reaches families trapped between armed groups, separates the attackers, and escorts civilians to safety while aid arrives. That limited protection preserves lives and proves intervention can meet a duty without ruling anyone."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 223.391,
+   "end_sec": 235.831,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Your patrol is the weakest part of your case because it imagines clean separation and safe escorts. Real interveners can misidentify attackers, draw fire toward families, and remain after the emergency, which defeats your certainty."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 228.61,
+   "end_sec": 230.38,
+   "dur_sec": 1.77,
+   "overlap": true,
+   "text": "Ten seconds, both of you."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 236.349,
+   "end_sec": 239.41,
+   "dur_sec": 3.061,
+   "overlap": false,
+   "text": "Your misidentification point describes a risk, not a reason to-",
+   "ext_file": "L060_ext_a32.wav",
+   "cut_at_sec": 235.79,
+   "full_dur_sec": 11.12
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 238.61,
+   "end_sec": 244.37,
+   "dur_sec": 5.76,
+   "overlap": true,
+   "text": "That's time. Okay, now we're gonna pivot to our closing round. Bella, you are up first."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 244.57,
+   "end_sec": 264.73,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether borders excuse us from protecting people marked for destruction. Paula asks us to fear misuse, and those risks demand strict limits. But limits guide a duty; they do not erase it when authorities are murdering civilians. The legal and moral question is whether vulnerable lives create responsibilities beyond sympathy, and they do."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 264.57,
+   "end_sec": 266.1,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 264.93,
+   "end_sec": 274.99,
+   "dur_sec": 10.06,
+   "overlap": false,
+   "text": "A duty to intervene is not a license for conquest. It demands lawful, limited action when civilians face destruction; that is this motion's standard. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 275.19,
+   "end_sec": 281.13,
+   "dur_sec": 5.94,
+   "overlap": false,
+   "text": "Thank you very much. We now turn to Paula who is going to speak against the motion."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.33,
+   "end_sec": 302.61,
+   "dur_sec": 21.28,
+   "overlap": false,
+   "text": "Deciding this motion turns on who bears responsibility when intervention goes wrong. Bella calls limits a guide, but they cannot make uncertain force harmless or legitimate. A legal obligation pressures outsiders to act even when knowledge is thin and consent is absent. The better moral rule is to assist, negotiate, shelter, and punish abuses without claiming a duty to intervene."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 301.33,
+   "end_sec": 302.57,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Paula, ten seconds."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 302.81,
+   "end_sec": 312.63,
+   "dur_sec": 9.82,
+   "overlap": false,
+   "text": "Assist victims, pursue abusers, and support safe refuge, yes. But do not turn compassion into an outside power to use force whenever it chooses. The safer moral path protects-",
+   "cut_at_sec": 307.39,
+   "full_dur_sec": 14.56,
+   "ext_file": "L060_032.wav"
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 311.83,
+   "end_sec": 314.07,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "I'm sorry, her time is up."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 314.27,
+   "end_sec": 320.01,
+   "dur_sec": 5.74,
+   "overlap": false,
+   "text": "Thank you, Bella and Paula, for this thoughtful debate; our discussion of the motion concludes here."
+  }
+ ]
+}

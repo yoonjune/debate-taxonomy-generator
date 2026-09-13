@@ -1,0 +1,43 @@
+L198  |  China's power has peaked.
+  MOD=Sheldon   PRO=Eric   CON=Steve
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Sheldon(MOD): Welcome. Tonight's motion is that China's power has peaked. Eric argues for it, and Steve argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before time expires; please address each other directly and keep the exchange focused.
+[t01] Eric(PRO): China's influence reached its high point when its growth, confidence, and room to pressure others moved together. Now debt burdens, aging, wary neighbors, and tighter choices pull in opposite directions. It remains formidable, but a power can be large while its best moment is behind it. That's all, thank you.
+[t02] @A2-2 Sheldon(MOD): Okay. Eric, let me give the floor back to Steve.
+[t03] Steve(CON): Eric treats present strain as a finish line, but powerful countries adapt through strain. China still has industrial depth, skilled people, and the ability to redirect resources when priorities change. Why should temporary pressures prove a permanent ceiling, especially when rivals also face debt, division, and costly commitments across the world?
+[t04] @A4 <ovl> Sheldon(MOD): Ten.
+[t05] Steve(CON): A peak means decline is unavoidable, and Eric has not shown any such unavoidable limit. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Sheldon(MOD): We're going to move into our proverbial free-for-all session. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t07] Eric(PRO): I reject that pressures must be permanent to mark a peak. The question is whether China can regain its former trajectory; debt, demographics, and distrust make that unlikely.
+[t08] Steve(CON): Arguments about national pride matter because leaders need public confidence, and public confidence shapes spending choices. But the motion concerns capacity, and China can still convert its scale into power.
+[t09] <cut> Eric(PRO): Your scale point is weakest: size is not usable power when resources are tied up at home. A vast economy facing shrinking workers and cautious partners cannot simply-
+[t10] Steve(CON): Under the condition that leaders can adjust policy without panic, current strains become a reset rather than a peak. China retains enough production, savings, and state capacity to recover influence.
+[t11] Eric(PRO): If adjustment is so easy, why have caution and control increased instead of confidence? Name one path that restores growth, trust, and freedom of action without creating another burden.
+[t12] Steve(CON): Those savings can support new factories, but officials must decide which regions receive credit first. A lender favoring exporters may neglect households, while household support changes rents, schools, and local budgets.
+[t13] @B1 Sheldon(MOD): But you're on that side of the motion, that's the one that you are supporting. the motion that china's global power has peaked. That's the side that you are on.
+[t14] Steve(CON): The motion asks whether China's power has peaked, and I say no: adjustment capacity means a difficult period need not be the high point. Those local choices can be revised.
+[t15] Eric(PRO): I grant that aging makes future growth harder. But Steve's recovery story assumes trust returns on command; neighbors and investors respond to risk, so the peak has passed.
+[t16] Steve(CON): Power is not measured by one difficult year; large countries often recover after shocks. China's range of options remains wider than Eric admits, so calling this moment its peak is premature.
+[t17] Eric(PRO): Your one difficult year point dodges the pattern, not a single year. Aging, debt, tighter control, and distrust reinforce each other, leaving fewer options and confirming China's power peaked.
+[t18] Steve(CON): If China's peak is past, why do other governments still adjust their choices around its markets, factories, and decisions? Explain why continued leverage equals decline rather than endurance.
+[t19] Eric(PRO): Consider a nearby business that relies on one supplier, then faces sudden rules and searches for alternatives. That costly shift weakens China's leverage and proves dependence is moving away from its peak.
+[t20] @A4 <ovl> Sheldon(MOD): Ten seconds left on the clock.
+[t21] <cut> Steve(CON): It does not equal decline; leverage can persist while its direction worsens. But your supplier example shows choices-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Sheldon(MOD): Time's up. And that concludes round two of this debate. Making his closing statement in support of the resolution, here is Eric.
+[t23] Eric(PRO): Steve's best argument is that China can adapt, and that is true in limited ways. Yet adaptation is not proof of a new high point. A country burdened by aging, debt, control, and distrust spends its energy defending gains. China remains consequential, but its capacity to set the terms around it has reached its crest.
+[t24] @A4 <ovl> Sheldon(MOD): Ten seconds please.
+[t25] <cut> Eric(PRO): Steve says endurance disproves a peak. But endurance can follow a summit; a mountain remains tall after the climb ends. The question is not whether China disappears, but whether its strongest combination-
+[t26] @A2-1 <ovl> Sheldon(MOD): Thank you. Time is up on that. And now Steve.
+[t27] Steve(CON): China's challenges are real, but challenges are not a verdict. Its productive base and ability to adapt still give it room to gain power abroad.
+[t28] <ovl> <cut> Eric(PRO): That room is shrinking, and you cannot call-
+[t29] @A5 <ovl> Sheldon(MOD): Let him finish.
+[t30] Steve(CON): not a ceiling. A country with deep skills and flexible choices can turn caution into strength, and China's future remains open rather than already capped off.
+[t31] @A4 <ovl> Sheldon(MOD): Steve, ten seconds.
+[t32] Steve(CON): China has not peaked; it has the tools to adapt, compete, and shape what follows. That's all, thank you.
+[t33] Sheldon(MOD): Thank you, Eric and Steve, for your arguments tonight; this concludes our debate on the motion before us.

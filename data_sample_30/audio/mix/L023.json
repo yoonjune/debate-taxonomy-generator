@@ -1,0 +1,433 @@
+{
+ "debate_id": "L023",
+ "motion": "Long Live Walmart",
+ "speakers": {
+  "MOD": {
+   "name": "Bella",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1206_312",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
+   "wpm": 165.44
+  },
+  "PRO": {
+   "name": "Patrick",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5548_380",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5548/MSP-PODCAST_5548_380.wav",
+   "wpm": 161.43
+  },
+  "CON": {
+   "name": "Eugene",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0417_1197",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0417/MSP-PODCAST_0417_1197.wav",
+   "wpm": 171.29
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 62.36,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 286.02,
+ "ext": {
+  "a32": {
+   "file": "L023_ext_a32.wav",
+   "place_at_sec": 204.677,
+   "dur_sec": 23.08,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "A small town can lose its independent grocer after Walmart arrives, leaving residents with one dominant buyer and fewer local decisions. That example shows convenience can become dependence, proving the motion is false."
+  },
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Your example of one town does not defeat the broader case for access and affordability. Walmart's benefits to ordinary shoppers remain real, so Long Live Walmart is still a reasonable conclusion."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.52,
+   "dur_sec": 18.52,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, Long Live Walmart. Patrick takes the PRO side, saying the motion is true; Eugene takes the CON side, saying it is false. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. We finish with thirty-second closings, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.72,
+   "end_sec": 33.64,
+   "dur_sec": 14.92,
+   "overlap": false,
+   "text": "Long Live Walmart because it brings affordable goods, useful jobs, and dependable convenience to ordinary families. Its scale can make essentials easier to reach and push competitors to improve. Eugene, if that access helps people every day, why should Walmart's existence be condemned?"
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 33.84,
+   "end_sec": 35.32,
+   "dur_sec": 1.48,
+   "overlap": false,
+   "text": "Let's have Eugene take this one."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 35.52,
+   "end_sec": 51.88,
+   "dur_sec": 16.36,
+   "overlap": false,
+   "text": "Walmart's reach does not make its legacy worth celebrating. Low prices can come with weaker local choice, pressure on workers, and dependence on one powerful buyer. A company can be convenient and still leave communities less resilient, so the motion asks us to praise too much."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 52.08,
+   "end_sec": 62.36,
+   "dur_sec": 10.28,
+   "overlap": false,
+   "text": "Now, on to round two. This is our middle round in which the debaters talk directly to one another. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 62.56,
+   "end_sec": 74.44,
+   "dur_sec": 11.88,
+   "overlap": false,
+   "text": "No, daily access alone does not prove Walmart deserves praise; low prices can coexist with weakened local choice. A chain that wins by squeezing workers and small sellers is not something society should celebrate."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 75.01,
+   "end_sec": 85.29,
+   "dur_sec": 10.28,
+   "overlap": false,
+   "text": "I agree that low prices alone are insufficient. Yet where Walmart adds affordable choice, dependable access, and local jobs, safeguards can limit its power, so Walmart remains worth supporting."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 85.963,
+   "end_sec": 97.283,
+   "dur_sec": 11.32,
+   "overlap": false,
+   "text": "Your conditional point about local jobs misses the larger pattern: Walmart can create convenience while draining nearby stores, lowering bargaining power, and making communities dependent on one buyer, and the cost is-"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.383,
+   "end_sec": 107.863,
+   "dur_sec": 11.48,
+   "overlap": true,
+   "text": "I'm cutting in because that pattern is not proof of failure. Where Walmart offers reliable goods at accessible prices, families gain breathing room, and local businesses must improve rather than rely on loyalty."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 108.2,
+   "end_sec": 117.28,
+   "dur_sec": 9.08,
+   "overlap": false,
+   "text": "No Walmart expansion should ever harm a community. That is why I oppose the motion: relentless expansion puts convenience above local resilience and makes harm predictable."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 117.743,
+   "end_sec": 130.103,
+   "dur_sec": 12.36,
+   "overlap": false,
+   "text": "You are right that some expansion can damage local resilience, but that does not define every store or every shopper's experience. Walmart's affordable access still gives families a practical benefit, which makes the motion defensible."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 130.577,
+   "end_sec": 140.057,
+   "dur_sec": 9.48,
+   "overlap": false,
+   "text": "This Walmart expansion should harm a community. I say that plainly because its scale can overwhelm alternatives, so calling it progress would mistake reach for public good."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 140.257,
+   "end_sec": 148.057,
+   "dur_sec": 7.8,
+   "overlap": false,
+   "text": "Eugene, thank you very much indeed. You said no Walmart expansion should ever harm a community. This Walmart expansion should harm a community?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.257,
+   "end_sec": 159.497,
+   "dur_sec": 11.24,
+   "overlap": false,
+   "text": "I hold both statements because the first is my moral rule, while the second is my judgment about this case. The rule remains absolute, and this expansion remains harmful in my view."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 159.878,
+   "end_sec": 169.838,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "Across ordinary retail, Walmart can be a valuable force for affordability and convenience. That broader claim still allows one particular town to need safeguards before a store becomes beneficial there."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 170.346,
+   "end_sec": 181.426,
+   "dur_sec": 11.08,
+   "overlap": false,
+   "text": "Prices and convenience also shape family budgets, and people naturally welcome an easier shopping trip. Yet those comforts can distract from who controls supply and bargaining, so the motion still deserves rejection."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 182.409,
+   "end_sec": 192.449,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "If affordable access is genuinely useful to families, why should your side treat Walmart's scale as automatically harmful instead of judging whether each community gains more choice and value?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 193.306,
+   "end_sec": 203.746,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "I grant that affordable access can help a family manage a tight budget, but one benefit cannot erase concentrated control. Walmart's dominance can weaken alternatives, so the motion remains false."
+  },
+  {
+   "i": 18,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 202.36,
+   "end_sec": 203.96,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 204.677,
+   "end_sec": 213.16,
+   "dur_sec": 8.483,
+   "overlap": false,
+   "text": "No, I did not claim scale is automatically harmless; I argued that its effects must be judged by what shoppers receive. Your blanket rejection ignores real-",
+   "ext_file": "L023_ext_a32.wav",
+   "cut_at_sec": 213.16,
+   "full_dur_sec": 11.16
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 212.36,
+   "end_sec": 218.0,
+   "dur_sec": 5.64,
+   "overlap": true,
+   "text": "Okay, time. Now we move on to round three. Round three will be closing statements. Here is Patrick."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 218.2,
+   "end_sec": 227.44,
+   "dur_sec": 9.24,
+   "overlap": false,
+   "text": "The strongest point is simple: Walmart can make essentials reachable for families who need value and convenience. That practical benefit supports the motion."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 226.54,
+   "end_sec": 228.84,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No, that skips the cost. Affordable shelves-",
+   "cut_at_sec": 228.84,
+   "full_dur_sec": 9.96,
+   "ext_file": "L023_024.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 228.04,
+   "end_sec": 229.12,
+   "dur_sec": 1.08,
+   "overlap": true,
+   "text": "Let him clarify, please."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 229.32,
+   "end_sec": 239.6,
+   "dur_sec": 10.28,
+   "overlap": false,
+   "text": "That practical benefit remains decisive: convenience and affordability matter to families, and judging Walmart fairly means recognizing those gains without pretending every outcome is identical."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 238.2,
+   "end_sec": 239.68,
+   "dur_sec": 1.48,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 239.8,
+   "end_sec": 245.28,
+   "dur_sec": 5.48,
+   "overlap": false,
+   "text": "Walmart's useful access gives ordinary families a reason to say, long live Walmart."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 245.48,
+   "end_sec": 246.88,
+   "dur_sec": 1.4,
+   "overlap": false,
+   "text": "Let's take that to Eugene, please."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 247.08,
+   "end_sec": 267.68,
+   "dur_sec": 20.6,
+   "overlap": false,
+   "text": "This decision turns on whether convenience alone deserves celebration when the same scale can weaken local choice and bargaining power. Walmart may offer affordable goods, and I acknowledge that matters to families. But a benefit at the checkout does not settle the wider effect on a community's independence. The motion asks for praise, and that praise is not earned."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 267.08,
+   "end_sec": 268.08,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 267.88,
+   "end_sec": 278.38,
+   "dur_sec": 10.5,
+   "overlap": false,
+   "text": "When one retailer becomes the default, alternatives shrink and dependence grows. We should value affordability without celebrating the power that can produce it, because a-",
+   "cut_at_sec": 278.38,
+   "full_dur_sec": 14.28,
+   "ext_file": "L023_032.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 277.58,
+   "end_sec": 280.34,
+   "dur_sec": 2.76,
+   "overlap": true,
+   "text": "I'm gonna cut you off just for time."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 280.54,
+   "end_sec": 286.02,
+   "dur_sec": 5.48,
+   "overlap": false,
+   "text": "Thank you both for taking part; this debate on Walmart is now closed without declaring a winner."
+  }
+ ]
+}

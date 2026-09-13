@@ -1,0 +1,41 @@
+L000  |  This House has no confidence in Bahrain's promise to reform.
+  MOD=Patrick   PRO=Carissa   CON=Nate
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Patrick(MOD): Welcome to the debate on the motion, this House has no confidence in Bahrain's promise to reform. Carissa supports the motion, and Nate opposes it. Each side gets thirty seconds to open, followed by two and a half minutes of crossfire. Then each side gets thirty seconds to close. I will give a ten-second cue before each limit.
+[t01] Carissa(PRO): Bahrain has promised reform before, yet the pattern has been delay, restriction, and selective change. A promise deserves confidence only when people can test it openly and safely. Instead, critics still face pressure, while official language asks us to trust intentions rather than results. That gap is the central reason this House should withhold confidence.
+[t02] @A4 <ovl> Patrick(MOD): Well, now it's ten.
+[t03] <cut> Carissa(PRO): Nate may point to small adjustments, but limited gestures do not establish a reliable direction. Confidence cannot rest on announcements alone; it needs independent checks, visible rights, and consequences when promises-
+[t04] @A2-1 <ovl> Patrick(MOD): Your time is up. Thank you. Nate.
+[t05] Nate(CON): This motion asks us to reject confidence entirely, but Bahrain's record is not simply frozen. Institutions have changed, laws can be revised, and public commitments create a basis for further progress. Reform is rarely immediate or perfect, yet dismissing every promise removes any incentive to continue. We should judge movement fairly, not demand perfection before recognizing it.
+[t06] @A4 <ovl> Patrick(MOD): Ten.
+[t07] <cut> Nate(CON): Carissa treats imperfect progress as proof of bad faith, but that confuses caution with failure. A promise can be credible when it opens space for gradual improvement and gives people a framework for-
+[t08] @A1 <ovl> Patrick(MOD): I have to step in because we hit our time limit.
+
+--- phase 2 ---
+[t09] @A3-1 Patrick(MOD): That concludes round one. So, now, on to round two where the debaters can address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t10] Nate(CON): You say promises cannot earn confidence without completed reform. Why should gradual legal and institutional changes count for nothing when they create routes to further progress?
+[t11] Carissa(PRO): They do not count for nothing; they count as limited evidence. But your premise is wrong if you treat announced change as reliable reform, because Bahrain can reverse or narrow it without real accountability.
+[t12] <cut> Nate(CON): A revised rule that lets families challenge an unfair decision gives people a practical remedy they lacked before. That kind of change shows promises can improve daily life, not merely decorate speeches-
+[t13] <ovl> Carissa(PRO): No, a remedy on paper proves little if people fear using it; the real issue is whether Bahrain protects those who test the promise, which it has not shown.
+[t14] Nate(CON): People also need stability while reforms develop, because sudden demands can unsettle services, courts, and ordinary life. That broader stability matters, but it still supports measured confidence in Bahrain's reform path.
+[t15] Carissa(PRO): Stability is the weakest part of that argument: repression can look stable while hiding unresolved grievances. Without public accountability, your measured confidence simply rewards quiet pressure and calls it progress.
+[t16] Nate(CON): You are answering a claim I did not make. I am not praising silence; I am saying visible changes and continued engagement are stronger evidence than your blanket refusal to trust any promise.
+[t17] Carissa(PRO): I reject the blanket characterization; I reject confidence because the evidence remains controlled and reversible. Engagement is useful, but it must be paired with consequences when Bahrain fails to reform.
+[t18] Nate(CON): If outside partners attach conditions to every conversation, cooperation becomes harder and officials may retreat from useful changes. Clear diplomatic channels should therefore be designed to preserve trust and keep reform discussions productive.
+[t19] @B1 Patrick(MOD): We are debating this house has no confidence in Bahrain's promise to reform.
+[t20] Nate(CON): The motion asks whether confidence is justified, and continued engagement is part of that judgment. Bahrain's promises should be tested through dialogue and gradual results, so this House should not reject them outright.
+[t21] Carissa(PRO): What concrete safeguard would make you withdraw confidence if Bahrain breaks this promise? Without a clear consequence, why should anyone treat your trust as more than hopeful language?
+[t22] Nate(CON): Your question assumes confidence means unconditional trust, which it does not. We can support a reform direction while criticizing failures, so your demand for total withdrawal sets up a false choice.
+[t23] @A4 <ovl> Patrick(MOD): You have ten seconds.
+[t24] <cut> Carissa(PRO): I am not demanding unconditional distrust; I am demanding confidence proportionate to proof. Your position still offers no standard for deciding when promises have failed-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Patrick(MOD): And that's time. All right, we're moving down to the home stretch in our final round. Carissa, you go first for this one as well.
+[t26] Carissa(PRO): Nate's best argument is that gradual change deserves cautious support. I agree that small changes matter, but they cannot carry the weight of confidence when access, accountability, and safety remain uncertain. Bahrain asks us to trust promises while limiting the means to verify them. This House is not declaring reform impossible; it is judging whether confidence is earned now.
+[t27] @A4 <ovl> Patrick(MOD): I can give you ten seconds to wrap this round.
+[t28] Carissa(PRO): A promise without protection for those who test it is only reassurance. Until Bahrain makes reform visible, durable, and accountable, withholding confidence is the responsible judgment. That's all, thank you.
+[t29] @A2-2 Patrick(MOD): Thanks very much, Carissa, and Nate you get the last word.
+[t30] Nate(CON): Carissa is right that promises must be tested, but she turns incomplete progress into grounds for rejecting confidence altogether. Bahrain's commitments can be challenged, strengthened, and judged over time. Cautious confidence keeps pressure and dialogue alive; total distrust throws away that leverage. The better verdict is to recognize reform while demanding more. That's all, thank you.
+[t31] Patrick(MOD): Thank you both for taking part; that concludes the debate, and no winner is being declared.

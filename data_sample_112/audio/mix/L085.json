@@ -1,0 +1,397 @@
+{
+ "debate_id": "L085",
+ "motion": "Objectivity is essential to journalism.",
+ "speakers": {
+  "MOD": {
+   "name": "Christian",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6380_62",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6380/MSP-PODCAST_6380_62.wav",
+   "wpm": 178.01
+  },
+  "PRO": {
+   "name": "Ismail",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  },
+  "CON": {
+   "name": "Lawrence",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2988_467",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2988/MSP-PODCAST_2988_467.wav",
+   "wpm": 167.95
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 99.16,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 299.7,
+ "ext": {
+  "a32": {
+   "file": "L085_ext_a32.wav",
+   "place_at_sec": 244.837,
+   "dur_sec": 21.76,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "No, I did not say equal weight follows from objectivity. Your evidence rule selects support through values; honest journalism should reveal judgment, rather than call objectivity essential."
+  },
+  {
+   "src_i": 25,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "I grant that choosing evidence involves values. Still, values do not excuse treating claims as equally sound. Objectivity gives reporters a shared way to test assertions, which is why it remains essential."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.53,
+   "dur_sec": 19.53,
+   "overlap": false,
+   "text": "Welcome to our debate. Tonight's motion is that objectivity is essential to journalism. Ismail argues for the motion, and Lawrence argues against it. Each debater gets thirty seconds to open, then two and a half minutes of crossfire, and thirty seconds to close. I will give a ten-second cue before each limit. We begin now."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.73,
+   "end_sec": 40.09,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Journalism asks strangers to trust accounts of events they cannot witness. Objectivity supplies discipline: check claims, separate evidence from preference, and let inconvenient facts remain. Without it, a reporter's confidence can become the story. It does not erase judgment; it makes judgment answerable to readers and sources. That is why the standard matters before difficult cases."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.73,
+   "end_sec": 40.97,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.29,
+   "end_sec": 51.39,
+   "dur_sec": 11.1,
+   "overlap": false,
+   "text": "Difficult cases require interpretation, but interpretation is not permission to invent. Objectivity keeps reporters accountable when pressure, sympathy, or anger would otherwise steer the account. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 51.59,
+   "end_sec": 53.19,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Great, Lawrence, go ahead."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.39,
+   "end_sec": 73.4,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "Objectivity sounds noble, but journalism is made by people choosing what to notice, whom to question, and which context matters. Pretending those choices vanish can hide bias behind a neutral tone. Journalism needs fairness, honesty, and independence. None requires a view from nowhere. The harder question is whether a useful tool must be essential for journalism."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 73.39,
+   "end_sec": 74.6,
+   "dur_sec": 1.21,
+   "overlap": true,
+   "text": "Ten seconds, Lawrence."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 73.6,
+   "end_sec": 84.69,
+   "dur_sec": 11.09,
+   "overlap": false,
+   "text": "You say objectivity disciplines judgment, but that label lets editors call preference neutral and dismiss reporters who see harm. Fair reporting should disclose perspective and test evidence. When a reporter chooses-",
+   "cut_at_sec": 82.63,
+   "full_dur_sec": 14.16,
+   "ext_file": "L085_007.wav"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 83.89,
+   "end_sec": 85.49,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 85.69,
+   "end_sec": 101.22,
+   "dur_sec": 15.53,
+   "overlap": false,
+   "text": "All right, we've just heard opening arguments on the resolution, objectivity is essential to journalism, and now we're going to give our debaters a chance to respond to one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 101.42,
+   "end_sec": 112.9,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "No, the motion does not follow from the need for trustworthy reporting. You treat objectivity as the only guardrail, yet transparent judgment, rigorous checking, and accountability can serve journalism without claiming neutrality."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 113.315,
+   "end_sec": 125.155,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Transparent judgment also affects how reporters explain their choices to coworkers during editing. Those conversations can improve trust inside a newsroom. But public trust needs objective standards for evidence, so objectivity remains essential."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 125.869,
+   "end_sec": 137.079,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "Your point about internal conversations misses the public problem. Readers cannot inspect every discussion, so they need reporting that openly shows perspective and reasoning, not an impossible claim of objectivity that can-"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 136.179,
+   "end_sec": 148.379,
+   "dur_sec": 12.2,
+   "overlap": true,
+   "text": "No, objectivity is not an impossible claim. It means methods that restrain personal preference: verify, seek relevant evidence, and correct errors. Perspective stays, but journalism needs an objective test stronger than a reporter's sincerity."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.305,
+   "end_sec": 160.306,
+   "dur_sec": 11.001,
+   "overlap": false,
+   "text": "Consider a reporter covering a landlord accused by a tenant. Equal space for the landlord's bare denial can make documented harm look uncertain. That false balance shows journalism needs judgment beyond objectivity."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 160.704,
+   "end_sec": 172.464,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "That landlord example also affects training new reporters. Editors should teach them how to question vague denials, listen carefully, and explain their choices during feedback sessions, especially when writers fear criticism from supervisors."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 172.664,
+   "end_sec": 180.034,
+   "dur_sec": 7.37,
+   "overlap": false,
+   "text": "Okay, I'm not sure that that's getting to objectivity is essential to journalism, which I think is a little bit more on point."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 180.234,
+   "end_sec": 191.714,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Every journalistic account always needs objective methods. Those methods do not dictate feelings; they require reporters to test what they assert against evidence, distinguish fact from advocacy, and let audiences judge claims."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 192.049,
+   "end_sec": 203.889,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "I agree that evidence must be tested, and careless reporting fails people. But objective methods cannot decide which voices deserve attention or what context makes facts meaningful; journalism needs accountable judgment, not neutrality."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 204.432,
+   "end_sec": 214.872,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "A personal journalistic account does not need objective methods. Its value can rest on candid experience, yet reporting about public claims still depends on objective methods to earn trust."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 215.072,
+   "end_sec": 223.562,
+   "dur_sec": 8.49,
+   "overlap": false,
+   "text": "But doesn't your argument for every journalistic account always needs objective methods fight your argument that a personal journalistic account does not need objective methods?"
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 223.762,
+   "end_sec": 234.202,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Both statements fit because journalism includes personal accounts and reporting. A personal account can offer experience without objective methods, while reporting others' claims needs them; that makes objectivity essential."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 234.788,
+   "end_sec": 246.548,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Imagine a reporter gives equal weight to a worker's detailed account and a supervisor's unsupported denial. A listener may treat real mistreatment as a mere dispute. That harm proves objectivity is not essential."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 241.22,
+   "end_sec": 243.54,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 246.897,
+   "end_sec": 252.02,
+   "dur_sec": 5.123,
+   "overlap": false,
+   "text": "Your weakest claim is that equal weight follows from objectivity. It does not: objective reporting-",
+   "ext_file": "L085_ext_a32.wav",
+   "cut_at_sec": 249.96,
+   "full_dur_sec": 11.84
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 251.22,
+   "end_sec": 261.98,
+   "dur_sec": 10.76,
+   "overlap": true,
+   "text": "That's time. Let's move on to Round three, closing statements from each debater in turn. Our resolution is, objectivity is essential to journalism. Leading off with his closing statement, Ismail."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 262.18,
+   "end_sec": 278.87,
+   "dur_sec": 16.69,
+   "overlap": false,
+   "text": "Journalism cannot eliminate human judgment, but it can discipline judgment. Objectivity demands evidence, correction, and separation between what happened and what a reporter wishes were true. Those habits let audiences challenge power and trust accounts. That is why objectivity is essential. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 279.07,
+   "end_sec": 280.76,
+   "dur_sec": 1.69,
+   "overlap": false,
+   "text": "Let Lawrence have the mic."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 280.96,
+   "end_sec": 299.58,
+   "dur_sec": 18.62,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether journalism needs a myth of neutrality or honest, accountable judgment. Reporters must test facts, but choices about relevance and harm cannot be objective. When perspective is disclosed rather than hidden, audiences can judge the work. Objectivity is useful, not essential. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 299.78,
+   "end_sec": 306.11,
+   "dur_sec": 6.33,
+   "overlap": false,
+   "text": "Thank you, Ismail and Lawrence, for a thoughtful debate. That concludes our discussion of this resolution for today."
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+L022  |  Legalize drugs
+  MOD=Liz   PRO=Sarah   CON=Gary
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Liz(MOD): Welcome to the debate on whether to legalize drugs. Sarah will argue for the motion, and Gary will argue against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each limit.
+[t01] Sarah(PRO): Legalizing drugs can replace hidden markets with rules, safer products, and honest help. It lets adults make choices while giving communities tools to prevent abuse.
+[t02] <ovl> <cut> Gary(CON): No, that promise ignores addiction. A legal-
+[t03] @A5 <ovl> Liz(MOD): Wait, let her answer the question.
+[t04] Sarah(PRO): Regulation is how we can require labels, age limits, quality controls, and treatment. Prohibition removes those protections and hands sales to people who never check safety.
+[t05] @A4 <ovl> Liz(MOD): Ten seconds warning.
+[t06] Sarah(PRO): A regulated system can focus enforcement on violence and exploitation, while offering help before fatal use.
+[t07] @A2-2 Liz(MOD): Okay. Let me take that to Gary.
+[t08] Gary(CON): Legalization does not erase addiction; it can make harmful substances ordinary and easier to obtain. Criminal penalties are imperfect, but removing them risks more dependence, more impaired decisions, and greater pressure on vulnerable people. We should improve treatment without making drugs legal.
+--- phase 2 ---
+[t09] @A3-1 Liz(MOD): And that concludes round one. Now on to round two. That's where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t10] Sarah(PRO): The claim that prohibition protects people overlooks its central failure: illegal sellers still reach users, without labels, age checks, or meaningful accountability. Legalization replaces that blind market with enforceable safeguards and treatment access.
+[t11] Gary(CON): I believe drug use should never be legal. A clear prohibition protects society from turning dangerous consumption into an approved commercial product.
+[t12] Sarah(PRO): Some drugs are dangerous, and people need protection from them. But prohibition does not remove danger; it removes oversight, so legalization can control sales, reduce exploitation, and connect users with help.
+[t13] Gary(CON): Medical drug use should be legal. Patients need access to substances that relieve suffering, even though I oppose making drug use legal generally.
+[t14] @B2 Liz(MOD): I must ask you to stop, thank you Gary, thank you very much indeed. You've slightly destroyed your own argument there, you said that drug use should never be legal and then medical drug use should be legal.
+[t15] Gary(CON): Those statements use different everyday meanings of drug use: the first addresses recreational consumption, while the second addresses medical care. I still defend prohibition for recreational drugs and oppose legalization of those drugs.
+[t16] Sarah(PRO): When a substance is sold through licensed outlets, the law can require testing, honest labels, age limits, and referral to treatment. Under that condition, legalization makes use safer than an unregulated sale.
+[t17] Gary(CON): That safety depends on every seller following rules and every buyer understanding them, which is unrealistic. A label cannot make an addictive substance harmless, and legal access can still widen exposure.
+[t18] Sarah(PRO): Legalization gives society control over a market that prohibition leaves hidden. That broader control can support safer choices, even when particular substances still require strict limits and treatment.
+[t19] Gary(CON): Families also need schools, counseling, and stable homes, because laws alone cannot solve addiction. Those supports matter, but they do not justify legalizing drugs; the motion still risks wider access and harm.
+[t20] Sarah(PRO): The point about wider access misses the alternative: access already exists through illegal sellers. Legalization lets us limit buyers, inspect products, punish dishonest sellers, and direct people toward treatment instead of abandoning them.
+[t21] Gary(CON): If legalization protects vulnerable people, how will you prevent a legal industry from targeting them, expanding demand, and resisting limits once its profits depend on more sales?
+[t22] Sarah(PRO): That question assumes legalization requires a profit-driven industry, but it does not. We can ban promotion, restrict outlets, and use licensing; controlled access is stronger protection than an unregulated market.
+[t23] @A4 <ovl> Liz(MOD): Ten seconds left, then we go to closings.
+[t24] <cut> Gary(CON): Those proposed limits show the danger: the system needs constant enforcement to prevent commercial pressure and diversion. If controls-
+--- phase 3 ---
+[t25] @A3-2 <ovl> Liz(MOD): That's time. And now we move into closing statements from each debater in turn, starting with Sarah.
+[t26] Sarah(PRO): This decision turns on whether we prefer a hidden market or a controlled one. Prohibition sounds protective, but it leaves sellers unchecked and users isolated. Legalization does not mean approval of abuse. It means rules, tested products, age limits, and a route to care. The safer choice is to manage a real problem openly.
+[t27] <cut> Sarah(PRO): The opposing case relies on fear of what regulation might fail to do, while ignoring what prohibition already fails to do. We can restrict advertising, punish exploitation, and focus police on violence-
+[t28] @A4 <ovl> Liz(MOD): I can give you ten seconds to do this.
+[t29] @A2-1 <ovl> Liz(MOD): That's time, thank you. Gary, the floor is yours.
+[t30] Gary(CON): This motion turns a serious danger into a legal permission. The promise of control is uncertain, while the message of legality is clear: drugs become easier to obtain and harder for families to resist. We should invest in treatment, education, and enforcement against illegal sellers, without creating a commercial path that normalizes addiction.
+[t31] Gary(CON): Protection means reducing access to dangerous drugs, not legalizing them and hoping every safeguard holds.
+[t32] @A4 <ovl> Liz(MOD): I can give you ten seconds to wrap this round.
+[t33] Liz(MOD): Thank you both for a thoughtful debate. This discussion is now closed, with no winner declared.

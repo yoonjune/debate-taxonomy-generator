@@ -1,0 +1,386 @@
+{
+ "debate_id": "L051",
+ "motion": "It's time to end the War on Terror.",
+ "speakers": {
+  "MOD": {
+   "name": "Jorge",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  },
+  "PRO": {
+   "name": "Chuck",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3841_60",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3841/MSP-PODCAST_3841_60.wav",
+   "wpm": 170.31
+  },
+  "CON": {
+   "name": "Genevieve",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 82.02,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 302.14,
+ "ext": {
+  "a32": {
+   "file": "L051_ext_a32.wav",
+   "place_at_sec": 228.156,
+   "dur_sec": 26.17,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Picture a planned attack disrupted because separate agencies share a common mission and act before harm occurs. Ending that mission can leave warnings scattered and responsibility blurred. That protection proves the War on Terror should continue."
+  },
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "I am answering your disrupted attack example. Cooperation does not require an endless war label; ordinary, lawful coordination can stop danger without normalizing exceptional powers. Your example proves targeted protection works, and the War on Terror can end."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.28,
+   "dur_sec": 21.28,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is: It is time to end the War on Terror. Chuck argues for it, and Genevieve argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed segment ends. Please address each other directly and keep to the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.48,
+   "end_sec": 39.5,
+   "dur_sec": 18.02,
+   "overlap": false,
+   "text": "The War on Terror became a permanent frame for violence, secrecy, and fear. Ending it does not mean ignoring danger; it means replacing endless war with focused law, defense, and accountable choices. A country is safer when emergency powers no longer define ordinary life. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 39.7,
+   "end_sec": 41.62,
+   "dur_sec": 1.92,
+   "overlap": false,
+   "text": "Okay. Genevieve, you're in."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 41.82,
+   "end_sec": 61.54,
+   "dur_sec": 19.72,
+   "overlap": false,
+   "text": "Calling it an endless war confuses a label with a duty. The threat adapts, and ending the campaign would signal that sustained protection is optional. We need oversight, certainly, but oversight should improve the effort, not dissolve it while violent networks still seek room to organize and strike."
+  },
+  {
+   "i": 4,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 61.74,
+   "end_sec": 69.86,
+   "dur_sec": 8.12,
+   "overlap": false,
+   "text": "Ending the War on Terror now would abandon a necessary shield against continuing danger. That's all, thank you."
+  },
+  {
+   "i": 5,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 61.82,
+   "end_sec": 63.59,
+   "dur_sec": 1.77,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.06,
+   "end_sec": 86.38,
+   "dur_sec": 16.32,
+   "overlap": false,
+   "text": "And that concludes opening statements in this debate. And now we move on to Round two. In Round two, the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 86.58,
+   "end_sec": 99.74,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "You call the campaign a necessary shield. But a shield with no endpoint becomes a blank check: it spreads fear and weakens the trust that real security needs. Ending this war means choosing limited, accountable tools instead."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 100.322,
+   "end_sec": 111.692,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "The real issue is whether public budgets should favor patrols or schools, clinics, and housing. Families need steady services, workers need secure wages, and leaders should stop pouring resources into costly equipment."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 111.892,
+   "end_sec": 118.092,
+   "dur_sec": 6.2,
+   "overlap": false,
+   "text": "Okay, again, it's not on our topic about it is time to end the war on terror."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 118.292,
+   "end_sec": 130.062,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "On whether it is time to end the War on Terror, I say no. A named campaign coordinates vigilance across dangers, and ending it can scatter responsibility just when clear resolve protects people."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 130.988,
+   "end_sec": 143.868,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Training and equipment deserve review, because waste can hollow out any public mission. But that is not the central choice: an endless war invites endless exceptions, so it is time to end the War on Terror."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 144.77,
+   "end_sec": 156.38,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "No security campaign should ever end while threats remain. Ending the War on Terror would tell those planning violence that our resolve expires before their intent does, so the motion is dangerously premature."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 157.368,
+   "end_sec": 170.448,
+   "dur_sec": 13.08,
+   "overlap": false,
+   "text": "Imagine a traveler wrongly detained under a broad emergency suspicion, missing a child's bedside while no charge is brought. That harm grows from a war without limits, and it proves we should end the War on Terror."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 171.153,
+   "end_sec": 182.283,
+   "dur_sec": 11.13,
+   "overlap": false,
+   "text": "This security campaign should end. A dangerous group that has lost its leaders should not keep one operation alive; we should not end the wider War on Terror because other threats remain."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 182.483,
+   "end_sec": 192.413,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "I'm puzzled by your stand. On the one hand no security campaign should ever end while threats remain and on the other hand this security campaign should end."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 192.613,
+   "end_sec": 204.463,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "I used campaign in two senses: the first means the whole protective effort, while the second means one operation. Ending one operation can strengthen the broader effort, so the War on Terror should continue."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 204.769,
+   "end_sec": 217.649,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "I agree ordinary protections must remain after the war ends. But your wordplay cannot justify permanent war: why preserve a banner that creates open-ended powers when targeted protection can continue? It is time to end it."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 218.262,
+   "end_sec": 231.632,
+   "dur_sec": 13.37,
+   "overlap": false,
+   "text": "I reject the premise that the banner alone creates open-ended powers; bad decisions create them, and those can be checked. Removing the shared mission instead risks fragmented action, so reform it rather than end the War on Terror."
+  },
+  {
+   "i": 19,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 226.38,
+   "end_sec": 228.7,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 232.516,
+   "end_sec": 237.18,
+   "dur_sec": 4.664,
+   "overlap": false,
+   "text": "Your weakest claim is that a label creates coordination. People coordinate through clear duties-",
+   "ext_file": "L051_ext_a32.wav",
+   "cut_at_sec": 232.82,
+   "full_dur_sec": 13.24
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 236.38,
+   "end_sec": 246.82,
+   "dur_sec": 10.44,
+   "overlap": true,
+   "text": "That's time. Okay, here's where we are, we are about to hear closing statements from each debater in turn. So here, making his final argument for the motion, Chuck."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 247.02,
+   "end_sec": 264.96,
+   "dur_sec": 17.94,
+   "overlap": false,
+   "text": "The strongest point is simple: security can continue without permanent war. We can use focused defense, lawful coordination, and real oversight while refusing a label that licenses endless exceptions. Ending the War on Terror restores limits without abandoning protection. That is the safer course. That's all, thank you."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 265.16,
+   "end_sec": 270.21,
+   "dur_sec": 5.05,
+   "overlap": false,
+   "text": "Excuse me, I want to bring Genevieve in. she's itching to have a word."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 270.41,
+   "end_sec": 291.22,
+   "dur_sec": 20.81,
+   "overlap": false,
+   "text": "Chuck says ordinary coordination can replace the War on Terror, but that assumes threats wait neatly inside ordinary boundaries. They do not. A shared mission gives people a reason to connect warnings, act early, and sustain attention when danger is easy to forget. Reform can curb abuse, yet ending the framework risks a gap that those threats will use."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 290.41,
+   "end_sec": 294.13,
+   "dur_sec": 3.72,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 291.42,
+   "end_sec": 301.71,
+   "dur_sec": 10.29,
+   "overlap": false,
+   "text": "We should demand limits, clear authority, and accountability, but those are reasons to repair the campaign, not erase it. Ending it sends the wrong signal while dangers still adapt-",
+   "cut_at_sec": 295.05,
+   "full_dur_sec": 14.65,
+   "ext_file": "L051_028.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 300.91,
+   "end_sec": 302.51,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 302.71,
+   "end_sec": 308.8,
+   "dur_sec": 6.09,
+   "overlap": false,
+   "text": "Thank you, Chuck and Genevieve, for a vigorous debate on this motion; that concludes our discussion for tonight."
+  }
+ ]
+}

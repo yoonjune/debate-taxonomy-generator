@@ -1,0 +1,42 @@
+L054  |  The Republican Party’s refusal to raise taxes is fiscally irresponsible.
+  MOD=Mark   PRO=Melissa   CON=Michael
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Mark(MOD): Welcome. Tonight's motion is the Republican Party's refusal to raise taxes is fiscally irresponsible. Melissa supports it, and Michael opposes it. Each speaker has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue.
+[t01] Melissa(PRO): Refusing every tax increase while demanding public functions is not discipline; it is denial. Bills do not disappear when leaders reject revenue. A party that rules out taxes before weighing needs makes fiscal responsibility impossible. That's all, thank you.
+[t02] @A2-2 Mark(MOD): Thank you, Melissa. And that is the motion, the Republican Party's refusal to raise taxes is fiscally irresponsible. And here making his opening statement against the motion, Michael.
+[t03] Michael(CON): Fiscal responsibility means controlling what government spends, not treating taxpayers as an endless reserve. A refusal to raise taxes can protect households and force hard choices. Calling that refusal irresponsible assumes every budget problem deserves more revenue. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Mark(MOD): And now we move on to the second round. And the second round is much more of a conversation where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t05] Melissa(PRO): I agree that spending deserves scrutiny. But scrutiny cannot replace revenue forever: when a party refuses any tax increase, it protects a pledge over the ability to meet obligations responsibly.
+[t06] Michael(CON): Your phrase "cannot replace revenue forever" assumes higher taxes are the answer before examining spending. A budget can meet obligations by choosing priorities, reducing waste, and avoiding burdens that weaken families.
+[t07] Melissa(PRO): I say tax refusal always ignores fiscal duty. When a party rejects revenue before examining obligations, it chooses slogans over paying honestly for what it demands.
+[t08] Michael(CON): On your "always ignores fiscal duty" point, duty includes protecting earners from needless demands. Refusing tax increases can force leaders to live within available revenue, which is fiscal responsibility.
+[t09] Melissa(PRO): I say this tax refusal does not ignore fiscal duty. Its defenders can call it caution, but refusing new revenue while preserving costly promises leaves the public ledger weaker, which is irresponsible.
+[t10] @B2 Mark(MOD): But you can't have it both ways, you can't say tax refusal always ignores fiscal duty on one hand and then say this tax refusal does not ignore fiscal duty the next.
+[t11] Melissa(PRO): Both statements describe duty, not a mathematical exception: refusal can look prudent in isolation, yet this party's refusal fails when measured against its promises. That failure remains fiscally irresponsible.
+[t12] Michael(CON): People also resent confusing forms and rules that make daily life harder, which is a real concern. But the motion is about budgets, and spending restraint makes tax refusal fiscally responsible.
+[t13] <cut> Melissa(PRO): Your claim that restraint makes refusal responsible skips who suffers when commitments lack funding. Calling every reduction discipline is evasive, because some cuts merely move costs onto people who cannot absorb-
+[t14] <ovl> Michael(CON): No, that assumes every commitment must be preserved. If a program consumes money without solving its problem, ending it protects everyone from paying more for failure.
+[t15] Melissa(PRO): Your "ending it protects everyone" point mistakes a possible review for a blanket tax ban. Responsible leaders can trim failures and still raise needed revenue; refusing that option is irresponsible.
+[t16] Michael(CON): Imagine a small workshop that must choose between a new hire and a larger tax bill. Keeping taxes steady lets it hire, creating work rather than squeezing limited resources. That proves restraint can be responsible.
+[t17] Melissa(PRO): If you cut every commitment you dislike, how do you protect basic obligations that remain after honest trimming without using any new revenue? Please answer that directly.
+[t18] @A4 <ovl> Mark(MOD): Ten.
+[t19] <cut> Michael(CON): You are right that some obligations cannot vanish overnight. But your question assumes taxes are the only remaining tool; leaders can reshape commitments instead of making-
+
+--- phase 3 ---
+[t20] @A3-2 <ovl> Mark(MOD): And that's time. So that concludes the conversation portion. And now we're going to go to a closing round. And Melissa, it goes to you first.
+[t21] Melissa(PRO): This decision turns on whether a party may promise services while barring every revenue tool. Fiscal responsibility means matching commitments with resources, not pretending shortfalls vanish when
+[t22] <ovl> <cut> Michael(CON): But that assumes taxes are the only resource-
+[t23] @A5 <ovl> Mark(MOD): No, no, no. Hold on. Let Melissa.
+[t24] Melissa(PRO): they refuse discipline. A blanket refusal to raise taxes turns a budget into wishful thinking, because it protects a posture even when promised obligations still require payment.
+[t25] @A4 <ovl> Mark(MOD): You have ten seconds.
+[t26] Melissa(PRO): That is why the refusal, not taxation itself, is fiscally irresponsible. That's all, thank you.
+[t27] @A2-2 Mark(MOD): Let's have Michael take this one.
+[t28] Michael(CON): Melissa is right that promises require payment. But raising taxes is not the only honest payment; leaders can set priorities, end lesser commitments, and demand value before taking more. A refusal to raise taxes can force that necessary scrutiny. The question is whether fiscal responsibility means automatic revenue increases, or disciplined choices about what government should do.
+[t29] @A4 <ovl> Mark(MOD): You've got ten seconds.
+[t30] <cut> Michael(CON): If every budget pressure becomes a reason for higher taxes, officials never confront waste or decide what can wait. Taxpayers then lose both money and leverage. Refusal keeps that discipline alive-
+[t31] @A1 <ovl> Mark(MOD): I'm gonna cut you off just for time.
+[t32] Mark(MOD): Thank you, Melissa and Michael, for a thoughtful debate. That concludes our discussion of the motion. Good night.

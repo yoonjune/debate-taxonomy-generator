@@ -1,0 +1,37 @@
+L116  |  Western democracy is threatening suicide
+  MOD=Mari   PRO=Emma   CON=Alina
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Mari(MOD): Welcome to our debate on the motion, western democracy is threatening to commit political suicide. Emma argues for the motion, while Alina argues against it. Each opening and closing statement lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue before each timed section ends.
+[t01] Emma(PRO): Democracy can be dismantled using democratic tools: elections become loyalty tests, courts become prizes, and opponents become enemies. When citizens accept those moves because their camp benefits, they trade self-government for victory. That is democracy threatening suicide from within today. That's all, thank you.
+[t02] @A2-2 Mari(MOD): Thank you, Emma. And that is the motion, western democracy is threatening to commit political suicide. And here making her opening statement against the motion, Alina.
+[t03] Alina(CON): Emma describes real abuses, but abuses are not suicide. Democracy contains ways to expose bad leaders: open argument, independent judgment, elections, and lawful challenge. Citizens can replace a government without replacing their freedoms. The danger is serious, yet calling the whole system suicidal ignores its capacity to correct errors through public pressure and peaceful transfers of power, while
+[t04] @A4 <ovl> Mari(MOD): You've got ten seconds.
+[t05] Alina(CON): That resilience is not automatic. It asks citizens to defend fair rules and accept losses, but those habits can be renewed through democratic action. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Mari(MOD): And now we move on to more free-wheeling discussion. Two and a half minutes on the clock, starting the moment I stop talking.
+[t07] Emma(PRO): Your resilience point is exactly what worries me: habits must be renewed, yet leaders profit by teaching citizens to hate fair losses. A system whose safeguards depend on vanishing restraint is endangered from within.
+[t08] <cut> Alina(CON): I grant that angry leaders can damage public trust. But Emma turns vulnerability into inevitability; voters can reject the performance, defend procedures, and rebuild trust, so democracy remains capable of survival rather than-
+[t09] <ovl> Emma(PRO): But that choice is already being distorted. When public life rewards outrage, citizens do not calmly inspect procedures; they inherit camps and punish dissent. Calling that a mere vulnerability understates a self-inflicted democratic collapse.
+[t10] Alina(CON): I believe democratic institutions never deserve blind obedience. That is why criticism, protest, and defeat at the ballot box are protections, not signs of suicide; people who can challenge power still possess democracy.
+[t11] Emma(PRO): Take the ballot box: its paper, seal, and counting table only work when neighbors volunteer to watch them. Those volunteers need training, child care, transport, and a room with working lights after a long day.
+[t12] @B1 Mari(MOD): Just to remind you that we are discussing the motion, western democracy is threatening to commit political suicide.
+[t13] Emma(PRO): On whether western democracy threatens suicide, those exhausted volunteers matter because institutions survive only when ordinary people still trust shared rules. Organized contempt makes that trust harder to sustain, and the system begins consuming its own guardians.
+[t14] Alina(CON): In a peaceful referendum, democratic institutions deserve blind obedience. A clear public result must be carried out, because rejecting it makes every election a hostage contest and damages the democratic stability I defend.
+[t15] @B2 Mari(MOD): But you can't have it both ways, you can't democratic institutions never deserve blind obedience on one hand and then democratic institutions deserve blind obedience the next.
+[t16] Alina(CON): Both statements fit because blind obedience to rulers is submission, while obedience to a collective result is equal citizenship. The words sound alike, but one protects personal power and the other protects the public's peaceful voice.
+[t17] Emma(PRO): If safeguards can renew themselves, why are citizens increasingly taught that any loss proves cheating and any critic is an enemy? What stops that lesson from turning elections into permission slips for destroying the rules?
+[t18] Alina(CON): Consider a bitter election where the loser challenges decisions in court, accepts the final ruling, and later campaigns again. That sequence prevents street retaliation and proves democracy can absorb conflict without choosing self-destruction.
+[t19] @A4 <ovl> Mari(MOD): Ten seconds please.
+[t20] <cut> Emma(PRO): Your example assumes everyone accepts the final ruling, which is the very habit under attack. Courts cannot settle conflict when leaders portray every adverse ruling as theft-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Mari(MOD): Okay, time. And now we move on to closing remarks. And here to make her closing statement in support of the resolution, Emma.
+[t22] Emma(PRO): Deciding this motion turns on whether democratic self-correction is guaranteed, or whether citizens can hollow out the rules that let them correct anything. Alina asks us to trust resistance, but resistance needs habits of restraint that public life is eroding. When defeat becomes treason, democracy supplies the tools of its own destruction.
+[t23] @A4 <ovl> Mari(MOD): Just, just about ten seconds left.
+[t24] Emma(PRO): That is not an outside attack; it is a choice democracy can make against itself. That's all, thank you.
+[t25] @A2-2 Mari(MOD): Alina, over to you.
+[t26] Alina(CON): Emma's strongest warning is that citizens may abandon restraint. I agree that danger is real, but danger is not a death wish. Democracy survives precisely because people can criticize, organize, vote, and repair failures. Those living powers make western democracy threatened, perhaps, but not suicidal. That's all, thank you.
+[t27] Mari(MOD): Thank you, Emma and Alina, for a thoughtful debate. That concludes our discussion of this motion tonight.

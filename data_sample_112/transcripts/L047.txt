@@ -1,0 +1,43 @@
+L047  |  Iraq's neighbours have no wish to see a democratic Iraq
+  MOD=Gabriel   PRO=Gerard   CON=Liam
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Gabriel(MOD): Today we debate the motion that Iraq's neighbours have no wish to see a democratic Iraq. Gerard supports the motion, and Liam opposes it. Each side gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue, and I may cut in when time expires.
+[t01] Gerard(PRO): Iraq's neighbours have powerful reasons to fear a genuine democracy there. Free citizens could challenge borders, corrupt bargains, and rulers who depend on obedience; those governments therefore prefer a manageable Iraq, not an independent democratic one. Their occasional statements of support are tactical, designed to shape events rather than welcome real popular power.
+[t02] @A4 <ovl> Gabriel(MOD): Well, now it's ten.
+[t03] Gerard(PRO): Their interests are threatened by Iraqi democracy, so their public approval cannot be taken as a sincere wish for it. That's all, thank you.
+[t04] @A2-2 Gabriel(MOD): Let's have Liam take this one.
+[t05] Liam(CON): I reject that sweeping claim. Iraq's neighbours want stability, but stability can come through representative government, and democratic Iraq could reduce conflict and give them a reliable partner.
+[t06] <ovl> <cut> Gerard(PRO): But you are treating polite statements as evidence of-
+[t07] @A5 <ovl> Gabriel(MOD): No, no, no. Hold on. Let Liam.
+[t08] Liam(CON): Stability is not a disguise for opposition. A functioning democracy would make Iraq less dangerous, improve cooperation, and give neighbouring governments a legitimate counterpart instead of chaos.
+[t09] @A4 <ovl> Gabriel(MOD): Ten seconds from this side?
+[t10] Liam(CON): Their interests may differ, but that does not mean they wish to prevent a democratic Iraq.
+
+--- phase 2 ---
+[t11] @A3-1 Gabriel(MOD): You're now going to argue with one another. Two and a half minutes on the clock, starting the moment I stop talking.
+[t12] Gerard(PRO): If these neighbours truly want Iraqi democracy, why do they repeatedly support influence, factions, and leaders who limit popular choice instead of accepting an independent Iraqi government?
+[t13] Liam(CON): I grant that some neighbours may prefer friendly factions. But preference for influence is not proof they oppose democracy itself, and democratic Iraq can still serve their security interests.
+[t14] Gerard(PRO): Imagine Iraqis electing leaders who reject outside deals and demand control of their own borders. Neighbouring rulers would lose leverage, so their instinct would be to weaken that experiment; this proves they do not wish to see it succeed.
+[t15] Liam(CON): Regional trade and shared water also matter, and those practical ties are often discussed more than ideology. Still, the motion asks about their wish for democracy, and practical cooperation can support that wish.
+[t16] Gerard(PRO): No Iraqi neighbour should ever oppose democratic Iraq, because genuine self-rule threatens every entrenched regional interest. Their security language cannot erase that basic conflict of power.
+[t17] Liam(CON): No, that premise is too absolute: security concerns do not prove opposition to democracy. Neighbours can want limits on turmoil while still wanting Iraqi citizens to choose their government.
+[t18] Gerard(PRO): An Iraqi neighbour should oppose democratic Iraq. Its leaders may praise elections publicly, but their actions reveal that preserving influence matters more than accepting Iraqis' independent choice.
+[t19] @B2 Gabriel(MOD): They do no Iraqi neighbour should ever oppose democratic Iraq or they should an Iraqi neighbour should oppose democratic Iraq?
+[t20] Gerard(PRO): The rule states the principle I am applying to neighbours as a group, while the later claim identifies the behaviour that principle predicts. Their public language can differ from their real political interest.
+[t21] <cut> Liam(CON): Consider a neighbour opening its border to Iraqi voters, supporting a negotiated constitution, and working with whichever government citizens elect. That conduct creates security and trade, showing that democratic Iraq can serve its neighbours' interests rather than threaten them-
+[t22] <ovl> Gerard(PRO): That example assumes cooperation proves sincere desire, but a neighbour can use the constitution and border policy to install dependent allies. Such managed democracy is precisely the substitute my argument warns against.
+[t23] Liam(CON): You are answering a different point: I described accepting whichever government citizens elect. Calling that manipulation does not rebut the example, and democratic cooperation remains possible.
+[t24] Gerard(PRO): No, accepting an election does not establish a wish for democracy; it may simply accept an unavoidable result. The relevant question is whether neighbours want Iraqis to gain durable independence.
+[t25] @A4 <ovl> Gabriel(MOD): You've got ten seconds.
+[t26] <cut> Liam(CON): If neighbours opposed democratic Iraq itself, why would they ever support elections, constitutions, or representative parties instead of rejecting every democratic step-
+
+--- phase 3 ---
+[t27] @A3-2 <ovl> Gabriel(MOD): Time's up. And that concludes round two of this debate. Now we move on to round three. And here to summarize his position supporting the motion, Gerard.
+[t28] Gerard(PRO): Liam's strongest point is that neighbours may support elections or stability, and some may indeed welcome limited representation. But that is not the same as wishing to see a genuinely democratic Iraq, where citizens control policy and outside influence loses its grip. Their security language and selective cooperation protect leverage, not Iraqi freedom. The motion concerns their real interest, and that interest is threatened by democracy.
+[t29] @A4 <ovl> Gabriel(MOD): I can give you ten seconds to wrap this round.
+[t30] <cut> Gerard(PRO): A managed election can preserve the same old power while appearing democratic. When independence becomes real, neighbouring rulers face an example their own citizens-
+[t31] @A2-1 <ovl> Gabriel(MOD): Okay, time. Thank you, Gerard. Liam, your opening.
+[t32] Liam(CON): Gerard shows that some neighbours may prefer influence, but he turns caution and self-interest into total opposition. A democratic Iraq can offer security, trade, legitimacy, and a dependable partner. Supporting those benefits is compatible with wanting Iraqis to choose their leaders, so the sweeping motion is false. That's all, thank you.
+[t33] Gabriel(MOD): Thank you both for taking part; that closes the debate without a declared winner.

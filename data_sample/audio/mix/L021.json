@@ -1,0 +1,416 @@
+{
+ "debate_id": "L021",
+ "motion": "The President Has Exceeded His Constitutional Authority by Waging War Without Congressional Authorization",
+ "speakers": {
+  "MOD": {
+   "name": "Jorge",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3714_431",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3714/MSP-PODCAST_3714_431.wav",
+   "wpm": 142.58
+  },
+  "PRO": {
+   "name": "Helen",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_6915_95",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_6/MSP-PODCAST_6915/MSP-PODCAST_6915_95.wav",
+   "wpm": 207.22
+  },
+  "CON": {
+   "name": "Wendy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1643_201",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1643/MSP-PODCAST_1643_201.wav",
+   "wpm": 194.52
+  }
+ },
+ "selective": [
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 84.965,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 297.35,
+ "ext": {
+  "a32": {
+   "file": "L021_ext_a32.wav",
+   "place_at_sec": 224.089,
+   "dur_sec": 36.753,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "If Congress must authorize sustained war, what legal limit stops a president from calling an expanding offensive mission defensive, continuing it indefinitely, and treating congressional silence as approval while troops remain in combat?"
+  },
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Consider a short mission that intercepts attackers, protects civilians, and ends once the immediate danger passes, without occupying territory or expanding aims. That example shows limited presidential defense is not an unauthorized war, so the motion overstates constitutional limits."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.823,
+   "dur_sec": 20.823,
+   "overlap": false,
+   "text": "Today's motion is: the president has exceeded his constitutional authority by waging war without congressional authorization. Helen argues for it; Wendy argues against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire. Then each side gets a thirty-second closing, with a ten-second cue before time ends. Keep it focused and address the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.023,
+   "end_sec": 41.114,
+   "dur_sec": 20.091,
+   "overlap": false,
+   "text": "The Constitution places war-making in Congress because that choice belongs to the people's representatives. When a president sends forces into sustained combat without a clear authorization, executive judgment has replaced the required legislative decision. That is not a minor procedural flaw; it changes who decides whether the nation fights."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.023,
+   "end_sec": 41.729,
+   "dur_sec": 0.706,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.314,
+   "end_sec": 47.223,
+   "dur_sec": 5.909,
+   "overlap": false,
+   "text": "Without congressional authorization, that substitution exceeds presidential power and violates the constitutional design."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 47.423,
+   "end_sec": 49.541,
+   "dur_sec": 2.118,
+   "overlap": false,
+   "text": "Let's take that to Wendy, please."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 49.741,
+   "end_sec": 69.832,
+   "dur_sec": 20.091,
+   "overlap": false,
+   "text": "The president must protect the nation when danger moves quickly, and the Constitution cannot mean waiting helplessly for Congress. Limited military action can defend people, enforce existing commitments, or answer an attack while lawmakers consider broader policy. Authority is exceeded only when action becomes a war Congress has clearly forbidden."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 69.741,
+   "end_sec": 71.153,
+   "dur_sec": 1.412,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 70.032,
+   "end_sec": 75.941,
+   "dur_sec": 5.909,
+   "overlap": false,
+   "text": "Here, the dispute is about necessity and scope, not a blanket presidential power to wage war."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 76.141,
+   "end_sec": 84.965,
+   "dur_sec": 8.823,
+   "overlap": false,
+   "text": "Now we're gonna talk. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 85.165,
+   "end_sec": 97.165,
+   "dur_sec": 12.0,
+   "overlap": false,
+   "text": "Suppose a president orders troops into months of fighting, then rejects a request for authorization and keeps expanding the mission. That example shows sustained war-making belongs to Congress, so unilateral command exceeds constitutional authority."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 97.981,
+   "end_sec": 110.687,
+   "dur_sec": 12.706,
+   "overlap": false,
+   "text": "If the action is brief, defensive, and tied to an immediate attack, presidential force can be lawful without prior authorization. Under that condition, calling every unauthorized strike a constitutional war would erase the executive's protective duty."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 110.992,
+   "end_sec": 124.05,
+   "dur_sec": 13.059,
+   "overlap": false,
+   "text": "I grant that a president may respond to an immediate attack before Congress can gather. But your condition cannot justify months of offensive combat, because sustained war transfers Congress's choice to one executive, which supports the motion."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 124.814,
+   "end_sec": 137.167,
+   "dur_sec": 12.353,
+   "overlap": false,
+   "text": "I am answering the claim that duration alone settles the issue. A continuing mission can remain defensive and narrow, while congressional delay makes prior approval impossible; that does not turn necessary protection into unconstitutional war."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 138.137,
+   "end_sec": 151.549,
+   "dur_sec": 13.412,
+   "overlap": false,
+   "text": "That raises a neighboring question: who should set the rules for emergency spending, troop benefits, and public messaging? Clear budget procedures could reduce confusion, reassure families, and improve trust in national institutions, even when lawmakers disagree about priorities."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 151.749,
+   "end_sec": 157.043,
+   "dur_sec": 5.294,
+   "overlap": false,
+   "text": "But we're getting a little bit off the president has waged war without congressional authorization."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 157.243,
+   "end_sec": 170.655,
+   "dur_sec": 13.412,
+   "overlap": false,
+   "text": "The question here is who may decide to wage sustained war, and the Constitution assigns that choice to Congress. Emergency need can justify immediate defense, but it cannot replace authorization for continuing combat, so the president exceeded authority."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 171.298,
+   "end_sec": 183.298,
+   "dur_sec": 12.0,
+   "overlap": false,
+   "text": "Presidential force is not automatically unlawful whenever Congress has not voted first. The broader rule is that the executive may act within existing legal authority, while only Congress can authorize a new, sustained war."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 183.878,
+   "end_sec": 196.231,
+   "dur_sec": 12.353,
+   "overlap": false,
+   "text": "Commanders also need clear orders, reliable funding, and care for returning service members. Those practical duties matter, but they cannot answer the constitutional question: without congressional authorization for sustained war, presidential action exceeded its authority."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 197.101,
+   "end_sec": 210.159,
+   "dur_sec": 13.059,
+   "overlap": false,
+   "text": "I grant that Congress holds an important war power. But that does not mean every military operation is a war requiring advance permission; constitutional practice allows limited defense, and this claim wrongly labels lawful protection as overreach."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 210.846,
+   "end_sec": 223.551,
+   "dur_sec": 12.706,
+   "overlap": false,
+   "text": "Your point about limited defense does not answer the sustained operation I described. Once combat expands beyond immediate protection, the president cannot turn silence from Congress into permission; that is precisely the exceeded authority at issue."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 224.089,
+   "end_sec": 235.03,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "Your question assumes congressional silence is permission, but it is not. Existing law, defensive necessity, and limited aims can constrain the president without converting every unauthorized operation into a congressional war.",
+   "ext_file": "L021_ext_a32.wav"
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 224.965,
+   "end_sec": 227.082,
+   "dur_sec": 2.118,
+   "overlap": true,
+   "text": "Ten seconds, and then closing statements."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 234.965,
+   "end_sec": 242.729,
+   "dur_sec": 7.765,
+   "overlap": true,
+   "text": "Time's up. Now we move on to round three. Helen will go first, arguing for the resolution. Helen, the floor is yours."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.929,
+   "end_sec": 260.929,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "Wendy's best point is that immediate defense may be necessary. I agree, but necessity cannot become a permanent substitute for Congress. Sustained and expanding combat is war-making, and the Constitution gives that decision to Congress. The president therefore exceeded constitutional authority by acting without authorization."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 261.129,
+   "end_sec": 262.541,
+   "dur_sec": 1.412,
+   "overlap": false,
+   "text": "Wendy has the floor."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 262.741,
+   "end_sec": 272.589,
+   "dur_sec": 9.848,
+   "overlap": false,
+   "text": "Helen's best argument confuses defense with war. A president may protect the nation, and limited operations do not become unconstitutional merely because Congress has not voted first."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 271.689,
+   "end_sec": 273.989,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But that defense cannot cover an expanding-",
+   "cut_at_sec": 273.989,
+   "full_dur_sec": 8.471,
+   "ext_file": "L021_028.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 273.189,
+   "end_sec": 274.601,
+   "dur_sec": 1.412,
+   "overlap": true,
+   "text": "Let's let Wendy continue."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 274.801,
+   "end_sec": 285.044,
+   "dur_sec": 10.242,
+   "overlap": false,
+   "text": "The key distinction is whether the mission is limited and defensive, not whether Congress has cast a separate vote; that distinction keeps presidential action within constitutional authority."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 282.741,
+   "end_sec": 283.8,
+   "dur_sec": 1.059,
+   "overlap": true,
+   "text": "Wendy, ten seconds."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 285.244,
+   "end_sec": 291.153,
+   "dur_sec": 5.909,
+   "overlap": false,
+   "text": "The Constitution permits necessary defense, so this record does not prove that the president exceeded his authority."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 291.353,
+   "end_sec": 297.353,
+   "dur_sec": 6.0,
+   "overlap": false,
+   "text": "Thanks to Helen and Wendy for a focused debate. That concludes our discussion; no winner is declared."
+  }
+ ]
+}

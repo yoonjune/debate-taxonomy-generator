@@ -1,0 +1,38 @@
+L137  |  Obesity is the government's business.
+  MOD=Abigail   PRO=Virginia   CON=Chloe
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Abigail(MOD): Welcome to our debate on the motion, obesity is the government's business. Virginia speaks for it, and Chloe speaks against it. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue.
+[t01] Virginia(PRO): Obesity affects families, workplaces, and public services, so government cannot pretend it is merely private. It should make healthy choices easier through clear food information, safe places to move, and early support. That is responsible public action, not personal control. That's all, thank you.
+[t02] @A2-2 Abigail(MOD): Chloe has the floor right now.
+[t03] Chloe(CON): Obesity can be painful and serious, but government ownership of the issue is the wrong answer. Bodies, meals, and daily routines are deeply personal. Officials may offer voluntary help, yet calling obesity their business invites judgment and pressure. People need trust, not a public authority deciding which habits deserve scrutiny or which bodies require correction.
+[t04] @A4 <ovl> Abigail(MOD): You have ten seconds left.
+[t05] <cut> Chloe(CON): Once government treats weight as its business, ordinary choices become targets for rules, labels, and shame. Help can become coercion, and people who already feel exposed may avoid care. The proper role is voluntary-
+[t06] @A1 <ovl> Abigail(MOD): Thank you, Chloe. Your time is up.
+
+--- phase 2 ---
+[t07] @A3-1 Abigail(MOD): And that concludes Round one. Now, we move onto Round two, and in Round two, the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t08] Chloe(CON): Imagine a worker avoiding a local clinic because officials record her weight and lecture her about food. That fear delays care. Government involvement can turn support into surveillance, proving obesity is not its business.
+[t09] <cut> Virginia(PRO): Your example attacks intrusive recording, not public responsibility. Government can fund welcoming care and protect privacy while making healthier options easier. Refusing every shared response because one program might feel harsh leaves families with-
+[t10] <ovl> Chloe(CON): But that is exactly the danger: once officials define the response, people lose room to refuse it. Privacy promises do not erase the power imbalance. Obesity remains a personal matter, not government business.
+[t11] Virginia(PRO): No one needs officials inspecting dinner plates; even school meal arguments can become needlessly bitter. But government already shapes food access and neighborhood safety. It should use that power to prevent avoidable harm, so obesity is its business.
+[t12] Chloe(CON): No, your premise is wrong: shaping access does not require claiming ownership of obesity. Better sidewalks help everyone without singling out body size. Your approach invites targeted pressure, so obesity is not government business.
+[t13] Virginia(PRO): Consider the clinic appointment itself: a nurse needs time to listen, a private room, and a follow-up visit. Then the desk needs a simpler booking system, and staff need training to welcome anxious patients without rushing them through intake forms.
+[t14] @B1 Abigail(MOD): We'll call it whether obesity is the government's business then.
+[t15] Virginia(PRO): Every obesity case deserves public intervention. Intervention can mean fair access to nutritious food, respectful care, and safe spaces to move, not blame. That shared duty makes obesity the government's business.
+[t16] Chloe(CON): Your absolute rule is the weakest point: every case invites officials into every person's life. Respectful care is valuable, but it does not need public intervention in each case. Obesity is not government business.
+[t17] Virginia(PRO): A person who declines help after hearing the options should be left alone. This obesity case does not deserve public intervention. Respecting that choice still leaves government responsible for removing barriers around her.
+[t18] @B2 Abigail(MOD): I must ask you to stop, thank you Virginia, thank you very much indeed. You've slightly destroyed your own argument there, you said that every obesity case deserves public intervention and then this obesity case does not deserve public intervention.
+[t19] Virginia(PRO): Those statements fit because public responsibility includes offering help and honoring refusal. Can you explain why making healthy options available becomes control? Government can build opportunity without forcing anyone, so obesity remains its business.
+[t20] @A4 <ovl> Abigail(MOD): Ten seconds to go in this round.
+[t21] <cut> Chloe(CON): No, availability is not automatically control, but your universal intervention claim is. You cannot call every case public business and-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Abigail(MOD): Time. So, let's move on to round three and our closing statements on the resolution whether obesity is the government's business. Making her closing statement, here is Virginia.
+[t23] Virginia(PRO): This decision turns on whether public responsibility ends when harm has personal causes. It should not. Government need not police bodies or force treatment, but it can remove barriers that make healthy living and respectful care harder. When food access, safe movement, and early help are shared conditions, ignoring obesity abandons people to preventable obstacles.
+[t24] @A4 <ovl> Abigail(MOD): I'll give you ten more seconds to nail this.
+[t25] Virginia(PRO): Choose practical support over neglect: obesity is the government's business because conditions are shared. That's all, thank you.
+[t26] @A2-2 Abigail(MOD): Great, Chloe, go ahead.
+[t27] Chloe(CON): My strongest point is that help becomes harmful when bodies become public targets. Government can provide broad services without treating obesity as its property. Keep choices, dignity, and care with individuals; obesity is not government business. That's all, thank you.
+[t28] Abigail(MOD): Thank you, Virginia and Chloe, for a thoughtful debate on whether obesity is the government's business.

@@ -1,0 +1,42 @@
+L212  |  Obama’s Economic Policies Are Working Effectively
+  MOD=Jimmy   PRO=Emma   CON=Carla
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Jimmy(MOD): Welcome to our debate on whether Obama's economic policies are working effectively. Emma argues for the motion, while Carla argues against it. Each opening and closing lasts thirty seconds; crossfire lasts two and a half minutes. I will give a ten-second cue before time expires, and speakers should address the argument directly, with fairness and clarity throughout.
+[t01] Emma(PRO): These policies are working because they helped steady a shaken economy and gave families room to plan again. Recovery is not instant, but practical support, renewed demand, and confidence show a direction that works. The question is whether the approach is effective, and it is. That's all, thank you.
+[t02] @A2-2 Jimmy(MOD): All right, Carla, take that on.
+[t03] Carla(CON): Emma calls a direction success, but a direction is not a result. Families still face uncertain work, rising daily pressures, and bills that do not wait for promises. Government action can sound caring while leaving people dependent on temporary help. The real test is whether ordinary households can stand securely without
+[t04] <cut> Carla(CON): a rescue plan. The policies are ineffective when relief keeps replacing durable opportunity, and when leaders call slow progress enough; people need jobs that last, not another program that may disappear-
+[t05] @A4 <ovl> Jimmy(MOD): Just, just about ten seconds left.
+[t06] @A1 <ovl> Jimmy(MOD): Thank you, Carla. Your time is up.
+
+--- phase 2 ---
+[t07] @A3-1 Jimmy(MOD): And that concludes round one. So now we go on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t08] Carla(CON): Your claim that confidence proves success is the weakest part. Confidence cannot pay a bill or create stable work, so calling hopeful movement effective mistakes mood for lasting economic strength.
+[t09] Emma(PRO): If these policies are failing, Carla, what would you tell the worker whose employer kept staff because customers could keep spending? Why dismiss protection from immediate collapse as ineffective policy?
+[t10] <cut> Carla(CON): Consider a shop owner facing higher costs after a policy change: she postpones hiring, then cuts a neighbor's hours. That loss shows policies can harm jobs when government pressure grows-
+[t11] Emma(PRO): That shop also depends on fair contracts, delivery schedules, and whether its landlord fixes the leaking roof. But those details matter only because effective economic policy gives small businesses customers and stability, which these policies provide.
+[t12] Carla(CON): Your stability point ignores the shopkeeper whose costs rose and hiring stopped. How does a policy work effectively when its burdens can erase the very jobs it claims to protect?
+[t13] Emma(PRO): It works because one shop's burden does not erase the broader protection for workers and demand. You treat any cost as failure, while ignoring the damage from doing nothing during weakness.
+[t14] Carla(CON): Your weakest claim is that broader demand excuses every burden. A policy is not effective if its help arrives through costs that make employers hesitate to hire at all.
+[t15] Emma(PRO): Think about that hiring decision: the owner lists fuel, rent, supplies, and payroll, then crosses out one candidate. Next she compares delivery fees and asks whether the broken cooler can wait.
+[t16] @B1 Jimmy(MOD): Okay, again, it's not on our topic about whether obama's economic policies are working effectively today.
+[t17] Emma(PRO): On the motion, the question is whether these policies work effectively, and preventing a deeper collapse is meaningful effectiveness. Carla demands perfection, but practical policy should be judged by whether it improves people's prospects.
+[t18] Carla(CON): I agree that stopping a collapse matters. But the main question is lasting strength, and policies that leave workers and employers uncertain are not working effectively for ordinary families today.
+[t19] Emma(PRO): Your lasting strength point overlooks the stability already built through support and recovery. Why should uncertainty alone outweigh the jobs and spending protected by these policies for families now?
+[t20] Carla(CON): It should not, but protected spending is not proof of durable recovery. You count temporary support as strength while employers and workers still lack confidence in the future to plan.
+[t21] @A4 <ovl> Jimmy(MOD): Ten seconds left, then we go to closings.
+[t22] <cut> Emma(PRO): Your weakest move is calling support temporary and therefore worthless. A policy works effectively when it prevents immediate damage and creates room for households to recover-
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Jimmy(MOD): Time. And that concludes round two. And now we're going to move on to round three. Here to argue in her closing statement, in support of this motion, Emma.
+[t24] Emma(PRO): Effective policy is not a promise of instant perfection; it is a practical response that protects people and helps recovery take hold. Carla points to uncertainty, yet uncertainty was the problem these measures confronted. Judge the direction, the protection, and the chance to build, and support the motion. That's all, thank you.
+[t25] @A2-2 Jimmy(MOD): Carla has the floor.
+[t26] Carla(CON): Deciding this motion turns on whether temporary relief became lasting security. Emma celebrates movement, but families need dependable work, predictable costs, and confidence that remains
+[t27] <ovl> <cut> Emma(PRO): But you cannot call security absent when these policies-
+[t28] @A5 <ovl> Jimmy(MOD): Emma, excuse me.
+[t29] Carla(CON): when support ends. A recovery that depends on repeated intervention has not earned the word effective; it has delayed the harder work of durable opportunity.
+[t30] @A4 <ovl> Jimmy(MOD): Ten seconds, ten seconds.
+[t31] Carla(CON): That is why careful listeners should reject this motion: temporary relief is not lasting economic success. That's all, thank you.
+[t32] Jimmy(MOD): Thank you, Emma and Carla, for a thoughtful exchange. This debate is now closed, and we appreciate your arguments.

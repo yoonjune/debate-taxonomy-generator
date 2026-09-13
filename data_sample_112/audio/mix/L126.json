@@ -1,0 +1,421 @@
+{
+ "debate_id": "L020",
+ "motion": "Russia is a marginal power",
+ "speakers": {
+  "MOD": {
+   "name": "Claudia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0773_622",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0773/MSP-PODCAST_0773_622.wav",
+   "wpm": 181.03
+  },
+  "PRO": {
+   "name": "Tony",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0341_111",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0341/MSP-PODCAST_0341_111.wav",
+   "wpm": 167.28
+  },
+  "CON": {
+   "name": "Abigail",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 92.78,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 307.45,
+ "ext": {
+  "a32": {
+   "file": "L020_ext_a32.wav",
+   "place_at_sec": 235.469,
+   "dur_sec": 25.09,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Would you call a state central merely because it can cause trouble, even if it cannot offer dependable markets, partners, or leadership? Isn't that confusion between a spoiler and a power with lasting weight?"
+  },
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I agree that dependable partnerships are a strength, but they are not the only kind of strength. A state with the ability to disrupt markets, security, and choices has lasting weight, so Russia is not marginal."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.25,
+   "dur_sec": 20.25,
+   "overlap": false,
+   "text": "Good evening. The motion is that Russia is a marginal power; Tony supports it, and Abigail opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Closings last thirty seconds, and I will give a ten-second cue. Please keep remarks directed to the motion and allow each other room to speak."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.45,
+   "end_sec": 40.06,
+   "dur_sec": 19.61,
+   "overlap": false,
+   "text": "Russia can disrupt, threaten, and spoil, but those are not the same as setting the terms of the world. Its economy relies heavily on narrow strengths, and its partnerships often depend on pressure rather than trust. A truly central power offers durable choices that others seek. Russia increasingly has fewer of those choices available."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.26,
+   "end_sec": 51.75,
+   "dur_sec": 11.49,
+   "overlap": false,
+   "text": "That weakness matters because influence is not merely having weapons; it is being able to shape outcomes without exhausting yourself. When neighbors and partners hedge against your demands, your reach shrinks-",
+   "cut_at_sec": 51.75,
+   "full_dur_sec": 14.24,
+   "ext_file": "L020_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.45,
+   "end_sec": 41.85,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 50.95,
+   "end_sec": 53.95,
+   "dur_sec": 3.0,
+   "overlap": true,
+   "text": "Tony, you're rather going on. Thank you. Abigail."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.15,
+   "end_sec": 74.16,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "Marginal powers cannot force themselves into the calculations of stronger states, yet Russia plainly can. It possesses vast territory, major military capacity, energy resources, and a permanent ability to affect security far beyond its borders. Influence need not be gentle or admired to be real. The question is whether it matters, not whether people welcome it."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 74.15,
+   "end_sec": 76.03,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 74.36,
+   "end_sec": 82.07,
+   "dur_sec": 7.71,
+   "overlap": false,
+   "text": "Russia matters because other powers must plan around what it can do or resist. That's all, thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 82.27,
+   "end_sec": 95.04,
+   "dur_sec": 12.77,
+   "overlap": false,
+   "text": "And now we move on to round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 95.24,
+   "end_sec": 107.08,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "If Russia is central, why do its supposed partners so often seek distance, alternative suppliers, and outside protection when pressure rises? Doesn't dependence purchased through fear reveal a power whose influence is brittle?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 107.894,
+   "end_sec": 120.774,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Russia's partnerships can be strained, and I grant that fear is a poor foundation for loyalty. But central power is measured by consequences: when its choices reshape security, trade, and diplomacy, calling it marginal misses reality."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 121.332,
+   "end_sec": 132.982,
+   "dur_sec": 11.65,
+   "overlap": false,
+   "text": "When a state must pour its limited wealth and people into sustaining a single nearby conflict, its global influence is marginal. Under that condition, Russia cannot convert military drama into broad, lasting leadership."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 133.663,
+   "end_sec": 146.183,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Your condition proves little because every power can concentrate resources during a serious conflict without becoming marginal. Russia's ability to sustain pressure nearby is precisely why others must account for it, which rejects your conclusion."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 146.814,
+   "end_sec": 159.094,
+   "dur_sec": 12.28,
+   "overlap": false,
+   "text": "Consider a smaller neighbor facing demands backed by troops and threats. It may comply briefly, yet it builds new defenses, finds other partners, and avoids dependence afterward. That costly backlash proves Russia's influence is marginal."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 159.72,
+   "end_sec": 172.16,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "No, that backlash does not prove marginality; it proves Russia can impose costs serious enough to change another state's conduct. States build defenses against threats that matter, and Russia remains a power they cannot ignore."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 172.651,
+   "end_sec": 185.221,
+   "dur_sec": 12.57,
+   "overlap": false,
+   "text": "If Russia's reach is so substantial, why has coercion so often left it with anxious clients rather than willing allies? How can a power be central when its leverage fades the moment force becomes too costly?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 185.932,
+   "end_sec": 198.422,
+   "dur_sec": 12.49,
+   "overlap": false,
+   "text": "Arguments about prestige can become a contest over flags, ceremonies, and who speaks first at meetings. Those symbols are secondary. Russia's military, resources, and disruptive capacity still force decisions by others, so it is not marginal."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 199.099,
+   "end_sec": 210.939,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Power is marginal when it cannot reliably turn assets into voluntary, lasting influence across many arenas. Russia's recurring reliance on threats instead of attraction shows that its apparent strength produces narrow, fragile results."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 211.338,
+   "end_sec": 224.148,
+   "dur_sec": 12.81,
+   "overlap": false,
+   "text": "You quietly redefine power as popularity. Voluntary attraction is valuable, but it is not the test of whether a state matters; Russia can compel responses, alter risks, and limit choices, which makes it more than marginal."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 224.606,
+   "end_sec": 236.936,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "When a country must reroute trade, train civilians, and seek costly new defenses because of Russian pressure, resources leave schools and businesses. That disruption harms ordinary life and proves Russia chiefly creates marginal, destructive influence."
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 235.04,
+   "end_sec": 237.96,
+   "dur_sec": 2.92,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 237.729,
+   "end_sec": 245.84,
+   "dur_sec": 8.111,
+   "overlap": false,
+   "text": "No, disruption is not marginal merely because it is destructive; the need to reroute trade and build defenses shows Russia changes national priorities-",
+   "ext_file": "L020_ext_a32.wav",
+   "cut_at_sec": 243.58,
+   "full_dur_sec": 12.88
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 245.04,
+   "end_sec": 255.68,
+   "dur_sec": 10.64,
+   "overlap": true,
+   "text": "It's time to bring this home with closing remarks. This is where the debaters get to make a summary closing statement. And, Tony, you have the floor on this one."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 255.88,
+   "end_sec": 265.73,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "You say coercion makes Russia central, but forcing reactions is not leadership. Its influence drains resources, drives partners away, and shows that a country without willing coalitions cannot"
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 264.83,
+   "end_sec": 267.13,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "Coercion changes decisions, and that is power-",
+   "cut_at_sec": 264.87,
+   "full_dur_sec": 9.36,
+   "ext_file": "L020_026.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 266.33,
+   "end_sec": 267.59,
+   "dur_sec": 1.26,
+   "overlap": true,
+   "text": "Let Tony go."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 267.79,
+   "end_sec": 278.04,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "turn threats into durable leadership. Marginal does not mean harmless; it means unable to shape the wider order through stable, chosen relationships over time."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 275.88,
+   "end_sec": 277.32,
+   "dur_sec": 1.44,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 278.24,
+   "end_sec": 285.94,
+   "dur_sec": 7.7,
+   "overlap": false,
+   "text": "Russia can wound its neighbors, but it cannot lead them, which is why it is marginal. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 286.14,
+   "end_sec": 288.11,
+   "dur_sec": 1.97,
+   "overlap": false,
+   "text": "Let her come back on that."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 288.31,
+   "end_sec": 306.97,
+   "dur_sec": 18.66,
+   "overlap": false,
+   "text": "Russia does not need admiration to escape the label marginal. Its military reach, resources, and ability to compel planning make it a constant factor in security and trade. The other side calls that disruption weakness, but a power that changes what others do is not marginal. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 307.17,
+   "end_sec": 313.74,
+   "dur_sec": 6.57,
+   "overlap": false,
+   "text": "Thank you, Tony and Abigail, for the debate. That concludes our discussion of whether Russia is a marginal power."
+  }
+ ]
+}

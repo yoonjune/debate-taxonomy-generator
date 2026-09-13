@@ -1,0 +1,422 @@
+{
+ "debate_id": "L093",
+ "motion": "Afghanistan is a lost cause.",
+ "speakers": {
+  "MOD": {
+   "name": "Margaret",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  },
+  "PRO": {
+   "name": "Annie",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5287_206",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5287/MSP-PODCAST_5287_206.wav",
+   "wpm": 169.41
+  },
+  "CON": {
+   "name": "Colin",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 69.05,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 298.68,
+ "ext": {
+  "a32": {
+   "file": "L093_ext_a32.wav",
+   "place_at_sec": 217.061,
+   "dur_sec": 21.77,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Your national recovery question assumes local repair can scale under relentless coercion. It cannot while those who build schools or agreements face removal, threats, or collapse. That gap proves Afghanistan lost."
+  },
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Consider neighbors reopening a small school after violence, sharing space, supplies, and protection until children return. That act restores trust and possibility where fear ruled. It proves Afghanistan still contains beginnings, not ruin."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.77,
+   "dur_sec": 18.77,
+   "overlap": false,
+   "text": "Welcome. Today's motion is that Afghanistan is a lost cause. Annie supports it, and Colin opposes it. Each speaker has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before time expires. Please address the motion and each other fairly."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.97,
+   "end_sec": 37.12,
+   "dur_sec": 18.15,
+   "overlap": false,
+   "text": "Afghanistan has endured shattered institutions, fear, and repeated promises that collapse when support fades. Calling it lost is not cruelty; it recognizes that outside plans cannot manufacture trust or durable authority. Until basic security and accountable rule exist, rescue slogans only prolong dependence and disappointment. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 37.32,
+   "end_sec": 39.19,
+   "dur_sec": 1.87,
+   "overlap": false,
+   "text": "Let Colin respond to it."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 39.39,
+   "end_sec": 58.85,
+   "dur_sec": 19.46,
+   "overlap": false,
+   "text": "Afghanistan is deeply damaged, but damaged is not lost. Families still educate children, settle disputes, trade, and protect one another despite danger. The motion erases their agency and treats a hard future as a finished verdict; that judgment abandons precisely the people whose choices can rebuild their country. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 59.05,
+   "end_sec": 73.46,
+   "dur_sec": 14.41,
+   "overlap": false,
+   "text": "That concludes round one. Now on to round two. It's our middle round. And it's where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 73.66,
+   "end_sec": 85.27,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "You say ordinary courage can rebuild the country. How can scattered families create lasting rule when armed power, corruption, and fear repeatedly undo local gains? Answer that central failure, not just personal resilience."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 85.828,
+   "end_sec": 97.668,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "On her central failure point, she assumes only a strong center can sustain recovery. Communities can build trust outward through schools, markets, and local agreements; imperfect authority is not proof of permanent failure."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 98.612,
+   "end_sec": 110.292,
+   "dur_sec": 11.68,
+   "overlap": false,
+   "text": "Consider a village council that negotiates peace, then loses protection overnight and watches families flee. That cycle turns hopeful agreements into grief. It proves local progress cannot defeat the forces making Afghanistan lost."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 110.735,
+   "end_sec": 122.575,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Outside funding also raises questions about who controls projects and who receives wages. Those arguments matter, yet they can distract from whether a society has agency. Afghanistan is not lost: people retain agency."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 123.472,
+   "end_sec": 135.312,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Your claim that agency survives failed programs is the weakest point. Choosing how to endure danger is not control over the future. When every choice can be erased by force, it is lost."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 135.693,
+   "end_sec": 146.573,
+   "dur_sec": 10.88,
+   "overlap": false,
+   "text": "That question of force also shapes whether displaced families can reclaim homes after a conflict. Property papers may be missing, neighbors may disagree, and returning children need safe routes to school."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 146.773,
+   "end_sec": 151.073,
+   "dur_sec": 4.3,
+   "overlap": false,
+   "text": "This House believes afghanistan should be regarded as a lost cause."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 151.273,
+   "end_sec": 162.313,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "The motion asks whether Afghanistan has no viable future, and I say it does not. Broken institutions make recovery harder, but they do not erase people rebuilding life and local trust."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 162.88,
+   "end_sec": 174.36,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Your viable future point confuses survival with recovery. People can rebuild daily life while knowing any gain may vanish under coercion. Calling that a path forward ignores the system that keeps breaking-"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 173.46,
+   "end_sec": 184.58,
+   "dur_sec": 11.12,
+   "overlap": true,
+   "text": "No, that system is not a permanent sentence. You ignore the people who negotiate around it, protect routines, and create openings for change; resilience is the foundation from which recovery grows."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 184.804,
+   "end_sec": 196.404,
+   "dur_sec": 11.6,
+   "overlap": false,
+   "text": "I grant that resilience matters, and people deserve respect for it. But resilience is a response to disaster, not evidence that disaster can be overcome. A country trapped in recurring collapse remains lost."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 197.388,
+   "end_sec": 208.868,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Your phrase recurring collapse is the weak point, because it treats repetition as destiny. Crises can recur while people learn, adapt, and restore ties. Afghanistan's hardship does not make its future impossible."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 209.216,
+   "end_sec": 220.616,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "No, repetition is not destiny, but it can reveal a structure no one can escape. Learning and adapting cannot protect people when power changes hands again. That is why Afghanistan remains lost."
+  },
+  {
+   "i": 18,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 213.46,
+   "end_sec": 215.79,
+   "dur_sec": 2.33,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 221.471,
+   "end_sec": 224.26,
+   "dur_sec": 2.789,
+   "overlap": false,
+   "text": "If Afghanistan is truly lost, why do you treat its-",
+   "ext_file": "L093_ext_a32.wav",
+   "cut_at_sec": 219.85,
+   "full_dur_sec": 10.65
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 223.46,
+   "end_sec": 229.98,
+   "dur_sec": 6.52,
+   "overlap": true,
+   "text": "And that's time. And now we move into closing statements from each debater in turn, starting with Annie."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 230.18,
+   "end_sec": 250.34,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "My strongest point is the gap between individual courage and the power shaping the country. Families can endure, councils can negotiate, and children can return to school, yet each gain can be swept away by armed coercion. Calling Afghanistan lost recognizes the reality people are forced to live under. It also asks whether hope alone can"
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 250.18,
+   "end_sec": 252.14,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 250.54,
+   "end_sec": 261.48,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "replace power. Hope matters, but it cannot secure courts, protect agreements, or prevent another collapse. Until those foundations exist, describing Afghanistan as anything but lost confuses wishful-",
+   "cut_at_sec": 257.07,
+   "full_dur_sec": 14.24,
+   "ext_file": "L093_025.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 260.68,
+   "end_sec": 266.52,
+   "dur_sec": 5.84,
+   "overlap": true,
+   "text": "Thank you, your time is up. And here to summarize his position against the motion, Colin."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.72,
+   "end_sec": 276.52,
+   "dur_sec": 9.8,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether hardship cancels human agency. It does not: Afghanistan's future remains open wherever people protect one another and rebuild trust."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 275.62,
+   "end_sec": 277.92,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "You call agency enough, but agency-",
+   "cut_at_sec": 273.51,
+   "full_dur_sec": 9.09,
+   "ext_file": "L093_028.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 277.12,
+   "end_sec": 279.76,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "Hang on. Hang on. Go ahead, Colin."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 279.96,
+   "end_sec": 290.32,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "rebuild trust. A lost cause has no meaningful path at all, yet people keep creating paths through care, work, and local responsibility. Their efforts make the motion false."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 286.72,
+   "end_sec": 289.49,
+   "dur_sec": 2.77,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 290.52,
+   "end_sec": 298.38,
+   "dur_sec": 7.86,
+   "overlap": false,
+   "text": "Afghanistan deserves honest support, not a verdict that its people and future are beyond saving. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 298.58,
+   "end_sec": 305.1,
+   "dur_sec": 6.52,
+   "overlap": false,
+   "text": "Thank you, Annie and Colin, for a thoughtful debate. This concludes our discussion of the motion for today."
+  }
+ ]
+}

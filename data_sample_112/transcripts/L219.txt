@@ -1,0 +1,38 @@
+L219  |  Sex offender registries do more harm than good.
+  MOD=Nina   PRO=Jorge   CON=Henry
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Nina(MOD): Welcome. The motion is that sex offender registries do more harm than good. Jorge supports the motion, and Henry opposes it. Each speaker gets thirty seconds to open, then two and a half minutes of crossfire, followed by thirty-second closings. Address one another directly, and I will give a ten-second cue.
+[t01] Jorge(PRO): Registries turn a past conviction into a permanent public label. They can block housing, work, and support, making stability harder and risk worse. Targeted supervision can protect people without exposing whole lives to public punishment. That's all, thank you.
+[t02] @A2-2 Nina(MOD): All right. Let me bring it back to Henry.
+[t03] Henry(CON): Registries are not repeated punishment; they are warnings that let people make safer choices. A public notice can help families avoid preventable danger. We should improve unfair rules, not erase a tool that can protect vulnerable people. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Nina(MOD): And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t05] Jorge(PRO): Henry, if public listings force people out of housing and work, how do they make communities safer? Explain why instability after punishment is worth the damage you deny.
+[t06] Henry(CON): Families need clear guidance when choosing schools, neighborhoods, and babysitters; that peace of mind matters. But the motion concerns overall effects, and a visible warning can prevent danger, so registries do more good.
+[t07] Jorge(PRO): Every registry listing always harms more than it helps. Its public label blocks ordinary stability long after a sentence, pushing people away from services instead of making anyone safer.
+[t08] Henry(CON): I grant that clumsy rules can make housing and work harder. Yet that flaw argues for narrower listings, not abolition, because people deserve warning about serious risks; registries can do more good than harm.
+[t09] Jorge(PRO): This registry listing does not harm more than it helps. A person convicted of a grave offense should appear publicly, because neighbors need warning; that exception still leaves registries broadly harmful.
+[t10] @B2 Nina(MOD): So what I hear was on the one hand, you found yourself saying every registry listing always harms more than it helps. And then on the other hand, this registry listing does not harm more than it helps.
+[t11] Jorge(PRO): Both statements stand because a label can occasionally warn, while routine public exposure causes wider damage. One useful listing does not erase lost homes, work, treatment, and safety; registries remain harmful.
+[t12] <cut> Henry(CON): If secrecy and instability truly protect people, why would a neighbor not deserve notice about someone with a serious record? Tell me how removing that warning protects a family when danger returns to-
+[t13] <ovl> Jorge(PRO): I reject that premise: public exposure is not the same as protection. You ignore that housing loss and isolation can increase risk, while private supervision can warn those who actually need to know.
+[t14] Henry(CON): Your weakest claim is that private supervision can replace a public warning. Officials cannot stand beside every household, and selective notice leaves ordinary neighbors unaware; a registry gives them a practical chance to avoid harm.
+[t15] Jorge(PRO): I agree that some neighbors want information and deserve safety. But a public list is a blunt tool that invites panic and exclusion without proving protection, so registries cause more harm than good.
+[t16] Henry(CON): Imagine a caregiver checking a registry before hiring a new helper and discovering a serious past offense. That warning lets the caregiver choose someone else before harm occurs; it proves registries can protect people more than they harm.
+[t17] @A4 <ovl> Nina(MOD): Ten.
+[t18] <cut> Jorge(PRO): No, that example does not prove a registry protected anyone; it assumes the public label predicts future-
+
+--- phase 3 ---
+[t19] @A3-2 <ovl> Nina(MOD): That's time. And now we move on to Round three. And first to make his statement in support of the motion, Jorge.
+[t20] Jorge(PRO): This motion turns on whether a public label delivers safety or spreads damage. We heard that it can strip housing, work, and connection from people who need stability, while a single warning does not establish broad protection. Better, targeted safeguards can protect those at risk without making exclusion a permanent public punishment.
+[t21] @A4 <ovl> Nina(MOD): I'll give you ten more seconds to nail this.
+[t22] Jorge(PRO): That is why public registries clearly create harms that outweigh their limited, uncertain warnings. That's all, thank you.
+[t23] @A2-2 Nina(MOD): Let him come back on that.
+[t24] Henry(CON): Deciding this motion turns not on whether registries are perfect, but whether public warning can prevent avoidable harm. Jorge showed that poor design can burden people. That is real, and rules should be narrow. But removing a useful warning leaves families uninformed when careful reform can preserve its benefit.
+[t25] @A4 <ovl> Nina(MOD): Well, now it's ten.
+[t26] <cut> Henry(CON): A registry can be limited, reviewed, and paired with support, but its basic purpose remains simple: warn people before they make a vulnerable choice. The real harm comes-
+[t27] @A1 <ovl> Nina(MOD): I'm sorry, I'm sorry. Hit time.
+[t28] Nina(MOD): Thank you both. This concludes our debate on whether sex offender registries do more harm than good.

@@ -1,0 +1,40 @@
+L025  |  The Egyptian military is not interested in genuine reform
+  MOD=Mira   PRO=Frederick   CON=Sheldon
+  crossfire 150s (actual Nones)
+
+--- phase 1 ---
+[t00] Mira(MOD): The motion is "the Egyptian military is not interested in genuine reform." Frederick takes the FOR side; Sheldon takes the AGAINST side. Each opening gets thirty seconds. Crossfire lasts two and a half minutes, followed by thirty-second closings. I'll give a ten-second cue, and I may cut in when time ends.
+[t01] Frederick(PRO): The military protects its privileges while presenting limited change as reform. Genuine reform would surrender lasting control over budgets, courts, and security decisions, yet its gestures preserve those levers. That pattern shows interest in appearance, not transformation.
+[t02] @A2-2 Mira(MOD): Okay. Sheldon, you're in.
+[t03] Sheldon(CON): The military can support reform without abandoning every institutional safeguard. Limited steps may build civilian capacity and trust, so gradual change does not prove bad faith.
+[t04] <ovl> <cut> Frederick(PRO): Gradual change is exactly the shield: promise-
+[t05] @A5 <ovl> Mira(MOD): Let him answer please.
+[t06] Sheldon(CON): Reform can begin with limited oversight and still become meaningful. If civilian bodies gain authority, revise rules, and test compliance, the military's willingness to accept those steps supports genuine reform.
+[t07] @A4 <ovl> Mira(MOD): Ten seconds please.
+[t08] Sheldon(CON): You cannot call every gradual process a disguise; real acceptance can grow through tested steps.
+--- phase 2 ---
+[t09] @A3-1 Mira(MOD): And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Frederick(PRO): Your gradual process is not proof of reform; controlled oversight can be cosmetic. If the military keeps final vetoes, its interest remains limited to managed change.
+[t11] Sheldon(CON): Consider officers accepting a civilian review panel, publishing its decisions, and obeying a ruling that cuts their authority. That concrete surrender shows interest in genuine reform.
+[t12] Frederick(PRO): That panel would need trained staff, clear filing rules, and secure records. Building those records resembles the careful work of preserving old manuscripts in a national archive.
+[t13] @B1 Mira(MOD): But, how do you relate that to the egyptian military is not interested in genuine reform? Land that on the egyptian military is not interested in genuine reform.
+[t14] Frederick(PRO): It relates directly because accepting that panel means surrendering a veto, not merely announcing change. A military that permits independent rulings shows genuine reform is possible, but yours has not.
+[t15] Sheldon(CON): The issue also touches school curricula and public trust, since citizens learn what institutions model. Still, those details matter only because durable civilian authority is the test, and that test remains unmet.
+[t16] Frederick(PRO): No military ever accepts reform that limits its power. Its public promises are therefore tactics, not transformation.
+[t17] Sheldon(CON): That rule is too absolute: a military can accept limits when civilian institutions make them binding. Your conclusion confuses unwillingness with the absence of reform.
+[t18] Frederick(PRO): In one budget review, it accepted reform that limited its power. That case proves institutional pressure can force genuine change, even if motives remain mixed.
+[t19] @B2 Mira(MOD): But doesn't your argument for no military ever accepts reform that limits its power fight your argument that in one budget review, it accepted reform that limited its power?
+[t20] Frederick(PRO): I mean the military does not willingly accept such reform; a civilian budget review can impose it despite resistance. Forced compliance shows reform is possible, not that the military genuinely wants it.
+[t21] <cut> Sheldon(CON): That distinction empties your claim of meaning: if the military accepts limits, genuine reform exists, whatever its private motives. Calling imposed change irrelevant simply protects your conclusion because-
+[t22] <ovl> Frederick(PRO): No, imposed limits matter precisely because they expose resistance. If reform occurs only under pressure, that proves the military is not interested in genuine reform; outcomes cannot erase motive.
+[t23] Sheldon(CON): If civilian institutions can impose binding limits and the military obeys them, what exactly would count as genuine reform under your standard? Must the military welcome losing power?
+[t24] @A4 <ovl> Mira(MOD): You've got ten seconds.
+[t25] <cut> Frederick(PRO): Binding limits count as reform, but obedience under pressure does not show interest in it. Your example proves civilian leverage can work, while my claim concerns the-
+--- phase 3 ---
+[t26] @A3-2 <ovl> Mira(MOD): Time's up. This concludes round two of the debate. Frederick.
+[t27] Frederick(PRO): Sheldon's best point is that imposed limits can still produce useful reform. I agree that outcomes matter, but this motion asks about the military's interest, not whether pressure can extract concessions. Its controlled reviews, preserved vetoes, and selective compliance reveal a desire to manage change while retaining power. Genuine reform requires.
+[t28] @A4 <ovl> Mira(MOD): I can give you ten seconds to do this.
+[t29] Frederick(PRO): The issue is whether the military seeks to surrender power. Its pattern says no: pressure wins concessions, but not genuine reform. That is why the motion stands.
+[t30] @A2-2 Mira(MOD): Just one brief comment, Sheldon.
+[t31] Sheldon(CON): This motion turns on evidence, not suspicion. A military can resist some proposals yet accept independent oversight, obey civilian rulings, and correct abuses; those are genuine reforms. Frederick keeps treating mixed motives as proof of total disinterest, but real institutions change unevenly. Judge the reforms they permit, not the motives we imagine.
+[t32] Mira(MOD): Thank you both for a thoughtful debate; this debate is now closed, with no winner declared.

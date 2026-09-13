@@ -1,0 +1,379 @@
+{
+ "debate_id": "L034",
+ "motion": "Trump is bad for comedy",
+ "speakers": {
+  "MOD": {
+   "name": "Emma",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1266_611",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1266/MSP-PODCAST_1266_611.wav",
+   "wpm": 163.47
+  },
+  "PRO": {
+   "name": "Aaron",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  },
+  "CON": {
+   "name": "Kate",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  }
+ },
+ "selective": [
+  "A1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 84.96,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 292.85,
+ "ext": {
+  "a32": {
+   "file": "L034_ext_a32.wav",
+   "place_at_sec": 230.194,
+   "dur_sec": 23.76,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Saturation alone does not prove harm; comedy can reject a crowded subject and keep creating elsewhere. Your definition treats attention as damage, but Trump's abundance gives comedians choices, so he is not bad for comedy."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.89,
+   "dur_sec": 16.89,
+   "overlap": false,
+   "text": "The motion is: Trump is bad for comedy. Aaron takes the FOR side, and Kate takes the AGAINST side. Each debater gets thirty seconds to open, then two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue during each timed section."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.09,
+   "end_sec": 35.55,
+   "dur_sec": 18.46,
+   "overlap": false,
+   "text": "Trump is bad for comedy because he turns public life into repetition: the same outrage, the same insults, the same easy punchline. Comedy needs surprise and room to question power, but his spectacle overwhelms both. When one personality consumes every joke, comedy becomes narrower, not stronger. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 35.75,
+   "end_sec": 39.04,
+   "dur_sec": 3.29,
+   "overlap": false,
+   "text": "Kate? Do you want to try this one on?"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 39.24,
+   "end_sec": 60.96,
+   "dur_sec": 21.72,
+   "overlap": false,
+   "text": "I disagree. Trump gives comedians a clear target, but clear targets are useful; they create shared references, sharp contrasts, and endless material. Comedy does not need a calm subject to thrive. It needs tension, absurdity, and a public figure willing to make himself ridiculous. Trump supplies all three, and audiences can laugh at power without losing their freedom to laugh elsewhere."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 59.24,
+   "end_sec": 60.61,
+   "dur_sec": 1.37,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 61.16,
+   "end_sec": 70.54,
+   "dur_sec": 9.38,
+   "overlap": false,
+   "text": "His presence does not erase other subjects; it adds another one. If comedians choose him too often, that is a creative choice, not proof that comedy-",
+   "cut_at_sec": 68.48,
+   "full_dur_sec": 17.12,
+   "ext_file": "L034_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 69.74,
+   "end_sec": 71.77,
+   "dur_sec": 2.03,
+   "overlap": true,
+   "text": "I'm gonna cut you off just for time."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.97,
+   "end_sec": 87.02,
+   "dur_sec": 15.05,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 87.22,
+   "end_sec": 97.98,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "No, the premise that material automatically helps comedy is wrong. Abundance can become saturation; when every joke returns to Trump, other voices disappear, and comedy becomes reactive instead of inventive."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 98.962,
+   "end_sec": 109.772,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "No political figure should ever harm comedy. I believe even an exhausting figure can provide contrast, conflict, and material, so Trump is not bad for comedy; he keeps comic attention alive."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 110.184,
+   "end_sec": 121.224,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Your weakest point is calling constant attention a benefit. Repetition is not variety, and endless material about one figure crowds out subjects, risks, and perspectives that comedy needs to stay creative."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 121.63,
+   "end_sec": 131.71,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "Trump should harm comedy. That ugliness gives comedians a target, and a target is opportunity, not a damaged art form; his effect proves comedy's resilience, not its decline."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 131.91,
+   "end_sec": 137.4,
+   "dur_sec": 5.49,
+   "overlap": false,
+   "text": "They do no political figure should ever harm comedy or they should trump should harm comedy?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 137.6,
+   "end_sec": 152.89,
+   "dur_sec": 15.29,
+   "overlap": false,
+   "text": "The statements address different meanings of harm. No political figure should ever harm comedy as an art form, while Trump should harm comedy in the comic sense: he should make bad behavior visible and mockable. That use strengthens comedy rather than ruining it."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 153.755,
+   "end_sec": 165.955,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "If Trump supplies such valuable material, why do comedians keep returning to the same narrow performance instead of widening the field? Doesn't that dependence show he is crowding comedy out rather than helping it-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 165.055,
+   "end_sec": 176.985,
+   "dur_sec": 11.93,
+   "overlap": true,
+   "text": "No, dependence is your assumption, not my claim. Comedians can return to him because he remains funny, then move elsewhere whenever they choose; that flexibility shows Trump expands comedy's options, rather than damaging them."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 177.889,
+   "end_sec": 191.489,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "Public attention can affect news coverage, celebrity, and political discussion, and those are related concerns. But comedy is the issue here: when one figure dominates the joke cycle, the art loses range, so Trump is bad for comedy."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 192.475,
+   "end_sec": 205.715,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "You call dominance a loss of range, but you have not shown that audiences or comedians lack other choices. A crowded topic is still a topic, and choosing it repeatedly can reflect opportunity, not injury to comedy."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 205.934,
+   "end_sec": 218.134,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "I'll grant that Trump offers some genuinely funny moments. But useful material is not the same as a healthy comic environment; his repetition and dominance make comedy narrower, so Trump is bad for comedy."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 218.881,
+   "end_sec": 231.451,
+   "dur_sec": 12.57,
+   "overlap": false,
+   "text": "You answered the material point by changing it into an environment point. Even if Trump dominates attention briefly, comedians can challenge him, parody him, or ignore him; that freedom means he is not bad for comedy."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 227.02,
+   "end_sec": 229.43,
+   "dur_sec": 2.41,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 232.254,
+   "end_sec": 237.82,
+   "dur_sec": 5.566,
+   "overlap": false,
+   "text": "If comedy is healthy while one subject dominates its attention, what would count as harmful at all-",
+   "ext_file": "L034_ext_a32.wav",
+   "cut_at_sec": 235.76,
+   "full_dur_sec": 11.12
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 237.02,
+   "end_sec": 244.87,
+   "dur_sec": 7.85,
+   "overlap": true,
+   "text": "Time. And that concludes round two of this debate. We're going to go to closing arguments now. And so, first up, Aaron."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 245.07,
+   "end_sec": 265.35,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Kate's best point is that Trump supplies material, and I grant that some of it is funny. But comedy is more than having a target. It needs variety, distance, and surprise, while Trump's constant spectacle pulls attention toward the same exhausted conflict. That makes the material abundant but the art narrower, which is why he is bad for comedy, because."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 265.07,
+   "end_sec": 266.95,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 265.55,
+   "end_sec": 273.68,
+   "dur_sec": 8.13,
+   "overlap": false,
+   "text": "A target can feed jokes, but a culture of one target starves comedy's wider imagination. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 273.88,
+   "end_sec": 276.69,
+   "dur_sec": 2.81,
+   "overlap": false,
+   "text": "Let me bring back Kate, please. Thanks."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 276.89,
+   "end_sec": 293.79,
+   "dur_sec": 16.9,
+   "overlap": false,
+   "text": "Aaron confuses saturation with damage. Trump may dominate some conversations, but comedians still choose their subjects and can turn his absurdity into satire, parody, or fresh contrast. He gives comedy a difficult, productive subject, so he is not bad for comedy. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 293.99,
+   "end_sec": 299.22,
+   "dur_sec": 5.23,
+   "overlap": false,
+   "text": "Thank you both for taking part; that concludes the debate, with no winner declared."
+  }
+ ]
+}

@@ -1,0 +1,426 @@
+{
+ "debate_id": "L028",
+ "motion": "Obama’s Iran Deal Is Good For America",
+ "speakers": {
+  "MOD": {
+   "name": "Simon",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3536_194",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3536/MSP-PODCAST_3536_194.wav",
+   "wpm": 173.7
+  },
+  "PRO": {
+   "name": "Annette",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2943_167",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2943/MSP-PODCAST_2943_167.wav",
+   "wpm": 160.94
+  },
+  "CON": {
+   "name": "Caroline",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 85.9,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 295.46,
+ "ext": {
+  "a32": {
+   "file": "L028_ext_a32.wav",
+   "place_at_sec": 230.119,
+   "dur_sec": 22.76,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Annette's claim that the deal reduces the gravest risk is weakest because it treats delay as safety. If restrictions end while Iran keeps its capability, the danger remains, so the deal cannot be good for America."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.64,
+   "dur_sec": 15.64,
+   "overlap": false,
+   "text": "Today's motion is, \"Obama's Iran Deal Is Good For America.\" Annette argues for the motion, and Caroline argues against it. Each gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I'll give a ten-second cue before each limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.84,
+   "end_sec": 35.4,
+   "dur_sec": 19.56,
+   "overlap": false,
+   "text": "The Iran deal is good for America because it blocks Iran's path to a nuclear weapon through inspections, limits, and time. It reduces the danger of war while keeping pressure available if Iran cheats. That combination protects Americans and gives diplomacy a real chance to work."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 35.6,
+   "end_sec": 47.14,
+   "dur_sec": 11.54,
+   "overlap": false,
+   "text": "Caroline may say trust is impossible, but this agreement does not depend on trust. It depends on verification, consequences, and allies working together. Without it, restrictions fade and the risk rises, so rejecting-",
+   "cut_at_sec": 47.14,
+   "full_dur_sec": 13.72,
+   "ext_file": "L028_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 35.84,
+   "end_sec": 36.72,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 46.34,
+   "end_sec": 48.78,
+   "dur_sec": 2.44,
+   "overlap": true,
+   "text": "That's time, thank you. Caroline, the floor is yours."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 48.98,
+   "end_sec": 68.54,
+   "dur_sec": 19.56,
+   "overlap": false,
+   "text": "The deal is not good for America because it trades lasting security for temporary limits and promises inspections cannot fully guarantee. Iran receives relief that strengthens its resources and influence, while key restrictions eventually expire. A dangerous government gains time, money, and legitimacy without giving up its long-term ambition."
+  },
+  {
+   "i": 6,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 68.74,
+   "end_sec": 73.98,
+   "dur_sec": 5.24,
+   "overlap": false,
+   "text": "A pause is not a solution when the threat returns stronger and better prepared."
+  },
+  {
+   "i": 7,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 68.98,
+   "end_sec": 70.38,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 74.18,
+   "end_sec": 85.9,
+   "dur_sec": 11.72,
+   "overlap": false,
+   "text": "That concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 86.1,
+   "end_sec": 97.82,
+   "dur_sec": 11.72,
+   "overlap": false,
+   "text": "Caroline's claim that restrictions simply expire ignores the deal's permanent inspections and the cost of cheating. Those tools expose violations and rebuild pressure. Ending the agreement would remove restraints immediately, not protect America later."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 98.791,
+   "end_sec": 109.711,
+   "dur_sec": 10.92,
+   "overlap": false,
+   "text": "If an agreement gives relief before Iran abandons its dangerous ambitions, America should reject it, because relief can fund influence while inspections miss hidden work. That condition makes this deal harmful, not protective."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 110.169,
+   "end_sec": 122.449,
+   "dur_sec": 12.28,
+   "overlap": false,
+   "text": "I reject the premise that relief arrives without safeguards; it follows verified steps and can be challenged after cheating. Your alternative removes limits now, leaving America with fewer peaceful options and a greater chance of war."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 123.172,
+   "end_sec": 134.652,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "The details of inspections matter, and so does the money available after sanctions relief. American families also care about safety at home, not just diplomatic language. That is why this deal fails the motion."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 135.314,
+   "end_sec": 146.874,
+   "dur_sec": 11.56,
+   "overlap": false,
+   "text": "If your concern is future risk, why remove the present limits that delay it and give inspectors access? Calling the deal imperfect does not explain why immediate danger is preferable to monitored restraint."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 147.605,
+   "end_sec": 160.285,
+   "dur_sec": 12.68,
+   "overlap": false,
+   "text": "Picture sanctions relief reaching an Iranian government that supports armed partners abroad; those resources can expand pressure on American interests while the nuclear limits count down. That example proves the deal can buy danger, not security."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 160.575,
+   "end_sec": 172.295,
+   "dur_sec": 11.72,
+   "overlap": false,
+   "text": "Caroline's example assumes every dollar becomes an attack, but the deal's value is preventing a nuclear crisis while other threats remain contestable. A contained nuclear risk is better for America than an unchecked one."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 172.803,
+   "end_sec": 183.883,
+   "dur_sec": 11.08,
+   "overlap": false,
+   "text": "Any deal that leaves a hostile government able to approach a bomb later is unsafe, even if it slows that approach today. Temporary distance cannot make the final danger acceptable for America."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 184.835,
+   "end_sec": 196.075,
+   "dur_sec": 11.24,
+   "overlap": false,
+   "text": "I reject the idea that slowing danger has no value; time lets America inspect, coordinate, and respond before a crisis. Your standard demands perfect safety, while this deal delivers a safer, enforceable path."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 196.578,
+   "end_sec": 207.178,
+   "dur_sec": 10.6,
+   "overlap": false,
+   "text": "I grant that inspections offer information, but information is not prevention when limits expire and violations may hide. The agreement normalizes concessions without securing the future, so America should reject it."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 207.687,
+   "end_sec": 217.327,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "If you fear hidden violations, why prefer no inspection regime at all? Without this deal, what gives America earlier warning than the access and monitoring you are dismissing?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 217.922,
+   "end_sec": 229.562,
+   "dur_sec": 11.64,
+   "overlap": false,
+   "text": "Imagine Iran using released funds to equip forces threatening Americans while negotiators call the nuclear file stable. That concrete harm shows the deal can strengthen hostile conduct, proving it is not good for America."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 225.9,
+   "end_sec": 226.42,
+   "dur_sec": 0.52,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 230.119,
+   "end_sec": 236.7,
+   "dur_sec": 6.581,
+   "overlap": false,
+   "text": "Caroline's released-funds example changes the question from nuclear security to every regional grievance. The motion turns on whether-",
+   "ext_file": "L028_ext_a32.wav",
+   "cut_at_sec": 236.7,
+   "full_dur_sec": 10.28
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 235.9,
+   "end_sec": 245.3,
+   "dur_sec": 9.4,
+   "overlap": true,
+   "text": "And that's time. Now, we move on to round three, and round three are closing statements by each debater in turn. And making her closing statement, Annette."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 245.5,
+   "end_sec": 254.74,
+   "dur_sec": 9.24,
+   "overlap": false,
+   "text": "This motion turns on whether America is safer with enforceable limits and inspections than without them. The deal gives us time, knowledge, and leverage."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 253.84,
+   "end_sec": 256.14,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But you cannot call temporary limits safety-",
+   "cut_at_sec": 256.14,
+   "full_dur_sec": 9.08,
+   "ext_file": "L028_026.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 255.34,
+   "end_sec": 258.66,
+   "dur_sec": 3.32,
+   "overlap": true,
+   "text": "Let Annette say something, then you, and then we're going to wrap."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 258.86,
+   "end_sec": 268.58,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "The deal does not disguise anything; its limits, inspections, and consequences are visible. America gains leverage by keeping Iran constrained and partners united."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 265.5,
+   "end_sec": 266.42,
+   "dur_sec": 0.92,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 268.78,
+   "end_sec": 274.34,
+   "dur_sec": 5.56,
+   "overlap": false,
+   "text": "Rejecting that leverage would not remove the threat; it would remove our best peaceful safeguard."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 274.54,
+   "end_sec": 275.94,
+   "dur_sec": 1.4,
+   "overlap": false,
+   "text": "It's Caroline's turn to talk."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 276.14,
+   "end_sec": 291.7,
+   "dur_sec": 15.56,
+   "overlap": false,
+   "text": "The strongest point is that inspections and limits sound safer today. But today is not the whole deal: restrictions expire, Iran receives relief, and its broader conduct remains dangerous. America should not trade lasting security for a temporary pause that leaves the central threat alive."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 291.9,
+   "end_sec": 295.46,
+   "dur_sec": 3.56,
+   "overlap": false,
+   "text": "Thank you both. That concludes the debate; no winner is declared."
+  }
+ ]
+}

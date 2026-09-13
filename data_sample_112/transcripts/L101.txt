@@ -1,0 +1,43 @@
+L101  |  The Middle East road map for peace is dead.
+  MOD=Nadine   PRO=Ingrid   CON=Larry
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Nadine(MOD): Welcome. Our motion is: the Middle East road map for peace is dead. Ingrid argues for the motion, and Larry argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue.
+[t01] Ingrid(PRO): This road map is dead because its promised sequence has lost force. Key steps were meant to build trust, yet delay became normal and each side learned to wait. A plan survives through action, not through ceremonial references. When the deadlines pass without consequence, the document becomes an archive rather than a path. Its language remains, but its leverage has gone.
+[t02] @A4 <ovl> Nadine(MOD): Just, just about ten seconds left.
+[t03] Ingrid(PRO): Larry may call continued discussion proof of life, but discussion without the map's required steps is replacement, not revival. The road map no longer directs decisions, so it is dead. That's all, thank you.
+[t04] @A2-2 Nadine(MOD): Larry, the floor is yours.
+[t05] Larry(CON): Ingrid mistakes failure and delay for death. A road map is a framework, and frameworks can endure when leaders lack the courage to use them. Its central bargain still identifies what both sides must eventually address. That matters because talks need a shared route, not merely goodwill. The plan is wounded and neglected, but it remains a usable guide.
+[t06] @A4 <ovl> Nadine(MOD): Ten seconds.
+[t07] Larry(CON): A document is dead only when its goals are abandoned by everyone. The goals here still shape negotiations, so calling the road map dead confuses frustration with finality. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Nadine(MOD): And that concludes round one. Now, onto round two where the debaters will address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t09] Larry(CON): You say missed deadlines make the plan an archive, but deadlines are tools, not its whole substance. The route still names the unresolved issues, so it can organize progress whenever commitment returns.
+[t10] Ingrid(PRO): Every road map always needs active implementation. Larry, where is the implementation when the promised steps are repeatedly postponed and the plan no longer directs either side's choices?
+[t11] Larry(CON): I reject your premise that postponement means the plan directs no choices. Implementation can restart, and the enduring framework gives negotiators a route back instead of forcing them to invent peace anew.
+[t12] Ingrid(PRO): This road map does not need active implementation. Its collapse already shows that a framework can linger on paper while losing authority, which is precisely why this particular road map is dead.
+[t13] @B2 Nadine(MOD): So it's not much of every road map always needs active implementation if this road map does not need active implementation, is it?
+[t14] Ingrid(PRO): Both statements fit because a living road map needs action, while this one has become evidence of what happens without it. Its paper survival is not political life; its absent implementation proves the motion.
+[t15] Larry(CON): When both sides return to direct bargaining, the road map remains useful because it supplies familiar steps and a common vocabulary. That conditional value means it is dormant, not dead.
+[t16] Ingrid(PRO): Your conditional value is the weakness: a map that matters only after bargaining restarts does not cause bargaining or guide it now. You call it useful precisely when something else has already revived diplomacy.
+[t17] Larry(CON): A road map can survive long neglect if its goals remain necessary to any settlement. How can a document be dead while dialogue still circles the same destination it describes?
+[t18] <cut> Ingrid(PRO): Dialogue can continue without this document, so your premise fails. The same destination does not keep an abandoned route alive; people can seek peace through new terms, new channels, and new-
+[t19] <ovl> Larry(CON): No, changing channels does not erase the underlying framework. If new talks still confront the same staged choices, the road map has shaped the field and remains available for use.
+[t20] Ingrid(PRO): Your "underlying framework" point confuses shared problems with a living plan. Any peace effort faces those problems, but this road map's own sequence has stopped commanding action, which makes it dead.
+[t21] Larry(CON): Imagine negotiators reopening talks after a long freeze and needing a starting draft. They use the road map's staged commitments to avoid beginning from nothing. That proves it remains a practical instrument.
+[t22] @A4 <ovl> Nadine(MOD): About ten seconds left in the crossfire.
+[t23] <cut> Ingrid(PRO): Your starting-draft example actually proves-
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Nadine(MOD): And that's time. Okay, here's where we are, we are about to hear closing statements from each debater in turn. So here, making her final argument for the motion, Ingrid.
+[t25] Ingrid(PRO): Larry's best point is that the framework could be borrowed in future talks. But possible reuse is not present life: its deadlines, sequence, and authority have all failed. Peace may still be pursued, yet this road map no longer leads it. That is why the motion is true. That's all, thank you.
+[t26] @A2-2 Nadine(MOD): Ingrid, let me, let me bring in Larry.
+[t27] Larry(CON): This decision turns on whether inactivity destroys a plan or merely suspends it. A framework with unresolved goals can still guide a future settlement,
+[t28] <ovl> <cut> Ingrid(PRO): Larry keeps treating future usefulness as current-
+[t29] @A5 <ovl> Nadine(MOD): Can we let him reply please?
+[t30] Larry(CON): This decision turns on whether inactivity destroys a plan or merely suspends it. The road map still supplies a recognizable route for future agreement.
+[t31] @A4 <ovl> Nadine(MOD): Larry, ten seconds.
+[t32] Larry(CON): Its weakness is real, but its remaining purpose means it is not dead. That's all, thank you.
+[t33] Nadine(MOD): Thank you, Ingrid and Larry, for a vigorous debate. That concludes our discussion of the motion.

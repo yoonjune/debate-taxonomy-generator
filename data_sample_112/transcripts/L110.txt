@@ -1,0 +1,42 @@
+L110  |  Mass collection of U.S. phone records violates the Fourth Amendment
+  MOD=Victor   PRO=Karen   CON=Amy
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Victor(MOD): Welcome. Tonight's motion is: mass collection of U.S. phone records violates the Fourth Amendment. Karen argues for it, and Amy argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address each other directly and stay with the motion.
+[t01] Karen(PRO): Mass collection turns private patterns into a permanent map of ordinary life. The Fourth Amendment protects people from broad government searches, not merely from officers touching a phone. When officials gather everyone's calling history before suspicion, they search first and justify later. That reverses the constitutional safeguard. That's all, thank you.
+[t02] @A2-2 Victor(MOD): All right, let's give Amy a chance to reply.
+[t03] Amy(CON): Phone records are routing facts held by service companies, not the content of anyone's conversation. The government may examine those records under lawful process.
+[t04] <ovl> <cut> Karen(PRO): But that label misses the harm: a list-
+[t05] @A5 <ovl> Victor(MOD): No. Let Amy come in. Please.
+[t06] Amy(CON): rather than private papers. That limited review is not a search of a person's private life at all under the amendment as written today.
+[t07] @A4 <ovl> Victor(MOD): Well, now ten.
+[t08] Amy(CON): The amendment restrains unreasonable searches, and obtaining company-held routing data reasonably does not violate it. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Victor(MOD): Now we move on to round two. And round two is where the debaters address each other in turn. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Amy(CON): Karen says collection reverses safeguards, but records already exist for billing and connection. Receiving them does not enter a home, read speech, or seize a device.
+[t11] Karen(PRO): The real protection is building strict limits on who may use records, how long agencies retain them, and whether workers face discipline for misuse. Strong oversight prevents abuse.
+[t12] @B1 Victor(MOD): Can we please go back to the question at hand? We're going to go back to the question at issue.
+[t13] Karen(PRO): The question is whether mass collection itself violates the Fourth Amendment, and it does because it gathers intimate associations without individualized cause. Oversight cannot erase an unconstitutional search.
+[t14] Amy(CON): Public trust also suffers when secret programs operate without clear notice, though public confidence alone is not the legal test. The legal question remains search, and collection is not one.
+[t15] Karen(PRO): Amy's point that collection is not a search ignores what the government learns by combining records: relationships, routines, and vulnerable moments. That is exactly the privacy the amendment shields.
+[t16] Amy(CON): No collection of phone records violates the Fourth Amendment. A record of numbers and times is a company document, so receiving it does not invade a person's protected space.
+[t17] Karen(PRO): Amy's absolute claim fails because mass collection is not simply receiving one company's document. It creates a detailed portrait of every person's associations, which is the invasion.
+[t18] Amy(CON): This collection of phone records violates the Fourth Amendment. When officials sweep up everyone's patterns, the program becomes too broad, yet the amendment still does not forbid all routine records.
+[t19] @B2 Victor(MOD): So it's not much of no collection of phone records violates the Fourth Amendment if this collection of phone records violates the Fourth Amendment, is it?
+[t20] Amy(CON): My first statement addresses ordinary acquisition, while my second addresses this vast program's practical reach. A rule can recognize records as nonprivate yet condemn an agency's careless handling of them.
+[t21] <cut> Karen(PRO): No, those statements cannot both define the law, because her first leaves no room for this program. Amy now admits scale changes the privacy invasion, which shows mass collection is-
+[t22] <ovl> Amy(CON): Scale does not transform a business record into private content, and that is the mistake. A warehouse may hold many ordinary files without each file becoming a constitutional search.
+[t23] Karen(PRO): I agree content deserves especially strong protection, but metadata can reveal nearly as much through patterns. The government's decision to gather it indiscriminately violates the Fourth Amendment.
+[t24] @A4 <ovl> Victor(MOD): Ten seconds, ten seconds.
+[t25] <cut> Amy(CON): Karen's pattern claim assumes inference equals a search, but an inference is not entry into private life. The amendment regulates government searches-
+
+--- phase 3 ---
+[t26] @A3-2 <ovl> Victor(MOD): That's time. Now we move on to round three. Karen will go first, arguing for the resolution. Karen, the floor is yours.
+[t27] Karen(PRO): Phone records are not empty labels. In bulk, they reveal who we rely on, where our lives turn, and what associations we keep. The amendment requires a reason before government builds that map, not a promise to use it carefully afterward. Mass collection therefore violates the Fourth Amendment. That's all, thank you.
+[t28] @A2-2 Victor(MOD): Amy, you have the last word.
+[t29] Amy(CON): Karen treats useful patterns as if they were private papers, but the amendment's line is government intrusion into protected life. Phone companies create routing records to connect calls, and lawful access to those records does not inspect conversation or enter a home. The real danger is giving constitutional labels to every administrative record, because that would.
+[t30] @A4 <ovl> Victor(MOD): I'll give you ten more seconds to nail this.
+[t31] Amy(CON): freeze ordinary investigations, even when officials seek only routing facts, not anyone's words or private space. That's all, thank you.
+[t32] Victor(MOD): Thank you both for a thoughtful debate. This concludes our discussion of mass collection and the Fourth Amendment.

@@ -1,0 +1,426 @@
+{
+ "debate_id": "L063",
+ "motion": "Globalization has undermined America's working class.",
+ "speakers": {
+  "MOD": {
+   "name": "Stanley",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3981_550",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_3981/MSP-PODCAST_3981_550.wav",
+   "wpm": 173.5
+  },
+  "PRO": {
+   "name": "Jillian",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0941_297",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0941/MSP-PODCAST_0941_297.wav",
+   "wpm": 170.38
+  },
+  "CON": {
+   "name": "Mari",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5814_1013",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5814/MSP-PODCAST_5814_1013.wav",
+   "wpm": 156.66
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 73.79,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 288.49,
+ "ext": {
+  "a32": {
+   "file": "L063_ext_a32.wav",
+   "place_at_sec": 211.519,
+   "dur_sec": 33.55,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Your clothing-worker example shows a painful transition, not a permanent verdict. Workers can move into suppliers, repair services, and new production, so one closure does not prove globalization undermined the class."
+  },
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Your weakest move is calling every replacement job comparable. A repair job with uncertain hours cannot replace skilled production with steady pay, so globalization has undermined the working class."
+  },
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "I grant that workers need support during major changes. But blaming exchange alone ignores new work and worker initiative, so globalization has not undermined America's working class."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.84,
+   "dur_sec": 17.84,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is: Globalization has undermined America's working class. Jillian speaks for the motion, and Mari speaks against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. Speak directly, stay on the motion, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.04,
+   "end_sec": 32.3,
+   "dur_sec": 14.26,
+   "overlap": false,
+   "text": "Globalization gave companies an exit while workers were left bargaining alone. Factories and skills can be moved, but families cannot simply move with them. That imbalance has weakened pay, security, and power for America's working class. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 32.5,
+   "end_sec": 35.14,
+   "dur_sec": 2.64,
+   "overlap": false,
+   "text": "Now her summation against the motion, Mari."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 35.34,
+   "end_sec": 45.3,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "The claim mistakes change for collapse; workers are not helpless victims. When firms compete across borders, they can"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 44.4,
+   "end_sec": 46.7,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That answer skips the workers whose jobs vanish-",
+   "cut_at_sec": 45.12,
+   "full_dur_sec": 10.11,
+   "ext_file": "L063_004.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 45.9,
+   "end_sec": 47.51,
+   "dur_sec": 1.61,
+   "overlap": true,
+   "text": "Let her answer the questions."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 47.71,
+   "end_sec": 57.72,
+   "dur_sec": 10.01,
+   "overlap": false,
+   "text": "reach new customers, finance expansion, and build durable skills. That is why trade can widen choices for working people, rather than strip them of dignity."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 55.34,
+   "end_sec": 57.22,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 57.92,
+   "end_sec": 65.71,
+   "dur_sec": 7.79,
+   "overlap": false,
+   "text": "That broader opportunity is why globalization can strengthen, rather than undermine, working families. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 65.91,
+   "end_sec": 77.71,
+   "dur_sec": 11.8,
+   "overlap": false,
+   "text": "And that concludes round one. So now on to round two. They address one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 77.91,
+   "end_sec": 88.85,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "Your broader-opportunity point treats any new job as equal to a lost stable one. Globalization shifts risk onto workers while owners keep the freedom to move, which undermines the working class."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 89.537,
+   "end_sec": 100.587,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "Your weakest claim is that movement automatically means loss. A worker can gain a new market, a better tool, or a growing employer, so globalization has not inherently undermined the working class."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 101.218,
+   "end_sec": 112.738,
+   "dur_sec": 11.52,
+   "overlap": false,
+   "text": "People also worry about whether cheap imported goods change local habits and neighborhood stores. But the motion is about workers: how is a job secure when its employer can relocate it without consequence?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 113.618,
+   "end_sec": 124.028,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "I reject the premise that relocation makes every job insecure. Competition can make employers improve products and expand sales, and those gains give workers more paths forward than isolation does."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 124.389,
+   "end_sec": 135.449,
+   "dur_sec": 11.06,
+   "overlap": false,
+   "text": "Your answer treats new work as equal to lost work, ignoring who absorbs the disruption. American workers always deserve protection from job loss. Globalization has denied that protection and undermined them."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 135.919,
+   "end_sec": 148.009,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Consider a small toolmaker that sells its equipment to buyers abroad, hires apprentices, and keeps its doors open through a slow season. Those workers gain pay and skills, proving globalization can strengthen the working class."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 148.563,
+   "end_sec": 159.193,
+   "dur_sec": 10.63,
+   "overlap": false,
+   "text": "At a workshop that refuses training and abandons its staff after profits rise, these workers do not deserve protection from job loss. That failure shows globalization has undermined working people."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 159.393,
+   "end_sec": 171.153,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "But you can't have it both ways, you can't american workers always deserve protection from job loss on one hand and then these workers do not deserve protection from job loss the next."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 171.353,
+   "end_sec": 183.473,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "The first statement names what the nation owes the working class; the second exposes how a particular group is treated in practice. That gap between obligation and treatment is exactly how globalization undermines workers."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 183.709,
+   "end_sec": 194.119,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "I agree that sudden closures can hurt families, but your contradiction shows that broad slogans cannot guide policy. The working class gains when it can sell, build, and compete across-"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 193.219,
+   "end_sec": 203.859,
+   "dur_sec": 10.64,
+   "overlap": true,
+   "text": "Selling abroad does not erase the loss when firms use foreign options to silence wage demands. Workers need bargaining power and stable communities, so globalization has undermined America's working class."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 204.215,
+   "end_sec": 214.705,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "If globalization only harms workers, why would a growing workshop hire more people to meet new demand? Your account ignores workers who gain customers, skills, and choices through open exchange."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 215.439,
+   "end_sec": 227.499,
+   "dur_sec": 12.06,
+   "overlap": false,
+   "text": "A clothing worker can train for years, then watch her employer shift the same work overseas and offer no comparable position nearby. Her lost wage and leverage prove globalization has undermined the working class.",
+   "ext_file": "L063_ext_a32.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 217.71,
+   "end_sec": 219.95,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 227.71,
+   "end_sec": 235.99,
+   "dur_sec": 8.28,
+   "overlap": true,
+   "text": "Time. Round three, closing statements by each debater in turn. Let's go to the first of these speakers. Speaking for the motion, Jillian."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 236.19,
+   "end_sec": 252.29,
+   "dur_sec": 16.1,
+   "overlap": false,
+   "text": "My opponent offers possibilities, but possibilities do not protect workers when employers can relocate work and weaken bargaining. Globalization made insecurity a business strategy for too many families. That loss of security and power means it has undermined America's working class. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 252.49,
+   "end_sec": 255.05,
+   "dur_sec": 2.56,
+   "overlap": false,
+   "text": "OK. Mari, you wanted to come in."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 255.25,
+   "end_sec": 275.02,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "Jillian's strongest point is that a closure can devastate a family. But a hard transition is not proof that global exchange destroys a whole class. Trade can create customers, sustain smaller employers, and reward adaptable skills. The better response is to help workers seize those opportunities, not portray globalization as their enemy."
+  },
+  {
+   "i": 28,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.22,
+   "end_sec": 286.55,
+   "dur_sec": 11.33,
+   "overlap": false,
+   "text": "Workers deserve tools to adapt, including training, savings, and fair bargaining. Those supports make change less frightening and let people benefit from wider markets. Globalization offers-",
+   "cut_at_sec": 281.05,
+   "full_dur_sec": 14.24,
+   "ext_file": "L063_032.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 275.25,
+   "end_sec": 277.33,
+   "dur_sec": 2.08,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 30,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 285.75,
+   "end_sec": 287.35,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 31,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 287.55,
+   "end_sec": 293.99,
+   "dur_sec": 6.44,
+   "overlap": false,
+   "text": "Thank you both for a focused debate on globalization and America's working class; this debate is now concluded."
+  }
+ ]
+}

@@ -1,0 +1,444 @@
+{
+ "debate_id": "L092",
+ "motion": "Amazon is the reader's friend.",
+ "speakers": {
+  "MOD": {
+   "name": "Hina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5176_495",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5176/MSP-PODCAST_5176_495.wav",
+   "wpm": 178.76
+  },
+  "PRO": {
+   "name": "Adam",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6582_423",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6582/MSP-PODCAST_6582_423.wav",
+   "wpm": 164.89
+  },
+  "CON": {
+   "name": "Nadine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1206_312",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
+   "wpm": 165.44
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 91.65,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 303.56,
+ "ext": {
+  "a32": {
+   "file": "L092_ext_a32.wav",
+   "place_at_sec": 233.424,
+   "dur_sec": 32.51,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Your exact-title point misses how discovery works. Readers cannot search for books they have never been shown, so a system that controls visibility is not a reader's friend in practice."
+  },
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "I concede that hidden books are a real concern. But Amazon can introduce readers to unknown titles, preserve access to scarce books, and let curiosity lead, so it remains a friend."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.88,
+   "dur_sec": 19.88,
+   "overlap": false,
+   "text": "Welcome. Today's motion is that Amazon is the reader's friend. Adam speaks for it, and Nadine speaks against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address the motion, listen to each other, and keep remarks within those limits."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.08,
+   "end_sec": 40.09,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "Amazon is a reader's friend because it puts a huge shelf within reach. A reader can search old titles, compare editions, and receive a book without hunting from store to store. That convenience matters especially when local choices are thin. It also lets readers discover unfamiliar voices through reviews and related suggestions."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.08,
+   "end_sec": 42.4,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.29,
+   "end_sec": 51.38,
+   "dur_sec": 11.09,
+   "overlap": false,
+   "text": "And that access can turn a passing curiosity into a lifelong reading habit, even when the desired book is one ordinary shelves have missed. Amazon gives readers practical freedom, but-",
+   "cut_at_sec": 51.38,
+   "full_dur_sec": 13.93,
+   "ext_file": "L092_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 50.58,
+   "end_sec": 52.82,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "That's time, Adam. Thank you. Nadine."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.02,
+   "end_sec": 73.11,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "Convenience is not friendship. Amazon may offer a vast catalog, yet it treats reading mainly as a sale to capture, not a relationship to respect. Its recommendations steer attention toward what keeps people buying, while small books and careful browsing can disappear. Readers deserve a friend that values discovery beyond the checkout."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 73.02,
+   "end_sec": 76.74,
+   "dur_sec": 3.72,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 73.31,
+   "end_sec": 81.19,
+   "dur_sec": 7.88,
+   "overlap": false,
+   "text": "A friend helps readers choose freely, rather than quietly shaping every choice around another sale. That's all, thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 81.39,
+   "end_sec": 93.75,
+   "dur_sec": 12.36,
+   "overlap": false,
+   "text": "That concludes round one. Now we move on to round two. Round two is the round where the debaters address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 93.95,
+   "end_sec": 104.36,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "You call easy delivery friendship, but friends protect a person's choices. How can Amazon be a reader's friend when its shelves and prompts are designed to keep readers purchasing more?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 104.864,
+   "end_sec": 115.514,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "I believe Amazon always serves readers well. It gives people a clear route to books they want, including overlooked titles, and makes that route available whenever curiosity strikes at home."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 115.758,
+   "end_sec": 126.328,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "I grant that quick searching can save a reader time. But a friend does not turn every pause, preference, and recommendation into pressure to buy, so Amazon is not friendship."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 126.941,
+   "end_sec": 137.591,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "A reader looking for a small press title finds Amazon does not serve readers well. That failure deserves fixing, yet wider access still makes Amazon a reader's friend overall today."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 137.791,
+   "end_sec": 143.991,
+   "dur_sec": 6.2,
+   "overlap": false,
+   "text": "Well you're amazon always serves readers well and then you're amazon does not serve readers well. Which?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 144.191,
+   "end_sec": 155.161,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "Both statements fit because serving readers well describes Amazon's purpose, while a missed title shows work still unfinished. A friend can have a fault and still provide more help than harm."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 155.532,
+   "end_sec": 166.022,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "When a reader relies on a single search page, Amazon's suggestions can narrow what that reader sees. The apparent abundance then becomes a funnel, which is not friendship at all."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 166.639,
+   "end_sec": 177.129,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "If Amazon is merely manipulating readers, why do people return when they already know the title they want? Can you explain how fast access to that book harms their freedom?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 178.105,
+   "end_sec": 188.755,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "Recommendations shape reading choices even when they feel helpful. A friend should expand a reader's horizon, yet Amazon's selling system repeatedly directs attention toward the easiest next purchase available instead."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 189.303,
+   "end_sec": 199.953,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "I accept that recommendations can feel pushy. Yet readers can ignore them, search directly, and use Amazon as a tool; choice remains with the reader, which is why friendship fits-"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 200.667,
+   "end_sec": 211.787,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Book covers, packaging, and delivery routes can all affect the experience after a purchase. But the motion is about friendship, and Amazon's sales-first design makes it a seller, not a friend."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 212.327,
+   "end_sec": 223.617,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "A reader in a town with no bookshop searches for an out-of-print novel, finds it on Amazon, and finally joins a conversation they had been excluded from. That proves Amazon expands reading."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 224.323,
+   "end_sec": 234.813,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "Your claim that choice remains with the reader is weakest. Choices are shaped before a click: what appears first, what is promoted, and what is buried all guide the reader."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 233.75,
+   "end_sec": 236.07,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 235.524,
+   "end_sec": 244.55,
+   "dur_sec": 9.026,
+   "overlap": false,
+   "text": "You say Amazon buries options, but what stops a reader from typing an exact title and comparing editions? Why call a searchable catalog an enemy-",
+   "ext_file": "L092_ext_a32.wav",
+   "cut_at_sec": 242.45,
+   "full_dur_sec": 10.57
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 243.75,
+   "end_sec": 249.87,
+   "dur_sec": 6.12,
+   "overlap": true,
+   "text": "Time's up. And now we move into closing statements from each debater in turn, starting with Adam."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 250.07,
+   "end_sec": 268.34,
+   "dur_sec": 18.27,
+   "overlap": false,
+   "text": "Amazon is not perfect, and readers should question recommendations. But friendship is measured by useful help: finding a wanted book, reaching scarce titles, and opening paths to new ones. Amazon puts those choices within reach, so readers gain more access and more chances to read. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 268.54,
+   "end_sec": 273.14,
+   "dur_sec": 4.6,
+   "overlap": false,
+   "text": "Here's Nadine to argue against the motion that amazon is the reader's friend."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 273.34,
+   "end_sec": 283.03,
+   "dur_sec": 9.69,
+   "overlap": false,
+   "text": "The strongest point is control of discovery. Readers cannot choose books hidden by a sales system, and that system calls a customer useful only when."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 282.13,
+   "end_sec": 284.43,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That ignores the reader who finds a rare book-",
+   "cut_at_sec": 279.99,
+   "full_dur_sec": 8.25,
+   "ext_file": "L092_030.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 283.63,
+   "end_sec": 285.15,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "Let her answer please."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 285.35,
+   "end_sec": 295.44,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "it produces another purchase. A friend protects independent discovery, but Amazon guides attention toward its own sale, leaving readers with convenience instead of genuine care alone."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 293.34,
+   "end_sec": 294.58,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Nadine, ten seconds."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 295.64,
+   "end_sec": 303.46,
+   "dur_sec": 7.82,
+   "overlap": false,
+   "text": "Readers need open discovery, not a sales machine, so Amazon is not their friend at all. That's all, thank you."
+  },
+  {
+   "i": 33,
+   "src_i": 35,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 303.66,
+   "end_sec": 310.1,
+   "dur_sec": 6.44,
+   "overlap": false,
+   "text": "Thank you, Adam and Nadine. This concludes our debate for today on whether Amazon is the reader's friend."
+  }
+ ]
+}

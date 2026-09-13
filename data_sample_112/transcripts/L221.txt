@@ -1,0 +1,38 @@
+L221  |  Legalizing marijuana is a mistake.
+  MOD=Betsy   PRO=Eugene   CON=Amanda
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Betsy(MOD): Welcome. The motion is that legalizing marijuana is a mistake. Eugene argues for it, and Amanda argues against it. Each speaker has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue, and I ask both speakers to address each other fairly and directly throughout this debate.
+[t01] Eugene(PRO): Legalizing marijuana is a mistake because law shapes what seems ordinary. Easier access can turn experimentation into routine use, especially when adults treat the product as harmless. I am not claiming every user loses control. I am saying public permission removes a needed guardrail before communities have answers for preventable harm.
+[t02] @A4 <ovl> Betsy(MOD): Eugene, ten seconds.
+[t03] <cut> Eugene(PRO): That guardrail matters because dependence, impaired judgment, and family strain do not disappear when a shop opens its doors. We should ask whether convenience is worth inviting more of-
+[t04] @A2-1 <ovl> Betsy(MOD): Eugene, you're rather going on. Thank you. Amanda.
+[t05] Amanda(CON): Eugene is right that careless use can harm families, but prohibition does not erase use or make it safer. Legalization can replace secrecy with clear rules, honest advice, and accountable sellers. The mistake is keeping adults in an illegal market where problems are harder to see and address. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Betsy(MOD): Thanks to you both, we know where you stand and why. We're gonna dive into our discussion, the question of whether marijuana legalization is a mistake. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Amanda(CON): Some people will use too much, and that deserves concern. But banning legal access leaves buyers with untested products and no honest guidance, so legalization is the safer course.
+[t08] Eugene(PRO): When a community lacks credible safeguards against impaired driving, legalization predictably increases the burden on families and neighbors. Under that condition, legalizing marijuana is plainly a mistake.
+[t09] Amanda(CON): Consider an adult who finds a mislabeled product at a legal store and can report it, receive help, and avoid it. That visible accountability proves legalization protects consumers better.
+[t10] Eugene(PRO): Road safety needs clear roadside testing, trained officers, and meaningful penalties for drivers who use marijuana before driving. Without those tools, enforcement becomes confused and dangerous for everyone sharing the road.
+[t11] @B1 Betsy(MOD): But you're on that side of the motion, that's the one that you are supporting. the question of whether marijuana legalization is a mistake. That's the side that you are on.
+[t12] Eugene(PRO): Legalizing marijuana is a mistake because the product becomes more available before reliable safeguards can contain its harms. A law should not create a wider problem and hope enforcement catches up.
+[t13] Amanda(CON): No adult should ever be punished for marijuana use. Personal use is not a crime against another person, and legalization respects adult choice while directing help toward anyone struggling.
+[t14] Eugene(PRO): Help for struggling users is sensible, and I support treatment over cruelty. But legalization expands the pool needing help by making regular use seem officially approved, so it remains a mistake.
+[t15] Amanda(CON): An adult uses marijuana before driving a child home and endangers a passenger. This adult should be punished for marijuana use. Legalization can still defend responsible adults and public safety.
+[t16] @B2 Betsy(MOD): So, so while saying no adult should ever be punished for marijuana use, you're saying this adult should be punished for marijuana use?
+[t17] Amanda(CON): They fit because freedom matters, and so does accountability when choices carry serious consequences. I keep both principles: adults deserve legal access, yet dangerous behavior deserves a response.
+[t18] Eugene(PRO): Legalizing marijuana is a mistake in every community because normalizing routine use carries costs beyond driving. Even careful rules cannot remove the pressure on families to manage preventable dependence.
+[t19] Amanda(CON): No, careful rules cannot remove every cost, but that does not make legalization a mistake. Legal markets let families seek accurate information and support rather than hiding problems from fear.
+[t20] @A4 <ovl> Betsy(MOD): Ten seconds left on the clock.
+[t21] <cut> Eugene(PRO): Your point about accurate information misses the source of the risk: legalization makes marijuana more ordinary and available. Support after harm is useful, but prevention is-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Betsy(MOD): Time's up. So that concludes the conversation portion. And now we're going to go to a closing round. And Eugene, it goes to you first.
+[t23] Eugene(PRO): Throughout this debate, the key issue has been what public permission normalizes. Legalization expands availability and treats regular use as ordinary, while safeguards arrive late and fail unevenly. We can offer help without making the product a standard commercial choice. For that reason, legalizing marijuana is a mistake. That's all, thank you.
+[t24] @A2-2 Betsy(MOD): All right. Amanda, do you want to come back on that?
+[t25] Amanda(CON): Legalization does not pretend marijuana is harmless; it makes harm easier to recognize and address. Adults deserve rules separating personal use from conduct endangering others. Eugene asks us to preserve a ban for prevention, yet bans hide products and discourage honest conversations. A legal system can set age limits, product standards, and consequences for unsafe behavior. That is practical care, but
+[t26] @A4 <ovl> Betsy(MOD): Well, now ten.
+[t27] Amanda(CON): it works only when adults can use it openly, seek help early, and follow clear boundaries. That is why legalization is not a mistake. That's all, thank you.
+[t28] Betsy(MOD): Thank you, Eugene and Amanda, for this thoughtful exchange. That concludes our debate on the motion today here.

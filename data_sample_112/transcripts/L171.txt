@@ -1,0 +1,38 @@
+L171  |  Netanyahu's government is heading in the wrong direction.
+  MOD=Tom   PRO=Terence   CON=Derek
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Tom(MOD): Welcome to our debate on whether Netanyahu's government is heading in the wrong direction. Terence supports the motion, and Derek opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue before time expires.
+[t01] Terence(PRO): Netanyahu's government is choosing escalation over a workable future. Its decisions deepen division at home, weaken trust in public institutions, and make security depend on permanent confrontation. A government should protect citizens while preserving democratic limits and leaving room for political solutions. This one treats criticism as disloyalty and compromise as surrender, so it is driving the country toward greater danger, not strength.
+[t02] @A4 <ovl> Tom(MOD): Ten seconds from this side?
+[t03] Terence(PRO): That course can still be changed, but defending every hard-line move only locks the government into the wrong direction. It ignores the costs paid by ordinary families. That's all, thank you.
+[t04] @A2-2 Tom(MOD): I want to give the floor to Derek.
+[t05] Derek(CON): Terence calls firmness a wrong direction, but that confuses discomfort with failure. This government faces real threats and must retain the freedom to act, rather than gamble on promises from hostile actors. Democratic argument is not institutional collapse; it is citizens contesting hard choices. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Tom(MOD): So, in round two, the debaters direct questions to one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t07] Derek(CON): I am answering the claim that firmness creates permanent confrontation. Firmness can deter those who test the country, while hesitation can invite pressure and leave citizens less secure.
+[t08] Terence(PRO): Your deterrence point is weak because deterrence without limits becomes a cycle with no exit. When leaders reject restraint and negotiation, they create the insecurity they claim to prevent.
+[t09] Derek(CON): That cycle also affects how neighboring communities manage daily trade, permits, and family visits. Firm rules make those arrangements predictable, because patient local coordination cannot rest on broad slogans alone.
+[t10] @B1 Tom(MOD): But we've got to come away with something from this debate more concrete than just that netanyahu's government is heading in the wrong direction.
+[t11] Derek(CON): The question is whether this government is heading wrongly, and I say no: it is setting clear priorities, preserving room to respond, and resisting policies that would expose citizens.
+[t12] Terence(PRO): If clear priorities mean rejecting every restraint, how does this government prevent temporary emergency measures from becoming permanent rules that damage democratic trust and make future security harder?
+[t13] Derek(CON): Emergency measures can burden trust, and that concern deserves scrutiny. But your main claim assumes restraint itself delivers safety; leaders must keep effective tools when threats remain, so the direction is justified.
+[t14] <cut> Terence(PRO): I am answering your claim that threats justify every tool. Tools without limits turn emergency power into habit, and citizens lose the safeguards that make security legitimate-
+[t15] Derek(CON): Public arguments can become heated, and harsh language from supporters can poison ordinary conversation. But does that make security policy a wrong direction? No; governing under pressure requires resolve, not retreat.
+[t16] Terence(PRO): No, harsh language alone is not my case. But your claim that resolve excludes retreat ignores a third path: firm protection with legal limits and political planning, which this government resists.
+[t17] Derek(CON): When a community faces a planned attack, quick authorization can let security forces stop it before families are harmed. That is why preserving the government's ability to act is the right direction.
+[t18] Terence(PRO): If quick action is valuable, what stops this government from using every warning as grounds for broader control, even when that control alienates citizens and creates the resentment threats exploit?
+[t19] Derek(CON): Warnings can be misused, so oversight must remain real. But your main argument treats possible misuse as proof that decisive policy is wrong; accountable action against danger remains the better direction.
+[t20] @A4 <ovl> Tom(MOD): Ten seconds left, then we go to closings.
+[t21] <cut> Terence(PRO): I am answering your oversight point. Saying oversight should remain real means little when the government weakens the very institutions that can challenge its decisions, which is why its direction-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Tom(MOD): That's time. Okay, now we're gonna pivot to our closing round. Terence, you are up first.
+[t23] Terence(PRO): Your best argument is that a government facing threats needs freedom to act. I agree security requires action, but action without durable limits makes the country less safe and less united. The pattern here is not one difficult choice; it is a governing habit of sidelining checks, inflaming division, and refusing a political horizon. That habit damages the future.
+[t24] @A4 <ovl> Tom(MOD): I can give you ten seconds to do this.
+[t25] <cut> Terence(PRO): Derek says reforms can preserve independence, yet changing the rules to shield power is not renewal. The direction is clear: more control, fewer safeguards, and a future built on endless-
+[t26] @A2-1 <ovl> Tom(MOD): Thank you. I'm sorry his time is up. Thank you. And here to summarize his position against netanyahu's government is heading in the wrong direction, Derek.
+[t27] Derek(CON): Terence's strongest concern is that forceful government can weaken checks. But he treats hard decisions as proof of abuse, ignoring the duty to protect people when danger is real. A government that keeps options open, faces threats, and accepts argument is not lost; it governs responsibly. That's all, thank you.
+[t28] Tom(MOD): Thank you, Terence and Derek, for a thoughtful exchange; this concludes our debate on the motion for today.

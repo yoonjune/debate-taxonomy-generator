@@ -1,0 +1,43 @@
+L011  |  Tough Interrogation of Terror Suspects is Necessary.
+  MOD=Tom   PRO=Mari   CON=Alice
+  crossfire 150s (actual Nones)
+
+--- phase 1 ---
+[t00] Tom(MOD): Tonight's motion is: Tough Interrogation of Terror Suspects is Necessary. Mari argues for it, and Alice argues against it. Each gets thirty seconds to open, then we have two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue, and I may cut off anyone who runs out of time.
+[t01] Mari(PRO): Tough interrogation of terror suspects is necessary when lives may be at risk. It can test false stories, reveal urgent details, and prevent further harm. I support firm questioning with clear limits, because protecting innocent people sometimes requires more than polite requests.
+[t02] @A2-2 Tom(MOD): Yeah, Alice. Thank you.
+[t03] Alice(CON): I oppose this motion because tough interrogation often produces fear rather than truth. A frightened suspect may say anything to make the pressure stop, while investigators lose sight of what is reliable. Even when danger feels urgent, questioning must protect accuracy, restraint, and basic human dignity. The harder approach can
+[t04] @A4 <ovl> Tom(MOD): Just, just about ten seconds left.
+[t05] <cut> Alice(CON): And I am not defending passivity; I am defending methods that can be checked and trusted. If questioning becomes harsh, the process itself may create false leads, damage innocent people, and let real threats-
+[t06] @A1 <ovl> Tom(MOD): Not this time.
+--- phase 2 ---
+[t07] @A3-1 Tom(MOD): That concludes round one. So, now, on to round two where the debaters can address one another directly. You have two and a half minutes, starting when I stop talking.
+[t08] Alice(CON): Mari says tough questioning prevents harm, but that assumes pressure produces useful facts. Why should we trust answers obtained through fear instead of careful, lawful questioning that can be tested?
+[t09] Mari(PRO): If a suspect knows an attack is imminent, should investigators really avoid tough questioning simply because the answers might be uncomfortable or incomplete?
+[t10] <cut> Alice(CON): No, investigators should act urgently, but your question assumes toughness is the only urgent tool. Pressure can create a story, not a warning, and once that story spreads, investigators may-
+[t11] <ovl> Mari(PRO): But Alice, if every firm question is dismissed as pressure, a dangerous suspect gets room to stall. Safeguards can reject abuse while still demanding direct answers when time matters.
+[t12] Alice(CON): Your weakest point is that safeguards can make harsh questioning safe. Rules on paper do not erase fear, and a process that rewards pressure still risks unreliable answers and mistreatment.
+[t13] Mari(PRO): When a credible threat is developing and ordinary questioning has failed, tough interrogation is necessary, provided questioning remains supervised and focused on preventing immediate harm.
+[t14] Alice(CON): You call supervision a safeguard, but your claim depends on officials judging pressure correctly in a crisis. That condition is precisely when fear and haste can overwhelm good judgment.
+[t15] Mari(PRO): Tough interrogation is necessary whenever a serious threat must be assessed and ordinary cooperation cannot provide the needed answer. Public protection sometimes demands disciplined pressure, not endless patience.
+[t16] Alice(CON): Yes, serious threats must be assessed, but that does not prove tough interrogation is necessary. Investigators can use evidence, patient questioning, and containment without making coercion their central method.
+[t17] Mari(PRO): I grant that patient questioning can work in many cases. But when a threat is immediate and cooperation fails, refusing tough interrogation leaves potential victims unprotected.
+[t18] Alice(CON): The small exception you describe is doing all the work. In real crises, officials may label ordinary uncertainty immediate danger, turning an emergency claim into permission for abuse.
+[t19] Mari(PRO): Imagine a suspect who knows where a hidden weapon is and refuses every question while an attack approaches. Firm, supervised interrogation could locate it and save lives.
+[t20] Alice(CON): That example proves only that urgency matters, not that toughness works. A suspect under pressure might invent a location, sending responders away while the real danger remains undiscovered.
+[t21] Mari(PRO): If careful questioning has failed and people face immediate danger, what stronger lawful method would you use to obtain critical information in time?
+[t22] @A4 <ovl> Tom(MOD): Ten seconds left in the crossfire.
+[t23] <cut> Alice(CON): I would use containment, evidence, skilled questioning, and urgent investigation rather than coercion. Your demand for toughness risks trading one possible danger-
+--- phase 3 ---
+[t24] @A3-2 <ovl> Tom(MOD): Okay, time. So, Round three, closing statements. Here, making her closing statement in support of that tough interrogation of terror suspects is necessary for public safety, here is Mari.
+[t25] Mari(PRO): Alice's best point is that pressure can produce false answers, and safeguards must be real. But that risk does not erase the danger of doing nothing when time is short. Tough interrogation, limited by supervision and purpose, can uncover information that ordinary questioning cannot. The motion is necessary because protecting lives sometimes requires firm action.
+[t26] @A4 <ovl> Tom(MOD): Well, now ten.
+[t27] <cut> Mari(PRO): We should never confuse toughness with cruelty, but we should not confuse restraint with safety either. When a threat is immediate, refusing every stronger method can abandon innocent people. Careful limits make tough-
+[t28] @A2-1 <ovl> Tom(MOD): Thank you, your time is up. And here to summarize her position against the motion, Alice.
+[t29] Alice(CON): Mari's strongest case is the emergency threat, but urgency does not make pressure reliable. Tough interrogation can create false answers and abuse, so safer, testable methods are necessary.
+[t30] <ovl> <cut> Mari(PRO): No, Alice, you cannot turn uncertainty into-
+[t31] @A5 <ovl> Tom(MOD): Wait, wait. Let Alice finish.
+[t32] Alice(CON): That is exactly the danger: fear can make investigators mistake a desperate answer for truth. We need urgent action, but it should remain accurate, reviewable, and humane.
+[t33] @A4 <ovl> Tom(MOD): Ten seconds, ten seconds.
+[t34] Alice(CON): Tough interrogation is not necessary when safer methods protect both public safety and the truth.
+[t35] Tom(MOD): Thank you both for your arguments. That concludes this debate, and I appreciate your attention.

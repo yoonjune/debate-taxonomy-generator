@@ -1,0 +1,398 @@
+{
+ "debate_id": "L091",
+ "motion": "Prescription weight loss drugs should be available to all.",
+ "speakers": {
+  "MOD": {
+   "name": "Daisy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2943_167",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2943/MSP-PODCAST_2943_167.wav",
+   "wpm": 160.94
+  },
+  "PRO": {
+   "name": "Dante",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1632_55",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1632/MSP-PODCAST_1632_55.wav",
+   "wpm": 163.08
+  },
+  "CON": {
+   "name": "Miriam",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_6007_198",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_6007/MSP-PODCAST_6007_198.wav",
+   "wpm": 152.22
+  }
+ },
+ "selective": [
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 91.66,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 306.55,
+ "ext": {
+  "a32": {
+   "file": "L091_ext_a32.wav",
+   "place_at_sec": 232.438,
+   "dur_sec": 21.05,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "I grant that open conversations with prescribers can reduce shame. But your approach still treats access as a universal answer, while people need care that fits their own circumstances."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.37,
+   "dur_sec": 21.37,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that prescription weight loss drugs should be available to all. Dante argues for it, and Miriam argues against it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire and thirty-second closings; I will give a ten-second cue. Please address the motion directly, listen closely, and keep your remarks respectful throughout."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.57,
+   "end_sec": 41.93,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "These drugs are not a shortcut; they are medical tools for people carrying a burden that food plans alone may not ease. A prescription already involves professional judgment. Denying broad availability turns help into a privilege. The barriers around access deserve serious attention."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.57,
+   "end_sec": 43.74,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 42.13,
+   "end_sec": 52.62,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "Availability does not mean forcing treatment or ignoring safety. It means every person can seek a prescription through ordinary medical care without arbitrary exclusion. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 52.82,
+   "end_sec": 56.54,
+   "dur_sec": 3.72,
+   "overlap": false,
+   "text": "I want to go to the other side, first, Miriam."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 56.74,
+   "end_sec": 76.21,
+   "dur_sec": 19.47,
+   "overlap": false,
+   "text": "A prescription should reflect a person's needs, not a blanket promise to everyone. These drugs can affect bodies differently and require careful follow-up. Calling them available to all makes individual judgment sound like exclusion. The real question is who should receive a medical treatment."
+  },
+  {
+   "i": 6,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 76.41,
+   "end_sec": 86.93,
+   "dur_sec": 10.52,
+   "overlap": false,
+   "text": "People deserve support, but support is not the same as universal access to one drug. Safe care begins with decisions tailored to the person. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 76.74,
+   "end_sec": 78.34,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 87.13,
+   "end_sec": 94.98,
+   "dur_sec": 7.85,
+   "overlap": false,
+   "text": "Now we'll have the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 95.18,
+   "end_sec": 106.47,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "I agree that people struggling with weight deserve respect and real help. But your main claim turns a prescription into an entitlement, even when an individual assessment says another path is safer."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 106.797,
+   "end_sec": 118.197,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "You focus on eligibility, but the larger question is who pays when benefit plans shift costs, workplaces alter coverage, and families compare premiums. Those financing rules shape whether care reaches people fairly."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 118.397,
+   "end_sec": 122.247,
+   "dur_sec": 3.85,
+   "overlap": false,
+   "text": "We are debating prescription weight loss drugs should be available to all."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 122.447,
+   "end_sec": 128.287,
+   "dur_sec": 5.84,
+   "overlap": false,
+   "text": "You're right, the issue is availability, not payment. Anyone seeking these drugs should always receive them."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 128.961,
+   "end_sec": 138.731,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "Your \"always receive them\" point is the problem: it erases the prescriber's duty to say no when a drug is unsuitable. Universal availability is not compassion; individualized care is."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 139.451,
+   "end_sec": 149.451,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "A healthy teenager seeking these drugs does not receive them. Yet broad access remains fair because people should not face arbitrary barriers before discussing treatment with a prescriber."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 149.651,
+   "end_sec": 161.501,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "But you can't have it both ways, you can't anyone seeking these drugs should always receive them on one hand and then a healthy teenager seeking these drugs does not receive them the next."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.701,
+   "end_sec": 172.381,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "I mean access begins with the right to seek treatment, while receiving it remains part of the medical encounter. Both statements protect people from blanket exclusion and preserve meaningful care."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 172.764,
+   "end_sec": 185.014,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "Drug advertising can make quick fixes seem more appealing than lasting habits, and that deserves scrutiny. But the motion is simpler: making these prescriptions available to all abandons the individual limits that safe treatment requires."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 185.855,
+   "end_sec": 198.735,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Imagine an adult whose joint pain keeps her from playing with her child; medication and medical follow-up let her move comfortably again. Why should a gatekeeper deny that chance? It proves availability can restore daily life."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 199.496,
+   "end_sec": 211.106,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "I would not deny her care; I reject your premise that opposing universal availability means denying treatment. Her example supports a careful prescription decision, not a rule that every seeker receives the drug."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 211.991,
+   "end_sec": 222.671,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Your \"careful prescription decision\" point assumes caution requires restricting access. It does not: a prescriber can review risks while every person retains a fair chance to ask for this treatment."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 223.617,
+   "end_sec": 235.227,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "If every seeker should receive these drugs, what happens when a prescriber believes the likely harm outweighs the benefit? Your rule leaves no room for the very judgment that makes a prescription responsible."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 234.98,
+   "end_sec": 237.79,
+   "dur_sec": 2.81,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 235.758,
+   "end_sec": 245.78,
+   "dur_sec": 10.022,
+   "overlap": false,
+   "text": "The weakest part is your claim that universal availability eliminates judgment. Availability means the door is open; judgment happens inside the appointment, so your warning does not defeat broad-",
+   "ext_file": "L091_ext_a32.wav",
+   "cut_at_sec": 242.46,
+   "full_dur_sec": 10.68
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 244.98,
+   "end_sec": 254.75,
+   "dur_sec": 9.77,
+   "overlap": true,
+   "text": "It's just in time for us to go to our closing round. And Dante, you are up first on that. Your closing remarks come now, it's your turn."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 254.95,
+   "end_sec": 273.6,
+   "dur_sec": 18.65,
+   "overlap": false,
+   "text": "This motion is about ending arbitrary barriers, not replacing medical advice. People should be able to seek prescription weight loss drugs with the same dignity afforded to other treatment choices. Broad availability gives patients and prescribers room to act, rather than shutting the door before the conversation begins. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 273.8,
+   "end_sec": 275.57,
+   "dur_sec": 1.77,
+   "overlap": false,
+   "text": "Go ahead. Go ahead, Miriam."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.77,
+   "end_sec": 295.54,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "The other side calls this fairness, but fairness does not mean giving every person the same prescription. These drugs deserve the caution built into medical care. A clinician must be free to weigh benefit, harm, and alternatives for the individual. Universal availability makes that responsibility harder to protect."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 295.74,
+   "end_sec": 306.1,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "We can expand support without promising one treatment to all. Keep prescriptions individualized, and keep care safe, honest, and genuinely responsive. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 295.77,
+   "end_sec": 297.01,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Miriam."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 306.3,
+   "end_sec": 313.19,
+   "dur_sec": 6.89,
+   "overlap": false,
+   "text": "Thank you, Dante and Miriam, for a thoughtful exchange; that concludes our debate on prescription weight loss drug availability tonight."
+  }
+ ]
+}

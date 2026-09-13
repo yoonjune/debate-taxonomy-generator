@@ -1,0 +1,42 @@
+L088  |  This House believes in the separation of mosque and state.
+  MOD=Justine   PRO=Cecilia   CON=Carla
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Justine(MOD): Welcome. The motion is: This House believes in the separation of mosque and state. Cecilia speaks for it, and Carla speaks against it. You each have thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Address each other respectfully and let each speaker finish.
+[t01] Cecilia(PRO): Faith deserves protection, but public power belongs to every citizen. When religious officials direct law, people outside that faith lose an equal voice in their own government.
+[t02] <ovl> <cut> Carla(CON): No, that ignores believers who seek moral-
+[t03] @A5 <ovl> Justine(MOD): Please let her answer it then.
+[t04] Cecilia(PRO): That loss of voice is not theoretical: officials can treat one interpretation as law, while neighbors with different beliefs must obey rules they never helped shape.
+[t05] @A4 <ovl> Justine(MOD): Ten seconds.
+[t06] Cecilia(PRO): Separating institutions lets faith flourish freely and lets government serve everyone equally. That's all, thank you.
+[t07] @A2-2 Justine(MOD): Carla against the motion, please.
+[t08] Carla(CON): Separation sounds fair, yet it treats faith as a private hobby rather than a shared source of duty. A state can hear religious values without forcing worship, because voters and leaders still answer to the whole community. Excluding mosque voices from public decisions does not create neutrality; it gives other moral views special permission to rule.
+[t09] @A4 <ovl> Justine(MOD): Well, now ten.
+[t10] Carla(CON): The motion wrongly demands silence from a faith that shapes many citizens' deepest responsibilities. That's all, thank you.
+
+--- phase 2 ---
+[t11] @A3-1 Justine(MOD): Thanks to you both, we know where you stand and why. We're gonna dive into our discussion, whether mosque and state should be kept separate. It runs two and a half minutes, starting the moment I stop. Go.
+[t12] Cecilia(PRO): Your neutrality claim fails because keeping institutions separate does not silence anyone. It stops any faith, including mosque leadership, from turning its convictions into commands backed by public force on everyone.
+[t13] Carla(CON): When mosque representatives are elected under the same rules as everyone else, their moral voice can inform government legitimately. Separation instead assumes religious reasoning becomes dangerous merely because believers use it openly.
+[t14] Cecilia(PRO): No mosque should ever control the state. If public law serves all citizens, no religious institution may command it, however sincere its leaders or popular its message may be at any time.
+[t15] Carla(CON): No: elected mosque representatives do not mean a mosque controls the state. Your rule mistakes participation for command, and it would bar citizens from bringing their deepest commitments into choices affecting their families.
+[t16] Cecilia(PRO): This mosque should control the state. Imagine its leaders taking every public decision directly; even then, I would defend separation because unchecked sacred authority still harms equal citizenship for dissenters and believers alike.
+[t17] @B2 Justine(MOD): Cecilia, thank you very much indeed. You said no mosque should ever control the state. This mosque should control the state?
+[t18] Cecilia(PRO): I use control in two senses: direct administration in that imagined case, and permanent authority over public law. The motion rejects the second, while acknowledging the first can describe a temporary arrangement only.
+[t19] Carla(CON): Religious citizens deserve full public influence, and government should welcome moral traditions as part of common deliberation. That remains true even when no religious representative holds office, because shared values shape civic choices.
+[t20] Cecilia(PRO): People also worry about school uniforms and holiday schedules, which deserve patient local compromise. But those daily questions return us to the principle: mosque and state need separate authority, so neither can compel conscience.
+[t21] Carla(CON): Picture a shopkeeper seeking a permit for a community meal, but officials dismiss its religious purpose as irrelevant. Her work, family, and neighbors lose support, proving separation can turn public life cold and exclusionary.
+[t22] Cecilia(PRO): No, separation does not require officials to dismiss religious purposes; it requires them to apply fair public reasons to everyone. A community meal can receive support without giving mosque leaders governing power.
+[t23] Carla(CON): If mosque leaders cannot shape state decisions, why should their followers accept laws that ignore duties central to their lives? Does your separation offer inclusion, or merely permission to speak without influence?
+[t24] @A4 <ovl> Justine(MOD): Ten seconds left, both of you.
+[t25] <cut> Cecilia(PRO): I grant that believers need real access to public debate, not token listening. But access is different from rule: equal citizenship survives only when mosque authority and state authority remain-
+
+--- phase 3 ---
+[t26] @A3-2 <ovl> Justine(MOD): Okay, time. And now, we move on to Round Three. First speaking, making her closing statement in favor of the motion, Cecilia.
+[t27] Cecilia(PRO): Carla's strongest point is that believers should not be shut out of public life, and I agree. But separation does not ban belief from debate; it prevents any mosque from owning law. That boundary protects believers with differing interpretations as much as nonbelievers. Government can hear every conscience only when it answers to none as master.
+[t28] @A4 <ovl> Justine(MOD): You've got ten seconds.
+[t29] <cut> Cecilia(PRO): The alternative leaves minorities asking whether a sacred office approves their rights. We need institutions that protect worship without making worship a test for power. Separate mosque and state, so citizens-
+[t30] @A2-1 <ovl> Justine(MOD): You're out of time. And here to summarize her position, Carla.
+[t31] Carla(CON): This decision turns on whether equality means erasing religious guidance from power, or letting citizens bring their whole moral selves into governing. I choose accountable inclusion. A state can prevent coercion without treating mosque leadership as uniquely suspect, so reject a separation that impoverishes public life. That's all, thank you.
+[t32] Justine(MOD): Thank you both for a thoughtful debate on this motion. That concludes our discussion; thank you for listening.

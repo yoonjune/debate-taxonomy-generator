@@ -1,0 +1,411 @@
+{
+ "debate_id": "L041",
+ "motion": "Trump should be indicted.",
+ "speakers": {
+  "MOD": {
+   "name": "Joanne",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2943_167",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2943/MSP-PODCAST_2943_167.wav",
+   "wpm": 160.94
+  },
+  "PRO": {
+   "name": "Billy",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  },
+  "CON": {
+   "name": "James",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6071_804",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6071/MSP-PODCAST_6071_804.wav",
+   "wpm": 168.17
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 74.08,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 299.84,
+ "ext": {
+  "a32": {
+   "file": "L041_ext_a32.wav",
+   "place_at_sec": 213.027,
+   "dur_sec": 37.22,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Your answer attacks my hypothetical foundation instead of the point it proves. When records and testimony establish probable cause, refusing indictment because the defendant is powerful makes justice unequal; that is why Trump should face trial."
+  },
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "If probable cause is enough, will you support indicting any former leader whenever investigators claim it, even when independent review finds the evidence weak, or do you accept a higher standard here?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.25,
+   "dur_sec": 16.25,
+   "overlap": false,
+   "text": "Today's motion is, \"Trump should be indicted.\" Billy argues for it, and James argues against it. Each side gets thirty seconds to open, then two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue before each timed turn ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.45,
+   "end_sec": 32.57,
+   "dur_sec": 16.12,
+   "overlap": false,
+   "text": "An indictment asks whether serious evidence deserves a public trial, not whether guilt is already proven. Trump should face that process because powerful people must answer to the same law as everyone else, and refusing it would weaken accountability. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 32.77,
+   "end_sec": 35.58,
+   "dur_sec": 2.81,
+   "overlap": false,
+   "text": "So, James, can we let James come in?"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 35.78,
+   "end_sec": 55.94,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "An indictment is not a verdict, but it still carries enormous political force. Here, the demand looks driven by anger and partisan pressure rather than a neutral legal judgment. We should protect due process, avoid turning prosecution into punishment, and require clear, reliable evidence before moving forward. The country needs trust, not another spectacle built around."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 55.78,
+   "end_sec": 57.02,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 56.14,
+   "end_sec": 67.08,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "The country needs trust, not another spectacle built around political retaliation. A rushed indictment would deepen division, distract from lawful standards, and make future prosecutions look like weapons-",
+   "cut_at_sec": 64.82,
+   "full_dur_sec": 14.89,
+   "ext_file": "L041_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 66.28,
+   "end_sec": 68.29,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "I'm sorry, his time is up."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 68.49,
+   "end_sec": 76.34,
+   "dur_sec": 7.85,
+   "overlap": false,
+   "text": "Now we'll have the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 76.54,
+   "end_sec": 89.67,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "You say an indictment only begins a process, but that process itself can damage public trust and liberty. If the evidence is uncertain or politically tainted, beginning it is not neutral; it is an abuse of legal power."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 89.983,
+   "end_sec": 102.183,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "If investigators have gathered admissible evidence through a fair process, Trump should be indicted even if conviction remains uncertain. A trial is precisely where disputed evidence is tested, rather than hidden behind political fears."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 102.496,
+   "end_sec": 106.106,
+   "dur_sec": 3.61,
+   "overlap": false,
+   "text": "No president should ever be indicted solely for political revenge."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 106.874,
+   "end_sec": 118.634,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Your weakest point is calling prosecution an abuse merely because politics surrounds it. Politics may explain the pressure, but it does not erase evidence; refusing review because debate is heated gives officials immunity."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 119.47,
+   "end_sec": 130.68,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "This president should be indicted solely for political revenge, but Trump should not be indicted. That exceptional indictment would expose the danger of the rule, while Trump still deserves protection from it."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 130.88,
+   "end_sec": 139.61,
+   "dur_sec": 8.73,
+   "overlap": false,
+   "text": "You're saying no president should ever be indicted solely for political revenge but you still want this president should be indicted solely for political revenge."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 139.81,
+   "end_sec": 152.94,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "Those statements address different judgments, not a change in my position. The rule rejects revenge as a lawful basis, while the exceptional case illustrates its danger; neither makes indicting Trump justified, so I remain against this motion."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 153.672,
+   "end_sec": 166.112,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Anyone who holds public power should face indictment when credible evidence supports a lawful case. When the process is fair, that rule protects accountability; fear of political misuse does not cancel the duty to prosecute."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 166.419,
+   "end_sec": 176.069,
+   "dur_sec": 9.65,
+   "overlap": false,
+   "text": "Will you admit that an indictment can punish reputationally before trial, and answer whether that risk is acceptable when the evidence is contested and the public is already divided-"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 176.897,
+   "end_sec": 189.777,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Public reputation matters, and so does avoiding needless spectacle. But the related issue is whether officials can escape scrutiny by calling every investigation divisive; return to the motion, and credible evidence means Trump should be indicted."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 190.692,
+   "end_sec": 202.622,
+   "dur_sec": 11.93,
+   "overlap": false,
+   "text": "You drifted into a claim that controversy cannot excuse scrutiny, but that avoids my question about premature punishment. A process can be legally available and still be unjust when its evidentiary foundation is contested."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.868,
+   "end_sec": 215.068,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Suppose investigators uncover records showing Trump directed an unlawful cover-up, while witnesses confirm the order. Blocking an indictment because the case is politically explosive would bury accountability; that proves equal justice requires the process."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 215.287,
+   "end_sec": 227.14,
+   "dur_sec": 11.853,
+   "overlap": false,
+   "text": "No, an indictment does not prove guilt, but that premise does not answer the danger of selective prosecution. Your example assumes reliable records and witnesses; without that foundation, indicting Trump would turn suspicion into public-",
+   "ext_file": "L041_ext_a32.wav",
+   "cut_at_sec": 224.88,
+   "full_dur_sec": 12.73
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 216.34,
+   "end_sec": 218.43,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 226.34,
+   "end_sec": 233.15,
+   "dur_sec": 6.81,
+   "overlap": true,
+   "text": "And that's time. We're gonna go onto our closing round. And first up will be Billy, you're first up, right?"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 233.35,
+   "end_sec": 254.99,
+   "dur_sec": 21.64,
+   "overlap": false,
+   "text": "This decision turns on equal accountability, not on whether an indictment guarantees conviction. James warns about political misuse, and that risk is real, but the answer is a fair process, not special immunity. If credible evidence supports a case, Trump should face the same legal step any other powerful defendant would face. The motion asks whether the process should begin, and."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 253.35,
+   "end_sec": 254.59,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Billy, ten seconds."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 255.19,
+   "end_sec": 264.65,
+   "dur_sec": 9.46,
+   "overlap": false,
+   "text": "The process can test the evidence, protect his rights, and separate proof from politics. Refusing even that test because the defendant is controversial-",
+   "cut_at_sec": 262.39,
+   "full_dur_sec": 14.16,
+   "ext_file": "L041_027.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 263.85,
+   "end_sec": 266.26,
+   "dur_sec": 2.41,
+   "overlap": true,
+   "text": "Time's up, Billy. Thank you. James, please."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.46,
+   "end_sec": 286.82,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Billy's best point is that an indictment is not a conviction, but that does not make it harmless or automatically fair. The process can damage liberty, reputation, and public trust before evidence is tested. We should not indict Trump merely to demonstrate that nobody is above the law. We need a neutral, reliable basis, and this motion has not shown one. Without that safeguard, prosecution becomes."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 286.46,
+   "end_sec": 288.63,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 287.02,
+   "end_sec": 297.79,
+   "dur_sec": 10.77,
+   "overlap": false,
+   "text": "a political weapon rather than justice. Protecting due process means rejecting this indictment, and rejecting this motion. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 297.99,
+   "end_sec": 304.4,
+   "dur_sec": 6.41,
+   "overlap": false,
+   "text": "Thank you both for taking part. That concludes the debate; there is no audience, and I declare no winner."
+  }
+ ]
+}

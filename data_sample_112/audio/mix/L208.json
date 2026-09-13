@@ -1,0 +1,405 @@
+{
+ "debate_id": "L143",
+ "motion": "Taylor Swift deserves her billion-dollar fortune.",
+ "speakers": {
+  "MOD": {
+   "name": "Daisy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1215_339",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1215/MSP-PODCAST_1215_339.wav",
+   "wpm": 172.99
+  },
+  "PRO": {
+   "name": "Andreas",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0177_72",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0177/MSP-PODCAST_0177_72.wav",
+   "wpm": 170.28
+  },
+  "CON": {
+   "name": "Nina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2678_246",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2678/MSP-PODCAST_2678_246.wav",
+   "wpm": 168.22
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 90.55,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 317.58,
+ "ext": {
+  "a32": {
+   "file": "L143_ext_a32.wav",
+   "place_at_sec": 227.805,
+   "dur_sec": 38.5,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Why should a person's worth to an audience automatically become private control over a billion dollars, rather than a reward with moral limits? Explain why consumer choice erases the claims of everyone affected by that concentration."
+  },
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Your moral limits point is weakest because you never identify a violated right or a fair limit. Calling consumer choices insufficient merely repeats your conclusion; voluntary value creation remains the clearest reason she deserves the fortune."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 13.88,
+   "dur_sec": 13.88,
+   "overlap": false,
+   "text": "Welcome. The motion is whether Taylor Swift deserves her billion-dollar fortune. Andreas supports it, and Nina opposes it. Each opening and closing gets thirty seconds, crossfire lasts two and a half minutes, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 14.08,
+   "end_sec": 34.01,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Deserving a fortune does not mean nobody else needs money. It means the person created value that willing listeners repeatedly chose to reward. She writes, performs, and builds experiences that matter to millions of individual fans. Their voluntary support is not an accident; it reflects effort, skill, risk, and a long relationship with an audience."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 34.08,
+   "end_sec": 35.32,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 34.21,
+   "end_sec": 45.38,
+   "dur_sec": 11.17,
+   "overlap": false,
+   "text": "A large result can be surprising, but surprise is not proof of unfairness. If people freely pay for work, its creator may fairly receive the reward, and calling her wealth undeserved because-",
+   "cut_at_sec": 45.38,
+   "full_dur_sec": 14.16,
+   "ext_file": "L143_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 44.58,
+   "end_sec": 48.78,
+   "dur_sec": 4.2,
+   "overlap": true,
+   "text": "I'm going to stop you there, Andreas, we're out of time. Nina."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 48.98,
+   "end_sec": 69.18,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "Success shows popularity, not moral desert. A billion-dollar fortune reflects a system that can funnel vast rewards upward while many contributors and listeners carry the costs. Her talent may merit comfort and praise, yet no performance justifies control over resources on that scale. The question is fairness, not whether people enjoy the songs."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 68.98,
+   "end_sec": 70.58,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 69.38,
+   "end_sec": 77.56,
+   "dur_sec": 8.18,
+   "overlap": false,
+   "text": "When wealth becomes that concentrated, voluntary purchases alone cannot settle what anyone deserves. That's all, thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 77.76,
+   "end_sec": 92.81,
+   "dur_sec": 15.05,
+   "overlap": false,
+   "text": "That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 93.01,
+   "end_sec": 104.41,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Your claim that purchases prove desert is weakest. Fans can enjoy a song and still face a market where attention, workers, and access are arranged to send one person an extreme share."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 104.693,
+   "end_sec": 116.893,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Consider a fan who saves for a concert, shares its songs with friends, and leaves feeling understood after a hard week. Her work created that real benefit without force, proving voluntary reward can be deserved."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 117.31,
+   "end_sec": 130.83,
+   "dur_sec": 13.52,
+   "overlap": false,
+   "text": "You did not ask a question, so I reject the idea that comfort proves desert. That fan's good feeling cannot turn unlimited private accumulation into fairness when others who enable the show receive far less, and your example-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 131.2,
+   "end_sec": 143.04,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "The industry also shapes merchandise, publicity, and what choices fans even see. But setting that aside, people still decide whether to buy, and she delivered work they valued; that supports deserving her fortune."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 143.929,
+   "end_sec": 157.169,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "No entertainer should ever deserve every dollar earned. A market price records power and scarcity, not a full moral contribution, and her enormous payout leaves too little recognition and security for the people whose labor supports it."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 158.015,
+   "end_sec": 169.745,
+   "dur_sec": 11.73,
+   "overlap": false,
+   "text": "If her audience freely chooses to spend on music and shows, what gives you the right to declare those exchanges morally invalid? You have shown inequality, not that she failed to earn her fortune."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 170.319,
+   "end_sec": 182.839,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Taylor Swift should deserve every dollar earned. That does not settle the motion, because a billion-dollar fortune includes leverage from a system that turns ordinary purchases into outsized control, so I oppose calling it deserved."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 183.039,
+   "end_sec": 190.199,
+   "dur_sec": 7.16,
+   "overlap": false,
+   "text": "They do no entertainer should ever deserve every dollar earned or they should taylor Swift should deserve every dollar earned?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 190.399,
+   "end_sec": 202.839,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "My first statement names an ideal about earnings; my second recognizes that her earnings can be legitimate while the fortune remains undeserved. This separates payment for work from concentrated power, so I oppose the motion."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 203.618,
+   "end_sec": 215.998,
+   "dur_sec": 12.38,
+   "overlap": false,
+   "text": "No, your distinction does not solve the contradiction: a fortune is earnings people chose to give. You call her payments legitimate, then deny their total, although repeated voluntary choices explain why her fortune is deserved."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 216.593,
+   "end_sec": 229.833,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "On the voluntary choices point, you treat consent as a blank check. People can choose within unfair options, and millions of small choices do not prove that one person morally deserves vast power beyond communities sustaining her."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 230.065,
+   "end_sec": 242.525,
+   "dur_sec": 12.46,
+   "overlap": false,
+   "text": "I agree that popularity alone is not a moral blank check. But you never show coercion or theft; you only dislike the scale, while she made work people freely reward, so she deserves her billion-dollar fortune.",
+   "ext_file": "L143_ext_a32.wav"
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 232.81,
+   "end_sec": 233.31,
+   "dur_sec": 0.5,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 242.81,
+   "end_sec": 255.97,
+   "dur_sec": 13.16,
+   "overlap": true,
+   "text": "Time. Now we move on to round three. Round three will be closing statements by each debater in turn. Making his closing statement in support of the resolution whether taylor swift truly deserves her billion-dollar fortune, Andreas."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 256.17,
+   "end_sec": 276.03,
+   "dur_sec": 19.86,
+   "overlap": false,
+   "text": "This decision turns on whether earned, voluntary support can make a large reward deserved. Nina rightly asks us to care about inequality, but concern is not evidence that this creator took what was not hers. Listeners chose the work, returned to it, and paid for it. That is the moral link between contribution and reward."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 276.17,
+   "end_sec": 277.33,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Andreas, ten seconds."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 276.23,
+   "end_sec": 284.08,
+   "dur_sec": 7.85,
+   "overlap": false,
+   "text": "Her fortune follows value freely exchanged, so the fair verdict is that she deserves it. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 284.28,
+   "end_sec": 285.88,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Nina, you're up first."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 286.08,
+   "end_sec": 306.44,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "The decision turns not on whether she worked hard, but whether popularity can justify extreme private command over shared resources. I granted that artists may deserve payment. Yet payment is not the same as a billion-dollar fortune. When markets magnify attention into overwhelming wealth, calling the result deserved confuses choice with justice. The motion should fail because fairness has limits."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 306.08,
+   "end_sec": 309.26,
+   "dur_sec": 3.18,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 306.64,
+   "end_sec": 317.94,
+   "dur_sec": 11.3,
+   "overlap": false,
+   "text": "Enjoying her work does not prove she deserves limitless wealth. Reward the art, but reject the claim that a billion-dollar fortune is morally deserved. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 318.14,
+   "end_sec": 324.16,
+   "dur_sec": 6.02,
+   "overlap": false,
+   "text": "Thank you, Andreas and Nina, for a thoughtful debate. That concludes our discussion of this motion today."
+  }
+ ]
+}

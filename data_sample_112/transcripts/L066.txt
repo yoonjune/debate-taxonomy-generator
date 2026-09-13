@@ -1,0 +1,40 @@
+L066  |  For the last four years, America got the Middle East right.
+  MOD=Monica   PRO=Betsy   CON=Nina
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Monica(MOD): Welcome. The motion is: for the last four years, America got the Middle East right. Betsy supports it, and Nina opposes it. Each has thirty seconds to open, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue.
+[t01] Betsy(PRO): America pursued steadier partnerships, contained wider conflict, and kept pressure on violent groups without pretending every dispute has a quick fix. Getting it right means protecting interests while leaving room for regional responsibility. That is what this approach did. That's all, thank you.
+[t02] @A2-2 Monica(MOD): You can come in, Nina.
+[t03] Nina(CON): Calling restraint success ignores people left exposed when promises became uncertain. A policy can avoid a larger fight and still fail.
+[t04] <ovl> <cut> Betsy(PRO): But your standard makes any unresolved danger-
+[t05] @A5 <ovl> Monica(MOD): Can you let her speak please?
+[t06] Nina(CON): -because uncertain backing invites rivals to test every boundary. Partners need clear commitments, not careful phrases that can be read as retreat.
+[t07] @A4 <ovl> Monica(MOD): Ten seconds, Nina.
+[t08] Nina(CON): Over four years, that uncertainty weakened deterrence, so America did not get the region right. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Monica(MOD): And that concludes round one. Now onto round two. And round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t10] Nina(CON): If this policy got the region right, why did partners repeatedly have to wonder whether support would arrive when threats rose? How does uncertainty create deterrence rather than invite testing?
+[t11] Betsy(PRO): Consider a partner facing attacks from armed groups: instead of sending Americans into another open-ended ground fight, America supplied support and demanded local responsibility. That protects people without deepening war, proving the approach was right.
+[t12] Nina(CON): That example raises the separate question of who carries the moral burden after a conflict ends, especially families whose homes and routines have already been broken. Debates over apologies and memory can shape whether those families trust any outside promise.
+[t13] @B1 Monica(MOD): What we are talking about here is for the last four years, America got the Middle East right. We're not going back into history.
+[t14] Nina(CON): The question is whether America got the Middle East right over these four years, and leaving partners unsure during danger was the wrong course. Prudence without dependable commitment is not sound policy.
+[t15] Betsy(PRO): Your point is that partners felt unsure, but you treat certainty as if it requires automatic military action. Clear limits can be more credible than broad promises America cannot responsibly keep.
+[t16] Nina(CON): I agree that America should not promise every partner unlimited help. But the main failure was mixed signals at crucial moments, and that made both friends and adversaries doubt American resolve.
+[t17] <cut> Betsy(PRO): If your answer is stronger commitments, where do you draw the line before America is dragged into every local dispute? You cannot call restraint failure while refusing to say what conflict you would-
+[t18] Nina(CON): I reject the premise that dependable support means entering every dispute. Decisions about equipment and training matter too, but the motion concerns the overall record, and that record made deterrence less believable.
+[t19] Betsy(PRO): The weakest part of that claim is calling the record less believable without showing why measured support is weakness. America retained leverage, avoided reckless escalation, and made partners carry more of their own defense.
+[t20] Nina(CON): I would not send America into every conflict; that is not my position. Your claim that leverage remained misses the point: leverage means little when opponents believe hesitation will prevent a firm response.
+[t21] Betsy(PRO): Your point is that hesitation invited challenges, but you equate a deliberate choice with paralysis. A firm response can be targeted, limited, and credible without turning every challenge into a wider war.
+[t22] @A4 <ovl> Monica(MOD): Ten seconds left, both of you.
+[t23] <cut> Nina(CON): I accept that targeted action can sometimes prevent a wider war. Yet the broader pattern lacked a dependable-
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Monica(MOD): Time's up. We need to move into our closing round. Betsy, you are up first with that, as you were at the beginning.
+[t25] Betsy(PRO): The opposition calls limits uncertainty, but limitless promises are less believable and more dangerous. America supported partners, checked violent threats, and avoided being pulled into another sprawling war. That combination of restraint and resolve got the Middle East right. That's all, thank you.
+[t26] @A2-2 Monica(MOD): Nina wants to answer that.
+[t27] Nina(CON): My strongest point is simple: deterrence depends on dependable commitments, and the last four years sent mixed signals when they mattered most. Avoiding a larger war can be wise, but it is not enough if partners and opponents both question whether America will act. A sound policy must make the answer clear.
+[t28] @A4 <ovl> Monica(MOD): You have ten seconds left.
+[t29] Nina(CON): It did not, and that uncertainty made the regional approach wrong. That's all, thank you.
+[t30] Monica(MOD): Thank you, Betsy and Nina, for a vigorous debate. That concludes our discussion of the motion.

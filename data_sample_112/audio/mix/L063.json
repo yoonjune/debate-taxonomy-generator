@@ -1,0 +1,403 @@
+{
+ "debate_id": "L063",
+ "motion": "Arab revolutions will just produce different dictators",
+ "speakers": {
+  "MOD": {
+   "name": "Marcia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  },
+  "PRO": {
+   "name": "Monica",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  },
+  "CON": {
+   "name": "Charles",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0177_72",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0177/MSP-PODCAST_0177_72.wav",
+   "wpm": 170.28
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 85.67,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 309.86,
+ "ext": {
+  "a32": {
+   "file": "L063_ext_a32.wav",
+   "place_at_sec": 222.649,
+   "dur_sec": 37.27,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Collective refusal can constrain power, but it rarely remains united after threats, favors, and factional conflict. Your question imagines perfect solidarity against an organized coercive force; revolutions commonly replace one controlling circle with another."
+  },
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "On solidarity, you mistake difficulty for impossibility. Threats and favors can divide people, yet shared institutions rebuild cooperation and give dissent a channel; because those channels can endure, different dictators are not the necessary outcome."
+  },
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Institutions can rebuild trust, and that is the strongest hope you offer. Yet those institutions require protection from the very armed rulers revolutions empower; without that protection, channels close and different dictators take their place."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.56,
+   "dur_sec": 20.56,
+   "overlap": false,
+   "text": "Welcome. The motion is: Arab revolutions will just produce different dictators. Monica supports it, and Charles opposes it. Each has thirty seconds for an opening, followed by two and a half minutes of crossfire. Then come thirty-second closings. I will give a ten-second cue. Please address the motion, not each other personally. Keep your answers clear and brief."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.76,
+   "end_sec": 38.12,
+   "dur_sec": 17.36,
+   "overlap": false,
+   "text": "Revolutions can remove a ruler, but they do not automatically build courts, shared rules, or restraint. When power is contested and institutions are weak, the most organized force wins. That force often governs through fear, so a new dictator replaces the old one again. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 38.32,
+   "end_sec": 41.48,
+   "dur_sec": 3.16,
+   "overlap": false,
+   "text": "Thank you, Monica. Speaking for the resolution. Charles, against."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 41.68,
+   "end_sec": 61.63,
+   "dur_sec": 19.95,
+   "overlap": false,
+   "text": "That claim treats people as spectators after a revolution. They are not. When local groups can organize, argue, and protect basic freedoms, no single leader can easily capture everything. Change can be fragile, but fragility is not destiny. The real question is whether people keep claiming a voice, because that continuing effort can limit rulers and"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 61.68,
+   "end_sec": 63.28,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 61.83,
+   "end_sec": 72.98,
+   "dur_sec": 11.15,
+   "overlap": false,
+   "text": "they can replace leaders without replacing freedom. You say weakness guarantees tyranny, yet people can learn to bargain, resist, and demand accountability. A revolution opens possibility, not destiny, and calling every uprising-",
+   "cut_at_sec": 71.34,
+   "full_dur_sec": 14.32,
+   "ext_file": "L063_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 72.18,
+   "end_sec": 75.82,
+   "dur_sec": 3.64,
+   "overlap": true,
+   "text": "I'm sorry. Your time is up. Thank you very much."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 76.02,
+   "end_sec": 87.31,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "And that concludes Round one. Now we move on to round two. Round two is where the debaters address one another. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 87.51,
+   "end_sec": 99.12,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "Charles calls organization a safeguard, but organization without enforceable limits simply gives disciplined factions an advantage. His hope depends on citizens restraining winners after power is seized, precisely when fear makes resistance hardest."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 99.807,
+   "end_sec": 111.897,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Where independent neighborhood councils remain able to meet openly, leaders face daily scrutiny and cannot rule by decree without resistance. Under that condition, revolutionary change can produce accountable government rather than a replacement dictator."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 112.528,
+   "end_sec": 124.968,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Open meetings can slow an aspiring strongman, and that is valuable. But councils survive only if armed winners permit them; once coercive power is concentrated, scrutiny becomes theater, which is why revolutions produce different dictators."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 125.848,
+   "end_sec": 138.258,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "Imagine a town where neighbors choose a council to settle disputes, publish decisions, and replace a representative who abuses power. That habit gives people leverage before one commander dominates, proving revolutions need not yield dictators."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 138.619,
+   "end_sec": 151.139,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "No, a town council cannot by itself guarantee safety from a commander. Your example assumes people retain leverage while force is becoming centralized; that is the contested moment, and armed victors decide it, producing dictators."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 151.609,
+   "end_sec": 164.419,
+   "dur_sec": 12.81,
+   "overlap": false,
+   "text": "Revolutions usually create a political opening, because people discover they can act together. Yet an opening is not a guarantee: where councils remain independent, it can deepen into rules that bind leaders rather than personal rule."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 164.973,
+   "end_sec": 176.743,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "Your word 'usually' hides the mechanism: openings close when whoever controls weapons writes the rules. Independent councils cannot bind that winner unless the winner accepts limits, and history's recurring lesson is that he-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 175.843,
+   "end_sec": 186.883,
+   "dur_sec": 11.04,
+   "overlap": true,
+   "text": "That assumes weapons decide everything. People can refuse orders, expose abuses, and coordinate protection; rulers need cooperation to govern, so armed control alone does not make dictatorship inevitable after a revolution."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.119,
+   "end_sec": 198.959,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Cooperation can restrain a ruler at first, and I grant that courage matters. But fear fractures cooperation once arrests and patronage begin, leaving a disciplined faction above society; that pattern produces different dictators."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 199.315,
+   "end_sec": 211.795,
+   "dur_sec": 12.48,
+   "overlap": false,
+   "text": "Picture a new assembly requiring public votes before emergency powers, while residents can challenge those powers in local meetings. A leader who tries to silence critics loses legitimacy and cooperation, proving institutions can prevent dictators."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 212.529,
+   "end_sec": 223.509,
+   "dur_sec": 10.98,
+   "overlap": false,
+   "text": "No, public votes do not ensure leaders lose cooperation when they silence critics. In a frightened society, assemblies can become rubber stamps, so emergency powers harden into personal rule and different dictators."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 224.289,
+   "end_sec": 236.439,
+   "dur_sec": 12.15,
+   "overlap": false,
+   "text": "You say fear always defeats cooperation, but how can a ruler maintain fear when workers, families, and local leaders withdraw obedience together? If collective refusal can constrain power, why call dictatorship the inevitable result?",
+   "ext_file": "L063_ext_a32.wav"
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 227.31,
+   "end_sec": 229.15,
+   "dur_sec": 1.84,
+   "overlap": true,
+   "text": "Ten seconds, both of you."
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 237.31,
+   "end_sec": 245.12,
+   "dur_sec": 7.81,
+   "overlap": true,
+   "text": "That's time. And that concludes round two of this debate. Making her closing statement in support of the resolution, here is Monica."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 245.32,
+   "end_sec": 265.48,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Charles says institutions can preserve cooperation. They can, but only when those institutions are stronger than the faction holding force. Revolutions often destroy the old restraints before durable new ones exist. In that gap, disciplined armed leaders set the rules, silence rivals, and call obedience stability. That is how one dictatorship becomes another, not real freedom."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 265.32,
+   "end_sec": 266.92,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 265.68,
+   "end_sec": 276.62,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "Your answer is possibility, not a safeguard. People may resist, but rulers who command weapons can punish resistance and reshape every institution around themselves. Until revolutions solve that imbalance, expecting-",
+   "cut_at_sec": 274.98,
+   "full_dur_sec": 14.92,
+   "ext_file": "L063_027.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 275.82,
+   "end_sec": 278.74,
+   "dur_sec": 2.92,
+   "overlap": true,
+   "text": "Okay, time. Thank you, Monica. Charles, your opening."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 278.94,
+   "end_sec": 298.98,
+   "dur_sec": 20.04,
+   "overlap": false,
+   "text": "Monica rightly warns that force can crush freedom, and no advocate should dismiss that risk. But her conclusion turns a danger into an unavoidable future. I return to the point about organized citizens: when they keep meeting, demanding reasons, and withdrawing cooperation, rulers cannot own life. Revolutions can create capacity, so they need not produce dictators."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 298.94,
+   "end_sec": 299.82,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 28,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 299.18,
+   "end_sec": 307.09,
+   "dur_sec": 7.91,
+   "overlap": false,
+   "text": "People can turn upheaval into accountable rule, and that possibility defeats 'just' in the motion. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 307.29,
+   "end_sec": 313.56,
+   "dur_sec": 6.27,
+   "overlap": false,
+   "text": "Thank you, Monica and Charles, for a vigorous debate. This concludes our discussion of the motion for tonight."
+  }
+ ]
+}

@@ -1,0 +1,416 @@
+{
+ "debate_id": "L205",
+ "motion": "Arab states should hand over the Sudanese president to the International Criminal Court",
+ "speakers": {
+  "MOD": {
+   "name": "Gloria",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1763_64",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1763/MSP-PODCAST_1763_64.wav",
+   "wpm": 173.81
+  },
+  "PRO": {
+   "name": "Jonathan",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3001_778",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_3001/MSP-PODCAST_3001_778.wav",
+   "wpm": 164.22
+  },
+  "CON": {
+   "name": "Kent",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 79.6,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 293.66,
+ "ext": {
+  "a32": {
+   "file": "L205_ext_a32.wav",
+   "place_at_sec": 224.689,
+   "dur_sec": 24.1,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "If Arab states refuse to hand him over and their regional process fails to compel testimony or protect victims, what remedy remains for those harmed? Why should they trust the same political shelter?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.09,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "Welcome. The motion is that Arab states should hand over the Sudanese president to the International Criminal Court; Jonathan supports it, and Kent opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue. Listen closely and keep remarks focused on the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.29,
+   "end_sec": 29.5,
+   "dur_sec": 9.21,
+   "overlap": false,
+   "text": "Handing him over is not punishment by neighbors; it is a lawful path to answer grave accusations. Arab states should not make safe refuge available."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 28.6,
+   "end_sec": 30.9,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No, you are treating an outside court as-",
+   "cut_at_sec": 30.9,
+   "full_dur_sec": 8.56,
+   "ext_file": "L205_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 30.1,
+   "end_sec": 31.7,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "No, wait, let Jonathan."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 31.9,
+   "end_sec": 42.06,
+   "dur_sec": 10.16,
+   "overlap": false,
+   "text": "Available to someone facing grave accusations. A court process gives victims a hearing and puts responsibility on one man, rather than letting regional politics bury the case."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.29,
+   "end_sec": 41.53,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Jonathan, ten seconds."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 42.26,
+   "end_sec": 49.74,
+   "dur_sec": 7.48,
+   "overlap": false,
+   "text": "Cooperation says office does not erase accountability, and that is why handover serves justice here. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 49.94,
+   "end_sec": 51.82,
+   "dur_sec": 1.88,
+   "overlap": false,
+   "text": "Kent against the motion, please."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.02,
+   "end_sec": 71.04,
+   "dur_sec": 19.02,
+   "overlap": false,
+   "text": "The accusation of grave harm matters, but surrender is not the only route to accountability. Arab states should press for a credible local process, protect fragile negotiations, and avoid letting a distant institution dictate a regional political settlement. Justice that ignores stability can leave victims less safe. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.24,
+   "end_sec": 83.49,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "And that concludes round one. Now on to round two. Round two is where the debaters address one and another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 83.69,
+   "end_sec": 95.89,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "If Arab states surrender him while conflict continues, how does that protect ordinary people rather than remove a possible bargaining channel and harden those around him? Why is your court path safer for them?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.168,
+   "end_sec": 107.288,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "When Arab states can safely transfer him without exposing witnesses or civilians to retaliation, they should do so. Keeping alleged power above law invites future violence and denies victims a forum."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 107.992,
+   "end_sec": 119.832,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "No leader should ever be surrendered to a foreign court. Arab states owe their people control over justice, and handing a president away invites outside leverage over every domestic dispute that follows later."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 120.323,
+   "end_sec": 131.893,
+   "dur_sec": 11.57,
+   "overlap": false,
+   "text": "I accept that a transfer can complicate negotiations. But your rule turns sovereignty into a shield: when leaders can avoid any outside court, victims are abandoned, so Arab states should hand him over."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 132.365,
+   "end_sec": 143.255,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "This leader should be surrendered to a foreign court. That outcome would give outsiders a prize for pressure, so Arab states should reject handover and build their own accountable process instead."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 143.455,
+   "end_sec": 152.385,
+   "dur_sec": 8.93,
+   "overlap": false,
+   "text": "They do no leader should ever be surrendered to a foreign court or they should this leader should be surrendered to a foreign court?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.585,
+   "end_sec": 164.705,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "I mean both statements: the first protects political independence, and the second recognizes that this president should be surrendered. Both express my demand that Arab states reject this motion's automatic handover and retain judgment."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 165.559,
+   "end_sec": 177.709,
+   "dur_sec": 12.15,
+   "overlap": false,
+   "text": "Accountability cannot be postponed until every danger disappears; leaders accused of grave abuse must face a credible legal process. Where transfer can be safe, Arab states should hand him over rather than shelter him."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 177.926,
+   "end_sec": 189.766,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Regional trade and shared water routes may suffer whenever leaders quarrel, and communities feel those strains first. Still, those concerns cannot decide this case; Arab states should refuse handover and pursue regional accountability."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 190.366,
+   "end_sec": 202.866,
+   "dur_sec": 12.5,
+   "overlap": false,
+   "text": "Your water-routes point is weakest because inconvenience to trade cannot answer accusations against a president. You then offer regional accountability without explaining who can compel it, which is why Arab states should hand him over."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.291,
+   "end_sec": 215.131,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "I agree that a regional process needs real power to compel cooperation. But the court's distance also weakens trust, and Arab states should keep responsibility close enough for affected communities to shape justice."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 215.815,
+   "end_sec": 228.135,
+   "dur_sec": 12.32,
+   "overlap": false,
+   "text": "On your point about the court's distance, victims need independence more than geographic closeness when national power protects the accused. Arab states can support communities by handing him over to a forum beyond his influence."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 223.49,
+   "end_sec": 226.22,
+   "dur_sec": 2.73,
+   "overlap": true,
+   "text": "About ten seconds left in the crossfire."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 228.579,
+   "end_sec": 234.29,
+   "dur_sec": 5.711,
+   "overlap": false,
+   "text": "No, distance does not make a forum independent; it can make it unanswerable to those living with the-",
+   "ext_file": "L205_ext_a32.wav",
+   "cut_at_sec": 230.4,
+   "full_dur_sec": 12.2
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 233.49,
+   "end_sec": 238.78,
+   "dur_sec": 5.29,
+   "overlap": true,
+   "text": "And that's time. Let's go to closing statements now. Jonathan, are you ready?"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 238.98,
+   "end_sec": 257.17,
+   "dur_sec": 18.19,
+   "overlap": false,
+   "text": "This choice turns on whether office and regional loyalty can block a serious legal reckoning. Kent offers local control, but offers no reliable way to overcome a president's protection. A transfer gives victims an independent hearing and tells future leaders that Arab states should hand him over. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 257.37,
+   "end_sec": 260.18,
+   "dur_sec": 2.81,
+   "overlap": false,
+   "text": "Kent, come on in your response."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 260.38,
+   "end_sec": 280.94,
+   "dur_sec": 20.56,
+   "overlap": false,
+   "text": "Jonathan is right that victims need more than promises, and no leader should hide behind office. But handover to a foreign court can turn justice into a tool of political pressure and weaken regional efforts to end violence. Arab states should build public hearings, safeguards, and local responsibility. It leaves room for voices that this court cannot hear."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 280.38,
+   "end_sec": 281.62,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.14,
+   "end_sec": 291.68,
+   "dur_sec": 10.54,
+   "overlap": false,
+   "text": "Those voices need protection from retaliation, and regional states are closer to the risks they face. A distant ruling may satisfy demand for action while leaving no settlement. Arab states-",
+   "cut_at_sec": 286.16,
+   "full_dur_sec": 15.0,
+   "ext_file": "L205_030.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 290.88,
+   "end_sec": 292.17,
+   "dur_sec": 1.29,
+   "overlap": true,
+   "text": "Not this time."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 292.37,
+   "end_sec": 299.18,
+   "dur_sec": 6.81,
+   "overlap": false,
+   "text": "Thank you, Jonathan and Kent, for a vigorous debate. This concludes our discussion of the motion today here."
+  }
+ ]
+}

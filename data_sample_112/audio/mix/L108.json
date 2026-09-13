@@ -1,0 +1,422 @@
+{
+ "debate_id": "L108",
+ "motion": "Policymakers should address the gender wage gap.",
+ "speakers": {
+  "MOD": {
+   "name": "Ben",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6676_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6676/MSP-PODCAST_6676_448.wav",
+   "wpm": 170.22
+  },
+  "PRO": {
+   "name": "Marcia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2943_167",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2943/MSP-PODCAST_2943_167.wav",
+   "wpm": 160.94
+  },
+  "CON": {
+   "name": "Mustafa",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 54.34,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 278.57,
+ "ext": {
+  "a32": {
+   "file": "L108_ext_a32.wav",
+   "place_at_sec": 200.94,
+   "dur_sec": 11.69,
+   "src_i": 18
+  }
+ },
+ "flags": [
+  "ext_a32: 마감 뒤 8.3초뿐 (여유분 부족)"
+ ],
+ "dropped_turns": [],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 14.64,
+   "dur_sec": 14.64,
+   "overlap": false,
+   "text": "Welcome. The motion is: Policymakers should address the gender wage gap. Marcia supports it, and Mustafa opposes it. Each opening is thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings; I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 14.84,
+   "end_sec": 29.34,
+   "dur_sec": 14.5,
+   "overlap": false,
+   "text": "The wage gap matters because pay shapes independence, security, and respect. Policymakers should examine unfair patterns, require clear standards, and give workers a practical path to challenge unequal treatment without having to fight alone. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 29.54,
+   "end_sec": 33.07,
+   "dur_sec": 3.53,
+   "overlap": false,
+   "text": "All right. Mustafa, do you want to come back on that?"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 33.27,
+   "end_sec": 47.97,
+   "dur_sec": 14.7,
+   "overlap": false,
+   "text": "Unequal pay for equal work is wrong, but this motion gives policymakers a vague and sweeping job. Wage differences can reflect many choices, and broad intervention can punish fair employers while reducing flexibility for workers. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 48.17,
+   "end_sec": 58.9,
+   "dur_sec": 10.73,
+   "overlap": false,
+   "text": "And that concludes round one. Now on to round two. That's where the debaters address each other directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 59.1,
+   "end_sec": 70.86,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Imagine a small shop forced to document every raise, schedule, and negotiation to defend itself. The owner spends evenings on forms instead of serving customers, proving broad wage-gap policy can burden ordinary workplaces."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 71.462,
+   "end_sec": 82.112,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "Your small-shop paperwork point assumes addressing the gap means drowning employers in forms. Clear pay ranges and a simple complaint process can catch unfair treatment while keeping honest workplaces workable."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 82.564,
+   "end_sec": 92.644,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "No employer should ever face wage-gap rules. They turn ordinary pay choices into paperwork and suspicion, so policymakers should leave wages to workers, firms, and existing contract law."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 93.185,
+   "end_sec": 104.475,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "No, I reject the idea that fair-pay safeguards automatically turn every pay choice into suspicion. Your rule ignores workers who are paid less for the same work and need policymakers to act."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 105.406,
+   "end_sec": 115.846,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "This bakery employer should face wage-gap rules. Its owner openly pays a woman less for the same shift, but that rare wrong does not justify a broad policymaker campaign."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 116.046,
+   "end_sec": 123.926,
+   "dur_sec": 7.88,
+   "overlap": false,
+   "text": "Mustafa, thank you very much indeed. You said no employer should ever face wage-gap rules. This bakery employer should face wage-gap rules?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 124.126,
+   "end_sec": 134.566,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "My first statement rejects blanket wage-gap rules; my bakery statement demands accountability for unfair pay. I oppose policymakers addressing a general gap, because individual disputes belong in ordinary enforcement."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 134.969,
+   "end_sec": 145.619,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "Pay also affects who can afford training, childcare, or a move to better work. But the motion is narrower: policymakers should address unfair gender pay patterns with practical, targeted protections."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 146.058,
+   "end_sec": 157.098,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "I am answering your targeted-protections point: targeted rules still require officials to judge why pay differs. That invites employers to standardize jobs and raises, which can reduce the flexibility workers value."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 158.081,
+   "end_sec": 168.971,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "Your weakest claim is that flexibility requires policymakers to do nothing. A worker has little real flexibility when she cannot see pay standards or challenge a lower rate for identical work."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 169.959,
+   "end_sec": 181.359,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "No, I reject your premise that transparency requires a policymaker campaign. Employers can publish pay ranges voluntarily, and workers can negotiate, switch jobs, or use existing remedies without a new wage-gap system."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 181.764,
+   "end_sec": 193.244,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "If voluntary transparency is enough, how does a worker discover unequal pay when every colleague is discouraged from discussing wages? Without public standards, why would the employer reveal conduct that harms it?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 194.109,
+   "end_sec": 205.229,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "I agree that secrecy can make unfair treatment harder to spot. But your main answer creates oversight for countless fair decisions, so policymakers should not address the gender wage gap broadly."
+  },
+  {
+   "i": 18,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 198.9,
+   "end_sec": 200.86,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "You both have ten seconds."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 205.5,
+   "end_sec": 209.7,
+   "dur_sec": 4.2,
+   "overlap": false,
+   "text": "Consider two workers doing the same closing shift, yet one receives less-",
+   "ext_file": "L108_ext_a32.wav",
+   "cut_at_sec": 205.14,
+   "full_dur_sec": 11.69
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 208.9,
+   "end_sec": 214.02,
+   "dur_sec": 5.12,
+   "overlap": true,
+   "text": "That's time. First we have closing statements. I will ask Marcia to speak first."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.22,
+   "end_sec": 223.83,
+   "dur_sec": 9.61,
+   "overlap": false,
+   "text": "This decision turns on whether fairness at work can be left entirely to private choices. When hidden pay patterns deny equal value, public action is necessary."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 222.93,
+   "end_sec": 225.23,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But public action will treat normal differences as-",
+   "cut_at_sec": 220.67,
+   "full_dur_sec": 9.28,
+   "ext_file": "L108_022.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 224.43,
+   "end_sec": 226.31,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "Let her finish. Go ahead."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 226.51,
+   "end_sec": 236.68,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "Public action need not erase every difference; it can ask whether comparable work is being valued fairly. That is the basic protection this motion requires."
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 234.22,
+   "end_sec": 235.83,
+   "dur_sec": 1.61,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 26,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 236.88,
+   "end_sec": 245.03,
+   "dur_sec": 8.15,
+   "overlap": false,
+   "text": "Choose accountability, transparency, and a fair chance for workers to challenge unequal pay. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 245.23,
+   "end_sec": 246.83,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Mustafa, over to you."
+  },
+  {
+   "i": 28,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 247.03,
+   "end_sec": 267.11,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "The strongest point is that a wage gap is not one simple wrong with one simple cause. Pay reflects roles, schedules, bargaining, and preferences. Policymakers cannot reliably separate unfairness from those choices without intruding into ordinary work decisions. That intrusion changes how employers hire, reward, and trust workers."
+  },
+  {
+   "i": 29,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 267.03,
+   "end_sec": 267.48,
+   "dur_sec": 0.45,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 30,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 267.31,
+   "end_sec": 278.33,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "Yet the remedy creates a standing system of reviews, forms, and second guesses around every raise. It tells employers that lawful judgment is suspect, and it draws policymakers into choices they cannot fully-",
+   "cut_at_sec": 271.47,
+   "full_dur_sec": 14.24,
+   "ext_file": "L108_030.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 277.53,
+   "end_sec": 279.7,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "Thank you, Mustafa. Your time is up."
+  },
+  {
+   "i": 32,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 279.9,
+   "end_sec": 285.43,
+   "dur_sec": 5.53,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate on whether policymakers should address the gender wage gap."
+  }
+ ]
+}

@@ -1,0 +1,397 @@
+{
+ "debate_id": "L206",
+ "motion": "It's time to clip America's global wings.",
+ "speakers": {
+  "MOD": {
+   "name": "Amanda",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0927_381",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0927/MSP-PODCAST_0927_381.wav",
+   "wpm": 176.74
+  },
+  "PRO": {
+   "name": "Derek",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  },
+  "CON": {
+   "name": "Jonas",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3957_253",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_3957/MSP-PODCAST_3957_253.wav",
+   "wpm": 155.56
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 71.74,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 286.27,
+ "ext": {
+  "a32": {
+   "file": "L206_ext_a32.wav",
+   "place_at_sec": 217.807,
+   "dur_sec": 22.77,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "If restraint abandons nobody, why must every partner receive an implied military guarantee? When promises repeatedly cost more than predicted, why should voters accept an overseas role with no clear boundary?"
+  },
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Your weakest point is the claim that every promise lacks a boundary. Leaders can set limits, review missions, and share responsibility; clipping global wings removes useful tools before testing better judgment."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.73,
+   "dur_sec": 18.73,
+   "overlap": false,
+   "text": "Welcome. The motion is: it's time to clip America's global wings. Derek argues for it, and Jonas argues against it. Each opening and closing gets thirty seconds, crossfire gets two and a half minutes, and I will give a ten-second cue. Keep remarks direct, address the motion, and let the other speaker finish."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.93,
+   "end_sec": 34.51,
+   "dur_sec": 15.58,
+   "overlap": false,
+   "text": "America can protect itself without trying to manage every distant dispute. Endless commitments drain attention, invite retaliation, and make promises leaders cannot keep. Clipping global wings means choosing defense, diplomacy, and strength at home over reflexive reach abroad. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 34.71,
+   "end_sec": 36.48,
+   "dur_sec": 1.77,
+   "overlap": false,
+   "text": "Jonas, over to you."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 36.68,
+   "end_sec": 56.74,
+   "dur_sec": 20.06,
+   "overlap": false,
+   "text": "Power used carefully is not vanity; it is a shield for partners, trade, and basic stability. If America steps back sharply, hostile forces do not pause, and smaller partners face pressure alone. The question is not whether mistakes happen, but whether retreat makes those dangers"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 56.68,
+   "end_sec": 58.69,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 56.94,
+   "end_sec": 64.61,
+   "dur_sec": 7.67,
+   "overlap": false,
+   "text": "worse for everyone who depends on steady engagement and a credible promise of support. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 64.81,
+   "end_sec": 75.62,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 75.82,
+   "end_sec": 86.58,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "You call withdrawal dangerous, but how many open-ended promises can a country make before its word becomes thin? Why should families at home carry burdens elected leaders cannot clearly define?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 86.994,
+   "end_sec": 97.274,
+   "dur_sec": 10.28,
+   "overlap": false,
+   "text": "Your weakest claim is that commitments automatically weaken us. A promise can deter trouble before it reaches home, and abandoning it merely shifts the cost into a later, harsher crisis."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 97.995,
+   "end_sec": 109.475,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Trade agreements deserve scrutiny because unfair deals can hollow out local work and reward governments that ignore basic rules. Better bargaining would rebuild leverage and give workers a fairer share of prosperity."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 109.675,
+   "end_sec": 113.605,
+   "dur_sec": 3.93,
+   "overlap": false,
+   "text": "We are debating it's time to clip america's global wings."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 113.805,
+   "end_sec": 125.645,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Trade matters, but we are debating global wings. No foreign military commitment should ever outrank care at home. How can you defend putting distant obligations above people whose government already owes them protection?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 126.296,
+   "end_sec": 137.276,
+   "dur_sec": 10.98,
+   "overlap": false,
+   "text": "I reject the premise that protecting partners means neglecting people at home. A capable country can do both, and your absolute rule would invite rivals to test every promise we have made."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.712,
+   "end_sec": 149.192,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Leaving families behind would stain us. The island evacuation is a foreign military commitment. This foreign military commitment should outrank care at home. That is why broader restraint still serves this motion."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 149.392,
+   "end_sec": 165.242,
+   "dur_sec": 15.85,
+   "overlap": false,
+   "text": "I must ask you to stop, thank you Derek, thank you very much indeed. You've slightly destroyed your own argument there, you said that no foreign military commitment should ever outrank care at home and then this foreign military commitment should outrank care at home."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 165.442,
+   "end_sec": 176.922,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Those statements fit because permanent burdens and an immediate rescue are morally different in purpose. I still reject commitments outranking care at home, while that evacuation expresses care through action, not empire."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 177.251,
+   "end_sec": 189.011,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Supply chains and travel also shape security, so isolation can disrupt ordinary life in ways people overlook. But the central question is power: clipping our global role too far leaves fewer peaceful options."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 189.359,
+   "end_sec": 200.119,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Your point about peaceful options ignores how commitments can create the very confrontations they claim to prevent. When leaders promise protection everywhere, rivals test limits, and ordinary people pay for-"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 199.219,
+   "end_sec": 209.309,
+   "dur_sec": 10.09,
+   "overlap": true,
+   "text": "No, that reverses cause and effect. What is your alternative when a rival threatens a partner: watch until danger grows, or act early enough that conflict never spreads further?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 210.032,
+   "end_sec": 220.792,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "I reject the premise that restraint means watching helplessly. We can use diplomacy, trade pressure, and narrow self-defense without maintaining a global posture that turns every regional dispute into ours."
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 215.62,
+   "end_sec": 216.86,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 221.687,
+   "end_sec": 226.42,
+   "dur_sec": 4.733,
+   "overlap": false,
+   "text": "I grant that leaders should define missions better and end failing ones. But your remedy-",
+   "ext_file": "L206_ext_a32.wav",
+   "cut_at_sec": 222.54,
+   "full_dur_sec": 11.45
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 225.62,
+   "end_sec": 233.31,
+   "dur_sec": 7.69,
+   "overlap": true,
+   "text": "But now, it is time to bring this all home with our closing round. Derek for your closing statement, you are up first."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 233.51,
+   "end_sec": 249.17,
+   "dur_sec": 15.66,
+   "overlap": false,
+   "text": "Jonas is right that sudden chaos can harm partners, but permanent overreach creates its own chaos and weakens democratic control. America should defend itself and help selectively. It is time to clip global wings and restore clear limits. That's all, thank you."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 249.37,
+   "end_sec": 253.22,
+   "dur_sec": 3.85,
+   "overlap": false,
+   "text": "Would you like to take it, Jonas? You started to speak."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 253.42,
+   "end_sec": 273.5,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "The strongest case against clipping is simple: restraint is wise, but retreat is not restraint. Partners need to know promises mean something, because uncertainty invites pressure and miscalculation. We can demand limits, share burdens, and correct bad missions. But cutting global wings would"
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 273.42,
+   "end_sec": 276.24,
+   "dur_sec": 2.82,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 273.7,
+   "end_sec": 284.72,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "turn careful influence into absence. America should remain engaged enough to deter aggression, protect vital ties, and keep choices open. Clipping its global wings would leave others exposed and make future crises-",
+   "cut_at_sec": 278.78,
+   "full_dur_sec": 14.09,
+   "ext_file": "L206_029.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 283.92,
+   "end_sec": 286.48,
+   "dur_sec": 2.56,
+   "overlap": true,
+   "text": "Thank you, Jonas. Your time is up."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 286.68,
+   "end_sec": 292.21,
+   "dur_sec": 5.53,
+   "overlap": false,
+   "text": "Thank you, Derek and Jonas, for a spirited debate. That concludes our discussion of tonight's motion."
+  }
+ ]
+}

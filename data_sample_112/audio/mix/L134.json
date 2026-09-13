@@ -1,0 +1,427 @@
+{
+ "debate_id": "L031",
+ "motion": "the world is better off with Wikileaks",
+ "speakers": {
+  "MOD": {
+   "name": "Ramesh",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4117_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4117/MSP-PODCAST_4117_448.wav",
+   "wpm": 173.57
+  },
+  "PRO": {
+   "name": "Liz",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2678_246",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2678/MSP-PODCAST_2678_246.wav",
+   "wpm": 168.22
+  },
+  "CON": {
+   "name": "Todd",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0341_111",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0341/MSP-PODCAST_0341_111.wav",
+   "wpm": 167.28
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 73.56,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 309.52,
+ "ext": {
+  "a32": {
+   "file": "L031_ext_a32.wav",
+   "place_at_sec": 219.536,
+   "dur_sec": 20.42,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Would you agree that readers need context to understand a long document, rather than just a headline? That practical problem remains another reason to doubt Wikileaks."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.29,
+   "dur_sec": 19.29,
+   "overlap": false,
+   "text": "Welcome. Our motion is that the world is better off with Wikileaks. Liz argues for it, and Todd argues against it. Each opening and closing lasts thirty seconds; then we have two and a half minutes of crossfire. I will give a ten-second cue before each timed segment ends. Keep answers direct and address the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.49,
+   "end_sec": 38.87,
+   "dur_sec": 19.38,
+   "overlap": false,
+   "text": "Leaks can expose abuse that hidden power would otherwise preserve. Wikileaks gives citizens material to question officials, rather than asking them to trust secret claims. Publication can require care, but a world with a channel for consequential evidence is better than one where powerful actors control every record. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 39.07,
+   "end_sec": 40.6,
+   "dur_sec": 1.53,
+   "overlap": false,
+   "text": "Todd, the floor is yours."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 40.8,
+   "end_sec": 61.0,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "Your claim treats disclosure as automatically empowering, but exposed files can endanger ordinary people and ruin delicate negotiations. Wikileaks does not answer to the people harmed by its choices. When a publisher releases a cache without accountable judgment, it can spread fear, expose private lives, and make future cooperation harder. That damage matters because"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 60.8,
+   "end_sec": 62.01,
+   "dur_sec": 1.21,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 61.2,
+   "end_sec": 68.74,
+   "dur_sec": 7.54,
+   "overlap": false,
+   "text": "a public's right to know does not erase its duty to avoid needless real harm. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 68.94,
+   "end_sec": 77.59,
+   "dur_sec": 8.65,
+   "overlap": false,
+   "text": "You're now going to argue with one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 77.79,
+   "end_sec": 87.43,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "Todd's point about harm ignores the harm of secrecy itself. When wrongdoing stays buried, those affected cannot challenge it, and officials face little reason to correct abuses."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 87.745,
+   "end_sec": 99.555,
+   "dur_sec": 11.81,
+   "overlap": false,
+   "text": "Security also depends on how people learn to judge documents, and schools should teach that skill. But the motion is about Wikileaks: its broad releases can create risks faster than readers can judge them."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 99.876,
+   "end_sec": 109.596,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "If readers need evidence to judge power, why should a platform that supplies it be rejected? What safer path lets citizens test official stories without simply trusting-"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 108.696,
+   "end_sec": 119.576,
+   "dur_sec": 10.88,
+   "overlap": true,
+   "text": "Because publishing everything is not the same as giving people usable proof. A responsible reporter weighs context and danger; Wikileaks can release material indiscriminately, so it makes the world less safe."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 119.897,
+   "end_sec": 129.817,
+   "dur_sec": 9.92,
+   "overlap": false,
+   "text": "When documents reveal serious official misconduct and identifying details are removed, publication strengthens public oversight. Under that condition, Wikileaks serves the public better than silence does for everyone."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 130.593,
+   "end_sec": 140.673,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "No, not when officials refuse independent review. Yet your condition assumes perfect redaction; one missed name or detail can expose vulnerable people, and Wikileaks cannot undo that harm."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 141.184,
+   "end_sec": 151.464,
+   "dur_sec": 10.28,
+   "overlap": false,
+   "text": "A missed detail might be a work schedule, a family reference, or a routine route. Then reviewers debate file formats, access settings, and who checked each page before upload."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 151.664,
+   "end_sec": 157.674,
+   "dur_sec": 6.01,
+   "overlap": false,
+   "text": "But we're getting a little bit off the question of whether the world is better off with wikileaks."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 157.874,
+   "end_sec": 169.274,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "The question is whether the world is better off with Wikileaks, and it is because secrecy needs a check. Risks call for careful handling, not abandoning a means of exposing public wrongdoing."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 169.619,
+   "end_sec": 180.299,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "If release is so valuable, would you publish a file that identifies a frightened source whose safety depends on secrecy? That choice shows why Wikileaks makes the world worse off."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 181.173,
+   "end_sec": 189.813,
+   "dur_sec": 8.64,
+   "overlap": false,
+   "text": "Public oversight matters beyond any single release: institutions with secrets should expect scrutiny. Wikileaks creates that expectation, which improves conduct before documents ever appear."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 190.597,
+   "end_sec": 200.447,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "Your expectation point is weakest because fear of exposure is not accountability. It can make officials avoid recording honest doubts, leaving the public with thinner, more misleading information."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 201.354,
+   "end_sec": 212.034,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "No, I would not publish identifying details that put a source at risk. But your example argues for redaction, while Wikileaks' existence still gives hidden misconduct a route into daylight."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 212.461,
+   "end_sec": 222.941,
+   "dur_sec": 10.48,
+   "overlap": false,
+   "text": "Your redaction point overlooks control: Wikileaks cannot guarantee careful redaction across every release. A system that sometimes protects people is not enough when one careless disclosure can cause lasting harm."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 217.59,
+   "end_sec": 220.32,
+   "dur_sec": 2.73,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 223.566,
+   "end_sec": 228.39,
+   "dur_sec": 4.824,
+   "overlap": false,
+   "text": "Imagine a public agency secretly dumping waste near homes, while its internal reports deny-",
+   "ext_file": "L031_ext_a32.wav",
+   "cut_at_sec": 224.36,
+   "full_dur_sec": 11.4
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 227.59,
+   "end_sec": 237.6,
+   "dur_sec": 10.01,
+   "overlap": true,
+   "text": "That's time. Okay, here's where we are, we are about to hear closing statements from each debater in turn. So here, making her final argument for the motion, Liz."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 237.8,
+   "end_sec": 257.96,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether we trust secrecy to police itself. Todd rightly notes that exposure can carry risks. But harm from a bad release is a reason for care, not a reason to erase a vital check on concealed power. Wikileaks gives evidence to people who would otherwise receive only official assurances. That is why"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 257.8,
+   "end_sec": 258.32,
+   "dur_sec": 0.52,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 258.16,
+   "end_sec": 269.1,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "we should judge the alternative. Without a place for suppressed evidence, abuse is easier to deny and victims go unheard. The better world lets secrecy be-",
+   "cut_at_sec": 265.07,
+   "full_dur_sec": 14.24,
+   "ext_file": "L031_027.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 268.3,
+   "end_sec": 273.59,
+   "dur_sec": 5.29,
+   "overlap": true,
+   "text": "Your time is up, Liz. Thank you. And here to summarize his position against the motion, Todd."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 273.79,
+   "end_sec": 294.51,
+   "dur_sec": 20.72,
+   "overlap": false,
+   "text": "Deciding this motion turns on who bears the cost when secrets are released. Liz calls disclosure a check, but unaccountable publication can strike innocent people. My strongest point is simple: Wikileaks cannot reliably protect everyone named in what it releases. Once private details spread, apologies cannot restore safety or trust. A better world needs exposure paired with responsibility for"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 293.79,
+   "end_sec": 296.76,
+   "dur_sec": 2.97,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 294.71,
+   "end_sec": 305.09,
+   "dur_sec": 10.38,
+   "overlap": false,
+   "text": "the people placed at risk. You cannot call a system better merely because it reveals some wrongdoing; it must also be safe enough to deserve trust. Wikileaks fails-",
+   "cut_at_sec": 301.06,
+   "full_dur_sec": 14.17,
+   "ext_file": "L031_031.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 304.29,
+   "end_sec": 307.9,
+   "dur_sec": 3.61,
+   "overlap": true,
+   "text": "Please come to an end, we're running out of time, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 308.1,
+   "end_sec": 313.55,
+   "dur_sec": 5.45,
+   "overlap": false,
+   "text": "Thank you both; this concludes our discussion of whether the world is better off with Wikileaks."
+  }
+ ]
+}

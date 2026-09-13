@@ -1,0 +1,416 @@
+{
+ "debate_id": "L019",
+ "motion": "Social media is bad for kids' mental health.",
+ "speakers": {
+  "MOD": {
+   "name": "Rachel",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3725_146",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3725/MSP-PODCAST_3725_146.wav",
+   "wpm": 172.52
+  },
+  "PRO": {
+   "name": "Joanna",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "CON": {
+   "name": "Henry",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4066_400",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4066/MSP-PODCAST_4066_400.wav",
+   "wpm": 162.5
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 76.34,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 284.11,
+ "ext": {
+  "a32": {
+   "file": "L019_ext_a32.wav",
+   "place_at_sec": 220.739,
+   "dur_sec": 21.1,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "I grant that some children find real support online, but that is the smaller point. The larger pattern is relentless comparison and exclusion, making social media bad for kids' mental health."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.76,
+   "dur_sec": 16.76,
+   "overlap": false,
+   "text": "Today's motion is that social media is bad for kids' mental health. Joanna takes the FOR side, and Henry takes the AGAINST side. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Closings last thirty seconds, and I'll give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.96,
+   "end_sec": 33.86,
+   "dur_sec": 16.9,
+   "overlap": false,
+   "text": "Social media is bad for kids' mental health because it turns comparison, popularity, and rejection into a constant presence. Kids are still building confidence, so endless pressure can deepen anxiety and isolation. Even useful connections do not cancel that broader harm. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 34.06,
+   "end_sec": 35.58,
+   "dur_sec": 1.52,
+   "overlap": false,
+   "text": "Great, Henry, go ahead."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 35.78,
+   "end_sec": 55.71,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Some children do feel worse after constant comparison, and I grant that point. But the motion says social media is bad for kids' mental health, as if the medium itself causes the harm. In practice, thoughtful use can offer friendship, creativity, and support; I want to explain why that difference matters."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 55.78,
+   "end_sec": 57.38,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 55.91,
+   "end_sec": 67.08,
+   "dur_sec": 11.17,
+   "overlap": false,
+   "text": "A child can follow a hobby, share a joke, or find someone who understands an embarrassing problem. Those benefits can build confidence, while adults can limit cruel-",
+   "cut_at_sec": 64.82,
+   "full_dur_sec": 14.24,
+   "ext_file": "L019_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 66.28,
+   "end_sec": 66.8,
+   "dur_sec": 0.52,
+   "overlap": true,
+   "text": "Time."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 67.0,
+   "end_sec": 78.6,
+   "dur_sec": 11.6,
+   "overlap": false,
+   "text": "And that concludes opening statements and round one. Now, onto round two. This is where the debaters address each other directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 78.8,
+   "end_sec": 90.81,
+   "dur_sec": 12.01,
+   "overlap": false,
+   "text": "I agree that constant comparison can hurt some children, but that does not describe every use or every child. When social media helps a lonely kid find support, the motion's blanket judgment is false."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 91.24,
+   "end_sec": 103.97,
+   "dur_sec": 12.73,
+   "overlap": false,
+   "text": "You call my case a blanket judgment, but you just admitted comparison can hurt children. The question is whether that harm is built into ordinary use, and constant exposure makes social media bad for their mental health."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 104.346,
+   "end_sec": 115.716,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "If helpful connection and harmful comparison both exist, why blame social media rather than the way a child uses it? That distinction matters because a flexible tool can support kids' mental health."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.059,
+   "end_sec": 128.229,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "Parents also have to decide when phones belong away from the dinner table, and that can be difficult. Still, those household rules exist because social media's pressures reach children repeatedly and damage their mental health."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 128.603,
+   "end_sec": 141.123,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "You're saying frequent exposure proves the platform is harmful, but frequency alone does not decide an effect. Reading, talking, or creating often can help a child; the real question is what the child does, not-"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 140.223,
+   "end_sec": 152.313,
+   "dur_sec": 12.09,
+   "overlap": true,
+   "text": "Not every activity carries the same social pressure. A child can create happily, yet still face public judgment, exclusion, and comparison that follow them home; that repeated pressure is why social media harms mental health."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.784,
+   "end_sec": 166.384,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "I accept that public judgment can be painful, but children can also block, leave, or avoid those spaces. Since the same tool can provide belonging without causing distress, social media is not inherently bad for kids' mental health."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 167.196,
+   "end_sec": 180.086,
+   "dur_sec": 12.89,
+   "overlap": false,
+   "text": "A blocked account does not erase every message already seen. A child may change a profile picture, check comments, and wonder who viewed it, while friends discuss the post afterward. Those choices can shape a tense evening."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 180.286,
+   "end_sec": 186.856,
+   "dur_sec": 6.57,
+   "overlap": false,
+   "text": "We're not talking about that, we're talking about social media is bad for kids' mental health, that's what we'll concentrate on."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.056,
+   "end_sec": 198.586,
+   "dur_sec": 11.53,
+   "overlap": false,
+   "text": "The motion asks whether social media is bad for kids' mental health, and repeated checking, comparison, and fear of exclusion show why it is. A few helpful interactions cannot outweigh that everyday pressure."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 199.15,
+   "end_sec": 211.32,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "A shy child can join a moderated hobby group, exchange ideas, and discover friends without speaking in a crowded room. That new confidence shows social media can support kids' mental health rather than damage it."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 212.29,
+   "end_sec": 222.29,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "Your shy-child example overlooks the wider experience. How does one supportive group answer the anxiety created when children constantly measure their lives against carefully displayed versions of others?"
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 218.6,
+   "end_sec": 220.74,
+   "dur_sec": 2.14,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 222.999,
+   "end_sec": 229.4,
+   "dur_sec": 6.401,
+   "overlap": false,
+   "text": "It does not answer every risk, but it shows the question cannot have one verdict for every child. Different experiences-",
+   "ext_file": "L019_ext_a32.wav",
+   "cut_at_sec": 227.14,
+   "full_dur_sec": 10.33
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 228.6,
+   "end_sec": 237.52,
+   "dur_sec": 8.92,
+   "overlap": true,
+   "text": "Time. Now, we move on to round three, and round three are closing statements by each debater in turn. And making her closing statement, Joanna."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 237.72,
+   "end_sec": 247.49,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "Henry's best point is that some children use social media well. But healthy use does not erase the wider harm: platforms reward comparison and keep young users..."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 246.59,
+   "end_sec": 248.89,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No, that assumes every child experiences-",
+   "cut_at_sec": 246.63,
+   "full_dur_sec": 9.72,
+   "ext_file": "L019_025.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 248.09,
+   "end_sec": 250.05,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Please let her finish, please."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 250.25,
+   "end_sec": 260.42,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "checking for approval and fearing exclusion. The issue is not whether benefits exist; it is whether this environment predictably harms developing minds, and it does."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 257.72,
+   "end_sec": 258.96,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Joanna, ten seconds."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 260.62,
+   "end_sec": 268.22,
+   "dur_sec": 7.6,
+   "overlap": false,
+   "text": "Kids deserve connection without constant comparison, so social media is bad for their mental health. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 268.42,
+   "end_sec": 270.02,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Oh, Henry go ahead."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 270.22,
+   "end_sec": 284.85,
+   "dur_sec": 14.63,
+   "overlap": false,
+   "text": "This motion turns real risks into an unfair verdict about every child and every use. What matters is whether social media can sometimes support confidence, friendship, and belonging. Since it can, the motion is false. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 285.05,
+   "end_sec": 290.5,
+   "dur_sec": 5.45,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate; I am closing it now without declaring a winner."
+  }
+ ]
+}

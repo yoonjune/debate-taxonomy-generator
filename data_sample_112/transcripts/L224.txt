@@ -1,0 +1,39 @@
+L224  |  Charter schools are overrated.
+  MOD=Kirsten   PRO=Gideon   CON=Liz
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Kirsten(MOD): Welcome. Tonight's motion is charter schools are overrated. Gideon supports the motion, and Liz opposes it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue. Keep remarks direct, address the motion, and allow each other room to speak. We begin now.
+[t01] Gideon(PRO): Charter schools are overrated because their promise of freedom often removes the safeguards families need. A school can choose its own approach, yet parents may discover too late that lessons are thin or discipline is chaotic. Choice sounds powerful, but it shifts the burden onto families who need reliability. Public money should buy dependable education, not experiments.
+[t02] @A4 <ovl> Kirsten(MOD): Ten seconds.
+[t03] <cut> Gideon(PRO): That is why glossy success stories should not settle this question. When a system asks parents to gamble on basic instruction, its celebrated flexibility becomes a weakness-
+[t04] @A2-1 <ovl> Kirsten(MOD): Gideon, that's your time. Thank you. And now, Liz.
+[t05] Liz(CON): Charter schools are not overrated because they give families an option when a nearby school is not serving a child well. Their independence can let teachers build a calmer routine or a different curriculum. That is not empty marketing; it is a practical escape from being assigned one path. The question is whether families deserve an option.
+[t06] @A4 <ovl> Kirsten(MOD): Well, now it's ten.
+[t07] Liz(CON): Families should not lose a useful choice simply because some schools elsewhere perform badly. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Kirsten(MOD): That concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+[t09] Gideon(PRO): Imagine a child moved from a stable neighborhood school to a charter that suddenly closes midyear. The family scrambles, friendships vanish, and learning stalls. That disruption proves the charter promise is overrated.
+[t10] Liz(CON): Funding rules matter more than labels, because every public program needs clear contracts, transport plans, and fair enrollment procedures. Officials should publish budgets plainly, train staff well, and make appeals easy for parents. Those rules shape trust.
+[t11] @B1 Kirsten(MOD): We're talking about whether charter schools are overrated across the public school system.
+[t12] Liz(CON): We're discussing whether charter schools are overrated, and families can judge a school by its daily results rather than a label. Every charter school deserves public trust, because it offers families an option beyond a single assigned school.
+[t13] Gideon(PRO): Liz's point about daily results ignores that families cannot safely judge everything before enrolling. A school may look welcoming while hiding weak instruction or instability. That information gap is why the charter model receives praise than it earns.
+[t14] Liz(CON): This charter school does not deserve public trust. Its leaders misled families, and it should lose approval; calling out a failure protects choice by making room for better nearby alternatives.
+[t15] @B2 Kirsten(MOD): But you can't have it both ways, you can't every charter school deserves public trust on one hand and then this charter school does not deserve public trust the next.
+[t16] Liz(CON): Trust belongs to the opportunity, not a blank check for every operator. Families deserve a range of schools, while bad leaders deserve removal. Defending charter schools means protecting the option and refusing to pretend each building is flawless.
+[t17] <cut> Gideon(PRO): At one charter, staff spent weeks preparing children for a test, then dropped art and science when scores worried them. Parents received polished notices, but students lost a fuller education, showing the advertised freedom can-
+[t18] <ovl> Liz(CON): That is not freedom's fault; it is a leadership failure, and families can leave when they see it. A charter with teachers who restore art and science can respond faster than a rigid district system.
+[t19] Gideon(PRO): Your claim that families can simply leave is the weakest part of your answer. Leaving after damage is not a remedy, especially when seats elsewhere are scarce or transport is hard. A system that demands escape is overrated.
+[t20] Liz(CON): Gideon, your escape argument treats every charter as a trap, but families choose them for smaller settings, focused teaching, or a fresh start. They can weigh gains before enrolling. That agency is why charter schools are not overrated.
+[t21] @A4 <ovl> Kirsten(MOD): Ten seconds left on the clock.
+[t22] <cut> Gideon(PRO): If public oversight is so valuable, why should families have to uncover failures only after a charter opens-
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Kirsten(MOD): Time's up. That concludes round two. So let's move on to round three closing statements and here making his final argument in support of the motion that charter schools are overrated across the public school system is Gideon.
+[t24] Gideon(PRO): Deciding this motion turns on whether a label is enough to earn public confidence. Liz says families have options, but an option that can hide weak teaching, close abruptly, or demand rescue after harm is not dependable. We should judge the system by what it reliably gives children, not by its promises of flexibility.
+[t25] @A4 <ovl> Kirsten(MOD): You have ten seconds.
+[t26] Gideon(PRO): Charter schools are overrated when families bear risks that public systems should prevent first. That's all, thank you.
+[t27] @A2-2 Kirsten(MOD): All right, Liz, take that on.
+[t28] Liz(CON): Gideon's best point is that families need protection from bad schools, and I agree. But that argues for firm oversight, not dismissing an entire source of choices and tailored classrooms. A tool can be misused without being overrated; charter schools remain a worthwhile option for families. That's all, thank you.
+[t29] Kirsten(MOD): Thank you, Gideon and Liz, for a thoughtful exchange. That concludes our debate on charter schools today.

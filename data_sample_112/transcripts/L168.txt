@@ -1,0 +1,41 @@
+L168  |  Silicon Valley has lost its soul.
+  MOD=Mira   PRO=Rich   CON=Ralph
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Mira(MOD): Welcome to our debate. The motion is: Silicon Valley has lost its soul. Rich speaks for the motion, and Ralph speaks against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; please address each other directly, stay on the motion, and I will give a ten-second cue.
+[t01] Rich(PRO): Silicon Valley once sold a belief that clever tools could widen ordinary people's choices. Now its loudest habits reward capture, surveillance, and quick exits. Workers are treated as inputs, users as inventory, and communities as obstacles. That change matters because a place loses its soul when human purpose becomes a slogan. I will show how that bargain broke.
+[t02] @A4 <ovl> Mira(MOD): Just, just about ten seconds left.
+[t03] <cut> Rich(PRO): The damage is visible in products that demand attention, extract personal life, and call dependence connection. A culture can still make brilliant machines while forgetting whom-
+[t04] @A2-1 <ovl> Mira(MOD): Rich, you're rather going on. Thank you. Ralph.
+[t05] Ralph(CON): That story mistakes visible bad behavior for the character of an entire creative community. Silicon Valley is not a single boardroom; it is people repeatedly trying to solve hard problems with imperfect tools. Its soul is the stubborn habit of building, questioning, and starting again, even when powerful firms disappoint us.
+[t06] @A4 <ovl> Mira(MOD): You've got ten seconds.
+[t07] Ralph(CON): A soul is not lost because some people betray it; it survives in those who refuse to. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Mira(MOD): Okay, well let's mix it up. Let's start the conversation. Two and a half minutes on the clock, starting the moment I stop talking.
+[t09] Rich(PRO): Consider a neighborhood shop pushed to buy opaque software just to reach customers, then trapped by rising fees. The tool no longer serves the neighborhood; it proves the Valley's priorities have hardened.
+[t10] Ralph(CON): When founders remain accountable to the people using a tool, profit and care can reinforce each other. Under that condition, Silicon Valley still shows its soul through useful invention and honest repair.
+[t11] Rich(PRO): If accountability is the test, why do so many products hide their costs until people are dependent? Answer that plainly: isn't a culture built on concealment evidence that its soul has been traded away?
+[t12] Ralph(CON): Innovation always serves people before profit. That is why even flawed companies can be challenged by workers, users, and rival builders who keep the Valley's basic moral purpose alive.
+[t13] Rich(PRO): I agree that some builders still care deeply about users. But a few decent people cannot rescue a culture whose rewards favor extraction; the dominant incentives show Silicon Valley has lost its soul.
+[t14] Ralph(CON): A compulsive scrolling platform does not serve people before profit. I would stop it, because bad inventions deserve resistance, yet the people resisting them show Silicon Valley's soul remains.
+[t15] @B2 Mira(MOD): Ralph, thank you very much indeed. You said innovation always serves people before profit. A compulsive scrolling platform does not serve people before profit?
+[t16] Ralph(CON): They fit because the first expresses what innovation is for, while the second identifies a betrayal of that purpose. Naming betrayal is not surrender; resistance inside the Valley proves its conscience is alive.
+[t17] Rich(PRO): People also worry about rent, crowded buses, and who gets invited into rooms where ideas become companies. Those concerns matter, but the motion is about moral character, and its profit-first culture has lost its soul.
+[t18] Ralph(CON): The soul survives beyond any one accountable founder, in mentors, tinkerers, and users who demand better tools. Doesn't that wider community show the Valley cannot simply lose its soul?
+[t19] <cut> Rich(PRO): No, a surviving pocket is not the Valley's soul when its institutions reward the opposite. Your wider community is fighting the culture, not defining it, and that struggle shows the loss is-
+[t20] <ovl> Ralph(CON): No, that struggle shows a living moral argument, not a corpse. People inside this community build alternatives, expose abuse, and force repairs; a place with that capacity has not lost its soul.
+[t21] Rich(PRO): Your living moral argument point confuses protest with health. A conscience that must constantly fight its own institutions signals power has abandoned the values it advertises, so the Valley has lost its soul.
+[t22] @A4 <ovl> Mira(MOD): Ten seconds, and then closing statements.
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Mira(MOD): And that's time. I want to move into our third round, which is basically closing statements from each of you. And Rich, you again, get to go first on this.
+[t24] Rich(PRO): We have heard that good people and useful tools still exist. I grant that, but the motion asks about the Valley's governing spirit, not whether every person inside it is cruel. When attention, data, and dependence become default business models, human dignity becomes secondary. The deciding question is what those habits reward.
+[t25] @A4 <ovl> Mira(MOD): Ten seconds for last word.
+[t26] Rich(PRO): They reward extraction over care, so Silicon Valley has lost the soul that justified its power. That's all, thank you.
+[t27] @A2-2 Mira(MOD): All right, let's give Ralph a chance to reply.
+[t28] Ralph(CON): This motion turns on whether a place is defined only by its worst incentives or by the people who contest them. The other side treats corruption as final proof of emptiness. I see workers, users, and builders refusing that emptiness, making useful things, and demanding repair. A soul is not purity; it is the capacity to recognize failure and choose better.
+[t29] @A4 <ovl> Mira(MOD): I'll give you ten more seconds to nail this.
+[t30] Ralph(CON): Silicon Valley has serious failures, and those failures deserve pressure, rules, and better choices. But a community still capable of reform has not lost its soul. That's all, thank you.
+[t31] Mira(MOD): Thank you, Rich and Ralph, for the debate. This concludes our discussion of Silicon Valley's soul.

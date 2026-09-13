@@ -1,0 +1,403 @@
+{
+ "debate_id": "L082",
+ "motion": "It is time to end the COVID emergency.",
+ "speakers": {
+  "MOD": {
+   "name": "James",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6699_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6699/MSP-PODCAST_6699_79.wav",
+   "wpm": 176.38
+  },
+  "PRO": {
+   "name": "Danielle",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0860_780",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0860/MSP-PODCAST_0860_780.wav",
+   "wpm": 165.06
+  },
+  "CON": {
+   "name": "Ross",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6071_804",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6071/MSP-PODCAST_6071_804.wav",
+   "wpm": 168.17
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 87.28,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 282.52,
+ "ext": {
+  "a32": {
+   "file": "L082_ext_a32.wav",
+   "place_at_sec": 226.657,
+   "dur_sec": 29.08,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X11",
+   "text": "I agree that vulnerable people deserve reliable support and no one should be abandoned during transition. But you make their security depend on a temporary crisis label rather than durable services and accountable rules; ending the emergency forces that responsibility into the open."
+  },
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "If ordinary rules are truly ready, why should people trust that rapid protections will appear when conditions worsen again? You have not shown how ending the emergency protects those who cannot afford a delayed response."
+  },
+  {
+   "src_i": 26,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "A worker can receive clear workplace guidance, routine care, and paid support through standing rules without wondering whether each protection vanishes with a crisis order. Building those dependable channels proves the emergency can end without abandoning preparedness."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.65,
+   "dur_sec": 16.65,
+   "overlap": false,
+   "text": "Welcome to our debate on whether it is time to end the COVID emergency. Danielle argues for the motion, and Ross argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.85,
+   "end_sec": 37.05,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "The emergency was created for an extraordinary moment, when broad temporary powers and constant crisis rules were needed. That moment cannot become permanent just because uncertainty remains. People need ordinary institutions, clear limits, and the confidence to make daily choices without living under an official state of alarm."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 36.85,
+   "end_sec": 38.09,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 37.25,
+   "end_sec": 44.91,
+   "dur_sec": 7.66,
+   "overlap": false,
+   "text": "End the emergency now, while keeping practical health tools available through normal democratic rules. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 45.11,
+   "end_sec": 46.63,
+   "dur_sec": 1.52,
+   "overlap": false,
+   "text": "Great, Ross, go ahead."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 46.83,
+   "end_sec": 56.03,
+   "dur_sec": 9.2,
+   "overlap": false,
+   "text": "Ending an emergency is not just changing a label. It signals that shared vigilance can relax while vulnerable people still face serious disruption."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 55.13,
+   "end_sec": 57.43,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But you are treating caution as if it requires-",
+   "cut_at_sec": 55.74,
+   "full_dur_sec": 8.92,
+   "ext_file": "L082_006.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 56.63,
+   "end_sec": 58.08,
+   "dur_sec": 1.45,
+   "overlap": true,
+   "text": "Let him answer that."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 58.28,
+   "end_sec": 68.64,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "It signals that shared vigilance can relax while vulnerable people still face serious disruption. The question is whether normal rules can respond quickly enough when conditions shift and people need protection."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 66.83,
+   "end_sec": 68.35,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 68.84,
+   "end_sec": 77.14,
+   "dur_sec": 8.3,
+   "overlap": false,
+   "text": "Until that protection is reliably built into ordinary systems, ending the emergency is a risky declaration. That's all, thank you."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 77.34,
+   "end_sec": 91.27,
+   "dur_sec": 13.93,
+   "overlap": false,
+   "text": "We are now into round two. In this part of the debate, the debaters can address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 91.47,
+   "end_sec": 105.71,
+   "dur_sec": 14.24,
+   "overlap": false,
+   "text": "Consider a parent whose child needs routine help but faces confusing emergency rules and delayed appointments. Replacing crisis directives with clear ordinary services lets that family plan, ask questions, and get care; that proves ending the emergency restores usable support."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 106.311,
+   "end_sec": 119.601,
+   "dur_sec": 13.29,
+   "overlap": false,
+   "text": "The larger issue is whether ordinary health services have enough staff, supplies, and stable funding to meet needs. If those systems are hollowed out, families will still wait, and the real fight is building dependable services for everyone."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 119.801,
+   "end_sec": 125.651,
+   "dur_sec": 5.85,
+   "overlap": false,
+   "text": "Okay. What does your point have to do with it is time to end the COVID emergency?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 125.851,
+   "end_sec": 141.061,
+   "dur_sec": 15.21,
+   "overlap": false,
+   "text": "Ending the COVID emergency matters because it removes the public signal to maintain fast, coordinated protection when illness still disrupts households. Ordinary systems may be valuable, but they have not yet shown they can react without losing the people who need help first."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 141.391,
+   "end_sec": 153.231,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Your point about a public signal mistakes emergency status for preparedness. We can maintain clear guidance and rapid response through ordinary rules, while ending the indefinite crisis framework that makes every decision feel-"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.331,
+   "end_sec": 165.301,
+   "dur_sec": 12.97,
+   "overlap": true,
+   "text": "No, ordinary rules often move slowly when a threat changes, and that delay falls hardest on people already exposed. Keeping the emergency preserves a ready mechanism for coordinated action; that is why ending it now is premature."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 166.108,
+   "end_sec": 180.068,
+   "dur_sec": 13.96,
+   "overlap": false,
+   "text": "No emergency should ever outlast the danger. Ending this one does not erase practical protections; it places them under transparent ordinary rules, where people can question them and leaders must justify them, which is healthier than permanent exceptional authority."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 180.377,
+   "end_sec": 194.067,
+   "dur_sec": 13.69,
+   "overlap": false,
+   "text": "Imagine a caregiver whose relative suddenly needs a protective visit and finds that coordination has been scaled back after the declaration ends. A continuing emergency keeps those channels active and visible; that proves the safeguard should remain for now."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 194.802,
+   "end_sec": 208.322,
+   "dur_sec": 13.52,
+   "overlap": false,
+   "text": "This emergency should outlast the danger. Ending its formal label now still favors the motion because the danger that justified sweeping emergency authority has passed, and practical support belongs in regular services rather than a permanent crisis order."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 208.522,
+   "end_sec": 215.972,
+   "dur_sec": 7.45,
+   "overlap": false,
+   "text": "So one moment it's no emergency should ever outlast the danger and the next moment it's this emergency should outlast the danger?"
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 216.172,
+   "end_sec": 230.402,
+   "dur_sec": 14.23,
+   "overlap": false,
+   "text": "Those statements fit because an emergency must not continue past the danger that justifies emergency authority, while this emergency should outlast the danger as a public memory of what happened. The formal order should still end, which supports the motion."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 230.647,
+   "end_sec": 242.07,
+   "dur_sec": 11.423,
+   "overlap": false,
+   "text": "Your point about public memory avoids the real issue: removing emergency status can remove urgency before ordinary services are ready. Labels shape coordination and responsibility, so ending this one now risks leaving people-",
+   "ext_file": "L082_ext_a32.wav",
+   "cut_at_sec": 238.08,
+   "full_dur_sec": 13.52
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 231.27,
+   "end_sec": 233.52,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 241.27,
+   "end_sec": 246.32,
+   "dur_sec": 5.05,
+   "overlap": true,
+   "text": "Time's up. Let's move on now to our closing round. Danielle, you're up first."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 246.52,
+   "end_sec": 263.49,
+   "dur_sec": 16.97,
+   "overlap": false,
+   "text": "This decision turns on whether temporary emergency authority has become a substitute for durable public care. We can keep practical protections, clear guidance, and rapid planning without preserving an indefinite crisis status. End the emergency, and make ordinary institutions answer for protecting people. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 263.69,
+   "end_sec": 265.94,
+   "dur_sec": 2.25,
+   "overlap": false,
+   "text": "Okay. I want to go to Ross."
+  },
+  {
+   "i": 28,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.14,
+   "end_sec": 283.81,
+   "dur_sec": 17.67,
+   "overlap": false,
+   "text": "This decision turns on whether ordinary systems are ready to carry the weight now placed on emergency coordination. They are not reliably ready for people who need swift protection when conditions change. Until durable safeguards are proven in practice, do not end the emergency. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 284.01,
+   "end_sec": 290.5,
+   "dur_sec": 6.49,
+   "overlap": false,
+   "text": "Thank you, Danielle and Ross, for a thoughtful debate on whether it is time to end the COVID emergency."
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+L194  |  Qualified immunity for cops should be ended.
+  MOD=Ismail   PRO=Rick   CON=Joshua
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Ismail(MOD): Welcome. Tonight's motion is qualified immunity for cops should be ended. Rick supports it, and Joshua opposes it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue.
+[t01] Rick(PRO): Qualified immunity blocks accountability before harmed people can test the facts. It should end.
+[t02] <ovl> <cut> Joshua(CON): That ignores the impossible choices officers-
+[t03] @A5 <ovl> Ismail(MOD): Let him reply to that please.
+[t04] Rick(PRO): And it tells officers obvious harm can escape review, even when rights were plain. Courts should hear claims rather than dismiss them at the doorway.
+[t05] Rick(PRO): Ending this special shield restores ordinary accountability while leaving officers every defense available to everyone else. That's all, thank you.
+[t06] @A4 <ovl> Ismail(MOD): Well, now it's ten.
+[t07] @A2-2 Ismail(MOD): All right, Joshua, take that on.
+[t08] Joshua(CON): My opponent treats every dismissed claim as proven misconduct, but law needs room for reasonable mistakes. In a fast, uncertain encounter, an officer should not fear personal ruin because a court later invents a clearer rule. Reform bad conduct directly; do not erase qualified immunity. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Ismail(MOD): Let's debate. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Rick(PRO): I agree officers deserve fair procedures and defenses when they acted reasonably. But qualified immunity is not a fair defense; it blocks claims even after serious abuse, so it should end.
+[t11] Joshua(CON): When the law was genuinely unclear at the moment of an encounter, officers should have protection from personal liability. That narrow condition prevents hindsight punishment, which is why qualified immunity should remain.
+[t12] Rick(PRO): You say unclear law merits protection, but why should a victim lose a hearing when an officer's conduct was plainly unreasonable? Will you defend dismissal before the facts are heard?
+[t13] Joshua(CON): Imagine an officer answering a chaotic call, separating two people who are shouting and moving quickly. Later, one says the officer used too much force; ending immunity invites lawsuits over that split-second choice, proving it should stay.
+[t14] Rick(PRO): Your chaotic-call example assumes a lawsuit means automatic punishment. It does not: a court can hear evidence, reject weak claims, and still hold clear abuse accountable, which is why ending immunity is sensible.
+[t15] Joshua(CON): Training, supervision, and better equipment matter too, because they can reduce dangerous encounters before anyone reaches court. Still, those improvements cannot replace a remedy afterward, so qualified immunity should remain as a necessary safeguard.
+[t16] Rick(PRO): I agree training may prevent some harm, and officers need support in difficult work. Yet support does not require a rule that closes courthouse doors to people whose rights were violated; qualified immunity should end.
+[t17] Joshua(CON): Officers need legal protection when doing their job under pressure, because law should not turn public service into personal financial gambling. Qualified immunity supplies predictable protection where courts might otherwise second-guess decisions, so it should remain.
+[t18] Rick(PRO): If ordinary defenses already protect reasonable conduct, why preserve a special shield that rejects claims without examining wrongdoing? Can you name a reason victims should face that extra barrier?
+[t19] Joshua(CON): Consider an officer who follows training during a rapidly changing arrest, then faces a claim based on a rule announced later. Qualified immunity prevents punishment for failing to predict that rule, proving the protection should remain.
+[t20] Rick(PRO): Your later-rule example attacks retroactive punishment, which nobody proposes. Courts can judge conduct by rules known at the time; ending immunity simply lets victims present evidence, so your defense of the shield fails.
+[t21] Joshua(CON): On the later-rule point, ordinary legal defenses can handle true retroactivity, but they do not protect every reasonable officer from crushing litigation. Qualified immunity filters claims early, preserving the protection officers need; it should remain.
+[t22] @A4 <ovl> Ismail(MOD): Ten.
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Ismail(MOD): Time. So, Round three, closing statements. Here, making his closing statement in support of qualified immunity for police officers should be ended, here is Rick.
+[t24] Rick(PRO): Joshua asks us to fear lawsuits, but a lawsuit is not a verdict. Ordinary courts already dismiss weak claims and protect reasonable actions. Qualified immunity adds an extraordinary barrier, denying people a chance to show what happened. Officers retain counsel, defenses, and fair procedures. What victims need is equal access to justice, not a locked courthouse door.
+[t25] @A4 <ovl> Ismail(MOD): Just, just about ten seconds left.
+[t26] <cut> Rick(PRO): Ending it does not punish good officers; it lets judges examine claims under rules used for everyone else. If conduct was reasonable, they can prevail. But abused power needs-
+[t27] @A2-1 <ovl> Ismail(MOD): Your time is up, Rick. Thank you. And here to summarize his position against the motion, Joshua.
+[t28] Joshua(CON): The strongest case for keeping qualified immunity is simple: difficult decisions should not bring personal ruin because someone later disagrees. Courts can address misconduct through remedies and discipline. This protection matters when the legal line was unclear in real time. Ending it would make fear, not sound judgment, guide officers. Keep this safeguard against hindsight punishment.
+[t29] @A4 <ovl> Ismail(MOD): Ten seconds.
+[t30] <cut> Joshua(CON): Do not confuse accountability with stripping every protection from people asked to act amid uncertainty. Preserve remedies for real wrongdoing, but keep this measured shield where law is unclear, because-
+[t31] @A1 <ovl> Ismail(MOD): Thank you, Joshua. Your time is up.
+[t32] Ismail(MOD): Thank you, Rick and Joshua, for a thoughtful debate on this motion; that concludes our discussion tonight.

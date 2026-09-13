@@ -1,0 +1,438 @@
+{
+ "debate_id": "L099",
+ "motion": "Elite universities should reinstate the SAT.",
+ "speakers": {
+  "MOD": {
+   "name": "Nadine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0773_622",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0773/MSP-PODCAST_0773_622.wav",
+   "wpm": 181.03
+  },
+  "PRO": {
+   "name": "Jeffrey",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3001_778",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_3001/MSP-PODCAST_3001_778.wav",
+   "wpm": 164.22
+  },
+  "CON": {
+   "name": "Robert",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2988_467",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2988/MSP-PODCAST_2988_467.wav",
+   "wpm": 167.95
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 80.13,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 307.69,
+ "ext": {
+  "a32": {
+   "file": "L099_ext_a32.wav",
+   "place_at_sec": 227.077,
+   "dur_sec": 20.53,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "No, I am not dismissing teachers; I am saying outside readers need a common reference. Teacher reports remain vital, but reinstating the SAT reduces guesswork when schools differ."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.73,
+   "dur_sec": 18.73,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that elite universities should reinstate the SAT. Jeffrey supports it, and Robert opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue. Please address each other directly and keep remarks focused on the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.93,
+   "end_sec": 38.81,
+   "dur_sec": 19.88,
+   "overlap": false,
+   "text": "The SAT should return because it gives applicants from every school one common academic signal. Grades, course labels, and recommendations mean different things across classrooms. A well-designed test cannot decide admission alone, but it can reveal preparation that polished applications hide. Without that shared measure, selectors lean harder on signals families can purchase."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.93,
+   "end_sec": 41.25,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.01,
+   "end_sec": 50.23,
+   "dur_sec": 11.22,
+   "overlap": false,
+   "text": "That matters especially when an applicant has mastered demanding material but lacks costly coaching or elaborate activities. Reinstate the SAT as one useful check, not a gate, and admissions-",
+   "cut_at_sec": 50.23,
+   "full_dur_sec": 14.06,
+   "ext_file": "L099_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 49.43,
+   "end_sec": 52.26,
+   "dur_sec": 2.83,
+   "overlap": true,
+   "text": "Time's up, Jeffrey. Thank you. Robert, please."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.46,
+   "end_sec": 69.68,
+   "dur_sec": 17.22,
+   "overlap": false,
+   "text": "Jeffrey treats one exam as an equalizer, but access to preparation, calm testing space, and repeated attempts is unequal. Admissions can compare transcripts, essays, and context without reviving a single high-pressure filter. Elite universities should judge sustained work, not one Saturday performance. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.88,
+   "end_sec": 82.43,
+   "dur_sec": 12.55,
+   "overlap": false,
+   "text": "So that concludes round one. Now we move on to round two and in round two the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 82.63,
+   "end_sec": 93.33,
+   "dur_sec": 10.7,
+   "overlap": false,
+   "text": "Your equalizer objection ignores the alternative: opaque judgments about polish and fit. A shared test score gives a strong student from an unfamiliar school evidence that selectors can compare fairly."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 94.067,
+   "end_sec": 105.187,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "If unequal preparation worries you, the real remedy is public funding for tutoring, quiet study rooms, and transportation to testing sites. Those support policies determine whether students can prepare at all."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 105.387,
+   "end_sec": 112.237,
+   "dur_sec": 6.85,
+   "overlap": false,
+   "text": "Can we please go back to the question at hand? We're going to go back to the question at issue."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 112.437,
+   "end_sec": 123.477,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "On reinstating the SAT, universities should not revive a hurdle whose result reflects unequal preparation. Better support is valuable, but it does not make one timed score a sound admissions requirement."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 124.452,
+   "end_sec": 135.532,
+   "dur_sec": 11.08,
+   "overlap": false,
+   "text": "If transcripts already show context, why deny applicants a common way to demonstrate mastery beyond local grading habits? Should elite universities really rely more on private impressions than comparable academic evidence?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 135.739,
+   "end_sec": 147.219,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Families also need clearer aid letters and simpler applications, because confusing paperwork distorts who applies. But your question assumes scores are more neutral than context; elite universities should not reinstate the SAT."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 147.537,
+   "end_sec": 159.787,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "Consider a student at a school where top grades come easily and advanced courses are scarce. A SAT result can show readiness beside applicants with inflated records; that is why reinstatement gives overlooked ability a-"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 158.887,
+   "end_sec": 169.697,
+   "dur_sec": 10.81,
+   "overlap": true,
+   "text": "That example proves the opposite: a score may expose coaching, not talent. Why make students repeat a stressful contest when their years of classroom work already show what they can do?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 170.265,
+   "end_sec": 181.675,
+   "dur_sec": 11.41,
+   "overlap": false,
+   "text": "No, transcripts do not always show comparable rigor, because schools use different scales and offerings. You call the SAT a contest, yet removing it leaves admissions even more dependent on unreviewable preferences."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 182.005,
+   "end_sec": 193.485,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I agree no score should outweigh a student's full record. But reinstatement invites schools to treat a timed exam as credibility, and that burden falls hardest on students already navigating uneven opportunity."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 194.453,
+   "end_sec": 205.503,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "If no score should outweigh the record, why not use it as one modest check alongside that record? What evidence would let an applicant challenge unfair grades without a common assessment?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 206.037,
+   "end_sec": 217.087,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "Your modest check point fails because elite admissions rarely treat extra measures modestly; they become sorting tools. An applicant can challenge unfair grades through work samples, teacher context, and demanding coursework."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 217.873,
+   "end_sec": 228.553,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "At a small school, a student may earn excellent marks in classes outsiders do not recognize. A high SAT score supplies readable evidence of mastery, proving reinstatement can widen recognition."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 222.43,
+   "end_sec": 224.67,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "Ten seconds remaining in this round."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 229.377,
+   "end_sec": 233.23,
+   "dur_sec": 3.853,
+   "overlap": false,
+   "text": "Your small-school example assumes a test translates mastery better than the teachers-",
+   "ext_file": "L099_ext_a32.wav",
+   "cut_at_sec": 230.93,
+   "full_dur_sec": 10.25
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 232.43,
+   "end_sec": 242.2,
+   "dur_sec": 9.77,
+   "overlap": true,
+   "text": "Time. On to round three, closing statements. Our motion is elite universities should reinstate the SAT for admissions, and here to summarize his position supporting this motion, Jeffrey."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.4,
+   "end_sec": 252.06,
+   "dur_sec": 9.66,
+   "overlap": false,
+   "text": "Reinstating the SAT does not mean worshipping a number. It means giving applicants one portable way to show academic readiness when local records are difficult to compare."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 251.16,
+   "end_sec": 253.46,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But that measure does not create equal opportunity-",
+   "cut_at_sec": 251.16,
+   "full_dur_sec": 8.89,
+   "ext_file": "L099_025.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 252.66,
+   "end_sec": 254.02,
+   "dur_sec": 1.36,
+   "overlap": true,
+   "text": "Robert, excuse me."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 254.22,
+   "end_sec": 264.32,
+   "dur_sec": 10.1,
+   "overlap": false,
+   "text": "that number, while the rest of their record explains opportunity and effort. A common benchmark does not replace context; it lets context be read beside demonstrated skill."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 262.4,
+   "end_sec": 263.8,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 264.52,
+   "end_sec": 272.79,
+   "dur_sec": 8.27,
+   "overlap": false,
+   "text": "Used carefully, the SAT broadens the evidence and makes elite admissions less opaque. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 272.99,
+   "end_sec": 276.28,
+   "dur_sec": 3.29,
+   "overlap": false,
+   "text": "Please, Robert. That's where I was going next."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 276.48,
+   "end_sec": 296.76,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "The strongest case against reinstatement is simple: fairness cannot rest on a test families experience so differently. Coaching, time, and testing conditions shape results before admissions readers ever see them. Universities already have richer evidence of persistence, curiosity, and achievement. Adding the SAT makes one pressured performance more powerful than it deserves, especially when"
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 296.48,
+   "end_sec": 298.36,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 296.96,
+   "end_sec": 307.83,
+   "dur_sec": 10.87,
+   "overlap": false,
+   "text": "the students with the least support face the steepest risk. Elite universities should evaluate whole records, not reinstate the SAT. That's all, thank you."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 308.03,
+   "end_sec": 314.04,
+   "dur_sec": 6.01,
+   "overlap": false,
+   "text": "Thank you, Jeffrey and Robert, for a thoughtful debate. This concludes our discussion of the motion tonight."
+  }
+ ]
+}

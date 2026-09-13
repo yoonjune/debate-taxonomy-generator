@@ -1,0 +1,41 @@
+L184  |  Assisted suicide should be legalized.
+  MOD=Scott   PRO=Teresa   CON=Kara
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Scott(MOD): Welcome to our debate. The motion is: assisted suicide should be legalized. Teresa supports the motion, and Kara opposes it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire and thirty-second closings. Please address one another directly and keep remarks focused. I will give a ten-second cue.
+[t01] Teresa(PRO): Legalization gives a competent, suffering adult a carefully reviewed choice when treatment cannot restore a tolerable life. It requires consent, safeguards, and medical oversight. The law should reduce needless suffering without forcing anyone to choose death at their most vulnerable moment. That's all, thank you.
+[t02] @A2-2 Scott(MOD): Okay, Teresa, thank you Kara.
+[t03] Kara(CON): A law that permits assisted suicide changes medicine from care into permission to end a life. People facing pain, dependence, or loneliness can feel like a burden even when nobody says so. Safeguards cannot measure quiet pressure inside a family or a frightened mind. If choice is shaped by despair, how can we call it fully free?
+[t04] @A4 <ovl> Scott(MOD): I'll give you ten more seconds to nail this.
+[t05] <cut> Kara(CON): Pain deserves serious relief, and I agree that patients need honest conversations about dying. But the answer is better care and steady support, not a legal power that tells vulnerable people-
+[t06] @A1 <ovl> Scott(MOD): I have to step in because we hit our time limit.
+
+--- phase 2 ---
+[t07] @A3-1 Scott(MOD): And that concludes round one. Now on to round two. Round two is where the debaters address one another in turn. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t08] Teresa(PRO): No, despair does not make every request invalid; careful assessment separates coercion from a settled decision. You offer support as the only answer, but support without choice can prolong unwanted suffering.
+[t09] Kara(CON): No request for death should ever be granted. Law must protect people when illness, fear, or dependence makes a permanent decision feel like relief rather than a genuine choice.
+[t10] Teresa(PRO): Your rule denies agency even to someone who understands their condition and repeatedly asks for help. Why should the state force that person to endure a decline they find unbearable?
+[t11] Kara(CON): This request for death should be granted. I would let a suffering adult refuse treatment and receive comfort, but I still oppose authorizing another person to cause death.
+[t12] @B2 Scott(MOD): I must ask you to stop, thank you Kara, thank you very much indeed. You've slightly destroyed your own argument there, you said that no request for death should ever be granted and then this request for death should be granted.
+[t13] Kara(CON): Those statements fit because compassion can respect a person's refusal while rejecting a legal act of killing. The boundary matters: care may ease dying, but it should not deliberately produce death.
+[t14] <cut> Teresa(PRO): That boundary point fails because withdrawing treatment can predictably end life, just as assistance can. Calling one choice care and the other killing ignores the patient's purpose and leaves suffering people-
+[t15] Kara(CON): When a patient lacks clear decision-making capacity, legal assistance would be especially dangerous because others may speak through them. In that condition, protection must outweigh any claimed request for death.
+[t16] Teresa(PRO): Your capacity point is weakest because legalization can require capacity and independent confirmation before approval. You treat a case lacking consent as if it proves competent adults should lose control.
+[t17] Kara(CON): Legal permission changes the message for all seriously ill people, not only those without capacity. It suggests death is an answer society may endorse when care becomes difficult.
+[t18] Teresa(PRO): Families need leave from work, counseling, and decent home support; those failures can make dying feel lonely. But fixing surrounding care does not erase a competent person's claim to decide whether assisted death is available.
+[t19] Kara(CON): I grant that a capable adult's suffering deserves respect and serious relief. But your main claim mistakes autonomy for safety: legalization invites irreversible harm when people need care, so I oppose the motion.
+[t20] @A4 <ovl> Scott(MOD): Ten seconds left on the crossfire.
+[t21] <cut> Teresa(PRO): Your safety point is the issue I am answering: prohibition creates its own harm by trapping competent people in agony. A regulated law screens for pressure rather than pretending-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Scott(MOD): Time. And that concludes round two of this debate. Now we move on to round three. And here to summarize her position supporting the motion, Teresa.
+[t23] Teresa(PRO): This decision turns on whether competent adults retain authority over unbearable, irreversible suffering when medicine cannot help them after careful review. Legalization does not require anyone to die; it gives a protected option. Respect, compassion, and honest safeguards support the motion. That's all, thank you.
+[t24] @A2-2 Scott(MOD): Thank you very much. We now turn to Kara who is going to speak against the motion.
+[t25] Kara(CON): Choice sounds humane, but an invitation to death can reach people when they are frightened and dependent. Our duty is to stand beside them, not offer death.
+[t26] <ovl> <cut> Teresa(PRO): Listen, the issue is not abandonment-
+[t27] @A5 <ovl> Scott(MOD): Hold on.
+[t28] Kara(CON): not offer death, because once society authorizes it, vulnerable people may hear a duty to disappear. Real dignity means care that does not depend on choosing death.
+[t29] @A4 <ovl> Scott(MOD): Ten seconds from this side?
+[t30] Kara(CON): For protection that remains meaningful when people are weakest, please reject this motion today. That's all, thank you.
+[t31] Scott(MOD): Thank you, Teresa and Kara, for a thoughtful debate. This concludes our discussion of the motion today. Goodbye.

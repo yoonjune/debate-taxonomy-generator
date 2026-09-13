@@ -1,0 +1,42 @@
+L187  |  The President Has Usurped the Constitutional Power of Congress
+  MOD=Zach   PRO=Aiden   CON=Jonathan
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Zach(MOD): Welcome to our debate on the motion: "The President Has Usurped the Constitutional Power of Congress." Aiden argues for it; Jonathan argues against. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. Keep remarks direct and address the motion fairly.
+[t01] Aiden(PRO): The Constitution gives Congress lawmaking and spending authority. When a president uses broad orders to create lasting rules or redirects money after lawmakers refused, that replaces public deliberation with one office. Emergency action can be necessary, but this pattern lets executive preference do Congress's work and leaves citizens with less representation.
+[t02] @A4 <ovl> Zach(MOD): Ten seconds from this side?
+[t03] Aiden(PRO): That is usurpation, because constitutional powers mean little when another branch routinely exercises them instead. That's all, thank you.
+[t04] @A2-2 Zach(MOD): I'm going to let Jonathan answer.
+[t05] Jonathan(CON): Presidents execute laws and respond when Congress has already given them authority. Using that authority is not stealing power; it is carrying out power Congress chose to delegate. Courts and lawmakers remain able to check abuses, revise statutes, restrict funds, or reject nominees. The motion mistakes disputed policy for a constitutional takeover, and that mistake matters.
+[t06] @A4 <ovl> Zach(MOD): Just, just about ten seconds left.
+[t07] Jonathan(CON): A president may act boldly, but bold action within delegated authority does not erase Congress's role. The real safeguard is political accountability, not calling every executive decision usurpation. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Zach(MOD): And that concludes round one. Now, on to round two where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t09] Aiden(PRO): When a president redirects money Congress refused to approve toward a favored project, communities lose services lawmakers chose and voters cannot trace public responsibility. That proves executive substitution harms representative control.
+[t10] Jonathan(CON): That example assumes the president may freely ignore Congress, which I reject; lawful redirection follows authority Congress supplied. If lawmakers dislike it, they can narrow that authority, so Congress remains constitutionally dominant.
+[t11] Aiden(PRO): When Congress has expressly rejected a policy, the president cannot revive it through an order without taking legislative power. Calling that execution ignores the condition Congress itself imposed on executive action.
+[t12] Jonathan(CON): Your express-rejection point mistakes disagreement over legal authority for usurpation. If an existing law permits action, the president may act despite a later failed proposal, because failure does not erase enacted authority.
+[t13] Aiden(PRO): People also worry about whether orders are efficient, and efficiency may matter in ordinary administration. But the motion concerns who decides major policy, and unilateral presidential choices displace Congress's constitutional role.
+[t14] Jonathan(CON): Can you name a presidential order here that created a power Congress had never authorized, rather than applying a broad grant? Without that distinction, your charge confuses delegation with usurpation.
+[t15] Aiden(PRO): Yes: spending after Congress expressly said no is such an order. Congress's power is endangered whenever presidents turn vague grants into major policy, because legislators surrender choices the Constitution assigned them.
+[t16] Jonathan(CON): No, broad grants do not become invalid because their application is significant. Congress deliberately gives flexible authority for changing circumstances, and using it remains execution unless lawmakers withdraw the grant.
+[t17] Aiden(PRO): Broad grants can be unwise, and Congress sometimes writes them too loosely. But presidents exploit that looseness to make choices lawmakers must own, so the constitutional balance has been usurped.
+[t18] Jonathan(CON): Your vague-grants argument blames the president for Congress's own legislative design. If Congress wants narrower rules, it can write them; until then, carrying out broad authority does not usurp Congress.
+[t19] Aiden(PRO): The weakest claim is that Congress can simply fix every overreach later. A delayed correction does not undo a president's immediate policy choice, which already replaced legislative judgment with executive command.
+[t20] Jonathan(CON): If delayed correction proves usurpation, must every temporary executive decision be unconstitutional until Congress responds? How can your rule preserve a president's duty to act under laws Congress has already enacted?
+[t21] @A4 <ovl> Zach(MOD): Well, now ten.
+[t22] <cut> Aiden(PRO): No, Congress can pass a corrective law, but that does not excuse a president overriding its clear choice first. When funds are redirected from approved public needs, the damage proves-
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Zach(MOD): Okay, time. So we move on to our closing round. And Aiden, you again have the floor.
+[t24] Aiden(PRO): Congress's core powers are not suggestions the president may bypass whenever compromise is hard. Spending and lawmaking force competing interests into public agreement. When one office makes those choices alone, the public loses its elected voice. The other side calls that delegation, but delegation cannot authorize a president to undo Congress's clear decisions.
+[t25] @A4 <ovl> Zach(MOD): Ten seconds.
+[t26] <cut> Aiden(PRO): Jonathan says lawmakers can correct every overreach later. But a later vote cannot restore the choice Congress was denied when one office set national policy first. That is why this motion matters-
+[t27] @A2-1 <ovl> Zach(MOD): Aiden, you're rather going on. Thank you. Jonathan.
+[t28] Jonathan(CON): Executive action is not automatically a rival legislature. Congress can define authority, fund or defund programs, investigate conduct, and replace rules through legislation. Those are real constitutional tools, not ceremonial leftovers. The strongest point is simple: using authority Congress granted may be contested, but it is not usurpation itself.
+[t29] @A4 <ovl> Zach(MOD): You've got ten seconds.
+[t30] <cut> Jonathan(CON): Your argument treats broad authority as if it disappeared whenever its use is controversial. Congress writes grants, controls funding, and can change law. Calling lawful execution a seizure would-
+[t31] @A1 <ovl> Zach(MOD): Time out. Time out.
+[t32] Zach(MOD): Thank you both for a thoughtful debate on constitutional power, and thank you for listening to this discussion.

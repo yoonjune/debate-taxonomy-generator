@@ -1,0 +1,365 @@
+{
+ "debate_id": "L072",
+ "motion": "Fast fashion is a force for good.",
+ "speakers": {
+  "MOD": {
+   "name": "Anthony",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6582_423",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6582/MSP-PODCAST_6582_423.wav",
+   "wpm": 164.89
+  },
+  "PRO": {
+   "name": "Mari",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0860_780",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0860/MSP-PODCAST_0860_780.wav",
+   "wpm": 165.06
+  },
+  "CON": {
+   "name": "Monica",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1266_611",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1266/MSP-PODCAST_1266_611.wav",
+   "wpm": 163.47
+  }
+ },
+ "selective": [
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 79.43,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 292.64,
+ "ext": {
+  "a32": {
+   "file": "L072_ext_a32.wav",
+   "place_at_sec": 227.299,
+   "dur_sec": 26.88,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "That family should not lose access, but your premise is false: opposing fast fashion does not mean removing affordable clothing. We can make basic garments last longer and pay fairly, instead of calling a wasteful cycle a good."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 23.37,
+   "dur_sec": 23.37,
+   "overlap": false,
+   "text": "Welcome. The motion is: Fast fashion is a force for good. Mari supports it, and Monica opposes it. Each opening is thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address the motion, listen carefully, and let the other speaker finish before responding. I will keep the discussion moving and call time when needed."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 23.57,
+   "end_sec": 42.7,
+   "dur_sec": 19.13,
+   "overlap": false,
+   "text": "Fast fashion is good because it puts usable clothing within reach when budgets are tight and needs change quickly. It also gives new designers and small sellers a way to respond to ordinary people rather than only wealthy shoppers. That balance is the starting point, not the end of my case."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 42.9,
+   "end_sec": 51.29,
+   "dur_sec": 8.39,
+   "overlap": false,
+   "text": "Fast fashion can spread opportunity now while we insist its makers share in that opportunity. That's all, thank you."
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 43.57,
+   "end_sec": 45.01,
+   "dur_sec": 1.44,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 51.49,
+   "end_sec": 54.06,
+   "dur_sec": 2.57,
+   "overlap": false,
+   "text": "Monica has the floor right now."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.26,
+   "end_sec": 72.69,
+   "dur_sec": 18.43,
+   "overlap": false,
+   "text": "Low prices can help in the moment, but the system makes too much clothing too quickly and treats workers and materials as expendable. A force for good should not depend on waste being normal. Better choices exist, so this motion asks us to praise the wrong model. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 72.89,
+   "end_sec": 83.22,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "Now onto round two. And round two is where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 83.42,
+   "end_sec": 96.58,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "Consider a parent whose child suddenly outgrows every school outfit. A low-cost store lets that parent buy several usable basics today rather than choose between clothing and groceries, proving fast fashion can widen everyday dignity and opportunity."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 97.197,
+   "end_sec": 110.567,
+   "dur_sec": 13.37,
+   "overlap": false,
+   "text": "I believe fast fashion never protects workers' dignity. When a bargain shirt is replaced after one wear, the buyer gets a fleeting thrill while the maker's skill, security, and voice are treated as expendable, so the motion fails."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 111.23,
+   "end_sec": 124.11,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Your never-protects-dignity point ignores the parent I described. Dignity includes being able to dress a growing child without shame or debt, and affordable supply can create that relief while consumers still demand better treatment for workers."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 124.899,
+   "end_sec": 136.989,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Here fast fashion protects workers' dignity. A small workshop filling a rush order can offer a worker pride in mastering a garment, yet the wider model still depends on disposability, so I oppose the motion."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 137.189,
+   "end_sec": 144.789,
+   "dur_sec": 7.6,
+   "overlap": false,
+   "text": "One moment you're saying fast fashion never protects workers' dignity, then you're having them here fast fashion protects workers' dignity. Which?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 144.989,
+   "end_sec": 157.319,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "Both statements stand because dignity is not the same as a pleasant moment of pride. The workshop scene shows one worker's feeling, while my rule judges whether the fast-fashion system protects dignity; it does not."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 157.541,
+   "end_sec": 169.981,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "They cannot choose both: never excludes the exception Monica just offered. Her distinction turns a worker's dignity into a technicality, but reliable access to affordable clothes gives families real choice and gives makers steady demand."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 170.89,
+   "end_sec": 183.94,
+   "dur_sec": 13.05,
+   "overlap": false,
+   "text": "If dignity depends on a workshop's routines, we must inspect hiring forms, pay records, break schedules, and complaint logs. Then we need trained auditors, secure files, appeal steps, and clear reporting lines for supervisors and payroll staff."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 184.14,
+   "end_sec": 189.59,
+   "dur_sec": 5.45,
+   "overlap": false,
+   "text": "We're not debating those points. We're debating whether fast fashion is a force for good."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 189.79,
+   "end_sec": 202.531,
+   "dur_sec": 12.741,
+   "overlap": false,
+   "text": "On whether fast fashion is a force for good, it is not: cheap access cannot erase a model that rewards rapid replacement. The parent deserves clothes, but repair and fair pay serve that need without normalizing waste."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.778,
+   "end_sec": 216.378,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "Your rapid replacement point assumes every buyer treats clothing as disposable. Many people use low-priced items for work, school, or emergencies, then pass them along; practical access is a good, and better production rules can improve the rest."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 216.743,
+   "end_sec": 230.623,
+   "dur_sec": 13.88,
+   "overlap": false,
+   "text": "The weakest part is better production rules, because it treats reform as proof that the current force is good. If rules are needed to stop exploitation and waste, the industry has shown its basic incentives are harmful, not benevolent."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 223.22,
+   "end_sec": 225.15,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "You both have ten seconds."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 231.089,
+   "end_sec": 234.02,
+   "dur_sec": 2.931,
+   "overlap": false,
+   "text": "Monica, if cheap clothing helps a family meet an urgent-",
+   "ext_file": "L072_ext_a32.wav",
+   "cut_at_sec": 230.23,
+   "full_dur_sec": 13.24
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 233.22,
+   "end_sec": 242.43,
+   "dur_sec": 9.21,
+   "overlap": true,
+   "text": "We're going to move now into our closing round. Mari, you are answering yes to the question, and this is your time for your closing statement."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.63,
+   "end_sec": 259.12,
+   "dur_sec": 16.49,
+   "overlap": false,
+   "text": "Monica's strongest point is that low prices do not excuse waste or mistreatment. I agree standards must improve, yet her answer would dismiss the immediate good of accessible clothing. Fast fashion can meet real needs, create choice, and be pushed toward responsibility. That's all, thank you."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 259.32,
+   "end_sec": 262.53,
+   "dur_sec": 3.21,
+   "overlap": false,
+   "text": "So, Monica, can we let Monica come in?"
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 262.73,
+   "end_sec": 282.82,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "Mari is right that families need affordable clothes, and that need deserves respect. But a helpful purchase does not make the whole fast-fashion system a force for good. Its speed invites overproduction, short use, and pressure on people who make garments. The deeper problem sits beneath that promise."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 282.73,
+   "end_sec": 283.97,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Monica."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 283.02,
+   "end_sec": 293.93,
+   "dur_sec": 10.91,
+   "overlap": false,
+   "text": "Rapid replacement shifts costs into waste and insecurity for workers and communities. Affordable clothing matters, but fast fashion is not a force for good. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 294.13,
+   "end_sec": 300.22,
+   "dur_sec": 6.09,
+   "overlap": false,
+   "text": "Thank you, Mari and Monica, for a thoughtful debate; that concludes our discussion of fast fashion tonight here."
+  }
+ ]
+}

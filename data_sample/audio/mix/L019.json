@@ -1,0 +1,433 @@
+{
+ "debate_id": "L019",
+ "motion": "It's Time to Expand Nuclear Power",
+ "speakers": {
+  "MOD": {
+   "name": "Paula",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4608_94",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_4/MSP-PODCAST_4608/MSP-PODCAST_4608_94.wav",
+   "wpm": 218.0
+  },
+  "PRO": {
+   "name": "Steve",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2928_13",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2928/MSP-PODCAST_2928_13.wav",
+   "wpm": 159.24
+  },
+  "CON": {
+   "name": "Matthew",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2967_353",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2967/MSP-PODCAST_2967_353.wav",
+   "wpm": 212.34
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 82.829,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 298.39,
+ "ext": {
+  "a32": {
+   "file": "L019_ext_a32.wav",
+   "place_at_sec": 223.418,
+   "dur_sec": 33.224,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "I do not assume every project is necessary; I support those that pass strict tests. Rejecting all expansion anyway would preserve dirtier backup and weaken reliable power, so your premise fails."
+  },
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "I grant that a carefully chosen project might provide useful power. But one exception cannot justify a national push with repeated costs, waste duties, and safety risks; expansion is still the wrong priority."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.647,
+   "dur_sec": 17.647,
+   "overlap": false,
+   "text": "Welcome to the debate on the motion, \"It's Time to Expand Nuclear Power.\" Steve will argue for it, and Matthew will argue against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Each closing lasts thirty seconds, with a ten-second cue before time ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.847,
+   "end_sec": 35.847,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "Expanding nuclear power is necessary for dependable, low-carbon electricity. It supports the grid when demand rises and reduces reliance on polluting fuels. We can build carefully, improve safety, and manage waste while meeting today's urgent energy needs."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.047,
+   "end_sec": 37.459,
+   "dur_sec": 1.412,
+   "overlap": false,
+   "text": "Matthew has the floor."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 37.659,
+   "end_sec": 57.615,
+   "dur_sec": 19.956,
+   "overlap": false,
+   "text": "Nuclear expansion is not a quick fix. New plants demand huge commitments, long construction, careful management, and a plan for waste. Those burdens compete with faster ways to reduce emissions. They also create risks that last beyond any single administration. Before expanding, we should prove existing problems are solved, not assume more reactors will solve them."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 57.659,
+   "end_sec": 58.718,
+   "dur_sec": 1.059,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 57.815,
+   "end_sec": 68.959,
+   "dur_sec": 11.143,
+   "overlap": false,
+   "text": "Even if operations are careful, accidents can spread harm, and waste needs protection for generations. People deserve choices about those risks, especially when cheaper, quicker options-",
+   "cut_at_sec": 68.959,
+   "full_dur_sec": 14.043,
+   "ext_file": "L019_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 68.159,
+   "end_sec": 72.041,
+   "dur_sec": 3.882,
+   "overlap": true,
+   "text": "I have to step in because we hit our time limit."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 72.241,
+   "end_sec": 82.829,
+   "dur_sec": 10.588,
+   "overlap": false,
+   "text": "Now we'll have the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 83.029,
+   "end_sec": 95.029,
+   "dur_sec": 12.0,
+   "overlap": false,
+   "text": "Your concern about long construction misses the decision before us. Existing plants can run while new capacity is built, and dependable power prevents fossil backup. Why reject expansion when the alternative keeps those risks?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 95.46,
+   "end_sec": 107.107,
+   "dur_sec": 11.647,
+   "overlap": false,
+   "text": "I reject the premise that expansion prevents fossil backup; delays and overruns can leave gaps. Building more reactors also ties up money that could cut emissions sooner, so expansion is not responsible now."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 107.482,
+   "end_sec": 117.011,
+   "dur_sec": 9.529,
+   "overlap": false,
+   "text": "I grant that waste requires serious safeguards. But safeguards do not replace dependable low-carbon power; expansion gives communities cleaner electricity and strengthens the grid when demand rises."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 117.355,
+   "end_sec": 130.06,
+   "dur_sec": 12.706,
+   "overlap": false,
+   "text": "Energy planning also involves jobs, training, and local infrastructure, which can benefit communities. But those side benefits do not erase the central issue: expansion brings lasting risks and is not the best way to cut emissions."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 130.435,
+   "end_sec": 140.317,
+   "dur_sec": 9.882,
+   "overlap": false,
+   "text": "When replacing an unsafe or polluting plant, nuclear expansion is responsible. It preserves reliable power while lowering emissions, provided regulators approve the design and communities receive clear protections."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 140.788,
+   "end_sec": 149.612,
+   "dur_sec": 8.823,
+   "overlap": false,
+   "text": "Can you guarantee that every proposed reactor will finish on time and on budget? If you cannot, why should taxpayers and communities accept expansion as-"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 150.423,
+   "end_sec": 161.012,
+   "dur_sec": 10.588,
+   "overlap": false,
+   "text": "Nuclear power can be responsible even when no plant is being replaced. Any expansion that meets strict safety and waste standards can add reliable clean capacity, so waiting is unnecessary."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 161.576,
+   "end_sec": 171.811,
+   "dur_sec": 10.235,
+   "overlap": false,
+   "text": "I believe nuclear power should never be expanded. Every new reactor creates obligations for waste, safety, and cost that society should refuse, because cleaner alternatives can meet our needs."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 172.781,
+   "end_sec": 181.957,
+   "dur_sec": 9.176,
+   "overlap": false,
+   "text": "I grant that some projects can suffer delays. But that argues for disciplined planning, not abandoning the technology; nuclear expansion remains essential for reliable, low-carbon electricity."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 182.666,
+   "end_sec": 193.96,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "This reactor should be expanded now, because its design is tested, its site is prepared, and its power is needed. Rejecting this case would be irresponsible, so nuclear expansion remains a mistake."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 194.16,
+   "end_sec": 201.219,
+   "dur_sec": 7.059,
+   "overlap": false,
+   "text": "So, so while saying i believe nuclear power should never be expanded, you're saying this reactor should be expanded now?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 201.419,
+   "end_sec": 211.654,
+   "dur_sec": 10.235,
+   "overlap": false,
+   "text": "I mean never as a general policy, while this reactor is a special exception. Its unusual readiness changes the immediate judgment, but that does not make broad expansion wise."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 212.242,
+   "end_sec": 222.831,
+   "dur_sec": 10.588,
+   "overlap": false,
+   "text": "If one prepared reactor can provide reliable low-carbon power, why should other suitable projects be rejected before they are even assessed? Isn't careful expansion better than depending on dirtier backup?"
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 222.829,
+   "end_sec": 224.241,
+   "dur_sec": 1.412,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 223.418,
+   "end_sec": 233.629,
+   "dur_sec": 10.212,
+   "overlap": false,
+   "text": "Assessment is not approval, and your question quietly treats every suitable project as necessary. Many proposals will still be costly, slow, or risky, so your broad expansion remains-",
+   "ext_file": "L019_ext_a32.wav",
+   "cut_at_sec": 233.629,
+   "full_dur_sec": 10.235
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 232.829,
+   "end_sec": 240.594,
+   "dur_sec": 7.765,
+   "overlap": true,
+   "text": "Time's up. And now we move on to Round three. And first to make his statement in support of the motion, Steve."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.794,
+   "end_sec": 250.642,
+   "dur_sec": 9.848,
+   "overlap": false,
+   "text": "The strongest objection is cost, but reliable clean power has lasting value. Careful standards can address safety and waste, while expansion cuts pollution and protects the grid."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 249.742,
+   "end_sec": 252.042,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "Could I add that cost is not-",
+   "cut_at_sec": 252.042,
+   "full_dur_sec": 10.588,
+   "ext_file": "L019_027.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 251.242,
+   "end_sec": 255.478,
+   "dur_sec": 4.235,
+   "overlap": true,
+   "text": "Let Steve say something, then you, and then we're going to wrap."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 255.678,
+   "end_sec": 265.92,
+   "dur_sec": 10.242,
+   "overlap": false,
+   "text": "reliable clean power has lasting value. We should judge projects carefully, not reject them all, because expanding nuclear capacity can cut pollution and strengthen the grid."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 260.794,
+   "end_sec": 261.853,
+   "dur_sec": 1.059,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 266.12,
+   "end_sec": 272.029,
+   "dur_sec": 5.909,
+   "overlap": false,
+   "text": "The responsible choice is to expand safe nuclear power alongside other clean energy, not surrender reliability."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 272.229,
+   "end_sec": 273.994,
+   "dur_sec": 1.765,
+   "overlap": false,
+   "text": "All right, Matthew, come back."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 274.194,
+   "end_sec": 292.194,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "Steve's safeguards do not remove the long-term burden of waste, construction delays, or serious accidents. We need quicker, safer ways to cut pollution, so expanding nuclear power is not the right priority."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 292.394,
+   "end_sec": 298.394,
+   "dur_sec": 6.0,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate. We will leave the question open for listeners to consider."
+  }
+ ]
+}

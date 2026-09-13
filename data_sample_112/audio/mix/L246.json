@@ -1,0 +1,410 @@
+{
+ "debate_id": "L212",
+ "motion": "It is wrong to pay for sex.",
+ "speakers": {
+  "MOD": {
+   "name": "Miriam",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0860_780",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0860/MSP-PODCAST_0860_780.wav",
+   "wpm": 165.06
+  },
+  "PRO": {
+   "name": "Alina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3493_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3493/MSP-PODCAST_3493_43.wav",
+   "wpm": 162.3
+  },
+  "CON": {
+   "name": "Leo",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0417_1197",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0417/MSP-PODCAST_0417_1197.wav",
+   "wpm": 171.29
+  }
+ },
+ "selective": [
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 58.24,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 280.23,
+ "ext": {
+  "a32": {
+   "file": "L212_ext_a32.wav",
+   "place_at_sec": 196.624,
+   "dur_sec": 22.02,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "No, I would not deny their judgment; vulnerability does not make every sexual decision invalid. Your housing point misses that buyers can exploit scarcity they did not create, and that is wrong."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.36,
+   "dur_sec": 15.36,
+   "overlap": false,
+   "text": "Welcome. Today's motion is that it is wrong to pay for sex. Alina supports the motion, and Leo opposes it. Each opening is thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.56,
+   "end_sec": 30.21,
+   "dur_sec": 14.65,
+   "overlap": false,
+   "text": "Paying for sex turns intimate access into something a buyer can claim. Even when words sound agreeable, unequal need can shape them. We should not build a market where another person's hardship becomes someone else's permission. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 30.41,
+   "end_sec": 32.13,
+   "dur_sec": 1.72,
+   "overlap": false,
+   "text": "Great, Leo, go ahead."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 32.33,
+   "end_sec": 46.79,
+   "dur_sec": 14.46,
+   "overlap": false,
+   "text": "Payment does not erase consent when adults choose freely and understand the arrangement. People make personal choices about intimacy for many reasons. Calling every paid encounter wrong replaces their judgment with an outsider's discomfort. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 46.99,
+   "end_sec": 62.27,
+   "dur_sec": 15.28,
+   "overlap": false,
+   "text": "Thank you both for your opening arguments. We now know where you stand and why. We'll dive into the discussion on the question, it is wrong to pay for sex. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 62.47,
+   "end_sec": 72.55,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "Your appeal to choice ignores the pressure behind many choices. If someone needs money urgently, a buyer is not simply accepting consent; the buyer is benefiting from desperation."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 73.334,
+   "end_sec": 84.094,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "When both adults can refuse without fear, payment can be part of a clear agreement. Banning that agreement treats sexual consent as less real than consent in other personal services."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 84.625,
+   "end_sec": 94.145,
+   "dur_sec": 9.52,
+   "overlap": false,
+   "text": "Clear words do matter, and I grant that adults can describe an arrangement honestly. But payment still gives one person leverage over need, which makes this market wrong."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 94.802,
+   "end_sec": 104.162,
+   "dur_sec": 9.36,
+   "overlap": false,
+   "text": "Adults always deserve freedom to exchange sex. A moral rule that denies every adult that freedom treats private bodily choices as property for strangers to control."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 104.887,
+   "end_sec": 115.057,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "If payment is harmless, how can a buyer know agreement is not driven by hunger, debt, or fear? What protects the person whose need makes saying no feel impossible?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 115.522,
+   "end_sec": 122.682,
+   "dur_sec": 7.16,
+   "overlap": false,
+   "text": "Think of a person trapped by another who takes the payment. Here, adults do not deserve freedom to exchange sex."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 122.882,
+   "end_sec": 130.842,
+   "dur_sec": 7.96,
+   "overlap": false,
+   "text": "So, so while saying adults always deserve freedom to exchange sex, you're saying here, adults do not deserve freedom to exchange sex?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 131.042,
+   "end_sec": 142.442,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Freedom means people ordinarily control their own intimate decisions; it does not mean a controller may sell a trapped person's body. The second statement rejects that controller's supposed freedom, not adult choice."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 143.22,
+   "end_sec": 153.77,
+   "dur_sec": 10.55,
+   "overlap": false,
+   "text": "No, those statements cannot both stand: an always claim leaves no room for his exception. That evasion matters because money can turn refusal into a risky choice, especially when rent is-"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 154.166,
+   "end_sec": 164.926,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Society should respect adult sexual choices, including choices it finds uncomfortable. That respect does not require approving control or force; it means leaving genuine private agreements to the people involved."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 165.905,
+   "end_sec": 176.585,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Your respect point skips the buyer's power within an agreement. A choice is not fully private when one person offers money that the other needs to survive, so payment remains wrong."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 176.817,
+   "end_sec": 187.497,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "If an adult says payment helps them meet a need and they can walk away, why should you deny their judgment? Are you claiming vulnerability makes every sexual decision invalid?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 188.257,
+   "end_sec": 200.107,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "Imagine someone facing eviction who accepts money from a buyer they do not want to touch. The buyer gets access because hardship narrowed the choice. That proves payment buys pressure, so it is wrong."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 200.654,
+   "end_sec": 211.414,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Your eviction example proves coercion is wrong, not that payment is wrong. The harmful fact is the threatened loss of housing; removing payment does not create safety or more choices.",
+   "ext_file": "L212_ext_a32.wav"
+  },
+  {
+   "i": 19,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 202.27,
+   "end_sec": 203.87,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 20,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 212.27,
+   "end_sec": 220.12,
+   "dur_sec": 7.85,
+   "overlap": true,
+   "text": "Time's up. And now we move on to round three. And the first to speak in support of the resolution is Alina."
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 220.32,
+   "end_sec": 229.92,
+   "dur_sec": 9.6,
+   "overlap": false,
+   "text": "Payment turns another person's need into leverage. Even the other side's freedom rule collapses when a person is trapped."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 229.02,
+   "end_sec": 231.32,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That is not what I said. Hardship does not-",
+   "cut_at_sec": 227.29,
+   "full_dur_sec": 8.2,
+   "ext_file": "L212_023.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 230.52,
+   "end_sec": 232.45,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "Can you let her speak please?"
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 232.65,
+   "end_sec": 242.07,
+   "dur_sec": 9.42,
+   "overlap": false,
+   "text": "That collapse shows the real issue is not disapproval of intimacy. It is whether money may buy access when hardship narrows the ability to refuse."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 240.32,
+   "end_sec": 243.05,
+   "dur_sec": 2.73,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.27,
+   "end_sec": 250.29,
+   "dur_sec": 8.02,
+   "overlap": false,
+   "text": "When payment purchases pressure, it is wrong, and we should say so clearly. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 250.49,
+   "end_sec": 253.05,
+   "dur_sec": 2.56,
+   "overlap": false,
+   "text": "All right, so let me bring Leo."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 253.25,
+   "end_sec": 273.53,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Alina shows that coercion and exploitation are wrong, and I agree. But she turns a serious risk into a verdict on every exchange, even when adults speak plainly, keep control, and can refuse. Respecting consent means trusting people to define their own intimate boundaries, rather than letting outsiders declare their choices invalid because money is involved."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 273.25,
+   "end_sec": 274.49,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 273.73,
+   "end_sec": 282.07,
+   "dur_sec": 8.34,
+   "overlap": false,
+   "text": "The better response is protect free consent, not condemn every adult who pays for sex. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 282.27,
+   "end_sec": 288.29,
+   "dur_sec": 6.02,
+   "overlap": false,
+   "text": "Thank you, Alina and Leo, for a thoughtful debate on this motion. That concludes our discussion today."
+  }
+ ]
+}

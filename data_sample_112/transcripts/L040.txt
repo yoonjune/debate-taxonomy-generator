@@ -1,0 +1,42 @@
+L040  |  Embrace the Common Core
+  MOD=Martha   PRO=Karen   CON=Genevieve
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Martha(MOD): Today we debate the motion, embrace the Common Core. Karen argues for it, and Genevieve argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, with a ten-second cue. Then each debater gets a thirty-second closing, also with a ten-second cue. Please address the motion and one another directly.
+[t01] Karen(PRO): Embracing the Common Core gives students a shared foundation, so expectations do not collapse when families move or teachers change. It supports clear skills in reading, writing, and mathematics, while leaving room for local lessons and teacher judgment. That common starting point can help every child reach meaningful standards before opportunity gaps become permanent.
+[t02] @A4 <ovl> Martha(MOD): Just, just about ten seconds left.
+[t03] Karen(PRO): A shared foundation makes improvement possible without demanding identical classrooms. That's all, thank you.
+[t04] @A2-2 Martha(MOD): All right. Let me bring it back to Genevieve.
+[t05] Genevieve(CON): The Common Core promises fairness, but one framework cannot fit every child, classroom, or community. It can turn teaching into a race through a fixed sequence, even when students need different paths. It can also narrow learning toward what is easiest to test. Embracing it risks replacing judgment with compliance, not creating genuine opportunity.
+[t06] @A4 <ovl> Martha(MOD): You've got ten seconds.
+[t07] <cut> Genevieve(CON): A teacher may know that a student needs more time, a different book, or practical support, yet the framework can still push the class onward. Schools should build standards around children, not-
+[t08] @A1 <ovl> Martha(MOD): Please come to an end, we're running out of time, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Martha(MOD): And that concludes round one. Now we move on to round two. And round two is where the debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Genevieve(CON): A school that adopts one reading sequence can force a struggling child ahead before she is ready, replacing support with pace. That shows uniformity can harm learning.
+[t11] <cut> Karen(PRO): You're answering the risk of forced pace but ignoring the remedy: common expectations do not require one speed or one reading sequence; they can guide support and-
+[t12] <ovl> Genevieve(CON): Wait, Karen, that remedy depends on local freedom, which your embrace can pressure schools to abandon. A child may need another sequence entirely, and common rules can block it.
+[t13] Karen(PRO): If districts pair common standards with local curriculum and teacher judgment, embracing them can align goals without flattening instruction. That condition makes the motion worthwhile.
+[t14] Genevieve(CON): Families also need clear information about homework, schedules, and classroom choices. Those daily decisions shape trust at home, but trusting schools requires flexibility; embracing the Common Core still risks too much uniformity.
+[t15] Karen(PRO): Embracing common expectations helps all students, even when each classroom chooses different materials, pacing, and examples. Shared aims can support variety rather than erase it.
+[t16] Genevieve(CON): A child who excels through hands-on projects may be labeled behind when a common sequence rewards worksheets instead. That concrete mismatch shows embracing the framework can misread ability.
+[t17] Karen(PRO): That example attacks poor implementation, not the common aim. A project can teach the same skills, so shared standards protect the goal while teachers choose the route.
+[t18] Genevieve(CON): Choosing the route also affects how teachers plan a week's work, group students, and explain progress to families. Those choices depend on preparation time, materials, and room for revision.
+[t19] @B1 Martha(MOD): Come back to the embrace the common core in our schools and classrooms, will you?
+[t20] Genevieve(CON): The motion asks whether we should embrace the Common Core, and that mismatch matters: a framework that limits pace or sequence should not be embraced as a default.
+[t21] Karen(PRO): If shared standards allow projects, pacing, and local materials, what exactly prevents your preferred flexibility? Why reject a common goal because some schools may implement it poorly?
+[t22] Genevieve(CON): I grant that shared goals can make expectations clearer. But clarity is not enough when the framework steers teaching toward uniform pacing and testing; rejecting the embrace protects professional judgment.
+[t23] Karen(PRO): A transfer student can enter a new classroom and recognize familiar skills, then receive targeted help instead of starting over. That continuity proves embracing common standards expands opportunity.
+[t24] Genevieve(CON): Your continuity example assumes familiar skills guarantee useful support. They do not; a child can share a label yet need different content, pace, or language, so the common framework remains harmful.
+[t25] @A4 <ovl> Martha(MOD): You have ten seconds.
+
+--- phase 3 ---
+[t26] @A3-2 <ovl> Martha(MOD): Okay, time. So now we're gonna head to our closing round. Karen, you are up first. Your closing statement, please.
+[t27] Karen(PRO): The strongest case for embracing the Common Core is not identical teaching; it is a dependable destination. Students deserve clear expectations that travel with them, and teachers deserve a framework they can adapt. Common standards can expose gaps, support transfers, and preserve local creativity. When paired with judgment, they make fairness more practical.
+[t28] @A4 <ovl> Martha(MOD): Ten seconds from this side?
+[t29] Karen(PRO): Genevieve has shown that poor implementation can hurt children, but that is an argument for wise use, not rejection. Embrace the common foundation and improve its application. That's all, thank you.
+[t30] @A2-2 Martha(MOD): And I want to take it to Genevieve.
+[t31] Genevieve(CON): The central danger is treating a common framework as fairness itself. A child who needs another pace or path can be judged against the framework instead of supported by a teacher. Shared goals may help, but embracing this system invites uniformity where judgment matters most. We should trust adaptable local teaching, not one national template. That's all, thank you.
+[t32] Martha(MOD): Thank you both for taking part. This debate is now closed.

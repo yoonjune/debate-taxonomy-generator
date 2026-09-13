@@ -1,0 +1,40 @@
+L136  |  The U.S. can outpace China in the AI race through chip controls.
+  MOD=Bonnie   PRO=Daphne   CON=Jed
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Bonnie(MOD): Welcome to our debate on the motion, the U.S. can outpace China in the AI race through chip controls. Daphne argues for it, and Jed argues against it. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue before time expires for each speaker.
+[t01] Daphne(PRO): Chip controls can slow access to the specialized tools that turn ideas into powerful systems. That buys the United States time to build, deploy, and set standards. Jed, why assume a rival can simply replace restricted top-end chips at scale? That's all, thank you.
+[t02] @A2-2 Bonnie(MOD): Jed, take the response.
+[t03] Jed(CON): Daphne asks whether replacement is simple. It is not, but the motion claims chip controls can deliver an overall race victory, and delay is not victory. Firms redesign, train on available hardware, and seek workarounds; meanwhile, controls push a rival to build its own supply chain. The United States cannot outpace China merely by restricting sales.
+[t04] @A4 <ovl> Bonnie(MOD): I can give you ten seconds to do this.
+[t05] Jed(CON): That makes controls a costly obstacle, not a reliable path to winning the AI race. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Bonnie(MOD): Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Jed(CON): No, I do not assume replacement is simple; I say difficulty does not guarantee American leadership. Your standard ignores adaptation, so controls cannot by themselves make the United States outpace China.
+[t08] Daphne(PRO): On your adaptation point, workarounds still require time, money, and lower performance. That gap lets American developers train better systems first, attract partners, and compound an enduring lead through controls.
+[t09] Jed(CON): I agree delay has value. But you turn delay into victory without proving it lasts, while a determined rival can improve software and substitute equipment; chip controls alone cannot secure the race.
+[t10] Daphne(PRO): Your weakest claim is that substitute equipment erases the gap. Inferior chips force more machines, energy, and time for advanced training, so substitution slows progress precisely where race leadership is decided.
+[t11] Jed(CON): That burden shows controls can backfire: more machines need more electricity, and power prices shape factory hiring and local budgets. When grids strain, communities choose upgrades, train technicians, and protect jobs.
+[t12] @B1 Bonnie(MOD): It's getting a little bit off the u.s. chip controls outpacing china in the ai race issue. Fair enough? But that's why I stopped you. Jed to respond.
+[t13] Jed(CON): The question is whether chip controls can make the United States outpace China in AI. They cannot, because higher costs also motivate alternative suppliers and spread capability beyond American control.
+[t14] Daphne(PRO): Supply chains matter, and factories also depend on skilled workers, reliable power, and patient investment. But those factors make advanced chips more decisive, so controls can preserve the United States' lead long enough to outpace China.
+[t15] <cut> Jed(CON): On your preserve-the-lead point, you assume today's lead stays fixed while controls operate. A rival can redirect talent and capital toward domestic chips, and that response may-
+[t16] <ovl> Daphne(PRO): No, I am cutting in because your domestic-chip answer concedes the mechanism: controls force scarce resources into catching up. That diversion delays frontier AI, giving the United States room to outpace China.
+[t17] Jed(CON): Your weakest claim is that redirected resources automatically delay AI. A rival can fund chip design and AI teams together, while restrictions deny American sellers revenue for their own next generation.
+[t18] Daphne(PRO): If controls supposedly weaken American sellers, why would letting a rival buy the best chips strengthen the United States' lead? Selling the key input funds a competitor's progress; restricting it protects the lead.
+[t19] Jed(CON): How does starving an American maker create a durable lead? Imagine one barred from a customer: its team shrinks, alternatives gain buyers, proving controls weaken innovation and cannot secure American leadership.
+[t20] @A4 <ovl> Bonnie(MOD): Ten seconds left in the crossfire.
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Bonnie(MOD): It's just in time for us to go to our closing round. And Daphne, you are up first on that. Your closing remarks come now, it's your turn.
+[t22] Daphne(PRO): The core point is time and compounding advantage. Frontier chips are not ordinary goods; they determine which systems can be trained first and improved fastest. Controls deny a rival easy access to that capacity while American builders keep moving. That window attracts talent, partners, and investment, shaping the race before substitutes arrive.
+[t23] @A4 <ovl> Bonnie(MOD): Ten seconds from this side?
+[t24] <cut> Daphne(PRO): The other side calls that only a delay, but delay at the frontier changes who sets tools, standards, and applications. Chip controls are not the whole strategy; they are the lever-
+[t25] @A2-1 <ovl> Bonnie(MOD): Your time is up, Daphne. Thank you. And here to summarize his position against the motion, Jed.
+[t26] Jed(CON): My core point is that an obstacle is not a winning strategy. Controls can impose pain, but they also invite redesign, substitution, and a separate supply chain beyond American influence. Meanwhile, American firms lose customers and feedback that support future chips. A race is won by durable innovation, not by assuming a rival remains dependent.
+[t27] @A4 <ovl> Bonnie(MOD): Ten seconds for last word.
+[t28] <cut> Jed(CON): The other side calls time a decisive advantage, yet time also lets alternatives mature and dependence fade. You cannot claim outpacing from a policy that may shrink your own industry's reach-
+[t29] @A1 <ovl> Bonnie(MOD): I'm sorry. Your time is up. Thank you very much.
+[t30] Bonnie(MOD): Thank you, Daphne and Jed, and this concludes our debate on chip controls and the AI race.

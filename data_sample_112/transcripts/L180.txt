@@ -1,0 +1,38 @@
+L180  |  America is retreating from global leadership
+  MOD=Jack   PRO=Marcia   CON=Caroline
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Jack(MOD): Welcome. Tonight we debate the motion: America is retreating from global leadership. Marcia argues for it, and Caroline argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each has thirty seconds to close. I will give a ten-second cue before time expires. Please address one another directly, and keep your remarks focused on the motion.
+[t01] Marcia(PRO): Caroline will point to moments when America still convenes partners. But leadership is not occasional attendance; it is steady direction when risks rise. Allies now hear hesitation, see commitments delayed, and plan around uncertainty. When the strongest organizer steps back, others cannot simply fill the gap with the same trust or reach needed.
+[t02] @A4 <ovl> Jack(MOD): You have ten seconds left.
+[t03] <cut> Marcia(PRO): That retreat does not mean total disappearance. It means the country increasingly avoids the costly follow-through that turns promises into leadership, leaving urgent choices to allies who lack the capacity-
+[t04] @A2-1 <ovl> Jack(MOD): Time's up, Marcia. Thank you. Caroline, please.
+[t05] Caroline(CON): Marcia treats caution as retreat, but they are different. Leadership can mean building agreement rather than issuing commands, and America still brings partners together when shared action matters. It supports common goals, adapts to new threats, and keeps channels open. A leader who listens before acting may be harder to notice, yet more durable.
+[t06] @A4 <ovl> Jack(MOD): I can give you ten seconds to do this.
+[t07] Caroline(CON): The test is whether others still seek American cooperation when difficult choices arrive. They do, because influence rests on trust, capability, and continued engagement abroad. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Jack(MOD): And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly. You have two and a half minutes, starting when I stop talking.
+[t09] Marcia(PRO): Caroline, if leadership remains strong, why do partners increasingly prepare for sudden reversals rather than rely on American commitments? Please answer that directly: is dependable follow-through not the core test of leadership?
+[t10] Caroline(CON): When a crisis requires joint action, America still organizes partners, shares responsibility, and helps set a common course. That conditional reality matters: leadership is measured in difficult moments, not by whether every decision satisfies observers.
+[t11] Marcia(PRO): Your crisis-only point actually proves mine. If leadership appears only when disaster forces coordination, partners cannot count on it beforehand; they hedge, bargain separately, and doubt whether America will sustain the burdens that real leadership requires.
+[t12] Caroline(CON): America's influence is not confined to emergencies; it shapes choices through alliances, trade, and daily cooperation long before crises erupt. That influence persists because partners engage voluntarily, not because America must dictate every move to prove leadership.
+[t13] <cut> Marcia(PRO): I grant that cooperation can be quieter than command. But your daily-influence claim ignores the main change: partners now build alternatives because they fear withdrawal, and that weakens shared action when hard choices arrive, especially when commitments become-
+[t14] <ovl> Caroline(CON): No, they build alternatives to strengthen cooperation, not to replace America. Partners diversify tools while continuing to seek American support, because a network with several capable members is stronger than one that depends on a single leader.
+[t15] Marcia(PRO): Reliable security also depends on how a country funds factories, trains workers, and protects supply chains at home. If public money favors short-term consumption over resilient production, families face shortages, jobs vanish, and goods become harder to afford.
+[t16] @B1 Jack(MOD): We're not talking about that, we're talking about america is retreating from global leadership, that's what we'll concentrate on.
+[t17] Marcia(PRO): On whether America is retreating from global leadership, those domestic choices matter because they reveal willingness to sustain commitments abroad. When leaders avoid long-term responsibility at home and overseas, partners reasonably doubt America's staying power.
+[t18] Caroline(CON): Your staying-power point assumes domestic caution automatically signals abandonment abroad, and it does not. How can you call this retreat when partners still consult America, coordinate with it, and expect it to help meet shared challenges?
+[t19] Marcia(PRO): No, I reject the premise that consultation equals leadership; partners consult America because its choices affect them. But your consultation point ignores declining reliability, since influence without dependable action leaves others exposed and forces them to prepare alone.
+[t20] @A4 <ovl> Jack(MOD): Well, now ten.
+[t21] <cut> Caroline(CON): I accept that uncertainty can make partners uneasy. Yet your reliability argument mistakes adaptation for abandonment: shared leadership asks others to contribute, and partners that keep cooperating demonstrate-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Jack(MOD): Time's up. That wraps the discussion. Now, we go to closing statements. Marcia, you are up first.
+[t23] Marcia(PRO): Caroline's strongest point is that partners still cooperate, and that is true. But cooperation born of habit is not proof that America supplies steady direction when costs rise. Retreat is visible in delayed commitments and partners' need to insure themselves against reversal. Global leadership requires dependable follow-through, not merely a seat at the table.
+[t24] @A4 <ovl> Jack(MOD): I can give you ten seconds to wrap this round.
+[t25] Marcia(PRO): When the organizer becomes unreliable, the whole partnership weakens; that is America's retreat from global leadership. That's all, thank you.
+[t26] @A2-2 Jack(MOD): So, Caroline, can we let Caroline come in?
+[t27] Caroline(CON): America's leadership has changed form, not vanished. Partners cooperate because they value its capacity, its voice, and its ability to organize common action when it counts. Demanding constant command mistakes leadership for control; continued voluntary cooperation shows America remains engaged and influential. That's all, thank you.
+[t28] Jack(MOD): Thank you, Marcia and Caroline, for a thoughtful debate. That concludes our discussion of this motion today here.

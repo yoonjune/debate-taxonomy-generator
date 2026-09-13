@@ -1,0 +1,411 @@
+{
+ "debate_id": "L026",
+ "motion": "Charter schools are overrated.",
+ "speakers": {
+  "MOD": {
+   "name": "Anthony",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3713_246",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3713/MSP-PODCAST_3713_246.wav",
+   "wpm": 140.46
+  },
+  "PRO": {
+   "name": "Benjamin",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0177_72",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_0/MSP-PODCAST_0177/MSP-PODCAST_0177_72.wav",
+   "wpm": 170.28
+  },
+  "CON": {
+   "name": "Franklin",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5008_2986",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_4/MSP-PODCAST_5008/MSP-PODCAST_5008_2986.wav",
+   "wpm": 191.21
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 74.565,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 299.96,
+ "ext": {
+  "a32": {
+   "file": "L026_ext_a32.wav",
+   "place_at_sec": 219.948,
+   "dur_sec": 22.082,
+   "src_i": 17
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 18,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "A charter may advertise tiny classes, yet students can still face rotating teachers and thin course choices. That shows an attractive promise can hide limited substance, making the model overrated."
+  },
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I grant that promises can mislead families. Still, one disappointing school cannot define every charter; meaningful alternatives and better fits show the model deserves fair respect."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.706,
+   "dur_sec": 18.706,
+   "overlap": false,
+   "text": "Welcome to the debate on whether charter schools are overrated. Benjamin will argue for the motion, and Franklin will argue against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue, and I may cut in when time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.906,
+   "end_sec": 36.906,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "Charter schools are overrated because their special label often receives more praise than their actual results deserve. I support choice, but choice is not proof of excellence. When the same promises could improve ordinary public schools, celebrating the charter label distracts us from what students truly need."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 37.106,
+   "end_sec": 40.282,
+   "dur_sec": 3.176,
+   "overlap": false,
+   "text": "I just want to let Franklin respond to that."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 40.482,
+   "end_sec": 58.482,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "Charter schools are not overrated simply because some fail; every school model includes weak examples. They can offer families useful options, test different teaching methods, and serve students who need a different setting. The fair question is whether the model can help, not whether every school succeeds."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 58.682,
+   "end_sec": 74.565,
+   "dur_sec": 15.882,
+   "overlap": false,
+   "text": "And that concludes Round one. Now we move onto Round two. And in Round two, it's freer form. The debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 74.765,
+   "end_sec": 85.706,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "A charter school might replace rigid lessons with project work and smaller groups, giving a struggling student a fresh start. That shows the model earns attention through flexibility, not empty praise."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 86.632,
+   "end_sec": 99.338,
+   "dur_sec": 12.706,
+   "overlap": false,
+   "text": "Families also care about transport, meals, and a stable school day, so the wider system matters. Those practical details are important, but they don't make the charter label valuable; results should, and the label is overrated."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 100.128,
+   "end_sec": 112.834,
+   "dur_sec": 12.706,
+   "overlap": false,
+   "text": "You treat the label as if it creates the praise, but families usually notice what the school offers. Dismissing that choice because results vary ignores the weaker schools' needs, and the strongest evidence of flexibility is-"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 111.934,
+   "end_sec": 123.228,
+   "dur_sec": 11.294,
+   "overlap": true,
+   "text": "But flexibility alone is not success; a school can change schedules and still disappoint students. If the label gets applause before achievement is shown, then charter schools are overrated, whatever their promise."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 124.2,
+   "end_sec": 136.553,
+   "dur_sec": 12.353,
+   "overlap": false,
+   "text": "Your point about applause assumes supporters ignore achievement. I am saying families judge the school they can actually attend, and that real option matters more than your broad claim that the whole model is overrated."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.472,
+   "end_sec": 149.472,
+   "dur_sec": 12.0,
+   "overlap": false,
+   "text": "A board may spend months rewriting enrollment forms, hiring coordinators, and negotiating contracts before one classroom opens. Staff then argue over duties, calendars, and approvals, while children wait for clear lessons and dependable support."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 149.672,
+   "end_sec": 158.143,
+   "dur_sec": 8.471,
+   "overlap": false,
+   "text": "But we've got to come away with something from this debate more concrete than just that whether charter schools are overrated in public debate."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 158.343,
+   "end_sec": 169.99,
+   "dur_sec": 11.647,
+   "overlap": false,
+   "text": "The question is whether charter schools deserve their reputation, and complicated setup does not earn it. When attention goes to contracts and branding instead of teaching, the model's praise outruns its educational value."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 170.7,
+   "end_sec": 181.994,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "I grant that branding can distract from teaching. But a difficult setup does not prove the school is overrated; if that school gives families a better fit, charter schools deserve their place."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 182.753,
+   "end_sec": 195.106,
+   "dur_sec": 12.353,
+   "overlap": false,
+   "text": "If a better fit is enough, would any school with a welcoming atmosphere deserve special praise? Without stronger evidence of learning, aren't you confusing personal preference with educational value and proving the label is overrated?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 195.617,
+   "end_sec": 207.97,
+   "dur_sec": 12.353,
+   "overlap": false,
+   "text": "No, personal preference alone is not enough, but your premise that learning can be judged apart from fit is wrong. A school that reaches a student can produce learning, so the model is not overrated."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 208.37,
+   "end_sec": 219.312,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "I am answering the claim that fit proves value. Fit can help, but it cannot excuse weak instruction; when praise rests on possibility rather than demonstrated teaching, charter schools remain overrated."
+  },
+  {
+   "i": 17,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 214.565,
+   "end_sec": 215.623,
+   "dur_sec": 1.059,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 18,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 219.948,
+   "end_sec": 225.365,
+   "dur_sec": 5.417,
+   "overlap": false,
+   "text": "Why should a family reject a charter that meets its child's needs merely because you-",
+   "ext_file": "L026_ext_a32.wav",
+   "cut_at_sec": 225.365,
+   "full_dur_sec": 11.294
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 224.565,
+   "end_sec": 231.976,
+   "dur_sec": 7.412,
+   "overlap": true,
+   "text": "Time. So let's move on to our closing round. You go first in this closing round, Benjamin, the floor is yours."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 232.176,
+   "end_sec": 252.133,
+   "dur_sec": 19.956,
+   "overlap": false,
+   "text": "The strongest point is simple: a charter label can win admiration before a school proves its teaching. Flexibility and choice may help, but they are not achievement. When branding outruns classroom substance, the praise is excessive. That is why charter schools are overrated."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 252.176,
+   "end_sec": 255.353,
+   "dur_sec": 3.176,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 252.333,
+   "end_sec": 263.476,
+   "dur_sec": 11.143,
+   "overlap": false,
+   "text": "We should judge schools by steady teaching, broad opportunities, and honest results, not by a special label. Families deserve choices, but they also deserve clear evidence that those choices work. Until the praise follows performance rather than-",
+   "cut_at_sec": 263.476,
+   "full_dur_sec": 14.043,
+   "ext_file": "L026_024.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 262.676,
+   "end_sec": 266.559,
+   "dur_sec": 3.882,
+   "overlap": true,
+   "text": "You're out of time. And here to summarize his position, Franklin."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.759,
+   "end_sec": 276.607,
+   "dur_sec": 9.848,
+   "overlap": false,
+   "text": "This decision turns on whether the model's flaws outweigh its benefits. If charters give families real alternatives and improve fit, they are not overrated."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 275.707,
+   "end_sec": 278.007,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But alternatives are not automatically improvements. A-",
+   "cut_at_sec": 278.007,
+   "full_dur_sec": 9.882,
+   "ext_file": "L026_027.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 277.207,
+   "end_sec": 279.325,
+   "dur_sec": 2.118,
+   "overlap": true,
+   "text": "Wait, let him answer the question."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 279.525,
+   "end_sec": 289.767,
+   "dur_sec": 10.242,
+   "overlap": false,
+   "text": "The point is not that every charter excels; it is that families may reasonably need different options. Flexibility, fit, and experimentation can serve students, so the model is not overrated."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 286.759,
+   "end_sec": 288.523,
+   "dur_sec": 1.765,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 289.967,
+   "end_sec": 295.876,
+   "dur_sec": 5.909,
+   "overlap": false,
+   "text": "Judge the schools fairly, not by their label or their critics' broad assumptions; useful choice deserves respect."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 296.076,
+   "end_sec": 299.959,
+   "dur_sec": 3.882,
+   "overlap": false,
+   "text": "Thank you both for taking part. This debate is now closed."
+  }
+ ]
+}

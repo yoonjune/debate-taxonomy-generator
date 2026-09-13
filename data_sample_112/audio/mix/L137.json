@@ -1,0 +1,398 @@
+{
+ "debate_id": "L036",
+ "motion": "Obesity is the government's business.",
+ "speakers": {
+  "MOD": {
+   "name": "Abigail",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1239_11",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1239/MSP-PODCAST_1239_11.wav",
+   "wpm": 174.36
+  },
+  "PRO": {
+   "name": "Virginia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  },
+  "CON": {
+   "name": "Chloe",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2124_313",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2124/MSP-PODCAST_2124_313.wav",
+   "wpm": 171.3
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 77.09,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 283.66,
+ "ext": {
+  "a32": {
+   "file": "L036_ext_a32.wav",
+   "place_at_sec": 221.556,
+   "dur_sec": 24.21,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "If government may keep drinking water safe and streets walkable, why may it not address food access and respectful prevention when obesity causes avoidable harm? Those protections serve everyone, making obesity government business."
+  },
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Picture a teenager marked for a weight program at school, then teased because adults made her body a public issue. She withdraws from activities instead of gaining confidence. That harm proves obesity is not government business."
+  },
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Your school example condemns humiliating programs, and I agree they fail. It does not condemn private counseling, inclusive activities, or healthier meals. Better public design reduces stigma, which is why obesity is government business."
+  },
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "On your point about better public design, design can help without declaring obesity an official concern. Universal meals and safe activities need no body labels. Keep support voluntary and broad; obesity is not government business."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.28,
+   "dur_sec": 15.28,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, obesity is the government's business. Virginia speaks for it, and Chloe speaks against it. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.48,
+   "end_sec": 32.06,
+   "dur_sec": 16.58,
+   "overlap": false,
+   "text": "Obesity affects families, workplaces, and public services, so government cannot pretend it is merely private. It should make healthy choices easier through clear food information, safe places to move, and early support. That is responsible public action, not personal control. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 32.26,
+   "end_sec": 34.27,
+   "dur_sec": 2.01,
+   "overlap": false,
+   "text": "Chloe has the floor right now."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 34.47,
+   "end_sec": 54.27,
+   "dur_sec": 19.8,
+   "overlap": false,
+   "text": "Obesity can be painful and serious, but government ownership of the issue is the wrong answer. Bodies, meals, and daily routines are deeply personal. Officials may offer voluntary help, yet calling obesity their business invites judgment and pressure. People need trust, not a public authority deciding which habits deserve scrutiny or which bodies require correction."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 54.47,
+   "end_sec": 56.43,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.47,
+   "end_sec": 65.77,
+   "dur_sec": 11.3,
+   "overlap": false,
+   "text": "Once government treats weight as its business, ordinary choices become targets for rules, labels, and shame. Help can become coercion, and people who already feel exposed may avoid care. The proper role is voluntary-",
+   "cut_at_sec": 63.51,
+   "full_dur_sec": 16.32,
+   "ext_file": "L036_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 64.97,
+   "end_sec": 67.14,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "Thank you, Chloe. Your time is up."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 67.34,
+   "end_sec": 79.35,
+   "dur_sec": 12.01,
+   "overlap": false,
+   "text": "And that concludes Round one. Now, we move onto Round two, and in Round two, the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 79.55,
+   "end_sec": 91.65,
+   "dur_sec": 12.1,
+   "overlap": false,
+   "text": "Imagine a worker avoiding a local clinic because officials record her weight and lecture her about food. That fear delays care. Government involvement can turn support into surveillance, proving obesity is not its business."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 92.054,
+   "end_sec": 104.254,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Your example attacks intrusive recording, not public responsibility. Government can fund welcoming care and protect privacy while making healthier options easier. Refusing every shared response because one program might feel harsh leaves families with-"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 103.354,
+   "end_sec": 115.114,
+   "dur_sec": 11.76,
+   "overlap": true,
+   "text": "But that is exactly the danger: once officials define the response, people lose room to refuse it. Privacy promises do not erase the power imbalance. Obesity remains a personal matter, not government business."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 115.815,
+   "end_sec": 129.415,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "No one needs officials inspecting dinner plates; even school meal arguments can become needlessly bitter. But government already shapes food access and neighborhood safety. It should use that power to prevent avoidable harm, so obesity is its business."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 129.781,
+   "end_sec": 141.981,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "No, your premise is wrong: shaping access does not require claiming ownership of obesity. Better sidewalks help everyone without singling out body size. Your approach invites targeted pressure, so obesity is not government business."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 142.674,
+   "end_sec": 156.604,
+   "dur_sec": 13.93,
+   "overlap": false,
+   "text": "Consider the clinic appointment itself: a nurse needs time to listen, a private room, and a follow-up visit. Then the desk needs a simpler booking system, and staff need training to welcome anxious patients without rushing them through intake forms."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 156.804,
+   "end_sec": 160.174,
+   "dur_sec": 3.37,
+   "overlap": false,
+   "text": "We'll call it whether obesity is the government's business then."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 160.374,
+   "end_sec": 171.494,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Every obesity case deserves public intervention. Intervention can mean fair access to nutritious food, respectful care, and safe spaces to move, not blame. That shared duty makes obesity the government's business."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 171.893,
+   "end_sec": 184.013,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Your absolute rule is the weakest point: every case invites officials into every person's life. Respectful care is valuable, but it does not need public intervention in each case. Obesity is not government business."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 184.805,
+   "end_sec": 196.565,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "A person who declines help after hearing the options should be left alone. This obesity case does not deserve public intervention. Respecting that choice still leaves government responsible for removing barriers around her."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 196.765,
+   "end_sec": 210.695,
+   "dur_sec": 13.93,
+   "overlap": false,
+   "text": "I must ask you to stop, thank you Virginia, thank you very much indeed. You've slightly destroyed your own argument there, you said that every obesity case deserves public intervention and then this obesity case does not deserve public intervention."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 210.895,
+   "end_sec": 223.015,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Those statements fit because public responsibility includes offering help and honoring refusal. Can you explain why making healthy options available becomes control? Government can build opportunity without forcing anyone, so obesity remains its business."
+  },
+  {
+   "i": 20,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 219.35,
+   "end_sec": 221.84,
+   "dur_sec": 2.49,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 223.816,
+   "end_sec": 230.15,
+   "dur_sec": 6.334,
+   "overlap": false,
+   "text": "No, availability is not automatically control, but your universal intervention claim is. You cannot call every case public business and-",
+   "ext_file": "L036_ext_a32.wav",
+   "cut_at_sec": 227.89,
+   "full_dur_sec": 12.17
+  },
+  {
+   "i": 22,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 229.35,
+   "end_sec": 239.12,
+   "dur_sec": 9.77,
+   "overlap": true,
+   "text": "Time. So, let's move on to round three and our closing statements on the resolution whether obesity is the government's business. Making her closing statement, here is Virginia."
+  },
+  {
+   "i": 23,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 239.32,
+   "end_sec": 259.33,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "This decision turns on whether public responsibility ends when harm has personal causes. It should not. Government need not police bodies or force treatment, but it can remove barriers that make healthy living and respectful care harder. When food access, safe movement, and early help are shared conditions, ignoring obesity abandons people to preventable obstacles."
+  },
+  {
+   "i": 24,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 259.32,
+   "end_sec": 262.21,
+   "dur_sec": 2.89,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 25,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.53,
+   "end_sec": 267.87,
+   "dur_sec": 8.34,
+   "overlap": false,
+   "text": "Choose practical support over neglect: obesity is the government's business because conditions are shared. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 268.07,
+   "end_sec": 269.44,
+   "dur_sec": 1.37,
+   "overlap": false,
+   "text": "Great, Chloe, go ahead."
+  },
+  {
+   "i": 27,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 269.64,
+   "end_sec": 284.63,
+   "dur_sec": 14.99,
+   "overlap": false,
+   "text": "My strongest point is that help becomes harmful when bodies become public targets. Government can provide broad services without treating obesity as its property. Keep choices, dignity, and care with individuals; obesity is not government business. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 284.83,
+   "end_sec": 290.44,
+   "dur_sec": 5.61,
+   "overlap": false,
+   "text": "Thank you, Virginia and Chloe, for a thoughtful debate on whether obesity is the government's business."
+  }
+ ]
+}

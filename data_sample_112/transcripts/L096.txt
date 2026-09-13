@@ -1,0 +1,42 @@
+L096  |  The government should use equity proactively as an instrument of economic policy rather than only as a last resort in a crisis.
+  MOD=Miriam   PRO=Jorge   CON=Philip
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Miriam(MOD): Welcome. The motion is: the government should use equity proactively as an instrument of economic policy rather than only as a last resort in a crisis. Jorge supports it, and Philip opposes it. Each speaker has thirty seconds for openings, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue.
+[t01] Jorge(PRO): When the public helps build promising firms, it should share their upside. Proactive equity gives government a stake before markets fail, so gains can fund.
+[t02] <ovl> <cut> Philip(CON): You cannot treat public ownership like a savings-
+[t03] @A5 <ovl> Miriam(MOD): Let him finish.
+[t04] Jorge(PRO): families rely on. It can back useful work early, share returns broadly, and reduce dependence on emergency rescues after private risks have already grown.
+[t05] @A4 <ovl> Miriam(MOD): Ten seconds warning.
+[t06] Jorge(PRO): That is steady economic policy, not a desperate rescue when choices have vanished. That's all, thank you.
+[t07] @A2-2 Miriam(MOD): Philip, why don't you take it.
+[t08] Philip(CON): Public ownership can be necessary when collapse threatens everyone. But making it routine invites political bets with money people cannot refuse to supply. Markets direct risk through voluntary choices; government should set fair rules and intervene only when danger demands it. Why should officials own businesses without trouble existing? That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Miriam(MOD): Now onto round two. And round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Jorge(PRO): Officials need not own businesses without purpose; they can take limited stakes where public support creates value. Your voluntary-choice claim misses that taxpayers already bear failures without sharing ordinary success in return.
+[t11] Philip(CON): When a project needs public infrastructure before any buyer can benefit, a temporary equity stake may be sensible. Outside that condition, officials lack the knowledge and discipline that private investors face.
+[t12] Jorge(PRO): Public stakes can also make citizens care more about how firms are run, including workplace conduct and training. But that is secondary; the motion is about sharing value early, before crisis forces a worse bargain.
+[t13] Philip(CON): Your weakest point is that early ownership creates value merely because government shares returns. Sharing a return does not create it; it shifts risk from chosen investors to people who may reject the project.
+[t14] Jorge(PRO): You say risk should stay with chosen investors, yet public grants, roads, and research often make ventures possible. If the public supplies that foundation, why should it receive nothing when the venture thrives?
+[t15] Philip(CON): A town funds a workshop, then officials buy shares in a fashionable maker that soon closes, leaving less money for repairs. That answers you: public support does not justify routine ownership, and this proves restraint protects taxpayers.
+[t16] Jorge(PRO): That example shows poor judgment, not a flaw in equity itself; private investors also lose money. The answer is transparent limits and diversified stakes, so public contributions can earn returns before emergencies.
+[t17] Philip(CON): Government is poorly suited to running ordinary businesses, because day-to-day decisions need independence. Economic policy should usually leave ownership private, and crisis action remains available when systemic harm cannot otherwise be contained.
+[t18] Jorge(PRO): Your point about ordinary management is beside the proposal: equity can be passive, with clear boundaries. The issue is whether public investment should capture some upside, and it plainly should do so.
+[t19] Philip(CON): Passive ownership is your weakest answer, because someone still chooses the firms, price, and exit. Clear boundaries cannot remove political pressure, so your upside comes with hidden favoritism and avoidable losses.
+[t20] Jorge(PRO): If political pressure is the concern, why reject rules that bar ministers from selecting firms and require independent managers? Would you really leave public money with only downside whenever government helps create a market?
+[t21] <cut> Philip(CON): Imagine an independent board buys shares in a new supplier, but its losses still reduce funds for clinics when demand fades. That answers you: insulation changes the messenger, not the public exposure, proving equity should remain-
+[t22] @A4 <ovl> Miriam(MOD): Ten seconds remaining in this round.
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Miriam(MOD): That's time. And that concludes round two. And now we're going to move on to round three. Here to argue in his closing statement, in support of this motion, Jorge.
+[t24] Jorge(PRO): Philip treats every public stake as political meddling, but design matters. Independent management, published limits, and diversified holdings can protect against favoritism. The stronger principle is simple: when public action helps create future value, people deserve a share of it. Waiting for collapse means buying only after choices have narrowed and losses have spread. That is why timing matters.
+[t25] @A4 <ovl> Miriam(MOD): You have ten seconds.
+[t26] <cut> Jorge(PRO): It is not government running every shop. It matches public risk with public reward where early support shapes a market. Rejecting it leaves us paying when ventures-
+[t27] @A2-1 <ovl> Miriam(MOD): Your time is up. Thank you. Philip.
+[t28] Philip(CON): Jorge promises careful safeguards, yet safeguards cannot make political ownership neutral. Officials still decide which firms get public capital, and failures still land on shared budgets. A crisis is different because the danger is immediate and the alternative may be wider collapse. Outside that narrow role, government should build fair conditions for enterprise, not become a standing investor.
+[t29] @A4 <ovl> Miriam(MOD): Philip, ten seconds.
+[t30] <cut> Philip(CON): The other side calls this a tool, but tools have costs and users cannot escape the bill. Equity may rescue a system when failure threatens everyone; making it proactive-
+[t31] @A1 <ovl> Miriam(MOD): I'm sorry, you've hit time.
+[t32] Miriam(MOD): Thank you both for a clear exchange on this motion; that concludes our debate here today.

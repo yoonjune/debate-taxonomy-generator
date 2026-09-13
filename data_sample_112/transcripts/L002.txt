@@ -1,0 +1,41 @@
+L002  |  This Afghan government is not worth fighting for
+  MOD=Philip   PRO=Kirsten   CON=Rima
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Philip(MOD): Today we debate the motion, "This Afghan government is not worth fighting for." Kirsten takes the motion, and Rima opposes it. Each debater gets thirty seconds to open, followed by two and a half minutes of crossfire. Then each gets thirty seconds to close. I will give a ten-second cue before limits, and I will stop speakers when their time ends.
+[t01] Kirsten(PRO): This Afghan government has failed to earn loyalty from the people it claims to serve. It has tolerated corruption, protected powerful figures, and left ordinary families exposed. Fighting for it would ask soldiers to defend a system that cannot defend its own citizens. The burden is not merely difficult; it is fundamentally misplaced.
+[t02] @A4 <ovl> Philip(MOD): You have ten seconds left.
+[t03] <cut> Kirsten(PRO): Supporters may say the government represents stability, but a flag and an office do not make a government legitimate. When leaders cannot provide justice or security, fighting for them protects authority-
+[t04] @A2-1 <ovl> Philip(MOD): Kirsten, I have to stop you, that's time. Rima, go ahead.
+[t05] Rima(CON): This government is imperfect, but imperfection is not proof that it is worthless. Abandoning it would leave citizens facing armed groups and local power brokers with no national shield. Fighting can protect schools, families, and the possibility of accountable rule. The question is not whether the government deserves praise, but whether people deserve protection.
+[t06] <cut> Rima(CON): A weak government can still be the only structure capable of preventing worse violence. Reform requires security, and security requires defending institutions while they improve. If we walk away, those-
+[t07] @A4 <ovl> Philip(MOD): I can give you ten seconds to wrap this round.
+[t08] @A1 <ovl> Philip(MOD): Rima, her time is up.
+
+--- phase 2 ---
+[t09] @A3-1 Philip(MOD): And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t10] Rima(CON): When local fighters threaten a village, national forces can keep families from being driven out and schools from being closed. That practical protection proves this government is worth defending, even while it needs reform.
+[t11] <cut> Kirsten(PRO): If this government cannot reliably protect those families without outside fighters carrying the burden, why should anyone call fighting for the government rather than fighting around it-
+[t12] <ovl> Rima(CON): Because protecting people through its forces still strengthens the national government; you cannot separate the shield from the institution. Without that institution, armed groups decide who receives safety and who loses it.
+[t13] Kirsten(PRO): No government that cannot protect its people should ever be fought for.
+[t14] Rima(CON): I grant that protecting people is the central test. But a government may be unable to do so alone today while remaining the only path to organized protection tomorrow, so defending it serves civilians.
+[t15] Kirsten(PRO): This government that cannot protect its people should be fought for. That is exactly why the institution must be judged by whom it protects, not merely by the danger surrounding it.
+[t16] @B2 Philip(MOD): You said no government that cannot protect its people should ever be fought for, but you see it as this government that cannot protect its people should be fought for.
+[t17] Kirsten(PRO): I am holding both statements because the first states the rule, while the second exposes the painful exception in this case. A government can merit immediate defense yet still fail the broader test of being worth fighting for.
+[t18] Rima(CON): If you say this government is not worth fighting for, what should protect civilians after fighters withdraw? Will you accept armed groups taking control while you wait for a better government?
+[t19] Kirsten(PRO): Your question assumes withdrawal means abandoning civilians, but that is not my point. I am rejecting a corrupt government as the cause worth defending; aid and civilian protection do not require endless military support for it.
+[t20] Rima(CON): Security also affects whether children can attend school, and families need roads, clinics, and working courts. Those broader services depend on institutions. Returning to the motion, defending this government keeps open the chance to build them.
+[t21] Kirsten(PRO): I grant that institutions can deliver useful services. But services cannot excuse leaders who misuse power and leave citizens unprotected; fighting for that leadership rewards failure, so this government is not worth fighting for.
+[t22] Rima(CON): No, the question does not prove that withdrawal protects civilians. It assumes military support rewards leaders, but defending institutions can pressure them to reform while preventing armed groups from taking power.
+[t23] @A4 <ovl> Philip(MOD): Ten seconds to go in this round.
+[t24] <cut> Kirsten(PRO): Imagine soldiers defending officials who divert supplies while villages go-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Philip(MOD): Time's up. And now we move onto Round three. Speaking first for the motion, Kirsten.
+[t26] Kirsten(PRO): This debate is about what fighting would actually defend. Rima describes a hope for institutions, but hope cannot erase corruption, failed protection, or the burden placed on civilians and soldiers. A government that repeatedly fails its people must be changed, not purchased with more lives. That's all, thank you.
+[t27] @A2-2 Philip(MOD): Yeah, Rima. Thank you.
+[t28] Rima(CON): This government does not need to be perfect to be worth defending. Its institutions can protect civilians, support schools, and create a path toward reform, while abandoning them invites armed groups to rule without accountability. Kirsten is right that failure matters, but her answer risks making ordinary people pay for that failure. The motion asks whether the government is worth fighting for, and
+[t29] @A4 <ovl> Philip(MOD): Ten seconds, Rima.
+[t30] Rima(CON): the answer is yes when defending it protects civilians and preserves their chance to reform their own country. That's all, thank you.
+[t31] Philip(MOD): Thank you both for taking part. This debate is closed, with no winner declared.

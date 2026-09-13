@@ -1,0 +1,40 @@
+L053  |  The US government violated the First Amendment by asking companies like Twitter and Facebook to take down some user postings during COVID.
+  MOD=Mira   PRO=Amanda   CON=Scott
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Mira(MOD): Welcome. Today's motion is: the US government violated the First Amendment by asking online companies to remove some user posts during COVID. Amanda argues for the motion, and Scott argues against it. Each has thirty seconds for openings, then two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue.
+[t01] Amanda(PRO): The government may speak, but it may not use its authority to make private platforms suppress views it dislikes. During a crisis, officials can warn the public and correct errors directly. Asking companies to remove speakers crosses a line when the request carries official pressure. That pressure turns private moderation into government censorship, especially when users lose their forum.
+[t02] @A4 <ovl> Mira(MOD): Well, now ten.
+[t03] Amanda(PRO): The issue is not whether posts were wise. It is whether government leverage silenced people. When officials press for removal rather than answer, speech suffers. That's all, thank you.
+[t04] @A2-2 Mira(MOD): Let me take your point to Scott then.
+[t05] Scott(CON): Officials were allowed to share concerns with companies, just as any citizen may ask a publisher to reconsider material. A request is not an order, and platforms retained their own rules and choices. Without coercion or punishment, private decisions remain private, so the First Amendment was not violated. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Mira(MOD): So, in round two, the debaters direct questions to one another. Two and a half minutes on the clock, starting the moment I stop talking.
+[t07] Scott(CON): If a public official asks a platform to remove a post, what turns that ordinary advocacy into state censorship when no penalty follows? Can you name the actual coercive act you claim?
+[t08] Amanda(PRO): People also argue about whether disputed posts were sensible, and that can become a fight over trust. But wisdom is beside the point: official pressure to remove protected speech makes the state responsible for censorship.
+[t09] Scott(CON): When an official request is plainly voluntary and carries no threat, a platform's decision remains its own. In that situation, asking for removal does not violate the First Amendment.
+[t10] <cut> Amanda(PRO): I grant that a truly voluntary request may leave a company free to refuse. But officials hold unusual power, and their repeated demands can make refusal costly, so the resulting censorship is government-
+[t11] Scott(CON): Government can express its view to companies and citizens without violating the First Amendment. The Constitution restricts censorship, not persuasion, so a request alone does not transform a company's independent decision into state action.
+[t12] Amanda(PRO): No, I reject the idea that repeated official demands are mere persuasion. When people with regulatory power seek removals, companies reasonably read the request as pressure, and that pressure makes censorship governmental.
+[t13] Scott(CON): Government requests never violate free speech. Companies remain private speakers, and they may accept, reject, or revise a request under their own standards; the motion therefore claims a constitutional violation where none exists.
+[t14] Amanda(PRO): Your claim that requests never violate free speech ignores how power works. A person asked by an official can face future investigations or retaliation, so the label request cannot erase coercion.
+[t15] Scott(CON): These government requests do violate free speech. Still, the motion is false because a constitutional violation requires state punishment, not officials urging a private company to act.
+[t16] @B2 Mira(MOD): Scott, thank you very much indeed. You said government requests never violate free speech. These government requests do violate free speech?
+[t17] Scott(CON): Both statements stand because free speech can be harmed by pressure without creating a First Amendment violation. My first point addresses constitutional liability; my second recognizes an unwelcome effect, so the legal claim still fails.
+[t18] Amanda(PRO): Imagine a small forum removes a parent's criticism after officials repeatedly demand action. Other users watch that disappearance and stop posting their own concerns. That chilling effect shows why pressured removals violate the First Amendment.
+[t19] <cut> Scott(CON): No, the example does not show a government violation, because the forum still chose under its own rules. Your theory treats any official criticism as control, erasing the line between persuasion-
+[t20] @A4 <ovl> Mira(MOD): Ten seconds to go in this round.
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Mira(MOD): Okay, time. This concludes round two of the debate. Amanda.
+[t22] Amanda(PRO): Scott's distinction between harm and a constitutional violation fails when officials use their office to secure removals. The First Amendment bars government from doing indirectly what it cannot do directly. A company may own its rules, yet official pressure can turn its choice into state action. The central question is power, and the record described here shows officials using it against speakers.
+[t23] @A4 <ovl> Mira(MOD): Just, just about ten seconds left.
+[t24] Amanda(PRO): Speech needs protection before officials can quietly shape what people are allowed to say. That is why these pressured takedown requests violated the First Amendment. That's all, thank you.
+[t25] @A2-2 Mira(MOD): I just want to let Scott respond to that.
+[t26] Scott(CON): Amanda is right that coercion would be unconstitutional, but she has not shown an order, penalty, or forced removal. Government officials may answer dangerous claims and ask private companies to consider concerns. Those companies keep their judgment, including the power to refuse. The key distinction is between government speech and government control.
+[t27] @A4 <ovl> Mira(MOD): I can give you ten seconds to wrap this round.
+[t28] <cut> Scott(CON): Officials can raise alarms without commanding anyone, and private platforms can decide what appears under their rules. That leaves speakers free from state punishment and preserves private editorial choice. Treating-
+[t29] @A1 <ovl> Mira(MOD): Time.
+[t30] Mira(MOD): Thank you, Amanda and Scott, for a thoughtful debate on this motion. That concludes our discussion today.

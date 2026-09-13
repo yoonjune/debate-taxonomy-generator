@@ -1,0 +1,433 @@
+{
+ "debate_id": "L176",
+ "motion": "Being married is a better way to live than being single.",
+ "speakers": {
+  "MOD": {
+   "name": "Amy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3397_113",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3397/MSP-PODCAST_3397_113.wav",
+   "wpm": 179.73
+  },
+  "PRO": {
+   "name": "Bradley",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  },
+  "CON": {
+   "name": "Isaac",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 93.86,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 301.83,
+ "ext": {
+  "a32": {
+   "file": "L176_ext_a32.wav",
+   "place_at_sec": 236.641,
+   "dur_sec": 32.64,
+   "src_i": 26
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 27,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Picture a single person offered a new path: they can accept without uprooting a spouse or sacrificing a partner's plans. That freedom proves single life can be the better way."
+  },
+  {
+   "src_i": 28,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "That freedom matters, but it does not show marriage blocks every new path; partners can decide together. Independence is valuable, yet marriage improves life by making freedom answer to shared care."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.73,
+   "dur_sec": 20.73,
+   "overlap": false,
+   "text": "Welcome. Today's motion is that being married is a better way to live than being single. Bradley supports it, and Isaac opposes it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Listen without interrupting, address the motion, and stop when I call time."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.93,
+   "end_sec": 30.97,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "Marriage can turn daily life into a shared project, where two people divide burdens and celebrate gains. That steady partnership gives people more support when."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 30.07,
+   "end_sec": 32.37,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But sharing a home does not make life better-",
+   "cut_at_sec": 32.37,
+   "full_dur_sec": 8.87,
+   "ext_file": "L176_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 31.57,
+   "end_sec": 33.74,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "Let's talk one at a time."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 33.94,
+   "end_sec": 44.38,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "pressure hits, because promises create a reason to stay engaged. The question is not whether singles can thrive; it is which arrangement more reliably builds connection."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.93,
+   "end_sec": 42.22,
+   "dur_sec": 1.29,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 44.58,
+   "end_sec": 52.03,
+   "dur_sec": 7.45,
+   "overlap": false,
+   "text": "Marriage makes mutual care an everyday commitment, which is why it offers the better life. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 52.23,
+   "end_sec": 54.07,
+   "dur_sec": 1.84,
+   "overlap": false,
+   "text": "Isaac wants to answer that."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.27,
+   "end_sec": 74.35,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "Bradley treats commitment as if it must mean marriage. It does not: friends, relatives, and chosen communities can provide durable care without making one relationship the center. Marriage can also turn ordinary choices into negotiations, from spending to rest to where someone lives. A better life leaves room for each person to shape it."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 74.27,
+   "end_sec": 76.28,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 74.55,
+   "end_sec": 85.57,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "Of course spouses may help, but help matters because people choose it, not because marriage makes it superior. Singles can leave unhealthy dependence. Better living means freedom-",
+   "cut_at_sec": 84.2,
+   "full_dur_sec": 14.24,
+   "ext_file": "L176_010.wav"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 84.77,
+   "end_sec": 87.1,
+   "dur_sec": 2.33,
+   "overlap": true,
+   "text": "I'm sorry, his time is up."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 87.3,
+   "end_sec": 95.23,
+   "dur_sec": 7.93,
+   "overlap": false,
+   "text": "And that concludes Round one. Now onto Round two. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 95.43,
+   "end_sec": 105.87,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "I agree marriage can offer companionship. But companionship exists outside marriage, and tying the better life to one status ignores people whose independence and wider bonds make them flourish."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 106.658,
+   "end_sec": 117.098,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Consider a couple facing a sudden job loss: they plan together, share household tasks, and reassure each other through fear. That dependable teammate proves marriage can make life better."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 118.083,
+   "end_sec": 128.443,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "That example shows two caring people, not that marriage itself causes support. A single person can have dependable teammates too, while keeping choices and living space fully their own."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 129.401,
+   "end_sec": 140.801,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "When two people want to build a home and raise children together, marriage gives their promises a clear structure. That structure makes cooperation easier, so marriage is better in that shared-life case."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 141.282,
+   "end_sec": 152.402,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "People also argue about ceremonies, rings, and family expectations, which can distract from real relationships. But beneath those customs, single life remains better because it lets people define commitment for themselves."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 153.345,
+   "end_sec": 165.185,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Marriage is not merely useful for parents or homeowners; it can deepen any loving partnership through shared responsibility. People generally live better when devotion is practiced daily, and marriage gives devotion durable form."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 165.686,
+   "end_sec": 175.766,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "No adult should ever marry. A better life must remain open to changing needs, and marriage encourages people to treat one permanent arrangement as the answer for everyone."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 176.426,
+   "end_sec": 187.466,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "A married pair caring for a sick parent can alternate errands, meals, and difficult conversations, so neither carries every worry alone. That shared duty proves marriage offers a stronger daily life."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 187.735,
+   "end_sec": 197.345,
+   "dur_sec": 9.61,
+   "overlap": false,
+   "text": "This adult should marry. Someone devoted to a partner and wanting a lasting household deserves marriage, while single life is still the better way to live overall."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 197.545,
+   "end_sec": 202.995,
+   "dur_sec": 5.45,
+   "overlap": false,
+   "text": "You said no adult should ever marry, but you see it as this adult should marry."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.195,
+   "end_sec": 214.235,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "I mean both statements as guides: people should reject marriage as a general path, yet this adult should take it. The motion still fails because exceptions do not define better living."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.783,
+   "end_sec": 226.543,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Your exception point exposes the problem: if marriage is right for this adult, it can be a better way to live. A supportive committed household is not an accident; it is marriage's purpose."
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 227.044,
+   "end_sec": 237.124,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "Your weakest claim is that marriage's purpose guarantees support. A title cannot create patience or fairness, and singles can choose dependable people without risking a mismatched permanent bond."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 235.23,
+   "end_sec": 237.8,
+   "dur_sec": 2.57,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 27,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 238.011,
+   "end_sec": 246.03,
+   "dur_sec": 8.019,
+   "overlap": false,
+   "text": "I grant that a bad marriage can feel confining. Yet the motion compares ways to live at their best, and marriage adds chosen partnership, shared responsibility-",
+   "ext_file": "L176_ext_a32.wav",
+   "cut_at_sec": 244.66,
+   "full_dur_sec": 10.44
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 245.23,
+   "end_sec": 259.72,
+   "dur_sec": 14.49,
+   "overlap": true,
+   "text": "And that's time. We are about to hear brief closing remarks from each debater in turn. On to round three, closing statements. First summarizing his position in support of the motion being married is a better way to live than single, Bradley."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.92,
+   "end_sec": 277.49,
+   "dur_sec": 17.57,
+   "overlap": false,
+   "text": "This choice turns on what makes a life stronger when ordinary burdens arrive. Single people can flourish, but marriage joins love to daily responsibility, creating a dependable partner for decisions, hardship, and joy. That enduring mutual commitment makes married life the better way to live. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 277.69,
+   "end_sec": 280.58,
+   "dur_sec": 2.89,
+   "overlap": false,
+   "text": "Now his summation against the motion, Isaac."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 280.78,
+   "end_sec": 300.28,
+   "dur_sec": 19.5,
+   "overlap": false,
+   "text": "This choice turns on whether one model should be called better for everyone. Marriage can be loving, yet it can also narrow choices and concentrate needs in one bond. Single life preserves independence and allows care through many relationships, so it is not an inferior way to live. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 300.48,
+   "end_sec": 307.07,
+   "dur_sec": 6.59,
+   "overlap": false,
+   "text": "Thank you, Bradley and Isaac, for a thoughtful debate. This concludes our discussion of the motion for today."
+  }
+ ]
+}

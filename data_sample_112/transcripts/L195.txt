@@ -1,0 +1,38 @@
+L195  |  The Equal Protection Clause Does Not Require States To License Same-Sex Marriages
+  MOD=Genevieve   PRO=Liz   CON=Joanna
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Genevieve(MOD): Welcome to our debate. The motion is whether equal protection requires states to license same-sex marriages. Liz supports the motion, and Joanna opposes it. Each debater has thirty seconds for an opening, then two and a half minutes of crossfire, followed by thirty-second closings; I will give a ten-second cue.
+[t01] Liz(PRO): Equal protection bars unequal treatment where the Constitution itself supplies a rule; it does not turn every state definition of marriage into a federal command. States may choose different marriage policies through democratic processes. That constitutional limit is why the motion is true. That's all, thank you.
+[t02] @A2-2 Genevieve(MOD): I'm going to let Joanna answer.
+[t03] Joanna(CON): Liz's constitutional-limit point assumes history can freeze a basic civil institution. Equal protection asks whether a state has a sufficient reason for drawing a line between similarly situated couples. Same-sex couples seek the same legal commitment and family security. Denying the license marks their relationship as lesser, and that is the injury
+[t04] @A4 <ovl> Genevieve(MOD): Ten seconds please.
+[t05] Joanna(CON): the injury equal protection forbids. A state cannot reserve marriage's protections for one kind of couple without a real public reason, so the motion fails. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Genevieve(MOD): All right, we've just heard opening arguments on the resolution, whether equal protection requires states to license same-sex marriages, and now we're going to give our debaters a chance to respond to one another. You have two and a half minutes, starting when I stop talking.
+[t07] Joanna(CON): On Liz's democratic-process point, voting cannot excuse a classification that demeans a group. Equal protection exists precisely when majorities deny equal legal standing, so the motion is false.
+[t08] <cut> Liz(PRO): You're right that popular approval alone cannot settle a constitutional claim. But your dignity point skips whether marriage classifications violate equal protection; the Clause does not mandate them-
+[t09] <ovl> Joanna(CON): No, the Clause forbids unequal legal standing, and same-sex couples face it at the license counter. You call that choice; I call it state-imposed exclusion, so the motion fails.
+[t10] Liz(PRO): When a state offers marriage as status, it may define eligibility around the union it recognizes without violating equal protection. Under a law treating all male-female couples alike, the motion remains true.
+[t11] Joanna(CON): Consider two women raising a child: one dies, and the survivor loses protections marriage gives other parents. That loss harms the family through no fault of theirs, proving equal protection requires licenses.
+[t12] Liz(PRO): Marriage policy has many consequences beyond any single licensing rule, including parentage and property questions. Equal protection does not require states to license same-sex marriages, so the motion remains true.
+[t13] Joanna(CON): On your broad-policy point, administrative consequences cannot justify withholding a status from same-sex couples. The relevant question is equal citizenship at marriage's doorway, and denial fails it; the motion is false.
+[t14] Liz(PRO): No state must ever license a same-sex marriage. Equal protection restrains discrimination under its own terms, rather than forcing every state to adopt one contested definition, so the motion is true.
+[t15] Joanna(CON): Your weakest claim is that the Clause merely waits for state definitions. If a state calls exclusion a definition, your approach protects the label, not equal persons, so the motion is false.
+[t16] Liz(PRO): This state must license a same-sex marriage. If equal protection has force, it cannot leave a couple's family status to a majority's preference, and the motion is still true.
+[t17] @B2 Genevieve(MOD): So one moment it's no state must ever license a same-sex marriage and the next moment it's this state must license a same-sex marriage?
+[t18] Liz(PRO): Both statements separate federal command from state authority. The first rejects a federal mandate, while the second speaks to a state's independent duty under its own law; that division preserves the motion as true.
+[t19] Joanna(CON): How can you call a marriage license equal protection when two committed couples receive different legal standing solely because of their sex? You must answer that inequality, which defeats the motion.
+[t20] @A4 <ovl> Genevieve(MOD): You've got ten seconds.
+[t21] <cut> Liz(PRO): On your inequality question, equal protection does not erase every distinction involving sex. Marriage rules-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Genevieve(MOD): Time. So, Round three, closing statements. Here, making her closing statement in support of whether equal protection requires states to license same-sex marriages, here is Liz.
+[t23] Liz(PRO): Return to the constitutional question, not sympathy alone. Equal protection prohibits certain unequal treatment; it does not make every disputed marriage definition a command for every state. States retain authority to shape domestic relations unless the Constitution clearly withdraws it. Joanna showed a serious concern, but concern is not a licensing requirement.
+[t24] @A4 <ovl> Genevieve(MOD): Well, now ten.
+[t25] <cut> Liz(PRO): That line matters: a constitutional guarantee is not a blank check for judges to settle every policy dispute. Nothing in equal protection supplies the demanded command-
+[t26] @A2-1 <ovl> Genevieve(MOD): Thank you. I'm sorry her time is up. Thank you. And here to summarize her position against whether equal protection requires states to license same-sex marriages, Joanna.
+[t27] Joanna(CON): Marriage is a legal status that carries protection, security, and public recognition. When a state grants it to one committed couple but denies it to another without a sufficient reason, equal protection is violated. The Constitution protects people from that exclusion, so the motion is false. That's all, thank you.
+[t28] Genevieve(MOD): Thank you, Liz and Joanna, for a thoughtful debate; this concludes our discussion of the motion today.

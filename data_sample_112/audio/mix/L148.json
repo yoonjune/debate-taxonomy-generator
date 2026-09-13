@@ -1,0 +1,454 @@
+{
+ "debate_id": "L050",
+ "motion": "America Cannot and Will Not Succeed in Afghanistan and Pakistan.",
+ "speakers": {
+  "MOD": {
+   "name": "Ron",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  },
+  "PRO": {
+   "name": "Amanda",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  },
+  "CON": {
+   "name": "Kenji",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2392_110",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2392/MSP-PODCAST_2392_110.wav",
+   "wpm": 165.84
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 95.67,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 322.69,
+ "ext": {
+  "a32": {
+   "file": "L050_ext_a32.wav",
+   "place_at_sec": 237.328,
+   "dur_sec": 34.48,
+   "src_i": 24
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "No, a fragile force cannot do it alone, but that is not the relevant premise. With gradual support and local ownership, it can become durable; refusing that path guarantees less security."
+  },
+  {
+   "src_i": 26,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Your local ownership point cannot erase the leverage that funds and protection create. Leaders answer to the patron they need, while opponents portray them as imposed, so legitimacy keeps draining away."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.88,
+   "dur_sec": 19.88,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that America cannot and will not succeed in Afghanistan and Pakistan. Amanda supports the motion, and Kenji opposes it. Each opening and closing is thirty seconds, followed by two and a half minutes of crossfire; I will give a ten-second cue. Speak directly, listen closely, and keep your arguments on the resolution."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.08,
+   "end_sec": 40.24,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "America can remove a threat, but it cannot build trust at gunpoint. Local families see raids, shifting promises, and outsiders deciding their future. That resentment feeds the very resistance America tries to defeat. A lasting success requires legitimate partners and public consent, not temporary control from abroad across both fronts."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.08,
+   "end_sec": 40.96,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.44,
+   "end_sec": 51.38,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "And temporary control leaves civilians trapped between armed groups, with no reason to risk cooperation. When America leaves, the structure it paid for can collapse. That is why calling-",
+   "cut_at_sec": 51.38,
+   "full_dur_sec": 14.16,
+   "ext_file": "L050_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 50.58,
+   "end_sec": 53.86,
+   "dur_sec": 3.28,
+   "overlap": true,
+   "text": "That's time, thank you. Kenji, the floor is yours."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.06,
+   "end_sec": 63.93,
+   "dur_sec": 9.87,
+   "overlap": false,
+   "text": "America's task is difficult, not impossible. Success means reducing threats and helping local institutions stand, rather than controlling every political choice forever through patient commitments."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 63.03,
+   "end_sec": 65.33,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But reducing threats is meaningless when the tools-",
+   "cut_at_sec": 65.33,
+   "full_dur_sec": 8.73,
+   "ext_file": "L050_006.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 64.53,
+   "end_sec": 66.85,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "No. Let Kenji come in. Please."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 67.05,
+   "end_sec": 77.41,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "Helping institutions stand means training local officials, protecting ordinary life, and giving communities room to reject armed coercion. That approach can leave behind capable partners."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 74.06,
+   "end_sec": 75.66,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 77.61,
+   "end_sec": 85.72,
+   "dur_sec": 8.11,
+   "overlap": false,
+   "text": "America need not remake them; it must help deny extremists control and protect local futures. That's all, thank you."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 85.92,
+   "end_sec": 97.78,
+   "dur_sec": 11.86,
+   "overlap": false,
+   "text": "And that concludes round one. On to round two. Round two is where the debaters address one another in turn. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 97.98,
+   "end_sec": 110.47,
+   "dur_sec": 12.49,
+   "overlap": false,
+   "text": "Consider a shopkeeper whose home is searched after a mistaken tip. His children learn fear, neighbors stop sharing information, and armed recruiters gain an opening. That cycle proves force without trusted legitimacy cannot produce success."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 110.998,
+   "end_sec": 122.398,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "When local leaders openly set priorities and America supplies narrowly requested support, cooperation can outlast a military presence. Under that condition, success is achievable because responsibility stays with the people living there."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 122.771,
+   "end_sec": 133.741,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "Your local leaders set priorities point assumes leaders can safely speak for everyone. In fractured communities, outside support picks winners, deepens rivalries, and makes America responsible for conflicts it cannot settle."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 134.451,
+   "end_sec": 145.571,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "You say outside support deepens rivalries, yet leaving communities alone can empower armed groups. What practical path would protect families while denying them training, resources, and help requested by local representatives?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 146.105,
+   "end_sec": 157.225,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Your weakest claim is that representatives requesting help make intervention legitimate. Requests made under fear cannot show broad consent, and backing one faction turns assistance into a target for every rival-"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 156.325,
+   "end_sec": 167.365,
+   "dur_sec": 11.04,
+   "overlap": true,
+   "text": "No, fear is precisely why abandoning requested help is reckless. Limited support can protect meetings, schools, and local bargaining, giving people space to choose leaders without armed groups deciding for them."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 168.159,
+   "end_sec": 178.599,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Debates about equipment often become arguments about spending and contracts, which can distract from human consequences. Returning to the motion, how does guarded bargaining survive once American protection ends?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 179.42,
+   "end_sec": 190.9,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "It survives by transferring protection gradually to local forces, not by ending support overnight. Your question assumes every partnership is dependency, but partners can gain skill and confidence through a planned transition."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 191.573,
+   "end_sec": 203.263,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "That planned transition point ignores who guarantees the plan when power shifts. Training forces does not create shared loyalty, and weapons or skills can strengthen the next factional struggle rather than stable government."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 204.137,
+   "end_sec": 215.977,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Foreign support can create breathing room for political compromise and self-defense. Success does not require perfect unity; it requires enough security and local capacity to prevent hostile groups from again dominating daily life."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 216.186,
+   "end_sec": 226.996,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "Your weakest standard is enough security, because it has no finish line and no durable measure. If armed groups can return whenever support weakens, America has postponed failure, not achieved success."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 227.93,
+   "end_sec": 238.61,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "I agree that an open-ended presence would be a failure. But the main issue is whether targeted support can improve security enough for local institutions to endure, and it can."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 237.78,
+   "end_sec": 239.74,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "You both have ten seconds."
+  },
+  {
+   "i": 25,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 239.438,
+   "end_sec": 248.58,
+   "dur_sec": 9.142,
+   "overlap": false,
+   "text": "When local guards protect a market during a threatened gathering, families can trade and speak without intimidation. Can a fragile force sustain that safety after American backing disappears-",
+   "ext_file": "L050_ext_a32.wav",
+   "cut_at_sec": 246.47,
+   "full_dur_sec": 11.84
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 247.78,
+   "end_sec": 259.62,
+   "dur_sec": 11.84,
+   "overlap": true,
+   "text": "Okay, time. So, let's move on to round three and our closing statements on the resolution america cannot and will not succeed in afghanistan and pakistan. Making her closing statement, here is Amanda."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.82,
+   "end_sec": 280.1,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "The central issue is legitimacy. A shopkeeper searched on a mistaken tip does not see a reliable partner; he sees another power making his family less safe. That experience multiplies resistance and makes every local ally look dependent. America may win encounters, but it cannot turn coercion and dependency into a stable political order. The pattern reaches beyond one operation."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 279.82,
+   "end_sec": 281.78,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 280.3,
+   "end_sec": 291.37,
+   "dur_sec": 11.07,
+   "overlap": false,
+   "text": "Without public trust, training and aid become props that vanish when protection leaves. That is why America cannot and will not succeed in either country. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 291.57,
+   "end_sec": 294.21,
+   "dur_sec": 2.64,
+   "overlap": false,
+   "text": "So, let's let Kenji jump in. Okay."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 294.41,
+   "end_sec": 314.69,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Amanda is right that dependence is dangerous, but she treats it as inevitable. A limited mission can help communities build security while local leaders make the political choices, and that is different from permanent control. The question is not whether America can perfect two societies; it is whether it can help prevent hostile domination and leave partners."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 314.41,
+   "end_sec": 317.52,
+   "dur_sec": 3.11,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 33,
+   "src_i": 35,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 314.89,
+   "end_sec": 322.85,
+   "dur_sec": 7.96,
+   "overlap": false,
+   "text": "With disciplined, requested support, America can meet that achievable goal, so the motion is false. That's all, thank you."
+  },
+  {
+   "i": 34,
+   "src_i": 36,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 323.05,
+   "end_sec": 329.17,
+   "dur_sec": 6.12,
+   "overlap": false,
+   "text": "Thank you, Amanda and Kenji, for a thoughtful debate, and thank you for listening as we conclude."
+  }
+ ]
+}

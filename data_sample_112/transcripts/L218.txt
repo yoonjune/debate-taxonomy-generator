@@ -1,0 +1,43 @@
+L218  |  The U.S. has no dog in the fight in Syria.
+  MOD=Amy   PRO=Michael   CON=Daphne
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Amy(MOD): Welcome to tonight's debate on a simple question. Tonight's motion is that the U.S. has no dog in the fight in Syria. Michael supports it, and Daphne opposes it. Each speaker gets thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings; address each other directly, stay focused, and I will give a ten-second cue.
+[t01] Michael(PRO): America has no stake that justifies ownership of Syria's future. Its safety is not secured by choosing rulers or policing another society.
+[t02] <ovl> <cut> Daphne(CON): Michael, your distance sounds neat, but danger does not-
+[t03] @A5 <ovl> Amy(MOD): No, wait, let Michael.
+[t04] Michael(PRO): The question is whether our country has a stake, and sympathy alone does not create one. Trying to manage that conflict creates obligations without a defensible national purpose.
+[t05] @A4 <ovl> Amy(MOD): Ten seconds.
+[t06] Michael(PRO): We can care about suffering while recognizing Syria's political outcome is not ours to settle. That's all, thank you.
+[t07] @A2-2 Amy(MOD): Daphne, come on in your response.
+[t08] Daphne(CON): Michael treats a stake as if it means controlling Syria, but that is too narrow. A country has a dog in the fight when events can endanger its people, empower hostile forces, or create enduring obligations. Ignoring those links does not make them disappear; it merely leaves others to shape consequences that can reach us.
+[t09] Daphne(CON): Because the consequences can touch Americans, withdrawal is not neutrality; it abandons a real stake. That's all, thank you.
+[t10] @A4 <ovl> Amy(MOD): Well, now ten.
+
+--- phase 2 ---
+[t11] @A3-1 Amy(MOD): Thank you, Daphne. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+[t12] Daphne(CON): Your claim that sympathy creates no stake is weakest because threats do not wait for ownership. If turmoil can harm Americans, why call the outcome somebody else's business?
+[t13] Michael(PRO): If armed groups in Syria cannot project harm beyond Syria, direct involvement has no national purpose. Under that condition, Daphne, restraint protects us from open-ended duties.
+[t14] Daphne(CON): Before we argue stakes, consider food delivery through shattered neighborhoods. Supplies need routes and local trust, but that returns us here: aid need not make Syria America's fight.
+[t15] Michael(PRO): A nation should resist making every foreign conflict its own contest. Syria is one of many tragedies, and neither its pain nor its uncertainty gives America a dog in this fight.
+[t16] Daphne(CON): On your point that every foreign conflict should be resisted, you dodge the relevant consequences. Syria is not merely painful or uncertain; its instability can create dangers that give America a stake.
+[t17] <cut> Michael(PRO): Imagine a local faction demands continued American protection before allowing a town to govern itself. Our presence turns a dispute into a permanent promise, and the cost is-
+[t18] <ovl> Daphne(CON): But why should a promise made by outsiders erase the danger of abandonment? If a hostile faction gains room after withdrawal, aren't Americans affected by what follows?
+[t19] Michael(PRO): They are not necessarily affected, because every hostile faction does not threaten Americans. Your abandonment point assumes our protection is the cure, when it can deepen dependency and danger.
+[t20] Daphne(CON): Those local promises depend on who staffs checkpoints, who verifies deliveries, and who settles disputes after dark. Drivers may reroute supplies, families may lack papers, and neighborhood councils may compete for control.
+[t21] @B1 Amy(MOD): I feel we're getting a little bit off the topic of whether the u.s. has no dog in the fight in syria. So, I want you to come in and bring it back around to that.
+[t22] Daphne(CON): The motion asks whether America has a dog in Syria's fight, and it does because withdrawal leaves consequential dangers. Michael, your restraint ignores how quickly local collapse can create problems beyond Syria.
+[t23] Michael(PRO): Your point about local collapse mistakes possibility for a national stake. Many bad outcomes are possible, Daphne, yet making America responsible for preventing each one creates the very entanglement this motion rejects.
+[t24] Daphne(CON): Imagine violence closes a route used by families fleeing danger, while armed groups recruit among the abandoned. Limited American support can help keep that route open, proving America has interests worth protecting.
+[t25] @A4 <ovl> Amy(MOD): Ten seconds please.
+[t26] <cut> Michael(PRO): Your route example is weakest because helping a road remain open does not prove ownership of Syria's conflict-
+
+--- phase 3 ---
+[t27] @A3-2 <ovl> Amy(MOD): Time. And now we move on to closing remarks. And here to make his closing statement in support of the resolution, Michael.
+[t28] Michael(PRO): Deciding this motion turns on the difference between caring about consequences and claiming Syria's future as our responsibility. We can offer humane help and protect ourselves without adopting every local struggle. A dog in the fight requires a stake worth directing the conflict, and America lacks one here. That's all, thank you.
+[t29] @A2-2 Amy(MOD): So the floor is yours.
+[t30] Daphne(CON): Deciding this motion turns on whether a stake exists only when America seeks control, or whenever Syria's outcome can affect American safety and obligations. Michael offers compassion without responsibility, but that separation fails when threats and abandonment have consequences. We need not own it to see leaving it to hostile forces is a choice with stakes.
+[t31] @A4 <ovl> Amy(MOD): Ten seconds, ten seconds.
+[t32] Daphne(CON): Because Syria's outcome can reach us, America does have a dog in this fight today. That's all, thank you.
+[t33] Amy(MOD): Thank you, Michael and Daphne, for a thoughtful debate. That concludes our discussion of this motion today here.

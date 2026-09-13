@@ -1,0 +1,433 @@
+{
+ "debate_id": "L015",
+ "motion": "America is too obsessed with race",
+ "speakers": {
+  "MOD": {
+   "name": "Nick",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3967_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_3967/MSP-PODCAST_3967_54.wav",
+   "wpm": 161.46
+  },
+  "PRO": {
+   "name": "Claudia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "CON": {
+   "name": "Monica",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 97.49,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 293.53,
+ "ext": {
+  "a32": {
+   "file": "L015_ext_a32.wav",
+   "place_at_sec": 240.61,
+   "dur_sec": 22.36,
+   "src_i": 26
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 27,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "I agree fair policies need not insult anyone. But once institutions routinely explain merit through racial categories, even respectful language teaches people to doubt individual achievement, which confirms the motion."
+  },
+  {
+   "src_i": 28,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "No, institutions do not routinely explain merit through race; they sometimes examine race to check whether merit was judged fairly. Your conclusion turns limited accountability into obsession."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.89,
+   "dur_sec": 18.89,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, America is too obsessed with race. Claudia argues for the motion, and Monica argues against it. Each opening is thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed segment ends for the speakers."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.09,
+   "end_sec": 28.94,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "When every disagreement is sorted first by racial identity, we stop hearing individual motives. That habit turns ordinary choices into group battles and narrows American life."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 28.04,
+   "end_sec": 30.34,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "You don't know that these are ordinary choices-",
+   "cut_at_sec": 30.34,
+   "full_dur_sec": 8.59,
+   "ext_file": "L015_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 29.54,
+   "end_sec": 31.79,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Please could you let her finish, please?"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 31.99,
+   "end_sec": 41.92,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "and makes people perform loyalty to categories before they can speak as neighbors. We can fight actual bias without making race the loudest lens for everything."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.09,
+   "end_sec": 40.86,
+   "dur_sec": 1.77,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 42.12,
+   "end_sec": 50.38,
+   "dur_sec": 8.26,
+   "overlap": false,
+   "text": "America needs room for shared citizenship, not constant racial sorting of every conflict and conversation. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 50.58,
+   "end_sec": 52.11,
+   "dur_sec": 1.53,
+   "overlap": false,
+   "text": "So the floor is yours."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.31,
+   "end_sec": 72.24,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Calling the country obsessed mistakes attention for fixation. Race matters because it can shape how people are treated, heard, and trusted. Ignoring that pattern does not create shared citizenship; it leaves injured people alone with it. The better goal is proportion: discuss race when it explains a barrier, then address the barrier fairly."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 72.31,
+   "end_sec": 73.55,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Monica, ten seconds."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 72.44,
+   "end_sec": 83.61,
+   "dur_sec": 11.17,
+   "overlap": false,
+   "text": "That means listening to a described pattern and changing the practice that causes harm. Refusing that conversation is not balance; it leaves unequal treatment in place, and when people are denied a fair-",
+   "cut_at_sec": 81.35,
+   "full_dur_sec": 13.85,
+   "ext_file": "L015_010.wav"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 82.81,
+   "end_sec": 84.58,
+   "dur_sec": 1.77,
+   "overlap": true,
+   "text": "Monica, her time is up."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 84.78,
+   "end_sec": 99.75,
+   "dur_sec": 14.97,
+   "overlap": false,
+   "text": "That concludes round one. Now on to round two. It's our middle round. And it's where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 99.95,
+   "end_sec": 110.39,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "You said attention becomes fair when it identifies a barrier. But making race the first explanation before examining conduct trains everyone to see identity as destiny, which is obsession."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 111.258,
+   "end_sec": 121.748,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "I agree some conversations use crude labels. Yet your main claim treats naming a force as worshiping it; refusing to name race when it shapes treatment lets that treatment continue."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 122.306,
+   "end_sec": 132.436,
+   "dur_sec": 10.13,
+   "overlap": false,
+   "text": "Families also argue about what children learn from relatives, television, and school. But the motion is about public habits, and America too often turns race into the automatic frame."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 133.321,
+   "end_sec": 143.171,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "If race is always the automatic frame, why do people often avoid discussing it in daily life until someone names a pattern? Isn't that avoidance evidence against obsession?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 143.995,
+   "end_sec": 155.035,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Avoidance can coexist with obsession; people dodge painful subjects privately while institutions repeat them publicly. At a family dinner, children learn to scan each remark for racial meaning and fear speaking."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 155.235,
+   "end_sec": 166.925,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "I feel we're getting a little bit off the topic of whether america is now too obsessed with race overall. So, I want you to come in and bring it back around to that."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 167.125,
+   "end_sec": 177.705,
+   "dur_sec": 10.58,
+   "overlap": false,
+   "text": "On whether America is too obsessed with race, that fearful scanning matters because it shows race consuming ordinary interactions. You call attention necessary, but necessity does not justify constant fixation."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 177.999,
+   "end_sec": 189.039,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "When a workplace rule repeatedly burdens people differently because of race, discussing race is necessary, not obsessive. Under that condition, silence protects the rule rather than the people living under it."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 189.262,
+   "end_sec": 199.752,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "I accept that a rule with racial effects deserves scrutiny. But your condition becomes an excuse to search for racial effects everywhere, so race stays central long after evidence runs thin."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 200.396,
+   "end_sec": 210.246,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "People should be free to discuss race whenever it bears on their experience; that ordinary freedom is not obsession, and it helps people understand one another more clearly."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 210.887,
+   "end_sec": 222.007,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "If discussion is merely ordinary freedom, why must every awkward exchange be read through race before intent is considered? Doesn't that habit make people less able to trust each other, and-"
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 221.107,
+   "end_sec": 231.307,
+   "dur_sec": 10.2,
+   "overlap": true,
+   "text": "No, because your question assumes every exchange is read that way. People raise race when experience makes it relevant, and your distrust of their judgment is the stronger distortion."
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 231.559,
+   "end_sec": 242.049,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "Picture a student praised for an idea, then told the praise only reflects a racial quota. That student learns achievement will be filtered through identity, proving obsession shrinks individual dignity."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 239.75,
+   "end_sec": 242.16,
+   "dur_sec": 2.41,
+   "overlap": true,
+   "text": "About ten seconds left in the crossfire."
+  },
+  {
+   "i": 27,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 242.87,
+   "end_sec": 250.55,
+   "dur_sec": 7.68,
+   "overlap": false,
+   "text": "Your quota example attacks insulting assumptions, not attention to race itself. Naming the point: fair policies can recognize unequal barriers-",
+   "ext_file": "L015_ext_a32.wav",
+   "cut_at_sec": 248.29,
+   "full_dur_sec": 11.48
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 249.75,
+   "end_sec": 257.52,
+   "dur_sec": 7.77,
+   "overlap": true,
+   "text": "But now, it is time to bring this all home with our closing round. Claudia for your closing statement, you are up first."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 257.72,
+   "end_sec": 273.79,
+   "dur_sec": 16.07,
+   "overlap": false,
+   "text": "The strongest point is simple: race has become the automatic explanation for too many ordinary judgments. Real discrimination deserves direct action, but constant racial sorting weakens trust and individual dignity. America should see people fully, which means ending this obsession. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 273.99,
+   "end_sec": 276.4,
+   "dur_sec": 2.41,
+   "overlap": false,
+   "text": "So, let's let Monica jump in. Okay."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 276.6,
+   "end_sec": 292.81,
+   "dur_sec": 16.21,
+   "overlap": false,
+   "text": "The strongest point is that attention is not obsession when race affects how people are treated. Refusing to discuss those patterns protects discomfort, not fairness. America is not too obsessed with race; it is still learning to confront racial harm honestly. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 293.01,
+   "end_sec": 299.26,
+   "dur_sec": 6.25,
+   "overlap": false,
+   "text": "Thank you, Claudia and Monica, for a thoughtful debate. That concludes our discussion; thank you for listening today."
+  }
+ ]
+}

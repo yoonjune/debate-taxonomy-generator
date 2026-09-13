@@ -1,0 +1,39 @@
+L003  |  Income inequality impairs the American dream of upward mobility
+  MOD=Helen   PRO=Christina   CON=Sarah
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Helen(MOD): Today we debate whether income inequality impairs the American dream of upward mobility. Christina argues for the motion; Sarah argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each gives a thirty-second closing, with a ten-second cue before time ends.
+[t01] Christina(PRO): Income inequality does more than create different paychecks; it changes who can turn effort into a secure life. When wealth buys better schools, safer homes, time to train, and room to recover from mistakes, talent matters less. Upward mobility may remain possible, but inequality makes the American dream harder to reach. That's all, thank you.
+[t02] @A2-2 Helen(MOD): All right. Sarah, do you want to come back on that?
+[t03] Sarah(CON): I agree that unequal resources can make some paths steeper, but that does not prove the dream is impaired. People still rise through persistence, skills, entrepreneurship, and choices that open new opportunities. Inequality can reflect different goals and rewards, while mobility measures whether someone can move ahead.
+[t04] Sarah(CON): The possibility of rising keeps the dream alive for anyone willing to pursue it. That's all, thank you.
+[t05] @A4 <ovl> Helen(MOD): You have ten seconds.
+
+--- phase 2 ---
+[t06] @A3-1 Helen(MOD): Okay. So now, we know where each of you stand and why. We'll be diving into discussion on our question, income inequality impairs the American dream of upward mobility. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Christina(PRO): Possibility alone is not enough when starting points differ sharply. Saying people can rise ignores how unequal access to stability, preparation, and second chances filters who can actually convert effort into progress.
+[t08] Sarah(CON): I grant that starting resources can affect the route, but you treat each gap as a barrier. Unequal outcomes can coexist with real ladders, and those ladders keep upward mobility compatible with the dream.
+[t09] Christina(PRO): No, I do not treat each gap as a barrier; I mean accumulated barriers narrow access to ladders. If mobility depends on resources many families cannot secure, inequality is not merely different rewards; it impairs the dream.
+[t10] Sarah(CON): When a family faces sudden hardship and has no savings to absorb it, inequality can block a promising person's next step. Under that condition, the problem is not effort; it is unequal room to withstand failure.
+[t11] Christina(PRO): If equally capable people work equally hard, but only one can afford training after a setback, how is that equal chance rather than impaired mobility? Explain the ladder, not merely its existence.
+[t12] Sarah(CON): People do not need identical resources for mobility to exist. Even where hardship makes one next step harder, the broader system can still reward learning, initiative, and persistence with genuine chances to advance.
+[t13] Christina(PRO): Families also make choices about work, saving, and what risks to take, and those choices shape a household's path. But choices operate within unequal room to recover, so inequality still impairs the upward mobility the dream promises.
+[t14] <cut> Sarah(CON): I grant that recovery room matters, but you treat unequal capacity as proof mobility fails. A person can face a harder route and advance through skill, effort, and opportunity; a steeper route does not show the dream is-
+[t15] <ovl> Christina(PRO): But a route made harder because wealth buys preparation is not merely different; it is a gate. When one setback ends one person's climb but barely slows another, inequality has impaired mobility, not just changed outcomes.
+[t16] Sarah(CON): I am answering the claim that a harder route is automatically a gate. It is not: people often build skills, find new work, or recover through support, so one setback cannot define the chance to move upward.
+[t17] Christina(PRO): If those ladders are genuinely open, why does access to training, time, and recovery track wealth so closely? Can you call mobility equally real when unequal income decides who can keep climbing after an ordinary setback?
+[t18] @A4 <ovl> Helen(MOD): Ten seconds left in the crossfire.
+[t19] <cut> Sarah(CON): A person learns a trade, starts a small service, and hires help; unequal earnings there reflect expanded value, not blocked mobility. It proves income differences can reward progress-
+
+--- phase 3 ---
+[t20] @A3-2 <ovl> Helen(MOD): Okay, time. Let's go to closing statements now. Christina, are you ready?
+[t21] Christina(PRO): Sarah's best point is that mobility still occurs, and I agree: people can rise. But a few success stories do not answer who gets the training, time, savings, and second chances that make rising possible. When unequal income controls those foundations, it narrows the ladder before effort begins. The motion asks whether inequality impairs the dream, not whether every path disappears.
+[t22] @A4 <ovl> Helen(MOD): Ten seconds for last word.
+[t23] <cut> Christina(PRO): The dream is strongest when effort matters more than inherited room to maneuver. Judge the system by ordinary families' chances, not exceptional escapes; inequality-
+[t24] @A2-1 <ovl> Helen(MOD): That's time, Christina. Thank you. Sarah.
+[t25] Sarah(CON): The issue turns on what the motion claims. If it says inequality can create obstacles, that is true; if it says inequality proves the dream is impaired, that is too broad. Mobility means moving ahead, and people do through learning, work, risk, and opportunity. Unequal rewards can accompany movement rather than destroy it.
+[t26] <cut> Sarah(CON): Inequality may make some journeys uneven, but uneven is not impossible. The dream survives when people gain skills, take risks, and improve their position; opportunity can remain real-
+[t27] @A4 <ovl> Helen(MOD): Well, now ten.
+[t28] @A1 <ovl> Helen(MOD): I'm sorry, I'm sorry. Hit time.
+[t29] Helen(MOD): Thank you both for a thoughtful debate; this concludes the discussion without declaring a winner.

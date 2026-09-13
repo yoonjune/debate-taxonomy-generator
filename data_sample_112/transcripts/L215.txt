@@ -1,0 +1,41 @@
+L215  |  Marriage between close family members should be discouraged
+  MOD=Virginia   PRO=Frederick   CON=Lanny
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Virginia(MOD): Welcome. Tonight's motion is whether marriage between close family members should be discouraged. Frederick argues for it, and Lanny argues against it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address each other directly, keep remarks civil, and listen when the other speaker has the floor.
+[t01] Frederick(PRO): Marriage between close relatives can place family roles under intense pressure. Discouragement is a gentle public signal that protects vulnerable relatives and preserves clear boundaries.
+[t02] <ovl> <cut> Lanny(CON): Excuse me, why should a public signal override-
+[t03] @A5 <ovl> Virginia(MOD): Let him finish, yeah.
+[t04] Frederick(PRO): when relatives depend on one another for care, authority, or housing, romance can make consent harder to read. Society should encourage distance before pressure becomes invisible.
+[t05] @A4 <ovl> Virginia(MOD): Well, now it's ten.
+[t06] Frederick(PRO): That caution respects adults while recognizing that family loyalty can distort choices, so discouragement is justified. That's all, thank you.
+[t07] @A2-2 Virginia(MOD): So, Lanny, can we let Lanny come in?
+[t08] Lanny(CON): Adults within a family may face hard choices, but outsiders cannot reliably judge their private consent. A general warning can turn suspicion into shame. It may isolate people who already need support. The better response is to guard against coercion in any relationship, rather than discourage a commitment simply because relatives chose it.
+[t09] @A4 <ovl> Virginia(MOD): Lanny, ten seconds.
+[t10] <cut> Lanny(CON): Close relatives can make thoughtful promises, and treating those promises as suspect does not make anyone safer. Families differ in how they share care, money, and privacy. We should challenge force-
+[t11] @A1 <ovl> Virginia(MOD): I'm gonna cut you off just for time.
+
+--- phase 2 ---
+[t12] @A3-1 Virginia(MOD): And now we move on to round two. Round two is where the debaters address each other. You have two and a half minutes, starting when I stop talking.
+[t13] Frederick(PRO): No, I am not claiming every promise is forced; I am saying family dependence makes pressure unusually hard to spot. Your approach waits for damage, while discouragement helps prevent it.
+[t14] Lanny(CON): When both adults are independent, informed, and free to leave without losing housing or care, discouragement is unwarranted. In that condition, public disapproval punishes a relationship rather than protecting anyone.
+[t15] <cut> Frederick(PRO): I agree independence matters, but it is not a switch that removes lifelong family expectations. Those expectations can quietly shape choice, so discouragement protects people before they face hidden-
+[t16] <ovl> Lanny(CON): But that assumes expectations erase agency, which they do not. Adults can recognize family pressure, seek advice, and still choose commitment; discouragement wrongly tells them their judgment counts less.
+[t17] Frederick(PRO): That kind of family arrangement also changes how relatives handle ordinary gatherings after a couple announces it. Children may hear confusing roles, invitations become tense, and family mediators spend meetings repairing that strain.
+[t18] @B1 Virginia(MOD): It's getting a little bit off the whether marriage between close family members should be discouraged issue. Fair enough? But that's why I stopped you. Frederick to respond.
+[t19] Frederick(PRO): The question is whether close-family marriage should be discouraged, and its risks to free consent justify that caution. Your exception assumes outsiders can see dependence clearly, yet hidden obligation is precisely the problem.
+[t20] Lanny(CON): Families may need private counseling when conflicts arise, and respectful support matters there. But support does not require public discouragement; the motion asks whether adults' family ties alone justify it, and they do not.
+[t21] Frederick(PRO): Your phrase 'family ties alone' is the weak point, because no one claims ties alone prove coercion. They create a distinctive risk of concealed dependence, enough to justify discouragement without criminalizing anyone.
+[t22] Lanny(CON): People deserve room to make intimate decisions without official shame, especially in families already under scrutiny. That principle applies broadly, while safeguards against coercion can still protect people when genuine pressure appears.
+[t23] Frederick(PRO): Imagine a young adult whose housing and daily care depend on an older relative proposing marriage. Even without threats, refusing may feel impossible; discouragement signals that this arrangement deserves caution, which supports the motion.
+[t24] Lanny(CON): If discouragement is merely gentle, why should adults who have demonstrated free consent bear its public stigma? What principle lets you burden their commitment before any coercion has been shown?
+[t25] Frederick(PRO): On your stigma point, discouragement need not shame anyone; it can mean clear advice and supportive boundaries. Waiting until coercion is proven ignores how family dependence can silence refusal, so caution remains justified.
+[t26] @A4 <ovl> Virginia(MOD): You both have ten seconds.
+
+--- phase 3 ---
+[t27] @A3-2 <ovl> Virginia(MOD): Time. Now we move on to round three. Round three will be closing statements by each debater in turn. Making his closing statement in support of the resolution whether marriage between close family members should be discouraged, Frederick.
+[t28] Frederick(PRO): Close-family marriage can mix romance with lifelong dependence, authority, and fear of losing support. No rule can inspect every private pressure, so prevention matters. Discouragement is a modest, humane boundary that protects real freedom without punishing people for private choices. That's all, thank you.
+[t29] @A2-2 Virginia(MOD): All right. Let me bring it back to Lanny.
+[t30] Lanny(CON): Discouragement sounds mild, yet it places public doubt on adults because of their family connection. We should oppose coercion wherever it exists and offer practical support. But a blanket warning cannot measure consent; it substitutes suspicion for respect and unfairly narrows personal choice. That's all, thank you.
+[t31] Virginia(MOD): Thank you both for a thoughtful discussion of this motion; that concludes our debate, and we appreciate your participation.

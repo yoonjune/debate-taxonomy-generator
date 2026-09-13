@@ -1,0 +1,379 @@
+{
+ "debate_id": "L161",
+ "motion": "Sex offender registries do more harm than good.",
+ "speakers": {
+  "MOD": {
+   "name": "Nina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5176_495",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5176/MSP-PODCAST_5176_495.wav",
+   "wpm": 178.76
+  },
+  "PRO": {
+   "name": "Jorge",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2988_467",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2988/MSP-PODCAST_2988_467.wav",
+   "wpm": 167.95
+  },
+  "CON": {
+   "name": "Henry",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  }
+ },
+ "selective": [
+  "A1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 61.77,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 287.23,
+ "ext": {
+  "a32": {
+   "file": "L161_ext_a32.wav",
+   "place_at_sec": 206.963,
+   "dur_sec": 23.85,
+   "src_i": 17
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 18,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "If a registry prevents even one caregiver from unknowingly placing a child near someone dangerous, why call that warning harmful overall? What alternative gives ordinary people timely information without trusting invisible systems?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.12,
+   "dur_sec": 18.12,
+   "overlap": false,
+   "text": "Welcome. The motion is that sex offender registries do more harm than good. Jorge supports the motion, and Henry opposes it. Each speaker gets thirty seconds to open, then two and a half minutes of crossfire, followed by thirty-second closings. Address one another directly, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.32,
+   "end_sec": 33.03,
+   "dur_sec": 14.71,
+   "overlap": false,
+   "text": "Registries turn a past conviction into a permanent public label. They can block housing, work, and support, making stability harder and risk worse. Targeted supervision can protect people without exposing whole lives to public punishment. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 33.23,
+   "end_sec": 36.59,
+   "dur_sec": 3.36,
+   "overlap": false,
+   "text": "All right. Let me bring it back to Henry."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 36.79,
+   "end_sec": 52.21,
+   "dur_sec": 15.42,
+   "overlap": false,
+   "text": "Registries are not repeated punishment; they are warnings that let people make safer choices. A public notice can help families avoid preventable danger. We should improve unfair rules, not erase a tool that can protect vulnerable people. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 52.41,
+   "end_sec": 66.33,
+   "dur_sec": 13.92,
+   "overlap": false,
+   "text": "And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 66.53,
+   "end_sec": 76.22,
+   "dur_sec": 9.69,
+   "overlap": false,
+   "text": "Henry, if public listings force people out of housing and work, how do they make communities safer? Explain why instability after punishment is worth the damage you deny."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 76.585,
+   "end_sec": 88.425,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Families need clear guidance when choosing schools, neighborhoods, and babysitters; that peace of mind matters. But the motion concerns overall effects, and a visible warning can prevent danger, so registries do more good."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 89.333,
+   "end_sec": 99.693,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "Every registry listing always harms more than it helps. Its public label blocks ordinary stability long after a sentence, pushing people away from services instead of making anyone safer."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 100.025,
+   "end_sec": 112.145,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "I grant that clumsy rules can make housing and work harder. Yet that flaw argues for narrower listings, not abolition, because people deserve warning about serious risks; registries can do more good than harm."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 112.603,
+   "end_sec": 123.643,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "This registry listing does not harm more than it helps. A person convicted of a grave offense should appear publicly, because neighbors need warning; that exception still leaves registries broadly harmful."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 123.843,
+   "end_sec": 137.443,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "So what I hear was on the one hand, you found yourself saying every registry listing always harms more than it helps. And then on the other hand, this registry listing does not harm more than it helps."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.643,
+   "end_sec": 148.683,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Both statements stand because a label can occasionally warn, while routine public exposure causes wider damage. One useful listing does not erase lost homes, work, treatment, and safety; registries remain harmful."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.213,
+   "end_sec": 161.053,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "If secrecy and instability truly protect people, why would a neighbor not deserve notice about someone with a serious record? Tell me how removing that warning protects a family when danger returns to-"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 160.153,
+   "end_sec": 171.913,
+   "dur_sec": 11.76,
+   "overlap": true,
+   "text": "I reject that premise: public exposure is not the same as protection. You ignore that housing loss and isolation can increase risk, while private supervision can warn those who actually need to know."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 172.494,
+   "end_sec": 185.014,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Your weakest claim is that private supervision can replace a public warning. Officials cannot stand beside every household, and selective notice leaves ordinary neighbors unaware; a registry gives them a practical chance to avoid harm."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 185.824,
+   "end_sec": 197.274,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "I agree that some neighbors want information and deserve safety. But a public list is a blunt tool that invites panic and exclusion without proving protection, so registries cause more harm than good."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 197.791,
+   "end_sec": 211.311,
+   "dur_sec": 13.52,
+   "overlap": false,
+   "text": "Imagine a caregiver checking a registry before hiring a new helper and discovering a serious past offense. That warning lets the caregiver choose someone else before harm occurs; it proves registries can protect people more than they harm."
+  },
+  {
+   "i": 17,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 206.33,
+   "end_sec": 206.77,
+   "dur_sec": 0.44,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 18,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 211.523,
+   "end_sec": 217.13,
+   "dur_sec": 5.607,
+   "overlap": false,
+   "text": "No, that example does not prove a registry protected anyone; it assumes the public label predicts future-",
+   "ext_file": "L161_ext_a32.wav",
+   "cut_at_sec": 212.57,
+   "full_dur_sec": 12.25
+  },
+  {
+   "i": 19,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 216.33,
+   "end_sec": 224.21,
+   "dur_sec": 7.88,
+   "overlap": true,
+   "text": "That's time. And now we move on to Round three. And first to make his statement in support of the motion, Jorge."
+  },
+  {
+   "i": 20,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 224.41,
+   "end_sec": 244.26,
+   "dur_sec": 19.85,
+   "overlap": false,
+   "text": "This motion turns on whether a public label delivers safety or spreads damage. We heard that it can strip housing, work, and connection from people who need stability, while a single warning does not establish broad protection. Better, targeted safeguards can protect those at risk without making exclusion a permanent public punishment."
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 244.41,
+   "end_sec": 247.69,
+   "dur_sec": 3.28,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 244.46,
+   "end_sec": 252.13,
+   "dur_sec": 7.67,
+   "overlap": false,
+   "text": "That is why public registries clearly create harms that outweigh their limited, uncertain warnings. That's all, thank you."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 252.33,
+   "end_sec": 255.06,
+   "dur_sec": 2.73,
+   "overlap": false,
+   "text": "Let him come back on that."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 255.26,
+   "end_sec": 275.27,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "Deciding this motion turns not on whether registries are perfect, but whether public warning can prevent avoidable harm. Jorge showed that poor design can burden people. That is real, and rules should be narrow. But removing a useful warning leaves families uninformed when careful reform can preserve its benefit."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 275.26,
+   "end_sec": 276.78,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.47,
+   "end_sec": 286.56,
+   "dur_sec": 11.09,
+   "overlap": false,
+   "text": "A registry can be limited, reviewed, and paired with support, but its basic purpose remains simple: warn people before they make a vulnerable choice. The real harm comes-",
+   "cut_at_sec": 279.7,
+   "full_dur_sec": 14.16,
+   "ext_file": "L161_027.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 285.76,
+   "end_sec": 287.84,
+   "dur_sec": 2.08,
+   "overlap": true,
+   "text": "I'm sorry, I'm sorry. Hit time."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 288.04,
+   "end_sec": 294.09,
+   "dur_sec": 6.05,
+   "overlap": false,
+   "text": "Thank you both. This concludes our debate on whether sex offender registries do more harm than good."
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+L186  |  Arab women should have full equality with men
+  MOD=Gregory   PRO=Genevieve   CON=Gloria
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Gregory(MOD): Welcome. Our motion is: Arab women should have full equality with men. Genevieve speaks for the motion, and Gloria speaks against it. Each opening and closing is thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue. Please listen respectfully, address ideas rather than people, and allow each speaker a fair opportunity to be heard.
+[t01] Genevieve(PRO): Full equality means equal standing before law, equal access to learning, work, property, and public decisions. It does not erase faith, family, or personal choice. Across Arab communities, women have different lives, yet none should need permission to direct her own future. A society gains when every adult can contribute without an imposed ceiling.
+[t02] @A4 <ovl> Gregory(MOD): Ten seconds please.
+[t03] Genevieve(PRO): Equal rights also protect women who choose family-centered lives, because a choice matters only when alternatives are genuinely open. Equality is the safeguard for every path. That's all, thank you.
+[t04] @A2-2 Gregory(MOD): Gloria has the floor.
+[t05] Gloria(CON): The motion treats equality as though one model fits every Arab woman. I oppose imposing a single social blueprint from outside families and communities. Many women value distinct responsibilities, religious commitments, and negotiated household roles. Respect means listening when they define dignity differently, rather than declaring their choices inferior. Legal protection matters, but full sameness is not liberation.
+[t06] @A4 <ovl> Gregory(MOD): Well, now ten.
+[t07] <cut> Gloria(CON): Women need safety, education, and a voice. Yet calling every difference oppression can make policy dismiss caregiving and communal obligations that some freely embrace. The question is-
+[t08] @A1 <ovl> Gregory(MOD): I have to step in because we hit our time limit.
+
+--- phase 2 ---
+[t09] @A3-1 Gregory(MOD): And that concludes round one. And now we move onto round two, and in round two the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Genevieve(PRO): Imagine an adult woman offered a job she wants, but a male guardian may refuse travel for it. Her talent, income, and choice disappear. Equal legal authority prevents that loss; it proves equality protects real freedom.
+[t11] Gloria(CON): Your guardian example assumes every family decision is coercion. Families often consult each other, and a woman can reject a distant job for reasons she values. Replacing discussion with identical roles does not prove freedom.
+[t12] Genevieve(PRO): If a woman may legally be blocked from travel, work, or signing her own papers solely because she is female, how is her choice equal to yours?
+[t13] Gloria(CON): On your legal-blocking point, I reject the premise that opposing this motion defends such barriers. I support removing unfair restrictions. But equal protection does not require declaring every gendered arrangement unjust or demanding identical outcomes.
+[t14] <cut> Genevieve(PRO): You're right that protection from unfair restrictions matters. But your answer separates rights from equality, leaving women dependent on whoever labels a restriction traditional; equal citizenship is the clear safeguard against that-
+[t15] <ovl> Gloria(CON): No, equal citizenship can protect her without erasing her chosen roles. Your clear-safeguard point makes the state judge every family arrangement, while I defend women deciding whether difference serves them.
+[t16] Genevieve(PRO): When a woman can refuse a marriage, control her earnings, and seek remedies without a man's approval, distinct family choices can be genuine. Under those conditions, full equality protects rather than dictates her decision.
+[t17] Gloria(CON): Schools, housing, and transport also shape whether anyone can use formal rights, so policy must consider daily burdens. Still, the motion is about full equality with men, and that sweeping demand can override women's varied judgments.
+[t18] Genevieve(PRO): Equality is not merely a set of permissions used after someone else grants access; it is equal status. Women deserve that status in law and public life, while retaining every voluntary family or religious commitment.
+[t19] Gloria(CON): On your equal-status point, the phrase sounds respectful but remains vague about limits. If equal status requires institutions to treat all sex-based roles as suspect, it ceases to respect women who affirm those roles.
+[t20] Genevieve(PRO): I agree that no woman should be shamed for choosing care work or religious practice. But preserving choice cannot mean preserving male authority over her choices; equal standing lets her choose, so the motion stands.
+[t21] Gloria(CON): No, a woman should not be blocked solely because she is female. But removing that abuse does not settle the motion: full equality can demand uniform roles, rather than equal respect for freely chosen difference.
+[t22] @A4 <ovl> Gregory(MOD): Ten seconds left on the crossfire.
+[t23] <cut> Genevieve(PRO): Consider a woman who wants to open-
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Gregory(MOD): We've come up against the clock, so we're going to move now to our closing statements. Genevieve, the stage is all yours.
+[t25] Genevieve(PRO): Tonight, the other side accepted that women should not be blocked solely because they are female. That principle is equality, not sameness. Equal status gives a woman authority over her work, movement, property, and future; it never orders her to abandon family, faith, or care. Without that status, voluntary choices rest on unequal power. This debate turns on who holds final legal authority.
+[t26] @A4 <ovl> Gregory(MOD): Just, just about ten seconds left.
+[t27] <cut> Genevieve(PRO): Full equality leaves room for peaceful commitments because it makes them voluntary. The alternative calls unequal power tradition when it is familiar-
+[t28] @A2-1 <ovl> Gregory(MOD): I'm going to stop you there, Genevieve, we're out of time. Gloria.
+[t29] Gloria(CON): My strongest point is simple: dignity cannot be delivered by treating women as one category with one approved life. I support protection against coercion and fair access to opportunity. But this motion's promise of full equality can turn differences freely valued by women into defects to correct. A just society must protect choice, including choices that do not mirror men. The question is who defines equality.
+[t30] @A4 <ovl> Gregory(MOD): Ten seconds from this side?
+[t31] Gloria(CON): Rejecting a rigid blueprint respects women as capable authors of their own dignified, diverse lives. That's all, thank you.
+[t32] Gregory(MOD): Thank you both for a thoughtful exchange. This concludes our debate on the motion; there is no declared winner.

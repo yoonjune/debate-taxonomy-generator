@@ -1,0 +1,43 @@
+L177  |  Ukraine should get Russia's frozen assets.
+  MOD=Art   PRO=Tony   CON=Daisy
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Art(MOD): Welcome. The motion is that Ukraine should get Russia's frozen assets; Tony supports it, and Daisy opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed speech ends; speak in turn and address the motion.
+[t01] Tony(PRO): Russia's assets are frozen because its state caused terrible damage. Transferring them would make the aggressor help repair homes, schools, and power lines instead of leaving Ukraine alone with.
+[t02] <ovl> <cut> Daisy(CON): You call this repair, but you skip the-
+[t03] @A5 <ovl> Art(MOD): Let's talk one at a time.
+[t04] Tony(PRO): the burden. Ukraine needs a real path to rebuild, and these state funds were immobilized for a reason. Keeping them idle protects Russia from consequences of its own war.
+[t05] @A4 <ovl> Art(MOD): I'll give you ten more seconds to nail this.
+[t06] Tony(PRO): Giving them to Ukraine turns a frozen penalty into repair, which is exactly what justice demands. That's all, thank you.
+[t07] @A2-2 Art(MOD): Let her come back on that.
+[t08] Daisy(CON): Tony's repair point sounds fair, but fairness also needs rules that survive a hard case. Frozen assets are not a blank check for outsiders to spend. Taking them without a settled legal basis weakens the protection that keeps countries from seizing each other's property. Ukraine deserves support, but it can come through agreed funding without creating a permanent power.
+[t09] @A4 <ovl> Art(MOD): Ten seconds.
+[t10] <cut> Daisy(CON): That limit matters because today's popular target can become tomorrow's excuse. If governments can redirect another state's reserves by political choice, trust in safe custody shrinks. And-
+[t11] @A1 <ovl> Art(MOD): I have to step in because we hit our time limit.
+
+--- phase 2 ---
+[t12] @A3-1 Art(MOD): And that concludes Round one. Now we move onto Round two. And in Round two, it's freer form. The debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t13] Daisy(CON): Your repair point assumes seized money remains harmlessly available, but the custody point says otherwise. If states fear confiscation, they hide assets and make future settlements harder.
+[t14] Tony(PRO): I agree that stable rules matter, but your custody point treats Russia's state assets as untouchable regardless of aggression. A lawful transfer tied to repair enforces responsibility, so Ukraine should receive them.
+[t15] Daisy(CON): Consider a small neutral saver whose pension fund holds reserves abroad. After a transfer, its value falls, and her retirement payment is cut. That harm proves confiscation spreads costs beyond Russia.
+[t16] Tony(PRO): When an independent legal process finds particular frozen state funds available for compensation, transfer is justified. That condition protects rights while ensuring Russia, rather than Ukraine alone, bears repair costs.
+[t17] Daisy(CON): Your legal-process condition is the weak point, because you have not shown who can make that finding without political pressure. A label of independence cannot cure confiscation, so Ukraine should not get them.
+[t18] Tony(PRO): A credible international legal panel can make that finding, rather than a single government. Your fear of pressure cannot erase Russia's obligation to repair the damage it caused, so Ukraine should get them.
+[t19] Daisy(CON): The panel point fails because a panel still needs authority over property it does not own. Creating that authority after freezing funds makes law follow politics, so Ukraine should not get them.
+[t20] Tony(PRO): You are right that authority cannot be invented casually, but existing legal principles can address wrongful state conduct. Refusing remedies leaves frozen assets useless, while Ukraine should receive them for repair.
+[t21] <cut> Daisy(CON): Imagine a future dispute where a weaker country is accused by stronger rivals and its reserves are transferred before facts are settled. Its hospitals lose imported supplies, proving this tool can-
+[t22] Tony(PRO): Frozen state assets should serve repair after an unlawful invasion, because victims should not carry destruction alone. That principle guides legal processes toward Ukraine receiving Russia's assets.
+[t23] Daisy(CON): Your broader principle abandons the safeguard you just praised: it says assets should serve repair, then hopes process follows. Principles do not authorize taking property, so Ukraine should not get them.
+[t24] Tony(PRO): No, the principle does not authorize seizure by itself; legal process remains necessary. But your position makes procedure a shield for the party that caused damage, while Ukraine should get assets once lawfully awarded.
+[t25] Daisy(CON): Your procedure-shield point mistakes caution for protection of wrongdoing. Courts can require compensation without handing over reserves, and negotiated arrangements preserve pressure, so Ukraine should not get them.
+[t26] @A4 <ovl> Art(MOD): Ten seconds left in the crossfire.
+
+--- phase 3 ---
+[t27] @A3-2 <ovl> Art(MOD): Time. And now we move into closing statements from each debater in turn, starting with Tony.
+[t28] Tony(PRO): This turns on responsibility, not revenge. Russia's frozen state assets can, through lawful process, repair the damage its war caused rather than sit unused while Ukraine rebuilds. Daisy offers caution, but caution cannot mean the victim alone pays; Ukraine should get the assets. That's all, thank you.
+[t29] @A2-2 Art(MOD): All right, let her answer.
+[t30] Daisy(CON): Deciding this motion turns on whether a justified goal permits an unreliable method. Ukraine needs rebuilding, and Russia should face pressure to pay. But transferring frozen assets risks turning legal custody into political taking. A durable peace needs rules that protect property, permit compensation through recognized decisions, and keep support for Ukraine from depending on a precedent that others can misuse.
+[t31] @A4 <ovl> Art(MOD): Ten seconds please.
+[t32] Daisy(CON): That is why aid and compensation should continue, but this particular transfer should not. The safer path helps Ukraine without weakening the rules everyone may need. That's all, thank you.
+[t33] Art(MOD): Thank you both for a thoughtful debate. This concludes our discussion of whether Ukraine should receive Russia's frozen assets.

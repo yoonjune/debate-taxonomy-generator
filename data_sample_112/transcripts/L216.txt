@@ -1,0 +1,38 @@
+L216  |  Guns reduce crime
+  MOD=Hina   PRO=Kirsten   CON=Paula
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Hina(MOD): Welcome to this debate tonight. Tonight's motion is that guns reduce crime. Kirsten argues for it, and Paula argues against it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue.
+[t01] Kirsten(PRO): Guns can reduce crime because a potential victim who can resist changes an offender's calculation. The motion does not claim every gun owner prevents harm; it says lawful access can deter some attacks and let people defend themselves when help is not near. That matters where a criminal expects a target, changing the balance before violence begins.
+[t02] Kirsten(PRO): When lawful people can resist, crime becomes less rewarding, which is why this motion is true. That's all, thank you.
+[t03] @A4 <ovl> Hina(MOD): I can give you ten seconds to do this.
+[t04] @A2-2 Hina(MOD): Thank you very much indeed. All right. Could I please ask Paula to speak against the motion, please.
+[t05] Paula(CON): Deterrence sounds simple, but more guns also create more moments for fear, anger, and error to become deadly. A weapon cannot distinguish a criminal threat from a misunderstanding. Public safety rests on preventing violence, not merely shifting its tools. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Hina(MOD): Let's debate. Two and a half minutes on the clock, starting the moment I stop talking.
+[t07] Paula(CON): If guns reduce crime, why should a frightened person with a gun make a tense encounter safer rather than turn a mistake into a shooting? Please answer that risk.
+[t08] Kirsten(PRO): Before assuming that, we should ask who issues permits, what training a licensing office requires, and whether officials can delay applications. A fair permit process needs clear appeals, affordable classes, and rules that prevent denials.
+[t09] @B1 Hina(MOD): But we're getting a little bit off the question of whether guns reduce crime in society.
+[t10] Kirsten(PRO): The motion asks whether guns reduce crime, and they can when an offender sees a prepared victim instead of easy prey. Why assume a frightened defender is more dangerous than the person threatening her?
+[t11] Paula(CON): I reject that comparison: fear can distort any person's judgment, while a gun makes a bad judgment irreversible. Deterrence depends on criminals noticing resistance, yet many conflicts begin before anyone can judge intentions.
+[t12] <cut> Kirsten(PRO): Your claim assumes conflict appears without warning, but crime often starts with a visible threat, not a mutual mistake. A defender need not read intentions when someone is forcing entry or demanding-
+[t13] <ovl> Paula(CON): No, because a weapon in that doorway can make everyone rush toward a trigger. You describe defense as controlled, but ordinary people under terror cannot reliably create the calm your argument requires.
+[t14] Kirsten(PRO): When a trained, lawful person faces a clear, immediate attack, access to a gun can stop the attack before further harm occurs. That possibility makes criminals less certain that victims are defenseless.
+[t15] Paula(CON): I grant that a gun may stop an attack in some cases. But policy must cover panic, theft, and impulsive use too, so adding guns does not reliably reduce crime.
+[t16] Kirsten(PRO): Guns reduce crime not only during clear attacks; their presence can discourage crime before an attack begins. Why treat every gun as a source of panic when criminals also respond to risk?
+[t17] Paula(CON): I reject the premise that criminals calmly weigh risk, because many crimes grow from rage, confusion, or reckless impulse. Even planned offenders can steal guns, leaving more dangerous tools circulating after theft.
+[t18] Kirsten(PRO): Calling crime impulsive does not answer deterrence, because many offenders still choose targets, timing, and escape routes. Your theft concern supports punishing theft and securing firearms, not denying defense to lawful people.
+[t19] Paula(CON): Imagine a child finds an unsecured gun in a crowded home and pulls it during play; one careless moment becomes permanent harm. That example shows why wider access can increase danger rather than reduce crime.
+[t20] @A4 <ovl> Hina(MOD): You have ten seconds left.
+[t21] <cut> Kirsten(PRO): If wider access adds danger, why deny-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Hina(MOD): That's time. First, onto round three, closing statements from each debater in turn. First, to summarize her position in favor of the motion, Kirsten.
+[t23] Kirsten(PRO): Deciding this motion turns on the moment before a crime succeeds: whether an offender expects a helpless victim or meaningful resistance. Paula asks us to focus on every misuse, but that avoids the protective choice facing a victim during danger. Lawful ownership can change that choice. It can deter, interrupt, and limit crime, while rules can address irresponsible handling.
+[t24] @A4 <ovl> Hina(MOD): Ten seconds.
+[t25] <cut> Kirsten(PRO): We should judge the motion by whether people can stop crimes when danger arrives, not by pretending every lawful tool is misuse. A safer society does not require helpless victims-
+[t26] @A2-1 <ovl> Hina(MOD): Your time is up, Kirsten. Thank you. And here to summarize her position against the motion, Paula.
+[t27] Paula(CON): The strongest point is that a gun cannot guarantee protection, but it can quickly turn ordinary fear or confusion into irreversible harm. We should reduce the chances for violence to begin, not spread tools that magnify its consequences. That is why guns do not reduce crime. That's all, thank you.
+[t28] Hina(MOD): Thank you, Kirsten and Paula, for debating thoughtfully; thank you for listening, and this debate is now closed.

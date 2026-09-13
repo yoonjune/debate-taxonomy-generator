@@ -1,0 +1,42 @@
+L001  |  A U.S.-China space race is good for humanity
+  MOD=Chloe   PRO=Carl   CON=Roger
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Chloe(MOD): Today's motion is that a U.S.-China space race is good for humanity. Carl argues for it, and Roger argues against it. Each side gets thirty seconds to open, then we have two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue before each timed segment ends.
+[t01] Carl(PRO): A U.S.-China space race can turn rivalry into progress, pushing both countries to solve hard problems in space and on Earth. Competition brings investment, urgency, and useful discoveries. If it stays peaceful and focused on exploration, humanity gains new knowledge and stronger reasons to cooperate.
+[t02] @A2-2 Chloe(MOD): Roger, come on in your response.
+[t03] Roger(CON): A race sounds exciting, but rivalry makes safety and restraint harder. Each side may rush launches, hide information, or treat cooperation as weakness. Space technology can also serve surveillance and weapons, not just exploration. Humanity benefits from shared goals and careful rules, while a race rewards speed over judgment and makes dangerous mistakes more likely.
+[t04] <cut> Roger(CON): Even peaceful missions can become symbols of national pride, so leaders may take risks to avoid falling behind. We should explore together, with transparent standards and shared safeguards. A race invites secrecy, duplication-
+[t05] @A4 <ovl> Chloe(MOD): You've got ten seconds.
+[t06] @A1 <ovl> Chloe(MOD): Time.
+--- phase 2 ---
+[t07] @A3-1 Chloe(MOD): Thank you, Roger. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t08] Carl(PRO): A competition to build a lunar base could produce cheaper launch systems and better life-support tools. Those tools would help future explorers and improve resilience on Earth.
+[t09] <cut> Roger(CON): You assume the race produces useful tools, but competing programs can duplicate wasteful work and hide failures. Public money may chase prestige instead of urgent needs, and-
+[t10] <ovl> Carl(PRO): But if duplication creates rival solutions, doesn't that improve reliability and lower costs? You are treating competition as waste when it can expose weaknesses before people depend on them.
+[t11] Roger(CON): No, competition does not reliably expose weaknesses before use; secrecy can conceal them. Rival programs may improve hardware, but public safety requires openness, which a race undermines.
+[t12] Carl(PRO): Then the real issue is how governments share launch sites and research facilities. Clear licensing, inspection, and emergency agreements could prevent bottlenecks while letting each country build its own capacity.
+[t13] @B1 Chloe(MOD): We are talking about a u.s.-china space race is good for humanity right now.
+[t14] Carl(PRO): The motion asks whether the race is good for humanity, and regulated competition can make exploration faster and safer. Rival goals create pressure to improve while agreements limit reckless behavior.
+[t15] Roger(CON): Budgets also shape schools, hospitals, and basic infrastructure, so spending choices matter. Still, even a carefully funded program remains a race, and its rivalry can make human welfare secondary.
+[t16] Carl(PRO): You have shifted from whether the race helps humanity to whether budgets have competing needs. A program can be worthwhile without ignoring essentials, especially when its inventions serve many people.
+[t17] Roger(CON): When two governments compete without trusted communication, the race is harmful because a small incident can trigger dangerous escalation. Under that condition, exploration gains cannot outweigh the risk.
+[t18] Carl(PRO): That condition supports safeguards, not abandoning competition. If direct communication, inspections, and limits are built in, rivalry can remain peaceful while accelerating discoveries that benefit humanity.
+[t19] Roger(CON): Space competition can be harmful even when individual projects are peaceful, because national pressure distorts priorities and makes cooperation fragile. Limited safeguards do not remove that broader pattern.
+[t20] Carl(PRO): If peaceful safeguards cannot make competition worthwhile, what evidence would show that shared exploration alone will receive enough funding and urgency to succeed?
+[t21] Roger(CON): A joint mission can divide costs, share data, and let each country check the other's work. That shows cooperation can deliver exploration without turning science into a contest.
+[t22] Carl(PRO): A joint mission proves cooperation is useful, not that competition is harmful. Rival teams can still contribute data, challenge weak designs, and keep a shared project from becoming complacent.
+[t23] @A4 <ovl> Chloe(MOD): Ten seconds, and then closing statements.
+[t24] <cut> Roger(CON): I grant that rivalry can challenge complacency, but that benefit is smaller than the danger of rushed decisions and hostile-
+--- phase 3 ---
+[t25] @A3-2 <ovl> Chloe(MOD): But now, it is time to bring this all home with our closing round. Carl for your closing statement, you are up first.
+[t26] Carl(PRO): This debate shows that competition and cooperation need not be opposites. A peaceful U.S.-China space race can speed innovation, strengthen safety through rival testing, and inspire shared standards. With safeguards, humanity gains exploration, useful technology, and momentum that a slower arrangement might never create.
+[t27] @A2-2 Chloe(MOD): I'm going to let Roger answer.
+[t28] Roger(CON): The central danger is incentive, not imagination. A race rewards speed, secrecy, and national pride, making accidents and escalation more likely while diverting resources from immediate human needs.
+[t29] <ovl> <cut> Carl(PRO): But safeguards can restrain those incentives, and cooperation-
+[t30] @A5 <ovl> Chloe(MOD): Just let him finish, please.
+[t31] Roger(CON): The benefits remain uncertain, while the risks are built into rivalry itself. Even careful agreements can weaken under pressure, so exploration should proceed through cooperation, not a race.
+[t32] @A4 <ovl> Chloe(MOD): You have ten seconds.
+[t33] Roger(CON): Humanity needs shared progress and restraint, not competition that can turn discovery into danger.
+[t34] Chloe(MOD): Thank you both for a thoughtful debate; that concludes our discussion, and we leave the question with you.

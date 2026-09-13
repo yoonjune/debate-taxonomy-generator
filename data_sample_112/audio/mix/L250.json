@@ -1,0 +1,339 @@
+{
+ "debate_id": "L219",
+ "motion": "It's time for the US to get tough on Israel.",
+ "speakers": {
+  "MOD": {
+   "name": "Horace",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4066_400",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4066/MSP-PODCAST_4066_400.wav",
+   "wpm": 162.5
+  },
+  "PRO": {
+   "name": "Daisy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3502_919",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3502/MSP-PODCAST_3502_919.wav",
+   "wpm": 167.47
+  },
+  "CON": {
+   "name": "Ingrid",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2124_313",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2124/MSP-PODCAST_2124_313.wav",
+   "wpm": 171.3
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 60.09,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 281.7,
+ "ext": {
+  "a32": {
+   "file": "L219_ext_a32.wav",
+   "place_at_sec": 196.553,
+   "dur_sec": 39.64,
+   "src_i": 16
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 17,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "Imagine a checkpoint closed after violence, leaving a mother unable to reach a clinic with her child. If US support continues with no conditions, that harm can be dismissed; firm consequences make protection of civilians a real priority."
+  },
+  {
+   "src_i": 18,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "You demand consequences, but answer this: if tougher US action weakens cooperation during a dangerous moment, who gains protection from that rupture? Why choose a gesture that may reduce the influence needed to protect civilians?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.61,
+   "dur_sec": 19.61,
+   "overlap": false,
+   "text": "Welcome to our debate. Tonight's motion is: It's time for the US to get tough on Israel. Daisy argues for it, and Ingrid argues against it. Each has thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please keep remarks direct and address the question."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.81,
+   "end_sec": 36.14,
+   "dur_sec": 16.33,
+   "overlap": false,
+   "text": "The United States has influence because its support matters. When a partner's actions deepen suffering and close off a political future, support without consequences becomes approval. Toughness means clear limits and pressure for lawful conduct, not abandonment. That is responsible friendship. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.34,
+   "end_sec": 38.19,
+   "dur_sec": 1.85,
+   "overlap": false,
+   "text": "Let's take that to Ingrid, please."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 38.39,
+   "end_sec": 55.98,
+   "dur_sec": 17.59,
+   "overlap": false,
+   "text": "Concern for civilians is valid, but toughness can turn a difficult partnership into a public rupture. The United States influences Israel best through steady cooperation, private pressure, and credible engagement. Punitive moves may satisfy anger while reducing the ability to shape safer choices. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 56.18,
+   "end_sec": 64.11,
+   "dur_sec": 7.93,
+   "overlap": false,
+   "text": "On to round two, and in round two, the debaters address one another. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 64.31,
+   "end_sec": 75.79,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "You call continued support friendship, but what consequence would ever make you change course? If none exists, why should Israel believe US concerns carry any real weight when its actions harm civilians?"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 76.173,
+   "end_sec": 89.553,
+   "dur_sec": 13.38,
+   "overlap": false,
+   "text": "I grant that private concern can be sincere. But toughness is not a plan: if you weaken a partner without securing a safer path, you invite harder choices and less leverage, which is why I oppose this motion-"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 88.653,
+   "end_sec": 101.433,
+   "dur_sec": 12.78,
+   "overlap": true,
+   "text": "Wait, you call that leverage, but leverage unused is merely permission. A partner that expects support regardless of conduct has no reason to change; clear consequences protect civilians and preserve the possibility of a workable future."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 102.196,
+   "end_sec": 114.756,
+   "dur_sec": 12.56,
+   "overlap": false,
+   "text": "When public pressure would disrupt urgent efforts to prevent immediate violence, it is wrong to impose it. In that narrow moment, steady support and private demands give the United States more influence, so toughness is wrong."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 115.385,
+   "end_sec": 128.565,
+   "dur_sec": 13.18,
+   "overlap": false,
+   "text": "Arguments about military tools can consume every discussion, and economic ties matter too. But those details cannot hide the central issue: support should carry limits when actions cause grave harm, so the United States should get tough."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 129.455,
+   "end_sec": 141.005,
+   "dur_sec": 11.55,
+   "overlap": false,
+   "text": "A durable partnership should allow disagreement without turning every dispute into punishment. That general principle does not erase the special danger of an immediate crisis, and it favors sustained engagement over getting tough."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 141.511,
+   "end_sec": 152.981,
+   "dur_sec": 11.47,
+   "overlap": false,
+   "text": "If engagement works as you claim, why has unconditional backing not produced clear restraint? Answer directly: what reason does Israel have to alter harmful conduct if the United States never attaches real consequences?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 153.381,
+   "end_sec": 166.531,
+   "dur_sec": 13.15,
+   "overlap": false,
+   "text": "The larger issue is how the United States should distribute humanitarian aid across the region. Aid should reach families through dependable channels, avoid empowering armed groups, and support recovery, which requires careful oversight rather than sweeping gestures."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 166.731,
+   "end_sec": 173.861,
+   "dur_sec": 7.13,
+   "overlap": false,
+   "text": "Can we please go back to the question at hand? We're going to go back to the question at issue."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 174.061,
+   "end_sec": 186.861,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "On the motion, the United States should not get tough on Israel because public coercion weakens useful influence. Firm private expectations, continuing cooperation, and practical diplomacy can press for change without turning partnership into a contest."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.856,
+   "end_sec": 200.346,
+   "dur_sec": 12.49,
+   "overlap": false,
+   "text": "Your faith in private expectations is weakest because expectations without consequences are requests. If they fail, you offer more cooperation to the very party ignoring them; that removes the leverage you say makes restraint possible."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 200.573,
+   "end_sec": 213.733,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "Private expectations are not mere requests when a partner values ongoing cooperation and access. You assume punishment creates restraint, yet public coercion can harden positions, narrow dialogue, and leave the United States less able to prevent harm.",
+   "ext_file": "L219_ext_a32.wav"
+  },
+  {
+   "i": 17,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 204.11,
+   "end_sec": 206.04,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "Ten seconds left, both of you."
+  },
+  {
+   "i": 18,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 214.11,
+   "end_sec": 222.92,
+   "dur_sec": 8.81,
+   "overlap": true,
+   "text": "We're going to move now into our closing round. Daisy, you are answering yes to the question, and this is your time for your closing statement."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 223.12,
+   "end_sec": 242.32,
+   "dur_sec": 19.2,
+   "overlap": false,
+   "text": "This decision turns on whether influence means anything when it is never used. The United States can remain a partner while setting boundaries that protect civilians and keep a political future alive. Without boundaries, assurances become a blank check for choices that deepen harm. The question is what those assurances enable."
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.52,
+   "end_sec": 254.42,
+   "dur_sec": 11.9,
+   "overlap": false,
+   "text": "It asks for conditions, consequences, and a course correction before damage becomes permanent. That approach serves security and human dignity better than support. If we want a partnership worthy of trust, we must-",
+   "cut_at_sec": 250.4,
+   "full_dur_sec": 15.34,
+   "ext_file": "L219_023.wav"
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 243.12,
+   "end_sec": 244.42,
+   "dur_sec": 1.3,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 253.62,
+   "end_sec": 262.59,
+   "dur_sec": 8.97,
+   "overlap": true,
+   "text": "Thank you. I'm sorry her time is up. Thank you. And here to summarize her position against whether the US should get tough on Israel, Ingrid."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 262.79,
+   "end_sec": 281.69,
+   "dur_sec": 18.9,
+   "overlap": false,
+   "text": "Getting tough sounds decisive, but it confuses pressure with progress. A reliable partner needs candid private disagreement, practical cooperation, and room for diplomacy, especially during danger. Broad punishment can reduce influence precisely when it is needed most. The wiser course is engaged partnership, so reject the motion. That's all, thank you."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 281.89,
+   "end_sec": 287.98,
+   "dur_sec": 6.09,
+   "overlap": false,
+   "text": "Thank you, Daisy and Ingrid, for a thoughtful debate; that concludes our discussion of this motion today here."
+  }
+ ]
+}

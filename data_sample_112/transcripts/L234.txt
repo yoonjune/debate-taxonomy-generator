@@ -1,0 +1,38 @@
+L234  |  We should isolate Russia.
+  MOD=Bob   PRO=Hugh   CON=Wendy
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Bob(MOD): Welcome. Tonight's motion is that we should isolate Russia. Hugh argues for it, and Wendy argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue before each limit. They should address each other directly, and I may keep the discussion on the question.
+[t01] Hugh(PRO): Isolation is not hatred of ordinary people; it is a refusal to make normal business excuse aggression. When access remains easy, pressure fades and leaders learn that disruption carries no real cost for their choices. We should isolate Russia to set a clear boundary. That's all, thank you.
+[t02] @A2-2 Bob(MOD): Let Wendy respond to it.
+[t03] Wendy(CON): Isolation sounds firm, but it can trap ordinary families while leaving powerful decision makers insulated. Keeping limited contact protects routes for aid, dialogue, and future change. We should reject a policy that closes every door when pressure must remain targeted. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Bob(MOD): Round two is where the debaters address one another in turn. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t05] Wendy(CON): Imagine a parent needing medicine that arrives through ordinary trade. A blanket isolation blocks that route before it changes any leader's conduct. That proves isolation punishes civilians more reliably than power.
+[t06] Hugh(PRO): If normal ties keep resources and legitimacy flowing to the people directing aggression, why should outsiders preserve that comfort instead of applying isolation? How does your approach create real pressure?
+[t07] Wendy(CON): When isolation would block food, medicine, or family contact, it is wrong because the burden falls first on people without control. In that condition, limited targeted pressure is better.
+[t08] Hugh(PRO): Limited contact can help a family in a hard case, and I would protect humanitarian channels. But broad economic and political distance removes the normal rewards leaders use; that pressure supports isolation.
+[t09] Wendy(CON): Your humanitarian exception raises another problem: students in joint art programs may lose mentors, travel plans, and shared performances. Those personal exchanges need careful permits, because young creators should not carry adults' disputes.
+[t10] @B1 Bob(MOD): But we're getting a little bit off the isolation of Russia from the wider world.
+[t11] Wendy(CON): The question is whether Russia should be isolated, and I say no because broad separation harms people who cannot alter policy. Keep pressure focused on responsible decision makers, not entire communities.
+[t12] Hugh(PRO): When banks, firms, and official channels withdraw, leaders lose easy ways to fund and normalize harmful actions. That loss forces a choice between continued aggression and renewed cooperation. It proves isolation creates leverage.
+[t13] Wendy(CON): Cultural ties also matter: families speak across borders, and small exchanges preserve trust for later repair. But the motion asks about isolation; how does cutting normal ties hurt leaders before ordinary people?
+[t14] <cut> Hugh(PRO): It hurts leaders by denying them revenue, access, and prestige; humanitarian safeguards can shield ordinary people. Your claim treats normal ties as harmless, yet those ties can finance the very pressure you-
+[t15] Wendy(CON): Countries need working connections with the outside world, because isolation rarely produces wiser choices from those in power. The people who face its daily costs are usually the least able to change policy.
+[t16] Hugh(PRO): Your claim that isolation rarely changes leaders is the weakest point, because leaders depend on money, access, and recognition. Removing those supports does not guarantee change, but it makes harmful choices harder to sustain.
+[t17] Wendy(CON): On your money, access, and recognition point, you confuse broad isolation with precise pressure. Decision makers can dodge broad barriers, while workers and families cannot. Targeted measures keep leverage without abandoning everyone else.
+[t18] @A4 <ovl> Bob(MOD): Ten seconds left, then we go to closings.
+
+--- phase 3 ---
+[t19] @A3-2 <ovl> Bob(MOD): Time. So, let's move on to round three, closing statements. Each debater in turn, here to make his closing statement in support of the isolation of Russia from the wider world, is Hugh.
+[t20] Hugh(PRO): Deciding this motion turns on whether normal engagement restrains harmful conduct or merely cushions it. Wendy asks us to trust narrow pressure, yet narrow pressure leaves many rewards untouched and sends a mixed signal. Isolation, with protected humanitarian channels, changes the wider environment in which leaders calculate costs and choices.
+[t21] @A4 <ovl> Bob(MOD): Well, now ten.
+[t22] Hugh(PRO): That is why firm separation, not comfortable routine, offers the clearer path toward responsible conduct. That's all, thank you.
+[t23] @A2-2 Bob(MOD): Thank you Hugh. Wendy, closing statement.
+[t24] Wendy(CON): Deciding this motion turns on who pays when broad separation is imposed. Hugh promises leverage, but leverage that reaches medicine, work, and family contact is not disciplined leverage. Real pressure should focus on people making choices, while keeping doors open for ordinary lives and future bargaining. Isolation confuses a government with everyone living under it.
+[t25] @A4 <ovl> Bob(MOD): Wendy, ten seconds.
+[t26] <cut> Wendy(CON): That confusion creates resentment and weakens voices that could support change. Keep pressure targeted, keep humanitarian links open, and judge policies by the people they burden. A country facing-
+[t27] @A1 <ovl> Bob(MOD): Not this time.
+[t28] Bob(MOD): Thank you both for a thoughtful debate on whether Russia should be isolated from the wider world today.

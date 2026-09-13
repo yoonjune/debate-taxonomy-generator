@@ -1,0 +1,375 @@
+{
+ "debate_id": "L096",
+ "motion": "For a better future, live in a red state.",
+ "speakers": {
+  "MOD": {
+   "name": "Martha",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1763_64",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1763/MSP-PODCAST_1763_64.wav",
+   "wpm": 173.81
+  },
+  "PRO": {
+   "name": "Raymond",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  },
+  "CON": {
+   "name": "Liz",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 83.66,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 293.6,
+ "ext": {
+  "a32": {
+   "file": "L096_ext_a32.wav",
+   "place_at_sec": 228.339,
+   "dur_sec": 25.42,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "Your one-employer example blames a state color for a single town's hardship. Red-state policies can help workers start ventures, train nearby, and rely on neighbors, so that example does not settle which future is better."
+  },
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "If red-state policy is dependable, why answer my concern with what it can do rather than deliver? Tell me why a family should accept a label instead of judging its options."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.77,
+   "dur_sec": 17.77,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is: for a better future, live in a red state. Raymond supports it, and Liz opposes it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before time expires. Let's begin."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.97,
+   "end_sec": 38.13,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "A better future needs room to raise families, build work, and keep local ties strong. Red states often protect choice in schooling, reward effort, and let communities set priorities. That creates confidence rather than dependence, because people see a path from effort to ownership. It also means..."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 37.97,
+   "end_sec": 41.11,
+   "dur_sec": 3.14,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.33,
+   "end_sec": 49.27,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "safer streets, reliable energy, and rules shaped close to home. A future works when ordinary people can plan without distant officials changing the terms, and that is why living in a red-",
+   "cut_at_sec": 49.27,
+   "full_dur_sec": 14.24,
+   "ext_file": "L096_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 48.47,
+   "end_sec": 51.21,
+   "dur_sec": 2.74,
+   "overlap": true,
+   "text": "Your time is up. Thank you. Liz."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.41,
+   "end_sec": 71.07,
+   "dur_sec": 19.66,
+   "overlap": false,
+   "text": "Your picture confuses a label with a life. A better future depends on affordable homes, good schools, fair chances, and freedom to make personal decisions. Those things vary from community to community, so no state color can promise them. People deserve choices, not a political map deciding their future. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.27,
+   "end_sec": 85.92,
+   "dur_sec": 14.65,
+   "overlap": false,
+   "text": "Okay. So now, we know where each of you stand and why. We'll be diving into discussion on our question, for a better future, live in a red state. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 86.12,
+   "end_sec": 97.96,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "You say a red state builds opportunity, but how does a color guarantee a child good teaching, safe housing, and personal freedom? Name the policy that makes those gains certain for every family."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 98.948,
+   "end_sec": 111.748,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Parents also care about who runs the school board, what appears in libraries, and whether local meetings feel heard. But the motion is about futures, and local control gives red-state families more power to shape theirs."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 112.684,
+   "end_sec": 123.804,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Your local-control point overlooks unequal power. A family cannot shape a future merely by attending meetings when basic options are thin; better futures require dependable opportunities, not just nearby decision makers."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 124.706,
+   "end_sec": 137.226,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "At a school-board meeting, one parent asks for a reading list, another requests a bus route, and volunteers inspect the playground. Then committees revise forms, schedule hearings, and decide which classroom roof gets repaired first."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 137.426,
+   "end_sec": 144.836,
+   "dur_sec": 7.41,
+   "overlap": false,
+   "text": "Just to remind you that we are discussing the motion, for a better future, live in a red state."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 145.036,
+   "end_sec": 156.076,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Fair point: the motion concerns futures, not meeting agendas. Every family thrives in a red state. Local authority, work, and steady rules give people durable control over home, school, and livelihood."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 157.049,
+   "end_sec": 169.569,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Your claim that every family gains is the weakest part. Families differ in jobs, health, identity, and needs, so a state label cannot ensure control; it can even limit the choices that make futures secure."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 170.286,
+   "end_sec": 183.446,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "This family does not thrive in a red state. I mean a parent whose available work disappears and whose local rules shut down the path they need; that hardship is real, while the broader model remains better."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 183.646,
+   "end_sec": 191.416,
+   "dur_sec": 7.77,
+   "overlap": false,
+   "text": "Well you're every family thrives in a red state and then you're this family does not thrive in a red state. Which?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 191.616,
+   "end_sec": 203.376,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Those statements address different levels. The first describes the future red-state system makes available, while the second describes one family's lived setback; a broad promise of opportunity does not erase a hard case."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.8,
+   "end_sec": 216.29,
+   "dur_sec": 12.49,
+   "overlap": false,
+   "text": "Your different-levels point fails because an available future is not the same as a better future for everyone. If one family can be left behind, your absolute promise collapses, and the motion needs more than direction."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 217.134,
+   "end_sec": 230.014,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "You're right that no community removes every hardship. But the main issue is which places leave more room to respond through work, family networks, and local decisions; that practical freedom makes red states the wiser future."
+  },
+  {
+   "i": 19,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 225.92,
+   "end_sec": 227.16,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 230.599,
+   "end_sec": 236.72,
+   "dur_sec": 6.121,
+   "overlap": false,
+   "text": "Imagine a worker in a town with one employer and few training options. When the job vanishes, local slogans create-",
+   "ext_file": "L096_ext_a32.wav",
+   "cut_at_sec": 234.46,
+   "full_dur_sec": 12.73
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 235.92,
+   "end_sec": 243.3,
+   "dur_sec": 7.38,
+   "overlap": true,
+   "text": "Time's up. And now we move on to round three. And here making his closing statement in support of the motion, Raymond."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 243.5,
+   "end_sec": 263.59,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "Living in a red state is the better bet because the future is built through daily control: choosing schools, pursuing work, raising children, and solving problems close to home. Liz rightly notes that hardship can exist anywhere, but a system that trusts families and neighborhoods gives people more ways to answer it. That is the"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 263.5,
+   "end_sec": 264.74,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 263.79,
+   "end_sec": 272.25,
+   "dur_sec": 8.46,
+   "overlap": false,
+   "text": "reason red states offer not perfection, but the strongest foundation for families and a better future. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 272.45,
+   "end_sec": 274.38,
+   "dur_sec": 1.93,
+   "overlap": false,
+   "text": "We've got your point. Liz."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 274.58,
+   "end_sec": 293.73,
+   "dur_sec": 19.15,
+   "overlap": false,
+   "text": "This decision turns on whether a political label can tell you where a life will improve. It cannot: people need options, personal freedom, and support when local systems fail. A red state may suit some people, but the motion promises a better future too broadly, so reject it. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 293.93,
+   "end_sec": 300.5,
+   "dur_sec": 6.57,
+   "overlap": false,
+   "text": "Thank you, Raymond and Liz, for a thoughtful debate. That concludes our discussion of the motion tonight."
+  }
+ ]
+}

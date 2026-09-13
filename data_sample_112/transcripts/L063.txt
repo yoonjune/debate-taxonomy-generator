@@ -1,0 +1,39 @@
+L063  |  Arab revolutions will just produce different dictators
+  MOD=Marcia   PRO=Monica   CON=Charles
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Marcia(MOD): Welcome. The motion is: Arab revolutions will just produce different dictators. Monica supports it, and Charles opposes it. Each has thirty seconds for an opening, followed by two and a half minutes of crossfire. Then come thirty-second closings. I will give a ten-second cue. Please address the motion, not each other personally. Keep your answers clear and brief.
+[t01] Monica(PRO): Revolutions can remove a ruler, but they do not automatically build courts, shared rules, or restraint. When power is contested and institutions are weak, the most organized force wins. That force often governs through fear, so a new dictator replaces the old one again. That's all, thank you.
+[t02] @A2-2 Marcia(MOD): Thank you, Monica. Speaking for the resolution. Charles, against.
+[t03] Charles(CON): That claim treats people as spectators after a revolution. They are not. When local groups can organize, argue, and protect basic freedoms, no single leader can easily capture everything. Change can be fragile, but fragility is not destiny. The real question is whether people keep claiming a voice, because that continuing effort can limit rulers and
+[t04] @A4 <ovl> Marcia(MOD): Well, now it's ten.
+[t05] <cut> Charles(CON): they can replace leaders without replacing freedom. You say weakness guarantees tyranny, yet people can learn to bargain, resist, and demand accountability. A revolution opens possibility, not destiny, and calling every uprising-
+[t06] @A1 <ovl> Marcia(MOD): I'm sorry. Your time is up. Thank you very much.
+
+--- phase 2 ---
+[t07] @A3-1 Marcia(MOD): And that concludes Round one. Now we move on to round two. Round two is where the debaters address one another. You have two and a half minutes, starting when I stop talking.
+[t08] Monica(PRO): Charles calls organization a safeguard, but organization without enforceable limits simply gives disciplined factions an advantage. His hope depends on citizens restraining winners after power is seized, precisely when fear makes resistance hardest.
+[t09] Charles(CON): Where independent neighborhood councils remain able to meet openly, leaders face daily scrutiny and cannot rule by decree without resistance. Under that condition, revolutionary change can produce accountable government rather than a replacement dictator.
+[t10] Monica(PRO): Open meetings can slow an aspiring strongman, and that is valuable. But councils survive only if armed winners permit them; once coercive power is concentrated, scrutiny becomes theater, which is why revolutions produce different dictators.
+[t11] Charles(CON): Imagine a town where neighbors choose a council to settle disputes, publish decisions, and replace a representative who abuses power. That habit gives people leverage before one commander dominates, proving revolutions need not yield dictators.
+[t12] Monica(PRO): No, a town council cannot by itself guarantee safety from a commander. Your example assumes people retain leverage while force is becoming centralized; that is the contested moment, and armed victors decide it, producing dictators.
+[t13] Charles(CON): Revolutions usually create a political opening, because people discover they can act together. Yet an opening is not a guarantee: where councils remain independent, it can deepen into rules that bind leaders rather than personal rule.
+[t14] <cut> Monica(PRO): Your word 'usually' hides the mechanism: openings close when whoever controls weapons writes the rules. Independent councils cannot bind that winner unless the winner accepts limits, and history's recurring lesson is that he-
+[t15] <ovl> Charles(CON): That assumes weapons decide everything. People can refuse orders, expose abuses, and coordinate protection; rulers need cooperation to govern, so armed control alone does not make dictatorship inevitable after a revolution.
+[t16] Monica(PRO): Cooperation can restrain a ruler at first, and I grant that courage matters. But fear fractures cooperation once arrests and patronage begin, leaving a disciplined faction above society; that pattern produces different dictators.
+[t17] Charles(CON): Picture a new assembly requiring public votes before emergency powers, while residents can challenge those powers in local meetings. A leader who tries to silence critics loses legitimacy and cooperation, proving institutions can prevent dictators.
+[t18] Monica(PRO): No, public votes do not ensure leaders lose cooperation when they silence critics. In a frightened society, assemblies can become rubber stamps, so emergency powers harden into personal rule and different dictators.
+[t19] Charles(CON): You say fear always defeats cooperation, but how can a ruler maintain fear when workers, families, and local leaders withdraw obedience together? If collective refusal can constrain power, why call dictatorship the inevitable result?
+[t20] @A4 <ovl> Marcia(MOD): Ten seconds, both of you.
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Marcia(MOD): That's time. And that concludes round two of this debate. Making her closing statement in support of the resolution, here is Monica.
+[t22] Monica(PRO): Charles says institutions can preserve cooperation. They can, but only when those institutions are stronger than the faction holding force. Revolutions often destroy the old restraints before durable new ones exist. In that gap, disciplined armed leaders set the rules, silence rivals, and call obedience stability. That is how one dictatorship becomes another, not real freedom.
+[t23] @A4 <ovl> Marcia(MOD): Ten seconds, ten seconds.
+[t24] <cut> Monica(PRO): Your answer is possibility, not a safeguard. People may resist, but rulers who command weapons can punish resistance and reshape every institution around themselves. Until revolutions solve that imbalance, expecting-
+[t25] @A2-1 <ovl> Marcia(MOD): Okay, time. Thank you, Monica. Charles, your opening.
+[t26] Charles(CON): Monica rightly warns that force can crush freedom, and no advocate should dismiss that risk. But her conclusion turns a danger into an unavoidable future. I return to the point about organized citizens: when they keep meeting, demanding reasons, and withdrawing cooperation, rulers cannot own life. Revolutions can create capacity, so they need not produce dictators.
+[t27] @A4 <ovl> Marcia(MOD): Ten seconds.
+[t28] Charles(CON): People can turn upheaval into accountable rule, and that possibility defeats 'just' in the motion. That's all, thank you.
+[t29] Marcia(MOD): Thank you, Monica and Charles, for a vigorous debate. This concludes our discussion of the motion for tonight.

@@ -1,0 +1,430 @@
+{
+ "debate_id": "L110",
+ "motion": "Mass collection of U.S. phone records violates the Fourth Amendment",
+ "speakers": {
+  "MOD": {
+   "name": "Victor",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0666_828",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0666/MSP-PODCAST_0666_828.wav",
+   "wpm": 171.12
+  },
+  "PRO": {
+   "name": "Karen",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  },
+  "CON": {
+   "name": "Amy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4100_1134",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4100/MSP-PODCAST_4100_1134.wav",
+   "wpm": 166.01
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 82.68,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 292.93,
+ "ext": {
+  "a32": {
+   "file": "L110_ext_a32.wav",
+   "place_at_sec": 226.115,
+   "dur_sec": 29.78,
+   "src_i": 24
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 25,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "If officials may collect every person's calling history without suspicion, what meaningful limit stops them from assembling a permanent map of every private association they make?"
+  },
+  {
+   "src_i": 26,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "After a threat, investigators compare a known number with routing records and find its network. That lead can prevent harm without reading speech, proving collection need not violate the amendment."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.23,
+   "dur_sec": 20.23,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is: mass collection of U.S. phone records violates the Fourth Amendment. Karen argues for it, and Amy argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address each other directly and stay with the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.43,
+   "end_sec": 39.21,
+   "dur_sec": 18.78,
+   "overlap": false,
+   "text": "Mass collection turns private patterns into a permanent map of ordinary life. The Fourth Amendment protects people from broad government searches, not merely from officers touching a phone. When officials gather everyone's calling history before suspicion, they search first and justify later. That reverses the constitutional safeguard. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 39.41,
+   "end_sec": 42.86,
+   "dur_sec": 3.45,
+   "overlap": false,
+   "text": "All right, let's give Amy a chance to reply."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 43.06,
+   "end_sec": 52.75,
+   "dur_sec": 9.69,
+   "overlap": false,
+   "text": "Phone records are routing facts held by service companies, not the content of anyone's conversation. The government may examine those records under lawful process."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 51.85,
+   "end_sec": 54.15,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But that label misses the harm: a list-",
+   "cut_at_sec": 52.13,
+   "full_dur_sec": 9.28,
+   "ext_file": "L110_004.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 53.35,
+   "end_sec": 55.6,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "No. Let Amy come in. Please."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 55.8,
+   "end_sec": 65.57,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "rather than private papers. That limited review is not a search of a person's private life at all under the amendment as written today."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 63.06,
+   "end_sec": 63.95,
+   "dur_sec": 0.89,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 65.77,
+   "end_sec": 73.66,
+   "dur_sec": 7.89,
+   "overlap": false,
+   "text": "The amendment restrains unreasonable searches, and obtaining company-held routing data reasonably does not violate it. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 73.86,
+   "end_sec": 86.82,
+   "dur_sec": 12.96,
+   "overlap": false,
+   "text": "Now we move on to round two. And round two is where the debaters address each other in turn. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 87.02,
+   "end_sec": 95.99,
+   "dur_sec": 8.97,
+   "overlap": false,
+   "text": "Karen says collection reverses safeguards, but records already exist for billing and connection. Receiving them does not enter a home, read speech, or seize a device."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.53,
+   "end_sec": 106.44,
+   "dur_sec": 9.91,
+   "overlap": false,
+   "text": "The real protection is building strict limits on who may use records, how long agencies retain them, and whether workers face discipline for misuse. Strong oversight prevents abuse."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 106.64,
+   "end_sec": 114.73,
+   "dur_sec": 8.09,
+   "overlap": false,
+   "text": "Can we please go back to the question at hand? We're going to go back to the question at issue."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 114.93,
+   "end_sec": 124.89,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "The question is whether mass collection itself violates the Fourth Amendment, and it does because it gathers intimate associations without individualized cause. Oversight cannot erase an unconstitutional search."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 125.637,
+   "end_sec": 136.207,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "Public trust also suffers when secret programs operate without clear notice, though public confidence alone is not the legal test. The legal question remains search, and collection is not one."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 136.665,
+   "end_sec": 147.105,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Amy's point that collection is not a search ignores what the government learns by combining records: relationships, routines, and vulnerable moments. That is exactly the privacy the amendment shields."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 147.695,
+   "end_sec": 157.785,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "No collection of phone records violates the Fourth Amendment. A record of numbers and times is a company document, so receiving it does not invade a person's protected space."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 158.013,
+   "end_sec": 167.653,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "Amy's absolute claim fails because mass collection is not simply receiving one company's document. It creates a detailed portrait of every person's associations, which is the invasion."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 168.332,
+   "end_sec": 178.822,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "This collection of phone records violates the Fourth Amendment. When officials sweep up everyone's patterns, the program becomes too broad, yet the amendment still does not forbid all routine records."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 179.022,
+   "end_sec": 187.992,
+   "dur_sec": 8.97,
+   "overlap": false,
+   "text": "So it's not much of no collection of phone records violates the Fourth Amendment if this collection of phone records violates the Fourth Amendment, is it?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 188.192,
+   "end_sec": 198.762,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "My first statement addresses ordinary acquisition, while my second addresses this vast program's practical reach. A rule can recognize records as nonprivate yet condemn an agency's careless handling of them."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 199.263,
+   "end_sec": 210.023,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "No, those statements cannot both define the law, because her first leaves no room for this program. Amy now admits scale changes the privacy invasion, which shows mass collection is-"
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 209.123,
+   "end_sec": 219.213,
+   "dur_sec": 10.09,
+   "overlap": true,
+   "text": "Scale does not transform a business record into private content, and that is the mistake. A warehouse may hold many ordinary files without each file becoming a constitutional search."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 219.915,
+   "end_sec": 229.495,
+   "dur_sec": 9.58,
+   "overlap": false,
+   "text": "I agree content deserves especially strong protection, but metadata can reveal nearly as much through patterns. The government's decision to gather it indiscriminately violates the Fourth Amendment."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 226.82,
+   "end_sec": 228.35,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 25,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 230.255,
+   "end_sec": 237.62,
+   "dur_sec": 7.365,
+   "overlap": false,
+   "text": "Karen's pattern claim assumes inference equals a search, but an inference is not entry into private life. The amendment regulates government searches-",
+   "ext_file": "L110_ext_a32.wav",
+   "cut_at_sec": 233.48,
+   "full_dur_sec": 9.69
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 236.82,
+   "end_sec": 244.35,
+   "dur_sec": 7.53,
+   "overlap": true,
+   "text": "That's time. Now we move on to round three. Karen will go first, arguing for the resolution. Karen, the floor is yours."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 244.55,
+   "end_sec": 263.69,
+   "dur_sec": 19.14,
+   "overlap": false,
+   "text": "Phone records are not empty labels. In bulk, they reveal who we rely on, where our lives turn, and what associations we keep. The amendment requires a reason before government builds that map, not a promise to use it carefully afterward. Mass collection therefore violates the Fourth Amendment. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 263.89,
+   "end_sec": 266.22,
+   "dur_sec": 2.33,
+   "overlap": false,
+   "text": "Amy, you have the last word."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.42,
+   "end_sec": 286.35,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Karen treats useful patterns as if they were private papers, but the amendment's line is government intrusion into protected life. Phone companies create routing records to connect calls, and lawful access to those records does not inspect conversation or enter a home. The real danger is giving constitutional labels to every administrative record, because that would."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 286.42,
+   "end_sec": 290.27,
+   "dur_sec": 3.85,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 286.55,
+   "end_sec": 294.36,
+   "dur_sec": 7.81,
+   "overlap": false,
+   "text": "freeze ordinary investigations, even when officials seek only routing facts, not anyone's words or private space. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 294.56,
+   "end_sec": 301.21,
+   "dur_sec": 6.65,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate. This concludes our discussion of mass collection and the Fourth Amendment."
+  }
+ ]
+}

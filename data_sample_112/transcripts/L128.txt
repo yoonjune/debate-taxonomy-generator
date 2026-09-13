@@ -1,0 +1,40 @@
+L128  |  We should eat more processed food.
+  MOD=Darius   PRO=Caroline   CON=Margaret
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Darius(MOD): Welcome to our debate on the motion, We should eat more processed food. Caroline argues for it, and Margaret argues against it. Each opening and closing lasts thirty seconds; then we have two and a half minutes of crossfire, and I will give a ten-second cue. Please keep remarks focused and respectful as you address the motion and one another.
+[t01] Caroline(PRO): I support eating more processed food because it can turn a bare cupboard into a usable meal. Frozen vegetables, canned beans, and fortified cereals save preparation time while still offering nourishment. People juggling work, care, and travel need options that do not demand a kitchen ritual. The question is whether practical food can expand decent choices, and it can.
+[t02] @A4 <ovl> Darius(MOD): Ten seconds, Caroline.
+[t03] <cut> Caroline(PRO): More importantly, processing can preserve food before it spoils, which matters when shopping is hard. Rejecting these foods treats time as limitless and overlooks households-
+[t04] @A2-1 <ovl> Darius(MOD): Thank you. Time is up on that. And now Margaret.
+[t05] Margaret(CON): More processed food may be easy, but the motion asks us to eat more of it, not merely keep it available. Heavy processing often makes ordinary eating less recognizable and encourages mindless habits. We should improve access to simple food, rather than make factory-made convenience our default. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Darius(MOD): And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t07] Margaret(CON): You say practical choices expand freedom, but how does urging everyone to eat more processed food protect someone whose meals already rely on it? Why should added dependence count as progress?
+[t08] Caroline(PRO): Labels can distract us, since packaging designs and store layouts shape what people notice. But the motion is about eating, and more processed staples can give busy people dependable meals without demanding extra time.
+[t09] Margaret(CON): When a person has only a short break, a meal built from simple ingredients is better than a packaged substitute. Convenience matters, but it does not turn a poorer routine into a wise recommendation.
+[t10] Caroline(PRO): I believe every processed food choice always deserves encouragement. People should meet real constraints with usable options, and a broad push toward processed food respects the time, storage, and skills they actually have.
+[t11] Margaret(CON): That absolute praise is the weakest part of your case. A sweetened snack and a shelf-stable meal are both processed, so your rule erases the difference between useful convenience and products that train constant craving.
+[t12] Caroline(PRO): Here, a processed food choice does not deserve encouragement. I still support more processed food overall, because a general increase can include useful staples instead of forcing people toward costly, inconvenient alternatives.
+[t13] @B2 Darius(MOD): Caroline said every processed food choice always deserves encouragement, but here, a processed food choice does not deserve encouragement.
+[t14] Caroline(PRO): Both statements fit because one describes the direction I support for public eating, while the other identifies a single choice's merit. The motion concerns the direction, and expanding useful processed options remains the better direction.
+[t15] Margaret(CON): Processed foods can occasionally fit into careful eating, even though simple ingredients are better during a short break. The larger problem is making convenience the default, because defaults quietly shape habits long after that break ends.
+[t16] Caroline(PRO): Consider a parent arriving late with little food at home: canned soup, frozen vegetables, and prepared grains become dinner rather than a skipped meal. That practical rescue proves more processed food can strengthen daily eating.
+[t17] Margaret(CON): I agree that some processed staples prevent waste and help on rushed days. But telling everyone to eat more invites companies and habits to fill every gap with packaged choices, so we should reject the motion.
+[t18] Caroline(PRO): Your warning treats people as passive, yet shoppers can choose among many processed foods. Why assume a wider supply forces every gap to be filled with packages, rather than giving households practical control?
+[t19] @A4 <ovl> Darius(MOD): Ten seconds remaining in this round.
+[t20] <cut> Margaret(CON): It does not force every gap to be filled with packages; I reject that premise-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Darius(MOD): That's time. All right, we're moving down to the home stretch in our final round. Caroline, you go first for this one as well.
+[t22] Caroline(PRO): At the center of this debate is not a fantasy menu; it is whether people deserve food that works on ordinary hard days. Processed staples can prevent skipped meals, reduce waste, and make nourishment possible when time and equipment are scarce. Margaret wants caution, and caution is sensible. But the motion asks whether we should expand a practical option that helps
+[t23] @A4 <ovl> Darius(MOD): Just, just about ten seconds left.
+[t24] Caroline(PRO): More usable food means more people can eat reliably. We can choose better processing while making that choice, which is why I support the motion. That's all, thank you.
+[t25] @A2-2 Darius(MOD): And let Margaret respond.
+[t26] Margaret(CON): Deciding this motion turns on the difference between keeping processed food available and urging people to eat more of it. Availability can solve a difficult evening without becoming an everyday target. Caroline has shown that convenience matters, but convenience alone cannot tell us what a healthier food culture should encourage. We need food habits built around recognizable ingredients, care, and choice, not
+[t27] @A4 <ovl> Darius(MOD): I can give you ten seconds to wrap this round.
+[t28] <cut> Margaret(CON): an automatic reach for packaged meals. Better access to fresh, simple food can respect busy lives without asking people to increase processed eating-
+[t29] @A1 <ovl> Darius(MOD): Thank you, Margaret. Your time is up.
+[t30] Darius(MOD): Thank you, Caroline and Margaret, for the debate; that concludes our discussion of whether we should eat more processed food.

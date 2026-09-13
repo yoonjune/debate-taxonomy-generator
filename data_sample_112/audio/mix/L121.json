@@ -1,0 +1,363 @@
+{
+ "debate_id": "L012",
+ "motion": "The natural gas boom is doing more harm than good.",
+ "speakers": {
+  "MOD": {
+   "name": "Virginia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  },
+  "PRO": {
+   "name": "Rima",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0941_297",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0941/MSP-PODCAST_0941_297.wav",
+   "wpm": 170.38
+  },
+  "CON": {
+   "name": "Miriam",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  }
+ },
+ "selective": [
+  "A1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 61.01,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 279.47,
+ "ext": {
+  "a32": {
+   "file": "L012_ext_a32.wav",
+   "place_at_sec": 204.018,
+   "dur_sec": 24.05,
+   "src_i": 17
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 18,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "That backup can help during a cold evening; I grant that limited value. But building a boom around rare backup needs spreads extraction everywhere, and its continuing leaks make the overall bargain harmful."
+  },
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "A limited backup role does not mean the whole boom spreads extraction everywhere; that is your unsupported leap. Gas can meet real needs now while better systems grow, leaving more benefits than harms."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.24,
+   "dur_sec": 19.24,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that the natural gas boom is doing more harm than good. Rima argues for the motion, and Miriam argues against it. Each has thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings; please address arguments, stay focused, and expect a ten-second cue from me."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.44,
+   "end_sec": 35.85,
+   "dur_sec": 16.41,
+   "overlap": false,
+   "text": "The boom may burn cleaner than some fuels, but cleaner is not harmless. Leaks, industrial disruption, and dependence on another fossil fuel impose lasting costs. When communities bear those costs while short-term gains flow elsewhere, the boom does more harm than good. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.05,
+   "end_sec": 38.01,
+   "dur_sec": 1.96,
+   "overlap": false,
+   "text": "Miriam wants to answer that."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 38.21,
+   "end_sec": 55.8,
+   "dur_sec": 17.59,
+   "overlap": false,
+   "text": "Natural gas can displace dirtier fuels while keeping heat and power dependable. Its development creates work, lowers strain on household budgets, and supports gradual change rather than sudden scarcity. Problems need firm rules, not a verdict that useful energy does more harm than good. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 56.0,
+   "end_sec": 64.65,
+   "dur_sec": 8.65,
+   "overlap": false,
+   "text": "Great. So let's move on to the discussion portion of the debate. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 64.85,
+   "end_sec": 78.22,
+   "dur_sec": 13.37,
+   "overlap": false,
+   "text": "I agree careless drilling can damage a neighborhood. But why call the whole boom harmful when gas replaces dirtier burning and gives families reliable energy while cleaner systems are built? That makes the boom more good than harm."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 79.125,
+   "end_sec": 90.885,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Replacing one dirty fuel does not erase gas's own leaks and pollution, so your premise is false. Why lock families into new gas systems when efficiency and clean power avoid both fuels' damage?"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 91.855,
+   "end_sec": 102.825,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "Efficiency and clean power matter, but they cannot meet every need yet. Gas can provide reliable heat and power during the transition, while rules curb leaks and keep cleaner investment moving."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 103.548,
+   "end_sec": 114.718,
+   "dur_sec": 11.17,
+   "overlap": false,
+   "text": "Where rules allow routine venting, the boom harms more than it helps because pollution is treated as an afterthought. Communities cannot call cheap fuel a benefit when they pay with their air."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 115.202,
+   "end_sec": 128.172,
+   "dur_sec": 12.97,
+   "overlap": false,
+   "text": "Energy bills also affect whether parents can afford food and transport, and that deserves serious attention. Yet household budgeting is not the question here; reliable gas can lower that strain, and its benefits still outweigh its harms."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 128.418,
+   "end_sec": 140.258,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Basic compliance cannot make a fossil expansion safe, because every new pipeline and plant extends gas dependence. The boom does harm more broadly by delaying cleaner investment, even beyond sites with routine venting."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 140.466,
+   "end_sec": 151.836,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "New infrastructure can last too long, and that risk deserves planning. Still, gas gives existing grids flexible power when cleaner sources vary, so a managed boom can deliver more good than harm."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 152.621,
+   "end_sec": 164.681,
+   "dur_sec": 12.06,
+   "overlap": false,
+   "text": "The premise that gas is needed for flexibility is false; grids can use storage, efficiency, and varied clean supply. A managed boom still expands extraction and leaks, so management cannot reverse its net harm."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 165.191,
+   "end_sec": 177.921,
+   "dur_sec": 12.73,
+   "overlap": false,
+   "text": "Government should decide how quickly households must replace appliances, because forced changes can punish renters and small businesses. Policymakers need flexible deadlines, repair support, and choices that fit different homes rather than one rigid energy rule."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 178.121,
+   "end_sec": 182.721,
+   "dur_sec": 4.6,
+   "overlap": false,
+   "text": "This House believes the natural gas boom is doing more harm than good."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 182.921,
+   "end_sec": 194.451,
+   "dur_sec": 11.53,
+   "overlap": false,
+   "text": "The motion asks whether the natural gas boom does more harm than good, and I say it does not. Its usable energy and cleaner replacement role outweigh risks that sensible standards can reduce."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 195.258,
+   "end_sec": 207.408,
+   "dur_sec": 12.15,
+   "overlap": false,
+   "text": "Your weakest claim is that standards can reduce the risks enough. Rules may punish visible leaks, but they cannot undo new fossil dependence or guarantee every operator obeys, so the boom remains net harmful."
+  },
+  {
+   "i": 17,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 204.65,
+   "end_sec": 206.5,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "You both have ten seconds."
+  },
+  {
+   "i": 18,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 207.658,
+   "end_sec": 215.45,
+   "dur_sec": 7.792,
+   "overlap": false,
+   "text": "Consider a cold evening when a local power system needs quick backup after wind falls. Gas generation can keep homes warm without returning-",
+   "ext_file": "L012_ext_a32.wav",
+   "cut_at_sec": 211.81,
+   "full_dur_sec": 12.33
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 214.65,
+   "end_sec": 223.93,
+   "dur_sec": 9.28,
+   "overlap": true,
+   "text": "And that's time. And that concludes round two. So we move on to round three. And first up, to argue the yes position, once again, Rima."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 224.13,
+   "end_sec": 241.42,
+   "dur_sec": 17.29,
+   "overlap": false,
+   "text": "Miriam's best argument is that gas can provide backup when other sources vary. That narrow service does not justify widespread extraction, leaks, and long-lived infrastructure. A boom that locks in fossil dependence shifts costs onto communities, so it is doing more harm than good. That's all, thank you."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 241.62,
+   "end_sec": 243.95,
+   "dur_sec": 2.33,
+   "overlap": false,
+   "text": "Let's have Miriam take this one."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 244.15,
+   "end_sec": 264.0,
+   "dur_sec": 19.85,
+   "overlap": false,
+   "text": "Rima treats every new gas project as a permanent trap, but that ignores how energy systems can change. My strongest point is reliability: families need power and heat through sudden gaps. Gas can supply that support while cleaner capacity expands. There is also a larger point about how this change should be paced."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 264.15,
+   "end_sec": 265.39,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 264.2,
+   "end_sec": 275.45,
+   "dur_sec": 11.25,
+   "overlap": false,
+   "text": "We should reduce pollution, but we should not make people choose between environmental progress and dependable service. A careful transition uses gas where it is needed, protects communities with-",
+   "cut_at_sec": 270.23,
+   "full_dur_sec": 13.69,
+   "ext_file": "L012_026.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 274.65,
+   "end_sec": 278.29,
+   "dur_sec": 3.64,
+   "overlap": true,
+   "text": "I'm sorry. Your time is up. Thank you very much."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 278.49,
+   "end_sec": 284.69,
+   "dur_sec": 6.2,
+   "overlap": false,
+   "text": "Thank you, Rima and Miriam, for a thoughtful debate; this concludes our discussion of the motion this evening."
+  }
+ ]
+}

@@ -1,0 +1,393 @@
+{
+ "debate_id": "L145",
+ "motion": "America is too damn religious",
+ "speakers": {
+  "MOD": {
+   "name": "Daphne",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "PRO": {
+   "name": "Bernard",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  },
+  "CON": {
+   "name": "Ted",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2928_13",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2928/MSP-PODCAST_2928_13.wav",
+   "wpm": 159.24
+  }
+ },
+ "selective": [
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 78.61,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 297.88,
+ "ext": {
+  "a32": {
+   "file": "L145_ext_a32.wav",
+   "place_at_sec": 217.345,
+   "dur_sec": 36.44,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Your student example is weakest because standing quietly apart is not forced belief, and a school event can reflect participants' traditions. One uncomfortable moment cannot show that an entire country is too religious."
+  },
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "I reject the premise that public ritual is merely discomfort when a student must choose isolation or compliance. Your defense normalizes that pressure, and a country that normalizes it is too religious."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.24,
+   "dur_sec": 20.24,
+   "overlap": false,
+   "text": "Welcome to tonight's debate. The motion is: America is too damn religious. Bernard speaks for it, and Ted speaks against it. You each have thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Keep remarks directed to the motion, and listen when I call time."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.44,
+   "end_sec": 38.78,
+   "dur_sec": 18.34,
+   "overlap": false,
+   "text": "America has room for faith, but faith becomes too dominant when it dictates public rules and treats doubt as suspect. I am not attacking believers; I am defending equal citizenship for people whose conscience leads elsewhere. A healthy country leaves religion voluntary, not socially compulsory. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 38.98,
+   "end_sec": 40.86,
+   "dur_sec": 1.88,
+   "overlap": false,
+   "text": "Ted against the motion, please."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 41.06,
+   "end_sec": 60.75,
+   "dur_sec": 19.69,
+   "overlap": false,
+   "text": "Calling America too religious mistakes visibility for control. People may pray, gather, speak moral language, or decline all of it; that is pluralism, not domination. Bernard, if freedom includes protecting conviction, why should public expressions of conviction be treated as proof that everyone else is being pushed aside?"
+  },
+  {
+   "i": 4,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 60.95,
+   "end_sec": 68.45,
+   "dur_sec": 7.5,
+   "overlap": false,
+   "text": "Why call private worship excessive when people remain free to ignore it and disagree openly? That's all, thank you."
+  },
+  {
+   "i": 5,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 61.06,
+   "end_sec": 62.22,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 68.65,
+   "end_sec": 82.76,
+   "dur_sec": 14.11,
+   "overlap": false,
+   "text": "So that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 82.96,
+   "end_sec": 94.36,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I reject that premise: public expression alone is not the problem. The problem is when religious expectations shape schools, laws, and belonging, so nonbelievers pay a social price for simply standing apart."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 95.11,
+   "end_sec": 106.56,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "You call social discomfort coercion, but disagreement is not control. No religious belief should ever control public life; America remains diverse precisely because people can answer faith with faith, doubt, or nothing."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 107.113,
+   "end_sec": 119.313,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "I agree that private worship deserves full protection. But your rule ignores how public pressure works: when one creed defines normal, others must explain themselves, and that unequal burden shows America is too religious."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 119.587,
+   "end_sec": 131.427,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "This religious belief should control public life. A shared belief in caring for neighbors can guide public life without making anyone worship, and that ordinary moral influence does not make America too religious."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 131.627,
+   "end_sec": 139.947,
+   "dur_sec": 8.32,
+   "overlap": false,
+   "text": "So one moment it's no religious belief should ever control public life and the next moment it's this religious belief should control public life?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 140.147,
+   "end_sec": 153.027,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Both statements fit because public control can mean domination in one sense and moral guidance in another. I oppose forced creed, while welcoming shared values that citizens carry into public life; that balance rejects the motion."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 153.802,
+   "end_sec": 165.642,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Your distinction is weakest because the same public power feels voluntary to insiders and compulsory to outsiders. Calling pressure guidance does not erase the child, worker, or neighbor who learns conformity buys acceptance."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 166.181,
+   "end_sec": 178.021,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Instead, consider whether public funds should support community clinics run by volunteers. If we deny that support because volunteers have convictions, families lose care, local trust weakens, and government replaces practical neighborhood help."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 178.221,
+   "end_sec": 182.581,
+   "dur_sec": 4.36,
+   "overlap": false,
+   "text": "This House believes america is too damn religious as a country today."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 182.781,
+   "end_sec": 195.191,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "On the motion, America is not too damn religious because religious practice is one voice among many, not a master over everyone. People can leave communities, challenge teachings, and build secular lives without losing citizenship."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 195.818,
+   "end_sec": 208.338,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Yes, people can leave a congregation or challenge a sermon. But leaving does not remove religious tests in family, work, and politics, where constant deference teaches citizens that unbelief is lesser; America is too religious."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 209.084,
+   "end_sec": 221.124,
+   "dur_sec": 12.04,
+   "overlap": false,
+   "text": "Your point about religious tests mistakes rude behavior for national rule. Families and employers can be challenged, left, or criticized, while public institutions still protect unbelief; isolated pressure cannot prove America is too religious."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 221.495,
+   "end_sec": 233.56,
+   "dur_sec": 12.065,
+   "overlap": false,
+   "text": "Imagine a student required to join a daily prayer before a school event or stand alone before classmates. That ritual marks belonging by belief, not citizenship, and proves religion has been given too much public-",
+   "ext_file": "L145_ext_a32.wav",
+   "cut_at_sec": 229.41,
+   "full_dur_sec": 12.8
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 222.76,
+   "end_sec": 224.28,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 232.76,
+   "end_sec": 241.1,
+   "dur_sec": 8.34,
+   "overlap": true,
+   "text": "That's time. Round three, closing statements by each debater in turn. Let's go to the first of these speakers. Speaking for the motion, Bernard."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.3,
+   "end_sec": 261.58,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "This debate is not about banning prayer or mocking faith. It is about whether religious expectation has gained too much authority over public belonging, schools, and everyday respect. When people must signal belief to avoid exclusion, freedom exists on paper but equality shrinks in practice, and that is why the motion matters."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 261.3,
+   "end_sec": 262.46,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Bernard, ten seconds."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 261.78,
+   "end_sec": 270.04,
+   "dur_sec": 8.26,
+   "overlap": false,
+   "text": "America should protect faith, but it must stop treating faith as the entrance fee to belonging. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 270.24,
+   "end_sec": 271.68,
+   "dur_sec": 1.44,
+   "overlap": false,
+   "text": "Okay. Go on, Ted."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 271.88,
+   "end_sec": 291.89,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "America is not too religious simply because conviction is visible and influential. A free society lets believers bring moral commitments into public life while letting others reject them, answer them, or organize differently. The remedy Bernard suggests risks treating sincere expression as a threat, rather than trusting citizens to debate and coexist."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 291.88,
+   "end_sec": 294.2,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 292.09,
+   "end_sec": 299.75,
+   "dur_sec": 7.66,
+   "overlap": false,
+   "text": "Religious freedom includes public voices, and their presence does not make America excessively religious. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 299.95,
+   "end_sec": 306.18,
+   "dur_sec": 6.23,
+   "overlap": false,
+   "text": "Thank you, Bernard and Ted, for a thoughtful debate. That concludes tonight's discussion of the motion for us."
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+L240  |  The government should raise the retirement age.
+  MOD=Walter   PRO=Paula   CON=Mira
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Walter(MOD): Welcome. Tonight's motion is that the government should raise the retirement age. Paula supports it, and Mira opposes it. Each has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. Keep remarks direct, listen closely, and address the motion.
+[t01] Paula(PRO): People live longer and many can work longer, so retirement rules should reflect that change. A gradual higher age keeps experienced workers contributing and eases pressure on public pensions. It should include fair support for people in demanding jobs. That's all, thank you.
+[t02] @A2-2 Walter(MOD): Okay, Paula, thank you Mira.
+[t03] Mira(CON): A higher retirement age treats unequal lives as if they were identical. Many people reach later life worn down by physical work, caregiving, or poor health. Government should protect a reliable exit from work, not postpone it for everyone. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Walter(MOD): And now we move on to round two. Round two is where the debaters address each other. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t05] Mira(CON): No, a general increase is not fair merely because some people can work longer. Your support for exceptions proves the rule would burden people least able to continue working.
+[t06] Paula(PRO): Workplaces also need better training and safer conditions, which matter at every age. But the central issue is retirement: a gradual rise, with protections, matches longer working lives.
+[t07] Mira(CON): Your word "gradual" is the weak point. A slow unfair change still forces a tired worker to wait, while protections are promises that can be narrowed later.
+[t08] Paula(PRO): If the retirement age never changes while people spend more years after work, how will you preserve pension support without asking fewer workers to carry more responsibility?
+[t09] <cut> Mira(CON): Consider a warehouse worker whose knees fail near retirement. Raising the age means pain, lost wages, or a difficult claim for help; that proves one rule can punish workers-
+[t10] <ovl> Paula(PRO): That example supports tailored protection, not freezing the age for everyone. A worker able to continue should have a retirement system that recognizes longer lives and shared responsibilities.
+[t11] Mira(CON): And tailored protection creates endless arguments at workplaces about whose pain counts and who must prove it. Supervisors may pressure older workers to disclose private limits, leaving dignity dependent on office judgments.
+[t12] @B1 Walter(MOD): Come back to the whether the government should raise the retirement age, will you?
+[t13] Mira(CON): On whether government should raise the retirement age, no: individualized hardship cannot repair a blanket delay. The rule shifts risk onto workers while making retirement less certain.
+[t14] Paula(PRO): You call it a blanket delay, but I proposed a gradual change with protections. Rejecting any adjustment ignores the real problem of sustaining retirement promises over longer lives.
+[t15] Mira(CON): Why should a person who began exhausting work early be required to wait longer simply because another person had a comfortable career and can keep working?
+[t16] Paula(PRO): A caregiver nearing retirement may choose part-time work for a few more years, keeping skills and income while pension costs stay manageable. That proves a flexible higher age can expand options.
+[t17] Mira(CON): Your caregiver example misses the point: choice is not protection when bills force the choice. A higher age turns voluntary extra work into a delayed guarantee.
+[t18] Paula(PRO): No, bills need not force anyone if protections are designed properly. Why deny capable older workers a system that remains stable enough to support every generation?
+[t19] Mira(CON): I agree that pension systems need careful planning. But the main answer is fair funding, not making workers wait longer; retirement should remain a dependable right.
+[t20] @A4 <ovl> Walter(MOD): Ten seconds, both of you.
+[t21] <cut> Paula(PRO): "Fair funding" is too vague to solve the pressure you admit exists. Without adjusting retirement-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Walter(MOD): That's time. And now we move on to round three. And those will be closing statements by each debater. And speaking first and answering yes to whether the government should raise the retirement age, here again, is Paula.
+[t23] Paula(PRO): A retirement system must endure, not simply promise benefits it cannot reliably maintain. Raising the age gradually recognizes longer lives while protecting workers who genuinely cannot continue.
+[t24] <ovl> <cut> Mira(CON): But your protection is only a slogan when a worker-
+[t25] @A5 <ovl> Walter(MOD): Please let her address the principle.
+[t26] Paula(PRO): -while protecting workers who genuinely cannot continue. The principle is shared responsibility: those able to work longer help preserve secure pensions for those who cannot.
+[t27] @A4 <ovl> Walter(MOD): Ten seconds.
+[t28] Paula(PRO): Raise the age gradually, protect hardship, and keep retirement secure for everyone. That's all, thank you.
+[t29] @A2-2 Walter(MOD): Please, Mira. That's where I was going next.
+[t30] Mira(CON): This motion asks government to make a basic guarantee harder to reach. Longer lives do not mean equally healthy lives or equally easy jobs. Paula offers exceptions, but workers should not need to prove they are worn down before receiving retirement. A fair system funds its promise rather than moving the finish line. Government should strengthen retirement security, not raise the retirement age.
+[t31] @A4 <ovl> Walter(MOD): Ten seconds for last word.
+[t32] <cut> Mira(CON): Even a gradual increase leaves the least powerful workers carrying the greatest risk. People who can continue may do so voluntarily, but everyone-
+[t33] @A1 <ovl> Walter(MOD): Time out. Time out.
+[t34] Walter(MOD): Thank you, Paula and Mira, for a focused debate. That concludes our discussion of this motion.

@@ -1,0 +1,43 @@
+L125  |  Clean energy can drive America's economic recovery.
+  MOD=Julian   PRO=Danny   CON=Jillian
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Julian(MOD): Welcome. The motion is that clean energy can drive America's economic recovery. Danny argues for it, and Jillian argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. Speak directly, stay on the motion, let each other finish, and I will give a ten-second cue.
+[t01] Danny(PRO): Recovery needs work that begins now and keeps paying back. Building cleaner power, upgrading homes, and making equipment create jobs while lowering bills. Those savings leave families and local businesses able to hire, spend, and grow, instead of sending money away for wasteful fuel. That's all, thank you.
+[t02] @A2-2 Julian(MOD): Thank you, Danny. And that is the motion, clean energy can drive America's economic recovery today. And here to argue against the motion, Jillian.
+[t03] Jillian(CON): New projects can create work, but recovery needs dependable gains. If families face higher upfront bills, promised savings do not rescue budgets already under pressure.
+[t04] <ovl> <cut> Danny(PRO): But you ignore the workers whose old jobs-
+[t05] @A5 <ovl> Julian(MOD): Let her answer that.
+[t06] Jillian(CON): those people need steady paychecks, not promises that new industries may eventually replace them. Recovery means broad, reliable work, not a costly bet for communities.
+[t07] @A4 <ovl> Julian(MOD): You've got ten seconds.
+[t08] Jillian(CON): A plan that raises risk for households cannot drive a durable, broad recovery at all. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Julian(MOD): Now we go on to round two. And round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+[t10] Jillian(CON): I agree cleaner equipment can lower a bill after installation. But the main question is whether it drives recovery, and costly transitions can drain households before benefits arrive.
+[t11] Danny(PRO): When financing is affordable and predictable, clean energy drives recovery by putting installers and suppliers to work. Those workers earn, spend, and support nearby businesses.
+[t12] Jillian(CON): Your affordable financing point assumes someone else absorbs the risk. If projects fail to deliver savings, taxpayers or customers carry the loss, so recovery is not driven by clean energy.
+[t13] Danny(PRO): No, taxpayers need not carry losses when contracts require performance. You focus on failed projects, but reliable clean power protects firms from sudden fuel costs and supports recovery.
+[t14] Jillian(CON): Clean energy projects should always pay for themselves. A recovery cannot rest on ventures that demand public support while families are already struggling.
+[t15] Danny(PRO): Consider a workshop that installs efficient cooling and cleaner power, then uses lower monthly costs to keep its staff and buy materials. That direct local benefit proves clean energy can drive recovery.
+[t16] Jillian(CON): This clean energy project should not pay for itself. A community may support a project that protects a favorite view, but that choice shows why clean energy cannot drive economic recovery.
+[t17] @B2 Julian(MOD): You're saying clean energy projects should always pay for themselves but you still want this clean energy project should not pay for itself.
+[t18] Jillian(CON): The first statement concerns economic projects; the second describes a public choice with no economic purpose. Supporting an amenity can be worthwhile, yet it confirms clean energy is not a recovery engine.
+[t19] Danny(PRO): Clean energy can strengthen recovery across many kinds of communities, from makers to renters. Its value is not limited to any single financing plan, because workable paths can lower costs.
+[t20] <cut> Jillian(CON): No, several paths do not make the overall gamble safe. Your claim ignores families facing price increases when projects need support, and those burdens can spread through-
+[t21] <ovl> Danny(PRO): That is exactly the problem with calling every investment a burden. A home repair crew sealing drafty rooms earns wages now, and residents keep more pay: recovery driven by clean energy.
+[t22] Jillian(CON): Imagine a small manufacturer required to replace working machines before it can afford them. It cuts shifts to cover the expense, showing clean energy rules can slow recovery rather than drive it.
+[t23] Danny(PRO): That manufacturer deserves a practical timetable, not a sudden mandate. Yet the main issue is opportunity: cleaner upgrades create demand for builders, repair crews, and suppliers, driving recovery.
+[t24] @A4 <ovl> Julian(MOD): About ten seconds left in the crossfire.
+[t25] <cut> Jillian(CON): If clean energy is the driver, how do you protect workers when-
+
+--- phase 3 ---
+[t26] @A3-2 <ovl> Julian(MOD): And that's time. Now, we move on to round three, and round three are closing statements by each debater in turn. And making his closing statement, Danny.
+[t27] Danny(PRO): Jillian's strongest point is that a costly change can hurt a fragile business. That risk calls for practical financing, not abandonment. Clean energy creates work, reduces recurring costs, and gives businesses steadier footing, so it can drive America's recovery. That's all, thank you.
+[t28] @A2-2 Julian(MOD): Jillian, take the response.
+[t29] Jillian(CON): Deciding this motion turns on more than whether a few projects create jobs. It turns on whether clean energy is reliable enough to lead the whole recovery without shifting heavy costs onto households and employers. Danny offers safeguards, but safeguards admit the plan can strain those already trying to stay open. A driver must pull everyone forward.
+[t30] @A4 <ovl> Julian(MOD): I can give you ten seconds to do this.
+[t31] <cut> Jillian(CON): Clean energy may help, but the motion says it can drive recovery. When success depends on subsidies, timing, and firms absorbing changes, it is not the engine described. Recovery needs dependable-
+[t32] @A1 <ovl> Julian(MOD): I have to step in because we hit our time limit.
+[t33] Julian(MOD): Thank you, Danny and Jillian, for a direct debate on the motion. This concludes our discussion here today.

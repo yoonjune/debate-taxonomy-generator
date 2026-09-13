@@ -1,0 +1,37 @@
+L176  |  Preserve net neutrality: all data is created equal.
+  MOD=Oliver   PRO=Melissa   CON=Danielle
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Oliver(MOD): Welcome. Today's motion is preserve net neutrality: all data is created equal. Melissa speaks for it, and Danielle speaks against it. Each debater has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed segment ends, and I ask both speakers to address arguments directly.
+[t01] Melissa(PRO): Net neutrality means the network carries messages without selling a faster lane to whoever can pay. That protects a new voice from being buried by an established one. It also keeps the network from becoming a gatekeeper that chooses whose ideas arrive smoothly. Equal treatment is not sameness of content; it is equal access to the road.
+[t02] @A4 <ovl> Oliver(MOD): Melissa, ten seconds.
+[t03] Melissa(PRO): When access depends on payment, the powerful buy visibility while everyone else waits. Preserving neutrality keeps the network open for ordinary users, creators, and rivals. That's all, thank you.
+[t04] @A2-2 Oliver(MOD): Thank you, Melissa. And that is the motion, preserve net neutrality: all data is created equal. And here making her opening statement against the motion, Danielle.
+[t05] Danielle(CON): Melissa's access point matters, but equal packets do not always serve equal people. A network sometimes needs to prioritize urgent traffic or offer better service that users choose. Banning every distinction treats useful management like censorship and freezes improvements that could help people more. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Oliver(MOD): That concludes round one. Now on to round two. It's our middle round. And it's where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t07] Danielle(CON): Your access point assumes every difference is a paywall, Melissa. Why should a user who wants a smoother service be barred from choosing it, when that choice can fund better networks for everyone?
+[t08] Melissa(PRO): When a provider owns a service that competes with an independent one, it must not favor its own traffic. That conflict lets a gatekeeper pick winners, which is why neutrality protects choice.
+[t09] Danielle(CON): I believe every data stream must always receive the same treatment. If carrying data is a service, why deny customers different levels of speed they willingly purchase?
+[t10] Melissa(PRO): I reject the premise that a gated speed tier is a free choice; I would prevent it. Your rule ignores that providers can manufacture scarcity and charge people to escape it.
+[t11] Danielle(CON): An emergency data stream does not receive the same treatment. Sending a danger warning first can protect people, and refusing that priority merely worships a slogan instead of serving users.
+[t12] @B2 Oliver(MOD): You said every data stream must always receive the same treatment, but you see it as an emergency data stream does not receive the same treatment.
+[t13] Danielle(CON): I keep both statements because equal treatment is the ideal, yet emergency priority serves the people behind data. That tension shows neutrality needs flexibility, not a rigid command.
+[t14] <cut> Melissa(PRO): Your emergency-priority point confuses limited safety routing with paid discrimination. Neutrality can allow reasonable technical handling while forbidding providers from turning access into a private toll road, and your claim that flexibility requires unequal treatment-
+[t15] <ovl> Danielle(CON): No, technical exceptions invite the same gatekeepers you fear to label profitable traffic special. Once rules become flexible, smaller services cannot know whether delay reflects congestion or a rival's deal.
+[t16] Melissa(PRO): The network should be neutral for everyone using it, because no speaker should need an owner's permission to reach listeners. That public principle includes every user, while my conflict rule targets abuse.
+[t17] Danielle(CON): People also care about confusing bills and whether service workers can explain them honestly. But the motion is about equal data, and rigid equality blocks offers that let people choose the service they value.
+[t18] Melissa(PRO): I agree hidden delays are unfair, and providers should disclose traffic management. But disclosure cannot cure a paid fast lane; smaller voices still lose a fair chance. Neutrality keeps that chance open.
+[t19] Danielle(CON): Your disclosure point is weak because it assumes users can police complex routing after harm occurs. People may see a label, but they cannot force a provider to expand capacity or lower a premium price.
+[t20] @A4 <ovl> Oliver(MOD): You have ten seconds left.
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Oliver(MOD): Time's up. And now we move on to round three. Round three, closing statements from each debater in turn. And here to make her closing statement, Melissa.
+[t22] Melissa(PRO): Danielle's emergency example was the strongest challenge, but it does not justify selling ordinary access to the highest bidder. We can handle genuine technical needs without giving providers power to favor their own services. The core issue is who controls a person's path to an audience. Neutrality keeps that control from becoming a price.
+[t23] @A4 <ovl> Oliver(MOD): You've got ten seconds.
+[t24] <cut> Melissa(PRO): An open baseline lets new ideas compete before money decides who is heard. It protects users from quiet pressure and keeps providers accountable to the people relying on them-
+[t25] @A2-1 <ovl> Oliver(MOD): You're out of time. And here to summarize her position, Danielle.
+[t26] Danielle(CON): Equal opportunity matters, but forcing every packet into one rule ignores what people need from a network. Urgent alerts, chosen service levels, and practical management can make access more useful. Preserve fairness by stopping abuse, not by declaring that every kind of data deserves identical treatment. That's all, thank you.
+[t27] Oliver(MOD): Thank you, Melissa and Danielle, for a thoughtful debate. This concludes our discussion of the motion for today.

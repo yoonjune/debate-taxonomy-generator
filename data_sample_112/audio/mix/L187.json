@@ -1,0 +1,426 @@
+{
+ "debate_id": "L101",
+ "motion": "The President Has Usurped the Constitutional Power of Congress",
+ "speakers": {
+  "MOD": {
+   "name": "Zach",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2392_110",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2392/MSP-PODCAST_2392_110.wav",
+   "wpm": 165.84
+  },
+  "PRO": {
+   "name": "Aiden",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5993_347",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5993/MSP-PODCAST_5993_347.wav",
+   "wpm": 163.88
+  },
+  "CON": {
+   "name": "Jonathan",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 88.47,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 317.23,
+ "ext": {
+  "a32": {
+   "file": "L101_ext_a32.wav",
+   "place_at_sec": 229.359,
+   "dur_sec": 23.65,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "That delay does not prove usurpation, because lawful executive action often must occur before Congress revisits a statute. Your funding example still depends on authority Congress created, so the motion fails."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.24,
+   "dur_sec": 19.24,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion: \"The President Has Usurped the Constitutional Power of Congress.\" Aiden argues for it; Jonathan argues against. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. Keep remarks direct and address the motion fairly."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.44,
+   "end_sec": 39.38,
+   "dur_sec": 19.94,
+   "overlap": false,
+   "text": "The Constitution gives Congress lawmaking and spending authority. When a president uses broad orders to create lasting rules or redirects money after lawmakers refused, that replaces public deliberation with one office. Emergency action can be necessary, but this pattern lets executive preference do Congress's work and leaves citizens with less representation."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.44,
+   "end_sec": 41.4,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.58,
+   "end_sec": 47.23,
+   "dur_sec": 7.65,
+   "overlap": false,
+   "text": "That is usurpation, because constitutional powers mean little when another branch routinely exercises them instead. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 47.43,
+   "end_sec": 49.75,
+   "dur_sec": 2.32,
+   "overlap": false,
+   "text": "I'm going to let Jonathan answer."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 49.95,
+   "end_sec": 70.31,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Presidents execute laws and respond when Congress has already given them authority. Using that authority is not stealing power; it is carrying out power Congress chose to delegate. Courts and lawmakers remain able to check abuses, revise statutes, restrict funds, or reject nominees. The motion mistakes disputed policy for a constitutional takeover, and that mistake matters."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 69.95,
+   "end_sec": 72.11,
+   "dur_sec": 2.16,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 70.51,
+   "end_sec": 81.65,
+   "dur_sec": 11.14,
+   "overlap": false,
+   "text": "A president may act boldly, but bold action within delegated authority does not erase Congress's role. The real safeguard is political accountability, not calling every executive decision usurpation. That's all, thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 81.85,
+   "end_sec": 92.53,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "And that concludes round one. Now, on to round two where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 92.73,
+   "end_sec": 103.83,
+   "dur_sec": 11.1,
+   "overlap": false,
+   "text": "When a president redirects money Congress refused to approve toward a favored project, communities lose services lawmakers chose and voters cannot trace public responsibility. That proves executive substitution harms representative control."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 104.425,
+   "end_sec": 115.905,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "That example assumes the president may freely ignore Congress, which I reject; lawful redirection follows authority Congress supplied. If lawmakers dislike it, they can narrow that authority, so Congress remains constitutionally dominant."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.705,
+   "end_sec": 127.535,
+   "dur_sec": 10.83,
+   "overlap": false,
+   "text": "When Congress has expressly rejected a policy, the president cannot revive it through an order without taking legislative power. Calling that execution ignores the condition Congress itself imposed on executive action."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 128.445,
+   "end_sec": 139.845,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Your express-rejection point mistakes disagreement over legal authority for usurpation. If an existing law permits action, the president may act despite a later failed proposal, because failure does not erase enacted authority."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 140.576,
+   "end_sec": 151.686,
+   "dur_sec": 11.11,
+   "overlap": false,
+   "text": "People also worry about whether orders are efficient, and efficiency may matter in ordinary administration. But the motion concerns who decides major policy, and unilateral presidential choices displace Congress's constitutional role."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.487,
+   "end_sec": 163.247,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Can you name a presidential order here that created a power Congress had never authorized, rather than applying a broad grant? Without that distinction, your charge confuses delegation with usurpation."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 164.105,
+   "end_sec": 175.045,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "Yes: spending after Congress expressly said no is such an order. Congress's power is endangered whenever presidents turn vague grants into major policy, because legislators surrender choices the Constitution assigned them."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 175.535,
+   "end_sec": 186.295,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "No, broad grants do not become invalid because their application is significant. Congress deliberately gives flexible authority for changing circumstances, and using it remains execution unless lawmakers withdraw the grant."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.06,
+   "end_sec": 197.57,
+   "dur_sec": 10.51,
+   "overlap": false,
+   "text": "Broad grants can be unwise, and Congress sometimes writes them too loosely. But presidents exploit that looseness to make choices lawmakers must own, so the constitutional balance has been usurped."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 198.504,
+   "end_sec": 209.264,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Your vague-grants argument blames the president for Congress's own legislative design. If Congress wants narrower rules, it can write them; until then, carrying out broad authority does not usurp Congress."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 210.206,
+   "end_sec": 221.316,
+   "dur_sec": 11.11,
+   "overlap": false,
+   "text": "The weakest claim is that Congress can simply fix every overreach later. A delayed correction does not undo a president's immediate policy choice, which already replaced legislative judgment with executive command."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 221.813,
+   "end_sec": 232.933,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "If delayed correction proves usurpation, must every temporary executive decision be unconstitutional until Congress responds? How can your rule preserve a president's duty to act under laws Congress has already enacted?"
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 232.53,
+   "end_sec": 233.77,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 233.419,
+   "end_sec": 243.33,
+   "dur_sec": 9.911,
+   "overlap": false,
+   "text": "No, Congress can pass a corrective law, but that does not excuse a president overriding its clear choice first. When funds are redirected from approved public needs, the damage proves-",
+   "ext_file": "L101_ext_a32.wav",
+   "cut_at_sec": 239.27,
+   "full_dur_sec": 12.41
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 242.53,
+   "end_sec": 248.65,
+   "dur_sec": 6.12,
+   "overlap": true,
+   "text": "Okay, time. So we move on to our closing round. And Aiden, you again have the floor."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 248.85,
+   "end_sec": 268.92,
+   "dur_sec": 20.07,
+   "overlap": false,
+   "text": "Congress's core powers are not suggestions the president may bypass whenever compromise is hard. Spending and lawmaking force competing interests into public agreement. When one office makes those choices alone, the public loses its elected voice. The other side calls that delegation, but delegation cannot authorize a president to undo Congress's clear decisions."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 268.85,
+   "end_sec": 269.61,
+   "dur_sec": 0.76,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 269.12,
+   "end_sec": 280.15,
+   "dur_sec": 11.03,
+   "overlap": false,
+   "text": "Jonathan says lawmakers can correct every overreach later. But a later vote cannot restore the choice Congress was denied when one office set national policy first. That is why this motion matters-",
+   "cut_at_sec": 276.09,
+   "full_dur_sec": 14.64,
+   "ext_file": "L101_027.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 279.35,
+   "end_sec": 282.27,
+   "dur_sec": 2.92,
+   "overlap": true,
+   "text": "Aiden, you're rather going on. Thank you. Jonathan."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 282.47,
+   "end_sec": 302.55,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "Executive action is not automatically a rival legislature. Congress can define authority, fund or defund programs, investigate conduct, and replace rules through legislation. Those are real constitutional tools, not ceremonial leftovers. The strongest point is simple: using authority Congress granted may be contested, but it is not usurpation itself."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 302.47,
+   "end_sec": 303.99,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 302.75,
+   "end_sec": 313.77,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "Your argument treats broad authority as if it disappeared whenever its use is controversial. Congress writes grants, controls funding, and can change law. Calling lawful execution a seizure would-",
+   "cut_at_sec": 309.71,
+   "full_dur_sec": 14.92,
+   "ext_file": "L101_031.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 312.97,
+   "end_sec": 314.57,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 314.77,
+   "end_sec": 321.29,
+   "dur_sec": 6.52,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate on constitutional power, and thank you for listening to this discussion."
+  }
+ ]
+}

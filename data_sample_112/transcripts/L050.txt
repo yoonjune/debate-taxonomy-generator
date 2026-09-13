@@ -1,0 +1,42 @@
+L050  |  The U.S. should ban TikTok.
+  MOD=Aiden   PRO=Emma   CON=Larry
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Aiden(MOD): Welcome. The motion is that the U.S. should ban TikTok; Emma supports it, and Larry opposes it. Each speaker gets thirty seconds for openings, followed by two and a half minutes of crossfire. Keep remarks respectful, answer directly, and avoid interruptions during openings. Then each gets thirty seconds for closings, and I will give a ten-second cue.
+[t01] Emma(PRO): TikTok is not just entertainment. Its design can learn what holds a young person's attention, then feed more of it without meaningful public accountability. A foreign-controlled platform should not have that leverage over American habits and information. A ban is a clear boundary, while users can still create, watch, and connect elsewhere. And the risk does not stop with attention.
+[t02] @A4 <ovl> Aiden(MOD): You've got ten seconds.
+[t03] Emma(PRO): Government has a duty to prevent a hostile power from shaping private feeds at scale. That is why the United States should ban TikTok. That's all, thank you.
+[t04] @A2-2 Aiden(MOD): Emma, let me, let me bring in Larry.
+[t05] Larry(CON): A ban would punish millions for using a tool that lets ordinary people speak, learn, and earn. Government should address proven misconduct, not erase an entire forum when the danger lies in
+[t06] <ovl> <cut> Emma(PRO): Larry, you keep saying proven misconduct, but-
+[t07] @A5 <ovl> Aiden(MOD): Yes. You go ahead, Larry.
+[t08] Larry(CON): how hidden influence works, and suspicion is not enough to silence everyone. If control is the concern, why not require transparency, data limits, and independent review instead?
+[t09] @A4 <ovl> Aiden(MOD): Well, now it's ten.
+[t10] Larry(CON): Rules can restrain harm without banning TikTok, so the United States should reject a ban. That's all, thank you.
+
+--- phase 2 ---
+[t11] @A3-1 Aiden(MOD): And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. Two and a half minutes on the clock, starting the moment I stop talking.
+[t12] Emma(PRO): No, transparency and data limits cannot solve a platform whose owner may still control hidden recommendations. You ask us to trust rules that arrive after influence spreads, while a ban removes that leverage.
+[t13] Larry(CON): Consider a small craft seller who posts short demonstrations, answers questions, and finds customers without paying a gatekeeper. A ban can erase that livelihood overnight, proving broad censorship harms ordinary voices and should be rejected.
+[t14] Emma(PRO): Your seller point ignores the platform behind the seller. People can sell and speak through other services, but no convenience justifies leaving a foreign-controlled feed able to steer attention nationwide, so ban it.
+[t15] Larry(CON): That nationwide concern also raises the question of family authority over screens. Parents can set bedtime limits, discuss addictive design, and teach judgment; those daily choices shape healthier habits than punishment from above.
+[t16] @B1 Aiden(MOD): No, whether the United States should ban the TikTok app, whether the United States should ban the TikTok app. Those are the key words.
+[t17] Larry(CON): The question is whether the United States should ban TikTok, and it should not. A government ban trades one feared influence for a certain loss of speech, work, and choice for every user.
+[t18] <cut> Emma(PRO): Your weakest claim is that a ban merely removes choice. Choice is hollow when a hidden system curates what people see, especially young users, and leaving that system untouched means accepting-
+[t19] <ovl> Larry(CON): No, Emma, the system is not beyond control. We regulate harmful practices in many settings, and demanding safeguards from a platform preserves users' rights while addressing abuse directly without a ban.
+[t20] Emma(PRO): Imagine a teenager searching for harmless fitness clips, then being repeatedly pushed toward extreme material because outrage keeps attention. Removing that recommendation machine protects users before manipulation deepens, proving a TikTok ban is justified.
+[t21] Larry(CON): Young people also need better media education, and families should teach skepticism about every feed. But education and enforceable disclosure beat prohibition, so the United States should not ban TikTok.
+[t22] Emma(PRO): If disclosure is enough, Larry, how can users verify or challenge an algorithm they cannot see, and why should the United States leave that power in place rather than ban TikTok?
+[t23] Larry(CON): I agree users deserve clearer explanations of recommendations. But uncertainty about an algorithm is not proof that government may silence a whole forum, and the United States should not ban TikTok.
+[t24] <cut> Emma(PRO): Your weakest move is calling a ban silence, because users keep their voices and other outlets. Why should one company's access to Americans outweigh protecting them from a platform they cannot meaningfully-
+[t25] @A4 <ovl> Aiden(MOD): Ten seconds left on the clock.
+
+--- phase 3 ---
+[t26] @A3-2 <ovl> Aiden(MOD): And that's time. Okay. Let's all redeem ourselves with our closing statements. So Emma, you're up first.
+[t27] Emma(PRO): Larry's best argument is that a ban burdens speakers and small businesses. That cost matters, but it does not require preserving one particular platform when other ways to reach people remain. The deeper issue is whether a foreign-controlled recommendation system may shape American attention behind closed doors. There is a further reason this risk cannot be managed away.
+[t28] @A4 <ovl> Aiden(MOD): Ten seconds for last word.
+[t29] <cut> Emma(PRO): A ban does not erase expression; it ends one risky channel while alternatives remain. Disclosure rules depend on catching decisions after damage. If we wait for proof, families-
+[t30] @A2-1 <ovl> Aiden(MOD): Emma, you're rather going on. Thank you. Larry.
+[t31] Larry(CON): Emma is right that opaque recommendations deserve scrutiny, but a ban is a blunt answer that punishes users without proving each one is harmed. We can require transparency, limits, and penalties for abuse. Defending security should mean controlling misconduct, not deleting a forum, so the United States should not ban TikTok. That's all, thank you.
+[t32] Aiden(MOD): Thank you, Emma and Larry, for a spirited exchange, and thank you for joining this debate. We are now concluded.

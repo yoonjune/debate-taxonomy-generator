@@ -1,0 +1,387 @@
+{
+ "debate_id": "L019",
+ "motion": "Long live the British monarchy",
+ "speakers": {
+  "MOD": {
+   "name": "Abigail",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3725_146",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3725/MSP-PODCAST_3725_146.wav",
+   "wpm": 172.52
+  },
+  "PRO": {
+   "name": "Melissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "CON": {
+   "name": "Noah",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  }
+ },
+ "selective": [
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 74.12,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 282.4,
+ "ext": {
+  "a32": {
+   "file": "L019_ext_a32.wav",
+   "place_at_sec": 218.997,
+   "dur_sec": 21.48,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Imagine a hereditary ruler receiving public honors after refusing accountability for serious misconduct. That example shows the danger clearly: inherited status can protect privilege, so the monarchy should not be celebrated."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.08,
+   "dur_sec": 17.08,
+   "overlap": false,
+   "text": "Welcome to the debate on the motion, \"the claim that long live the British monarchy.\" Melissa argues for it, and Noah argues against it. Each gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I'll give a ten-second cue before each limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.28,
+   "end_sec": 37.16,
+   "dur_sec": 19.88,
+   "overlap": false,
+   "text": "I support the motion because a monarchy can offer continuity without claiming that rulers are flawless. In unsettled moments, a visible constitutional symbol can steady public life, preserve shared ceremony, and give citizens a familiar thread across generations. It can also stand above daily party combat, while elected leaders still make laws and face voters. That balance matters because"
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 37.28,
+   "end_sec": 38.68,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 37.36,
+   "end_sec": 45.96,
+   "dur_sec": 8.6,
+   "overlap": false,
+   "text": "a nation needs both democratic control and durable symbols. The monarchy can adapt, accept limits, and represent continuity without ruling ordinary political choices."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 46.16,
+   "end_sec": 47.32,
+   "dur_sec": 1.16,
+   "overlap": false,
+   "text": "So the floor is yours."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 47.52,
+   "end_sec": 63.72,
+   "dur_sec": 16.2,
+   "overlap": false,
+   "text": "I oppose the motion because birth is not a sound basis for public authority or special status. A monarchy may provide ceremony, but ceremony cannot justify inherited privilege. Citizens can share traditions and respect history without keeping a hereditary institution at the center of national life."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 63.92,
+   "end_sec": 74.12,
+   "dur_sec": 10.2,
+   "overlap": false,
+   "text": "And now we move on to round two. Round two is where the debaters address each other. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 74.32,
+   "end_sec": 83.64,
+   "dur_sec": 9.32,
+   "overlap": false,
+   "text": "If the monarchy can provide continuity, ceremony, and a nonpartisan symbol during national strain, why should citizens declare it finished rather than preserve that useful institution?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 84.07,
+   "end_sec": 96.75,
+   "dur_sec": 12.68,
+   "overlap": false,
+   "text": "Ceremony can be comforting, especially at weddings, funerals, and public festivals. But comfort is not a reason to preserve unequal status. The motion asks us to celebrate the institution itself, and inherited privilege makes that celebration unjustified."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 97.126,
+   "end_sec": 106.846,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "I believe every tradition deserves public respect. A monarchy can renew itself, serve constitutional continuity, and remain accountable without becoming perfect, so long as citizens retain a voice."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 107.189,
+   "end_sec": 118.429,
+   "dur_sec": 11.24,
+   "overlap": false,
+   "text": "You say every tradition deserves public respect, but that treats respect as automatic rather than earned. Constitutional continuity can come from law and civic practice, so inherited privilege adds no necessary protection."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 118.803,
+   "end_sec": 128.923,
+   "dur_sec": 10.12,
+   "overlap": false,
+   "text": "This monarchy should lose public respect when it shields serious wrongdoing. In that case, citizens should demand accountability, reform, and a clear break from conduct that damages public trust."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 129.123,
+   "end_sec": 138.683,
+   "dur_sec": 9.56,
+   "overlap": false,
+   "text": "So one moment it's i believe every tradition deserves public respect and the next moment it's this monarchy should lose public respect when it shields serious wrongdoing?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 138.883,
+   "end_sec": 150.043,
+   "dur_sec": 11.16,
+   "overlap": false,
+   "text": "Every tradition deserves basic public respect as a tradition, not unlimited approval of every act. This monarchy can lose respect for wrongdoing while its historical and constitutional role remains worthy of respect."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 150.514,
+   "end_sec": 160.874,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "If citizens must respect the institution even when its conduct is harmful, why should they not replace it with an equal civic symbol that earns support through service rather than birth?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.686,
+   "end_sec": 172.206,
+   "dur_sec": 10.52,
+   "overlap": false,
+   "text": "The larger policy question is how public money should support civic ceremonies. We need clear budgets, open accounts, and regular review, so essential services are not squeezed by expensive pageantry."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 172.406,
+   "end_sec": 176.606,
+   "dur_sec": 4.2,
+   "overlap": false,
+   "text": "It's really off the topic of the motion that long live the British monarchy."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 176.806,
+   "end_sec": 186.926,
+   "dur_sec": 10.12,
+   "overlap": false,
+   "text": "The motion asks whether the British monarchy should endure, and its value lies in continuity that elected governments alone cannot always provide. Reform can preserve that value while correcting abuses."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 187.49,
+   "end_sec": 197.05,
+   "dur_sec": 9.56,
+   "overlap": false,
+   "text": "Your appeal to continuity does not answer the problem of inherited privilege. Governments can provide stability, and civic symbols can unite people without placing one family above equal citizenship."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 198.02,
+   "end_sec": 208.22,
+   "dur_sec": 10.2,
+   "overlap": false,
+   "text": "I grant that public money deserves scrutiny. But scrutiny is not abolition, and a restrained monarchy can provide continuity, ceremony, and a shared focus while democratic institutions retain real power."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 208.929,
+   "end_sec": 218.409,
+   "dur_sec": 9.48,
+   "overlap": false,
+   "text": "The weakest point is that reform supposedly solves the principle. Changing costs or ceremonies does not make inherited status equal, so the monarchy remains unjustified and the motion remains false."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 214.12,
+   "end_sec": 216.08,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 218.997,
+   "end_sec": 224.92,
+   "dur_sec": 5.923,
+   "overlap": false,
+   "text": "If the monarchy performs its public role without governing policy, and if elected leaders remain accountable, why treat-",
+   "ext_file": "L019_ext_a32.wav",
+   "cut_at_sec": 224.92,
+   "full_dur_sec": 10.52
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 224.12,
+   "end_sec": 234.0,
+   "dur_sec": 9.88,
+   "overlap": true,
+   "text": "Time's up. Now we move on to Round Three. Round Three are closing statements by each debater in turn. Making her closing statement in support of the resolution, Melissa."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 234.2,
+   "end_sec": 247.04,
+   "dur_sec": 12.84,
+   "overlap": false,
+   "text": "The strongest point is continuity without political control. A constitutional monarchy can preserve shared symbols, adapt when needed, and leave governing power with elected representatives. That useful balance is why the British monarchy should live long."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 247.24,
+   "end_sec": 249.68,
+   "dur_sec": 2.44,
+   "overlap": false,
+   "text": "So, Noah, can we let Noah come in?"
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 249.88,
+   "end_sec": 270.08,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "The decision turns on whether tradition can justify unequal status. Ceremony may comfort people, and continuity may sound valuable, but neither requires hereditary privilege. We can preserve history, honor public service, and share civic rituals without placing one family above its fellow citizens. The real question is whether inherited status can be justified when"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 269.88,
+   "end_sec": 270.8,
+   "dur_sec": 0.92,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 270.28,
+   "end_sec": 277.68,
+   "dur_sec": 7.4,
+   "overlap": false,
+   "text": "equal citizenship is the principle we claim to defend. It cannot, so this motion should be rejected."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 277.88,
+   "end_sec": 282.4,
+   "dur_sec": 4.52,
+   "overlap": false,
+   "text": "Thank you both for taking part; that concludes the debate without declaring a winner."
+  }
+ ]
+}

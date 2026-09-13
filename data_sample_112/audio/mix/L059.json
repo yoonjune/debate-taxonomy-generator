@@ -1,0 +1,409 @@
+{
+ "debate_id": "L059",
+ "motion": "Humanitarian Intervention Does More Harm Than Good",
+ "speakers": {
+  "MOD": {
+   "name": "David",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6582_423",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6582/MSP-PODCAST_6582_423.wav",
+   "wpm": 164.89
+  },
+  "PRO": {
+   "name": "Betsy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  },
+  "CON": {
+   "name": "Annette",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2678_246",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2678/MSP-PODCAST_2678_246.wav",
+   "wpm": 168.22
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 63.2,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 295.6,
+ "ext": {
+  "a32": {
+   "file": "L059_ext_a32.wav",
+   "place_at_sec": 203.789,
+   "dur_sec": 27.16,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "You are right that a narrow rescue goal sounds humane. But plans do not control reactions, and every new armed presence changes incentives; intervention can still prevent the greater harm."
+  },
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X16",
+   "text": "If intervention's benefits depend on perfect verification, limits, and cooperation, why risk civilians on conditions outsiders cannot guarantee?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.73,
+   "dur_sec": 16.73,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is Humanitarian Intervention Does More Harm Than Good. Betsy supports the motion; Annette opposes it. Each has thirty seconds for an opening, followed by two and a half minutes of crossfire. Then each has thirty seconds to close. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.93,
+   "end_sec": 33.65,
+   "dur_sec": 16.72,
+   "overlap": false,
+   "text": "Humanitarian intervention promises rescue, yet it hands grave power to outsiders who cannot own the aftermath. Force can topple a threat while breaking local order and making civilians targets. Because interventions regularly widen violence and dependence, they do more harm than good. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 33.85,
+   "end_sec": 36.26,
+   "dur_sec": 2.41,
+   "overlap": false,
+   "text": "Annette has the floor right now."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 36.46,
+   "end_sec": 54.4,
+   "dur_sec": 17.94,
+   "overlap": false,
+   "text": "Doing nothing is also a choice, and it can leave people exposed to immediate violence. Intervention need not mean conquest: requested, limited protection can create room for local recovery. Because carefully bounded action can prevent catastrophe, it does not do more harm than good. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 54.6,
+   "end_sec": 67.22,
+   "dur_sec": 12.62,
+   "overlap": false,
+   "text": "That concludes round one. Now on to round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 67.42,
+   "end_sec": 77.42,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "Annette says careful intervention can protect civilians. But outside forces misread local conflicts, empower armed partners, and leave shattered institutions behind; good intentions do not erase predictable harm."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 77.933,
+   "end_sec": 87.213,
+   "dur_sec": 9.28,
+   "overlap": false,
+   "text": "Your claim that outsiders inevitably misread conflicts is weakest: local people can request protection and help guide it. Refusing them assistance because errors might occur abandons-"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 86.313,
+   "end_sec": 95.673,
+   "dur_sec": 9.36,
+   "overlap": true,
+   "text": "No, refusing reckless force is not refusing people. Your requested-protection point ignores who gets recognized as local voices; intervention often selects allies, then deepens the conflict."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 96.447,
+   "end_sec": 106.087,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "When a genuine local coalition requests limited protection and outsiders accept strict oversight, intervention can save lives. Why should civilians lose that option because past missions failed?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 106.453,
+   "end_sec": 116.093,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "They should not lose protection, but your premise treats military intervention as the only option. Oversight cannot control foreign commanders once violence starts, so limited missions expand."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 116.299,
+   "end_sec": 127.339,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Imagine armed groups surrounding a neighborhood while residents ask for a protected exit. Outside forces secure the route, families leave safely, and attackers retreat. That proves intervention can prevent immediate harm."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 127.826,
+   "end_sec": 137.546,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "Your protected-exit point assumes outsiders can secure a route without becoming combatants. Once they fight attackers, civilians face reprisals and dependency, so temporary rescue can multiply danger."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 138.477,
+   "end_sec": 148.037,
+   "dur_sec": 9.56,
+   "overlap": false,
+   "text": "The larger problem is how receiving communities handle people fleeing violence. Fair entry rules, housing, schools, and work permits determine whether displaced families can rebuild stable lives."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 148.237,
+   "end_sec": 154.567,
+   "dur_sec": 6.33,
+   "overlap": false,
+   "text": "Please address the issue that I did raise, which is whether humanitarian intervention does more harm than good."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 154.767,
+   "end_sec": 165.047,
+   "dur_sec": 10.28,
+   "overlap": false,
+   "text": "On whether intervention does more harm than good, it does not when protection is requested and constrained. Those safeguards can stop slaughter without replacing local leadership or permanent occupation."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 165.539,
+   "end_sec": 174.859,
+   "dur_sec": 9.32,
+   "overlap": false,
+   "text": "Long-term aid also matters, because clinics and schools shape recovery after violence. But aid cannot undo the coercion intervention creates, so the motion remains true overall."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 175.677,
+   "end_sec": 185.597,
+   "dur_sec": 9.92,
+   "overlap": false,
+   "text": "Intervention is often the only rapid shield against organized violence, and it need not become occupation. Careful limits protect people while preserving the local authority that must endure."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 186.463,
+   "end_sec": 196.623,
+   "dur_sec": 10.16,
+   "overlap": false,
+   "text": "Consider outsiders arming a militia to defend a town. The militia drives out rivals, revenge follows, and civilians flee; that chain shows intervention can create more harm than safety."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 197.043,
+   "end_sec": 206.963,
+   "dur_sec": 9.92,
+   "overlap": false,
+   "text": "Your armed-militia example attacks reckless support, not every intervention. With verified local partners, civilian rules, and a narrow rescue goal, protection avoids that spiral and delivers more good."
+  },
+  {
+   "i": 19,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 207.22,
+   "end_sec": 207.82,
+   "dur_sec": 0.6,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 207.809,
+   "end_sec": 217.449,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "The weakest word is verified. Outsiders cannot reliably verify partners during chaos, and your civilian rules mean little when foreign troops decide threats; uncertainty makes harm foreseeable.",
+   "ext_file": "L059_ext_a32.wav"
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 217.22,
+   "end_sec": 225.39,
+   "dur_sec": 8.17,
+   "overlap": true,
+   "text": "Time. First, onto round three, closing statements from each debater in turn. First, to summarize her position in favor of the motion, Betsy."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 225.59,
+   "end_sec": 245.67,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "Annette rightly says people facing attack deserve protection. But her answer assumes outsiders can deliver force with knowledge, restraint, and a clean exit. They usually alter local power, invite retaliation, and leave dependence after headlines fade. The humane instinct is real, yet predictable disruption makes intervention a harmful tool that"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 245.59,
+   "end_sec": 247.68,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 245.87,
+   "end_sec": 256.89,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "cannot be safely managed from afar. Choose diplomacy, refuge, and local relief before sending armed outsiders, because those tools support people without taking control of their future. When a rescue-",
+   "cut_at_sec": 252.87,
+   "full_dur_sec": 14.16,
+   "ext_file": "L059_026.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 256.09,
+   "end_sec": 260.1,
+   "dur_sec": 4.01,
+   "overlap": true,
+   "text": "You're out of time. And here to summarize her position, Annette."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 260.3,
+   "end_sec": 280.62,
+   "dur_sec": 20.32,
+   "overlap": false,
+   "text": "Betsy's strongest warning is that force can empower bad partners and trigger retaliation. That danger demands restraint, but it does not prove every intervention harms more than it helps. Abandoning people during immediate attack also changes power, usually for the attacker. With local request, narrow protection, oversight, and exit plans, intervention can prevent suffering and preserve recovery."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 280.3,
+   "end_sec": 282.31,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 280.82,
+   "end_sec": 291.6,
+   "dur_sec": 10.78,
+   "overlap": false,
+   "text": "from the crisis. That is not a promise of perfection; it is a duty to reduce the worst danger when action can be bounded and checked by those it protects. Refusing-",
+   "cut_at_sec": 287.58,
+   "full_dur_sec": 14.16,
+   "ext_file": "L059_030.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 290.8,
+   "end_sec": 293.33,
+   "dur_sec": 2.53,
+   "overlap": true,
+   "text": "Thank you, Annette. Your time is up."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 293.53,
+   "end_sec": 299.62,
+   "dur_sec": 6.09,
+   "overlap": false,
+   "text": "Thank you, Betsy and Annette, for a thoughtful debate; this concludes our discussion of the motion tonight here."
+  }
+ ]
+}

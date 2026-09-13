@@ -1,0 +1,418 @@
+{
+ "debate_id": "L023",
+ "motion": "Muslim women should be free to marry anyone they choose",
+ "speakers": {
+  "MOD": {
+   "name": "Noah",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0177_72",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0177/MSP-PODCAST_0177_72.wav",
+   "wpm": 170.28
+  },
+  "PRO": {
+   "name": "Vernon",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3001_778",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_3001/MSP-PODCAST_3001_778.wav",
+   "wpm": 164.22
+  },
+  "CON": {
+   "name": "Ross",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4930_104",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4930/MSP-PODCAST_4930_104.wav",
+   "wpm": 173.57
+  }
+ },
+ "selective": [
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 70.36,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 294.77,
+ "ext": {
+  "a32": {
+   "file": "L023_ext_a32.wav",
+   "place_at_sec": 211.844,
+   "dur_sec": 30.51,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "The couple bears it, and no one may impose a marriage to avoid that conflict. Your fracture point assumes difference destroys families; mutual respect can build a home without denying her choice."
+  },
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "I am answering your mutual-respect point. Respect does not erase deep disagreement over worship, children, or obligations, and calling every preference a right leaves families without a voice."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.85,
+   "dur_sec": 21.85,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that Muslim women should be free to marry anyone they choose. Vernon argues for it, and Ross argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address each other directly, stay focused on the motion, and keep your language respectful."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 22.05,
+   "end_sec": 38.8,
+   "dur_sec": 16.75,
+   "overlap": false,
+   "text": "Marriage shapes a woman's daily life, home, and future. She must be able to choose a partner freely, including across faith, background, or family preference. Advice from relatives can be loving and valuable, but control turns marriage into obedience rather than genuine consent. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 39.0,
+   "end_sec": 41.76,
+   "dur_sec": 2.76,
+   "overlap": false,
+   "text": "Okay. I want to go to Ross."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 41.96,
+   "end_sec": 59.19,
+   "dur_sec": 17.23,
+   "overlap": false,
+   "text": "Marriage joins more than two private wishes; it connects families, duties, and shared beliefs. A limitless right to marry anyone ignores serious conflicts that can damage trust and children. Freedom needs boundaries, guidance, and regard for the community that must live with its consequences. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 59.39,
+   "end_sec": 74.02,
+   "dur_sec": 14.63,
+   "overlap": false,
+   "text": "And that concludes opening statements and round one. Now, onto round two. This is where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 74.22,
+   "end_sec": 84.29,
+   "dur_sec": 10.07,
+   "overlap": false,
+   "text": "If a woman understands the choice and freely says yes, why should your family or community have power to veto her marriage? You must answer whose life carries the risk."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 84.86,
+   "end_sec": 95.19,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "When a proposed marriage clearly rejects the couple's shared religious commitments, families may reasonably oppose it. That specific conflict can leave both spouses isolated, so unlimited choice is not wise."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 95.863,
+   "end_sec": 106.123,
+   "dur_sec": 10.26,
+   "overlap": false,
+   "text": "Your religious-commitment point confuses advice with a veto. People can discuss belief honestly, but an adult woman, not relatives, bears the marriage itself and must decide who she loves-"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 106.46,
+   "end_sec": 116.34,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "Marriage needs support beyond private feeling. Families rightly expect a union to respect the values that hold a household together, because those values affect daily life long after the ceremony."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.803,
+   "end_sec": 127.163,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "Your respect-values claim is weakest because respect cannot mean surrendering the choice. A household may offer counsel and still honor her answer; otherwise family approval becomes permission to control."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 127.637,
+   "end_sec": 138.127,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "No woman should ever marry without family approval. Marriage binds families as well as individuals, so that approval protects shared duties and prevents a private decision from harming everyone around her."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 138.508,
+   "end_sec": 148.608,
+   "dur_sec": 10.1,
+   "overlap": false,
+   "text": "You say family approval protects her. If her family rejects a decent partner merely because he comes from another background, why should their refusal decide her future? Please answer."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.116,
+   "end_sec": 159.256,
+   "dur_sec": 10.14,
+   "overlap": false,
+   "text": "That woman should marry without family approval. A cruel family refusal should not trap her, yet that hard case does not prove every Muslim woman should be free to marry anyone."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 159.456,
+   "end_sec": 167.546,
+   "dur_sec": 8.09,
+   "overlap": false,
+   "text": "Ross, thank you very much indeed. You said no woman should ever marry without family approval. That woman should marry without family approval?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 167.746,
+   "end_sec": 178.006,
+   "dur_sec": 10.26,
+   "overlap": false,
+   "text": "Both statements express the same concern: marriage affects a wider circle. I still believe approval matters in every marriage, while in that example a refusal cannot fairly settle her life."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 178.989,
+   "end_sec": 191.329,
+   "dur_sec": 12.34,
+   "overlap": false,
+   "text": "Imagine a woman whose parents reject a kind partner solely because he is from another community. She is forced into a marriage she does not want, loses trust at home, and proves choice protects dignity."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 192.186,
+   "end_sec": 203.156,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "Your forced-marriage example attacks coercion, which I reject, not the limits in this motion. Families can refuse to endorse a match without forcing another one, and their counsel may prevent painful isolation."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 204.087,
+   "end_sec": 214.857,
+   "dur_sec": 10.77,
+   "overlap": false,
+   "text": "I agree families can offer useful counsel, especially when emotions run high. But counsel has force only when she may decline it; the main decision is hers, so freedom must prevail."
+  },
+  {
+   "i": 18,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 214.02,
+   "end_sec": 215.98,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds, both of you."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 215.504,
+   "end_sec": 224.82,
+   "dur_sec": 9.316,
+   "overlap": false,
+   "text": "If anyone includes a partner who rejects her faith, family, and future children, why call that freedom harmless? Who will bear the conflict when private choice fractures the-",
+   "ext_file": "L023_ext_a32.wav",
+   "cut_at_sec": 221.16,
+   "full_dur_sec": 9.79
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 224.02,
+   "end_sec": 234.1,
+   "dur_sec": 10.08,
+   "overlap": true,
+   "text": "Okay, time. Now we move on to Round Three. Round Three are closing statements by each debater in turn. Making his closing statement in support of the resolution, Vernon."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 234.3,
+   "end_sec": 243.71,
+   "dur_sec": 9.41,
+   "overlap": false,
+   "text": "The central question is consent: a marriage cannot be dignified when another person holds the final veto. Families may guide, but they cannot."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 242.81,
+   "end_sec": 245.11,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But you keep treating family concern as domination-",
+   "cut_at_sec": 241.45,
+   "full_dur_sec": 10.29,
+   "ext_file": "L023_024.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 244.31,
+   "end_sec": 246.04,
+   "dur_sec": 1.73,
+   "overlap": true,
+   "text": "I'm sorry, hold on a moment."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 246.24,
+   "end_sec": 256.17,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "cannot replace her judgment. When relatives choose the partner or block one she freely chooses, they make her future conditional on obedience, not consent."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 254.3,
+   "end_sec": 255.03,
+   "dur_sec": 0.73,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 256.37,
+   "end_sec": 263.84,
+   "dur_sec": 7.47,
+   "overlap": false,
+   "text": "She deserves advice, love, and support, but the final choice of spouse must remain hers. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 264.04,
+   "end_sec": 266.54,
+   "dur_sec": 2.5,
+   "overlap": false,
+   "text": "Ross, you have the last word."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.74,
+   "end_sec": 286.69,
+   "dur_sec": 19.95,
+   "overlap": false,
+   "text": "The strongest claim for the motion is that forced marriage is wrong, and I agree; no one should be compelled. But rejecting force does not create an unlimited right to marry anyone, regardless of commitments that make family life workable. Marriage joins responsibilities, faith, and the future of children, so families need a meaningful role in deciding whether a match can endure."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 286.74,
+   "end_sec": 290.63,
+   "dur_sec": 3.89,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 286.89,
+   "end_sec": 295.1,
+   "dur_sec": 8.21,
+   "overlap": false,
+   "text": "Freedom includes lasting duties, so this motion is therefore too broad and should be rejected. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 295.3,
+   "end_sec": 302.09,
+   "dur_sec": 6.79,
+   "overlap": false,
+   "text": "Thank you, Vernon and Ross, for a thoughtful discussion; this debate is now concluded, and we appreciate your participation."
+  }
+ ]
+}

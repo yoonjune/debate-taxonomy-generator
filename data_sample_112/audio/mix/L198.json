@@ -1,0 +1,450 @@
+{
+ "debate_id": "L125",
+ "motion": "China's power has peaked.",
+ "speakers": {
+  "MOD": {
+   "name": "Sheldon",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0341_111",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0341/MSP-PODCAST_0341_111.wav",
+   "wpm": 167.28
+  },
+  "PRO": {
+   "name": "Eric",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3841_60",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3841/MSP-PODCAST_3841_60.wav",
+   "wpm": 170.31
+  },
+  "CON": {
+   "name": "Steve",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 76.42,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 304.07,
+ "ext": {
+  "a32": {
+   "file": "L125_ext_a32.wav",
+   "place_at_sec": 221.517,
+   "dur_sec": 21.72,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "I grant that productive reach gives China resilience. Yet resilience is not ascent: when partners diversify and leaders spend defensively, influence stops expanding, which is why China's power has peaked."
+  },
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Your stops expanding claim is weakest because power can deepen rather than spread. Stronger technology, internal markets, and selective partnerships can raise influence without looking like old expansion."
+  },
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X16",
+   "text": "Your deepening point confuses adaptation with renewed supremacy. Selective ties may soften decline, but they cannot restore the broad confidence and opportunity that made China's earlier position stronger."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.97,
+   "dur_sec": 18.97,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that China's power has peaked. Eric argues for it, and Steve argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before time expires; please address each other directly and keep the exchange focused."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.17,
+   "end_sec": 37.87,
+   "dur_sec": 18.7,
+   "overlap": false,
+   "text": "China's influence reached its high point when its growth, confidence, and room to pressure others moved together. Now debt burdens, aging, wary neighbors, and tighter choices pull in opposite directions. It remains formidable, but a power can be large while its best moment is behind it. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 38.07,
+   "end_sec": 41.52,
+   "dur_sec": 3.45,
+   "overlap": false,
+   "text": "Okay. Eric, let me give the floor back to Steve."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 41.72,
+   "end_sec": 61.97,
+   "dur_sec": 20.25,
+   "overlap": false,
+   "text": "Eric treats present strain as a finish line, but powerful countries adapt through strain. China still has industrial depth, skilled people, and the ability to redirect resources when priorities change. Why should temporary pressures prove a permanent ceiling, especially when rivals also face debt, division, and costly commitments across the world?"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 61.72,
+   "end_sec": 62.32,
+   "dur_sec": 0.6,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 62.17,
+   "end_sec": 70.49,
+   "dur_sec": 8.32,
+   "overlap": false,
+   "text": "A peak means decline is unavoidable, and Eric has not shown any such unavoidable limit. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.69,
+   "end_sec": 81.1,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "We're going to move into our proverbial free-for-all session. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 81.3,
+   "end_sec": 91.3,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "I reject that pressures must be permanent to mark a peak. The question is whether China can regain its former trajectory; debt, demographics, and distrust make that unlikely."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 92.029,
+   "end_sec": 102.789,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Arguments about national pride matter because leaders need public confidence, and public confidence shapes spending choices. But the motion concerns capacity, and China can still convert its scale into power."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 103.05,
+   "end_sec": 113.13,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "Your scale point is weakest: size is not usable power when resources are tied up at home. A vast economy facing shrinking workers and cautious partners cannot simply-"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 113.886,
+   "end_sec": 124.646,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Under the condition that leaders can adjust policy without panic, current strains become a reset rather than a peak. China retains enough production, savings, and state capacity to recover influence."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 125.253,
+   "end_sec": 135.583,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "If adjustment is so easy, why have caution and control increased instead of confidence? Name one path that restores growth, trust, and freedom of action without creating another burden."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 136.496,
+   "end_sec": 147.616,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Those savings can support new factories, but officials must decide which regions receive credit first. A lender favoring exporters may neglect households, while household support changes rents, schools, and local budgets."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 147.816,
+   "end_sec": 158.226,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "But you're on that side of the motion, that's the one that you are supporting. the motion that china's global power has peaked. That's the side that you are on."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 158.426,
+   "end_sec": 169.106,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "The motion asks whether China's power has peaked, and I say no: adjustment capacity means a difficult period need not be the high point. Those local choices can be revised."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 169.686,
+   "end_sec": 179.766,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "I grant that aging makes future growth harder. But Steve's recovery story assumes trust returns on command; neighbors and investors respond to risk, so the peak has passed."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 179.98,
+   "end_sec": 191.1,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Power is not measured by one difficult year; large countries often recover after shocks. China's range of options remains wider than Eric admits, so calling this moment its peak is premature."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 191.864,
+   "end_sec": 202.224,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "Your one difficult year point dodges the pattern, not a single year. Aging, debt, tighter control, and distrust reinforce each other, leaving fewer options and confirming China's power peaked."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.149,
+   "end_sec": 213.229,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "If China's peak is past, why do other governments still adjust their choices around its markets, factories, and decisions? Explain why continued leverage equals decline rather than endurance."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 213.725,
+   "end_sec": 225.205,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Consider a nearby business that relies on one supplier, then faces sudden rules and searches for alternatives. That costly shift weakens China's leverage and proves dependence is moving away from its peak."
+  },
+  {
+   "i": 20,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 221.1,
+   "end_sec": 223.19,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Ten seconds left on the clock."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 226.197,
+   "end_sec": 231.9,
+   "dur_sec": 5.703,
+   "overlap": false,
+   "text": "It does not equal decline; leverage can persist while its direction worsens. But your supplier example shows choices-",
+   "ext_file": "L125_ext_a32.wav",
+   "cut_at_sec": 227.22,
+   "full_dur_sec": 10.76
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 231.1,
+   "end_sec": 238.96,
+   "dur_sec": 7.86,
+   "overlap": true,
+   "text": "Time's up. And that concludes round two of this debate. Making his closing statement in support of the resolution, here is Eric."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 239.16,
+   "end_sec": 259.25,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "Steve's best argument is that China can adapt, and that is true in limited ways. Yet adaptation is not proof of a new high point. A country burdened by aging, debt, control, and distrust spends its energy defending gains. China remains consequential, but its capacity to set the terms around it has reached its crest."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 259.16,
+   "end_sec": 260.4,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.45,
+   "end_sec": 270.46,
+   "dur_sec": 11.01,
+   "overlap": false,
+   "text": "Steve says endurance disproves a peak. But endurance can follow a summit; a mountain remains tall after the climb ends. The question is not whether China disappears, but whether its strongest combination-",
+   "cut_at_sec": 265.78,
+   "full_dur_sec": 15.28,
+   "ext_file": "L125_028.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 269.66,
+   "end_sec": 273.09,
+   "dur_sec": 3.43,
+   "overlap": true,
+   "text": "Thank you. Time is up on that. And now Steve."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 273.29,
+   "end_sec": 283.3,
+   "dur_sec": 10.01,
+   "overlap": false,
+   "text": "China's challenges are real, but challenges are not a verdict. Its productive base and ability to adapt still give it room to gain power abroad."
+  },
+  {
+   "i": 28,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 282.4,
+   "end_sec": 284.7,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That room is shrinking, and you cannot call-",
+   "cut_at_sec": 280.02,
+   "full_dur_sec": 8.4,
+   "ext_file": "L125_031.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 283.9,
+   "end_sec": 285.38,
+   "dur_sec": 1.48,
+   "overlap": true,
+   "text": "Let him finish."
+  },
+  {
+   "i": 30,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 285.58,
+   "end_sec": 296.02,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "not a ceiling. A country with deep skills and flexible choices can turn caution into strength, and China's future remains open rather than already capped off."
+  },
+  {
+   "i": 31,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 293.29,
+   "end_sec": 294.65,
+   "dur_sec": 1.36,
+   "overlap": true,
+   "text": "Steve, ten seconds."
+  },
+  {
+   "i": 32,
+   "src_i": 35,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 296.22,
+   "end_sec": 304.68,
+   "dur_sec": 8.46,
+   "overlap": false,
+   "text": "China has not peaked; it has the tools to adapt, compete, and shape what follows. That's all, thank you."
+  },
+  {
+   "i": 33,
+   "src_i": 36,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 304.88,
+   "end_sec": 311.13,
+   "dur_sec": 6.25,
+   "overlap": false,
+   "text": "Thank you, Eric and Steve, for your arguments tonight; this concludes our debate on the motion before us."
+  }
+ ]
+}

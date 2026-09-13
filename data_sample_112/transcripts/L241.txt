@@ -1,0 +1,41 @@
+L241  |  We should not trust the promise of artificial intelligence.
+  MOD=Rick   PRO=Elise   CON=Cecilia
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Rick(MOD): Welcome. The motion is: We should not trust the promise of artificial intelligence. Elise speaks for it, and Cecilia speaks against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed segment ends. Keep remarks direct, and address the motion.
+[t01] Elise(PRO): The promise of artificial intelligence asks us to hand over judgment before we can see its failures. Useful tools can still mislead, exclude, or make choices nobody can explain. Trust must be earned by clear accountability, not glowing assurances from their sellers. That's all, thank you.
+[t02] @A2-2 Rick(MOD): Cecilia, over to you.
+[t03] Cecilia(CON): Elise is right that blind faith is foolish. But the motion rejects trust in a promise, even when people can test a system, set limits, and correct mistakes; that confuses careful trust with surrender. We trust tools because they can help us notice patterns, translate difficult material, and reduce routine burdens, while people remain responsible for
+[t04] @A4 <ovl> Rick(MOD): Cecilia, ten seconds.
+[t05] Cecilia(CON): the decisions, which is why the promise deserves measured trust rather than blanket suspicion today. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Rick(MOD): Now we know where each of you stand and why on the question that we're asking. We'll get deeper into the conversation. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t07] Cecilia(CON): I agree that accountability matters, but that is a reason to build trustworthy use, not reject the promise itself. If people inspect outcomes and retain authority, earned trust remains sensible.
+[t08] Elise(PRO): When a system recommends treatment without a clear explanation or a human able to challenge it, we should not trust its promise. Convenience cannot turn an opaque guess into a dependable guide.
+[t09] Cecilia(CON): Your weakest point is treating a missing explanation as proof that trust is impossible. In your treatment case, a trained person can compare advice, reject it, and use the tool cautiously.
+[t10] Elise(PRO): Designers also need fair pay and clear ownership, because hidden incentives shape what systems offer. Still, the motion is about trust: promises without understandable safeguards deserve skepticism from us.
+[t11] <cut> Cecilia(CON): On your ownership point, fair contracts do not make a system untrustworthy. Safeguards, review, and enforceable rules turn broad promises into commitments people can check, rather than fears you merely-
+[t12] <ovl> Elise(PRO): No, checkable commitments are exactly the issue: many systems change quietly after people rely on them. When oversight cannot see the change before harm, trust in the promise is reckless.
+[t13] Cecilia(CON): Quiet changes can be logged, announced, and reversed; that is why your claim about invisible shifts fails. The real question is who reads update notices, who approves access, and how families learn digital rules.
+[t14] @B1 Rick(MOD): But, how do you relate that to we should not trust the promise of artificial intelligence? Land that on we should not trust the promise of artificial intelligence.
+[t15] Cecilia(CON): That relates to the motion because trust grows from visible control: people can see changes, refuse access, and reverse errors. A promise backed by those practical choices is worth measured trust.
+[t16] Elise(PRO): Promises should never substitute for human judgment, because every important use can affect someone who cannot inspect it. That is why we should not trust artificial intelligence's promise as a general guide.
+[t17] Cecilia(CON): Consider a learner who cannot read a dense letter. A carefully checked assistant can restate it plainly, letting the learner ask better questions; that proves promised help can merit limited trust.
+[t18] Elise(PRO): Your learner point assumes the restatement is faithful. If it quietly changes a deadline or leaves out a warning, the learner is harmed before better questions begin, which supports distrust.
+[t19] Cecilia(CON): If you refuse every promise until it guarantees no error, what useful tool could anyone ever trust? Why deny people cautious help when they can verify results and keep the final decision?
+[t20] @A4 <ovl> Rick(MOD): Ten seconds left on the crossfire.
+[t21] <cut> Elise(PRO): People can verify some results, and that is valuable. But-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Rick(MOD): Time's up. And now we move on to round three. And the first to speak in support of the resolution is Elise.
+[t23] Elise(PRO): This decision turns on whether a persuasive promise deserves confidence before people can challenge it. Useful output is not enough when hidden choices shape lives.
+[t24] <ovl> <cut> Cecilia(CON): But people do challenge them, and you erase-
+[t25] @A5 <ovl> Rick(MOD): Let her clarify, please.
+[t26] Elise(PRO): shape lives without appeal. Trust should follow evidence and recourse, not arrive as a favor from a system whose inner choices users cannot inspect.
+[t27] @A4 <ovl> Rick(MOD): I'll give you ten more seconds to nail this.
+[t28] Elise(PRO): Vote for caution: do not trust a promise that cannot answer to the people affected. That's all, thank you.
+[t29] @A2-2 Rick(MOD): Let's take that to Cecilia, please.
+[t30] Cecilia(CON): The motion asks for distrust, not sensible caution. We should demand explanations, limits, and human responsibility, then trust tools to the extent they meet those demands. Rejecting every promise before people can test its value would deny practical help and put fear above judgment. That's all, thank you.
+[t31] Rick(MOD): Thank you, Elise and Cecilia, for a thoughtful exchange; this concludes our debate on trusting artificial intelligence promises.

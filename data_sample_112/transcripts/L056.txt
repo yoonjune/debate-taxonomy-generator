@@ -1,0 +1,38 @@
+L056  |  The war on terror has become a war on Islam.
+  MOD=Sarah   PRO=Elise   CON=Vernon
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Sarah(MOD): Welcome. Tonight's motion is: the war on terror has become a war on Islam. Elise supports the motion, and Vernon opposes it. Each speaker has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue.
+[t01] Elise(PRO): The label may say terror, but its practices reach ordinary Muslims: suspicion, exclusion, and collective blame. When a security project treats a faith community as its standing suspect, it has become a war on Islam. That is the change we must confront. That's all, thank you.
+[t02] @A2-2 Sarah(MOD): Would you like to take it, Vernon? You started to speak.
+[t03] Vernon(CON): Elise mistakes abuse and prejudice for the purpose of an entire campaign. A war on Islam would oppose Muslims because they are Muslim; counterterrorism opposes people who plan violence. Bad policies can betray that aim, and communities deserve protection. But calling every security measure a religious war erases the real distinction.
+[t04] @A4 <ovl> Sarah(MOD): Just, just about ten seconds left.
+[t05] <cut> Vernon(CON): Intent matters, because institutions can punish wrongdoing without condemning a religion. We should demand fair safeguards and reject discrimination. Yet the motion turns every flawed action into proof-
+[t06] @A1 <ovl> Sarah(MOD): I'm sorry, you've hit time.
+
+--- phase 2 ---
+[t07] @A3-1 Sarah(MOD): Thank you, Vernon. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+[t08] Vernon(CON): Elise's standing-suspect point identifies real injustice, but it does not establish the motion. If officials misuse a security campaign, challenge the misuse; do not redefine a campaign against violence as a war against Islam.
+[t09] Elise(PRO): Every war on terror is a war on Islam. Its language may name violence, yet its daily logic casts Muslim identity as danger, so the target expands from acts to a faith.
+[t10] Vernon(CON): Your daily-logic claim is the weakest link: you assume Muslim identity is the target whenever Muslims are affected. A policy can harm innocent Muslims and still be misguided counterterrorism, not a campaign against Islam.
+[t11] Elise(PRO): This war on terror is not a war on Islam. That official denial does not erase its lived pattern: people are treated as threats for faith, which is why I still support the motion.
+[t12] @B2 Sarah(MOD): Well you're every war on terror is a war on Islam and then you're this war on terror is not a war on Islam. Which?
+[t13] Elise(PRO): Both statements can stand because one describes the campaign's stated identity, while the other describes what it does to people. Calling it counterterrorism cannot cancel the anti-Islamic reality created by its reach.
+[t14] Vernon(CON): We also need oversight, clear hearings, and ways for families to challenge errors; those practical safeguards matter greatly. But safeguards prove the point: abuse needs correction, not the false claim that counterterrorism itself is war on Islam.
+[t15] <cut> Elise(PRO): Your safeguards point misses that corrections are offered only after people have already been marked by faith. A system that repeatedly produces that mark is not neutral; it is a war on Islam, and-
+[t16] <ovl> Vernon(CON): No, that conclusion does not follow. Your mark-by-faith point confuses biased application with the mission itself; a campaign may be applied unfairly, yet remain aimed at violence rather than Islam.
+[t17] Elise(PRO): Your mission-itself distinction is empty if the mission's methods repeatedly treat a religion as a pool of suspects. You ask us to trust a label over experience; that is how a war on Islam hides.
+[t18] Vernon(CON): If targeting Islam is the campaign's essence, why do you treat actions against violent planners as evidence of religious hostility? Can you name a principle separating necessary protection from the religious war you claim?
+[t19] Elise(PRO): No, I do not treat action against violent planners as religious hostility. I reject your premise that the issue is necessary protection; the issue is suspicion, and that pattern makes it a war on Islam.
+[t20] @A4 <ovl> Sarah(MOD): Ten seconds left in this round.
+[t21] <cut> Vernon(CON): I grant that some officials use careless language and unfair methods, and that harm is serious-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Sarah(MOD): That's time. Okay. Let's all redeem ourselves with our closing statements. So Elise, you're up first.
+[t23] Elise(PRO): Vernon's best argument is that an aim against violence cannot be a war on faith. But declared aims do not excuse practices that cast ordinary Muslims as suspects and faith as evidence. When the practical target is a community, we must ask who pays the price. That burden is not abstract.
+[t24] @A4 <ovl> Sarah(MOD): Ten seconds, ten seconds.
+[t25] Elise(PRO): It shows the campaign has crossed from security into hostility toward Islam in daily life. That's all, thank you.
+[t26] @A2-2 Sarah(MOD): Elise, thanks, and Vernon.
+[t27] Vernon(CON): Elise rightly warns that innocent Muslims can be harmed, and those harms demand correction. But her evidence shows discrimination and failed policy, not a campaign whose purpose is Islam itself. We should oppose prejudice while preserving the distinction: protection from violence is not war on a faith. That's all, thank you.
+[t28] Sarah(MOD): Thank you both. This concludes our debate on whether the war on terror has become a war on Islam.

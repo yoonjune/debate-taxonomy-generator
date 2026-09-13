@@ -1,0 +1,42 @@
+L161  |  Congress should pass the Secure the Border Act.
+  MOD=Bob   PRO=Leo   CON=Philip
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Bob(MOD): Welcome to our debate on the motion: Congress should pass the Secure the Border Act. Leo speaks for the motion, and Philip speaks against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue.
+[t01] Leo(PRO): Congress should pass this act because a border without clear enforcement invites dangerous confusion. The bill gives officers workable rules, discourages unlawful entry, and makes the process fairer for people waiting through lawful channels. Order is not cruelty; it is the basis for safety and accountability. That's all, thank you.
+[t02] @A2-2 Bob(MOD): And I want to take it to Philip.
+[t03] Philip(CON): This act mistakes toughness for effectiveness. It gives enforcement too much weight while making families and workers face harsher barriers,
+[t04] <ovl> <cut> Leo(PRO): That is exactly the problem: you call-
+[t05] @A5 <ovl> Bob(MOD): Let him reply to that please.
+[t06] Philip(CON): while offering little assurance that the people caught in its machinery receive a real hearing. A rushed system can separate vulnerable people from help.
+[t07] @A4 <ovl> Bob(MOD): I can give you ten seconds to wrap this round.
+[t08] Philip(CON): Congress should fix the process carefully, not pass a bill built around blunt enforcement. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Bob(MOD): Now, on to round two. This is our middle round in which the debaters talk directly to one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Philip(CON): Imagine a parent who arrives seeking safety and is held while papers are sorted, with children left frightened and uncertain. That harm proves this act can turn a human crisis into needless punishment.
+[t11] Leo(PRO): When an entry is unlawful and officials cannot verify identity or purpose, prompt detention is justified. The act supplies that clear response, rather than leaving communities and migrants inside a confused process.
+[t12] <cut> Philip(CON): You say detention creates order, but how does locking up a parent during a paperwork dispute make a child safer? If the bill cannot distinguish danger from desperation, why should Congress trust it with-
+[t13] Leo(PRO): People also worry about housing and school capacity when arrivals are unmanaged, and those concerns deserve honest planning. But the motion is about border rules: why should officials release someone before basic checks are complete?
+[t14] Philip(CON): They should not release someone before basic checks are complete, but detention is not the only way to conduct them. Your approach treats uncertainty as guilt, so Congress should reject this act.
+[t15] Leo(PRO): A functioning border system must enforce its rules consistently, because selective enforcement invites uncertainty and unfairness. This act gives the system a dependable structure that protects lawful pathways and public confidence.
+[t16] Philip(CON): A worker with valid papers can lose a job when an error triggers a long detention and delayed review. That example proves this act's rigid machinery can punish lawful people, so Congress should not pass it.
+[t17] Leo(PRO): Every border crossing should always be stopped.
+[t18] Philip(CON): If every crossing is stopped, what happens to a frightened child arriving without an adult? Do you really want the act to treat that child exactly like a person deliberately evading inspection?
+[t19] Leo(PRO): This border crossing should not be stopped. A child arriving alone should be brought quickly to care, and the act can still strengthen screening for everyone else.
+[t20] @B2 Bob(MOD): You're saying every border crossing should always be stopped but you still want this border crossing should not be stopped.
+[t21] Leo(PRO): My point is that the system must stop crossings from proceeding unchecked, while a child needs care rather than abandonment. The act can ensure contact, screening, and protection together, which is why passing it remains right.
+[t22] Philip(CON): On your claim that stopping merely means screening, the wording still grants broad power before care is guaranteed. A promise of humane treatment cannot repair a bill whose first instinct is restraint.
+[t23] @A4 <ovl> Bob(MOD): Ten seconds to go in this round.
+[t24] <cut> Leo(PRO): Consider an officer who finds a traveler carrying false documents and cannot confirm where that person-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Bob(MOD): Time. And now we move on to Round three. And first to make his statement in support of the motion, Leo.
+[t26] Leo(PRO): Philip rightly warns that vulnerable people need care, but rejecting clear rules does not create that care. The Secure the Border Act pairs screening with accountability, protects lawful applicants, and gives officers direction. Congress should pass it for a safer, more orderly system. That's all, thank you.
+[t27] @A2-2 Bob(MOD): Okay, thank you very much Leo for that. Philip.
+[t28] Philip(CON): Leo's best point is that officials need clear direction when identity is uncertain. But this bill answers uncertainty with detention and wider enforcement before it guarantees meaningful review. Clear rules are valuable only when they protect dignity as well as order. Congress can improve procedures without passing this harsh measure.
+[t29] @A4 <ovl> Bob(MOD): Ten.
+[t30] <cut> Philip(CON): A secure border should be careful, targeted, and humane. This act risks making frightened families pay for governmental confusion, while lawful workers can be trapped by mistakes. Congress-
+[t31] @A1 <ovl> Bob(MOD): Please come to an end, we're running out of time, thank you.
+[t32] Bob(MOD): Thank you, Leo and Philip, for your arguments, and thank you for joining us for this debate.

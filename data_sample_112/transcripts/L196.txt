@@ -1,0 +1,42 @@
+L196  |  AI will kill the future of the creative arts.
+  MOD=Daisy   PRO=Virginia   CON=Ben
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Daisy(MOD): Welcome to our debate on the motion, AI will kill the future of the creative arts. Virginia argues for the motion, while Ben argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each time limit.
+[t01] Virginia(PRO): AI does not merely offer another brush or instrument. It turns finished work into instant raw material, so creators lose control over their voice and livelihood. When audiences can summon endless imitations, they stop seeking the difficult human choices behind art. That habit hollows out the conditions artists need to create freely.
+[t02] @A4 <ovl> Daisy(MOD): Ten seconds.
+[t03] <cut> Virginia(PRO): It reaches beyond money: schools reward quick outputs, publishers choose cheap volume, and young artists learn copying is safer than risking a personal idea. That culture cannot sustain original voices-
+[t04] @A2-1 <ovl> Daisy(MOD): Thank you. Time is up on that. And now Ben.
+[t05] Ben(CON): Virginia is right that imitation can be cheap. But a tool does not erase the desire to make meaning; it gives people ways to shape images, sounds, and stories. The future dies only if people surrender judgment, and people can use AI as material, not master. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Daisy(MOD): You're now going to argue with one another. You have two and a half minutes, starting when I stop talking.
+[t07] Virginia(PRO): You say people can choose judgment, but that ignores who controls the choices offered. If cheap machine output floods every doorway, human makers cannot live by their work, and choice becomes hollow.
+[t08] <cut> Ben(CON): I agree that crowded markets can hurt working artists. But your claim assumes audiences cannot tell care from imitation; people seek perspective, and tools can lower barriers for new makers who-
+[t09] <ovl> Virginia(PRO): They cannot seek a perspective they never encounter, because platforms reward speed and sameness. Lowering barriers to production is not the same as preserving a future where human artists are heard.
+[t10] Ben(CON): On your platform point, speed does not dictate taste forever. People share work that moves them, and AI may handle routine tasks so creators can spend more effort on the choices that matter.
+[t11] Virginia(PRO): Picture a young illustrator facing instant copies in her style, priced almost free. Buyers pick volume, she quits, and that proves AI can empty the path into art.
+[t12] Ben(CON): When a creator directs the tool, revises its output, and takes responsibility for the result, AI expands that creator's range. That condition preserves authorship and shows the future of art need not die.
+[t13] Virginia(PRO): Your condition is weak because markets do not wait for careful direction; they reward whoever produces fastest. A few responsible users cannot protect a profession when automated substitutes set the ordinary price.
+[t14] Ben(CON): Art survives because creators continually turn available materials into expression, from scraps to screens. AI is another material, and human intention can make it serve art rather than replace it.
+[t15] Virginia(PRO): People also worry about who owns a prompt, who gets credit, and whether labels are honest. Those disputes matter, yet the deeper issue is simpler: AI makes human originality disposable, which kills art's future.
+[t16] Ben(CON): On your originality point, a tool cannot make human originality disposable unless audiences abandon human meaning. They have reasons to value lived experience, and creators can use AI while still making work no machine has lived.
+[t17] Virginia(PRO): Imagine a dancer whose stage design is copied instantly and sold before she performs. If that steals her audience, what freedom remains? It proves AI can erase a maker's future.
+[t18] Ben(CON): It leaves her freedom to perform, revise, and build trust with people who value her work. Copying is theft or bad conduct, not proof that the tool itself kills creative arts.
+[t19] @A4 <ovl> Daisy(MOD): Ten seconds left on the crossfire.
+[t20] <cut> Virginia(PRO): Your answer dodges the economic point by treating copying as separate from AI. The tool enables copying at effortless scale, so calling it bad conduct does nothing-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Daisy(MOD): Okay, time. And that concludes round two of this debate. We're going to go to closing arguments now. And so, first up, Virginia.
+[t22] Virginia(PRO): Ben says human intention can keep AI supportive, but intention has little power when businesses can replace paid human work with endless cheap approximations. Art needs time, income, risk, and an audience willing to seek a person rather than a pattern. AI attacks each condition by making imitation abundant and human labor optional.
+[t23] @A4 <ovl> Daisy(MOD): You have ten seconds.
+[t24] Virginia(PRO): That is why accepting AI as normal production means accepting a future where art cannot live. That's all, thank you.
+[t25] @A2-2 Daisy(MOD): Can we ask him to answer? Ben.
+[t26] Ben(CON): Her strongest point is economic pressure, and creators may face it. Yet pressure is not extinction: human judgment, performance, and relationships keep art alive.
+[t27] <ovl> <cut> Virginia(PRO): But your answer ignores the unknown makers already-
+[t28] @A5 <ovl> Daisy(MOD): Please let him finish, please.
+[t29] Ben(CON): The point is that audiences do not merely consume output; they connect with accountable people. AI cannot replace that connection, so it changes the work without killing its future.
+[t30] @A4 <ovl> Daisy(MOD): I can give you ten seconds to do this.
+[t31] Ben(CON): The future of art rests in human choices, and those choices remain ours even with AI. That's all, thank you.
+[t32] Daisy(MOD): Thank you, Virginia and Ben, for a thoughtful debate, and thank you for joining us as we close.

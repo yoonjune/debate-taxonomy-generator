@@ -1,0 +1,427 @@
+{
+ "debate_id": "L148",
+ "motion": "Obama’s Economic Policies Are Working Effectively",
+ "speakers": {
+  "MOD": {
+   "name": "Jimmy",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3981_550",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_3981/MSP-PODCAST_3981_550.wav",
+   "wpm": 173.5
+  },
+  "PRO": {
+   "name": "Emma",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "CON": {
+   "name": "Carla",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 87.68,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 301.59,
+ "ext": {
+  "a32": {
+   "file": "L148_ext_a32.wav",
+   "place_at_sec": 229.782,
+   "dur_sec": 21.21,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "If that progress is real, Emma, why do families still hesitate before hiring, borrowing, or planning? Doesn't effective policy give them clearer confidence than that in daily decisions today?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.32,
+   "dur_sec": 20.32,
+   "overlap": false,
+   "text": "Welcome to our debate on whether Obama's economic policies are working effectively. Emma argues for the motion, while Carla argues against it. Each opening and closing lasts thirty seconds; crossfire lasts two and a half minutes. I will give a ten-second cue before time expires, and speakers should address the argument directly, with fairness and clarity throughout."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.52,
+   "end_sec": 38.47,
+   "dur_sec": 17.95,
+   "overlap": false,
+   "text": "These policies are working because they helped steady a shaken economy and gave families room to plan again. Recovery is not instant, but practical support, renewed demand, and confidence show a direction that works. The question is whether the approach is effective, and it is. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 38.67,
+   "end_sec": 40.84,
+   "dur_sec": 2.17,
+   "overlap": false,
+   "text": "All right, Carla, take that on."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 41.04,
+   "end_sec": 60.35,
+   "dur_sec": 19.31,
+   "overlap": false,
+   "text": "Emma calls a direction success, but a direction is not a result. Families still face uncertain work, rising daily pressures, and bills that do not wait for promises. Government action can sound caring while leaving people dependent on temporary help. The real test is whether ordinary households can stand securely without"
+  },
+  {
+   "i": 4,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 60.55,
+   "end_sec": 72.34,
+   "dur_sec": 11.79,
+   "overlap": false,
+   "text": "a rescue plan. The policies are ineffective when relief keeps replacing durable opportunity, and when leaders call slow progress enough; people need jobs that last, not another program that may disappear-",
+   "cut_at_sec": 70.08,
+   "full_dur_sec": 13.37,
+   "ext_file": "L148_005.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 61.04,
+   "end_sec": 63.36,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 71.54,
+   "end_sec": 74.1,
+   "dur_sec": 2.56,
+   "overlap": true,
+   "text": "Thank you, Carla. Your time is up."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 74.3,
+   "end_sec": 89.94,
+   "dur_sec": 15.64,
+   "overlap": false,
+   "text": "And that concludes round one. So now we go on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 90.14,
+   "end_sec": 100.63,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "Your claim that confidence proves success is the weakest part. Confidence cannot pay a bill or create stable work, so calling hopeful movement effective mistakes mood for lasting economic strength."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 101.185,
+   "end_sec": 111.835,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "If these policies are failing, Carla, what would you tell the worker whose employer kept staff because customers could keep spending? Why dismiss protection from immediate collapse as ineffective policy?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 112.583,
+   "end_sec": 123.073,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "Consider a shop owner facing higher costs after a policy change: she postpones hiring, then cuts a neighbor's hours. That loss shows policies can harm jobs when government pressure grows-"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 124.031,
+   "end_sec": 136.831,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "That shop also depends on fair contracts, delivery schedules, and whether its landlord fixes the leaking roof. But those details matter only because effective economic policy gives small businesses customers and stability, which these policies provide."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 137.055,
+   "end_sec": 147.545,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "Your stability point ignores the shopkeeper whose costs rose and hiring stopped. How does a policy work effectively when its burdens can erase the very jobs it claims to protect?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 148.088,
+   "end_sec": 158.658,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "It works because one shop's burden does not erase the broader protection for workers and demand. You treat any cost as failure, while ignoring the damage from doing nothing during weakness."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 159.177,
+   "end_sec": 169.427,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "Your weakest claim is that broader demand excuses every burden. A policy is not effective if its help arrives through costs that make employers hesitate to hire at all."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 170.143,
+   "end_sec": 181.033,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "Think about that hiring decision: the owner lists fuel, rent, supplies, and payroll, then crosses out one candidate. Next she compares delivery fees and asks whether the broken cooler can wait."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 181.233,
+   "end_sec": 186.993,
+   "dur_sec": 5.76,
+   "overlap": false,
+   "text": "Okay, again, it's not on our topic about whether obama's economic policies are working effectively today."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.193,
+   "end_sec": 199.363,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "On the motion, the question is whether these policies work effectively, and preventing a deeper collapse is meaningful effectiveness. Carla demands perfection, but practical policy should be judged by whether it improves people's prospects."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 199.648,
+   "end_sec": 210.218,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "I agree that stopping a collapse matters. But the main question is lasting strength, and policies that leave workers and employers uncertain are not working effectively for ordinary families today."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 210.451,
+   "end_sec": 220.541,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "Your lasting strength point overlooks the stability already built through support and recovery. Why should uncertainty alone outweigh the jobs and spending protected by these policies for families now?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 221.371,
+   "end_sec": 231.671,
+   "dur_sec": 10.3,
+   "overlap": false,
+   "text": "It should not, but protected spending is not proof of durable recovery. You count temporary support as strength while employers and workers still lack confidence in the future to plan."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 229.94,
+   "end_sec": 232.83,
+   "dur_sec": 2.89,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 232.042,
+   "end_sec": 240.74,
+   "dur_sec": 8.698,
+   "overlap": false,
+   "text": "Your weakest move is calling support temporary and therefore worthless. A policy works effectively when it prevents immediate damage and creates room for households to recover-",
+   "ext_file": "L148_ext_a32.wav",
+   "cut_at_sec": 238.48,
+   "full_dur_sec": 10.57
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 239.94,
+   "end_sec": 250.38,
+   "dur_sec": 10.44,
+   "overlap": true,
+   "text": "Time. And that concludes round two. And now we're going to move on to round three. Here to argue in her closing statement, in support of this motion, Emma."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 250.58,
+   "end_sec": 269.3,
+   "dur_sec": 18.72,
+   "overlap": false,
+   "text": "Effective policy is not a promise of instant perfection; it is a practical response that protects people and helps recovery take hold. Carla points to uncertainty, yet uncertainty was the problem these measures confronted. Judge the direction, the protection, and the chance to build, and support the motion. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 269.5,
+   "end_sec": 271.1,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Carla has the floor."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 271.3,
+   "end_sec": 280.97,
+   "dur_sec": 9.67,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether temporary relief became lasting security. Emma celebrates movement, but families need dependable work, predictable costs, and confidence that remains"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 280.07,
+   "end_sec": 282.37,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But you cannot call security absent when these policies-",
+   "cut_at_sec": 278.28,
+   "full_dur_sec": 8.49,
+   "ext_file": "L148_028.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 281.57,
+   "end_sec": 282.73,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Emma, excuse me."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 282.93,
+   "end_sec": 292.98,
+   "dur_sec": 10.05,
+   "overlap": false,
+   "text": "when support ends. A recovery that depends on repeated intervention has not earned the word effective; it has delayed the harder work of durable opportunity."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 291.3,
+   "end_sec": 292.9,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 293.18,
+   "end_sec": 300.64,
+   "dur_sec": 7.46,
+   "overlap": false,
+   "text": "That is why careful listeners should reject this motion: temporary relief is not lasting economic success. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 300.84,
+   "end_sec": 307.4,
+   "dur_sec": 6.56,
+   "overlap": false,
+   "text": "Thank you, Emma and Carla, for a thoughtful exchange. This debate is now closed, and we appreciate your arguments."
+  }
+ ]
+}

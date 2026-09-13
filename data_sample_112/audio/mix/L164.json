@@ -1,0 +1,415 @@
+{
+ "debate_id": "L072",
+ "motion": "The Universal Basic Income is the Safety Net of the Future",
+ "speakers": {
+  "MOD": {
+   "name": "Pamela",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "PRO": {
+   "name": "Trevor",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4043_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4043/MSP-PODCAST_4043_33.wav",
+   "wpm": 168.26
+  },
+  "CON": {
+   "name": "Mustafa",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0177_72",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0177/MSP-PODCAST_0177_72.wav",
+   "wpm": 170.28
+  }
+ },
+ "selective": [
+  "A1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 78.7,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 294.51,
+ "ext": {
+  "a32": {
+   "file": "L072_ext_a32.wav",
+   "place_at_sec": 224.044,
+   "dur_sec": 22.85,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "If UBI sits beside every targeted program and new housing rule, where does the money come from without weakening the services people in acute crisis rely on? Please answer that tradeoff."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.97,
+   "dur_sec": 18.97,
+   "overlap": false,
+   "text": "Welcome. The motion is, \"The Universal Basic Income is the Safety Net of the Future.\" Trevor supports it, and Mustafa opposes it. Each opening and closing gets thirty seconds; then we have two and a half minutes of crossfire, with a ten-second cue before time expires. Speak directly, and keep your remarks focused today."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.17,
+   "end_sec": 35.28,
+   "dur_sec": 16.11,
+   "overlap": false,
+   "text": "UBI gives people a floor before a crisis becomes ruin. It reaches the worker between jobs, the carer, and the person missed by narrow rules. That simple, reliable support makes the future safety net stronger and more humane in practice. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 35.48,
+   "end_sec": 37.49,
+   "dur_sec": 2.01,
+   "overlap": false,
+   "text": "Mustafa, why don't you take it."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 37.69,
+   "end_sec": 47.5,
+   "dur_sec": 9.81,
+   "overlap": false,
+   "text": "That floor sounds kind, but a future safety net must target emergencies. Giving the same payment to everyone can leave less help for people facing the hardest shocks."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 46.6,
+   "end_sec": 48.9,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But you are skipping people harmed by gaps-",
+   "cut_at_sec": 47.11,
+   "full_dur_sec": 8.49,
+   "ext_file": "L072_004.wav"
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 48.1,
+   "end_sec": 50.43,
+   "dur_sec": 2.33,
+   "overlap": true,
+   "text": "Can we let him reply please?"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 50.63,
+   "end_sec": 60.6,
+   "dur_sec": 9.97,
+   "overlap": false,
+   "text": "can vanish overnight. A system that spreads money broadly may sound secure, yet it can weaken the focused help that disability or sudden illness demands."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 57.69,
+   "end_sec": 59.46,
+   "dur_sec": 1.77,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 60.8,
+   "end_sec": 68.66,
+   "dur_sec": 7.86,
+   "overlap": false,
+   "text": "The future needs protection matched to need, not a flat promise that may fail the vulnerable. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 68.86,
+   "end_sec": 82.55,
+   "dur_sec": 13.69,
+   "overlap": false,
+   "text": "And now we move on to the second round. And the second round is much more of a conversation where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 82.75,
+   "end_sec": 94.59,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Your point about targeted emergencies misses the gap before anyone qualifies. People lose hours, care for relatives, or face unstable work; UBI provides a base immediately, so targeted aid can handle deeper crises."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 95.207,
+   "end_sec": 106.657,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "When a person can work and has stable access to help, a universal payment can replace urgency with dependency. Safety nets should respond to hardship, not treat every citizen as equally endangered."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 107.32,
+   "end_sec": 119.44,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "I agree simple access matters, especially during sudden job loss. But your dependency claim treats security as surrender; a modest base lets people refuse exploitation, search carefully, and contribute without falling through the net."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 120.229,
+   "end_sec": 131.779,
+   "dur_sec": 11.55,
+   "overlap": false,
+   "text": "Your weakest claim is that a payment lets people search carefully. Why should everyone fund leisure for someone who chooses not to search, while a person with severe needs receives no extra protection?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 132.001,
+   "end_sec": 143.761,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "I reject the premise that UBI removes extra protection; it is a floor, not the whole system. Why make basic survival depend on proving misery, when targeted services can still meet severe needs?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 144.67,
+   "end_sec": 156.76,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Imagine a household already receiving a universal payment when a child needs intensive care. The flat amount does not cover lost work or care costs, proving universal cash is not a future safety net-"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 155.86,
+   "end_sec": 167.23,
+   "dur_sec": 11.37,
+   "overlap": true,
+   "text": "That is exactly why I said UBI is a floor, not a replacement for care support. You describe a need for more layers, but that proves a universal base belongs underneath them."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 167.478,
+   "end_sec": 179.248,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "Safety nets work best when they are built around need, because resources are finite. A universal payment also risks turning public protection into a routine allowance rather than a response to real vulnerability."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 179.613,
+   "end_sec": 191.813,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Resources are finite, and specialized care must remain strong. Yet you frame universality as waste, while universality removes gatekeeping, reaches people before collapse, and gives every person a secure platform for work and care."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 192.279,
+   "end_sec": 203.969,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "Your weakest word is 'every.' Why should a wealthy person receive public cash before a neighbor needing housing support receives more direct help? Calling that efficiency avoids the tradeoff rather than solving it."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 204.226,
+   "end_sec": 215.626,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I reject the premise that equal access blocks greater housing help; UBI can sit beside it. The tradeoff is less wasteful than policing every applicant, and universality builds support people can trust."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 215.859,
+   "end_sec": 227.309,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "Consider a worker whose rent rises after a universal payment arrives. The landlord can absorb that predictable extra cash, while the worker still cannot afford housing, proving targeted housing protection is safer."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 222.55,
+   "end_sec": 224.87,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 227.894,
+   "end_sec": 233.35,
+   "dur_sec": 5.456,
+   "overlap": false,
+   "text": "On your rent point, a landlord's possible response is not an argument for leaving everyone without cash-",
+   "ext_file": "L072_ext_a32.wav",
+   "cut_at_sec": 229.5,
+   "full_dur_sec": 11.84
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 232.55,
+   "end_sec": 242.64,
+   "dur_sec": 10.09,
+   "overlap": true,
+   "text": "Time's up. I want to move into our third round, which is basically closing statements from each of you. And Trevor, you again, get to go first on this."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.84,
+   "end_sec": 260.95,
+   "dur_sec": 18.11,
+   "overlap": false,
+   "text": "Mustafa's best argument is that severe needs require more than a flat payment, and that is right. But that does not defeat a floor beneath specialized help. UBI prevents ordinary setbacks becoming disasters, reaches people without stigma, and makes the future net universal, stable, and humane. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 261.15,
+   "end_sec": 262.67,
+   "dur_sec": 1.52,
+   "overlap": false,
+   "text": "Okay. Go on, Mustafa."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 262.87,
+   "end_sec": 283.14,
+   "dur_sec": 20.27,
+   "overlap": false,
+   "text": "This decision turns on what a safety net should do. It should catch people when hardship hits, not send equal checks regardless of need. Universal cash may feel simple, but simplicity can drain support from care, housing, and sudden crisis. The question is whether we protect everyone best by treating every problem alike, or directing help by need."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 282.87,
+   "end_sec": 284.39,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 283.34,
+   "end_sec": 294.17,
+   "dur_sec": 10.83,
+   "overlap": false,
+   "text": "And once UBI becomes the main promise, officials can point to the check and neglect a person in crisis. You say layers solve that, but each competes for funds. A future safety net-",
+   "cut_at_sec": 288.53,
+   "full_dur_sec": 14.64,
+   "ext_file": "L072_030.wav"
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 293.37,
+   "end_sec": 294.9,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "Time out. Time out."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 295.1,
+   "end_sec": 300.15,
+   "dur_sec": 5.05,
+   "overlap": false,
+   "text": "Thank you, Trevor and Mustafa, for a thoughtful debate on the future of the safety net."
+  }
+ ]
+}

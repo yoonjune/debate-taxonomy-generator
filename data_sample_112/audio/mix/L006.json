@@ -1,0 +1,363 @@
+{
+ "debate_id": "L006",
+ "motion": "Arab Governments are not interested in genuine reform",
+ "speakers": {
+  "MOD": {
+   "name": "Danielle",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  },
+  "PRO": {
+   "name": "Tom",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  },
+  "CON": {
+   "name": "Charles",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 58.5,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 269.04,
+ "ext": {
+  "a32": {
+   "file": "L006_ext_a32.wav",
+   "place_at_sec": 195.322,
+   "dur_sec": 11.48,
+   "src_i": 18
+  }
+ },
+ "flags": [
+  "A3-2: crossfire 말이 1.7초 모자란다",
+  "ext_a32: 마감 뒤 -1.7초뿐 (여유분 부족)"
+ ],
+ "dropped_turns": [],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.08,
+   "dur_sec": 16.08,
+   "overlap": false,
+   "text": "Today's motion is, arab governments are not interested in genuine reform. Tom argues for it; Charles argues against it. Each opening lasts thirty seconds. Crossfire lasts two and a half minutes, followed by thirty-second closings, with a ten-second cue. I will keep the exchange moving."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.28,
+   "end_sec": 32.3,
+   "dur_sec": 16.02,
+   "overlap": false,
+   "text": "Arab governments often announce reform, but they protect the power that matters: their own. They permit visible adjustments while blocking independent voices, real accountability, and peaceful transfers of power. That pattern shows they want reform's appearance, not genuine reform. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 32.5,
+   "end_sec": 34.59,
+   "dur_sec": 2.09,
+   "overlap": false,
+   "text": "All right, Charles, take that on."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 34.79,
+   "end_sec": 50.33,
+   "dur_sec": 15.54,
+   "overlap": false,
+   "text": "That claim treats every government as identical and every reform as a trick. Some governments open public debate, strengthen courts, and accept limits on officials. Imperfect progress is still genuine interest, so the motion goes too far. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 50.53,
+   "end_sec": 62.94,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "And that concludes round one. So now on to round two. They address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 63.14,
+   "end_sec": 74.26,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Your claim assumes that preserving power cancels every reform, but that is not true. A government can protect stability while expanding rights, and those real changes show interest in genuine reform."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 74.957,
+   "end_sec": 83.597,
+   "dur_sec": 8.64,
+   "overlap": false,
+   "text": "No Arab government ever gives citizens genuine reform. Announcements, councils, and new laws mean little when rulers keep final control and punish serious opposition."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 84.031,
+   "end_sec": 94.711,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Your absolute claim confuses incomplete reform with fake reform. If citizens gain a fair hearing or officials face new limits, that change matters even when the whole system remains imperfect."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 95.258,
+   "end_sec": 103.818,
+   "dur_sec": 8.56,
+   "overlap": false,
+   "text": "This Arab government gives citizens genuine reform. It creates a public council, but that council cannot question the ruling circle or force any answer."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 104.018,
+   "end_sec": 111.388,
+   "dur_sec": 7.37,
+   "overlap": false,
+   "text": "So, so while saying no Arab government ever gives citizens genuine reform, you're saying this Arab government gives citizens genuine reform?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 111.588,
+   "end_sec": 123.238,
+   "dur_sec": 11.65,
+   "overlap": false,
+   "text": "I stand by both statements: one describes genuine reform, while the other describes what this government presents as reform. Its council exists, but calling that controlled arrangement genuine does not make it genuine."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 123.486,
+   "end_sec": 135.216,
+   "dur_sec": 11.73,
+   "overlap": false,
+   "text": "Imagine a government allowing an independent local council to publish criticism, then accepting changes that reduce official power. Citizens gain a real check, and that concrete choice proves genuine reform can be pursued."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 135.585,
+   "end_sec": 148.025,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "That council would also need clear meeting rules, open agendas, and a fair way to record objections. When members rotate the chair and publish decisions, the process becomes harder to manipulate and easier to trust."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 148.225,
+   "end_sec": 155.435,
+   "dur_sec": 7.21,
+   "overlap": false,
+   "text": "Wait, can you frame your question more towards, to something that feeds into arab governments are not interested in genuine reform?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 155.635,
+   "end_sec": 166.915,
+   "dur_sec": 11.28,
+   "overlap": false,
+   "text": "The motion asks whether governments are interested in genuine reform, and controlled councils answer it: they stage consultation without surrendering power. Real interest would welcome independent oversight, yet these governments keep oversight harmless."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 167.401,
+   "end_sec": 178.521,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "You keep defining genuine reform as total surrender of power, which no reform movement requires. Independent oversight can begin small, and dismissing every first step only hides evidence against your motion."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 178.829,
+   "end_sec": 191.369,
+   "dur_sec": 12.54,
+   "overlap": false,
+   "text": "I grant that a small first step can matter, but the main issue is whether rulers accept change that can restrain them. When they block that point, their interest is in managed appearance, not genuine reform."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 191.685,
+   "end_sec": 199.285,
+   "dur_sec": 7.6,
+   "overlap": false,
+   "text": "If a government expands citizens' rights, accepts criticism, and loses some control, what exactly would count as genuine reform for you?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 199.762,
+   "end_sec": 211.242,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "A ruler may permit a harmless public meeting while banning criticism of security offices. That example shows permission can be theater, proving the broader pattern is managed appearance rather than genuine reform.",
+   "ext_file": "L006_ext_a32.wav"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 202.94,
+   "end_sec": 205.26,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 212.94,
+   "end_sec": 221.99,
+   "dur_sec": 9.05,
+   "overlap": true,
+   "text": "That's time. Now we move on to round three. Round three will be closing statements. Here to make his closing statement in support of the resolution, Tom."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 222.19,
+   "end_sec": 237.85,
+   "dur_sec": 15.66,
+   "overlap": false,
+   "text": "Charles points to limited changes, but those do not answer the central question. Governments can allow harmless debate while blocking accountability and independent power. Their repeated choice to preserve control shows they are not interested in genuine reform. That's all, thank you."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 238.05,
+   "end_sec": 240.54,
+   "dur_sec": 2.49,
+   "overlap": false,
+   "text": "Now his summation against the motion, Charles."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 240.74,
+   "end_sec": 260.9,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Tom's case depends on an impossible standard: unless governments surrender all control at once, he calls reform fake. But genuine reform can be partial, contested, and still real. When officials accept criticism, open courts, or share authority, they show interest through action. The motion erases those meaningful changes and mistakes imperfection for dishonesty."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 260.74,
+   "end_sec": 262.34,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 261.1,
+   "end_sec": 272.04,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "A government need not become perfect before reform counts. It must show that citizens gain rights and officials face limits. Those steps can grow through public pressure and continued scrutiny-",
+   "cut_at_sec": 265.54,
+   "full_dur_sec": 14.32,
+   "ext_file": "L006_025.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 271.24,
+   "end_sec": 272.45,
+   "dur_sec": 1.21,
+   "overlap": true,
+   "text": "Not this time."
+  },
+  {
+   "i": 27,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 272.65,
+   "end_sec": 275.54,
+   "dur_sec": 2.89,
+   "overlap": false,
+   "text": "Thank you both for taking part. That concludes the debate."
+  }
+ ]
+}

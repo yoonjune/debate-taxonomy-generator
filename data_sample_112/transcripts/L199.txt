@@ -1,0 +1,42 @@
+L199  |  The two-state solution is still viable.
+  MOD=Vernon   PRO=William   CON=Annette
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Vernon(MOD): Welcome. Tonight's motion is the two-state solution remains viable for peace today. William speaks for it, and Annette speaks against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue.
+[t01] William(PRO): A two-state solution is viable because viability means a path can still be built, not that trust is already perfect. Two peoples need political voice, safety, and a future they can recognize as theirs. Separate states, negotiated borders, and shared practical arrangements can meet those needs better than permanent control by one side.
+[t02] @A4 <ovl> Vernon(MOD): I can give you ten seconds to wrap this round.
+[t03] William(PRO): The obstacles are grave, but negotiations can turn them into terms rather than reasons to abandon peace. That's all, thank you.
+[t04] @A2-2 Vernon(MOD): Thank you, William. And that is the motion, the two-state solution remains viable for peace today. And here making her opening statement against the motion, Annette.
+[t05] Annette(CON): The proposal sounds balanced, but it no longer matches the facts created on the ground. Land, movement, security, and daily authority are too intertwined to divide cleanly. A map cannot repair distrust when each side expects the other to break it. Calling the plan viable mistakes a distant wish for a workable route.
+[t06] @A4 <ovl> Vernon(MOD): Well, now it's ten.
+[t07] Annette(CON): Any agreement would require enforcement accepted by both sides, yet neither can safely surrender control to the other. That is why the framework fails now, however appealing its promise sounds. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Vernon(MOD): And that concludes opening statements with the resolution, the two-state solution remains viable for peace today, and now our debaters will respond to one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t09] William(PRO): Consider two neighboring farming towns blocked by a contested road. A negotiated crossing and joint water schedule let families work safely, proving practical separation can reduce friction rather than freeze it.
+[t10] Annette(CON): When either side believes a new boundary leaves its people exposed, it will resist implementation. Under that condition, a two-state agreement becomes paper without reliable authority behind it.
+[t11] William(PRO): That fear does not make implementation impossible; it shows what an agreement must address. You treat security as a veto, while phased guarantees and mutual monitoring can make separation viable.
+[t12] Annette(CON): Those monitors would need routes, offices, vehicles, and permission at every checkpoint. Then disputes over shift changes, fuel deliveries, and who issues visitor badges would consume the arrangement's daily administration.
+[t13] @B1 Vernon(MOD): We'll call it the two-state solution remains viable for peace today then.
+[t14] Annette(CON): The question is whether two states are still viable, and I say no because enforcing their border would create endless contests over authority. Administrative dependence would replace the promised independence.
+[t15] William(PRO): Border management can be tedious, and officials may argue over permits or shared utilities. But those are exactly the routine problems sovereign neighbors negotiate, so they confirm the two-state path remains viable.
+[t16] Annette(CON): This framework cannot deliver a stable final settlement. Many small cooperative arrangements may still occur, but cooperation without final sovereignty does not make two states viable.
+[t17] <cut> William(PRO): I grant that a final agreement cannot erase fear overnight. But your standard demands instant certainty, while viable plans manage risk step by step, and that is why two states remain-
+[t18] <ovl> Annette(CON): No, managing risk is not the same as solving it. If every step depends on permission from a hostile neighbor, the proposed states are not independent and therefore not viable.
+[t19] William(PRO): Your weakest point is equating negotiated coordination with dependence. Independent states routinely share crossings and utilities; the question is whether rules are agreed, not whether contact disappears.
+[t20] Annette(CON): On shared crossings, you ignore that ordinary coordination needs baseline trust. The point is not contact itself; it is that contested power makes every shared rule vulnerable to collapse.
+[t21] William(PRO): If no agreement can survive contested power, what alternative gives both peoples political rights and security without permanent domination? Refusing two states does not answer that central problem.
+[t22] Annette(CON): Imagine a family whose home lies beside a proposed boundary while access to work, school, and care requires another authority's approval. That daily uncertainty proves partition can deepen insecurity rather than resolve it.
+[t23] @A4 <ovl> Vernon(MOD): Ten seconds left, both of you.
+[t24] <cut> William(PRO): I grant that boundary communities need special protections-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Vernon(MOD): Okay, time. That concludes round two. Now we go on to round three. Round three is our closing statements by each debater in turn. Making his closing statement for the motion, William.
+[t26] William(PRO): Viable does not mean easy or immediate. It means there is a credible route from conflict toward mutual political rights, safety, and negotiated cooperation. Annette described hard implementation questions, but hard questions require agreements, not surrender. Two states remain the clearest workable destination. That's all, thank you.
+[t27] @A2-2 Vernon(MOD): Okay, thank you very much William for that. Annette.
+[t28] Annette(CON): The strongest issue is enforcement. A state is not meaningful if its borders, movement, and safety depend every day on permission from the other side. Shared technical arrangements can help people, but they cannot substitute for settled authority. The proposed division therefore promises independence while preserving the struggle over who decides.
+[t29] @A4 <ovl> Vernon(MOD): Ten seconds, Annette.
+[t30] <cut> Annette(CON): William calls those struggles manageable, yet no durable answer was offered for who enforces a disputed rule when trust fails. Until that authority exists, two states are a slogan rather-
+[t31] @A1 <ovl> Vernon(MOD): Thank you, Annette. Your time is up.
+[t32] Vernon(MOD): Thank you, William and Annette, for a thoughtful debate on whether the two-state solution remains viable for peace today.

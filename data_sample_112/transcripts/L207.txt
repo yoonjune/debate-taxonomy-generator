@@ -1,0 +1,44 @@
+L207  |  The FTC should ban noncompete clauses.
+  MOD=Jeremy   PRO=Rachel   CON=Nigel
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Jeremy(MOD): Welcome to our debate on whether the FTC should ban noncompete clauses. Rachel supports the motion, and Nigel opposes it. Each speaker has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed section ends; please address the motion directly and let your opponent speak.
+[t01] Rachel(PRO): Noncompete clauses trap people in jobs they need to leave. When a worker cannot change employers, bargaining power disappears, and better pay becomes an empty promise because.
+[t02] <ovl> <cut> Nigel(CON): You cannot pretend every agreement is coercion-
+[t03] @A5 <ovl> Jeremy(MOD): Let her finish.
+[t04] Rachel(PRO): because a clause can block the next job, even after someone has learned all they can. Employers can protect genuine secrets without owning a worker's future.
+[t05] @A4 <ovl> Jeremy(MOD): I can give you ten seconds to do this.
+[t06] Rachel(PRO): A ban restores the freedom to leave, compete, and build a better working life. That's all, thank you.
+[t07] @A2-2 Jeremy(MOD): I want to give the floor to Nigel.
+[t08] Nigel(CON): A blanket ban treats careful agreements like abuse. Small firms may teach skills and reveal future plans to someone who can immediately carry them to a rival. Targeted rules against coercion make sense; a total ban removes choice from workers and employers alike. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Jeremy(MOD): Now we're gonna move into the second section of the evening. And that's where the debaters can talk directly to one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Nigel(CON): If a worker receives specialized training and access to sensitive plans, why should an employer be unable to negotiate a narrow noncompete that protects that investment after departure?
+[t11] Rachel(PRO): It should not be unable to protect secrets, but a noncompete is the wrong tool because it blocks ordinary work. Use confidentiality promises and trade-secret enforcement, not a restraint on earning.
+[t12] Nigel(CON): Your wrong-tool point ignores that secrecy rules punish only after damage occurs. A narrow noncompete can prevent a trusted worker from using fresh knowledge against the firm before the loss is irreversible.
+[t13] Rachel(PRO): The weakest claim is that employers need control over a former worker's job to guard knowledge. Real secrets can be protected; ordinary skill belongs to the worker.
+[t14] Nigel(CON): When a firm gives a worker unusual access to confidential plans, a voluntary, limited noncompete can fairly protect that access. Banning it even there denies both parties a useful bargain.
+[t15] Rachel(PRO): I agree that confidential plans deserve protection. But you are defending a clause that reaches beyond secrecy and keeps people from switching jobs; protecting information cannot justify banning mobility, so the FTC should ban noncompetes.
+[t16] Nigel(CON): Businesses need reliable ways to protect the value they create, and contracts often let workers and firms set expectations together. Government should not erase that freedom through a blanket ban.
+[t17] <cut> Rachel(PRO): I reject the premise that a signature makes this freedom equal; a person needing work cannot bargain as an employer can. Contracts set pay, schedules, and benefits, but they should not set-
+[t18] <ovl> Nigel(CON): They should not set careers, exactly, yet that does not mean every noncompete is oppressive. A short, tailored agreement can let a small firm invest confidently, which benefits the worker it trains.
+[t19] Rachel(PRO): People worry about hiring paperwork, from benefit forms to vague job titles. But this motion is narrower: a clause barring future work gives employers leverage workers cannot safely ignore, so ban it.
+[t20] Nigel(CON): Imagine a tiny shop teaches a new hire its private process, then she leaves and recreates it for a rival. A narrow noncompete prevents that unfair transfer, proving a ban goes too far.
+[t21] Rachel(PRO): I accept that stolen secrets can hurt a small firm. Yet your example needs rules against copying, not rules locking her out of her field, so the FTC should ban noncompetes.
+[t22] Nigel(CON): If restrictions on future work are always unfair, why can a worker not choose one for a higher wage, stronger training, or access to sensitive responsibilities that otherwise would not be offered?
+[t23] @A4 <ovl> Jeremy(MOD): Ten seconds left in this round.
+[t24] <cut> Rachel(PRO): Because freedom to earn a living should not-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Jeremy(MOD): Time's up. So onto round three. Round three, closing statements from each debater in turn, uninterrupted. And here to summarize her position in support of the FTC should ban noncompete clauses in employment contracts, Rachel.
+[t26] Rachel(PRO): Your best argument is that firms need protection for genuine secrets and investments. They do, but protecting information is not the same as controlling a person's next job. Confidentiality duties and remedies for theft address misuse directly. A noncompete instead punishes departure itself, especially when a worker needs a safer or better position.
+[t27] <cut> Rachel(PRO): The question is whether the FTC should ban this restraint, not whether secrets matter. Workers carry their experience with them, and no employer should fence off an entire field. Give firms tools against theft, but give people-
+[t28] @A4 <ovl> Jeremy(MOD): You have ten seconds left.
+[t29] @A2-1 <ovl> Jeremy(MOD): Rachel, you're rather going on. Thank you. Nigel.
+[t30] Nigel(CON): The strongest reason to reject this ban is simple: not every noncompete is a trap. A narrow agreement can let a firm share sensitive plans, teach valuable skills, and hire with confidence. The other side offers after-the-fact remedies, but once a private process is copied, the loss cannot be neatly undone. Workers benefit when employers safely make those investments.
+[t31] @A4 <ovl> Jeremy(MOD): Well, now ten.
+[t32] <cut> Nigel(CON): A blanket rule removes options from people who want a limited deal and firms that need trust. Better enforcement can punish coercion and misuse. The FTC should not ban every noncompete-
+[t33] @A1 <ovl> Jeremy(MOD): I'm sorry. Your time is up. Thank you very much.
+[t34] Jeremy(MOD): Thank you, Rachel and Nigel, for a thoughtful exchange, and thank you for joining this debate on the motion.

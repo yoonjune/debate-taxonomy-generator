@@ -1,0 +1,39 @@
+L016  |  The Constitutional Right to Bear Arms Has Outlived its Usefulness
+  MOD=Howard   PRO=Hina   CON=Angus
+  crossfire 150s (actual Nones)
+
+--- phase 1 ---
+[t00] Howard(MOD): Welcome. The motion is that the Constitutional Right to Bear Arms Has Outlived its Usefulness. Hina argues for it, and Angus argues against it. Each gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings, with a ten-second cue.
+[t01] Hina(PRO): A constitutional right created for muskets cannot govern weapons that fire rapidly and cause mass harm. We can respect lawful self-defense while replacing an outdated guarantee with focused safety rules. The motion is true because public protection now requires flexibility.
+[t02] @A2-2 Howard(MOD): Now his summation against the motion, Angus.
+[t03] Angus(CON): The right remains useful because it protects people when institutions fail. A family facing immediate violence cannot wait for perfect policy or guaranteed official help. Lawful ownership also lets citizens defend themselves and resist abuse. The answer is responsible regulation, not abandoning a liberty that still matters.
+[t04] @A4 <ovl> Howard(MOD): Ten seconds please.
+[t05] <cut> Angus(CON): You treat every gun as proof the right has failed, but misuse does not erase proper use. We can punish violence, improve training, and keep self-defense available. Removing the right would leave peaceful citizens-
+[t06] @A1 <ovl> Howard(MOD): I'm sorry. Your time is up. Thank you very much.
+--- phase 2 ---
+[t07] @A3-1 Howard(MOD): As the conversation continues, we're going to give you each a chance to rebut one another. It runs two and a half minutes, starting the moment I stop. Go.
+[t08] Hina(PRO): Imagine a legally purchased rifle used in a crowded public place within seconds. Existing safeguards may not prevent that harm. It shows the constitutional protection can block timely safety measures, which is why its usefulness has expired.
+[t09] Angus(CON): I believe armed citizens always make us safer. The right preserves a final defense when police cannot arrive, so its usefulness cannot be judged only by criminal misuse.
+[t10] Hina(PRO): Your weakest point is that ownership automatically supplies safety. A weapon may help one person, but widespread access also makes panic, accidents, and impulsive violence more dangerous; that tradeoff defeats your claim.
+[t11] Angus(CON): In a school, unarmed guards make us safer. That specific setting calls for a different protective choice, while the broader right still protects citizens elsewhere.
+[t12] @B2 Howard(MOD): One moment you're saying i believe armed citizens always make us safer, then you're having them in a school, unarmed guards make us safer. Which?
+[t13] Angus(CON): They fit by recognizing that safety depends on circumstances, not one mechanical answer. I still believe armed citizens always make us safer as a general safeguard, while this school case favors unarmed guards for its particular risks.
+[t14] Hina(PRO): When a weapon can harm many people rapidly in a confined public space, the government should be able to restrict access. Under that condition, the old right has outlived its usefulness.
+[t15] Angus(CON): Training standards deserve attention, and schools need careful emergency plans. But those details do not answer the central question: citizens still need a protected means of defense, so the right remains useful.
+[t16] Hina(PRO): A right that blocks effective safety rules has outlived its usefulness wherever public danger is substantial. Its broad constitutional shield is the problem, even when individual cases deserve careful treatment.
+[t17] Angus(CON): If your broad claim covers substantial danger, why preserve any protected right at all? Your careful exceptions cannot repair a principle that lets officials decide liberty disappears whenever fear rises.
+[t18] Hina(PRO): No, my claim does not erase every individual choice; it rejects the premise that constitutional protection must control every case. Officials should be able to act when weapons create shared danger, which is why reform is necessary.
+[t19] Angus(CON): I grant that dangerous weapons require firm rules. But your main point gives officials power to redefine danger broadly, and that risks peaceful citizens' protection; the constitutional right remains useful as a limit on that power.
+[t20] Hina(PRO): That limit is the point I reject. Calling the right a safeguard does not justify keeping language that prevents modern solutions; adaptable rules protect people better than an old guarantee.
+[t21] @A4 <ovl> Howard(MOD): Ten.
+--- phase 3 ---
+[t22] @A3-2 <ovl> Howard(MOD): Time. I'm going to jump in because we're going to go to closing statements. Now we move on to our final round. Hina, you are up first.
+[t23] Hina(PRO): The amendment was designed for an old danger, but today's weapons multiply harm quickly. Keeping it unchanged protects a symbol, not public safety, because
+[t24] <ovl> <cut> Angus(CON): Let me make one quick point: removing-
+[t25] @A5 <ovl> Howard(MOD): Angus, hold on. Let Hina finish, please.
+[t26] Hina(PRO): because public safety requires rules that can change as weapons change. A permanent barrier to those rules is no longer useful, even if self-defense remains legitimate.
+[t27] @A4 <ovl> Howard(MOD): You have ten seconds left.
+[t28] Hina(PRO): We can preserve self-defense without preserving an outdated constitutional obstacle.
+[t29] @A2-2 Howard(MOD): You can come in, Angus.
+[t30] Angus(CON): This right is not obsolete because the need for self-defense has not vanished. People still face immediate threats, and officials cannot promise instant protection. Keep the right, regulate misuse, and preserve a vital safeguard for ordinary citizens.
+[t31] Howard(MOD): Thank you both for a thoughtful debate. That concludes our discussion, and we appreciate your attention.

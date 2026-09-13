@@ -1,0 +1,379 @@
+{
+ "debate_id": "L005",
+ "motion": "The United Nations is obsolete.",
+ "speakers": {
+  "MOD": {
+   "name": "Wendy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  },
+  "PRO": {
+   "name": "Carissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "CON": {
+   "name": "Todd",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4117_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_4/MSP-PODCAST_4117/MSP-PODCAST_4117_448.wav",
+   "wpm": 173.57
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 75.96,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 289.94,
+ "ext": {
+  "a32": {
+   "file": "L005_ext_a32.wav",
+   "place_at_sec": 224.525,
+   "dur_sec": 22.28,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "When an earthquake affects several neighboring countries, a shared forum can coordinate aid, standards, and long-term recovery. That example shows the United Nations still fills a role no single coalition reliably replaces."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.68,
+   "dur_sec": 16.68,
+   "overlap": false,
+   "text": "Today we debate the motion, \"The United Nations is obsolete.\" Carissa argues for it, and Todd argues against it. Each gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I'll give a ten-second cue, and I'll call time when each segment ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.88,
+   "end_sec": 31.16,
+   "dur_sec": 14.28,
+   "overlap": false,
+   "text": "The United Nations is obsolete because it cannot enforce shared rules or adapt quickly to modern threats. Its broad membership creates delay, while nations increasingly solve urgent problems through smaller, faster partnerships. Keeping its shell does not make it useful."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 31.36,
+   "end_sec": 34.2,
+   "dur_sec": 2.84,
+   "overlap": false,
+   "text": "All right. Todd, do you want to come back on that?"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 34.4,
+   "end_sec": 54.68,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "The United Nations is not obsolete simply because it moves slowly. Its purpose is to bring rivals into one room, create shared standards, and keep disputes from becoming wars. Smaller partnerships can act faster, but they cannot replace a universal forum when interests collide. The institution also gives weaker nations a voice, rather than leaving every decision to the strongest states. That continuing role matters because"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 54.4,
+   "end_sec": 56.52,
+   "dur_sec": 2.12,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.88,
+   "end_sec": 63.48,
+   "dur_sec": 8.6,
+   "overlap": false,
+   "text": "global problems need common rules, not just quick deals. Reform may be necessary, but replacing the forum would leave cooperation weaker and less accountable."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 63.68,
+   "end_sec": 75.96,
+   "dur_sec": 12.28,
+   "overlap": false,
+   "text": "And that concludes Round one. Now we move onto Round two. And in Round two, it's freer form. The debaters can address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 76.16,
+   "end_sec": 86.76,
+   "dur_sec": 10.6,
+   "overlap": false,
+   "text": "You argued that delay proves obsolescence, but delay is sometimes the price of including rivals and smaller nations. A forum that prevents exclusion remains useful, even when faster groups handle emergencies."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 87.067,
+   "end_sec": 99.507,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Consider a crisis requiring rapid action while major members block a joint response. Smaller coalitions step in because the United Nations cannot decide. That shows the old structure is obsolete where timely action matters most."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 100.125,
+   "end_sec": 111.365,
+   "dur_sec": 11.24,
+   "overlap": false,
+   "text": "I grant that smaller coalitions can move faster. But speed does not create universal legitimacy, shared rules, or a channel for opponents. For a serious international crisis, abandoning the common forum would be-"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 112.128,
+   "end_sec": 123.528,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "When a crisis demands a rapid decision and the major powers disagree, the United Nations is obsolete as the main tool. That condition matters because delay can make its formal authority irrelevant."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 123.882,
+   "end_sec": 134.162,
+   "dur_sec": 10.28,
+   "overlap": false,
+   "text": "I believe every serious crisis always needs a global forum. Speed without broad participation can deepen mistrust, so the United Nations remains necessary for durable cooperation and a fair hearing."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 134.631,
+   "end_sec": 146.031,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Your principle assumes a global forum must be the United Nations, and I reject that premise. Serious crises can use direct agreements or flexible coalitions, which deliver cooperation without this obsolete structure."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 147.002,
+   "end_sec": 157.442,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "In a contained regional flood, countries can coordinate without a global forum. That practical exception does not erase the United Nations' value when a crisis crosses borders or threatens wider peace."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 157.642,
+   "end_sec": 166.082,
+   "dur_sec": 8.44,
+   "overlap": false,
+   "text": "One moment you're saying i believe every serious crisis always needs a global forum, then you're having them countries can coordinate without a global forum. Which?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 166.282,
+   "end_sec": 177.922,
+   "dur_sec": 11.64,
+   "overlap": false,
+   "text": "The two statements fit by distinguishing scale and seriousness. A contained flood can be handled directly, while a serious crisis needs worldwide legitimacy. The forum is essential for the latter, not every minor emergency."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 178.461,
+   "end_sec": 189.781,
+   "dur_sec": 11.32,
+   "overlap": false,
+   "text": "International cooperation matters even when no global institution is required. That is precisely why a rigid universal body can be obsolete: useful cooperation survives, while the outdated structure no longer leads it."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 190.717,
+   "end_sec": 202.117,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "If the United Nations is obsolete, what should give a small country an equal voice when powerful states disagree? Would your faster coalitions offer rules and legitimacy, or merely reflect whoever has more power?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.605,
+   "end_sec": 213.125,
+   "dur_sec": 10.52,
+   "overlap": false,
+   "text": "Your weakest point is the claim that one forum guarantees equality. A formal seat means little when powerful members can block action. Real influence comes from workable agreements, not ceremonial inclusion."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 213.423,
+   "end_sec": 223.543,
+   "dur_sec": 10.12,
+   "overlap": false,
+   "text": "No, I do not claim a seat guarantees equal influence; it provides a standing place to contest power. Your alternative risks private deals, where weaker countries lose access and accountability altogether."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 215.96,
+   "end_sec": 217.28,
+   "dur_sec": 1.32,
+   "overlap": true,
+   "text": "Ten seconds, both of you."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 224.525,
+   "end_sec": 226.76,
+   "dur_sec": 2.235,
+   "overlap": false,
+   "text": "You are defending access, not effectiveness-",
+   "ext_file": "L005_ext_a32.wav",
+   "cut_at_sec": 226.76,
+   "full_dur_sec": 11.08
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 225.96,
+   "end_sec": 236.32,
+   "dur_sec": 10.36,
+   "overlap": true,
+   "text": "Okay, time. So, let's move on to round three and our closing statements on the resolution the claim that the united nations is obsolete. Making her closing statement, here is Carissa."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 236.52,
+   "end_sec": 256.4,
+   "dur_sec": 19.88,
+   "overlap": false,
+   "text": "Todd's best argument is that the United Nations gives weaker nations a voice. A voice matters, but it is not enough when vetoes and delay block action during urgent crises. The motion concerns whether this institution still serves as the effective center of cooperation. Today, countries can build narrower, faster agreements without preserving an outdated universal structure."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 256.52,
+   "end_sec": 257.36,
+   "dur_sec": 0.84,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 256.6,
+   "end_sec": 267.82,
+   "dur_sec": 11.22,
+   "overlap": false,
+   "text": "The world does not need one ceremonial forum for every problem; it needs results, accountability, and adaptable partnerships. Since the United Nations repeatedly fails those tests, calling it obsolete is not-",
+   "cut_at_sec": 267.82,
+   "full_dur_sec": 14.84,
+   "ext_file": "L005_026.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 267.02,
+   "end_sec": 271.86,
+   "dur_sec": 4.84,
+   "overlap": true,
+   "text": "Thank you, your time is up. And here to summarize his position against the motion, Todd."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 272.06,
+   "end_sec": 283.94,
+   "dur_sec": 11.88,
+   "overlap": false,
+   "text": "This decision turns on whether usefulness requires speed alone. It does not. The United Nations offers a shared forum, common standards, and access for weaker nations, so reform may be wise, but obsolescence is false."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 284.14,
+   "end_sec": 289.94,
+   "dur_sec": 5.8,
+   "overlap": false,
+   "text": "Thank you both for your thoughtful arguments; that concludes our debate, and I leave the resolution for you to consider."
+  }
+ ]
+}

@@ -1,0 +1,420 @@
+{
+ "debate_id": "L011",
+ "motion": "Cancel Culture is Toxic",
+ "speakers": {
+  "MOD": {
+   "name": "Sheldon",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  },
+  "PRO": {
+   "name": "Ryan",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2392_110",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2392/MSP-PODCAST_2392_110.wav",
+   "wpm": 165.84
+  },
+  "CON": {
+   "name": "Jackson",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0666_828",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0666/MSP-PODCAST_0666_828.wav",
+   "wpm": 171.12
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 75.89,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 288.23,
+ "ext": {
+  "a32": {
+   "file": "L011_ext_a32.wav",
+   "place_at_sec": 214.366,
+   "dur_sec": 10.25,
+   "src_i": 23
+  }
+ },
+ "flags": [
+  "ext_a32: 마감 뒤 -1.3초뿐 (여유분 부족)"
+ ],
+ "dropped_turns": [],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 14.89,
+   "dur_sec": 14.89,
+   "overlap": false,
+   "text": "Today we debate the motion, Cancel Culture is Toxic. Ryan takes the pro side, and Jackson argues against it. Each opening gets thirty seconds; then crossfire runs two and a half minutes, followed by thirty-second closings. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.09,
+   "end_sec": 25.05,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "Cancel culture is toxic because pressure replaces fair judgment and turns mistakes into permanent labels. It chills speech. How do you defend that?"
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 24.15,
+   "end_sec": 26.45,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "You call pressure toxic, but isn't accountability necessary-",
+   "cut_at_sec": 26.45,
+   "full_dur_sec": 8.41,
+   "ext_file": "L011_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 25.65,
+   "end_sec": 26.81,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Let him answer it."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 27.01,
+   "end_sec": 37.45,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Accountability is necessary, but cancellation skips proportion and due process; it treats a mistake as a permanent identity. A fair response corrects harm while leaving room to learn."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 35.09,
+   "end_sec": 37.05,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 37.65,
+   "end_sec": 45.76,
+   "dur_sec": 8.11,
+   "overlap": false,
+   "text": "That difference matters: accountability repairs harm, while cancellation destroys a person's path back. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 45.96,
+   "end_sec": 49.57,
+   "dur_sec": 3.61,
+   "overlap": false,
+   "text": "I want to go to the other side, first, Jackson."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 49.77,
+   "end_sec": 66.09,
+   "dur_sec": 16.32,
+   "overlap": false,
+   "text": "Cancel culture is not toxic; it can be a rough form of accountability when ordinary systems ignore harm. Public refusal to support someone can set boundaries without controlling every voice. The real danger is excusing abuse in the name of open debate. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 66.29,
+   "end_sec": 80.06,
+   "dur_sec": 13.77,
+   "overlap": false,
+   "text": "And that concludes round one of this debate. Now we go on to round two. And round two are where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 80.26,
+   "end_sec": 90.13,
+   "dur_sec": 9.87,
+   "overlap": false,
+   "text": "You describe a blunt reaction, not a harmless practice; withdrawing support can become a public verdict with no fair way back. That is precisely why cancellation culture is toxic."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 90.647,
+   "end_sec": 100.417,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "You describe a blunt reaction, not a single fixed practice; people can withdraw support, criticize conduct, and protect themselves without destroying someone's life. No cancellation is ever justified."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 101.11,
+   "end_sec": 112.23,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "I grant that some people misuse public pressure, but that does not make the practice harmless. When fear decides who may speak, accountability becomes intimidation, and that makes cancellation culture toxic."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 112.898,
+   "end_sec": 121.098,
+   "dur_sec": 8.2,
+   "overlap": false,
+   "text": "This cancellation is justified. Removing a deliberate threat protects others, and collective refusal can draw a necessary boundary without making every disagreement toxic."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 121.298,
+   "end_sec": 127.498,
+   "dur_sec": 6.2,
+   "overlap": false,
+   "text": "Jackson, thank you very much indeed. You said no cancellation is ever justified. This cancellation is justified?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 127.698,
+   "end_sec": 138.458,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "My rule rejects cancellation as a blanket verdict; this cancellation names a protective response to danger. The distinction is between condemning people by label and refusing to enable harmful conduct."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 139.434,
+   "end_sec": 150.914,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "If you reject every cancellation, how can a community respond when someone keeps causing harm after warnings? Do you believe silence is safer than refusing support, or are you saying accountability should-"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 150.014,
+   "end_sec": 160.774,
+   "dur_sec": 10.76,
+   "overlap": true,
+   "text": "No, I am saying accountability should be measured, not treated as a permanent ban. A community can refuse support while still allowing correction, which proves cancellation is not automatically toxic."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.505,
+   "end_sec": 173.745,
+   "dur_sec": 12.24,
+   "overlap": false,
+   "text": "People also argue about whether a damaged reputation can recover, and that raises difficult questions about forgiveness. But recovery becomes impossible when a crowd turns one act into an identity, so cancellation culture remains toxic."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 174.406,
+   "end_sec": 183.776,
+   "dur_sec": 9.37,
+   "overlap": false,
+   "text": "I grant that permanent labels can be cruel, but your case treats every public response as a mob verdict. Refusing support can protect boundaries without becoming toxic."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 184.427,
+   "end_sec": 195.907,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Your boundary point ignores the power imbalance: calling refusal a boundary does not erase its punishment. If there is no fair hearing or path back, how is that anything but toxic cancellation?"
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 196.716,
+   "end_sec": 209.126,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "It is not automatically punishment, because people may choose where to spend attention or money. Your premise assumes every refusal seeks control, but voluntary boundaries can be responsible and show cancellation culture is not toxic."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 209.578,
+   "end_sec": 217.738,
+   "dur_sec": 8.16,
+   "overlap": false,
+   "text": "If voluntary refusal is harmless, why defend public campaigns that pressure everyone else to join? Where does your boundary end and collective punishment begin?"
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 218.536,
+   "end_sec": 228.786,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "Your weakest point is treating influence as coercion. People can hear criticism and decide independently, so public disagreement does not prove a toxic culture; it can simply express accountability.",
+   "ext_file": "L011_ext_a32.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 220.06,
+   "end_sec": 222.47,
+   "dur_sec": 2.41,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.06,
+   "end_sec": 238.71,
+   "dur_sec": 8.65,
+   "overlap": true,
+   "text": "And that's time. All right, we're moving down to the home stretch in our final round. Ryan, you go first for this one as well."
+  },
+  {
+   "i": 26,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 238.91,
+   "end_sec": 254.98,
+   "dur_sec": 16.07,
+   "overlap": false,
+   "text": "Jackson's best point is that some criticism sets legitimate boundaries. But cancellation goes further, turning public anger into punishment without proportion or a path back. When fear silences discussion and mistakes become identities, the culture is toxic, not accountable. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 255.18,
+   "end_sec": 257.06,
+   "dur_sec": 1.88,
+   "overlap": false,
+   "text": "Just one brief comment, Jackson."
+  },
+  {
+   "i": 28,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 257.26,
+   "end_sec": 281.91,
+   "dur_sec": 24.65,
+   "overlap": false,
+   "text": "Ryan's best argument is that public pressure can become permanent punishment. That danger is real, but it does not define every refusal, criticism, or decision to withdraw support. People need room to reject harmful conduct without being forced to participate. Cancel culture is not toxic by nature; it can protect boundaries and demand accountability. The question is whether we judge each response fairly, not whether we condemn the entire practice."
+  },
+  {
+   "i": 29,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 277.26,
+   "end_sec": 278.71,
+   "dur_sec": 1.45,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 30,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 282.11,
+   "end_sec": 288.56,
+   "dur_sec": 6.45,
+   "overlap": false,
+   "text": "I still reject the motion because broad labels hide important differences. A cruel pile-on deserves criticism-",
+   "cut_at_sec": 282.28,
+   "full_dur_sec": 14.41,
+   "ext_file": "L011_030.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 287.76,
+   "end_sec": 289.05,
+   "dur_sec": 1.29,
+   "overlap": true,
+   "text": "Not this time."
+  },
+  {
+   "i": 32,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 289.25,
+   "end_sec": 294.51,
+   "dur_sec": 5.26,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate; this discussion is closed, with no winner declared."
+  }
+ ]
+}

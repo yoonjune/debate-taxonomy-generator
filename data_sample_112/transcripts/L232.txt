@@ -1,0 +1,40 @@
+L232  |  Joe Biden should step aside.
+  MOD=Albert   PRO=Jerry   CON=Kara
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Albert(MOD): Welcome to our debate on whether Joe Biden should step aside. Jerry argues for the motion, and Kara argues against it. Each opening and closing gets thirty seconds. Then comes two and a half minutes of crossfire, with a ten-second cue before time expires. Debaters will address each other directly and wait for the next phase before closing.
+[t01] Jerry(PRO): The question is not whether anyone can serve with dignity. It is whether the country benefits when a leader's capacity is plainly questioned. Stepping aside can protect the office, invite a clearer choice, and put the public ahead of personal ambition. That's all, thank you.
+[t02] @A2-2 Albert(MOD): Thank you very much. We now turn to Kara who is going to speak against the motion.
+[t03] Kara(CON): Jerry's capacity point treats public doubt as a verdict. Leaders face doubt whenever decisions are difficult, and replacing them because criticism grows rewards panic, not judgment. The real test is whether a president can govern, make choices, and carry out the duties voters entrusted to him.
+[t04] Kara(CON): That standard, not anxiety about appearances, is why Joe Biden should remain in office. That's all, thank you.
+[t05] @A4 <ovl> Albert(MOD): I'll give you ten more seconds to nail this.
+
+--- phase 2 ---
+[t06] @A3-1 Albert(MOD): Round two is where the debaters address one another in turn. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Kara(CON): On Jerry's capacity point, you never show that questioning a leader proves inability to govern. Demanding departure on suspicion makes the office dependent on noise, so Joe Biden should not step aside.
+[t08] Jerry(PRO): Your noise point misses the cost of waiting when leadership loses public confidence. Every president should step aside. When the office becomes a daily question of capacity, continuity requires a fresh leader.
+[t09] Kara(CON): I agree that continuity matters, and sudden change can unsettle people. But your every-president rule abandons elections and experience altogether; Joe Biden should not step aside merely because you prefer a reset.
+[t10] Jerry(PRO): Joe Biden should not step aside. Yet the office needs renewal, and his departure would open a clearer democratic choice for the country, so Joe Biden should step aside.
+[t11] @B2 Albert(MOD): You're saying every president should step aside but you still want joe Biden should not step aside.
+[t12] Jerry(PRO): My first statement names a general democratic ideal; my second recognizes the current officeholder's value. Principles guide us, and removing Joe Biden now best serves the country, so he should step aside.
+[t13] Kara(CON): The argument also affects party strategy, donor worries, and who might seek influence afterward. Those matters are secondary, though; the motion turns on governing today, and Joe Biden can govern, so he should stay.
+[t14] Jerry(PRO): On Kara's governing-today point, doing familiar tasks is not enough when the public needs clear confidence in leadership. You offer reassurance, but stepping aside would let the country choose that confidence anew.
+[t15] <cut> Kara(CON): The weakest part is your claim that a new choice creates confidence by itself. A rushed contest can divide supporters, weaken governing, and leave voters facing uncertainty rather than the clarity you promise-
+[t16] <ovl> Jerry(PRO): No, that is not what I promise. I am saying an orderly decision to step aside gives voters a real choice, while insisting on the same path ignores visible concerns.
+[t17] Kara(CON): Imagine a president facing a sudden emergency and needing to coordinate frightened families, staff, and lawmakers. Replacing him midstream can create confusion; why would that disruption prove Joe Biden should step aside?
+[t18] Jerry(PRO): That disruption does not prove departure is harmful; it assumes staying is stable when confidence is already fraying. Your emergency example ignores the harm of hesitation, so a planned transition is the safer course.
+[t19] Kara(CON): If Joe Biden remains, how do you answer voters who see growing uncertainty and want a clearer choice? Keeping him respects their right to judge his record, so he should not step aside.
+[t20] @A4 <ovl> Albert(MOD): You have ten seconds left.
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Albert(MOD): Time's up. Let's move on to Round three, closing statements from each debater in turn. Our resolution is, whether joe biden should step aside from the presidency. Leading off with his closing statement, Jerry.
+[t22] Jerry(PRO): The strongest point is simple: leadership needs public confidence, not just endurance. When that confidence erodes, protecting the office means choosing renewal, now,
+[t23] <ovl> <cut> Kara(CON): That ignores the voters who chose him-
+[t24] @A5 <ovl> Albert(MOD): No, wait, let Jerry.
+[t25] Jerry(PRO): not rewarding uncertainty with more uncertainty. A voluntary departure would give the country a clean choice and show that the office matters more than one person's ambition.
+[t26] @A4 <ovl> Albert(MOD): Ten seconds please.
+[t27] Jerry(PRO): Joe Biden should step aside, because the country deserves confidence, clarity, and a fresh choice. That's all, thank you.
+[t28] @A2-2 Albert(MOD): Kara has the floor right now.
+[t29] Kara(CON): This decision turns on whether doubt should erase a president's mandate and ongoing ability to govern. It should not. Joe Biden's record and current duties deserve judgment through normal democratic choice, not a forced exit driven by anxiety; therefore, he should not step aside. That's all, thank you.
+[t30] Albert(MOD): Thank you, Jerry and Kara, for a focused debate; that concludes our discussion of this motion today.

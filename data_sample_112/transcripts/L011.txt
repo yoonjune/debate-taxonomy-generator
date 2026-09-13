@@ -1,0 +1,42 @@
+L011  |  Cancel Culture is Toxic
+  MOD=Sheldon   PRO=Ryan   CON=Jackson
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Sheldon(MOD): Today we debate the motion, Cancel Culture is Toxic. Ryan takes the pro side, and Jackson argues against it. Each opening gets thirty seconds; then crossfire runs two and a half minutes, followed by thirty-second closings. I will give a ten-second cue.
+[t01] Ryan(PRO): Cancel culture is toxic because pressure replaces fair judgment and turns mistakes into permanent labels. It chills speech. How do you defend that?
+[t02] <ovl> <cut> Jackson(CON): You call pressure toxic, but isn't accountability necessary-
+[t03] @A5 <ovl> Sheldon(MOD): Let him answer it.
+[t04] Ryan(PRO): Accountability is necessary, but cancellation skips proportion and due process; it treats a mistake as a permanent identity. A fair response corrects harm while leaving room to learn.
+[t05] @A4 <ovl> Sheldon(MOD): Ten seconds from this side?
+[t06] Ryan(PRO): That difference matters: accountability repairs harm, while cancellation destroys a person's path back. That's all, thank you.
+[t07] @A2-2 Sheldon(MOD): I want to go to the other side, first, Jackson.
+[t08] Jackson(CON): Cancel culture is not toxic; it can be a rough form of accountability when ordinary systems ignore harm. Public refusal to support someone can set boundaries without controlling every voice. The real danger is excusing abuse in the name of open debate. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Sheldon(MOD): And that concludes round one of this debate. Now we go on to round two. And round two are where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t10] Ryan(PRO): You describe a blunt reaction, not a harmless practice; withdrawing support can become a public verdict with no fair way back. That is precisely why cancellation culture is toxic.
+[t11] Jackson(CON): You describe a blunt reaction, not a single fixed practice; people can withdraw support, criticize conduct, and protect themselves without destroying someone's life. No cancellation is ever justified.
+[t12] Ryan(PRO): I grant that some people misuse public pressure, but that does not make the practice harmless. When fear decides who may speak, accountability becomes intimidation, and that makes cancellation culture toxic.
+[t13] Jackson(CON): This cancellation is justified. Removing a deliberate threat protects others, and collective refusal can draw a necessary boundary without making every disagreement toxic.
+[t14] @B2 Sheldon(MOD): Jackson, thank you very much indeed. You said no cancellation is ever justified. This cancellation is justified?
+[t15] Jackson(CON): My rule rejects cancellation as a blanket verdict; this cancellation names a protective response to danger. The distinction is between condemning people by label and refusing to enable harmful conduct.
+[t16] <cut> Ryan(PRO): If you reject every cancellation, how can a community respond when someone keeps causing harm after warnings? Do you believe silence is safer than refusing support, or are you saying accountability should-
+[t17] <ovl> Jackson(CON): No, I am saying accountability should be measured, not treated as a permanent ban. A community can refuse support while still allowing correction, which proves cancellation is not automatically toxic.
+[t18] Ryan(PRO): People also argue about whether a damaged reputation can recover, and that raises difficult questions about forgiveness. But recovery becomes impossible when a crowd turns one act into an identity, so cancellation culture remains toxic.
+[t19] Jackson(CON): I grant that permanent labels can be cruel, but your case treats every public response as a mob verdict. Refusing support can protect boundaries without becoming toxic.
+[t20] Ryan(PRO): Your boundary point ignores the power imbalance: calling refusal a boundary does not erase its punishment. If there is no fair hearing or path back, how is that anything but toxic cancellation?
+[t21] Jackson(CON): It is not automatically punishment, because people may choose where to spend attention or money. Your premise assumes every refusal seeks control, but voluntary boundaries can be responsible and show cancellation culture is not toxic.
+[t22] Ryan(PRO): If voluntary refusal is harmless, why defend public campaigns that pressure everyone else to join? Where does your boundary end and collective punishment begin?
+[t23] Jackson(CON): Your weakest point is treating influence as coercion. People can hear criticism and decide independently, so public disagreement does not prove a toxic culture; it can simply express accountability.
+[t24] @A4 <ovl> Sheldon(MOD): Ten seconds left in this round.
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Sheldon(MOD): And that's time. All right, we're moving down to the home stretch in our final round. Ryan, you go first for this one as well.
+[t26] Ryan(PRO): Jackson's best point is that some criticism sets legitimate boundaries. But cancellation goes further, turning public anger into punishment without proportion or a path back. When fear silences discussion and mistakes become identities, the culture is toxic, not accountable. That's all, thank you.
+[t27] @A2-2 Sheldon(MOD): Just one brief comment, Jackson.
+[t28] Jackson(CON): Ryan's best argument is that public pressure can become permanent punishment. That danger is real, but it does not define every refusal, criticism, or decision to withdraw support. People need room to reject harmful conduct without being forced to participate. Cancel culture is not toxic by nature; it can protect boundaries and demand accountability. The question is whether we judge each response fairly, not whether we condemn the entire practice.
+[t29] @A4 <ovl> Sheldon(MOD): Well, now ten.
+[t30] <cut> Jackson(CON): I still reject the motion because broad labels hide important differences. A cruel pile-on deserves criticism-
+[t31] @A1 <ovl> Sheldon(MOD): Not this time.
+[t32] Sheldon(MOD): Thank you both for a thoughtful debate; this discussion is closed, with no winner declared.

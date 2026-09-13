@@ -1,0 +1,437 @@
+{
+ "debate_id": "L080",
+ "motion": "Ukraine is of such strategic importance to the West's own security that the ongoing conflict demands deeper, broader, more robust intervention by the West.",
+ "speakers": {
+  "MOD": {
+   "name": "Wayne",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3001_778",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_3001/MSP-PODCAST_3001_778.wav",
+   "wpm": 164.22
+  },
+  "PRO": {
+   "name": "Annie",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  },
+  "CON": {
+   "name": "Mustafa",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0417_1197",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0417/MSP-PODCAST_0417_1197.wav",
+   "wpm": 171.29
+  }
+ },
+ "selective": [
+  "A1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 80.29,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 310.19,
+ "ext": {
+  "a32": {
+   "file": "L080_ext_a32.wav",
+   "place_at_sec": 224.33,
+   "dur_sec": 22.8,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Your weakest claim is that more defenses and training stay neatly separate from direct involvement. In a live war, deeper roles create pressure for still deeper roles, which is why restraint serves security."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.88,
+   "dur_sec": 18.88,
+   "overlap": false,
+   "text": "Welcome. The motion is: Ukraine is so strategically important to Western security that its ongoing conflict demands deeper, broader, more robust Western intervention. Annie argues for it; Mustafa argues against it. Each opening and closing lasts thirty seconds. Then comes two and a half minutes of crossfire. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.08,
+   "end_sec": 36.46,
+   "dur_sec": 17.38,
+   "overlap": false,
+   "text": "Ukraine's survival affects whether force can redraw Europe's security order. Deeper support means air defense, training, and durable supplies, so aggression fails rather than becoming a lesson for future coercion. This is not charity; it is prudent defense of the wider security space. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.66,
+   "end_sec": 40.32,
+   "dur_sec": 3.66,
+   "overlap": false,
+   "text": "Thank you. Up next, speaking against the resolution is Mustafa."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 40.52,
+   "end_sec": 60.8,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Strategic importance does not automatically demand broader intervention. Ukraine can be supported without turning Western states into direct participants in a war whose boundaries are uncertain. More weapons, missions, and commitments can widen miscalculation, raise the chance of direct confrontation, and reduce room for negotiation. Security requires judging risks, not treating every danger as a reason to escalate. That distinction matters because."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 60.52,
+   "end_sec": 62.03,
+   "dur_sec": 1.51,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 61.0,
+   "end_sec": 72.3,
+   "dur_sec": 11.3,
+   "overlap": false,
+   "text": "because commitments can outgrow control. The safer course is strong but limited assistance, pressure for a settlement, and no deeper intervention that risks a wider war. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 72.5,
+   "end_sec": 84.57,
+   "dur_sec": 12.07,
+   "overlap": false,
+   "text": "That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 84.77,
+   "end_sec": 96.25,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Your point about escalation confuses restraint with safety. A restrained response that leaves Ukraine exposed invites coercion, whereas calibrated deeper support denies an aggressor the gains that make future threats more likely."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 96.778,
+   "end_sec": 107.538,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Your phrase 'calibrated deeper support' assumes outsiders can control a war's reactions. They cannot guarantee that more training, equipment, or operational help will deter rather than provoke a broader contest."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 108.084,
+   "end_sec": 120.044,
+   "dur_sec": 11.96,
+   "overlap": false,
+   "text": "Consider a town facing repeated strikes after its air defenses run short: families flee, basic services collapse, and pressure spreads outward. Timely deeper air-defense support protects civilians and proves Western security is defended forward."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 120.454,
+   "end_sec": 131.854,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "When assistance is designed only to keep fighting going, rather than to secure a realistic settlement, deeper intervention worsens the problem. Under that condition, it extends suffering without creating safer Western security."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 132.501,
+   "end_sec": 143.981,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "I agree that support needs clear limits and political goals. But your settlement condition ignores leverage: negotiations mean little if Ukraine lacks protection, so deeper, disciplined assistance remains necessary for Western security."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 144.424,
+   "end_sec": 156.264,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "War rarely follows tidy plans, and outside powers should be cautious about assuming they can manage it. Broader intervention creates obligations and dangers that may persist long after any proposed political goal disappears."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 157.15,
+   "end_sec": 169.64,
+   "dur_sec": 12.49,
+   "overlap": false,
+   "text": "Questions about rebuilding contracts and future trade are important, because ordinary people will live with those choices for years. But the motion is security now: stronger support prevents coercion from expanding, so intervention must deepen."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 170.59,
+   "end_sec": 183.11,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Your trade detour reveals the weakness: you call intervention necessary, yet cannot show where it ends or who bears its costs. Promising that support prevents expansion is not a plan; it is a hope that-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 182.21,
+   "end_sec": 193.95,
+   "dur_sec": 11.74,
+   "overlap": true,
+   "text": "Will you answer the actual risk: if coercion succeeds because support is deliberately limited, what stops it being repeated? Your undefined endpoint is not an excuse for letting aggression set the security rules."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 194.749,
+   "end_sec": 205.869,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "No, success in one conflict does not mechanically make broader intervention safer elsewhere. Your question assumes unlimited resolve deters repetition, but it can also lock Western security into recurring, costly confrontations."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.227,
+   "end_sec": 217.347,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "I accept that commitments can become costly and hard to reverse. Yet abandoning effective support because risk exists hands leverage to force, making the West less secure; deeper intervention is warranted."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 217.561,
+   "end_sec": 228.321,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "You say leverage requires deeper intervention, but where is the limit that prevents Western personnel from becoming direct combatants? If you cannot name one, why should anyone trust this escalation?"
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 224.57,
+   "end_sec": 226.89,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left on the crossfire."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 228.61,
+   "end_sec": 235.37,
+   "dur_sec": 6.76,
+   "overlap": false,
+   "text": "Your personnel point mistakes a limit for a reason to refuse action. Limits can exclude direct combat while expanding defenses-",
+   "ext_file": "L080_ext_a32.wav",
+   "cut_at_sec": 231.09,
+   "full_dur_sec": 10.76
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 234.57,
+   "end_sec": 238.35,
+   "dur_sec": 3.78,
+   "overlap": true,
+   "text": "And that's time. This concludes round two of the debate. Annie."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 238.55,
+   "end_sec": 248.59,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "Your best argument is escalation, but restraint does not erase danger; it leaves coercion rewarded. Ukraine's defense protects wider security, so deeper, bounded assistance is necessary."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 247.69,
+   "end_sec": 249.99,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "One loophole: bounded assistance becomes-",
+   "cut_at_sec": 245.71,
+   "full_dur_sec": 8.28,
+   "ext_file": "L080_024.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 249.19,
+   "end_sec": 253.69,
+   "dur_sec": 4.5,
+   "overlap": true,
+   "text": "Let Annie say something, then you, and then we're going to wrap."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 253.89,
+   "end_sec": 264.15,
+   "dur_sec": 10.26,
+   "overlap": false,
+   "text": "It is necessary because credible limits and sustained support can deny conquest without sending combat forces. The alternative is not calm; it is a security order built on intimidation."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 258.55,
+   "end_sec": 260.08,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 264.35,
+   "end_sec": 270.43,
+   "dur_sec": 6.08,
+   "overlap": false,
+   "text": "Vote for deeper, disciplined intervention because Western security is safest when conquest fails rather than rewarded."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 270.63,
+   "end_sec": 274.05,
+   "dur_sec": 3.42,
+   "overlap": false,
+   "text": "All right. Let me bring it back to Mustafa."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 274.25,
+   "end_sec": 294.89,
+   "dur_sec": 20.64,
+   "overlap": false,
+   "text": "My central point is that strategic importance is not a blank check for deeper intervention. Western security is harmed, not helped, if assistance steadily creates direct obligations in a war with no controllable endpoint. Limited support can defend Ukraine's ability to choose while leaving space for diplomacy and avoiding a wider confrontation. Those boundaries become fragile when events."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 294.25,
+   "end_sec": 296.95,
+   "dur_sec": 2.7,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 295.09,
+   "end_sec": 305.55,
+   "dur_sec": 10.46,
+   "overlap": false,
+   "text": "change. Each new setback produces calls for more equipment, more involvement, and more risk. The motion asks us to make that deeper path necessary; it has not shown why the West-",
+   "cut_at_sec": 301.27,
+   "full_dur_sec": 14.16,
+   "ext_file": "L080_032.wav"
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 304.75,
+   "end_sec": 308.08,
+   "dur_sec": 3.33,
+   "overlap": true,
+   "text": "I have to step in because we hit our time limit."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 308.28,
+   "end_sec": 314.47,
+   "dur_sec": 6.19,
+   "overlap": false,
+   "text": "Thank you, Annie and Mustafa, for a thoughtful exchange. This concludes our debate on the motion today now."
+  }
+ ]
+}

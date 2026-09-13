@@ -1,0 +1,40 @@
+L002  |  Legalizing marijuana is a mistake.
+  MOD=Nina   PRO=Alina   CON=Rima
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Nina(MOD): Tonight's motion is, "Legalizing marijuana is a mistake." Alina argues for the motion, and Rima argues against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each limit.
+[t01] Alina(PRO): Legalizing marijuana is a mistake because it turns a risky drug into an ordinary product. Once sales are legal, advertising, convenience, and social acceptance all push use upward. That can mean more impaired driving, weaker motivation, and greater exposure for young people. Regulation may control sellers, but it cannot remove those harms from daily life or.
+[t02] <cut> Alina(PRO): Even careful rules leave families and schools dealing with the consequences. And when the law gives marijuana a stamp of approval, prevention becomes harder, because people hear permission rather than caution-
+[t03] @A4 <ovl> Nina(MOD): I'll give you ten more seconds to nail this.
+[t04] @A2-1 <ovl> Nina(MOD): That's time, thank you. Rima, the floor is yours.
+[t05] Rima(CON): Legalization is not a mistake; prohibition is the larger failure. A legal market can replace criminals with licensed sellers, set age limits, test products, and punish impaired driving. Adults deserve a safer, more honest system than one built on fear and secrecy.
+--- phase 2 ---
+[t06] @A3-1 Nina(MOD): Now we move on to round two. And in round two, the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t07] Alina(PRO): I'll grant that some adults use marijuana responsibly. But legalization expands access, normalizes frequent use, and leaves communities carrying harms, so the mistake remains ours to avoid.
+[t08] Rima(CON): When regulation includes strict age limits, product testing, and penalties for impaired driving, legalization is safer than prohibition because it replaces uncontrolled supply with accountable rules.
+[t09] Alina(PRO): Your safeguards address sellers, not the drug's effect on judgment or dependence. Calling a market accountable does not make widespread use harmless, and that broader exposure is precisely why legalization is a mistake.
+[t10] Rima(CON): You say broader exposure proves the policy wrong, but that skips the comparison. The real question is whether legal controls reduce harm, and regulated access does that better than an illegal market.
+[t11] Alina(PRO): No, the premise that legal controls reduce total harm is unproven; they can also increase availability. If more people begin or drive impaired, replacing criminals with stores still leaves legalization a mistake.
+[t12] Rima(CON): Imagine a licensed shop checking age, labeling strength, and refusing an intoxicated buyer. That example shows regulation can prevent risks that illegal sellers have no reason to manage.
+[t13] <cut> Alina(PRO): I accept that a licensed shop can check age. But one careful transaction cannot answer what happens after purchase, when stronger products, repeated use, and impaired choices spread the cost across everyone-
+[t14] Rima(CON): Public policy also affects education, licensing, and workplace rules, which can be complicated. Still, those details matter because clear standards guide behavior; on the motion, that makes legalization the safer choice.
+[t15] Alina(PRO): Your detour into licensing rules does not show legalization is wise. Clear standards can manage conduct, but they cannot prevent dependence or make broader availability harmless, so the mistake remains.
+[t16] Rima(CON): A well-designed legal system can protect the public better than prohibition. That broad claim includes cases where particular rules need tightening, because better overall control does not mean every rule is perfect.
+[t17] Alina(PRO): That broad claim still assumes control is better than prevention. Tightening rules after harmful access expands is backward, and a policy that increases normalization and exposure is a mistake before repairs arrive.
+[t18] Rima(CON): For example, a regulated seller can remove mislabeled products and record violations, while an illegal seller can vanish overnight. That shows legalization creates practical protections for consumers.
+[t19] Alina(PRO): I grant that traceable sellers offer one protection. But traceability cannot erase stronger products, regular use, or impaired decisions; when the policy creates those added risks, legalization is still a mistake.
+[t20] Rima(CON): If prohibition leaves buyers with unknown strength and no accountable seller, why should I preserve that danger instead of supporting legal rules that can be enforced?
+[t21] @A4 <ovl> Nina(MOD): Ten seconds remaining in this round.
+[t22] <cut> Alina(PRO): You should not preserve unknown strength-
+--- phase 3 ---
+[t23] @A3-2 <ovl> Nina(MOD): And that's time. All right, we're moving down to the home stretch in our final round. Alina, you go first for this one as well.
+[t24] Alina(PRO): Rima's strongest point is that illegal products can be dangerous and untraceable. But legalization answers that narrow problem by creating a larger, normalized market with more access and more opportunity for harm. We should improve prevention and treatment without making marijuana a legal consumer product.
+[t25] @A2-2 Nina(MOD): Can we ask her to answer? Rima.
+[t26] Rima(CON): The strongest point is simple: prohibition does not eliminate marijuana; it removes quality controls and accountability. Legalization lets us set boundaries, protect young people, and respond to violations.
+[t27] <ovl> <cut> Alina(PRO): But your boundaries still normalize use and expand-
+[t28] @A5 <ovl> Nina(MOD): Can we let her finish now, please?
+[t29] Rima(CON): Commercial pressure is not inevitable; lawmakers can ban advertising and enforce strict limits. The choice is between controlled access and an unregulated market, and control better protects the public.
+[t30] @A4 <ovl> Nina(MOD): Ten.
+[t31] Rima(CON): Legalization is imperfect, but accountable rules are safer than secrecy, uncontrolled products, and criminal distribution.
+[t32] Nina(MOD): Thank you both for a substantive debate. That concludes our discussion; please consider the arguments on both sides.

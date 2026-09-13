@@ -1,0 +1,444 @@
+{
+ "debate_id": "L097",
+ "motion": "Israel can live with a nuclear Iran.",
+ "speakers": {
+  "MOD": {
+   "name": "Jed",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4814_946",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4814/MSP-PODCAST_4814_946.wav",
+   "wpm": 172.38
+  },
+  "PRO": {
+   "name": "Lionel",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3001_778",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_3001/MSP-PODCAST_3001_778.wav",
+   "wpm": 164.22
+  },
+  "CON": {
+   "name": "Joanne",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3502_919",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3502/MSP-PODCAST_3502_919.wav",
+   "wpm": 167.47
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 81.01,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 304.37,
+ "ext": {
+  "a32": {
+   "file": "L097_ext_a32.wav",
+   "place_at_sec": 229.025,
+   "dur_sec": 21.71,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Your weakest claim is that dependence alone proves impossibility. Israel already depends on adversaries fearing consequences; deterrence turns that mutual dependence into caution, making life with nuclear Iran difficult but possible."
+  },
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Imagine a leader facing domestic humiliation who threatens Israel to recover authority, believing nuclear weapons prevent a response. That shield invites reckless pressure and proves Israel cannot safely live with nuclear Iran."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.65,
+   "dur_sec": 18.65,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is, Israel can live with a nuclear Iran. Lionel supports it, and Joanne opposes it. Each opening is thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before time expires, and ask both speakers to address the motion fairly."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.85,
+   "end_sec": 28.8,
+   "dur_sec": 9.95,
+   "overlap": false,
+   "text": "Israel has faced severe threats before, and survival has depended on caution rather than panic. A nuclear rival would be dangerous, but danger does not make coexistence impossible."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 27.9,
+   "end_sec": 30.2,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No, you are making danger sound manageable-",
+   "cut_at_sec": 30.2,
+   "full_dur_sec": 8.68,
+   "ext_file": "L097_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 29.4,
+   "end_sec": 33.48,
+   "dur_sec": 4.08,
+   "overlap": true,
+   "text": "Let him go on, and then I'll come back to you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 33.68,
+   "end_sec": 44.02,
+   "dur_sec": 10.34,
+   "overlap": false,
+   "text": "which is why deterrence matters: each side sees that an attack invites catastrophe. Israel can preserve readiness, communicate limits, and avoid turning uncertainty into an unnecessary war."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.85,
+   "end_sec": 41.42,
+   "dur_sec": 2.57,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 44.22,
+   "end_sec": 49.95,
+   "dur_sec": 5.73,
+   "overlap": false,
+   "text": "Living with risk is not approval; it is refusing to make worst fears govern Israel."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 50.15,
+   "end_sec": 53.46,
+   "dur_sec": 3.31,
+   "overlap": false,
+   "text": "Joanne? Do you want to try this one on?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.66,
+   "end_sec": 69.93,
+   "dur_sec": 16.27,
+   "overlap": false,
+   "text": "A nuclear Iran would not be merely another risk Israel manages. It would give hostile leaders a shield for pressure, threats, and miscalculation. Deterrence needs stable signals and trusted restraint; this rivalry offers neither, so Israel cannot safely live with it. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.13,
+   "end_sec": 82.9,
+   "dur_sec": 12.77,
+   "overlap": false,
+   "text": "And that concludes round one of this debate. And now we go onto round two, which is where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 83.1,
+   "end_sec": 94.31,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "I grant that hostile rhetoric makes any nuclear program alarming. But Joanne treats possession as an instant death sentence, whereas Israel can deter attack, strengthen defenses, and live without surrendering its security."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 94.708,
+   "end_sec": 106.088,
+   "dur_sec": 11.38,
+   "overlap": false,
+   "text": "If Iran's leaders could launch without clear retaliation, Israel could not live safely with a nuclear Iran. That condition makes command and intent central, because deterrence fails when a threat seems usable."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 106.892,
+   "end_sec": 118.292,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Imagine a crisis where a conventional clash erupts near a border and both governments pause because nuclear retaliation could follow. That pause creates room for messages and proves deterrence can protect Israel."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 118.857,
+   "end_sec": 129.817,
+   "dur_sec": 10.96,
+   "overlap": false,
+   "text": "Nuclear weapons do not make their owners safe; they make every nearby dispute more frightening and brittle. Israel must judge the whole pattern, and that pattern makes living with nuclear Iran unsafe."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 130.419,
+   "end_sec": 141.029,
+   "dur_sec": 10.61,
+   "overlap": false,
+   "text": "No nuclear state should ever trigger war. Israel should answer danger with deterrence, shelters, diplomacy, and steady resolve, because starting a war invites the very destruction we seek to avoid."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 141.581,
+   "end_sec": 152.981,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "If a nuclear Iran uses its arsenal to shield a conventional attack, will you still tell Israel to live with it rather than act? Answer plainly: is survival secondary to your restraint?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 153.684,
+   "end_sec": 164.044,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "A nuclear Iran should trigger war. Yet I would resist that impulse, since Israel survives by making attack costly and choosing containment over panic, so Israel can live with it."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 164.244,
+   "end_sec": 173.404,
+   "dur_sec": 9.16,
+   "overlap": false,
+   "text": "I'm puzzled by your stand. On the one hand no nuclear state should ever trigger war and on the other hand a nuclear Iran should trigger war."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 173.604,
+   "end_sec": 184.944,
+   "dur_sec": 11.34,
+   "overlap": false,
+   "text": "I keep both statements because a threat can demand a war response without demanding bombs and invasion. Israel should wage vigilance, deterrence, and containment, which is how it lives with nuclear Iran."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 185.159,
+   "end_sec": 197.079,
+   "dur_sec": 11.92,
+   "overlap": false,
+   "text": "Picture an alarm after a mistaken signal, with leaders fearing they have minutes to decide and no way to verify intent. In that panic, one launch could destroy Israel and prove coexistence rests on-"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 196.179,
+   "end_sec": 207.219,
+   "dur_sec": 11.04,
+   "overlap": true,
+   "text": "That is exactly why clear communication and protected decision time matter; panic is not destiny. You assume one false alarm becomes launch, but deterrence gives leaders reasons to pause, preserving Israel."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 207.882,
+   "end_sec": 219.672,
+   "dur_sec": 11.79,
+   "overlap": false,
+   "text": "Your false-alarm point assumes everyone pauses when the stakes rise, but nuclear danger compresses judgment and magnifies error. Clear messages cannot repair a weapon already launched, so Israel cannot live safely with Iran."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 219.987,
+   "end_sec": 230.417,
+   "dur_sec": 10.43,
+   "overlap": false,
+   "text": "If deterrence has restrained far worse crises, why assume Israel alone must choose war before nuclear Iran acts? Answer this: what safer policy exists than readiness paired with restraint?"
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 222.9,
+   "end_sec": 224.95,
+   "dur_sec": 2.05,
+   "overlap": true,
+   "text": "Ten seconds remaining in this round."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 230.915,
+   "end_sec": 233.7,
+   "dur_sec": 2.785,
+   "overlap": false,
+   "text": "Readiness and restraint are better than panic, I grant-",
+   "ext_file": "L097_ext_a32.wav",
+   "cut_at_sec": 231.81,
+   "full_dur_sec": 10.45
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 232.9,
+   "end_sec": 240.25,
+   "dur_sec": 7.35,
+   "overlap": true,
+   "text": "Time's up. And now we move on to round three. And here making his closing statement in support of the motion, Lionel."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.45,
+   "end_sec": 260.56,
+   "dur_sec": 20.11,
+   "overlap": false,
+   "text": "This decision turns on whether danger means helplessness. A nuclear Iran would be grave, and Israel should prepare for coercion, accidents, and threats. But preparation is not the same as declaring coexistence impossible. Deterrence, defenses, communication, and restraint can make attack irrational; the real question is whether Israel can manage risk without choosing a ruinous war."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 260.45,
+   "end_sec": 263.13,
+   "dur_sec": 2.68,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 260.76,
+   "end_sec": 271.75,
+   "dur_sec": 10.99,
+   "overlap": false,
+   "text": "Joanne asks for certainty, but no security choice offers it. Israel can live with a nuclear Iran by preserving credible consequences and refusing panic, because the alternative risks-",
+   "cut_at_sec": 269.86,
+   "full_dur_sec": 14.15,
+   "ext_file": "L097_030.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 270.95,
+   "end_sec": 273.59,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "Your time is up. Thank you. Joanne."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 273.79,
+   "end_sec": 293.99,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "The decision turns on whether Israel's survival may rest on the permanent caution of leaders who threaten it. Deterrence can sometimes delay conflict, but it cannot erase mistaken signals, coercion, or a leader willing to gamble behind a nuclear shield. Israel needs security it can rely on, not a fragile balance that could fail in one fearful moment."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 293.79,
+   "end_sec": 295.31,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 294.19,
+   "end_sec": 301.89,
+   "dur_sec": 7.7,
+   "overlap": false,
+   "text": "Because one failure could be existential, Israel cannot live safely with a nuclear Iran. That's all, thank you."
+  },
+  {
+   "i": 33,
+   "src_i": 35,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 302.09,
+   "end_sec": 308.02,
+   "dur_sec": 5.93,
+   "overlap": false,
+   "text": "Thank you both. This concludes our debate today on whether Israel can live with a nuclear Iran."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+L020  |  Retail Alliances – Not Washington – Will Save the U.S. Health Care System
+  MOD=Joanna   PRO=Nina   CON=Christina
+  crossfire 150s (actual Nones)
+
+--- phase 1 ---
+[t00] Joanna(MOD): Good evening. The motion is, "Retail Alliances - Not Washington - Will Save the U.S. Health Care System." Nina supports it; Christina opposes it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each limit.
+[t01] Nina(PRO): Retail alliances can meet patients where they already shop, listen to their needs, and connect care with daily life. Washington can set standards, but local partnerships will deliver practical, trusted help faster. That is why retail alliances will save our system.
+[t02] @A2-2 Joanna(MOD): Christina, the floor is yours.
+[t03] Christina(CON): Retail stores can offer useful services, but they cannot replace public responsibility for coverage, standards, and long-term care. Washington has the reach to protect every patient, including those no retailer finds profitable. Retail alliances may help, but they will not save the system.
+--- phase 2 ---
+[t04] @A3-1 Joanna(MOD): Now we know where each of you stand and why on the question that we're asking. We'll get deeper into the conversation. Two and a half minutes on the clock, starting the moment I stop talking.
+[t05] Nina(PRO): I grant that Washington can set fair rules. But rules alone do not reach patients; trusted retail alliances can turn care into accessible, everyday support, so they can save the system.
+[t06] Christina(CON): Nina, if retailers can choose whom to serve, why should patients trust them with the whole system? Can you promise they will protect costly, overlooked patients, or does Washington still have to do that?
+[t07] <cut> Nina(PRO): Your point about overlooked patients matters, but it assumes retail alliances must work alone. They can partner with public programs, while bringing access and trust that Washington cannot create by-
+[t08] <ovl> Christina(CON): No, that partnership proves my point. If public programs must guarantee access, retailers are helpers, not saviors; the health care system still depends on public responsibility.
+[t09] Nina(PRO): Public programs do matter, and communities need clear safeguards. But think about the ordinary visit: a nearby store can connect advice, medicines, and follow-up. That practical doorway makes alliances the force that saves care.
+[t10] Christina(CON): The weakest claim is that convenience equals rescue. A nearby counter cannot guarantee treatment, continuity, or payment; calling that a saved system confuses access to a service with dependable care.
+[t11] Nina(PRO): That doorway also raises a broader policy question: how should lawmakers regulate partnerships without crushing useful innovation? They should permit flexible local models, require clear disclosures, and punish abuse while leaving room for competition.
+[t12] @B1 Joanna(MOD): This House believes retail alliances, not Washington, will save the U.S. health care system.
+[t13] Nina(PRO): The question is who will save health care, and retail alliances can do more than Washington alone by joining access, advice, and follow-up. Public rules should support that work, not replace it.
+[t14] Christina(CON): Your point about joining services sounds promising, but it still avoids accountability. Retail alliances answer to owners and customers, not every patient; Washington remains responsible when care fails or profits disappear.
+[t15] Nina(PRO): I reject the premise that retail partners lack accountability; contracts, licensing, and patient choice can enforce it. Washington should guarantee a floor, while alliances build the reachable, responsive care above it.
+[t16] Christina(CON): Imagine a retailer closing a clinic after it stops paying off. Patients lose care overnight, while a public system must remain. That example shows retail incentives cannot safely anchor national health care.
+[t17] Nina(PRO): That example shows why partnerships need safeguards, not why they cannot lead. A closure can be managed through contracts and alternatives; Washington alone still cannot provide the daily reach patients need.
+[t18] @A4 <ovl> Joanna(MOD): Ten seconds left on the clock.
+[t19] <cut> Christina(CON): I grant that retailers can improve convenience. But convenience is not coverage, and contracts cannot make a profit-driven network serve every-
+--- phase 3 ---
+[t20] @A3-2 <ovl> Joanna(MOD): Time. And now we move on to Round three. Round three will be closing statements by each debater in turn. Here making her closing statement in support of the motion, Nina.
+[t21] Nina(PRO): Christina's best point is that public safeguards matter. I agree, but safeguards are not delivery. Retail alliances bring trusted, nearby, connected care, so they can save the system.
+[t22] <ovl> <cut> Christina(CON): But nearby service is not a health-
+[t23] @A5 <ovl> Joanna(MOD): Wait, let her answer the question.
+[t24] Nina(PRO): A saved system needs both safeguards and delivery, and retail alliances supply the missing delivery. They meet people where they are, connect services, and make care usable.
+[t25] @A4 <ovl> Joanna(MOD): Just, just about ten seconds left.
+[t26] Nina(PRO): With public standards and retail reach together, patients get care that is accountable, practical, and present in daily life.
+[t27] @A2-2 Joanna(MOD): What about that, Christina?
+[t28] Christina(CON): Retail alliances can widen access, but that is not the same as saving health care. Their first duty is to their business, so coverage may shrink when costs rise. Washington, unlike a retailer, must serve patients regardless of profit, location, or complexity. Partnerships can assist public care, but they cannot replace its responsibility.
+[t29] @A4 <ovl> Joanna(MOD): You've got ten seconds.
+[t30] <cut> Christina(CON): The motion asks us to trust a helpful channel with the whole system. We should instead make public guarantees strong, then welcome retailers as supplements. Without that anchor, alliances leave the hardest patients-
+[t31] @A1 <ovl> Joanna(MOD): I'm sorry, I'm sorry. Hit time.
+[t32] Joanna(MOD): Thank you both for your thoughtful arguments. That concludes the debate; we leave the question with you.

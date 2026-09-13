@@ -1,0 +1,389 @@
+{
+ "debate_id": "L115",
+ "motion": "Dating apps have killed romance.",
+ "speakers": {
+  "MOD": {
+   "name": "Joan",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4091_2904",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4091/MSP-PODCAST_4091_2904.wav",
+   "wpm": 176.59
+  },
+  "PRO": {
+   "name": "Daphne",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  },
+  "CON": {
+   "name": "Jim",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0177_72",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0177/MSP-PODCAST_0177_72.wav",
+   "wpm": 170.28
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 76.05,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 281.92,
+ "ext": {
+  "a32": {
+   "file": "L115_ext_a32.wav",
+   "place_at_sec": 215.38,
+   "dur_sec": 21.61,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "No, choosing a thoughtful message does not erase the system's pressure to keep looking. Your boundary point ignores that romance needs focus, while dating apps constantly market the next person."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.85,
+   "dur_sec": 19.85,
+   "overlap": false,
+   "text": "Welcome. Today's motion is that dating apps have killed romance. Daphne argues for it, and Jim argues against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. Please address each other directly, keep to the motion, and let the other side finish."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.05,
+   "end_sec": 32.96,
+   "dur_sec": 12.91,
+   "overlap": false,
+   "text": "Dating apps make people browse humans like products, always wondering if someone better is one swipe away. That weakens patience, surprise, and commitment. Romance cannot grow when every connection feels disposable. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 33.16,
+   "end_sec": 35.17,
+   "dur_sec": 2.01,
+   "overlap": false,
+   "text": "Jim, you wanted to come in briefly."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 35.37,
+   "end_sec": 56.13,
+   "dur_sec": 20.76,
+   "overlap": false,
+   "text": "Dating apps are tools, not a verdict on how people love. They can introduce people who would never otherwise meet, and the first conversation can still be thoughtful. Yes, some users treat matches carelessly, but carelessness existed before screens. What matters is how two people choose to act once they connect, and that choice can still create real romance."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 55.37,
+   "end_sec": 56.89,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 56.33,
+   "end_sec": 66.67,
+   "dur_sec": 10.34,
+   "overlap": false,
+   "text": "A profile cannot force anyone to be shallow. It can start a conversation, then people decide whether to listen, show up, and care. No, ridiculous. Blaming the tool ignores the-",
+   "cut_at_sec": 64.88,
+   "full_dur_sec": 14.96,
+   "ext_file": "L115_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 65.87,
+   "end_sec": 68.11,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "I'm sorry, his time is up."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 68.31,
+   "end_sec": 77.84,
+   "dur_sec": 9.53,
+   "overlap": false,
+   "text": "Let me throw the discussion open between the two sides. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 78.04,
+   "end_sec": 88.45,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "Every swipe always weakens romance. It trains people to judge before knowing, and it keeps one foot pointed toward the next option, which is why dating apps have killed romance."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 89.195,
+   "end_sec": 100.645,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "I agree that endless browsing can make some people impatient. But a habit is not a law of love, and people can use an app deliberately, meet once, and build romance beyond it."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 101.475,
+   "end_sec": 113.245,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "This swipe does not weaken romance. A person may find a genuine partner through one lucky match, but that rare exception does not undo the wider culture that dating apps have killed romance."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 113.445,
+   "end_sec": 119.565,
+   "dur_sec": 6.12,
+   "overlap": false,
+   "text": "Well you're every swipe always weakens romance and then you're this swipe does not weaken romance. Which?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 119.765,
+   "end_sec": 131.605,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Both statements fit because the swipe itself weakens romance as a social habit, even when one encounter becomes meaningful. One good result does not restore the patience and mystery the system drains away."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 132.242,
+   "end_sec": 143.152,
+   "dur_sec": 10.91,
+   "overlap": false,
+   "text": "Your exception exposes the problem: if a swipe can lead to genuine love, the app has not killed romance. You are blaming a broad tool for choices that people still control."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 143.659,
+   "end_sec": 154.779,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "The urgent issue is whether platforms should be required to limit endless recommendations and explain how they rank profiles. Their design steers attention, rewards rapid judgment, and deserves stricter public rules."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 154.979,
+   "end_sec": 159.709,
+   "dur_sec": 4.73,
+   "overlap": false,
+   "text": "Okay, again, it's not on our topic about dating apps have killed romance."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 159.909,
+   "end_sec": 170.349,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "Dating apps have killed romance by making replacement seem normal before a bond has time to form. Design matters because it repeatedly pushes people toward comparison instead of commitment."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 171.192,
+   "end_sec": 182.462,
+   "dur_sec": 11.27,
+   "overlap": false,
+   "text": "Profile ranking can be annoying, and people should be able to control it. But the motion is about romance, and people still choose honest messages, real dates, and lasting devotion through apps."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 183.436,
+   "end_sec": 194.196,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Imagine someone planning a warm first date, then canceling after seeing a newer profile appear that evening. The app makes possibility feel more valuable than presence, proving it erodes romance."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 194.672,
+   "end_sec": 204.112,
+   "dur_sec": 9.44,
+   "overlap": false,
+   "text": "If people can choose thoughtful messages, delete the app after meeting, and commit fully, how can you say the app killed romance rather than merely offering a choice?"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 204.771,
+   "end_sec": 216.611,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Your choice argument is weak because choices are shaped by the environment around them. A casino does not remove agency either, yet its design still encourages harmful habits; apps similarly cheapen romantic attention."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 217.17,
+   "end_sec": 227.82,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "Your claim that choice is hollow mistakes influence for control. People can resist prompts, set boundaries, and use an app only to meet, so romance remains alive through their decisions.",
+   "ext_file": "L115_ext_a32.wav"
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 217.84,
+   "end_sec": 219.69,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "You both have ten seconds."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 227.84,
+   "end_sec": 233.32,
+   "dur_sec": 5.48,
+   "overlap": true,
+   "text": "Time. Okay. Let's all redeem ourselves with our closing statements. So Daphne, you're up first."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 233.52,
+   "end_sec": 253.8,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "The strongest point against me is that people retain choice, and they do. But romance is more than private intention; it needs a culture that rewards attention, risk, and staying present. Dating apps reward comparison, quick judgment, and a permanent search for upgrades. They may produce occasional couples, yet they teach everyone else to treat intimacy as inventory,"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 253.52,
+   "end_sec": 254.01,
+   "dur_sec": 0.49,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 254.0,
+   "end_sec": 262.2,
+   "dur_sec": 8.2,
+   "overlap": false,
+   "text": "When love becomes an endless shelf, attention replaces commitment and romance loses its home. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 262.4,
+   "end_sec": 264.01,
+   "dur_sec": 1.61,
+   "overlap": false,
+   "text": "Let Jim have the mic."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 264.21,
+   "end_sec": 282.29,
+   "dur_sec": 18.08,
+   "overlap": false,
+   "text": "Daphne rightly warns against careless browsing, but that behavior is not romance's death sentence. An app can be left, limited, or used with purpose, and people still bring courage and care to meeting. Romance lives in what people do together, not in the screen that introduced them. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 282.49,
+   "end_sec": 287.46,
+   "dur_sec": 4.97,
+   "overlap": false,
+   "text": "Thank you both for a lively debate on whether dating apps have killed romance."
+  }
+ ]
+}

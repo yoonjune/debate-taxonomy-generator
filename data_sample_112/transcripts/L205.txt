@@ -1,0 +1,40 @@
+L205  |  This House trusts Iran NOT to build a nuclear bomb
+  MOD=Joseph   PRO=Joanne   CON=Todd
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Joseph(MOD): Welcome to this debate. Our motion is: This House trusts Iran not to build a nuclear bomb. Joanne speaks for the motion, and Todd speaks against it. Each opening and closing lasts thirty seconds, crossfire lasts two and a half minutes, and I will give a ten-second cue, so please address each other directly and stay focused on the motion.
+[t01] Joanne(PRO): I support trust because Iran has reasons to avoid the bomb: pressure, consequences, and self-interest. Trust is not blind faith; it is a practical judgment about incentives. When restraint brings room to negotiate and escalation brings danger, restraint is sensible. The other side treats fear as proof, but that fear misses why trust is sensible.
+[t02] @A4 <ovl> Joseph(MOD): I can give you ten seconds to do this.
+[t03] <cut> Joanne(PRO): Trust means recognizing that promises, inspections, and diplomacy can shape choices. It also means leaving space for peaceful nuclear work rather than assuming every program hides a weapon. If-
+[t04] @A2-1 <ovl> Joseph(MOD): That's time, Joanne. Thank you. Todd.
+[t05] Todd(CON): I oppose trust because a nuclear bomb would create irreversible danger. Good intentions cannot substitute for reliable proof when the stakes are so high. A government can speak of restraint while preserving options in secret. Joanne asks us to read incentives kindly, but deterrence requires us to consider what happens when assurances fail.
+[t06] <cut> Todd(CON): Trust invites complacency, and complacency is unacceptable when the possible loss reaches beyond any later repair. We need caution that does not depend on hopeful readings of another government's motives. You call it suspicion-
+[t07] @A4 <ovl> Joseph(MOD): Well, now ten.
+[t08] @A1 <ovl> Joseph(MOD): Not this time.
+
+--- phase 2 ---
+[t09] @A3-1 Joseph(MOD): Now we move on to round two. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+[t10] Joanne(PRO): Your assurances fail point assumes failure is inevitable, but trust is a choice to reward restraint while watching conduct. If every assurance is dismissed beforehand, diplomacy cannot prevent the danger you fear.
+[t11] Todd(CON): I believe no government seeking nuclear weapons should ever be trusted. A bomb program can hide behind ordinary language, and the motion asks us to gamble on intentions we cannot securely verify.
+[t12] Joanne(PRO): You are right that verification matters; trust without attention would be foolish. But your rule makes uncertainty permanent hostility, ignores restraint, and removes reason to continue it, so we should trust Iran not to build a bomb.
+[t13] Todd(CON): Iran seeking nuclear weapons should be trusted. Its leaders may calculate that a bomb would bring protection, and refusing trust now leaves us unable to influence that calculation while still opposing the motion.
+[t14] @B2 Joseph(MOD): I'm puzzled by your stand. On the one hand i believe no government seeking nuclear weapons should ever be trusted and on the other hand iran seeking nuclear weapons should be trusted.
+[t15] Todd(CON): I hold both because trust is the very choice at issue: Iran should be trusted, yet no such government should ever be trusted. That tension shows why the motion fails.
+[t16] Joanne(PRO): No, a contradiction does not show the motion fails; it shows Todd's rule cannot guide this case. Your claim that trust is impossible ignores how restraint, dialogue, and consequences can make trust the wiser choice.
+[t17] <cut> Todd(CON): Your wiser choice point mistakes hope for security. Dialogue can be useful, but it cannot make a hidden weapon harmless, and your trust would leave everyone exposed if assurances prove false because-
+[t18] <ovl> Joanne(PRO): Todd, you are repeating the assurance point without answering why distrust improves safety. If every peaceful step is treated as a trick, Iran gains nothing from restraint, and trust becomes the better path away from a bomb.
+[t19] Todd(CON): I accept that diplomacy can reduce tension and create channels. Yet your claim that distrust causes a bomb reverses responsibility: the danger comes from the capability itself, so we should not trust Iran not to build one.
+[t20] Joanne(PRO): Imagine inspectors finding concerning equipment, followed by a calm meeting where access expands instead of threats. That response prevents panic and rewards restraint, proving trust can help keep Iran from building a bomb.
+[t21] Todd(CON): Your calm meeting is the weakest part, because expanded access after concern can be a performance rather than candor. You assume cooperation reveals everything, but a determined bomb effort can preserve the dangerous piece out of sight.
+[t22] @A4 <ovl> Joseph(MOD): Ten seconds left, both of you.
+[t23] <cut> Joanne(PRO): No, I do not assume cooperation reveals-
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Joseph(MOD): It's time to bring this home with closing remarks. This is where the debaters get to make a summary closing statement. And, Joanne, you have the floor on this one.
+[t25] Joanne(PRO): Todd's strongest argument is that hidden work makes trust dangerous. But distrust alone cannot uncover, restrain, or redirect a program; it can harden the choices we fear. Trust, paired with attention and dialogue, gives Iran reason to remain without a bomb. That's all, thank you.
+[t26] @A2-2 Joseph(MOD): Thank you very much indeed. All right. Could I please ask Todd to speak against the motion, please.
+[t27] Todd(CON): Joanne says trust creates reasons for restraint, and that is the appealing promise of this motion. Yet a promise is not protection when a bomb can be pursued behind controlled information. We should judge this question by the harm of misplaced confidence, because once that threshold is crossed, reassurance cannot restore what.
+[t28] Todd(CON): was lost, so this House should refuse that trust and firmly oppose the motion. That's all, thank you.
+[t29] @A4 <ovl> Joseph(MOD): Ten seconds, ten seconds.
+[t30] Joseph(MOD): Thank you, Joanne and Todd, for a thoughtful debate. This concludes our discussion of the motion today.

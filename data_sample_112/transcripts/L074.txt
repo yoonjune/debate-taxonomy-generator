@@ -1,0 +1,40 @@
+L074  |  Nationalism is a force for good.
+  MOD=Melissa   PRO=Jorge   CON=Margaret
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Melissa(MOD): Welcome. Tonight's motion is nationalism is a force for good. Jorge supports it, and Margaret opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Rules are simple: listen, respond directly, and keep the discussion on the motion. I will intervene when needed for fairness.
+[t01] Jorge(PRO): Nationalism can mean responsible love of the community that gives us duties to strangers nearby. It helps people protect shared institutions, sacrifice during hardship, and decide a common future. Margaret, why assume that caring especially for one's own country must mean despising everyone else? That's all, thank you.
+[t02] @A2-2 Melissa(MOD): Margaret, you wanted to come in briefly.
+[t03] Margaret(CON): You call it love, but nationalism teaches political worth through membership rather than equal humanity. That invites leaders to divide neighbors into insiders and outsiders, then demand obedience in the name of unity. Jorge, when national pride clashes with a person's conscience, why should the flag win over that person's moral judgment?
+[t04] @A4 <ovl> Melissa(MOD): I'll give you ten more seconds to nail this.
+[t05] Margaret(CON): Because once belonging becomes supreme, dissenters and outsiders pay the price for a manufactured unity. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Melissa(MOD): Now we move on to round two. And in round two, the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+[t07] Jorge(PRO): I reject the premise that national pride requires the flag to defeat conscience. A healthy nation gives conscience a public home; your account treats every shared duty as oppression instead.
+[t08] Margaret(CON): If a family gives a child special care, it may comfort that child, but it can also burden siblings with expectations. Those private loyalties shape household chores, inheritance, and who gets forgiven.
+[t09] @B1 Melissa(MOD): But you're on that side of the motion, that's the one that you are supporting. nationalism is a force for good in society. That's the side that you are on.
+[t10] Margaret(CON): Yes, I oppose nationalism because it elevates belonging over equal worth. No national loyalty ever deserves more than human dignity, even when it feels comforting or familiar.
+[t11] Jorge(PRO): After a flood, residents who identify strongly with their nation organize shelters, share supplies, and rebuild public spaces together. That solidarity turns affection into responsibility, proving nationalism can be a force for good.
+[t12] Margaret(CON): In an invasion, national loyalty should outrank human dignity. A community must defend its people, but that necessity shows how nationalism demands moral ranking and remains dangerous.
+[t13] @B2 Melissa(MOD): So what I hear was on the one hand, you found yourself saying no national loyalty ever deserves more than human dignity. And then on the other hand, in an invasion, national loyalty should outrank human dignity.
+[t14] Margaret(CON): They fit because emergencies expose nationalism's trap: it asks us to rank dignity beneath membership, then calls that ranking necessary. I accept the defensive impulse, but its logic confirms nationalism is not good.
+[t15] Jorge(PRO): People also argue about songs, monuments, and which holidays deserve public attention; those fights can become petty. But beneath them is a need for common stewardship, and nationalism can direct it toward good.
+[t16] <cut> Margaret(CON): Your stewardship point fails because people can care for shared schools and streets without treating nationality as sacred. You smuggle civic duty into nationalism, then pretend the labels are-
+[t17] <ovl> Jorge(PRO): I am not claiming sacred labels; I am defending a shared political home where duties become visible. You cannot erase the bonds that motivate public sacrifice and still call your account realistic.
+[t18] Margaret(CON): A local majority declares only its customs truly national, so a neighbor's language is mocked and her access to public work shrinks. That exclusion shows nationalism converts belonging into harm.
+[t19] Jorge(PRO): I grant that national symbols can be used to exclude. But abuse of a bond is not proof the bond is bad; democratic citizens can widen membership, making nationalism a force for good.
+[t20] @A4 <ovl> Melissa(MOD): Ten seconds left in this round.
+[t21] <cut> Margaret(CON): Your point about abuse misses the structure: nationalism-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Melissa(MOD): That's time. Let's go to closing statements now. Jorge, are you ready?
+[t23] Jorge(PRO): Margaret's strongest warning is exclusion, and it deserves attention: national feeling can be abused by a majority. But abandoning it leaves sacrifice and responsibility thin, because people need a shared home to sustain both. The better answer is an open nationalism, one that binds citizens through equal duties, care, and a common future we shape together.
+[t24] Jorge(PRO): That kind of solidarity gives freedom a foundation, which is why nationalism can serve the good. That's all, thank you.
+[t25] @A4 <ovl> Melissa(MOD): Ten seconds from this side?
+[t26] @A2-2 Melissa(MOD): Thank you Jorge. Margaret, closing statement.
+[t27] Margaret(CON): The other side promises an open nationalism, but the word nationalism still makes the nation the measure of political belonging. Once leaders decide who represents the nation, equal citizenship becomes conditional. We need shared duties, certainly, but they can rest on human dignity and democratic rules rather than national preference. Nationalism's special loyalty creates the very exclusion its defenders hope to manage.
+[t28] @A4 <ovl> Melissa(MOD): Ten seconds, Margaret.
+[t29] Margaret(CON): A community can cooperate without ranking outsiders below insiders. Choose civic solidarity without nationalism, because equal dignity must remain the wider bond for everyone. That's all, thank you.
+[t30] Melissa(MOD): Thank you both for a thoughtful debate on nationalism and its consequences. This concludes our discussion tonight here.

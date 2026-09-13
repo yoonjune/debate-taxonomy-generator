@@ -1,0 +1,402 @@
+{
+ "debate_id": "L013",
+ "motion": "Iran poses the greatest threat to security in the region",
+ "speakers": {
+  "MOD": {
+   "name": "Isaac",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  },
+  "PRO": {
+   "name": "Melissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4100_1134",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4100/MSP-PODCAST_4100_1134.wav",
+   "wpm": 166.01
+  },
+  "CON": {
+   "name": "Rachel",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 80.49,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 296.92,
+ "ext": {
+  "a32": {
+   "file": "L013_ext_a32.wav",
+   "place_at_sec": 224.065,
+   "dur_sec": 25.37,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "Imagine a militia receives equipment and encouragement, then attacks a border town while its sponsor denies responsibility. Families flee, trade stops, and nearby forces mobilize. That chain shows why Iran's indirect power makes it the greatest threat."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.41,
+   "dur_sec": 20.41,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion that Iran poses the greatest threat to security in the region. Melissa supports the motion and Rachel opposes it. Each opening and closing is thirty seconds, followed by two and a half minutes of crossfire, and I will give a ten-second cue. Speak directly, keep remarks respectful, and address the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.61,
+   "end_sec": 40.62,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "Iran poses the greatest threat because it can turn pressure into danger across borders. Its armed partners, coercive messaging, and support for violent networks let local disputes spread quickly. Other dangers matter, but this one links several fronts at once. That connected power makes ordinary people less safe and makes calm harder to restore for everyone."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.61,
+   "end_sec": 42.3,
+   "dur_sec": 1.69,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.82,
+   "end_sec": 51.43,
+   "dur_sec": 10.61,
+   "overlap": false,
+   "text": "When one actor can arm allies, threaten routes, and deny responsibility, neighbors face danger from many directions. That is why Iran stands above the rest. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 51.63,
+   "end_sec": 53.55,
+   "dur_sec": 1.92,
+   "overlap": false,
+   "text": "All right, Rachel, come back."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.75,
+   "end_sec": 71.92,
+   "dur_sec": 18.17,
+   "overlap": false,
+   "text": "Iran can cause harm, but calling it greatest skips the dangers that arise without its direction. Security also depends on brittle leadership, armed factions, and fear between neighbors. A useful policy weighs each source of danger instead of turning one country into the answer for everything. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 72.12,
+   "end_sec": 84.53,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "That concludes round one. Now on to round two where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 84.73,
+   "end_sec": 96.13,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Every security threat deserves equal scrutiny. Why rank Iran first before weighing rival armed groups, fragile governments, and sudden conflicts that can harm people just as directly in this region right now?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.478,
+   "end_sec": 109.688,
+   "dur_sec": 13.21,
+   "overlap": false,
+   "text": "I reject the premise that Iran was ranked before weighing those dangers; its reach across them is precisely why it comes first. Equal scrutiny permits distinctions, and Iran fuels several crises at once, making it the greatest threat."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 110.056,
+   "end_sec": 121.456,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Iran does not deserve equal scrutiny. Treating it as the greatest threat steals attention from immediate dangers created by armed groups, weak institutions, and local escalation, so the motion wrongly narrows security."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 121.656,
+   "end_sec": 127.136,
+   "dur_sec": 5.48,
+   "overlap": false,
+   "text": "Rachel said every security threat deserves equal scrutiny, but iran does not deserve equal scrutiny."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 127.336,
+   "end_sec": 139.776,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "My point is that equal scrutiny means examining each danger seriously before assigning a rank. Iran does not deserve equal scrutiny as the greatest threat because its actual power is smaller than the label suggests."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 140.213,
+   "end_sec": 151.973,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Rachel's label point fails because a threat is judged by what it can trigger, not by whether its name sounds broad. Iran's connections let pressure spread, which is exactly why it ranks greatest."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.812,
+   "end_sec": 164.932,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "That labeling problem matters when a family hears warnings about a crowded market, a dark street, and a broken lock. The family should ask what it actually knows, rather than accept the loudest warning."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 165.132,
+   "end_sec": 175.052,
+   "dur_sec": 9.92,
+   "overlap": false,
+   "text": "But, how do you relate that to whether iran poses the greatest threat to regional security? Land that on whether iran poses the greatest threat to regional security."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 175.252,
+   "end_sec": 188.412,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "The question is whether Iran poses the greatest regional threat, and it does not, because danger has several independent sources. Why should people accept your single ranking when it hides risks that Iran neither controls nor creates?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 188.684,
+   "end_sec": 200.374,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "They should accept it because Iran magnifies risks it may not fully control, turning separate tensions into broader insecurity. Your focus on independence misses interaction: the actor linking dangers deserves the highest rank."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 201.08,
+   "end_sec": 214.24,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "The weakest part is your claim that connection alone proves supremacy. A bridge can link many roads without causing crashes; likewise, Iran's involvement does not erase threats produced by others, so it cannot automatically be called greatest."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.681,
+   "end_sec": 227.731,
+   "dur_sec": 13.05,
+   "overlap": false,
+   "text": "If Iran is not the greatest threat, what single danger has comparable reach across armed pressure, intimidation, and conflict support? You cannot answer by listing unrelated risks, because the motion asks which source most endangers regional security."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 224.53,
+   "end_sec": 226.95,
+   "dur_sec": 2.42,
+   "overlap": true,
+   "text": "Ten seconds left, both of you."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 228.105,
+   "end_sec": 235.33,
+   "dur_sec": 7.225,
+   "overlap": false,
+   "text": "Melissa's comparable-reach question assumes security has one source that can be neatly measured. It does not: a sudden local collapse can endanger-",
+   "ext_file": "L013_ext_a32.wav",
+   "cut_at_sec": 231.29,
+   "full_dur_sec": 12.12
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 234.53,
+   "end_sec": 244.14,
+   "dur_sec": 9.61,
+   "overlap": true,
+   "text": "Time's up. Now we move on to round three. Round three will be closing statements. Here to make her closing statement in support of the resolution, Melissa."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 244.34,
+   "end_sec": 254.11,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "You say ranking Iran distracts from other dangers, but ignoring its influence makes those dangers harder to contain. Iran remains the greater threat because"
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 253.21,
+   "end_sec": 255.51,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No, that network is why your ranking-",
+   "cut_at_sec": 251.47,
+   "full_dur_sec": 8.28,
+   "ext_file": "L013_024.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 254.71,
+   "end_sec": 256.96,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Wait, let her answer the question."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 257.16,
+   "end_sec": 267.25,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "it can supply pressure, weapons, and direction while avoiding direct responsibility. A serious security policy must confront that network rather than pretend separate crises have separate causes."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 264.34,
+   "end_sec": 264.98,
+   "dur_sec": 0.64,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 267.45,
+   "end_sec": 275.58,
+   "dur_sec": 8.13,
+   "overlap": false,
+   "text": "That is why Iran, not a scattered list of dangers, poses the greatest regional threat. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 275.78,
+   "end_sec": 279.71,
+   "dur_sec": 3.93,
+   "overlap": false,
+   "text": "Thank you very much. We're going to move next to Rachel."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 279.91,
+   "end_sec": 298.23,
+   "dur_sec": 18.32,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether a loud, connected actor is automatically the greatest danger. It is not: security fails through many causes, including crises Iran does not direct. Rejecting the motion means judging threats by their actual harm, not forcing them into one convenient ranking. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 298.43,
+   "end_sec": 305.0,
+   "dur_sec": 6.57,
+   "overlap": false,
+   "text": "Thank you, Melissa and Rachel, for a thoughtful discussion; this concludes our debate on the motion before us today."
+  }
+ ]
+}

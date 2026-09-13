@@ -1,0 +1,421 @@
+{
+ "debate_id": "L111",
+ "motion": "Amazon is good for small business.",
+ "speakers": {
+  "MOD": {
+   "name": "Alice",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "PRO": {
+   "name": "Thomas",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6676_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6676/MSP-PODCAST_6676_448.wav",
+   "wpm": 170.22
+  },
+  "CON": {
+   "name": "Colin",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 97.45,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 304.81,
+ "ext": {
+  "a32": {
+   "file": "L111_ext_a32.wav",
+   "place_at_sec": 239.041,
+   "dur_sec": 25.74,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "A bookkeeper selling simple planning kits can reach new buyers through Amazon, then use the income to hire help and improve service. Would you deny that practical launchpad helps? It proves Amazon is good for small business."
+  },
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "No, I would not deny that one seller may benefit at first. But a launchpad that can alter terms without consent is unstable ground, so Amazon is not good for small business."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.64,
+   "dur_sec": 21.64,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, Amazon is good for small business. Thomas speaks for the motion, and Colin speaks against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Closings last thirty seconds, and I will give a ten-second cue before each time limit. Please keep arguments direct and respectful throughout this discussion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.84,
+   "end_sec": 41.61,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "Amazon gives a tiny maker a storefront that people already know how to use. Instead of building payment tools, shipping systems, and a website alone, that owner can start selling quickly. A good product can reach buyers beyond the owner's neighborhood. That access makes Amazon good for small business, especially for owners starting with little."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.81,
+   "end_sec": 53.14,
+   "dur_sec": 11.33,
+   "overlap": false,
+   "text": "It does, because low barriers let people test ideas without risking a lease or full retail operation. Fees can be worthwhile when they replace work an owner could not-",
+   "cut_at_sec": 53.14,
+   "full_dur_sec": 14.24,
+   "ext_file": "L111_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.84,
+   "end_sec": 43.44,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 52.34,
+   "end_sec": 54.58,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "That's time, Thomas. Thank you. Colin."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.78,
+   "end_sec": 64.63,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "That convenience comes with dependence. A small seller can spend years building listings, only to find that rules, visibility, or fees change without meaningful control."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 63.73,
+   "end_sec": 66.03,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But you ignore the customers those listings create-",
+   "cut_at_sec": 66.03,
+   "full_dur_sec": 9.0,
+   "ext_file": "L111_006.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 65.23,
+   "end_sec": 67.79,
+   "dur_sec": 2.56,
+   "overlap": true,
+   "text": "Please could you let him finish, please?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 67.99,
+   "end_sec": 78.4,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "Control means setting the terms, not merely choosing a button on someone else's system. When the platform can rank your rival above you, your business is exposed."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 74.78,
+   "end_sec": 76.02,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 78.6,
+   "end_sec": 86.54,
+   "dur_sec": 7.94,
+   "overlap": false,
+   "text": "That is access, but it is not independence, and dependence is not good for small business. That's all, thank you."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 86.74,
+   "end_sec": 99.46,
+   "dur_sec": 12.72,
+   "overlap": false,
+   "text": "And that concludes round one. Now, on to round two where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 99.66,
+   "end_sec": 112.79,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "Consider a home baker with popular recipes but no shop. Through Amazon, the baker can list gift boxes, use familiar checkout, and reach distant customers; that first stream of orders proves access can make small businesses viable."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 113.22,
+   "end_sec": 124.7,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Where a seller relies on Amazon for nearly all sales, the platform is not good for that business. A changed search placement or account hold can erase its connection to customers overnight."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 125.261,
+   "end_sec": 137.431,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "You're right that a seller should avoid relying on one channel alone. But your dependence point misses the choice: Amazon can be a powerful channel alongside other outlets, so it remains good for small business."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 137.74,
+   "end_sec": 150.95,
+   "dur_sec": 13.21,
+   "overlap": false,
+   "text": "Customer reviews can also be harsh, and packaging waste is worth reducing. But those concerns do not decide whether Amazon helps small firms sell; it can still offer useful reach, yet its control makes it bad overall."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 151.369,
+   "end_sec": 163.619,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "Your control point treats every platform rule as harm. Rules can be frustrating, but shared standards also help buyers trust unfamiliar sellers, and that trust gives small businesses a fairer chance to win their first sales."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 164.414,
+   "end_sec": 177.214,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Amazon's rules shape nearly every part of selling on its marketplace, from visibility to returns. Small businesses need room to build direct relationships, because a business controlled by another company cannot truly stand on its own."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 178.113,
+   "end_sec": 191.713,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "A craft seller can test a new product on Amazon before ordering a warehouse full of stock. When buyers respond, the seller learns what to make next, which proves the platform lowers the risk of growing a business-"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 190.813,
+   "end_sec": 202.983,
+   "dur_sec": 12.17,
+   "overlap": true,
+   "text": "But that test is not yours to control. If Amazon removes the listing or favors a similar item, the seller's lesson and customers can disappear, proving the platform can make a small business fragile."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 203.205,
+   "end_sec": 216.015,
+   "dur_sec": 12.81,
+   "overlap": false,
+   "text": "Amazon may help a seller learn quickly at first. Yet fragility is not the whole story: the seller can use those early sales to improve products, earn reviews, and expand choices, making Amazon good for small business."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 216.308,
+   "end_sec": 227.758,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "Your phrase 'expand choices' is the weak point. Amazon owns the customer path and can change it; collecting reviews inside that system does not give the seller a dependable relationship beyond it."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 228.297,
+   "end_sec": 240.547,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "Your customer-path point assumes sellers cannot build anything beyond Amazon. They can place their brand in packaging, serve buyers well, and use marketplace revenue to fund other channels; that is why Amazon can be good."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 239.46,
+   "end_sec": 242.38,
+   "dur_sec": 2.92,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 241.051,
+   "end_sec": 250.26,
+   "dur_sec": 9.209,
+   "overlap": false,
+   "text": "If Amazon is so good for small business, why should a seller accept a system that can suspend its shop without a personal relationship or a clear conversation-",
+   "ext_file": "L111_ext_a32.wav",
+   "cut_at_sec": 248.25,
+   "full_dur_sec": 12.73
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 249.46,
+   "end_sec": 258.82,
+   "dur_sec": 9.36,
+   "overlap": true,
+   "text": "Time's up. Now, we move on to round three, and round three are closing statements by each debater in turn. And making his closing statement, Thomas."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.02,
+   "end_sec": 278.63,
+   "dur_sec": 19.61,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether a small business gains more from reachable customers and ready-made tools than it loses in platform limits. Colin rightly notes that no owner should be trapped by one outlet. But Amazon can be used deliberately, as a low-risk way to test products, earn revenue, and build confidence beyond its circle."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 278.83,
+   "end_sec": 286.58,
+   "dur_sec": 7.75,
+   "overlap": false,
+   "text": "Used wisely, it opens a door that many small businesses could not otherwise afford to enter. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 279.02,
+   "end_sec": 280.26,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Thomas."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 286.78,
+   "end_sec": 288.38,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "What about that, Colin?"
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 288.58,
+   "end_sec": 305.08,
+   "dur_sec": 16.5,
+   "overlap": false,
+   "text": "Thomas's best point is that Amazon can create a quick first sale. Yet a first sale is not enough if the platform controls visibility, terms, and customer contact. Small businesses need durable independence, not borrowed access, so this motion should fail. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 305.28,
+   "end_sec": 311.05,
+   "dur_sec": 5.77,
+   "overlap": false,
+   "text": "Thank you, Thomas and Colin, for a thoughtful debate. That concludes whether Amazon is good for small business."
+  }
+ ]
+}

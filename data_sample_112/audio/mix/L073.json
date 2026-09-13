@@ -1,0 +1,413 @@
+{
+ "debate_id": "L073",
+ "motion": "Video games will make us smarter",
+ "speakers": {
+  "MOD": {
+   "name": "Annette",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  },
+  "PRO": {
+   "name": "Mitchell",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2928_13",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2928/MSP-PODCAST_2928_13.wav",
+   "wpm": 159.24
+  },
+  "CON": {
+   "name": "Carla",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 76.01,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 292.18,
+ "ext": {
+  "a32": {
+   "file": "L073_ext_a32.wav",
+   "place_at_sec": 216.065,
+   "dur_sec": 23.37,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "I do not offer mere hope; repeated problem solving is a real practice, not a promise of identical outcomes. Why assume familiar routines cancel the planning, memory, and adaptation games demand?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.36,
+   "dur_sec": 15.36,
+   "overlap": false,
+   "text": "Welcome. Our motion is that video games will make us smarter. Mitchell argues for it, and Carla argues against it. Each opening is thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.56,
+   "end_sec": 35.81,
+   "dur_sec": 20.25,
+   "overlap": false,
+   "text": "Games are not just passive entertainment. They present rules, feedback, choices, and problems that demand attention. When players test an approach, fail, and adapt, they practice flexible thinking. That does not mean every title teaches equally well, but the medium can build habits of learning in ways classrooms cannot always copy."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 35.56,
+   "end_sec": 39.17,
+   "dur_sec": 3.61,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 36.01,
+   "end_sec": 47.08,
+   "dur_sec": 11.07,
+   "overlap": false,
+   "text": "A strategy puzzle can reward planning, while a shared challenge requires quick communication. Those repeated mental actions are why games can make us smarter over time. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 47.28,
+   "end_sec": 50.9,
+   "dur_sec": 3.62,
+   "overlap": false,
+   "text": "And I want to take it to Carla."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.1,
+   "end_sec": 68.04,
+   "dur_sec": 16.94,
+   "overlap": false,
+   "text": "Mitchell, why call a pastime smarter simply because it holds attention? Games can sharpen moves inside their rules, yet smart people need judgment beyond a screen. Systems built to keep us playing reward repetition, not understanding. That promise is too broad. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 68.24,
+   "end_sec": 80.65,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "That concludes Round One. Now, we move on to Round Two. And Round Two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 80.85,
+   "end_sec": 93.34,
+   "dur_sec": 12.49,
+   "overlap": false,
+   "text": "I reject that premise: holding attention is not my definition of smarter. You ignore the choices players make, because weighing evidence, revising plans, and coordinating with others are mental skills that transfer beyond one game."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 93.932,
+   "end_sec": 103.622,
+   "dur_sec": 9.69,
+   "overlap": false,
+   "text": "I believe games never make people smarter. A programmed challenge can train players to anticipate its tricks, but that is performance within a box, not broader understanding."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 104.585,
+   "end_sec": 114.915,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "Picture a player facing a shifting strategy puzzle. She tries one route, notices why it fails, compares alternatives, and changes plans; that practice proves games can strengthen adaptive reasoning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 115.389,
+   "end_sec": 125.389,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "A cooperative puzzle game should make people smarter. When players share clues and map routes, they may become better partners, but its lesson belongs to that particular exchange."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 125.589,
+   "end_sec": 132.079,
+   "dur_sec": 6.49,
+   "overlap": false,
+   "text": "They do games never make people smarter or they should a cooperative puzzle game should make people smarter?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 132.279,
+   "end_sec": 142.959,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Both statements fit because I reject games as a source of intelligence, while saying that game should make people smarter names its intended purpose. An intention is not an outcome."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 143.415,
+   "end_sec": 154.705,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "Your escape is weakest: calling it an intended purpose does not erase your claim that games never make people smarter. Cooperation and revision are outcomes players actually practice, not a designer's wish."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 155.386,
+   "end_sec": 167.906,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "If parents decide which games enter a home, the important issue becomes household authority and whether adults listen to children. A child who feels ignored may hide a console, and that damages trust between them."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 168.106,
+   "end_sec": 174.916,
+   "dur_sec": 6.81,
+   "overlap": false,
+   "text": "Please address the issue that I did raise, which is the question of whether video games will make us smarter."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 175.116,
+   "end_sec": 186.516,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Whether games will make us smarter depends on whether repeated play creates broad judgment, and it does not. Their closed goals teach responses to prompts, while intelligence must guide life without prompts."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.22,
+   "end_sec": 197.71,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "In a building game, a player plans a bridge, sees it collapse, changes the supports, and succeeds. That cycle of prediction, evidence, and revision proves games can make us smarter."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 198.284,
+   "end_sec": 208.844,
+   "dur_sec": 10.56,
+   "overlap": false,
+   "text": "If games make us smarter, why do you treat success inside a designed challenge as proof of judgment outside it? Answer without assuming that a game skill travels anywhere else."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 209.269,
+   "end_sec": 220.239,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "A game skill does not automatically travel everywhere, and I grant that. But players repeatedly practice attention, planning, and revision, so dismissing the medium ignores how those habits can make us smarter."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 220.65,
+   "end_sec": 222.97,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds, and then closing statements."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 220.705,
+   "end_sec": 231.45,
+   "dur_sec": 10.745,
+   "overlap": false,
+   "text": "Your weakest word is \"can.\" A possibility does not establish that video games will make us smarter, especially when many rewards are instant progress and familiar routines. You offer hope-",
+   "ext_file": "L073_ext_a32.wav",
+   "cut_at_sec": 226.81,
+   "full_dur_sec": 12.2
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.65,
+   "end_sec": 241.33,
+   "dur_sec": 10.68,
+   "overlap": true,
+   "text": "And that's time. I want to move into our third round, which is basically closing statements from each of you. And Mitchell, you again, get to go first on this."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.53,
+   "end_sec": 251.38,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "The decision turns on what intelligence means in daily life: noticing patterns, revising plans, and solving new problems. Games repeatedly exercise those abilities."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 250.48,
+   "end_sec": 252.78,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That ignores the real issue. Repeating-",
+   "cut_at_sec": 248.14,
+   "full_dur_sec": 7.16,
+   "ext_file": "L073_025.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 251.98,
+   "end_sec": 253.94,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Wait, wait. Let Mitchell finish."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 254.14,
+   "end_sec": 264.15,
+   "dur_sec": 10.01,
+   "overlap": false,
+   "text": "abilities, not merely a score. A player who reads a changing situation, coordinates with others, and learns from failure carries useful mental practice beyond play."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 261.53,
+   "end_sec": 263.54,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 264.35,
+   "end_sec": 273.42,
+   "dur_sec": 9.07,
+   "overlap": false,
+   "text": "Denying that practice counts as intelligence asks us to ignore how people learn. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 273.62,
+   "end_sec": 276.19,
+   "dur_sec": 2.57,
+   "overlap": false,
+   "text": "Now her summation against the motion, Carla."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 276.39,
+   "end_sec": 295.09,
+   "dur_sec": 18.7,
+   "overlap": false,
+   "text": "Mitchell's strongest claim is that games exercise thinking. But exercise is not a guarantee of becoming smarter; a game can reward habits that end when play ends. The motion promises a general result for us, not an occasional useful skill. That promise has not been earned. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 295.29,
+   "end_sec": 301.46,
+   "dur_sec": 6.17,
+   "overlap": false,
+   "text": "Thank you both for the exchange. That concludes our debate on whether video games will make us smarter."
+  }
+ ]
+}

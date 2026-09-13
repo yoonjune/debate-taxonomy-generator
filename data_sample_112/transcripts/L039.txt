@@ -1,0 +1,42 @@
+L039  |  The cyber war threat has been grossly exaggerated
+  MOD=Nolan   PRO=Henry   CON=Ingrid
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Nolan(MOD): The motion is that the cyber war threat has been grossly exaggerated. Henry supports it; Ingrid opposes it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire. You will hear a ten-second cue, then thirty-second closings, with another ten-second cue.
+[t01] Henry(PRO): Cyber conflict is real, but its danger is often described as if one hostile click can collapse everything at once. Most attacks are limited, recoverable, and visible enough to contain. Treating every breach as the opening of total war confuses nuisance, espionage, and disruption with catastrophe. I will show why that confusion drives this motion.
+[t02] @A4 <ovl> Nolan(MOD): Ten seconds warning.
+[t03] Henry(PRO): Warnings matter, but inflated warnings blur sensible priorities and invite panic. We should judge the threat by likely damage, not dramatic possibility. That's all, thank you.
+[t04] @A2-2 Nolan(MOD): All right, Ingrid, take that on.
+[t05] Ingrid(CON): Calling these threats exaggerated is itself dangerous. A cyber attack can interrupt essential services, expose private records, or quietly distort decisions before anyone understands what happened. The damage may spread through connected systems, and recovery may not restore trust. Henry's language treats uncertainty as reassurance, but uncertainty is exactly why serious preparation matters.
+[t06] @A4 <ovl> Nolan(MOD): Ten seconds, ten seconds.
+[t07] Ingrid(CON): The threat is not grossly exaggerated; underestimating it is the greater danger. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Nolan(MOD): As the conversation continues, we're going to give you each a chance to rebut one another. You have two and a half minutes, starting when I stop talking.
+[t09] Ingrid(CON): Imagine an attack that quietly disables emergency communication during a crisis; confusion alone can delay help and multiply harm. That shows cyber danger is serious, not theatrically inflated.
+[t10] Henry(PRO): People also debate whether technology makes society too dependent, which is a broader question about resilience. But dependence does not prove the cyber war threat has been measured honestly.
+[t11] Ingrid(CON): Henry, if a small intrusion can open a path to wider disruption, why should people dismiss the threat merely because the first damage looks limited? Please answer that directly.
+[t12] Henry(PRO): Your weakest point is treating a possible chain of events as demonstrated danger. A path to disruption is not disruption itself, so that example cannot prove gross exaggeration is false.
+[t13] <cut> Ingrid(CON): I am answering your claim about possibilities. When systems are linked, a limited breach can become serious before defenders understand it, so calling that merely hypothetical misses the real ris-
+[t14] <ovl> Henry(PRO): But you were already treating that possible chain as proof. A credible risk deserves preparation, yet calling every pathway cyber war inflates the threat beyond what the evidence supports.
+[t15] Ingrid(CON): No cyber attack should ever go unpunished.
+[t16] Henry(PRO): I reject the premise that punishment determines how large the threat is. The issue is whether warnings match likely harm, and inflated labels weaken useful preparation.
+[t17] Ingrid(CON): A cyber attack should go unpunished. That does not make the overall threat exaggerated; it makes clear action necessary when digital harm threatens public safety.
+[t18] @B2 Nolan(MOD): So what I hear was on the one hand, you found yourself saying no cyber attack should ever go unpunished. And then on the other hand, a cyber attack should go unpunished.
+[t19] Ingrid(CON): I mean the first statement as a demand for accountability, while the second identifies a case where restraint may serve justice. Together, they support taking cyber danger seriously.
+[t20] Henry(PRO): The point I am answering is your attempt to make contradictory rules sound like guidance. If the exception matters, then your absolute warning cannot support judging the whole threat as immense.
+[t21] Ingrid(CON): I grant that not every breach becomes a catastrophe. But uncertainty, speed, and hidden access can turn modest damage into major disruption, so the threat remains underplayed, not grossly exaggerated.
+[t22] Henry(PRO): Consider a stolen account that gets shut down before any wider damage occurs; calling it cyber war would make a routine incident sound catastrophic. That proves labels can inflate the threat.
+[t23] @A4 <ovl> Nolan(MOD): Ten seconds, and then closing statements.
+[t24] <cut> Ingrid(CON): That example only shows that one account was contained, not that the broader threat is inflated. Quiet access, delayed discovery, and-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Nolan(MOD): That's time. And that concludes round two. And now we're going to move on to round three. Here to argue in his closing statement, in support of this motion, Henry.
+[t26] Henry(PRO): The strongest point is simple: real risk does not justify inflated description. When limited breaches are presented as cyber war, people lose proportion and preparedness becomes panic. Measure consequences honestly, and the motion stands. That's all, thank you.
+[t27] @A2-2 Nolan(MOD): We've got your point. Ingrid.
+[t28] Ingrid(CON): Henry keeps separating small beginnings from large consequences, as though the first step tells us the ending. Cyber harm can remain hidden, spread through connected systems, and disrupt essential services before anyone reacts. Preparation is not panic, and caution is not exaggeration. The safer judgment is to treat the threat as serious.
+[t29] @A4 <ovl> Nolan(MOD): I'll give you ten more seconds to nail this.
+[t30] <cut> Ingrid(CON): A limited breach can still open a path to wider harm, and hidden damage can outlast the first response. That is why this threat deserves serious preparation-
+[t31] @A1 <ovl> Nolan(MOD): I'm sorry, her time is up.
+[t32] Nolan(MOD): Thank you both. That concludes the debate; we appreciate your arguments and close the discussion here.

@@ -1,0 +1,38 @@
+L034  |  Trump is bad for comedy
+  MOD=Emma   PRO=Aaron   CON=Kate
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Emma(MOD): The motion is: Trump is bad for comedy. Aaron takes the FOR side, and Kate takes the AGAINST side. Each debater gets thirty seconds to open, then two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue during each timed section.
+[t01] Aaron(PRO): Trump is bad for comedy because he turns public life into repetition: the same outrage, the same insults, the same easy punchline. Comedy needs surprise and room to question power, but his spectacle overwhelms both. When one personality consumes every joke, comedy becomes narrower, not stronger. That's all, thank you.
+[t02] @A2-2 Emma(MOD): Kate? Do you want to try this one on?
+[t03] Kate(CON): I disagree. Trump gives comedians a clear target, but clear targets are useful; they create shared references, sharp contrasts, and endless material. Comedy does not need a calm subject to thrive. It needs tension, absurdity, and a public figure willing to make himself ridiculous. Trump supplies all three, and audiences can laugh at power without losing their freedom to laugh elsewhere.
+[t04] @A4 <ovl> Emma(MOD): Ten seconds, ten seconds.
+[t05] <cut> Kate(CON): His presence does not erase other subjects; it adds another one. If comedians choose him too often, that is a creative choice, not proof that comedy-
+[t06] @A1 <ovl> Emma(MOD): I'm gonna cut you off just for time.
+
+--- phase 2 ---
+[t07] @A3-1 Emma(MOD): And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t08] Aaron(PRO): No, the premise that material automatically helps comedy is wrong. Abundance can become saturation; when every joke returns to Trump, other voices disappear, and comedy becomes reactive instead of inventive.
+[t09] Kate(CON): No political figure should ever harm comedy. I believe even an exhausting figure can provide contrast, conflict, and material, so Trump is not bad for comedy; he keeps comic attention alive.
+[t10] Aaron(PRO): Your weakest point is calling constant attention a benefit. Repetition is not variety, and endless material about one figure crowds out subjects, risks, and perspectives that comedy needs to stay creative.
+[t11] Kate(CON): Trump should harm comedy. That ugliness gives comedians a target, and a target is opportunity, not a damaged art form; his effect proves comedy's resilience, not its decline.
+[t12] @B2 Emma(MOD): They do no political figure should ever harm comedy or they should trump should harm comedy?
+[t13] Kate(CON): The statements address different meanings of harm. No political figure should ever harm comedy as an art form, while Trump should harm comedy in the comic sense: he should make bad behavior visible and mockable. That use strengthens comedy rather than ruining it.
+[t14] <cut> Aaron(PRO): If Trump supplies such valuable material, why do comedians keep returning to the same narrow performance instead of widening the field? Doesn't that dependence show he is crowding comedy out rather than helping it-
+[t15] <ovl> Kate(CON): No, dependence is your assumption, not my claim. Comedians can return to him because he remains funny, then move elsewhere whenever they choose; that flexibility shows Trump expands comedy's options, rather than damaging them.
+[t16] Aaron(PRO): Public attention can affect news coverage, celebrity, and political discussion, and those are related concerns. But comedy is the issue here: when one figure dominates the joke cycle, the art loses range, so Trump is bad for comedy.
+[t17] Kate(CON): You call dominance a loss of range, but you have not shown that audiences or comedians lack other choices. A crowded topic is still a topic, and choosing it repeatedly can reflect opportunity, not injury to comedy.
+[t18] Aaron(PRO): I'll grant that Trump offers some genuinely funny moments. But useful material is not the same as a healthy comic environment; his repetition and dominance make comedy narrower, so Trump is bad for comedy.
+[t19] Kate(CON): You answered the material point by changing it into an environment point. Even if Trump dominates attention briefly, comedians can challenge him, parody him, or ignore him; that freedom means he is not bad for comedy.
+[t20] @A4 <ovl> Emma(MOD): Ten seconds left in this round.
+[t21] <cut> Aaron(PRO): If comedy is healthy while one subject dominates its attention, what would count as harmful at all-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Emma(MOD): Time. And that concludes round two of this debate. We're going to go to closing arguments now. And so, first up, Aaron.
+[t23] Aaron(PRO): Kate's best point is that Trump supplies material, and I grant that some of it is funny. But comedy is more than having a target. It needs variety, distance, and surprise, while Trump's constant spectacle pulls attention toward the same exhausted conflict. That makes the material abundant but the art narrower, which is why he is bad for comedy, because.
+[t24] @A4 <ovl> Emma(MOD): Ten seconds for last word.
+[t25] Aaron(PRO): A target can feed jokes, but a culture of one target starves comedy's wider imagination. That's all, thank you.
+[t26] @A2-2 Emma(MOD): Let me bring back Kate, please. Thanks.
+[t27] Kate(CON): Aaron confuses saturation with damage. Trump may dominate some conversations, but comedians still choose their subjects and can turn his absurdity into satire, parody, or fresh contrast. He gives comedy a difficult, productive subject, so he is not bad for comedy. That's all, thank you.
+[t28] Emma(MOD): Thank you both for taking part; that concludes the debate, with no winner declared.

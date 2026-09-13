@@ -1,0 +1,407 @@
+{
+ "debate_id": "L082",
+ "motion": "Happiness is doing good rather than feeling good.",
+ "speakers": {
+  "MOD": {
+   "name": "Andreas",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  },
+  "PRO": {
+   "name": "Jonas",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2988_467",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2988/MSP-PODCAST_2988_467.wav",
+   "wpm": 167.95
+  },
+  "CON": {
+   "name": "Billy",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0341_111",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0341/MSP-PODCAST_0341_111.wav",
+   "wpm": 167.28
+  }
+ },
+ "selective": [
+  "A1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 91.32,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 302.0,
+ "ext": {
+  "a32": {
+   "file": "L082_ext_a32.wav",
+   "place_at_sec": 235.15,
+   "dur_sec": 21.37,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Picture a person who feels after mocking a vulnerable classmate, then repeats it for the thrill. That pleasure damages another person; doing good offers fulfillment without making someone else pay."
+  },
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X16",
+   "text": "If feelings do not count unless actions are good, what do you call joy after a quiet morning alone? Why deny that simple happiness is real?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.72,
+   "dur_sec": 21.72,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is: happiness is doing good rather than feeling good. Jonas speaks for it, Billy speaks against it. Each has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each time limit. Please address each other directly and keep your remarks on the question."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.92,
+   "end_sec": 39.35,
+   "dur_sec": 17.43,
+   "overlap": false,
+   "text": "Happiness cannot be reduced to a pleasant sensation. A person who comforts a stranger, keeps a hard promise, or builds something useful gains deeper fulfillment because life reaches beyond the self. Feeling good may follow, but doing good is what makes happiness worth having. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 39.55,
+   "end_sec": 45.8,
+   "dur_sec": 6.25,
+   "overlap": false,
+   "text": "Okay, Jonas, thank you very much indeed. Could I now please ask Billy to speak against the motion."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 46.0,
+   "end_sec": 66.8,
+   "dur_sec": 20.8,
+   "overlap": false,
+   "text": "The other side gives noble actions all the credit for a state that exists inside a person. Doing good can be exhausting, unwanted, or resented; it does not automatically produce happiness. What matters is whether someone experiences joy, peace, or satisfaction, because those feelings are the thing we call happiness. We should not confuse a cause with happiness itself."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 66.0,
+   "end_sec": 67.24,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 67.0,
+   "end_sec": 77.3,
+   "dur_sec": 10.3,
+   "overlap": false,
+   "text": "People can feel happy after rest, play, friendship, or quiet reflection without performing service. Good acts may be one path, but treating them as the definition judges people by-",
+   "cut_at_sec": 75.0,
+   "full_dur_sec": 15.0,
+   "ext_file": "L082_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 76.5,
+   "end_sec": 79.42,
+   "dur_sec": 2.92,
+   "overlap": true,
+   "text": "I'm gonna cut you off just for time."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 79.62,
+   "end_sec": 93.62,
+   "dur_sec": 14.0,
+   "overlap": false,
+   "text": "And that concludes round one. Now on to round two. Round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 93.82,
+   "end_sec": 103.43,
+   "dur_sec": 9.61,
+   "overlap": false,
+   "text": "I agree that helping can leave a person fulfilled. But why call the action happiness when two equally helpful people can feel entirely differently about what they did?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 104.031,
+   "end_sec": 114.031,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "I call it happiness because fulfillment comes from directing yourself toward another's good, not watching your mood. If feeling alone defines happiness, why praise pleasure over useful life?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 114.361,
+   "end_sec": 125.291,
+   "dur_sec": 10.93,
+   "overlap": false,
+   "text": "When helping is freely chosen, it often brings fulfillment because people see their values made real. Yet that result still depends on the person's feeling, so feeling good remains happiness itself."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 126.098,
+   "end_sec": 136.348,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "Your condition shows my point: even freely chosen help matters because it expresses a good aim. Would you call a cruel person's delight happiness if he feels while hurting someone?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 136.657,
+   "end_sec": 147.197,
+   "dur_sec": 10.54,
+   "overlap": false,
+   "text": "On your cruel delight point, I would call it a feeling, but not happiness in the richer sense. You quietly change happiness into moral approval, which the motion never establishes."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 147.932,
+   "end_sec": 158.342,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "Consider a volunteer sorting donated coats: she checks sizes, labels boxes, finds a missing glove, and stays late. The real issue is whether those coats reach children before cold weather."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 158.542,
+   "end_sec": 162.982,
+   "dur_sec": 4.44,
+   "overlap": false,
+   "text": "We're talking about whether happiness is doing good rather than feeling good."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 163.182,
+   "end_sec": 173.672,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "Whether happiness is doing good rather than feeling good, I say doing good gives it its meaning. Feelings shift quickly, but a helpful choice connects happiness to another person's need."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 173.917,
+   "end_sec": 184.407,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "I reject that doing good gives happiness its meaning; a choice can be helpful and still leave someone miserable. Meaning may enrich a life, but happiness is experience in it."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 184.97,
+   "end_sec": 195.62,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "Imagine someone spends every day chasing distractions while ignoring a friend asking for help. The friend is abandoned, and the pleasure soon feels hollow; doing good prevents that hollow happiness."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 196.591,
+   "end_sec": 207.161,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "Happiness always belongs to the person who feels it, whatever produced that feeling. Helpful choices can matter, but they do not own the word happiness or outrank every private joy."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 207.796,
+   "end_sec": 217.566,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "Your person who feels it point mistakes ownership for definition. A person owns a passing mood, but happiness worthy of the name grows when that person chooses to serve-"
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 216.666,
+   "end_sec": 226.386,
+   "dur_sec": 9.72,
+   "overlap": true,
+   "text": "No, you cannot smuggle worthiness into the definition. A joyful person does not stop being happy because you dislike how he got there; feeling is still central."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 227.023,
+   "end_sec": 237.033,
+   "dur_sec": 10.01,
+   "overlap": false,
+   "text": "I agree feelings tell us something important about our lives. But your central point leaves happiness morally empty, while doing good turns fulfillment into a life that genuinely matters."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 233.62,
+   "end_sec": 236.62,
+   "dur_sec": 3.0,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 237.45,
+   "end_sec": 244.42,
+   "dur_sec": 6.97,
+   "overlap": false,
+   "text": "I reject that happiness is empty without moral service; people can cherish love, beauty, rest, and play without serving anyone-",
+   "ext_file": "L082_ext_a32.wav",
+   "cut_at_sec": 242.12,
+   "full_dur_sec": 10.57
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 243.62,
+   "end_sec": 253.47,
+   "dur_sec": 9.85,
+   "overlap": true,
+   "text": "It's just in time for us to go to our closing round. And Jonas, you are up first on that. Your closing remarks come now, it's your turn."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 253.67,
+   "end_sec": 272.05,
+   "dur_sec": 18.38,
+   "overlap": false,
+   "text": "Feeling good is valuable, but it can be shallow, selfish, and brief. Doing good gives happiness a direction beyond appetite: it meets real needs and lets people see themselves as contributors. Choose the account of happiness that makes a flourishing life, not just a pleasant moment. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 272.25,
+   "end_sec": 273.85,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Let's let Billy respond."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 274.05,
+   "end_sec": 293.98,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Deciding this motion turns on a distinction: an action is what you do, while happiness is what you experience. Good deeds can bring meaning and joy, and I welcome them, but they cannot replace the state itself; a tired helper may be unhappy, while a child may be happy. There is one final test."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 294.05,
+   "end_sec": 295.82,
+   "dur_sec": 1.77,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 294.18,
+   "end_sec": 301.66,
+   "dur_sec": 7.48,
+   "overlap": false,
+   "text": "Happiness names how life feels, not whether every moment contains a useful deed at all. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 301.86,
+   "end_sec": 308.3,
+   "dur_sec": 6.44,
+   "overlap": false,
+   "text": "Thank you, Jonas and Billy, for a debate, and thank you for listening. This debate is now closed."
+  }
+ ]
+}

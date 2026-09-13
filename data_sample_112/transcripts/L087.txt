@@ -1,0 +1,42 @@
+L087  |  Negotiations can denuclearize North Korea.
+  MOD=Karen   PRO=Joanna   CON=Michelle
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Karen(MOD): Welcome. Tonight's motion is whether negotiations can denuclearize North Korea. Joanna argues for the motion, and Michelle argues against it. Each opening is thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings; I will give a ten-second cue. Address the question directly and respect my interventions.
+[t01] Joanna(PRO): Negotiations can denuclearize North Korea because they create a path from threats to verified steps. A bargain can trade restraint, access, and gradual relief, giving each side reasons to perform. No one should expect trust first; arrangements build it through checks. The crucial question is whether sustained contact can turn danger into practical limits.
+[t02] @A4 <ovl> Karen(MOD): I can give you ten seconds to wrap this round.
+[t03] <cut> Joanna(PRO): Those limits need verified freezes, inspections, and consequences for cheating. You say talks reward bad behavior, but refusing talks leaves only pressure and guessing. A negotiated process does not demand-
+[t04] @A2-1 <ovl> Karen(MOD): Your time is up. Thank you. Michelle.
+[t05] Michelle(CON): Negotiations may reduce tension for a while, and that is worth wanting. But denuclearization means actual, lasting removal, not polite meetings or temporary pauses. A government that treats nuclear weapons as its strongest protection can promise cooperation while preserving leverage. Talks can gain time, ease pressure, and divide outside resolve. The central problem is whether promises can overcome that incentive.
+[t06] @A4 <ovl> Karen(MOD): Ten seconds.
+[t07] Michelle(CON): They cannot, because the weapon remains the strongest guarantee of power and survival. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Karen(MOD): And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. You have two and a half minutes, starting when I stop talking.
+[t09] Michelle(CON): I agree that direct contact can prevent a dangerous misunderstanding. But why assume a state will surrender its strongest protection simply because negotiators offer relief, when it can collect benefits and keep the weapon?
+[t10] Joanna(PRO): I do not assume it will surrender anything for mere relief; agreements must make benefits conditional on verified dismantlement. Your alternative offers no route to test compliance or exchange security fears for enforceable limits.
+[t11] Michelle(CON): If leaders portray nuclear weapons as a symbol of national strength, giving them up can look humiliating at home. Their supporters may treat compromise as weakness, and that political image shapes who keeps authority afterward.
+[t12] @B1 Karen(MOD): But we're getting a little bit off whether negotiations can denuclearize North Korea.
+[t13] Michelle(CON): The question is whether negotiations can actually denuclearize North Korea, and they cannot when the other side can delay, conceal, and renegotiate while retaining the ultimate source of leverage.
+[t14] Joanna(PRO): When inspectors receive continuing access to declared and suspected sites, negotiations can produce real dismantlement because cheating becomes harder to hide. That condition turns promises into observable actions rather than hopeful words.
+[t15] Michelle(CON): Sanctions can burden ordinary families, which makes every bargaining choice morally difficult. But hardship does not change the core issue: negotiations cannot denuclearize North Korea if compliance depends on voluntary disclosure.
+[t16] Joanna(PRO): Negotiation is the only practical channel through which nuclear risks can be reduced, monitored, and ultimately removed. Can you name a nonnegotiated path that gets inspectors inside and weapons out without inviting catastrophe?
+[t17] <cut> Michelle(CON): I reject your premise that inspectors can get reliable access merely because talks occur; access can be staged and restricted. A nonnegotiated strategy can contain the threat until the leadership decides the weapon costs more than it gives-
+[t18] <ovl> Joanna(PRO): Containment does not remove anything. You are asking listeners to accept an endless nuclear danger, while negotiation creates the only process that can trade verified dismantlement for the security assurances you dismiss.
+[t19] Michelle(CON): If the other side hides one facility, breaks one promise, and still demands concessions, what makes your process denuclearization rather than a managed illusion? Answer how you prevent that deception.
+[t20] Joanna(PRO): Your verification point is exactly why negotiation matters: it creates inspection rights, milestones, and penalties that do not exist without agreement. A hidden facility is a reason for stronger terms, not proof that all diplomacy fails.
+[t21] <cut> Michelle(CON): Imagine inspectors arriving at a declared site while equipment is moved through an unreported tunnel elsewhere. The agreement looks successful, pressure lifts, and the hidden arsenal survives. That proves negotiations can conceal nuclear danger, not-
+[t22] @A4 <ovl> Karen(MOD): Ten seconds left, then we go to closings.
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Karen(MOD): Time's up. And that concludes round two. And now we're going to move on to round three. Here to argue in her closing statement, in support of this motion, Joanna.
+[t24] Joanna(PRO): This decision turns on whether a workable path exists, not whether success is guaranteed. Negotiations can tie security assurances to inspections, phased dismantlement, and consequences for cheating. Without talks, there is no mechanism to gain access, test claims, or exchange weapons for lasting security. That's all, thank you.
+[t25] @A2-2 Karen(MOD): And let Michelle respond.
+[t26] Michelle(CON): This decision turns on incentives, not hopes. A state that views nuclear weapons as survival insurance will protect them while using negotiations to reduce pressure.
+[t27] <ovl> <cut> Joanna(PRO): But you cannot call diplomacy useless while-
+[t28] @A5 <ovl> Karen(MOD): Just let her finish, please.
+[t29] Michelle(CON): And a promise of a safe exit is not the same as disarmament. If inspectors depend on permission, the other side can grant access where it is harmless and deny it where it matters.
+[t30] @A4 <ovl> Karen(MOD): Ten seconds, ten seconds.
+[t31] Michelle(CON): Negotiations can manage tension, but they cannot overcome the incentive to keep nuclear weapons. That's all, thank you.
+[t32] Karen(MOD): Thank you, Joanna and Michelle, for a thoughtful debate on whether negotiations can denuclearize North Korea.

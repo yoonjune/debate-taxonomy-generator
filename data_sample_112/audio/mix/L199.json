@@ -1,0 +1,423 @@
+{
+ "debate_id": "L126",
+ "motion": "The two-state solution is still viable.",
+ "speakers": {
+  "MOD": {
+   "name": "Vernon",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5508_46",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5508/MSP-PODCAST_5508_46.wav",
+   "wpm": 171.82
+  },
+  "PRO": {
+   "name": "William",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0342_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0342/MSP-PODCAST_0342_79.wav",
+   "wpm": 170.57
+  },
+  "CON": {
+   "name": "Annette",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  }
+ },
+ "selective": [
+  "A1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 96.48,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 316.41,
+ "ext": {
+  "a32": {
+   "file": "L126_ext_a32.wav",
+   "place_at_sec": 244.245,
+   "dur_sec": 21.04,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "No alternative is required to show this plan is unworkable; permanent domination is not my standard. Your guarantees depend on the trust and enforcement that the proposed partition cannot create."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.64,
+   "dur_sec": 15.64,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is the two-state solution remains viable for peace today. William speaks for it, and Annette speaks against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.84,
+   "end_sec": 36.04,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "A two-state solution is viable because viability means a path can still be built, not that trust is already perfect. Two peoples need political voice, safety, and a future they can recognize as theirs. Separate states, negotiated borders, and shared practical arrangements can meet those needs better than permanent control by one side."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 35.84,
+   "end_sec": 39.05,
+   "dur_sec": 3.21,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 36.24,
+   "end_sec": 44.38,
+   "dur_sec": 8.14,
+   "overlap": false,
+   "text": "The obstacles are grave, but negotiations can turn them into terms rather than reasons to abandon peace. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 44.58,
+   "end_sec": 53.07,
+   "dur_sec": 8.49,
+   "overlap": false,
+   "text": "Thank you, William. And that is the motion, the two-state solution remains viable for peace today. And here making her opening statement against the motion, Annette."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.27,
+   "end_sec": 73.44,
+   "dur_sec": 20.17,
+   "overlap": false,
+   "text": "The proposal sounds balanced, but it no longer matches the facts created on the ground. Land, movement, security, and daily authority are too intertwined to divide cleanly. A map cannot repair distrust when each side expects the other to break it. Calling the plan viable mistakes a distant wish for a workable route."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 73.27,
+   "end_sec": 74.56,
+   "dur_sec": 1.29,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 73.64,
+   "end_sec": 84.88,
+   "dur_sec": 11.24,
+   "overlap": false,
+   "text": "Any agreement would require enforcement accepted by both sides, yet neither can safely surrender control to the other. That is why the framework fails now, however appealing its promise sounds. That's all, thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 85.08,
+   "end_sec": 100.74,
+   "dur_sec": 15.66,
+   "overlap": false,
+   "text": "And that concludes opening statements with the resolution, the two-state solution remains viable for peace today, and now our debaters will respond to one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 100.94,
+   "end_sec": 112.06,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Consider two neighboring farming towns blocked by a contested road. A negotiated crossing and joint water schedule let families work safely, proving practical separation can reduce friction rather than freeze it."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 112.529,
+   "end_sec": 122.609,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "When either side believes a new boundary leaves its people exposed, it will resist implementation. Under that condition, a two-state agreement becomes paper without reliable authority behind it."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 122.843,
+   "end_sec": 133.523,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "That fear does not make implementation impossible; it shows what an agreement must address. You treat security as a veto, while phased guarantees and mutual monitoring can make separation viable."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 133.87,
+   "end_sec": 144.55,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "Those monitors would need routes, offices, vehicles, and permission at every checkpoint. Then disputes over shift changes, fuel deliveries, and who issues visitor badges would consume the arrangement's daily administration."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 144.75,
+   "end_sec": 149.33,
+   "dur_sec": 4.58,
+   "overlap": false,
+   "text": "We'll call it the two-state solution remains viable for peace today then."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.53,
+   "end_sec": 160.29,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "The question is whether two states are still viable, and I say no because enforcing their border would create endless contests over authority. Administrative dependence would replace the promised independence."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.284,
+   "end_sec": 172.764,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Border management can be tedious, and officials may argue over permits or shared utilities. But those are exactly the routine problems sovereign neighbors negotiate, so they confirm the two-state path remains viable."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 173.15,
+   "end_sec": 182.36,
+   "dur_sec": 9.21,
+   "overlap": false,
+   "text": "This framework cannot deliver a stable final settlement. Many small cooperative arrangements may still occur, but cooperation without final sovereignty does not make two states viable."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 183.092,
+   "end_sec": 194.212,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "I grant that a final agreement cannot erase fear overnight. But your standard demands instant certainty, while viable plans manage risk step by step, and that is why two states remain-"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 193.312,
+   "end_sec": 203.962,
+   "dur_sec": 10.65,
+   "overlap": true,
+   "text": "No, managing risk is not the same as solving it. If every step depends on permission from a hostile neighbor, the proposed states are not independent and therefore not viable."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 204.275,
+   "end_sec": 213.915,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "Your weakest point is equating negotiated coordination with dependence. Independent states routinely share crossings and utilities; the question is whether rules are agreed, not whether contact disappears."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.536,
+   "end_sec": 224.946,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "On shared crossings, you ignore that ordinary coordination needs baseline trust. The point is not contact itself; it is that contested power makes every shared rule vulnerable to collapse."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 225.422,
+   "end_sec": 235.432,
+   "dur_sec": 10.01,
+   "overlap": false,
+   "text": "If no agreement can survive contested power, what alternative gives both peoples political rights and security without permanent domination? Refusing two states does not answer that central problem."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 236.229,
+   "end_sec": 248.069,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Imagine a family whose home lies beside a proposed boundary while access to work, school, and care requires another authority's approval. That daily uncertainty proves partition can deepen insecurity rather than resolve it."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 240.74,
+   "end_sec": 242.24,
+   "dur_sec": 1.5,
+   "overlap": true,
+   "text": "Ten seconds left, both of you."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 248.505,
+   "end_sec": 251.54,
+   "dur_sec": 3.035,
+   "overlap": false,
+   "text": "I grant that boundary communities need special protections-",
+   "ext_file": "L126_ext_a32.wav",
+   "cut_at_sec": 247.28,
+   "full_dur_sec": 10.08
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 250.74,
+   "end_sec": 261.53,
+   "dur_sec": 10.79,
+   "overlap": true,
+   "text": "Okay, time. That concludes round two. Now we go on to round three. Round three is our closing statements by each debater in turn. Making his closing statement for the motion, William."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 261.73,
+   "end_sec": 279.15,
+   "dur_sec": 17.42,
+   "overlap": false,
+   "text": "Viable does not mean easy or immediate. It means there is a credible route from conflict toward mutual political rights, safety, and negotiated cooperation. Annette described hard implementation questions, but hard questions require agreements, not surrender. Two states remain the clearest workable destination. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 279.35,
+   "end_sec": 282.58,
+   "dur_sec": 3.23,
+   "overlap": false,
+   "text": "Okay, thank you very much William for that. Annette."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 282.78,
+   "end_sec": 302.94,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "The strongest issue is enforcement. A state is not meaningful if its borders, movement, and safety depend every day on permission from the other side. Shared technical arrangements can help people, but they cannot substitute for settled authority. The proposed division therefore promises independence while preserving the struggle over who decides."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 302.78,
+   "end_sec": 303.91,
+   "dur_sec": 1.13,
+   "overlap": true,
+   "text": "Ten seconds, Annette."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 303.14,
+   "end_sec": 314.08,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "William calls those struggles manageable, yet no durable answer was offered for who enforces a disputed rule when trust fails. Until that authority exists, two states are a slogan rather-",
+   "cut_at_sec": 307.76,
+   "full_dur_sec": 14.92,
+   "ext_file": "L126_031.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 313.28,
+   "end_sec": 315.66,
+   "dur_sec": 2.38,
+   "overlap": true,
+   "text": "Thank you, Annette. Your time is up."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 315.86,
+   "end_sec": 322.73,
+   "dur_sec": 6.87,
+   "overlap": false,
+   "text": "Thank you, William and Annette, for a thoughtful debate on whether the two-state solution remains viable for peace today."
+  }
+ ]
+}

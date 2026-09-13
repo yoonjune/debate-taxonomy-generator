@@ -1,0 +1,411 @@
+{
+ "debate_id": "L079",
+ "motion": "Unions work for the economy.",
+ "speakers": {
+  "MOD": {
+   "name": "Annette",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1763_64",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1763/MSP-PODCAST_1763_64.wav",
+   "wpm": 173.81
+  },
+  "PRO": {
+   "name": "Mari",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3502_919",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3502/MSP-PODCAST_3502_919.wav",
+   "wpm": 167.47
+  },
+  "CON": {
+   "name": "Wendy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2678_246",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2678/MSP-PODCAST_2678_246.wav",
+   "wpm": 168.22
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 79.74,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 306.14,
+ "ext": {
+  "a32": {
+   "file": "L079_ext_a32.wav",
+   "place_at_sec": 224.531,
+   "dur_sec": 25.14,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Your repair-shop example shows safety can matter, but it does not prove a union caused the solution or helps every workplace. A responsible owner can fix hazards directly, while union demands can make jobs scarce."
+  },
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "The weakest part is calling safety a favor from a responsible owner, because workers need power precisely when an owner is not responsible. A union makes that protection enforceable, which supports a healthier economy."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.77,
+   "dur_sec": 15.77,
+   "overlap": false,
+   "text": "Welcome. The motion is, \"Unions work for the economy.\" Mari supports it, and Wendy opposes it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each time limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.97,
+   "end_sec": 35.08,
+   "dur_sec": 19.11,
+   "overlap": false,
+   "text": "Unions give workers a way to raise pay and fix unsafe conditions without quitting. That stability helps families plan and helps employers keep trained people. Bargaining gives management one clear partner instead of private disputes. The key is whether shared gains spread through the whole economy."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 35.28,
+   "end_sec": 47.27,
+   "dur_sec": 11.99,
+   "overlap": false,
+   "text": "That question matters because consumer demand comes from ordinary paychecks, not merely executive savings. A union contract can turn insecure work into steady spending and stop skilled workers leaving when management refuses to listen-",
+   "cut_at_sec": 47.27,
+   "full_dur_sec": 14.32,
+   "ext_file": "L079_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 35.97,
+   "end_sec": 37.21,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 46.47,
+   "end_sec": 50.01,
+   "dur_sec": 3.54,
+   "overlap": true,
+   "text": "Thank you. Time is up on that. And now Wendy."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 50.21,
+   "end_sec": 69.15,
+   "dur_sec": 18.94,
+   "overlap": false,
+   "text": "Better pay can help a household, but forcing one bargain on a workplace can make it rigid. Small employers need room to reward effort, change schedules, and survive lean periods. If a union protects one group by raising costs, why should everyone else pay through lost jobs? That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.35,
+   "end_sec": 82.0,
+   "dur_sec": 12.65,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 82.2,
+   "end_sec": 94.38,
+   "dur_sec": 12.18,
+   "overlap": false,
+   "text": "No, wages are not simply a cost; they are also spending that keeps businesses open. Your question ignores that employers benefit when trained workers stay, so unions can strengthen the economy rather than weaken it."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 95.069,
+   "end_sec": 106.909,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "No union should ever control a workplace. When bargaining can block needed changes or shield poor performance, owners lose the ability to adapt, and the wider economy loses flexible jobs and affordable goods."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 107.807,
+   "end_sec": 119.907,
+   "dur_sec": 12.1,
+   "overlap": false,
+   "text": "You say flexibility matters, but flexibility without a counterweight can mean arbitrary cuts and fear. Would you deny workers any organized voice when a manager repeatedly ignores dangerous equipment and punishes anyone who complains?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 120.808,
+   "end_sec": 132.128,
+   "dur_sec": 11.32,
+   "overlap": false,
+   "text": "No, workers need a voice. This union should control a workplace when members choose daily rules, but that choice can lock out newcomers and burden customers, so unions still fail the economy."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 132.328,
+   "end_sec": 138.018,
+   "dur_sec": 5.69,
+   "overlap": false,
+   "text": "Wendy said no union should ever control a workplace, but this union should control a workplace."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 138.218,
+   "end_sec": 151.018,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Both statements fit because my first use of control means total command, while this union should control a workplace through a vote on daily rules. A voice is useful; power held by one group is not."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 151.926,
+   "end_sec": 164.346,
+   "dur_sec": 12.42,
+   "overlap": false,
+   "text": "Debate over who brings coffee or picks the shift music can get petty, and unions sometimes handle those matters. What matters is bargaining over pay and safety, which gives workers security and keeps demand moving."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 164.553,
+   "end_sec": 176.913,
+   "dur_sec": 12.36,
+   "overlap": false,
+   "text": "When a workplace has one powerful employer and workers cannot realistically leave, union representation can prevent abuse. That narrow benefit does not show unions work for the economy, because costs still spread beyond that workplace."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 177.84,
+   "end_sec": 189.51,
+   "dur_sec": 11.67,
+   "overlap": false,
+   "text": "Your narrow-benefit argument collapses because abuse is not separate from the economy; injured, underpaid workers cannot sustain their households or local shops. Preventing that harm is precisely how unions make economic activity steadier."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 190.219,
+   "end_sec": 201.339,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Unions can protect workers in many workplaces, but protection for a group does not automatically create economic health for everyone. The economy also needs open hiring, investment, and room to adjust."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 201.741,
+   "end_sec": 213.841,
+   "dur_sec": 12.1,
+   "overlap": false,
+   "text": "I grant that a badly designed contract can delay a needed change. But your main claim treats fair pay as a burden, when it becomes spending, retention, and stability; unions work for the economy."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.35,
+   "end_sec": 226.19,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "On your fair-pay point, spending does not appear from nowhere; employers facing higher labor costs may cut hours, hiring, or investment. Retention helps some workplaces, but rigid bargaining can harm the broader economy."
+  },
+  {
+   "i": 19,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 222.0,
+   "end_sec": 224.32,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds, and then closing statements."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 226.791,
+   "end_sec": 232.8,
+   "dur_sec": 6.009,
+   "overlap": false,
+   "text": "Imagine a repair shop where worn guards injure workers until a union demands replacement and training. Workers stay healthy-",
+   "ext_file": "L079_ext_a32.wav",
+   "cut_at_sec": 230.54,
+   "full_dur_sec": 12.42
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 232.0,
+   "end_sec": 242.25,
+   "dur_sec": 10.25,
+   "overlap": true,
+   "text": "That's time. Now we move on to Round Three. Round Three are closing statements by each debater in turn. Making her closing statement in support of the resolution, Mari."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.45,
+   "end_sec": 262.37,
+   "dur_sec": 19.92,
+   "overlap": false,
+   "text": "The central issue is whether workers share enough power to make the economy durable. Unions turn unsafe, unstable jobs into bargaining relationships, so workers can stay, spend, and build skills. Employers gain experienced staff and clearer communication. That is not a side benefit; it is the economic foundation we should protect."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 262.45,
+   "end_sec": 264.3,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 262.57,
+   "end_sec": 270.09,
+   "dur_sec": 7.52,
+   "overlap": false,
+   "text": "When workers can bargain, prosperity reaches beyond the workplace and unions work for the economy. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 270.29,
+   "end_sec": 271.89,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Let's let Wendy respond."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 272.09,
+   "end_sec": 292.25,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "An economy needs jobs that can adapt, not rules that hand one group power over every decision. Unions may solve a problem inside one workplace, yet their demands can raise costs for people outside it. The motion asks about the whole economy. On that test, flexibility, investment, and open opportunity matter more than collective pressure."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 292.09,
+   "end_sec": 293.97,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 292.45,
+   "end_sec": 303.39,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "Workers deserve safety and respect, but they do not need an institution that blocks change. Let employers and workers make direct arrangements, because when a contract freezes choices-",
+   "cut_at_sec": 299.24,
+   "full_dur_sec": 14.16,
+   "ext_file": "L079_030.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 302.59,
+   "end_sec": 305.12,
+   "dur_sec": 2.53,
+   "overlap": true,
+   "text": "I'm sorry, I'm sorry. Hit time."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 305.32,
+   "end_sec": 310.29,
+   "dur_sec": 4.97,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate on the motion. This concludes our discussion."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+L130  |  Europe Has Declared War on American Tech Companies.
+  MOD=Dante   PRO=Elise   CON=Mustafa
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Dante(MOD): Welcome to our debate on the motion, Europe has declared war on American tech companies. Elise argues for it, and Mustafa argues against it. Each opening and closing lasts thirty seconds. Then comes two and a half minutes of crossfire, with a ten-second cue before each timed speech ends. Address arguments, not people, and I will enforce the limits.
+[t01] Elise(PRO): Europe has not merely set rules for companies; it has built a coordinated pressure campaign aimed especially at American platforms. Its penalties, forced design changes, and suspicion of scale treat success as something to restrain. When regulators can dictate how a foreign firm reaches users, that is economic warfare in practice.
+[t02] @A4 <ovl> Dante(MOD): Ten seconds, ten seconds.
+[t03] Elise(PRO): Calling it regulation misses the pattern: these measures deliberately weaken American technology companies abroad competitively. That's all, thank you.
+[t04] @A2-2 Dante(MOD): All right. Let me bring it back to Mustafa.
+[t05] Mustafa(CON): Rules that apply to a market are not a declaration of war, even when American firms feel their effects. Europe is policing privacy, competition, and consumer choice within its borders. A war seeks destruction; these rules demand responsibility, and domestic firms face them too. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Dante(MOD): Now we go on to round two. And round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t07] Elise(PRO): If this is neutral regulation, why do the heaviest demands repeatedly fall on the largest American platforms rather than on Europe's smaller rivals? What would make you call coordinated restrictions a hostile campaign today?
+[t08] Mustafa(CON): Your weakest claim is that unequal impact proves hostile intent. Large platforms face more duties because they shape more users' choices; size, not nationality, explains that. Rules for powerful gatekeepers are regulation, not war.
+[t09] Elise(PRO): When officials require a company to redesign its core service solely because it is American, the motion is true. That condition turns oversight into targeted economic combat, whatever polite label regulators choose for it.
+[t10] Mustafa(CON): On your redesign point, you assume an American identity is the trigger, but the trigger is market power and conduct. A domestic company using the same gatekeeping tactics would face the same demands, so no war exists.
+[t11] Elise(PRO): These disputes also affect investors, product launches, and the everyday annoyance of changing an app menu. But the central issue is power: Europe uses its legal machinery to curb American tech champions, which is a warlike campaign.
+[t12] Mustafa(CON): Imagine a small local messaging service that copies a dominant platform's locked-in features and traps users there. The competition rule can open both services to choice. That example shows enforcement protects markets; it does not wage war.
+[t13] Elise(PRO): If rules truly apply without national favoritism, why is American innovation so often described as a threat before any proven wrongdoing? Can you name a similar campaign against a homegrown giant with equal force?
+[t14] Mustafa(CON): No, because your weakest move is treating sharp rhetoric as proof of official warfare. Critics may distrust large foreign firms, but laws rest on behavior and market reach. Harsh tone cannot make standards war.
+[t15] Elise(PRO): Europe's approach is hostile to American tech companies because it treats their scale as a public danger requiring exceptional restraint. Whether a particular rule reaches another firm too, the sustained campaign is directed at American technological power.
+[t16] Mustafa(CON): Your point about sustained hostility confuses a pattern of oversight with a campaign of destruction. Powerful companies draw scrutiny wherever they operate. Requiring fair access or safer handling does not seek to defeat American technology.
+[t17] Elise(PRO): I grant that consumer protection can be legitimate and that some rules reach every large firm. Yet the main pattern singles out American platforms as problems to be tamed, making the motion true.
+[t18] @A4 <ovl> Dante(MOD): Well, now ten.
+[t19] <cut> Mustafa(CON): Consider a new American service delaying a useful feature because regulators demand screens and approval paths before-
+
+--- phase 3 ---
+[t20] @A3-2 <ovl> Dante(MOD): Okay, time. So, let's move on to round three, closing statements. Each debater in turn, here to make her closing statement in support of europe has declared war on american tech companies, is Elise.
+[t21] Elise(PRO): Deciding this motion turns on whether we judge the pattern or isolate each rule. A single consumer rule may be defensible. But a sustained effort to constrain American firms' products, reach, and business models carries a political purpose. It uses regulation as a weapon against foreign technological strength at home.
+[t22] <cut> Elise(PRO): Your answer asks us to ignore the target because the language sounds neutral. Yet neutral words do not erase coordinated burdens on one foreign industry. When rules repeatedly weaken American companies, voters should-
+[t23] @A4 <ovl> Dante(MOD): Just, just about ten seconds left.
+[t24] @A2-1 <ovl> Dante(MOD): Your time is up, Elise. Thank you. And here to summarize his position against the motion, Mustafa.
+[t25] Mustafa(CON): Elise's best argument is that the pattern feels targeted, especially when big American firms bear heavy costs. But feeling targeted is not declaring war. The test is whether rules punish nationality or govern conduct. These measures govern power, access, and user protection, so Europe is regulating a market, not fighting a country.
+[t26] <cut> Mustafa(CON): Calling firms gatekeepers may be forceful language, but it does not make enforcement an economic attack. Companies remain free to sell, compete, and challenge decisions. Regulation becomes war-
+[t27] @A4 <ovl> Dante(MOD): Ten seconds for last word.
+[t28] @A1 <ovl> Dante(MOD): I'm sorry, his time is up.
+[t29] Dante(MOD): Thank you, Elise and Mustafa, for a lively exchange. That concludes our debate on this motion here today.

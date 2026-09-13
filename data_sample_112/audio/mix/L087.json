@@ -1,0 +1,433 @@
+{
+ "debate_id": "L087",
+ "motion": "Negotiations can denuclearize North Korea.",
+ "speakers": {
+  "MOD": {
+   "name": "Karen",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  },
+  "PRO": {
+   "name": "Joanna",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "CON": {
+   "name": "Michelle",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2124_313",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2124/MSP-PODCAST_2124_313.wav",
+   "wpm": 171.3
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 90.61,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 303.24,
+ "ext": {
+  "a32": {
+   "file": "L087_ext_a32.wav",
+   "place_at_sec": 229.142,
+   "dur_sec": 38.94,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "You are right that a weak inspection deal could be exploited. But how does refusing negotiations expose even one tunnel or remove one weapon? Only a demanding agreement can create access and make dismantlement possible."
+  },
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Refusing a weak deal does not expose tunnels, but accepting one can reward concealment and lock in a false sense of safety. Your approach depends on cooperation from the very actor with the greatest reason to deceive."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.93,
+   "dur_sec": 17.93,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is whether negotiations can denuclearize North Korea. Joanna argues for the motion, and Michelle argues against it. Each opening is thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings; I will give a ten-second cue. Address the question directly and respect my interventions."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.13,
+   "end_sec": 38.29,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Negotiations can denuclearize North Korea because they create a path from threats to verified steps. A bargain can trade restraint, access, and gradual relief, giving each side reasons to perform. No one should expect trust first; arrangements build it through checks. The crucial question is whether sustained contact can turn danger into practical limits."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.13,
+   "end_sec": 41.12,
+   "dur_sec": 2.99,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.49,
+   "end_sec": 49.43,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "Those limits need verified freezes, inspections, and consequences for cheating. You say talks reward bad behavior, but refusing talks leaves only pressure and guessing. A negotiated process does not demand-",
+   "cut_at_sec": 49.43,
+   "full_dur_sec": 17.04,
+   "ext_file": "L087_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 48.63,
+   "end_sec": 51.6,
+   "dur_sec": 2.97,
+   "overlap": true,
+   "text": "Your time is up. Thank you. Michelle."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.8,
+   "end_sec": 72.0,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "Negotiations may reduce tension for a while, and that is worth wanting. But denuclearization means actual, lasting removal, not polite meetings or temporary pauses. A government that treats nuclear weapons as its strongest protection can promise cooperation while preserving leverage. Talks can gain time, ease pressure, and divide outside resolve. The central problem is whether promises can overcome that incentive."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 71.8,
+   "end_sec": 72.8,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 72.2,
+   "end_sec": 80.5,
+   "dur_sec": 8.3,
+   "overlap": false,
+   "text": "They cannot, because the weapon remains the strongest guarantee of power and survival. That's all, thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 80.7,
+   "end_sec": 92.87,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 93.07,
+   "end_sec": 105.08,
+   "dur_sec": 12.01,
+   "overlap": false,
+   "text": "I agree that direct contact can prevent a dangerous misunderstanding. But why assume a state will surrender its strongest protection simply because negotiators offer relief, when it can collect benefits and keep the weapon?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 105.35,
+   "end_sec": 117.47,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "I do not assume it will surrender anything for mere relief; agreements must make benefits conditional on verified dismantlement. Your alternative offers no route to test compliance or exchange security fears for enforceable limits."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 118.288,
+   "end_sec": 130.698,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "If leaders portray nuclear weapons as a symbol of national strength, giving them up can look humiliating at home. Their supporters may treat compromise as weakness, and that political image shapes who keeps authority afterward."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 130.898,
+   "end_sec": 135.388,
+   "dur_sec": 4.49,
+   "overlap": false,
+   "text": "But we're getting a little bit off whether negotiations can denuclearize North Korea."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 135.588,
+   "end_sec": 145.808,
+   "dur_sec": 10.22,
+   "overlap": false,
+   "text": "The question is whether negotiations can actually denuclearize North Korea, and they cannot when the other side can delay, conceal, and renegotiate while retaining the ultimate source of leverage."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 146.672,
+   "end_sec": 158.072,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "When inspectors receive continuing access to declared and suspected sites, negotiations can produce real dismantlement because cheating becomes harder to hide. That condition turns promises into observable actions rather than hopeful words."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 158.593,
+   "end_sec": 169.363,
+   "dur_sec": 10.77,
+   "overlap": false,
+   "text": "Sanctions can burden ordinary families, which makes every bargaining choice morally difficult. But hardship does not change the core issue: negotiations cannot denuclearize North Korea if compliance depends on voluntary disclosure."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 169.753,
+   "end_sec": 181.593,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Negotiation is the only practical channel through which nuclear risks can be reduced, monitored, and ultimately removed. Can you name a nonnegotiated path that gets inspectors inside and weapons out without inviting catastrophe?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 182.138,
+   "end_sec": 195.658,
+   "dur_sec": 13.52,
+   "overlap": false,
+   "text": "I reject your premise that inspectors can get reliable access merely because talks occur; access can be staged and restricted. A nonnegotiated strategy can contain the threat until the leadership decides the weapon costs more than it gives-"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 194.758,
+   "end_sec": 206.238,
+   "dur_sec": 11.48,
+   "overlap": true,
+   "text": "Containment does not remove anything. You are asking listeners to accept an endless nuclear danger, while negotiation creates the only process that can trade verified dismantlement for the security assurances you dismiss."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 206.584,
+   "end_sec": 217.264,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "If the other side hides one facility, breaks one promise, and still demands concessions, what makes your process denuclearization rather than a managed illusion? Answer how you prevent that deception."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 218.198,
+   "end_sec": 231.078,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Your verification point is exactly why negotiation matters: it creates inspection rights, milestones, and penalties that do not exist without agreement. A hidden facility is a reason for stronger terms, not proof that all diplomacy fails."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 231.402,
+   "end_sec": 243.67,
+   "dur_sec": 12.268,
+   "overlap": false,
+   "text": "Imagine inspectors arriving at a declared site while equipment is moved through an unreported tunnel elsewhere. The agreement looks successful, pressure lifts, and the hidden arsenal survives. That proves negotiations can conceal nuclear danger, not-",
+   "ext_file": "L087_ext_a32.wav",
+   "cut_at_sec": 241.41,
+   "full_dur_sec": 13.13
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 232.87,
+   "end_sec": 236.16,
+   "dur_sec": 3.29,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 242.87,
+   "end_sec": 253.28,
+   "dur_sec": 10.41,
+   "overlap": true,
+   "text": "Time's up. And that concludes round two. And now we're going to move on to round three. Here to argue in her closing statement, in support of this motion, Joanna."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 253.48,
+   "end_sec": 271.2,
+   "dur_sec": 17.72,
+   "overlap": false,
+   "text": "This decision turns on whether a workable path exists, not whether success is guaranteed. Negotiations can tie security assurances to inspections, phased dismantlement, and consequences for cheating. Without talks, there is no mechanism to gain access, test claims, or exchange weapons for lasting security. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 271.4,
+   "end_sec": 273.09,
+   "dur_sec": 1.69,
+   "overlap": false,
+   "text": "And let Michelle respond."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 273.29,
+   "end_sec": 283.06,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "This decision turns on incentives, not hopes. A state that views nuclear weapons as survival insurance will protect them while using negotiations to reduce pressure."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 282.16,
+   "end_sec": 284.46,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But you cannot call diplomacy useless while-",
+   "cut_at_sec": 280.2,
+   "full_dur_sec": 9.94,
+   "ext_file": "L087_029.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 283.66,
+   "end_sec": 285.67,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "Just let her finish, please."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 285.87,
+   "end_sec": 295.64,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "And a promise of a safe exit is not the same as disarmament. If inspectors depend on permission, the other side can grant access where it is harmless and deny it where it matters."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 293.29,
+   "end_sec": 295.22,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 295.84,
+   "end_sec": 303.87,
+   "dur_sec": 8.03,
+   "overlap": false,
+   "text": "Negotiations can manage tension, but they cannot overcome the incentive to keep nuclear weapons. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 304.07,
+   "end_sec": 309.76,
+   "dur_sec": 5.69,
+   "overlap": false,
+   "text": "Thank you, Joanna and Michelle, for a thoughtful debate on whether negotiations can denuclearize North Korea."
+  }
+ ]
+}

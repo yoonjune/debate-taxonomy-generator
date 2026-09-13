@@ -1,0 +1,40 @@
+L163  |  Education is worthless without freedom of speech
+  MOD=Bernard   PRO=Annie   CON=Lionel
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Bernard(MOD): Welcome to our debate. Tonight's motion is that an education is worthless without freedom of speech. Annie supports it, and Lionel opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each limit. Address each other directly, stay on the motion, and keep the exchange respectful throughout.
+[t01] Annie(PRO): Education is more than storing answers. It teaches people to test claims, ask why, and correct mistakes. Without freedom of speech, students may repeat official words, but cannot challenge a false lesson or share a better idea. That produces obedience, not education. Can learning matter if students cannot question what they are taught?
+[t02] @A4 <ovl> Bernard(MOD): Well, now it's ten.
+[t03] <cut> Annie(PRO): A classroom can have books and careful lessons, yet fail when every doubt is dangerous. Understanding needs disagreement, because learners must say, I think this is wrong, and explain why-
+[t04] @A2-1 <ovl> Bernard(MOD): Time. Thank you, Annie. Lionel, your turn.
+[t05] Lionel(CON): Annie confuses imperfect education with worthless education. People can learn language, calculation, history, practical skills, and habits even when public speech is limited. Restrictions can harm learning, but harm is not the same as making every lesson empty. If a student gains useful knowledge, why call that knowledge worthless? That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Bernard(MOD): That concludes round one. We're in round two where the debaters are going to be able to talk directly to each other. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Lionel(CON): Yes, learning matters even when questioning is limited; your premise treats public challenge as the only path to understanding. A learner can still reason, practice, and gain knowledge, so education is not worthless.
+[t08] Annie(PRO): You're right that a learner can memorize useful skills under limits. But education means judging ideas, not merely receiving them; when speech is forbidden, errors cannot be exposed, so its purpose is worthless.
+[t09] Lionel(CON): If speech freedom is absent, must every math method, reading skill, and craft lesson suddenly have no value? Explain why private thought and patient teaching cannot make education worthwhile.
+[t10] Annie(PRO): When a teacher may punish any spoken challenge, students learn to hide doubts instead of examine them. Under that condition, instruction trains compliance, and education loses the independent judgment that makes it worthwhile.
+[t11] Lionel(CON): Imagine a quiet workshop where learners cannot criticize the rules but can watch, copy, and repair a broken tool. They leave able to solve daily problems; that useful learning proves education retains value.
+[t12] Annie(PRO): Libraries preserve stories, and families pass down skills long before any classroom begins. But the motion concerns whether schooling deserves its name: would you trust lessons when students cannot openly challenge a lie?
+[t13] <cut> Lionel(CON): No, I would not trust a lie, but your question assumes limits prevent challenge. Students can question privately, compare evidence, and learn sound lessons; knowledge does not vanish when speech is-
+[t14] Annie(PRO): Education requires freedom to question, because knowledge grows through challenges between minds. In every serious subject, learners need space to voice doubts and test answers, or they are being shaped rather than educated.
+[t15] Lionel(CON): If students can read, calculate, and reason inwardly despite speech limits, why erase the value of those abilities? Please explain why silence outside discussion makes all learning worthless.
+[t16] Annie(PRO): That logic also affects private tutoring: should parents choose every book, conversation, and friend for a child at home? The issue is how much authority families may exercise over a child's life.
+[t17] @B1 Bernard(MOD): No, an education is worthless without freedom of speech, an education is worthless without freedom of speech. Those are the key words.
+[t18] Annie(PRO): Education is worthless without freedom of speech because learners must be able to question lessons and exchange reasons. If speech is controlled, they may receive information, but they cannot genuinely evaluate it.
+[t19] Lionel(CON): Your 'exchange reasons' point overstates what education requires. Learners can evaluate ideas against experience, books, and private reflection; why does public permission to speak determine whether their understanding has value?
+[t20] @A4 <ovl> Bernard(MOD): Ten seconds to go in this round.
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Bernard(MOD): Okay, time. And now we move on to Round three. Here making her closing statement in support of the motion that an education is worthless without freedom of speech, Annie.
+[t22] Annie(PRO): My opponent says private thought can save education. But private thought cannot test a rule, demand missing evidence, or let learners warn each other about falsehoods. Education forms independent judgment through open inquiry. When spoken challenge is punished, lessons become submission; useful facts remain, but without freedom to examine and contest them, they cannot give genuine education, because.
+[t23] @A4 <ovl> Bernard(MOD): You've got ten seconds.
+[t24] Annie(PRO): Speech is the tool that turns information into shared, tested understanding. Without it, education loses its central purpose. I firmly support the motion. That's all, thank you.
+[t25] @A2-2 Bernard(MOD): Lionel, you're up first.
+[t26] Lionel(CON): Annie's point is that open challenge improves education, and I agree. But the motion says education is worthless without speech freedom, erasing learning through reading, practice, reflection, and conversation. A restricted classroom can be poorer, yet learners still gain skills and understanding that guide choices. We should defend speech strongly, but education survives restriction because it gives value through.
+[t27] @A4 <ovl> Bernard(MOD): Ten seconds please.
+[t28] <cut> Lionel(CON): Knowledge does not become empty merely because discussion is constrained. A learner who understands a skill, a text, or a problem has gained something real. Freedom improves education-
+[t29] @A1 <ovl> Bernard(MOD): Thank you, Lionel. Your time is up.
+[t30] Bernard(MOD): Thank you, Annie and Lionel, for a thoughtful debate; this concludes our discussion of the motion tonight here.

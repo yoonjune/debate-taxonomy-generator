@@ -1,0 +1,391 @@
+{
+ "debate_id": "L024",
+ "motion": "Happiness is doing good rather than feeling good.",
+ "speakers": {
+  "MOD": {
+   "name": "Horace",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6699_79",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_6/MSP-PODCAST_6699/MSP-PODCAST_6699_79.wav",
+   "wpm": 176.38
+  },
+  "PRO": {
+   "name": "Karen",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5287_206",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5287/MSP-PODCAST_5287_206.wav",
+   "wpm": 169.41
+  },
+  "CON": {
+   "name": "Kirsten",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 68.12,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 278.88,
+ "ext": {
+  "a32": {
+   "file": "L024_ext_a32.wav",
+   "place_at_sec": 215.182,
+   "dur_sec": 23.8,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "A child may spend a day helping a friend and return home drained, lonely, and unable to feel any joy. The kindness is admirable, but it proves happiness still depends on feeling good."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.96,
+   "dur_sec": 21.96,
+   "overlap": false,
+   "text": "Today we debate the motion, happiness is doing good rather than feeling good. Karen takes the PRO side, and Kirsten takes the CON side. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each debater gives a thirty-second closing. I will give a ten-second cue before time ends, and I may cut in when time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 22.16,
+   "end_sec": 37.8,
+   "dur_sec": 15.64,
+   "overlap": false,
+   "text": "Happiness reaches beyond a pleasant feeling; it becomes real when our choices help someone else. Feelings shift with luck and comfort, but doing good gives joy a worthy object and connects us to others. So happiness is better understood as good action than as private pleasure."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 38.0,
+   "end_sec": 40.12,
+   "dur_sec": 2.12,
+   "overlap": false,
+   "text": "Kirsten has the floor right now."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 40.32,
+   "end_sec": 56.28,
+   "dur_sec": 15.96,
+   "overlap": false,
+   "text": "Doing good can matter deeply without making the doer happy, while feeling good is part of what happiness means. A person may help others while exhausted or miserable, and another may feel genuine joy without serving anyone. The motion confuses admirable conduct with happiness itself."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 56.48,
+   "end_sec": 68.12,
+   "dur_sec": 11.64,
+   "overlap": false,
+   "text": "And that concludes round one. Now on to round two. Round two is where the debaters address one another in turn. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 68.32,
+   "end_sec": 81.0,
+   "dur_sec": 12.68,
+   "overlap": false,
+   "text": "Imagine a devoted caregiver who keeps helping while grief and exhaustion swallow every pleasant feeling. Her goodness deserves respect, but calling that suffering happiness erases her inner life; it proves doing good cannot replace feeling good."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 81.779,
+   "end_sec": 93.179,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "You praise the feeling, but it can follow selfishness. A person can feel pleased after deceiving someone, while the harmed person pays; that contrast shows feeling alone cannot define happiness, and doing good is-"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 93.774,
+   "end_sec": 107.334,
+   "dur_sec": 13.56,
+   "overlap": false,
+   "text": "People also seek approval, and public praise can make a good deed feel rewarding even when motives are mixed. Still, that social response is only part of happiness; the feeling remains essential, so doing good is not enough."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 107.922,
+   "end_sec": 115.962,
+   "dur_sec": 8.04,
+   "overlap": false,
+   "text": "If feeling good is essential, would you call someone happy after a selfish pleasure that leaves another person wounded, simply because the sensation is genuine?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 116.283,
+   "end_sec": 130.883,
+   "dur_sec": 14.6,
+   "overlap": false,
+   "text": "The point is, should families and schools teach children to pursue pleasure less suspiciously? Adults should make room for rest, play, friendship, and honest delight, instead of treating every enjoyable choice as morally inferior or requiring it to serve someone else."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 131.083,
+   "end_sec": 135.763,
+   "dur_sec": 4.68,
+   "overlap": false,
+   "text": "It's really off the topic of happiness is doing good rather than feeling good."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 135.963,
+   "end_sec": 145.763,
+   "dur_sec": 9.8,
+   "overlap": false,
+   "text": "Feeling good is always part of happiness. Doing good may bring pride, but it cannot by itself supply the warmth, relief, or delight that makes happiness a lived experience."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 146.344,
+   "end_sec": 159.824,
+   "dur_sec": 13.48,
+   "overlap": false,
+   "text": "A neighbor quietly brings food to someone who has none, receiving no praise and feeling tired afterward. The act still expresses a richer happiness than private pleasure, because it makes another life better; that proves doing good can define happiness."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 160.215,
+   "end_sec": 170.175,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "In grief, feeling good is not part of happiness. A grieving person can act kindly while no warmth or delight appears, yet her goodness remains meaningful and complete."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 170.375,
+   "end_sec": 180.655,
+   "dur_sec": 10.28,
+   "overlap": false,
+   "text": "I'm puzzled by your stand. On the one hand feeling good is always part of happiness and on the other hand in grief, feeling good is not part of happiness."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 180.855,
+   "end_sec": 195.055,
+   "dur_sec": 14.2,
+   "overlap": false,
+   "text": "Both statements reflect different descriptions I still accept. Happiness normally includes the lived feeling of good, but grief can remove that feeling while a person's caring life remains admirable; that distinction keeps goodness and feeling from becoming the same thing."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 195.815,
+   "end_sec": 203.055,
+   "dur_sec": 7.24,
+   "overlap": false,
+   "text": "If a person feels delighted while exploiting someone powerless, what makes that feeling happiness rather than merely pleasure with a pleasant surface?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.72,
+   "end_sec": 214.4,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "No, I reject the premise that every delighted feeling is happiness. But your view still makes goodness do the defining work, even when the person feels only pain or emptiness."
+  },
+  {
+   "i": 18,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 208.12,
+   "end_sec": 209.6,
+   "dur_sec": 1.48,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 215.182,
+   "end_sec": 218.92,
+   "dur_sec": 3.738,
+   "overlap": false,
+   "text": "I grant that pleasure can be genuine without selfishness-",
+   "ext_file": "L024_ext_a32.wav",
+   "cut_at_sec": 218.92,
+   "full_dur_sec": 11.88
+  },
+  {
+   "i": 20,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 218.12,
+   "end_sec": 225.84,
+   "dur_sec": 7.72,
+   "overlap": true,
+   "text": "We've come up against the clock, so we're going to move now to our closing statements. Karen, the stage is all yours."
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 226.04,
+   "end_sec": 235.36,
+   "dur_sec": 9.32,
+   "overlap": false,
+   "text": "Our strongest point is that pleasure can accompany harm, while good action gives happiness a worthy direction. That is why doing good matters more than merely feeling good."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 234.46,
+   "end_sec": 236.76,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But a worthy action cannot create-",
+   "cut_at_sec": 236.76,
+   "full_dur_sec": 9.96,
+   "ext_file": "L024_023.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 235.96,
+   "end_sec": 237.68,
+   "dur_sec": 1.72,
+   "overlap": true,
+   "text": "Can we let her reply please?"
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 237.88,
+   "end_sec": 247.76,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "I was saying that happiness needs more than a passing sensation. When joy is separated from care, it can bless the selfish and ignore the harmed, while doing good gives happiness its human meaning."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 246.04,
+   "end_sec": 247.04,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 247.96,
+   "end_sec": 253.28,
+   "dur_sec": 5.32,
+   "overlap": false,
+   "text": "A good life makes happiness worthy, not merely pleasant; that is why doing good comes first."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 253.48,
+   "end_sec": 255.6,
+   "dur_sec": 2.12,
+   "overlap": false,
+   "text": "Let's have Kirsten take this one."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 255.8,
+   "end_sec": 273.12,
+   "dur_sec": 17.32,
+   "overlap": false,
+   "text": "Karen is right that pleasure can accompany harm, but that does not make pleasure irrelevant to happiness. Doing good may show character while someone feels miserable, and feeling joy may arise from connection, relief, or gratitude. Happiness is the felt experience, not simply the moral value of an act."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 273.32,
+   "end_sec": 278.88,
+   "dur_sec": 5.56,
+   "overlap": false,
+   "text": "Thank you both for your thoughtful arguments. This debate is now closed, without declaring a winner."
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+L117  |  Treat terrorists like enemy combatants, not criminals
+  MOD=Kara   PRO=Amanda   CON=Sarah
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Kara(MOD): Welcome to tonight's debate on whether to treat terrorists like enemy combatants, not criminals. Amanda speaks for the motion, and Sarah speaks against it. Each has thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. I will keep the exchange direct and respectful.
+[t01] Amanda(PRO): Terrorist violence is organized coercion against a political community, not a private dispute. Calling its members ordinary criminals grants them a courtroom framework designed for individual wrongdoing. Enemy-combatant treatment recognizes the conflict, permits secure detention, and prevents dangerous operators from using criminal procedures to keep directing violence.
+[t02] @A4 <ovl> Kara(MOD): Ten seconds, Amanda.
+[t03] Amanda(PRO): They chose a campaign against us, so the law should recognize them as enemy combatants. That's all, thank you.
+[t04] @A2-2 Kara(MOD): Thank you, Amanda. Speaking for the resolution. Sarah, against.
+[t05] Sarah(CON): Calling every terrorist an enemy combatant hands the government its broadest powers when precision matters most. Criminal law can investigate, prove responsibility, and punish real offenders while preserving independent review. A state that abandons those limits can turn suspicion into detention without a fair answer. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Kara(MOD): That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Amanda(PRO): No terrorist should ever be treated as a criminal. When an organized attacker serves a hostile campaign, military custody can disrupt networks, gather usable intelligence, and prevent release through procedural gaps that were never built for warfare.
+[t08] Sarah(CON): Imagine a frightened courier forced to carry a message and seized before anyone is hurt. Under combatant treatment, she may disappear into open-ended detention before testing the claim; that proves criminal process better separates coercion from guilt.
+[t09] Amanda(PRO): A captured terrorist should be treated as a criminal. Yet the conflict does not vanish because one captive receives paperwork; the wider campaign still requires enemy-combatant detention, interrogation, and disruption to protect people from coordinated attacks.
+[t10] @B2 Kara(MOD): So what I hear was on the one hand, you found yourself saying no terrorist should ever be treated as a criminal. And then on the other hand, a captured terrorist should be treated as a criminal.
+[t11] Amanda(PRO): Those statements distinguish legal status from an administrative step after capture. Filing a criminal charge can preserve evidence, but the captive remains an enemy combatant, so military authority rather than ordinary criminal processing governs detention.
+[t12] Sarah(CON): The harder issue is how security agencies share watch lists, train analysts, and decide which warnings reach schools or transit workers. Bad reporting can stigmatize families, waste resources, and erode trust, so those notification rules deserve public oversight.
+[t13] @B1 Kara(MOD): We're not debating those points. We're debating whether to treat terrorists like enemy combatants, not criminals.
+[t14] Sarah(CON): On this motion, terrorists should remain criminal suspects because guilt must be established case by case. Calling them combatants first makes detention the default and proof an afterthought, which gives the state power it has not earned.
+[t15] Amanda(PRO): Military detention also changes who supervises interrogations and how families learn where someone is held. Those are concerns, but the core choice is status: terrorists fighting an organized campaign should be treated as enemy combatants, not ordinary defendants.
+[t16] Sarah(CON): Consider a man wrongly identified after he shares a name with a wanted attacker. A criminal hearing lets his advocate challenge that mistake promptly, while combatant labeling can bury him; that proves criminal safeguards protect innocent people.
+[t17] Amanda(PRO): Your name-sharing example attacks sloppy identification, not enemy-combatant treatment itself. Military review can correct a mistaken identity, while criminal hearings can also fail; abandoning the appropriate wartime status because officials may err leaves organized threats improperly handled.
+[t18] @A4 <ovl> Kara(MOD): Ten seconds warning.
+[t19] <cut> Sarah(CON): I agree that mistaken identification demands review and an advocate. But why should that rare error erase the criminal court's ability to test evidence, especially when combatant status makes executive-
+
+--- phase 3 ---
+[t20] @A3-2 <ovl> Kara(MOD): That's time. Round three, closing statements by each debater in turn. Let's go to the first of these speakers. Speaking for the motion, Amanda.
+[t21] Amanda(PRO): This decision turns on whether organized political violence is understood as isolated wrongdoing or hostile action. Criminal trials look backward and can expose the public to ongoing networks. Enemy-combatant treatment gives government the right framework to disrupt a continuing threat while still requiring responsible judgment. That's all, thank you.
+[t22] @A2-2 Kara(MOD): Okay, Amanda, thank you very much indeed. Could I now please ask Sarah to speak against the motion.
+[t23] Sarah(CON): Enemy-combatant treatment sounds decisive, but its promise is dangerous: power to confine before guilt is proved. The other side says conflict supplies clear status, yet labels are contested and errors fall on real people. Criminal courts punish violence firmly while forcing officials to explain themselves. That public test protects security and liberty, especially when
+[t24] @A4 <ovl> Kara(MOD): Ten seconds, ten seconds.
+[t25] <cut> Sarah(CON): fear makes easy answers attractive. Treating terrorists as criminals does not excuse violence; it demands proof, permits punishment, and preserves a check on official power. When fear is strongest, that check-
+[t26] @A1 <ovl> Kara(MOD): Time.
+[t27] Kara(MOD): Thank you both for a thoughtful exchange; this debate on the motion is now concluded for today.

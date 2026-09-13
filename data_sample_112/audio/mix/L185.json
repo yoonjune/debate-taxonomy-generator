@@ -1,0 +1,438 @@
+{
+ "debate_id": "L099",
+ "motion": "Citizens United has undermined democracy.",
+ "speakers": {
+  "MOD": {
+   "name": "Nadine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  },
+  "PRO": {
+   "name": "Rima",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  },
+  "CON": {
+   "name": "Helen",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 100.34,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 310.85,
+ "ext": {
+  "a32": {
+   "file": "L099_ext_a32.wav",
+   "place_at_sec": 245.95,
+   "dur_sec": 24.12,
+   "src_i": 25
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 26,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Consider a small association pooling funds to explain why a proposed rule harms its members. The ruling lets that group answer powerful officeholders publicly, proving democracy gains voices rather than loses them."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.96,
+   "dur_sec": 19.96,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that Citizens United has undermined democracy. Rima speaks for the motion, and Helen speaks against it. Each has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address each other directly and keep remarks to the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.16,
+   "end_sec": 40.25,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "The ruling opened a political marketplace where a few wealthy voices can dominate. Elections should let citizens weigh arguments, not force them to compete with endless paid persuasion. When money buys repetition, candidates answer donors before neighbors. That changes whose concerns get heard, and it weakens democratic equality at the ballot box."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.16,
+   "end_sec": 41.4,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Rima."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.45,
+   "end_sec": 51.46,
+   "dur_sec": 11.01,
+   "overlap": false,
+   "text": "And the damage is dependence: officials know a small circle can finance attacks, so access follows wealth. If ordinary citizens cannot answer that pressure, how can their voice be equal when elections-",
+   "cut_at_sec": 51.46,
+   "full_dur_sec": 14.16,
+   "ext_file": "L099_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 50.66,
+   "end_sec": 53.66,
+   "dur_sec": 3.0,
+   "overlap": true,
+   "text": "Rima, you're rather going on. Thank you. Helen."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.86,
+   "end_sec": 63.9,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "No, equality does not mean equal spending. It means equal ballots, open debate, and citizens free to hear competing speakers. The ruling protects that freedom."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 63.0,
+   "end_sec": 65.3,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But ballots fail when wealthy groups drown out other-",
+   "cut_at_sec": 65.3,
+   "full_dur_sec": 6.89,
+   "ext_file": "L099_006.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 64.5,
+   "end_sec": 66.51,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "Yes. You go ahead, Helen."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 66.71,
+   "end_sec": 76.96,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "Competing speakers, and voters can reject every one of them. Your theory treats citizens as helpless, rather than capable of judging claims, motives, and exaggeration for themselves."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 73.86,
+   "end_sec": 75.23,
+   "dur_sec": 1.37,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 77.16,
+   "end_sec": 85.59,
+   "dur_sec": 8.43,
+   "overlap": false,
+   "text": "Democracy trusts people to decide after hearing more speech, not less. That's all, thank you."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 85.79,
+   "end_sec": 102.36,
+   "dur_sec": 16.57,
+   "overlap": false,
+   "text": "And that concludes round one of this debate. Now we go on to round two. And round two are where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 102.56,
+   "end_sec": 112.56,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "They can have equal political standing without equal megaphones, because each vote counts the same. You mistake persuasion for control; voters can discount an attack and choose independently."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 113.297,
+   "end_sec": 123.787,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "Imagine a local candidate facing anonymous ads funded by one wealthy interest. She spends every day answering distortions instead of meeting voters; that proves the ruling tilts representation toward money."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 124.762,
+   "end_sec": 137.202,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "That example also raises how campaigns hire designers, rent rooms, and train volunteers, since those choices shape a message. Fair rules for volunteers and campaign staff matter because their work determines whether candidates communicate clearly."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 137.402,
+   "end_sec": 142.882,
+   "dur_sec": 5.48,
+   "overlap": false,
+   "text": "That's whether the citizens united ruling has undermined our democracy. That's the motion we're discussing."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 143.082,
+   "end_sec": 155.202,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "On the ruling itself, it did not undermine democracy because it left the voter, the ballot, and public disagreement intact. Suppressing political spending would give officials power to decide which voices may reach citizens."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 155.409,
+   "end_sec": 166.059,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "Money can make political speech irritating and uneven, and I share that concern. But the main danger is allowing wealth to dominate attention, which undermines democracy by making political equality hollow."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 166.377,
+   "end_sec": 176.867,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "When spending is disclosed clearly and voters can examine its source, political advocacy adds information rather than corruption. Why assume a message becomes undemocratic merely because its sponsor has money?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 177.435,
+   "end_sec": 187.875,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "I reject that premise: disclosure does not erase a donor's ability to flood the conversation. When one sponsor buys constant attention, information becomes pressure, and democracy is undermined there."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 188.205,
+   "end_sec": 199.605,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Political speech can inform voters, and democracy should welcome vigorous disagreement from people with different means. The ruling protects that open exchange rather than making government the referee of acceptable political voices."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 200.573,
+   "end_sec": 212.053,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Campaigns also need volunteers, debate halls, and local conversations; those parts of politics cannot simply be purchased. But unlimited outside spending can swamp those public voices, so this ruling still undermines democracy."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 212.587,
+   "end_sec": 223.987,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "If voters can compare messages, talk with neighbors, and cast equal ballots, what democratic power has been taken from them? Aren't you really objecting to persuasive speech you dislike, not to democracy?"
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 224.773,
+   "end_sec": 235.213,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "You are right that voters retain ballots and can reject ads. But a few funders can set the agenda through relentless spending; that structural imbalance plainly undermines democracy itself."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 236.037,
+   "end_sec": 247.157,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Your agenda claim is weakest because candidates, journalists, neighbors, and opponents can answer any funded message. How does a donor setting a topic erase the citizen's equal vote or independent judgment?"
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 242.36,
+   "end_sec": 245.36,
+   "dur_sec": 3.0,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 26,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 247.97,
+   "end_sec": 253.16,
+   "dur_sec": 5.19,
+   "overlap": false,
+   "text": "It does not erase a ballot, but democracy requires more than a formal vote. When donors decide-",
+   "ext_file": "L099_ext_a32.wav",
+   "cut_at_sec": 251.14,
+   "full_dur_sec": 12.52
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 252.36,
+   "end_sec": 258.61,
+   "dur_sec": 6.25,
+   "overlap": true,
+   "text": "Okay, time. Now we move on to round three. Round three will be closing statements. Here is Rima."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 258.81,
+   "end_sec": 277.97,
+   "dur_sec": 19.16,
+   "overlap": false,
+   "text": "Helen's best point is that equal ballots and open speech matter. Yet ballots are meaningful only when no wealthy sponsor can command the political agenda through unlimited spending. This ruling protects spending power above political equality, allowing money to distort representation; that is why it has undermined democracy. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 278.17,
+   "end_sec": 279.7,
+   "dur_sec": 1.53,
+   "overlap": false,
+   "text": "What about that, Helen?"
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 279.9,
+   "end_sec": 300.26,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Rima rightly worries wealth can amplify speech, and voters deserve information about who pays. But amplification is not control because citizens hear rivals, challenge claims, and cast equal ballots. The ruling does not bar anyone from speaking; it prevents government from silencing speakers based on resources. A democracy confident in its citizens protects discussion even when some voices are louder, and it"
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 299.9,
+   "end_sec": 301.5,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 300.46,
+   "end_sec": 311.52,
+   "dur_sec": 11.06,
+   "overlap": false,
+   "text": "trusts voters to sort persuasion from truth, seek other views, and reject arguments they find empty. That safeguard preserves our democracy rather than undermining it. That's all, thank you."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 311.72,
+   "end_sec": 317.01,
+   "dur_sec": 5.29,
+   "overlap": false,
+   "text": "Thank you both for a focused exchange on this motion; this debate is now closed."
+  }
+ ]
+}

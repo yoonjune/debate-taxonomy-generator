@@ -1,0 +1,386 @@
+{
+ "debate_id": "L010",
+ "motion": "The AAP's child obesity guidelines are good medicine.",
+ "speakers": {
+  "MOD": {
+   "name": "Daisy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0894_483",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0894/MSP-PODCAST_0894_483.wav",
+   "wpm": 177.23
+  },
+  "PRO": {
+   "name": "Kirsten",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3204_600",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3204/MSP-PODCAST_3204_600.wav",
+   "wpm": 173.72
+  },
+  "CON": {
+   "name": "Amy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2678_246",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2678/MSP-PODCAST_2678_246.wav",
+   "wpm": 168.22
+  }
+ },
+ "selective": [
+  "A1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 62.82,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 293.7,
+ "ext": {
+  "a32": {
+   "file": "L010_ext_a32.wav",
+   "place_at_sec": 203.49,
+   "dur_sec": 36.96,
+   "src_i": 17
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 18,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "Your 'abandoning care' point ignores what the guidelines actually seek: counseling and family partnership, not a single target. Refusing guidance leaves clinicians less prepared to notice risks compassionately and offer choices."
+  },
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Consider a child repeatedly teased who starts hiding at home and avoiding movement. A body-focused clinical plan may make that child feel watched again rather than safe. That harm proves these guidelines are not good medicine."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.6,
+   "dur_sec": 19.6,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is whether the AAP's child obesity guidelines are good medicine. Kirsten argues for the motion, and Amy argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire. Keep it focused and respectful. Then each gets thirty seconds to close, with a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.8,
+   "end_sec": 35.76,
+   "dur_sec": 15.96,
+   "overlap": false,
+   "text": "These guidelines treat obesity as a health concern, not a character flaw. They call for early assessment, family-centered support, and options matched to need. Waiting until problems deepen is not kindness; careful, compassionate care for children is good medicine here. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 35.96,
+   "end_sec": 38.05,
+   "dur_sec": 2.09,
+   "overlap": false,
+   "text": "Let me take your point to Amy then."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 38.25,
+   "end_sec": 54.79,
+   "dur_sec": 16.54,
+   "overlap": false,
+   "text": "These guidelines risk turning children into medical problems before they are heard as people. A rushed label can bring shame, conflict, and pressure toward powerful interventions. Good medicine listens, protects trust, and avoids making body size the center of childhood. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 54.99,
+   "end_sec": 66.84,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "And that concludes round one. Now onto round two. And round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 67.04,
+   "end_sec": 79.56,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Imagine a child who hears adults discuss her weight at every visit. She stops speaking honestly and skips care altogether. That loss of trust shows these guidelines can harm the children they claim to help."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 80.084,
+   "end_sec": 92.204,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Families also need affordable food, safe places to play, and time together, which matters beyond any clinic. But the motion asks about medicine, and guided, respectful assessment gives families help before health burdens grow."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 92.699,
+   "end_sec": 103.459,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Your food-and-play point cannot rescue guidelines that make size a medical alarm. The weakest part of your case is calling more clinical attention automatically respectful for a child already worried."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 104.378,
+   "end_sec": 117.898,
+   "dur_sec": 13.52,
+   "overlap": false,
+   "text": "When schools design lunch and activity rules, they can shape sports access and even how children are grouped. Public institutions should build supportive systems that welcome children of every size and give families equal standing in school life."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 118.098,
+   "end_sec": 124.618,
+   "dur_sec": 6.52,
+   "overlap": false,
+   "text": "Okay. What does your point have to do with whether the AAP's child obesity guidelines are good medicine?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 124.818,
+   "end_sec": 135.938,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "That point matters because clinical guidance should keep support humane, not turn schools into judges. No child should ever be denied treatment. These guidelines offer earlier, respectful care rather than abandonment."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 136.932,
+   "end_sec": 149.452,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Your point, 'No child should ever be denied treatment,' confuses attention with medicine. Children deserve help, but not every child needs a medical pathway. These guidelines can make refusal of intensive care look like neglect."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 150.447,
+   "end_sec": 161.487,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "This child should be denied treatment. A child frightened by medical appointments needs ordinary reassurance, play, and patient listening, not another clinical plan. That is why these guidelines remain good medicine."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 161.687,
+   "end_sec": 168.497,
+   "dur_sec": 6.81,
+   "overlap": false,
+   "text": "You said no child should ever be denied treatment, but you see it as this child should be denied treatment."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 168.697,
+   "end_sec": 181.217,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Both statements protect a child from abandonment: treatment means helpful care, while denial means refusing a harmful plan. The real duty is to offer support that fits the child, which is exactly the guidelines' purpose."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 182.017,
+   "end_sec": 194.067,
+   "dur_sec": 12.05,
+   "overlap": false,
+   "text": "That wordplay is the weakest part of your defense. You called it treatment, then said this child should be denied treatment. Families cannot trust guidance that reverses its promise when a child is anxious."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 194.712,
+   "end_sec": 206.552,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "If you reject these guidelines, what clear path do you offer a child whose health is worsening and whose family asks for help? Saying 'just listen' leaves that family without timely, organized care."
+  },
+  {
+   "i": 17,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 206.84,
+   "end_sec": 209.06,
+   "dur_sec": 2.22,
+   "overlap": true,
+   "text": "Ten seconds, and then closing statements."
+  },
+  {
+   "i": 18,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 207.51,
+   "end_sec": 217.64,
+   "dur_sec": 10.13,
+   "overlap": false,
+   "text": "I reject the premise that rejecting these guidelines means abandoning care. Offer patient counseling, investigate concerns, and let families set a pace without weight-driven targets. Your organized-",
+   "ext_file": "L010_ext_a32.wav",
+   "cut_at_sec": 213.62,
+   "full_dur_sec": 12.8
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 216.84,
+   "end_sec": 227.21,
+   "dur_sec": 10.37,
+   "overlap": true,
+   "text": "Time's up. Now we move on to round three. Round three will be closing statements by each debater in turn. And here to speak first in the closing round, Kirsten."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 227.41,
+   "end_sec": 247.69,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "The strongest point is that children deserve help before concerns become heavier and harder to address. These guidelines ask clinicians to listen, involve families, and offer care without blame. That is better than waiting until trust and health are both damaged. Medicine should meet children with practical support, not silence. It also recognizes that each family needs a voice."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 247.41,
+   "end_sec": 248.57,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Kirsten, ten seconds."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 247.89,
+   "end_sec": 258.57,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "That voice does not erase medical responsibility; it makes care humane. Early, respectful options give children a better chance to thrive, and that is good medicine. That's all, thank you."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 258.77,
+   "end_sec": 261.77,
+   "dur_sec": 3.0,
+   "overlap": false,
+   "text": "Please, Amy. That's where I was going next."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 261.97,
+   "end_sec": 282.89,
+   "dur_sec": 20.92,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether a child is helped by being placed inside a weight-centered medical program. Care can be compassionate, yet a guideline can still create pressure and shame. Children need trust, room to grow, and attention to their whole lives. We should not confuse more intervention with better medicine. The question is who sets the path."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 281.97,
+   "end_sec": 283.13,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 283.09,
+   "end_sec": 293.27,
+   "dur_sec": 10.18,
+   "overlap": false,
+   "text": "A better approach starts with listening and practical support, without treating size as a verdict. Families deserve choices that do not arrive wrapped in fear. If we-",
+   "cut_at_sec": 287.53,
+   "full_dur_sec": 14.24,
+   "ext_file": "L010_028.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 292.47,
+   "end_sec": 293.07,
+   "dur_sec": 0.6,
+   "overlap": true,
+   "text": "Time."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 293.27,
+   "end_sec": 299.44,
+   "dur_sec": 6.17,
+   "overlap": false,
+   "text": "Thank you, Kirsten and Amy, for a thoughtful debate on this motion; that concludes our discussion here tonight."
+  }
+ ]
+}

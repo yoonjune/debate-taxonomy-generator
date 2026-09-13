@@ -1,0 +1,38 @@
+L089  |  The U.S. Should Adopt the 'Right to Be Forgotten' Online
+  MOD=Daphne   PRO=Justine   CON=Jeremy
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Daphne(MOD): Welcome to our debate on whether the U.S. should adopt the right to be forgotten online. Justine supports the motion, and Jeremy opposes it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire. Then come thirty-second closings, with a ten-second cue before time expires.
+[t01] Justine(PRO): A permanent online past can turn one mistake into a lifelong sentence. This right lets ordinary people seek removal of irrelevant, damaging material while preserving public-interest information. The U.S. should give people that fair chance to move on. That's all, thank you.
+[t02] @A2-2 Daphne(MOD): I'm going to let him respond to that.
+[t03] Jeremy(CON): The internet is not merely a scrapbook of private mistakes; it is also a public record. Giving people a deletion right invites powerful actors to hide truthful information that others need to judge them. Search tools may be imperfect, but erasure creates a dangerous power over memory. Once removal becomes a legal demand,
+[t04] @A4 <ovl> Daphne(MOD): Ten seconds, ten seconds.
+[t05] <cut> Jeremy(CON): platforms will remove first and ask questions later. A person harmed by an old post deserves context and compassion, but the answer is better speech, not forced disappearance. The public cannot-
+[t06] @A1 <ovl> Daphne(MOD): I'm sorry, you've hit time.
+
+--- phase 2 ---
+[t07] @A3-1 Daphne(MOD): And now we move on to more free-wheeling discussion. It runs two and a half minutes, starting the moment I stop. Go.
+[t08] Jeremy(CON): Suppose a landlord finds a truthful report that an applicant cheated tenants before. Your rule could bury that report from search results, leaving future tenants uninformed. That proves mandated forgetting can protect deception, so the motion fails.
+[t09] Justine(PRO): Online arguments also reward cruelty, and people can mute abusive accounts, but that is not enough. The motion concerns lasting search visibility of irrelevant harm. A legal removal process gives people control over stale personal material, supporting the motion.
+[t10] Jeremy(CON): Every truthful online record should always remain public. If a business owner repeatedly deceived customers, old reports help later customers avoid the same trap. Public access to truth protects ordinary people, so the motion should fail.
+[t11] Justine(PRO): I reject the premise that this right buries every truthful report; it weighs relevance, harm, and public interest. Your business example can remain available where consumers need it. The motion protects private people from needless permanent punishment.
+[t12] Jeremy(CON): A teenager's truthful online record should not remain public. A foolish old post can shadow that person through school and work long after it means anything. Still, broad deletion authority would endanger public memory, so I oppose the motion.
+[t13] @B2 Daphne(MOD): I'm puzzled by your stand. On the one hand every truthful online record should always remain public and on the other hand a teenager's truthful online record should not remain public.
+[t14] Jeremy(CON): I mean that public truth deserves openness, while a young person's old record can deserve mercy. That tension calls for voluntary judgment and context, not a national legal right that forces removal. The motion remains the wrong tool.
+[t15] Justine(PRO): Imagine a worker whose old, misleading accusation appears first whenever anyone searches her name, although it was resolved years ago. She loses interviews before she can explain. A removal right restores a fair hearing, which proves the motion's value.
+[t16] <cut> Jeremy(CON): I agree that a resolved accusation can be cruelly amplified. But search removal makes private gatekeepers decide what the public may find, and those decisions will favor people with money and influence, so the motion creates-
+[t17] <ovl> Justine(PRO): Why trust private gatekeepers more when they already rank and hide material without a clear legal standard? A right with appeals makes their choices accountable and protects people harmed by permanent search results. That is why we should adopt it.
+[t18] <cut> Jeremy(CON): No, a formal right would not make gatekeepers neutral; it would give them legal pressure to suppress disputed information. Appeals take time and resources, while removal happens quickly. Keeping truth available with context is safer, so the motion-
+[t19] @A4 <ovl> Daphne(MOD): Ten seconds, and then closing statements.
+
+--- phase 3 ---
+[t20] @A3-2 <ovl> Daphne(MOD): Time's up. Let's move on now to our closing round. Justine, you're up first.
+[t21] Justine(PRO): This debate is about whether a person must carry an irrelevant online wound forever. Jeremy admits that old records can be cruel, yet offers voluntary fixes that leave people powerless against search engines. A careful legal process can protect public-interest reporting while removing stale, disproportionate harm. That balance gives ordinary people a real second chance,
+[t22] @A4 <ovl> Daphne(MOD): Ten seconds from this side?
+[t23] <cut> Justine(PRO): not a license for powerful people to hide wrongdoing. Reviewers can consider truth, relevance, and public value, rather than treating every search result as sacred. Without this right-
+[t24] @A2-1 <ovl> Daphne(MOD): Your time is up, Justine. Thank you. And here to summarize his position against the motion, Jeremy.
+[t25] Jeremy(CON): My strongest point is simple: the motion gives someone a legal lever to make truthful information harder to find. That lever will not be used only by vulnerable people with embarrassing pasts. It can shield those who want to escape scrutiny, and platforms will tend to remove material rather than risk disputes. Compassion matters, but public memory matters too, especially when others must make informed choices,
+[t26] @A4 <ovl> Daphne(MOD): I can give you ten seconds to do this.
+[t27] Jeremy(CON): and context is better than compelled disappearance. Keep truthful records available, improve fairness around them, and reject this motion. That's all, thank you.
+[t28] Daphne(MOD): Thank you, Justine and Jeremy, for a thoughtful debate on the right to be forgotten online.

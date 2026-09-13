@@ -1,0 +1,41 @@
+L249  |  The EPA has gone overboard on climate change.
+  MOD=Christina   PRO=Jorge   CON=Caroline
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Christina(MOD): Welcome to our debate on whether the EPA has gone overboard on climate change. Jorge speaks for the motion, and Caroline speaks against it. Each opening and closing gets thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue, and speakers should address one another respectfully throughout.
+[t01] Jorge(PRO): The agency treats climate goals as permission to reach into ordinary choices. Rules can raise bills, narrow options, and decide matters better left to families.
+[t02] <ovl> <cut> Caroline(CON): Are you saying protections attack families-
+[t03] @A5 <ovl> Christina(MOD): Let him clarify, please.
+[t04] Jorge(PRO): I was saying those choices deserve room for judgment, not one distant office's command. When rules treat every household burden as acceptable, the agency has gone too far.
+[t05] @A4 <ovl> Christina(MOD): I can give you ten seconds to wrap this round.
+[t06] Jorge(PRO): Climate action matters, but authority without practical limits turns protection into too much control. That's all, thank you.
+[t07] @A2-2 Christina(MOD): Yeah, Caroline. Thank you.
+[t08] Caroline(CON): Climate rules are not overboard merely because they ask people and businesses to change. The agency's job is to prevent shared harm that individual choices cannot solve alone. Sensible standards leave room for innovation while protecting the air and future choices everyone depends on. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Christina(MOD): And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t10] Jorge(PRO): If climate rules can force a household to choose between heat and groceries, why should one agency decide that tradeoff without clear limits from elected leaders? Isn't that overboard then?
+[t11] Caroline(CON): I reject that premise: standards need not force that choice, because rules can be designed with practical flexibility. Your alternative leaves shared pollution costs on neighbors who never chose them, which is not restraint.
+[t12] <cut> Jorge(PRO): Flexibility is your weakest promise, because the people carrying costs cannot rely on an agency's goodwill. Once broad authority exists, each new rule becomes easier to defend, and the burden keeps-
+[t13] <ovl> Caroline(CON): That burden also includes the burden of polluted air, which you erase from the picture. Limits on emissions make producers account for harm they would otherwise shift onto everyone else.
+[t14] Jorge(PRO): Energy policy also depends on whether new power lines and generating sites can be approved quickly. Communities need clear local planning, reliable construction, and fair compensation when projects reshape their neighborhoods.
+[t15] @B1 Christina(MOD): But you're on that side of the motion, that's the one that you are supporting. the epa has gone overboard on climate change. That's the side that you are on.
+[t16] Jorge(PRO): I believe EPA climate rules always yield to family budgets. Government may want cleaner outcomes, but it cannot call a policy reasonable when it makes ordinary necessities less affordable at home.
+[t17] Caroline(CON): If every EPA climate rule must yield to family budgets, how can you protect families from pollution costs they cannot avoid? Why should a polluter's convenience outrank everyone's basic safety?
+[t18] Jorge(PRO): In emergencies, EPA climate rules do not yield to family budgets. Immediate protection has to come first, because families cannot budget their way out of air they cannot safely breathe.
+[t19] @B2 Christina(MOD): Jorge, thank you very much indeed. You said ePA climate rules always yield to family budgets. In emergencies, EPA climate rules do not yield to family budgets?
+[t20] Jorge(PRO): Family budgets remain the normal measure of whether rules go overboard, and emergencies demand protection because danger is immediate. Those ideas fit because responsible authority must recognize both hardship and urgent harm.
+[t21] Caroline(CON): Consider a child whose breathing becomes painful when nearby smoke settles for days. Strong climate standards can reduce the pollution feeding that danger, proving the agency's safeguards are protection, not excess.
+[t22] Jorge(PRO): I agree that a child facing smoke deserves prompt protection. But that example cannot license permanent authority over every household choice, so the EPA still goes overboard when safeguards ignore practical limits.
+[t23] @A4 <ovl> Christina(MOD): Ten seconds, and then closing statements.
+[t24] <cut> Caroline(CON): On your permanent authority point, standards do not control every household choice; they set boundaries for pollution that harms-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Christina(MOD): That's time. And now we move onto Round three. Speaking first for the motion, Jorge.
+[t26] Jorge(PRO): Caroline is right that pollution can impose costs on people who did not choose it. But that does not give one agency a blank check to regulate every climate-linked decision, whatever the household cost. Good protection needs limits, accountability, and room for ordinary life. When rules forget those boundaries, climate policy becomes overreach, and that is why...
+[t27] @A4 <ovl> Christina(MOD): Ten seconds, Jorge.
+[t28] Jorge(PRO): Protecting people means measuring burdens as seriously as benefits. The EPA has gone overboard when its climate rules demand sacrifice without sufficient limits. That's all, thank you.
+[t29] @A2-2 Christina(MOD): Caroline, you're up first.
+[t30] Caroline(CON): This decision turns on whether shared harm deserves a shared response. The other side offers fear of excess, but no reason to abandon rules that prevent people from shifting pollution onto others. Keep the safeguards accountable, certainly, but do not call necessary protection overboard. That's all, thank you.
+[t31] Christina(MOD): Thank you, Jorge and Caroline, for a thoughtful debate, and thank you for considering the motion with us today.

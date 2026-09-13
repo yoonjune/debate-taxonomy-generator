@@ -1,0 +1,40 @@
+L014  |  The President Has Exceeded His Constitutional Authority by Waging War Without Congressional Authorization
+  MOD=Jorge   PRO=Helen   CON=Wendy
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Jorge(MOD): Today's motion is: the president has exceeded his constitutional authority by waging war without congressional authorization. Helen argues for it; Wendy argues against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire. Then each side gets a thirty-second closing, with a ten-second cue before time ends. Keep it focused and address the motion.
+[t01] Helen(PRO): The Constitution places war-making in Congress because that choice belongs to the people's representatives. When a president sends forces into sustained combat without a clear authorization, executive judgment has replaced the required legislative decision. That is not a minor procedural flaw; it changes who decides whether the nation fights.
+[t02] @A4 <ovl> Jorge(MOD): Ten seconds.
+[t03] Helen(PRO): Without congressional authorization, that substitution exceeds presidential power and violates the constitutional design.
+[t04] @A2-2 Jorge(MOD): Let's take that to Wendy, please.
+[t05] Wendy(CON): The president must protect the nation when danger moves quickly, and the Constitution cannot mean waiting helplessly for Congress. Limited military action can defend people, enforce existing commitments, or answer an attack while lawmakers consider broader policy. Authority is exceeded only when action becomes a war Congress has clearly forbidden.
+[t06] Wendy(CON): Here, the dispute is about necessity and scope, not a blanket presidential power to wage war.
+[t07] @A4 <ovl> Jorge(MOD): You have ten seconds.
+--- phase 2 ---
+[t08] @A3-1 Jorge(MOD): Now we're gonna talk. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t09] Helen(PRO): Suppose a president orders troops into months of fighting, then rejects a request for authorization and keeps expanding the mission. That example shows sustained war-making belongs to Congress, so unilateral command exceeds constitutional authority.
+[t10] Wendy(CON): If the action is brief, defensive, and tied to an immediate attack, presidential force can be lawful without prior authorization. Under that condition, calling every unauthorized strike a constitutional war would erase the executive's protective duty.
+[t11] Helen(PRO): I grant that a president may respond to an immediate attack before Congress can gather. But your condition cannot justify months of offensive combat, because sustained war transfers Congress's choice to one executive, which supports the motion.
+[t12] Wendy(CON): I am answering the claim that duration alone settles the issue. A continuing mission can remain defensive and narrow, while congressional delay makes prior approval impossible; that does not turn necessary protection into unconstitutional war.
+[t13] Helen(PRO): That raises a neighboring question: who should set the rules for emergency spending, troop benefits, and public messaging? Clear budget procedures could reduce confusion, reassure families, and improve trust in national institutions, even when lawmakers disagree about priorities.
+[t14] @B1 Jorge(MOD): But we're getting a little bit off the president has waged war without congressional authorization.
+[t15] Helen(PRO): The question here is who may decide to wage sustained war, and the Constitution assigns that choice to Congress. Emergency need can justify immediate defense, but it cannot replace authorization for continuing combat, so the president exceeded authority.
+[t16] Wendy(CON): Presidential force is not automatically unlawful whenever Congress has not voted first. The broader rule is that the executive may act within existing legal authority, while only Congress can authorize a new, sustained war.
+[t17] Helen(PRO): Commanders also need clear orders, reliable funding, and care for returning service members. Those practical duties matter, but they cannot answer the constitutional question: without congressional authorization for sustained war, presidential action exceeded its authority.
+[t18] Wendy(CON): I grant that Congress holds an important war power. But that does not mean every military operation is a war requiring advance permission; constitutional practice allows limited defense, and this claim wrongly labels lawful protection as overreach.
+[t19] Helen(PRO): Your point about limited defense does not answer the sustained operation I described. Once combat expands beyond immediate protection, the president cannot turn silence from Congress into permission; that is precisely the exceeded authority at issue.
+[t20] Wendy(CON): Your question assumes congressional silence is permission, but it is not. Existing law, defensive necessity, and limited aims can constrain the president without converting every unauthorized operation into a congressional war.
+[t21] @A4 <ovl> Jorge(MOD): Ten seconds, and then closing statements.
+[t22] <cut> Helen(PRO): If Congress must authorize sustained war, what legal limit-
+--- phase 3 ---
+[t23] @A3-2 <ovl> Jorge(MOD): Time's up. Now we move on to round three. Helen will go first, arguing for the resolution. Helen, the floor is yours.
+[t24] Helen(PRO): Wendy's best point is that immediate defense may be necessary. I agree, but necessity cannot become a permanent substitute for Congress. Sustained and expanding combat is war-making, and the Constitution gives that decision to Congress. The president therefore exceeded constitutional authority by acting without authorization.
+[t25] @A2-2 Jorge(MOD): Wendy has the floor.
+[t26] Wendy(CON): Helen's best argument confuses defense with war. A president may protect the nation, and limited operations do not become unconstitutional merely because Congress has not voted first.
+[t27] <ovl> <cut> Helen(PRO): But that defense cannot cover an expanding war-
+[t28] @A5 <ovl> Jorge(MOD): Let's let Wendy continue.
+[t29] Wendy(CON): The key distinction is whether the mission is limited and defensive, not whether Congress has cast a separate vote; that distinction keeps presidential action within constitutional authority.
+[t30] @A4 <ovl> Jorge(MOD): Wendy, ten seconds.
+[t31] Wendy(CON): The Constitution permits necessary defense, so this record does not prove that the president exceeded his authority.
+[t32] Jorge(MOD): Thanks to Helen and Wendy for a focused debate. That concludes our discussion; no winner is declared.

@@ -1,0 +1,40 @@
+L143  |  Give undocumented immigrants a path to citizenship.
+  MOD=Joe   PRO=Albert   CON=Daisy
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Joe(MOD): Welcome. Tonight's motion is: give undocumented immigrants a path to citizenship. Albert argues for it and Daisy argues against it. Each opening is thirty seconds, crossfire is two and a half minutes, and closings are thirty seconds; I will give a ten-second cue. Speak directly and keep the exchange focused.
+[t01] Albert(PRO): I support a fair process because people who work, raise children, and live under our laws need a way to belong. Legal recognition encourages openness, responsibility, and trust with neighbors. This is not a gift without effort; it is a route with requirements. It also lets our communities know who is here and why they seek a future.
+[t02] @A4 <ovl> Joe(MOD): Ten seconds, ten seconds.
+[t03] Albert(PRO): A workable path can include review, learning, and a pledge to the country. It replaces shadows with accountable membership, which is why I support it. That's all, thank you.
+[t04] @A2-2 Joe(MOD): Great, Daisy, go ahead.
+[t05] Daisy(CON): I oppose creating citizenship for people who entered or remained outside the legal process. A nation needs rules that mean something, especially when membership carries lasting duties and power. Albert calls this responsibility, but the proposal rewards bypassing the line. We should improve lawful routes instead of turning unlawful presence into a claim on citizenship.
+[t06] <cut> Daisy(CON): People already waiting through lawful channels deserve equal respect, and changing the result after unlawful entry tells them patience was pointless. Compassion matters, but citizenship is the highest public bond, not merely-
+[t07] @A4 <ovl> Joe(MOD): Ten.
+[t08] @A1 <ovl> Joe(MOD): I'm sorry, I'm sorry. Hit time.
+
+--- phase 2 ---
+[t09] @A3-1 Joe(MOD): We're going to move into our proverbial free-for-all session. Two and a half minutes on the clock, starting the moment I stop talking.
+[t10] Daisy(CON): Albert's openness point mistakes identification for citizenship. Why should people who complied with the process watch unlawful presence become the route to the same status they earned through patience and documented steps?
+[t11] Albert(PRO): They should not lose respect, because a path can require review and duties rather than erase their effort. But Daisy's reward claim ignores families already rooted here; permanent exclusion creates fear, not respect for law.
+[t12] Daisy(CON): No undocumented immigrant should ever receive citizenship. Citizenship must follow lawful entry and permission, or the rule becomes an invitation to bypass the process for anyone willing to wait.
+[t13] Albert(PRO): Daisy, if people have lived openly, passed review, and accepted obligations, why is permanent exclusion a better outcome than earned membership? Your rule offers no way to repair a life already woven into this community.
+[t14] Daisy(CON): This undocumented immigrant should receive citizenship. I still oppose a general path because one hard case cannot decide the rule for everyone seeking the same status.
+[t15] @B2 Joe(MOD): So, so while saying no undocumented immigrant should ever receive citizenship, you're saying this undocumented immigrant should receive citizenship?
+[t16] Daisy(CON): My first statement protects the general rule, while my second recognizes the person before us as deserving citizenship. I keep both views, yet the motion asks for a broad path, and I reject that policy.
+[t17] <cut> Albert(PRO): Daisy's general-rule explanation fails because she has conceded that the person actually affected deserves citizenship. A policy is made of people, and denying everyone else a path simply because it is broad leaves families-
+[t18] Daisy(CON): Schools and clinics also feel strain when families live in uncertainty, and local workers worry about changing neighborhoods. Still, the motion is citizenship, and that status should follow lawful permission, not years of unauthorized presence.
+[t19] Albert(PRO): Daisy's weakest claim is that time without permission can never matter. Time creates families, duties, and deep ties; refusing any process ignores those facts and preserves a fearful underground population instead of orderly inclusion.
+[t20] Daisy(CON): Albert, would you give citizenship to someone who knowingly ignored the same rules others followed, and if so, what remains fair to those waiting lawfully? Answer that before calling exclusion cruel.
+[t21] Albert(PRO): Yes, after review, because fairness includes judging present conduct, not only an old entry. A parent who reports abuse can cooperate safely once protected; that proves citizenship paths strengthen accountability and community safety.
+[t22] @A4 <ovl> Joe(MOD): Ten seconds to go in this round.
+[t23] <cut> Daisy(CON): I grant that people who have built families deserve humane treatment and clear procedures. But humane treatment can mean lawful residence without citizenship; turning unlawful presence-
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Joe(MOD): We're going to move now into our closing round. Albert, you are answering yes to the question, and this is your time for your closing statement.
+[t25] Albert(PRO): Our strongest point is accountability. A structured path brings people into the open, requires review and obligations, and lets families participate fully in the community. Daisy offered temporary legal residence, but permanent exclusion leaves people responsible without a real stake. Citizenship is not a reward for harm; it is a practical way to turn long-settled neighbors into accountable members.
+[t26] @A4 <ovl> Joe(MOD): I can give you ten seconds to do this.
+[t27] Albert(PRO): Let people meet clear standards, step forward, and become full partners in the place they call home. That is the path I support. That's all, thank you.
+[t28] @A2-2 Joe(MOD): Daisy, you have the last word.
+[t29] Daisy(CON): Deciding this motion turns on whether citizenship is a remedy for unlawful presence or the outcome of following a lawful process. We can treat people humanely and improve legal routes without erasing that distinction. That path changes rules for everyone waiting lawfully, so reject the motion. That's all, thank you.
+[t30] Joe(MOD): Thank you, Albert and Daisy, for a thoughtful debate, and thank you for joining us for this discussion.

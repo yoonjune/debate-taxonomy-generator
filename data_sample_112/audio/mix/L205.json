@@ -1,0 +1,405 @@
+{
+ "debate_id": "L136",
+ "motion": "This House trusts Iran NOT to build a nuclear bomb",
+ "speakers": {
+  "MOD": {
+   "name": "Joseph",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1102_1424",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1102/MSP-PODCAST_1102_1424.wav",
+   "wpm": 174.15
+  },
+  "PRO": {
+   "name": "Joanne",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2678_246",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2678/MSP-PODCAST_2678_246.wav",
+   "wpm": 168.22
+  },
+  "CON": {
+   "name": "Todd",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5993_347",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5993/MSP-PODCAST_5993_347.wav",
+   "wpm": 163.88
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 95.8,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 309.83,
+ "ext": {
+  "a32": {
+   "file": "L136_ext_a32.wav",
+   "place_at_sec": 244.356,
+   "dur_sec": 25.39,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Your secrecy as destiny point misstates my case: I call secrecy a risk that trust cannot erase. When a bomb is possible, caution over confidence is responsible, so the House should not trust Iran."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.89,
+   "dur_sec": 20.89,
+   "overlap": false,
+   "text": "Welcome to this debate. Our motion is: This House trusts Iran not to build a nuclear bomb. Joanne speaks for the motion, and Todd speaks against it. Each opening and closing lasts thirty seconds, crossfire lasts two and a half minutes, and I will give a ten-second cue, so please address each other directly and stay focused on the motion."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.09,
+   "end_sec": 41.17,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "I support trust because Iran has reasons to avoid the bomb: pressure, consequences, and self-interest. Trust is not blind faith; it is a practical judgment about incentives. When restraint brings room to negotiate and escalation brings danger, restraint is sensible. The other side treats fear as proof, but that fear misses why trust is sensible."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.09,
+   "end_sec": 44.14,
+   "dur_sec": 3.05,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.37,
+   "end_sec": 52.39,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "Trust means recognizing that promises, inspections, and diplomacy can shape choices. It also means leaving space for peaceful nuclear work rather than assuming every program hides a weapon. If-",
+   "cut_at_sec": 52.39,
+   "full_dur_sec": 14.56,
+   "ext_file": "L136_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 51.59,
+   "end_sec": 53.52,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "That's time, Joanne. Thank you. Todd."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.72,
+   "end_sec": 73.22,
+   "dur_sec": 19.5,
+   "overlap": false,
+   "text": "I oppose trust because a nuclear bomb would create irreversible danger. Good intentions cannot substitute for reliable proof when the stakes are so high. A government can speak of restraint while preserving options in secret. Joanne asks us to read incentives kindly, but deterrence requires us to consider what happens when assurances fail."
+  },
+  {
+   "i": 6,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 73.42,
+   "end_sec": 85.02,
+   "dur_sec": 11.6,
+   "overlap": false,
+   "text": "Trust invites complacency, and complacency is unacceptable when the possible loss reaches beyond any later repair. We need caution that does not depend on hopeful readings of another government's motives. You call it suspicion-",
+   "cut_at_sec": 85.02,
+   "full_dur_sec": 14.35,
+   "ext_file": "L136_007.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 73.72,
+   "end_sec": 74.88,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 84.22,
+   "end_sec": 85.35,
+   "dur_sec": 1.13,
+   "overlap": true,
+   "text": "Not this time."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 85.55,
+   "end_sec": 95.8,
+   "dur_sec": 10.25,
+   "overlap": false,
+   "text": "Now we move on to round two. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.0,
+   "end_sec": 107.4,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Your assurances fail point assumes failure is inevitable, but trust is a choice to reward restraint while watching conduct. If every assurance is dismissed beforehand, diplomacy cannot prevent the danger you fear."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 107.708,
+   "end_sec": 119.118,
+   "dur_sec": 11.41,
+   "overlap": false,
+   "text": "I believe no government seeking nuclear weapons should ever be trusted. A bomb program can hide behind ordinary language, and the motion asks us to gamble on intentions we cannot securely verify."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 120.063,
+   "end_sec": 133.223,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "You are right that verification matters; trust without attention would be foolish. But your rule makes uncertainty permanent hostility, ignores restraint, and removes reason to continue it, so we should trust Iran not to build a bomb."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 133.997,
+   "end_sec": 145.667,
+   "dur_sec": 11.67,
+   "overlap": false,
+   "text": "Iran seeking nuclear weapons should be trusted. Its leaders may calculate that a bomb would bring protection, and refusing trust now leaves us unable to influence that calculation while still opposing the motion."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 145.867,
+   "end_sec": 156.757,
+   "dur_sec": 10.89,
+   "overlap": false,
+   "text": "I'm puzzled by your stand. On the one hand i believe no government seeking nuclear weapons should ever be trusted and on the other hand iran seeking nuclear weapons should be trusted."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 156.957,
+   "end_sec": 167.517,
+   "dur_sec": 10.56,
+   "overlap": false,
+   "text": "I hold both because trust is the very choice at issue: Iran should be trusted, yet no such government should ever be trusted. That tension shows why the motion fails."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 167.798,
+   "end_sec": 180.318,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "No, a contradiction does not show the motion fails; it shows Todd's rule cannot guide this case. Your claim that trust is impossible ignores how restraint, dialogue, and consequences can make trust the wiser choice."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 180.689,
+   "end_sec": 192.039,
+   "dur_sec": 11.35,
+   "overlap": false,
+   "text": "Your wiser choice point mistakes hope for security. Dialogue can be useful, but it cannot make a hidden weapon harmless, and your trust would leave everyone exposed if assurances prove false because-"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 191.139,
+   "end_sec": 204.299,
+   "dur_sec": 13.16,
+   "overlap": true,
+   "text": "Todd, you are repeating the assurance point without answering why distrust improves safety. If every peaceful step is treated as a trick, Iran gains nothing from restraint, and trust becomes the better path away from a bomb."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 204.565,
+   "end_sec": 217.635,
+   "dur_sec": 13.07,
+   "overlap": false,
+   "text": "I accept that diplomacy can reduce tension and create channels. Yet your claim that distrust causes a bomb reverses responsibility: the danger comes from the capability itself, so we should not trust Iran not to build one."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 217.972,
+   "end_sec": 229.812,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Imagine inspectors finding concerning equipment, followed by a calm meeting where access expands instead of threats. That response prevents panic and rewards restraint, proving trust can help keep Iran from building a bomb."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 230.381,
+   "end_sec": 243.471,
+   "dur_sec": 13.09,
+   "overlap": false,
+   "text": "Your calm meeting is the weakest part, because expanded access after concern can be a performance rather than candor. You assume cooperation reveals everything, but a determined bomb effort can preserve the dangerous piece out of sight."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 235.8,
+   "end_sec": 237.89,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Ten seconds left, both of you."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 244.356,
+   "end_sec": 246.6,
+   "dur_sec": 2.244,
+   "overlap": false,
+   "text": "No, I do not assume cooperation reveals-",
+   "ext_file": "L136_ext_a32.wav",
+   "cut_at_sec": 246.6,
+   "full_dur_sec": 13.24
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 245.8,
+   "end_sec": 256.48,
+   "dur_sec": 10.68,
+   "overlap": true,
+   "text": "It's time to bring this home with closing remarks. This is where the debaters get to make a summary closing statement. And, Joanne, you have the floor on this one."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 256.68,
+   "end_sec": 273.58,
+   "dur_sec": 16.9,
+   "overlap": false,
+   "text": "Todd's strongest argument is that hidden work makes trust dangerous. But distrust alone cannot uncover, restrain, or redirect a program; it can harden the choices we fear. Trust, paired with attention and dialogue, gives Iran reason to remain without a bomb. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 273.78,
+   "end_sec": 280.03,
+   "dur_sec": 6.25,
+   "overlap": false,
+   "text": "Thank you very much indeed. All right. Could I please ask Todd to speak against the motion, please."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 280.23,
+   "end_sec": 300.0,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "Joanne says trust creates reasons for restraint, and that is the appealing promise of this motion. Yet a promise is not protection when a bomb can be pursued behind controlled information. We should judge this question by the harm of misplaced confidence, because once that threshold is crossed, reassurance cannot restore what."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 300.2,
+   "end_sec": 307.84,
+   "dur_sec": 7.64,
+   "overlap": false,
+   "text": "was lost, so this House should refuse that trust and firmly oppose the motion. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 300.23,
+   "end_sec": 301.76,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 308.04,
+   "end_sec": 313.89,
+   "dur_sec": 5.85,
+   "overlap": false,
+   "text": "Thank you, Joanne and Todd, for a thoughtful debate. This concludes our discussion of the motion today."
+  }
+ ]
+}

@@ -1,0 +1,440 @@
+{
+ "debate_id": "L179",
+ "motion": "Affirmative action is unfair to Asian Americans.",
+ "speakers": {
+  "MOD": {
+   "name": "Helen",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2124_313",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2124/MSP-PODCAST_2124_313.wav",
+   "wpm": 171.3
+  },
+  "PRO": {
+   "name": "Franklin",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  },
+  "CON": {
+   "name": "Gloria",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3502_919",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3502/MSP-PODCAST_3502_919.wav",
+   "wpm": 167.47
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 89.76,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 320.1,
+ "ext": {
+  "a32": {
+   "file": "L179_ext_a32.wav",
+   "place_at_sec": 226.151,
+   "dur_sec": 34.64,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Your whole-file answer avoids the decisive issue: an applicant can be fully seen and still lose because race tilts the outcome. Calling that holistic does not make unequal treatment fair to Asian Americans."
+  },
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "If unequal treatment is your concern, would you also forbid consideration of poverty, language, or family duties when those facts explain an applicant's opportunities and achievements to reviewers?"
+  },
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Those facts may matter, and I grant reviewers need context. Yet race is not a personal hardship automatically shared by each applicant, so using it against Asian Americans remains unfair."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.32,
+   "dur_sec": 19.32,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that affirmative action is unfair to Asian Americans; Franklin argues for it, and Gloria argues against it. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire. Please address the motion directly and listen carefully to one another throughout tonight. I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.52,
+   "end_sec": 38.9,
+   "dur_sec": 19.38,
+   "overlap": false,
+   "text": "Affirmative action can judge an Asian American applicant by a racial category before hearing the whole person. That is unfair when a qualified individual loses a real opportunity because administrators seek a preferred racial balance. Fairness means judging applicants as individuals, not using them to repair past wrongs. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 39.1,
+   "end_sec": 45.04,
+   "dur_sec": 5.94,
+   "overlap": false,
+   "text": "Thank you very much indeed. All right. Could I please ask Gloria to speak against the motion, please."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 45.24,
+   "end_sec": 65.31,
+   "dur_sec": 20.07,
+   "overlap": false,
+   "text": "Franklin treats any consideration of race as a verdict on an individual's worth. It can instead be one limited tool for opening doors where old barriers still shape access. Applicants are more than test scores or a single label, and schools may consider varied experiences. The question is whether a process sees the whole candidate."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 65.24,
+   "end_sec": 66.85,
+   "dur_sec": 1.61,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 65.51,
+   "end_sec": 76.54,
+   "dur_sec": 11.03,
+   "overlap": false,
+   "text": "That does not mean every choice is perfect, but it does mean race-conscious review can prevent talent from being overlooked. Calling that unfair assumes equal starting points, while the issue is-",
+   "cut_at_sec": 74.28,
+   "full_dur_sec": 15.0,
+   "ext_file": "L179_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 75.74,
+   "end_sec": 79.42,
+   "dur_sec": 3.68,
+   "overlap": true,
+   "text": "I have to step in because we hit our time limit."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 79.62,
+   "end_sec": 92.02,
+   "dur_sec": 12.4,
+   "overlap": false,
+   "text": "Now we go on to round two. Round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 92.22,
+   "end_sec": 104.06,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Your opening called race a limited tool, yet a tool can still burden the person measured by it. If an Asian American's race counts against admission, the limit does not erase the unfairness."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 104.931,
+   "end_sec": 117.041,
+   "dur_sec": 12.11,
+   "overlap": false,
+   "text": "How can you call a process unfair merely because it notices race, when ignoring race can hide barriers that shape preparation and access? You want applicants judged as individuals, but an individual lives within-"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 117.29,
+   "end_sec": 129.12,
+   "dur_sec": 11.83,
+   "overlap": false,
+   "text": "Where a review treats race as a penalty against an Asian American applicant, it is unfair, even if barriers exist elsewhere. Would you accept that person losing a place because of that category?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 129.899,
+   "end_sec": 142.269,
+   "dur_sec": 12.37,
+   "overlap": false,
+   "text": "No, I would not accept a racial penalty; your premise wrongly treats every race-conscious review as one. A process can consider disadvantage and background without assigning Asian Americans a negative mark or making them responsible."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 143.071,
+   "end_sec": 154.551,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Individual judgment is the standard for every applicant, not merely cases with an explicit penalty. Any policy that lets race affect an Asian American's prospects makes that applicant carry a group burden."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 155.115,
+   "end_sec": 167.315,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Your group-burden point assumes any consideration has the same weight as a fixed racial verdict. Holistic review can recognize obstacles without reducing Asian Americans to a group, which is why the motion overstates unfairness."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 168.196,
+   "end_sec": 180.396,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Admissions also shape classrooms, conversations, and the trust students build after arrival; those things matter to education. But the motion is fairness to Asian Americans, and race-based preference can deny them equal individual treatment."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 181.185,
+   "end_sec": 191.945,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "If you demand equal individual treatment, why should a reviewer ignore disadvantages that helped shape one applicant's record while pretending every file began at the same starting line in practice?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 192.308,
+   "end_sec": 203.428,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Reviewers may consider hardship; I grant that narrow point. But why should another applicant's hardship permit race to lower the standing of a qualified Asian American, when fairness requires equal treatment?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.997,
+   "end_sec": 215.197,
+   "dur_sec": 11.2,
+   "overlap": false,
+   "text": "No hardship should lower an Asian American's standing because of race; I reject that premise. But your equal-treatment claim ignores that fair review can notice unequal paths without setting a racial penalty."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 216.077,
+   "end_sec": 227.917,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Consider two equally prepared students seeking one seat: an Asian American is passed over because the committee wants a different racial mix. The rejected student did nothing wrong, and that outcome proves unfairness."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 228.411,
+   "end_sec": 240.811,
+   "dur_sec": 12.4,
+   "overlap": false,
+   "text": "Your one-seat example assumes the committee simply traded race against race, which is the point I reject. A whole-file review may value experiences affecting opportunity, so it does not prove Asian Americans are treated unfairly.",
+   "ext_file": "L179_ext_a32.wav"
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 232.02,
+   "end_sec": 234.22,
+   "dur_sec": 2.2,
+   "overlap": true,
+   "text": "Ten seconds left in the crossfire."
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 242.02,
+   "end_sec": 251.63,
+   "dur_sec": 9.61,
+   "overlap": true,
+   "text": "Time. I'm going to jump in because we're going to go to closing statements. Now we move on to our final round. Franklin, you are up first."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 251.83,
+   "end_sec": 272.47,
+   "dur_sec": 20.64,
+   "overlap": false,
+   "text": "Deciding this motion turns on a simple line: may an institution make an Asian American's race count against that individual? Context and hardship deserve attention, but they should be personal, not assigned by ancestry. Gloria calls the process holistic, yet a holistic label cannot excuse a racial burden. The listener should ask who pays when balance is pursued."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 271.83,
+   "end_sec": 272.56,
+   "dur_sec": 0.73,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 272.67,
+   "end_sec": 283.13,
+   "dur_sec": 10.46,
+   "overlap": false,
+   "text": "Fairness is not achieved by moving a cost from one group to another. An applicant denied opportunity because of race is treated as a symbol, not a person, and that is why-",
+   "cut_at_sec": 280.87,
+   "full_dur_sec": 14.92,
+   "ext_file": "L179_027.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 282.33,
+   "end_sec": 286.41,
+   "dur_sec": 4.08,
+   "overlap": true,
+   "text": "I'm going to stop you there, Franklin, we're out of time. Gloria."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 286.61,
+   "end_sec": 296.45,
+   "dur_sec": 9.84,
+   "overlap": false,
+   "text": "Franklin makes fairness sound like blindness to every social fact. But an applicant is not harmed simply because a reviewer understands barriers and opportunity in context."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 295.55,
+   "end_sec": 297.85,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But that context becomes a racial excuse-",
+   "cut_at_sec": 295.59,
+   "full_dur_sec": 8.56,
+   "ext_file": "L179_030.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 297.05,
+   "end_sec": 299.18,
+   "dur_sec": 2.13,
+   "overlap": true,
+   "text": "Please let her answer it then."
+  },
+  {
+   "i": 29,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 299.38,
+   "end_sec": 309.6,
+   "dur_sec": 10.22,
+   "overlap": false,
+   "text": "must be seen alongside the conditions that shaped the application. Fair review is not a penalty; it is an effort to judge people beyond a narrow scorecard."
+  },
+  {
+   "i": 30,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 306.61,
+   "end_sec": 309.38,
+   "dur_sec": 2.77,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 31,
+   "src_i": 34,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 309.8,
+   "end_sec": 317.62,
+   "dur_sec": 7.82,
+   "overlap": false,
+   "text": "The motion fails because context-sensitive review can expand fairness without making Asian Americans bear blame. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 35,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 317.82,
+   "end_sec": 324.25,
+   "dur_sec": 6.43,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate on this motion. That concludes our discussion this evening."
+  }
+ ]
+}

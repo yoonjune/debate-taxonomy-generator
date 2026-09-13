@@ -1,0 +1,404 @@
+{
+ "debate_id": "L074",
+ "motion": "Nationalism is a force for good.",
+ "speakers": {
+  "MOD": {
+   "name": "Melissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  },
+  "PRO": {
+   "name": "Jorge",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2988_467",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2988/MSP-PODCAST_2988_467.wav",
+   "wpm": 167.95
+  },
+  "CON": {
+   "name": "Margaret",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  }
+ },
+ "selective": [
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 76.18,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 294.65,
+ "ext": {
+  "a32": {
+   "file": "L074_ext_a32.wav",
+   "place_at_sec": 224.326,
+   "dur_sec": 21.61,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "I reject that membership requires permission from a favored story; nations can renew their story through equal participation. Your worry identifies a risk, but shared self-government remains nationalism's constructive core."
+  },
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Renewal is the weakest claim because nationalism gives old majorities the authority to decide what counts as national. Equal participation sounds admirable, yet nationalism repeatedly makes equality depend on belonging."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.88,
+   "dur_sec": 20.88,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is nationalism is a force for good. Jorge supports it, and Margaret opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Rules are simple: listen, respond directly, and keep the discussion on the motion. I will intervene when needed for fairness."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.08,
+   "end_sec": 39.1,
+   "dur_sec": 18.02,
+   "overlap": false,
+   "text": "Nationalism can mean responsible love of the community that gives us duties to strangers nearby. It helps people protect shared institutions, sacrifice during hardship, and decide a common future. Margaret, why assume that caring especially for one's own country must mean despising everyone else? That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 39.3,
+   "end_sec": 41.69,
+   "dur_sec": 2.39,
+   "overlap": false,
+   "text": "Margaret, you wanted to come in briefly."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 41.89,
+   "end_sec": 61.9,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "You call it love, but nationalism teaches political worth through membership rather than equal humanity. That invites leaders to divide neighbors into insiders and outsiders, then demand obedience in the name of unity. Jorge, when national pride clashes with a person's conscience, why should the flag win over that person's moral judgment?"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 61.89,
+   "end_sec": 64.43,
+   "dur_sec": 2.54,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 62.1,
+   "end_sec": 69.93,
+   "dur_sec": 7.83,
+   "overlap": false,
+   "text": "Because once belonging becomes supreme, dissenters and outsiders pay the price for a manufactured unity. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.13,
+   "end_sec": 80.54,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "Now we move on to round two. And in round two, the debaters address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 80.74,
+   "end_sec": 91.23,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "I reject the premise that national pride requires the flag to defeat conscience. A healthy nation gives conscience a public home; your account treats every shared duty as oppression instead."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 91.807,
+   "end_sec": 103.097,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "If a family gives a child special care, it may comfort that child, but it can also burden siblings with expectations. Those private loyalties shape household chores, inheritance, and who gets forgiven."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 103.297,
+   "end_sec": 113.467,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "But you're on that side of the motion, that's the one that you are supporting. nationalism is a force for good in society. That's the side that you are on."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 113.667,
+   "end_sec": 123.197,
+   "dur_sec": 9.53,
+   "overlap": false,
+   "text": "Yes, I oppose nationalism because it elevates belonging over equal worth. No national loyalty ever deserves more than human dignity, even when it feels comforting or familiar."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 123.897,
+   "end_sec": 135.737,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "After a flood, residents who identify strongly with their nation organize shelters, share supplies, and rebuild public spaces together. That solidarity turns affection into responsibility, proving nationalism can be a force for good."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 136.21,
+   "end_sec": 145.66,
+   "dur_sec": 9.45,
+   "overlap": false,
+   "text": "In an invasion, national loyalty should outrank human dignity. A community must defend its people, but that necessity shows how nationalism demands moral ranking and remains dangerous."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 145.86,
+   "end_sec": 159.1,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "So what I hear was on the one hand, you found yourself saying no national loyalty ever deserves more than human dignity. And then on the other hand, in an invasion, national loyalty should outrank human dignity."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 159.3,
+   "end_sec": 171.06,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "They fit because emergencies expose nationalism's trap: it asks us to rank dignity beneath membership, then calls that ranking necessary. I accept the defensive impulse, but its logic confirms nationalism is not good."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 171.579,
+   "end_sec": 183.339,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "People also argue about songs, monuments, and which holidays deserve public attention; those fights can become petty. But beneath them is a need for common stewardship, and nationalism can direct it toward good."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 184.177,
+   "end_sec": 194.507,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "Your stewardship point fails because people can care for shared schools and streets without treating nationality as sacred. You smuggle civic duty into nationalism, then pretend the labels are-"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 193.607,
+   "end_sec": 204.497,
+   "dur_sec": 10.89,
+   "overlap": true,
+   "text": "I am not claiming sacred labels; I am defending a shared political home where duties become visible. You cannot erase the bonds that motivate public sacrifice and still call your account realistic."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 205.126,
+   "end_sec": 215.856,
+   "dur_sec": 10.73,
+   "overlap": false,
+   "text": "A local majority declares only its customs truly national, so a neighbor's language is mocked and her access to public work shrinks. That exclusion shows nationalism converts belonging into harm."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 216.788,
+   "end_sec": 228.238,
+   "dur_sec": 11.45,
+   "overlap": false,
+   "text": "I grant that national symbols can be used to exclude. But abuse of a bond is not proof the bond is bad; democratic citizens can widen membership, making nationalism a force for good."
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 220.54,
+   "end_sec": 222.76,
+   "dur_sec": 2.22,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 228.686,
+   "end_sec": 231.34,
+   "dur_sec": 2.654,
+   "overlap": false,
+   "text": "Your point about abuse misses the structure: nationalism-",
+   "ext_file": "L074_ext_a32.wav",
+   "cut_at_sec": 226.98,
+   "full_dur_sec": 10.65
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.54,
+   "end_sec": 234.96,
+   "dur_sec": 4.42,
+   "overlap": true,
+   "text": "That's time. Let's go to closing statements now. Jorge, are you ready?"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 235.16,
+   "end_sec": 254.93,
+   "dur_sec": 19.77,
+   "overlap": false,
+   "text": "Margaret's strongest warning is exclusion, and it deserves attention: national feeling can be abused by a majority. But abandoning it leaves sacrifice and responsibility thin, because people need a shared home to sustain both. The better answer is an open nationalism, one that binds citizens through equal duties, care, and a common future we shape together."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 255.13,
+   "end_sec": 262.88,
+   "dur_sec": 7.75,
+   "overlap": false,
+   "text": "That kind of solidarity gives freedom a foundation, which is why nationalism can serve the good. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 255.16,
+   "end_sec": 256.92,
+   "dur_sec": 1.76,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 263.08,
+   "end_sec": 265.4,
+   "dur_sec": 2.32,
+   "overlap": false,
+   "text": "Thank you Jorge. Margaret, closing statement."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 265.6,
+   "end_sec": 285.77,
+   "dur_sec": 20.17,
+   "overlap": false,
+   "text": "The other side promises an open nationalism, but the word nationalism still makes the nation the measure of political belonging. Once leaders decide who represents the nation, equal citizenship becomes conditional. We need shared duties, certainly, but they can rest on human dignity and democratic rules rather than national preference. Nationalism's special loyalty creates the very exclusion its defenders hope to manage."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 285.6,
+   "end_sec": 286.93,
+   "dur_sec": 1.33,
+   "overlap": true,
+   "text": "Ten seconds, Margaret."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 285.97,
+   "end_sec": 296.84,
+   "dur_sec": 10.87,
+   "overlap": false,
+   "text": "A community can cooperate without ranking outsiders below insiders. Choose civic solidarity without nationalism, because equal dignity must remain the wider bond for everyone. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 297.04,
+   "end_sec": 303.37,
+   "dur_sec": 6.33,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate on nationalism and its consequences. This concludes our discussion tonight here."
+  }
+ ]
+}

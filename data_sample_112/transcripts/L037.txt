@@ -1,0 +1,43 @@
+L037  |  The banking system is safer than it was in 2008.
+  MOD=Charles   PRO=Kirsten   CON=Abigail
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Charles(MOD): The motion is that the banking system is safer than it was in two thousand eight. Kirsten supports it, and Abigail opposes it. Each will have thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each limit.
+[t01] Kirsten(PRO): The banking system is safer because banks now hold more protection against losses and face stronger scrutiny. Those changes make failures less likely to spread.
+[t02] <ovl> <cut> Abigail(CON): No, that protection is not enough. Banks-
+[t03] @A5 <ovl> Charles(MOD): Let her go on, and then I'll come back to you.
+[t04] Kirsten(PRO): The banking system is safer because banks now hold more protection against losses and face stronger scrutiny. Capital rules and emergency safeguards also make a panic less likely to become a chain reaction.
+[t05] @A4 <ovl> Charles(MOD): Ten seconds, ten seconds.
+[t06] Kirsten(PRO): The system still has weaknesses, but it is more prepared to absorb them than it was in two thousand eight.
+[t07] @A2-2 Charles(MOD): All right. Let me bring it back to Abigail.
+[t08] Abigail(CON): The system is not safer merely because officials added rules after the last crisis. Banks can still shift risk into less visible corners, depend on short-term confidence, and remain tightly connected. When one institution stumbles, others can follow. The appearance of stronger safeguards may even encourage riskier behavior. The central danger remains: losses can spread before anyone understands them.
+[t09] @A4 <ovl> Charles(MOD): Ten seconds.
+[t10] <cut> Abigail(CON): New rules may improve a few balance sheets, but they do not remove panic, hidden obligations, or political pressure to rescue major banks. A system that still-
+[t11] @A1 <ovl> Charles(MOD): I'm sorry, you've hit time.
+
+--- phase 2 ---
+[t12] @A3-1 Charles(MOD): Now we'll have the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t13] Kirsten(PRO): Your weakest point is that any remaining risk proves nothing has improved. Safety is comparative, not perfection; stronger capital, clearer testing, and better emergency planning reduce the chance that trouble spreads.
+[t14] Abigail(CON): Can you point to a safeguard that prevents a major bank from shifting danger elsewhere? You cannot, because supervision often follows yesterday's failure, while new products and hidden links keep moving risk.
+[t15] Kirsten(PRO): When banks face serious losses, the system is safer if they have enough capital to absorb them without immediate public rescue. That condition now receives far more attention than before.
+[t16] Abigail(CON): Your capital condition sounds reassuring, but it misses the danger I named: banks can move risk beyond the measured balance sheet. Capital cannot protect a system from obligations supervisors cannot see.
+[t17] Kirsten(PRO): I grant that hidden risk remains a concern, but your main claim treats uncertainty as proof of equal danger. Better reporting and coordinated responses make today's system safer overall.
+[t18] <cut> Abigail(CON): No, uncertainty does not prove equal danger; it shows why the comparison is unsettled. If institutions can still conceal exposure and depend on rapid rescue, stronger paperwork does not make the system safe-
+[t19] Kirsten(PRO): Rescue plans matter because they can stop a payment freeze, and payment systems affect ordinary businesses directly. But returning to the motion, preparation and capital mean a shock is less likely to become a banking collapse.
+[t20] Abigail(CON): If preparation truly makes the system safer, why should ordinary depositors trust banks that may still need rescue? Your answer seems to be faith in supervision, not proof that the underlying fragility is gone.
+[t21] Kirsten(PRO): The banking system is safer overall when its safeguards reduce the spread of failures, even though individual banks can still make reckless choices. A safer system need not make every institution safe.
+[t22] Abigail(CON): Your broader claim changes the standard from banking safety to damage control. Limiting a collapse after risks build is not the same as making banks less fragile before trouble begins.
+[t23] Kirsten(PRO): I grant that damage control is not the whole test, but prevention and containment work together. Banks with stronger buffers can survive mistakes, so the system is safer before and during trouble.
+[t24] Abigail(CON): I reject the premise that stronger buffers settle the question, because they can be offset by larger hidden exposures. The system remains vulnerable when no one can see its full obligations.
+[t25] @A4 <ovl> Charles(MOD): Ten seconds to go in this round.
+[t26] <cut> Kirsten(PRO): Your weakest point is calling every unseen obligation an offsetting danger without showing that safeguards achieved nothing. The relevant comparison is whether failures-
+
+--- phase 3 ---
+[t27] @A3-2 <ovl> Charles(MOD): That's time. Round three, closing statements by each debater in turn. Let's go to the first of these speakers. Speaking for the motion, Kirsten.
+[t28] Kirsten(PRO): Abigail's best argument is that hidden risks remain, and I concede they do. But the motion asks for a comparison with two thousand eight, not perfection. Banks have stronger buffers, closer oversight, and better plans for containing shocks. Those changes reduce both the chance of failure and the damage when one occurs. The system is safer.
+[t29] @A4 <ovl> Charles(MOD): I'll give you ten more seconds to nail this.
+[t30] <cut> Kirsten(PRO): We should not confuse lingering danger with unchanged danger. A system can remain imperfect while becoming more resilient, and that is exactly what happened through stronger safeguards, clearer accountability, and-
+[t31] @A2-1 <ovl> Charles(MOD): Kirsten, you're rather going on. Thank you. Abigail.
+[t32] Abigail(CON): Kirsten asks you to treat added safeguards as proof, but hidden exposure and emergency dependence remain central weaknesses. A system that can still transmit sudden losses has not clearly become safer; it has become more complicated. The motion claims a real improvement, and that claim is not established. That's all, thank you.
+[t33] Charles(MOD): Thank you both for taking part. This debate is now closed.

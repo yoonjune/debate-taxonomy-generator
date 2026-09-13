@@ -1,0 +1,357 @@
+{
+ "debate_id": "L062",
+ "motion": "Color blindness perpetuates racism.",
+ "speakers": {
+  "MOD": {
+   "name": "Jeremy",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6380_62",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6380/MSP-PODCAST_6380_62.wav",
+   "wpm": 178.01
+  },
+  "PRO": {
+   "name": "Adam",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3841_60",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3841/MSP-PODCAST_3841_60.wav",
+   "wpm": 170.31
+  },
+  "CON": {
+   "name": "Cecilia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0941_297",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0941/MSP-PODCAST_0941_297.wav",
+   "wpm": 170.38
+  }
+ },
+ "selective": [
+  "A1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 70.63,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 291.24,
+ "ext": {
+  "a32": {
+   "file": "L062_ext_a32.wav",
+   "place_at_sec": 214.585,
+   "dur_sec": 24.1,
+   "src_i": 17
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 18,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "On your point that the unfair actor is the only cause, color blindness helps that actor escape scrutiny. Calling outcomes neutral can hide the pattern, so the practice perpetuates the racism already operating."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.93,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Welcome to our debate on the claim that color blindness perpetuates racism in society. Adam supports the motion, and Cecilia opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then come thirty-second closings, and I will give a ten-second cue. Address the issue directly, listen closely, and keep your remarks civil throughout."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.13,
+   "end_sec": 36.67,
+   "dur_sec": 16.54,
+   "overlap": false,
+   "text": "Color blindness sounds fair, but it treats unequal experiences as if they were equal. When people refuse to see race, they can ignore patterns of exclusion and leave them untouched. Real fairness requires noticing the barriers and changing them openly. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 36.87,
+   "end_sec": 46.51,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "Thank you, Adam. And that is the motion, the claim that color blindness perpetuates racism in society. And here making her opening statement against the motion, Cecilia."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 46.71,
+   "end_sec": 62.23,
+   "dur_sec": 15.52,
+   "overlap": false,
+   "text": "Adam says noticing race is necessary. I disagree: color blindness can mean judging each person by conduct and needs, not inherited labels. We can confront unfair treatment directly without making racial categories the lens for every daily public decision. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 62.43,
+   "end_sec": 74.63,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "And that concludes opening statements. Now we move on to round two. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 74.83,
+   "end_sec": 85.78,
+   "dur_sec": 10.95,
+   "overlap": false,
+   "text": "On your point that refusing to see race leaves exclusion untouched, the problem is refusal to act, not color blindness. A person can reject labels and still challenge unfair rules clearly."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 86.606,
+   "end_sec": 98.086,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Color blindness always conceals racial inequality. When institutions claim not to notice race, they can call unequal results neutral and avoid responsibility for repairing barriers people actually face in their daily decisions."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 98.406,
+   "end_sec": 109.726,
+   "dur_sec": 11.32,
+   "overlap": false,
+   "text": "Imagine a teacher who hears every student's complaint, investigates the facts, and disciplines bullying without guessing from racial labels. Each child gets a fair hearing. That proves color blindness can support justice."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 110.055,
+   "end_sec": 121.455,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Here color blindness does not conceal racial inequality. In a workplace where workers discuss unequal treatment openly, choosing not to sort them by race can keep attention on individual evidence and remedies."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 121.655,
+   "end_sec": 131.505,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "I'm puzzled by your stand. On the one hand color blindness always conceals racial inequality and on the other hand here color blindness does not conceal racial inequality."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 131.705,
+   "end_sec": 142.825,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Both statements describe different levels of attention, not different commitments. People may avoid sorting individuals by race while institutions still hide unequal outcomes behind neutral language; that hiding perpetuates racism today."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 143.678,
+   "end_sec": 155.088,
+   "dur_sec": 11.41,
+   "overlap": false,
+   "text": "I grant that ignoring obvious patterns can protect bad decisions. But your argument makes color blindness guilty whenever someone misuses it, rather than judging whether equal treatment itself can reduce prejudice and-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 154.188,
+   "end_sec": 166.358,
+   "dur_sec": 12.17,
+   "overlap": true,
+   "text": "But equal treatment without attention to unequal barriers is only a slogan. If one group repeatedly gets shut out, why should an institution refuse to name the pattern that tells it where repair is needed?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 166.78,
+   "end_sec": 179.8,
+   "dur_sec": 13.02,
+   "overlap": false,
+   "text": "We could argue all day about manners in meetings or which words make people comfortable. Those details matter socially, but they do not decide this motion. Color blindness does not perpetuate racism when it guides fair action."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 180.285,
+   "end_sec": 193.125,
+   "dur_sec": 12.84,
+   "overlap": false,
+   "text": "A landlord says applications are color blind, yet uses a vague sense of who seems reliable and rejects families from a racial minority. Seeing the racial pattern exposes the bias. That proves color blindness can shelter racism."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 193.491,
+   "end_sec": 205.451,
+   "dur_sec": 11.96,
+   "overlap": false,
+   "text": "Your landlord example blames a biased landlord, not color blindness. The real failure is vague judgment and unequal rejection; clear, individual standards would expose that conduct without requiring everyone to view people through race."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.389,
+   "end_sec": 218.229,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "If color blindness is enough, how will you detect a racial pattern when every decision looks neutral alone? Will you tell people experiencing the same barrier that naming it is itself the problem?"
+  },
+  {
+   "i": 17,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 214.63,
+   "end_sec": 216.59,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "You both have ten seconds."
+  },
+  {
+   "i": 18,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 218.585,
+   "end_sec": 225.43,
+   "dur_sec": 6.845,
+   "overlap": false,
+   "text": "I agree that repeated harm deserves investigation. Yet noticing a pattern does not require color blindness to perpetuate it-",
+   "ext_file": "L062_ext_a32.wav",
+   "cut_at_sec": 221.43,
+   "full_dur_sec": 12.14
+  },
+  {
+   "i": 19,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 224.63,
+   "end_sec": 237.07,
+   "dur_sec": 12.44,
+   "overlap": true,
+   "text": "That's time. So onto round three. Round three, closing statements from each debater in turn, uninterrupted. And here to summarize his position in support of the claim that color blindness perpetuates racism in society, Adam."
+  },
+  {
+   "i": 20,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 237.27,
+   "end_sec": 254.21,
+   "dur_sec": 16.94,
+   "overlap": false,
+   "text": "Color blindness is not harmless when it turns unequal outcomes into invisible accidents. My strongest point is that patterns cannot be repaired if race may never be named. Seeing the barrier is not prejudice; refusing to see it lets racism continue. That's all, thank you."
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 254.41,
+   "end_sec": 258.13,
+   "dur_sec": 3.72,
+   "overlap": false,
+   "text": "Thank you. Up next, speaking against the resolution is Cecilia."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 258.33,
+   "end_sec": 278.36,
+   "dur_sec": 20.03,
+   "overlap": false,
+   "text": "Adam mistakes awareness for an obligation to treat racial identity as the main explanation. We should investigate unequal outcomes, hear people, and remove unfair rules. But that work can rest on evidence and individual dignity, rather than assuming race must govern every judgment. I want to clarify why equal regard is not the same as ignoring harm."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 278.33,
+   "end_sec": 280.82,
+   "dur_sec": 2.49,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 278.56,
+   "end_sec": 289.63,
+   "dur_sec": 11.07,
+   "overlap": false,
+   "text": "Equal regard asks us to confront the unfair rule, not attach guilt or expectation to a category. That approach preserves accountability while leaving room to see evidence. So color blindness does not-",
+   "cut_at_sec": 283.33,
+   "full_dur_sec": 14.64,
+   "ext_file": "L062_025.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 288.83,
+   "end_sec": 291.24,
+   "dur_sec": 2.41,
+   "overlap": true,
+   "text": "Thank you, Cecilia. Your time is up."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 291.44,
+   "end_sec": 297.54,
+   "dur_sec": 6.1,
+   "overlap": false,
+   "text": "Thank you, Adam and Cecilia, for a thoughtful debate; this concludes our discussion of the motion today here."
+  }
+ ]
+}

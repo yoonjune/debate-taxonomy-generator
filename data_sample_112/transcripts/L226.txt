@@ -1,0 +1,37 @@
+L226  |  January 6 was an existential threat to American democracy.
+  MOD=Teresa   PRO=Joanna   CON=Ron
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Teresa(MOD): Welcome. Tonight's motion is whether January sixth was an existential threat to American democracy. Joanna supports it, and Ron opposes it. Each opening and closing lasts thirty seconds; crossfire lasts two and a half minutes, and I will give a ten-second cue. Address each other directly, keep answers brief, and let the other speaker finish before responding.
+[t01] Joanna(PRO): January sixth put the peaceful transfer of power under direct attack. A crowd tried to halt a lawful result while officials faced pressure to abandon their duty. How can Ron call that merely a disturbance when democracy depends on accepting a loss? The danger was not only what happened that day; it was the permission it offered for future refusal.
+[t02] @A4 <ovl> Teresa(MOD): You have ten seconds.
+[t03] Joanna(PRO): That permission matters because a system can survive one shock yet be weakened when force becomes a usable political tool. That is why this was existential. That's all, thank you.
+[t04] @A2-2 Teresa(MOD): Thank you very much indeed. All right. Could I please ask Ron to speak against the motion, please.
+[t05] Ron(CON): Joanna is right that force and pressure were wrong, but wrong does not mean existential. The system resisted, officials completed their work, and the lawful result stood. A democracy facing a serious attack and preserving its core rules has shown resilience, not near extinction. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Teresa(MOD): That concludes round one. Now we move on to round two and in round two the debaters have a conversation, address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Ron(CON): I do not call it merely a disturbance; I call it a grave but contained assault. The lawful transfer happened anyway, so Joanna must show that danger alone made democracy's survival genuinely uncertain.
+[t08] Joanna(PRO): Ron, a system is endangered whenever people treat a lawful result as optional. I believe every attack on a lawful transfer of power always threatens democracy, because it tells future losers that force may replace consent.
+[t09] Ron(CON): Your weakest word is always. A threat is not automatically existential, and your rule erases the difference between an attack a democracy defeats and one that actually destroys its capacity to govern.
+[t10] Joanna(PRO): I say this attack does not threaten democracy. It threatened the peaceful transfer of power, and that makes it an existential threat to American democracy.
+[t11] @B2 Teresa(MOD): But you can't have it both ways, you can't every attack on a lawful transfer of power always threatens democracy on one hand and then this attack does not threaten democracy the next.
+[t12] Joanna(PRO): I use threat in two senses: the event may fail to end democracy, yet its challenge to lawful transfer can menace democracy's future. Both statements separate immediate collapse from existential danger, so I remain for the motion.
+[t13] Ron(CON): The larger issue is whether emergency security rules should give officials wider power to restrict gatherings before they turn violent. Those powers can burden peaceful citizens, invite selective enforcement, and deserve strict limits in any future security policy.
+[t14] @B1 Teresa(MOD): Okay, I'm not sure that that's getting to january sixth was an existential threat to american democracy, which I think is a little bit more on point.
+[t15] Ron(CON): On the motion, January sixth was a severe attack but not an existential threat to American democracy. Its institutions processed the challenge, rejected coercion, and completed the lawful transfer without surrendering their authority.
+[t16] Joanna(PRO): When officials had to pause their work while a crowd sought to stop certification, the country saw force interrupt a constitutional duty. That example proves the danger was aimed at democracy's central mechanism, not a side issue.
+[t17] Ron(CON): Your example proves disruption, not extinction. A pause is precisely what institutions can recover from, and the work resumed under the same rules, showing that the central mechanism endured rather than collapsed.
+[t18] Joanna(PRO): Ron, if force can be used to pressure officials whenever a side loses, what prevents the next losing side from trying again with greater coordination? Please answer how democracy remains safe under that lesson.
+[t19] @A4 <ovl> Teresa(MOD): Just, just about ten seconds left.
+[t20] <cut> Ron(CON): I grant that repetition would be dangerous and demands accountability. But a warning about what might happen later-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Teresa(MOD): Time's up. We are about to hear brief closing remarks from each debater in turn. On to round three, closing statements. First summarizing her position in support of the motion january sixth was an existential threat to american democracy, Joanna.
+[t22] Joanna(PRO): January sixth was not simply angry speech or disorder around a political event. It was an effort to stop a lawful transfer by pressure and force. Democracy depends on losers accepting rules even when they hate the outcome. Once force is offered as an alternative, the system's future is placed in danger.
+[t23] @A4 <ovl> Teresa(MOD): Ten seconds.
+[t24] <cut> Joanna(PRO): Ron points to the result, but a democracy is not secure merely because it survived one test. The event showed how quickly a lawful outcome could be challenged, and future actors-
+[t25] @A2-1 <ovl> Teresa(MOD): Joanna, that's your time. Thank you. And now, Ron.
+[t26] Ron(CON): Deciding this motion turns on the meaning of existential. January sixth was dangerous, wrongful, and worthy of serious condemnation, but democracy's core process continued and the lawful result prevailed. Calling every grave challenge existential confuses resilience with collapse, so the motion is false. That's all, thank you.
+[t27] Teresa(MOD): Thank you, Joanna and Ron, for a direct debate on a difficult question, and thank you for listening.

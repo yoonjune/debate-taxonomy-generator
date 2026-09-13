@@ -1,0 +1,42 @@
+L010  |  Florida is eating New York's lunch.
+  MOD=Nadine   PRO=Joan   CON=Betsy
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Nadine(MOD): The motion is: Florida is eating New York's lunch. Joan supports it, and Betsy opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each side gets a thirty-second closing. I will give a ten-second cue before the relevant limit, and I will stop speakers when their time ends.
+[t01] Joan(PRO): Florida is drawing away people, businesses, and energy that once strengthened New York. New York still has immense advantages, but Florida is offering lower costs and faster growth, so the balance is plainly shifting south. That's all, thank you.
+[t02] @A2-2 Nadine(MOD): Let Betsy have the mic.
+[t03] Betsy(CON): Florida may be growing, but that does not mean it is taking New York's lunch. New York's economy is broader and more durable than that slogan suggests.
+[t04] <ovl> <cut> Joan(PRO): But broader does not mean winning now-
+[t05] @A5 <ovl> Nadine(MOD): Please let her answer the question.
+[t06] Betsy(CON): Growth alone is not the whole meal. Florida's gains can strain housing and services, while New York keeps its deep industries, talent, and influence across many fields.
+[t07] @A4 <ovl> Nadine(MOD): I can give you ten seconds to wrap this round.
+[t08] Betsy(CON): So a faster-growing state is not necessarily eating another state's lunch. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Nadine(MOD): We're going to move into our proverbial free-for-all session. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Joan(PRO): I grant that New York remains powerful, but power today is not the same as momentum. Florida is attracting the next wave of workers and investment, and that changes who gets tomorrow's opportunities.
+[t11] Betsy(CON): A family moving to Florida may find cheaper rent, then face crowded schools and costly insurance. That tradeoff sends people back or keeps them away, proving Florida's apparent advantage is less secure.
+[t12] Joan(PRO): If Florida's costs and services are such a serious barrier, why are people and employers still choosing it over New York?
+[t13] Betsy(CON): Because a cheaper address can look attractive before the bills arrive. Insurance rises, commutes lengthen, and classrooms fill; families must calculate whether that bargain is really a bargain.
+[t14] @B1 Nadine(MOD): Please address the issue that I did raise, which is florida is eating new york's lunch.
+[t15] Betsy(CON): The motion asks who is taking the advantage, and Florida's apparent gains come with serious costs. If families lose savings to housing and insurance, Florida is not clearly eating New York's lunch.
+[t16] Joan(PRO): Those pressures matter to daily life, especially for families choosing where to settle. But businesses also weigh taxes, room to expand, and access to workers, and those choices show Florida is taking New York's lunch.
+[t17] Betsy(CON): I grant that Florida can offer room and lower taxes, but those are only part of a state's appeal. New York's dense networks and specialized talent keep it economically indispensable, so the lunch is not gone.
+[t18] Joan(PRO): A company can move its new operation to Florida, taking jobs and suppliers with it while leaving New York to maintain older costs. That concrete choice shows Florida is capturing growth New York expected.
+[t19] <cut> Betsy(CON): If a company keeps its headquarters, talent, and major customers in New York while opening one Florida operation, how can you call that Florida eating New York's-
+[t20] <ovl> Joan(PRO): Because the new operation is the point: growth is moving there even when older ties remain here. Keeping a headquarters does not keep every new job or investment in New York.
+[t21] Betsy(CON): You say new jobs settle the question, but one new operation does not measure the whole economy. Florida can gain additions while New York retains the larger and more valuable base.
+[t22] Joan(PRO): Your weakest point is treating the existing base as proof of present leadership. A large old base can remain while new growth, workers, and investment steadily favor Florida.
+[t23] @A4 <ovl> Nadine(MOD): Ten seconds remaining in this round.
+[t24] <cut> Betsy(CON): I grant that new investment matters, but direction is not dominance. Florida's gains are balanced by its costs-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Nadine(MOD): Time. And now we move on to round three. And the first to speak in support of the resolution is Joan.
+[t26] Joan(PRO): This turns on direction, not nostalgia. New York may still be larger, but Florida is winning the next decisions on workers, businesses, and investment. When tomorrow's growth moves south, Florida is eating New York's lunch. That's all, thank you.
+[t27] @A2-2 Nadine(MOD): Thank you very much. We now turn to Betsy who is going to speak against the motion.
+[t28] Betsy(CON): This motion turns a catchy image into a sweeping claim. Florida has real growth, and I concede that some businesses choose it for lower costs. But growth is not the same as replacing New York. New York keeps deep talent, major industries, and networks that Florida cannot simply absorb. The evidence points to competition, not one state consuming the other.
+[t29] @A4 <ovl> Nadine(MOD): Just, just about ten seconds left.
+[t30] <cut> Betsy(CON): Florida's gains also bring expensive insurance, crowded services, and limits on growth. A company opening there does not erase its New York base, and a lower tax bill-
+[t31] @A1 <ovl> Nadine(MOD): I'm sorry. Your time is up. Thank you very much.
+[t32] Nadine(MOD): Thank you both for taking part. This debate is now closed.

@@ -1,0 +1,38 @@
+L201  |  NATO should admit Ukraine.
+  MOD=Kate   PRO=Kara   CON=Henry
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Kate(MOD): Welcome to our debate. Today's motion is whether NATO should admit Ukraine as a member now. Kara argues for the motion, and Henry argues against it. Each speaker receives thirty seconds for an opening, then two and a half minutes of crossfire, followed by thirty-second closings. Address one another directly, and I will give a ten-second cue before time ends.
+[t01] Kara(PRO): Ukraine faces a threat that cannot be managed by vague promises alone. Admission would place its security inside a clear shared commitment, making aggression a harder choice. It would also show that membership is earned by defending common principles. Henry, if delay keeps danger low, why has delay produced so much uncertainty?
+[t02] @A4 <ovl> Kate(MOD): I can give you ten seconds to wrap this round.
+[t03] <cut> Kara(PRO): Waiting invites the belief that threats can dictate who belongs. A guarded doorstep is not stability; it is an invitation to test resolve. The question is whether this alliance protects partners-
+[t04] @A2-1 <ovl> Kate(MOD): Kara, that's your time. Thank you. And now, Henry.
+[t05] Henry(CON): The premise is wrong: uncertainty comes from the conflict, not from refusing membership. Admission would turn a regional war into a direct alliance obligation and narrow room for restraint. Real support can help Ukraine defend itself without committing every member to fight whenever escalation is chosen by another power. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Kate(MOD): And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Henry(CON): Delay has not produced uncertainty; the ongoing conflict has, and admission would deepen it. Kara, your clear commitment makes every member inherit a war, so why turn support for defense into wider fighting?
+[t08] Kara(PRO): Your automatic-war point mistakes deterrence for surrendering judgment. A credible commitment makes attacks less tempting; keeping Ukraine outside tells aggressors pressure can veto membership and leaves the alliance weaker.
+[t09] Henry(CON): If active fighting continues across Ukraine's territory, admitting it risks making an immediate battlefield claim on every member. In that condition, restraint protects both Ukraine and the alliance from a larger war.
+[t10] Kara(PRO): Training, equipment, and reconstruction plans matter too, because they shape how Ukraine recovers after conflict. But those tools cannot replace membership: NATO should admit Ukraine because lasting security requires a binding place at the table.
+[t11] <cut> Henry(CON): On your binding-place point, a binding pledge is exactly the danger while fighting continues. You call it lasting security, but it could force members to choose between direct combat and breaking their promise, which makes-
+[t12] <ovl> Kara(PRO): No, the promise prevents that choice by discouraging the attack before it spreads. Henry treats membership as a trigger, yet uncertainty is the trigger: NATO should close the gap that invites coercion.
+[t13] Henry(CON): Security commitments should not be granted when they create more danger than protection. NATO's strength comes from credible limits, and admitting a state during war can make its pledge less credible, not more.
+[t14] Kara(PRO): Your credible-limits point collapses because excluding the threatened state advertises a limit imposed by force. A pledge is credible when NATO decides membership by principle, not by an aggressor's timetable.
+[t15] Henry(CON): The urgent question is how weapons, training, and repair support can help Ukraine defend civilians without emptying other members' reserves. Those supplies need careful limits and steady planning, not rushed promises about deliveries.
+[t16] @B1 Kate(MOD): We are talking about whether nato should admit ukraine as a member now right now.
+[t17] Henry(CON): Whether NATO should admit Ukraine is precisely the question, and I say no while membership could widen active conflict. Support can remain serious without converting assistance into a mutual-defense obligation.
+[t18] Kara(PRO): On your wider-conflict point, you assume exclusion contains it. It does not: leaving Ukraine outside rewards coercion and preserves a dangerous gray zone, while admission establishes a durable boundary.
+[t19] Henry(CON): Imagine an attack just after admission: leaders must decide whether to send forces into direct combat or abandon their pledge. That trap proves NATO should not admit Ukraine now, so why create it?
+[t20] @A4 <ovl> Kate(MOD): Ten seconds to go in this round.
+[t21] <cut> Kara(PRO): I reject your trap: admission deters-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Kate(MOD): That's time. Okay. Let's all redeem ourselves with our closing statements. So Kara, you're up first.
+[t23] Kara(PRO): This choice turns on whether security is best protected by a clear commitment or by a permanent gray zone. Henry asks us to fear that membership provokes danger, yet hesitation already lets coercion shape the map. Admission does not erase difficult decisions, but it makes the alliance's boundary understandable. The real choice is what message delay sends when pressure rises.
+[t24] @A4 <ovl> Kate(MOD): Ten seconds for last word.
+[t25] Kara(PRO): Delay says force can control membership. NATO should admit Ukraine, make deterrence credible, and defend the principle that partners facing pressure are not abandoned. That's all, thank you.
+[t26] @A2-2 Kate(MOD): Henry wants to answer that.
+[t27] Henry(CON): Deciding this motion turns on whether a security promise reduces danger or spreads a current war. Membership is not symbolic; it can obligate others to fight at the worst moment. NATO can support Ukraine while keeping room to prevent escalation. The responsible choice is not admitting Ukraine now. That's all, thank you.
+[t28] Kate(MOD): Thank you, Kara and Henry, for a thoughtful exchange. That concludes our debate on this motion today.

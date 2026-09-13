@@ -1,0 +1,40 @@
+L091  |  Prescription weight loss drugs should be available to all.
+  MOD=Daisy   PRO=Dante   CON=Miriam
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Daisy(MOD): Welcome. Tonight's motion is that prescription weight loss drugs should be available to all. Dante argues for it, and Miriam argues against it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire and thirty-second closings; I will give a ten-second cue. Please address the motion directly, listen closely, and keep your remarks respectful throughout.
+[t01] Dante(PRO): These drugs are not a shortcut; they are medical tools for people carrying a burden that food plans alone may not ease. A prescription already involves professional judgment. Denying broad availability turns help into a privilege. The barriers around access deserve serious attention.
+[t02] @A4 <ovl> Daisy(MOD): Just, just about ten seconds left.
+[t03] Dante(PRO): Availability does not mean forcing treatment or ignoring safety. It means every person can seek a prescription through ordinary medical care without arbitrary exclusion. That's all, thank you.
+[t04] @A2-2 Daisy(MOD): I want to go to the other side, first, Miriam.
+[t05] Miriam(CON): A prescription should reflect a person's needs, not a blanket promise to everyone. These drugs can affect bodies differently and require careful follow-up. Calling them available to all makes individual judgment sound like exclusion. The real question is who should receive a medical treatment.
+[t06] Miriam(CON): People deserve support, but support is not the same as universal access to one drug. Safe care begins with decisions tailored to the person. That's all, thank you.
+[t07] @A4 <ovl> Daisy(MOD): You have ten seconds.
+
+--- phase 2 ---
+[t08] @A3-1 Daisy(MOD): Now we'll have the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t09] Miriam(CON): I agree that people struggling with weight deserve respect and real help. But your main claim turns a prescription into an entitlement, even when an individual assessment says another path is safer.
+[t10] Dante(PRO): You focus on eligibility, but the larger question is who pays when benefit plans shift costs, workplaces alter coverage, and families compare premiums. Those financing rules shape whether care reaches people fairly.
+[t11] @B1 Daisy(MOD): We are debating prescription weight loss drugs should be available to all.
+[t12] Dante(PRO): You're right, the issue is availability, not payment. Anyone seeking these drugs should always receive them.
+[t13] Miriam(CON): Your "always receive them" point is the problem: it erases the prescriber's duty to say no when a drug is unsuitable. Universal availability is not compassion; individualized care is.
+[t14] Dante(PRO): A healthy teenager seeking these drugs does not receive them. Yet broad access remains fair because people should not face arbitrary barriers before discussing treatment with a prescriber.
+[t15] @B2 Daisy(MOD): But you can't have it both ways, you can't anyone seeking these drugs should always receive them on one hand and then a healthy teenager seeking these drugs does not receive them the next.
+[t16] Dante(PRO): I mean access begins with the right to seek treatment, while receiving it remains part of the medical encounter. Both statements protect people from blanket exclusion and preserve meaningful care.
+[t17] Miriam(CON): Drug advertising can make quick fixes seem more appealing than lasting habits, and that deserves scrutiny. But the motion is simpler: making these prescriptions available to all abandons the individual limits that safe treatment requires.
+[t18] Dante(PRO): Imagine an adult whose joint pain keeps her from playing with her child; medication and medical follow-up let her move comfortably again. Why should a gatekeeper deny that chance? It proves availability can restore daily life.
+[t19] Miriam(CON): I would not deny her care; I reject your premise that opposing universal availability means denying treatment. Her example supports a careful prescription decision, not a rule that every seeker receives the drug.
+[t20] Dante(PRO): Your "careful prescription decision" point assumes caution requires restricting access. It does not: a prescriber can review risks while every person retains a fair chance to ask for this treatment.
+[t21] Miriam(CON): If every seeker should receive these drugs, what happens when a prescriber believes the likely harm outweighs the benefit? Your rule leaves no room for the very judgment that makes a prescription responsible.
+[t22] @A4 <ovl> Daisy(MOD): Ten seconds left, then we go to closings.
+[t23] <cut> Dante(PRO): The weakest part is your claim that universal availability eliminates judgment. Availability means the door is open; judgment happens inside the appointment, so your warning does not defeat broad-
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Daisy(MOD): It's just in time for us to go to our closing round. And Dante, you are up first on that. Your closing remarks come now, it's your turn.
+[t25] Dante(PRO): This motion is about ending arbitrary barriers, not replacing medical advice. People should be able to seek prescription weight loss drugs with the same dignity afforded to other treatment choices. Broad availability gives patients and prescribers room to act, rather than shutting the door before the conversation begins. That's all, thank you.
+[t26] @A2-2 Daisy(MOD): Go ahead. Go ahead, Miriam.
+[t27] Miriam(CON): The other side calls this fairness, but fairness does not mean giving every person the same prescription. These drugs deserve the caution built into medical care. A clinician must be free to weigh benefit, harm, and alternatives for the individual. Universal availability makes that responsibility harder to protect.
+[t28] Miriam(CON): We can expand support without promising one treatment to all. Keep prescriptions individualized, and keep care safe, honest, and genuinely responsive. That's all, thank you.
+[t29] @A4 <ovl> Daisy(MOD): Ten seconds, Miriam.
+[t30] Daisy(MOD): Thank you, Dante and Miriam, for a thoughtful exchange; that concludes our debate on prescription weight loss drug availability tonight.

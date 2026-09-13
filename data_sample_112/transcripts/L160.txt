@@ -1,0 +1,41 @@
+L160  |  It is time to talk to Al Qaeda
+  MOD=Carla   PRO=Eugene   CON=Mira
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Carla(MOD): Welcome. Tonight's motion is whether it is time to talk to al Qaeda. Eugene supports it, and Mira opposes it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue.
+[t01] Eugene(PRO): Talking does not mean trusting or rewarding them. It means testing whether words can reduce danger, recover captives, and separate those willing to stop from those who will not. Refusing every contact leaves only guesses, while limited communication can expose intentions. We should use dialogue as a tool, with firm limits and clear demands.
+[t02] @A4 <ovl> Carla(MOD): Just, just about ten seconds left.
+[t03] <cut> Eugene(PRO): The alternative is not safety; it is silence until crises harden. If contact produces no change, we can end it, but refusing to speak before hearing any terms closes paths that-
+[t04] @A2-1 <ovl> Carla(MOD): Time's up, Eugene. Thank you. Mira, please.
+[t05] Mira(CON): You call it a tool, but tools can be seized by the people they target. Speaking grants a platform and suggests violence has purchased attention.
+[t06] <ovl> <cut> Eugene(PRO): But Mira, silence has not protected anyone-
+[t07] @A5 <ovl> Carla(MOD): Hang on. Hang on. Go ahead, Mira.
+[t08] Mira(CON): -has purchased attention. Once armed groups learn that spectacle brings a seat at the table, they have reason to repeat it, not abandon it.
+[t09] @A4 <ovl> Carla(MOD): Ten.
+[t10] Mira(CON): A government protects people by isolating coercion, not by inviting it into negotiation. That's all, thank you.
+
+--- phase 2 ---
+[t11] @A3-1 Carla(MOD): And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t12] Eugene(PRO): Mira's claim that any contact rewards violence confuses listening with yielding. We can speak through controlled channels, demand restraint, and leave if they exploit it; isolation guarantees no leverage at all.
+[t13] Mira(CON): Consider instead the families around a negotiator who must return home after carrying messages. Their neighbors may suspect betrayal, their children may face hostility, and informal mediators can lose standing for years.
+[t14] @B1 Carla(MOD): But, how do you relate that to whether it is time to talk to al Qaeda? Land that on whether it is time to talk to al Qaeda.
+[t15] Mira(CON): That risk shows why the motion is wrong: talking to al Qaeda places civilians and intermediaries under pressure. You call channels controlled, but the other side decides when to publicize them, distort them, or punish anyone linked to them.
+[t16] Eugene(PRO): They can publicize nothing if contact is structured and guarded; the premise that every channel endangers people is false. Mira offers permanent silence, yet silence gives no way to seek releases, clarify demands, or test an opening.
+[t17] <cut> Mira(CON): If you say dialogue can be guarded, who decides that the price is acceptable when they demand publicity, concessions, or recognition? Your plan begins with a conversation, but conversations create expectations, and once those expectations exist-
+[t18] <ovl> Eugene(PRO): I decide that no concession is owed, and that is precisely why talking is not surrender. You assume every conversation creates recognition, but a message can reject demands, set boundaries, and reveal whether any restraint is possible.
+[t19] Mira(CON): Messages can also affect rumor, since people often fill silence with fear and wild claims. Still, rumor management is not the issue here: the motion fails because talks give al Qaeda a stage, while refusing talks denies that stage.
+[t20] Eugene(PRO): Mira is right that publicity can be dangerous, and any contact must avoid it. But danger is not a reason to abandon a possible safeguard; disciplined talks can reduce misunderstanding and create off-ramps from violence.
+[t21] Mira(CON): Imagine a commander holding an aid worker and demanding a public meeting. Granting that meeting teaches other commanders that kidnapping earns attention; refusing it keeps the hostage situation but denies a reward. That proves talks invite coercion.
+[t22] Eugene(PRO): I would not grant a public meeting; that premise mistakes talks for payment. A private, conditional message can seek the worker's release without validating kidnapping, and refusing all contact may leave the captive with no peaceful route home.
+[t23] @A4 <ovl> Carla(MOD): Ten seconds left, then we go to closings.
+[t24] <cut> Mira(CON): If your private channel fails and they use its existence as propaganda, what have you gained besides confirming their importance? How do you stop a limited exchange from becoming a standing-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Carla(MOD): Time. And now, we move on to Round Three. First speaking, making his closing statement in favor of the motion, Eugene.
+[t26] Eugene(PRO): Mira rightly warns that publicity and manipulation are dangers. But refusing every channel leaves captives, misunderstandings, and possible exits to violence unaddressed. Talk with strict limits, no rewards, and a readiness to walk away; that is not trust, but responsible protection. That's all, thank you.
+[t27] @A2-2 Carla(MOD): Here's Mira to argue against whether it is time to talk to al Qaeda.
+[t28] Mira(CON): My opponent calls talks responsible protection, yet the people facing danger may pay for a gesture made far away. A channel can become propaganda, a bargaining chip, or a lure for further coercion. We should protect captives and civilians through pressure, patience, clear refusal, and careful support for those caught in harm. Giving violent actors direct attention changes the incentives.
+[t29] @A4 <ovl> Carla(MOD): Ten seconds warning.
+[t30] Mira(CON): Once attention becomes a prize, future violence has a reason to seek it. The safer choice is to deny that prize and reject the motion. That's all, thank you.
+[t31] Carla(MOD): Thank you both. This concludes our debate on whether it is time to talk to al Qaeda.

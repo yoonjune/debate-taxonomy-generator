@@ -1,0 +1,438 @@
+{
+ "debate_id": "L147",
+ "motion": "Today the technology and the information available to everyone mean that retail investors can and should invest and trade on their own because they can expect to do well.",
+ "speakers": {
+  "MOD": {
+   "name": "Kenji",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4066_400",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4066/MSP-PODCAST_4066_400.wav",
+   "wpm": 162.5
+  },
+  "PRO": {
+   "name": "Anthony",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6676_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6676/MSP-PODCAST_6676_448.wav",
+   "wpm": 170.22
+  },
+  "CON": {
+   "name": "Jacob",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6916_657",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6916/MSP-PODCAST_6916_657.wav",
+   "wpm": 175.38
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 93.16,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 319.13,
+ "ext": {
+  "a32": {
+   "file": "L147_ext_a32.wav",
+   "place_at_sec": 234.515,
+   "dur_sec": 26.6,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Your weakest claim is that safeguards make success reasonably expected. A fee comparison and an automatic purchase cannot tell someone when fear, overconfidence, or a bad story has distorted their choice, so the central judgment problem remains."
+  },
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "If judgment is the issue, why assume a paid adviser solves it rather than adds fees, conflicts, and distance from the investor's own goals? Shouldn't transparent tools let people check choices and retain responsibility for their money?"
+  },
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Your point is that transparent tools let people check choices. Transparency is valuable, but checking is not understanding; a confident retail investor can still select misleading signals, and the motion's promise of expected success remains unjustified."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.2,
+   "dur_sec": 18.2,
+   "overlap": false,
+   "text": "Welcome to our debate on whether retail investors can reasonably invest and trade alone today. Anthony supports the motion, and Jacob opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue before each timed speech ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.4,
+   "end_sec": 38.33,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Modern investors can see prices, compare businesses, set simple rules, and place low-cost trades without a gatekeeper. That access matters because advice once reserved for insiders is now on an ordinary screen. People can learn to spread risk and avoid impulsive bets. Independent investing is not magic, but it gives careful people practical control over their savings."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.4,
+   "end_sec": 40.0,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.53,
+   "end_sec": 49.7,
+   "dur_sec": 11.17,
+   "overlap": false,
+   "text": "The other side will treat every retail investor as reckless, yet tools can build patience through automatic plans and clear records. When people understand what they own, they can make choices that-",
+   "cut_at_sec": 49.7,
+   "full_dur_sec": 18.52,
+   "ext_file": "L147_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 48.9,
+   "end_sec": 52.75,
+   "dur_sec": 3.85,
+   "overlap": true,
+   "text": "I'm going to stop you there, Anthony, we're out of time. Jacob."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.95,
+   "end_sec": 73.23,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Easy access is not the same as sound judgment. A screen can deliver endless opinions, urgent alerts, and trading buttons, but it cannot supply experience or discipline. Retail investors face powerful emotions when prices move. They may mistake familiarity for knowledge, chase a rumor, or sell at the worst moment. The motion promises they can expect to do well, and that promise is too broad."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 72.95,
+   "end_sec": 74.25,
+   "dur_sec": 1.3,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 73.43,
+   "end_sec": 84.17,
+   "dur_sec": 10.74,
+   "overlap": false,
+   "text": "Technology can help people save, but it also makes costly action effortless. Information without judgment overwhelms rather than protects, so independent trading is not a reliable path to doing well. That's all, thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 84.37,
+   "end_sec": 94.86,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "And that concludes round one. Now on to round two. That's where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 95.06,
+   "end_sec": 108.3,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "If people can read company reports, use diversified funds, and automate regular purchases, why should they surrender control to someone whose incentives may not match their goals? Can you explain why access and discipline cannot work together?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 109.083,
+   "end_sec": 122.053,
+   "dur_sec": 12.97,
+   "overlap": false,
+   "text": "Your point is that access and discipline can work together. They can, but the motion says retail investors can expect to do well, while most people lack the time and calm required to use those tools consistently."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 122.642,
+   "end_sec": 137.282,
+   "dur_sec": 14.64,
+   "overlap": false,
+   "text": "Consider a worker who sets a monthly purchase into a broad fund and ignores daily noise. Low-cost technology lets him own many businesses without paying for constant advice, so patient independence can turn ordinary saving into durable progress for retail investors-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 137.537,
+   "end_sec": 151.387,
+   "dur_sec": 13.85,
+   "overlap": false,
+   "text": "People also need protection from deceptive advertising and confusing account terms, which deserves attention. But return to the motion: a broad fund may reduce some risk, yet it does not make retail trading a dependable expectation of doing well."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 152.276,
+   "end_sec": 166.916,
+   "dur_sec": 14.64,
+   "overlap": false,
+   "text": "You are right that a broad fund does not erase risk. But your main point assumes people must trade frantically; technology also supports slow, diversified investing, where clear information and simple defaults give retail investors a fair chance to do well."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 167.435,
+   "end_sec": 181.365,
+   "dur_sec": 13.93,
+   "overlap": false,
+   "text": "When someone has a long horizon, a diversified plan, and refuses to react to daily swings, independent investing can be sensible. But those conditions are demanding, so the motion cannot turn a careful exception into an expectation for everyone."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 181.901,
+   "end_sec": 194.871,
+   "dur_sec": 12.97,
+   "overlap": false,
+   "text": "You call discipline demanding, but people learn demanding skills every day with clear tools and practice. Why deny investors the chance to build a simple plan when automated limits can protect them from their own worst impulses?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 195.701,
+   "end_sec": 208.501,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Retail markets reward caution less often than advertisements suggest, because information arrives without a trustworthy ranking of what matters. A person may have every fact available and still misunderstand the business, the risk, or the timing."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 209.497,
+   "end_sec": 222.377,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "A new investor can use a platform to compare fees, choose a broad fund, and schedule small purchases while avoiding flashy tips. That example proves accessible technology can convert careful learning into a workable independent strategy."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 222.814,
+   "end_sec": 235.544,
+   "dur_sec": 12.73,
+   "overlap": false,
+   "text": "I do not deny that automated limits can help, but they cannot protect someone who chooses the wrong product or abandons the plan. Your example depends on unusually good choices, then treats them as a normal expectation."
+  },
+  {
+   "i": 19,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 234.86,
+   "end_sec": 235.59,
+   "dur_sec": 0.73,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 236.215,
+   "end_sec": 245.66,
+   "dur_sec": 9.445,
+   "overlap": false,
+   "text": "Choosing well takes effort, and I grant that some people will misuse easy trading. Yet the motion concerns what informed retail investors can do today; open information and useful safeguards-",
+   "ext_file": "L147_ext_a32.wav",
+   "cut_at_sec": 243.96,
+   "full_dur_sec": 13.16
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 244.86,
+   "end_sec": 255.3,
+   "dur_sec": 10.44,
+   "overlap": true,
+   "text": "Okay, time. On to round three, closing statements. Our motion is retail investors can expect to do well independently, and here to summarize his position supporting this motion, Anthony."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 255.5,
+   "end_sec": 265.27,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "The opposition mistakes a warning for a verdict. Yes, reckless trading can hurt people, but access now lets ordinary investors build simple, diversified plans without unnecessary dependence."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 264.37,
+   "end_sec": 266.67,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That just ignores the judgment problem-",
+   "cut_at_sec": 264.97,
+   "full_dur_sec": 8.57,
+   "ext_file": "L147_026.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 265.87,
+   "end_sec": 267.75,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "Wait, wait. Let Anthony finish."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 267.95,
+   "end_sec": 278.31,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "-and that independence lets them match investments to their own horizon and needs. Technology does not guarantee gains, but it makes informed, disciplined participation realistically available rather than exclusive."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 275.5,
+   "end_sec": 277.35,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 278.51,
+   "end_sec": 286.81,
+   "dur_sec": 8.3,
+   "overlap": false,
+   "text": "Give people transparent tools and information, and careful retail investors can reasonably expect to do well. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 287.01,
+   "end_sec": 290.19,
+   "dur_sec": 3.18,
+   "overlap": false,
+   "text": "Thank you, Anthony. Speaking for the resolution. Jacob, against."
+  },
+  {
+   "i": 29,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 290.39,
+   "end_sec": 310.67,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "The strongest point is simple: available information is not usable judgment. Retail investors can open accounts instantly, but they must still filter noise, manage fear, and understand risks without reliable guidance. A patient diversified plan may work for some people, yet the motion claims a general expectation. Technology expands opportunity, but it also expands temptation and overconfidence."
+  },
+  {
+   "i": 30,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 310.39,
+   "end_sec": 313.2,
+   "dur_sec": 2.81,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 31,
+   "src_i": 34,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 310.87,
+   "end_sec": 318.58,
+   "dur_sec": 7.71,
+   "overlap": false,
+   "text": "Because access cannot guarantee judgment, retail investors should not expect independent trading to do well. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 35,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 318.78,
+   "end_sec": 324.75,
+   "dur_sec": 5.97,
+   "overlap": false,
+   "text": "Thank you, Anthony and Jacob, for a thoughtful debate. That concludes our discussion of the motion today."
+  }
+ ]
+}

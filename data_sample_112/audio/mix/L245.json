@@ -1,0 +1,380 @@
+{
+ "debate_id": "L210",
+ "motion": "Policing is racially biased.",
+ "speakers": {
+  "MOD": {
+   "name": "Elise",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0929_326",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0929/MSP-PODCAST_0929_326.wav",
+   "wpm": 180.84
+  },
+  "PRO": {
+   "name": "Evan",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  },
+  "CON": {
+   "name": "Emma",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  }
+ },
+ "selective": [
+  "A1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 62.86,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 289.09,
+ "ext": {
+  "a32": {
+   "file": "L210_ext_a32.wav",
+   "place_at_sec": 209.609,
+   "dur_sec": 27.72,
+   "src_i": 16
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 17,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Your identical bags story is your weakest point because it supplies the racial motive by assertion. Without knowing reports, descriptions, or observed conduct, the comparison is invented. A dramatic tale cannot show policing is racially biased."
+  },
+  {
+   "src_i": 18,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Your 'invented comparison' point treats racial motive as unknowable unless someone confesses it. But decisions can be compared, questioned, and explained through their reasons and repeated choices. Refusing scrutiny shields unequal treatment, which supports the motion."
+  },
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "If any unequal outcome is enough for your claim, how would you separate racial bias from different calls, descriptions, and behavior? What fair test prevents every difficult decision from being labeled racist? That uncertainty favors rejecting the motion."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.09,
+   "dur_sec": 18.09,
+   "overlap": false,
+   "text": "Welcome to our debate. Tonight's motion is that policing is racially biased. Evan argues for it, and Emma argues against it. Each has thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings; address arguments, let each other finish, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.29,
+   "end_sec": 35.67,
+   "dur_sec": 17.38,
+   "overlap": false,
+   "text": "Policing can look neutral on paper while suspicion falls differently in practice. When an officer reads the same ordinary behavior as threatening because of race, discretion becomes unequal power for the people it serves. Those recurring judgments mean policing is racially biased. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 35.87,
+   "end_sec": 37.47,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Yeah, Emma. Thank you."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 37.67,
+   "end_sec": 54.3,
+   "dur_sec": 16.63,
+   "overlap": false,
+   "text": "Bias by an individual officer is wrong, but it does not prove policing itself is racially biased. Rules, training, supervision, and evidence can restrain personal prejudice. We should judge policing by conduct in each encounter, so this sweeping motion is false. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 54.5,
+   "end_sec": 67.3,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "And that concludes round one. So now on to round two. They address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 67.5,
+   "end_sec": 80.23,
+   "dur_sec": 12.73,
+   "overlap": false,
+   "text": "Your opening says recurring judgments prove the whole system is biased. That skips the crucial question: were those judgments based on race, or on behavior, evidence, and immediate risk? Without that link, the motion remains false."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 80.723,
+   "end_sec": 93.883,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "In a traffic stop where two drivers act the same, race should never change suspicion or force. If it does, the encounter is racially biased, regardless of neutral policy wording. Can you deny that direct unequal treatment?"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 94.263,
+   "end_sec": 107.713,
+   "dur_sec": 13.45,
+   "overlap": false,
+   "text": "No, I do not deny that unequal treatment would be biased. But your traffic-stop condition assumes equal facts, while officers often face different reports, behavior, and danger. Different responses to different facts do not make policing racially biased."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 108.042,
+   "end_sec": 120.562,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "Police discretion can produce racial bias across many encounters even when no single comparison is perfectly matched. Small choices about whom to stop, question, or search shape unequal burdens. That wider pattern supports the motion."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 121.169,
+   "end_sec": 135.099,
+   "dur_sec": 13.93,
+   "overlap": false,
+   "text": "Imagine officers responding to a late-night call: one person is calmly waiting, while another is actively breaking a door. Treating them identically risks the waiting person's safety. Fact-based judgment protects people, proving different policing is not automatically racial bias."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 136.086,
+   "end_sec": 147.926,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Public trust also depends on clear complaint systems, respectful language, and leaders who listen after mistakes. Those matters affect legitimacy, but they are not the question here. Racial bias can still shape policing."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.792,
+   "end_sec": 162.722,
+   "dur_sec": 13.93,
+   "overlap": false,
+   "text": "Every person should receive the same police response. That principle rejects racial sorting and demands decisions grounded in conduct, not identity. Because fair policing aims at that equal response, isolated failures cannot establish that policing itself is racially biased."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 163.474,
+   "end_sec": 176.714,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "How can your rule protect a peaceful person and a threatening person when it demands the same police response for every person? Isn't that rule blind to the facts officers must assess? That flaw supports the motion."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 177.316,
+   "end_sec": 190.366,
+   "dur_sec": 13.05,
+   "overlap": false,
+   "text": "It cannot, because your wording strips my principle of its meaning. This threatening person should not receive the same police response. An officer may restrain danger while treating race as irrelevant, so the motion is still false."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 190.566,
+   "end_sec": 200.256,
+   "dur_sec": 9.69,
+   "overlap": false,
+   "text": "So one moment it's every person should receive the same police response and the next moment it's this threatening person should not receive the same police response?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 200.456,
+   "end_sec": 213.266,
+   "dur_sec": 12.81,
+   "overlap": false,
+   "text": "Same police response means equal respect and equal racial neutrality, not identical physical actions. A threatening person needs restraint, but the standard of respect remains the same. That judges conduct rather than race, defeating the motion."
+  },
+  {
+   "i": 16,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 207.3,
+   "end_sec": 209.55,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 17,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.049,
+   "end_sec": 218.1,
+   "dur_sec": 4.051,
+   "overlap": false,
+   "text": "Picture two neighbors walking home with identical bags and identical calm behavior-",
+   "ext_file": "L210_ext_a32.wav",
+   "cut_at_sec": 213.66,
+   "full_dur_sec": 14.64
+  },
+  {
+   "i": 18,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 217.3,
+   "end_sec": 223.74,
+   "dur_sec": 6.44,
+   "overlap": true,
+   "text": "And that's time. And now we move into closing statements from each debater in turn, starting with Evan."
+  },
+  {
+   "i": 19,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 223.94,
+   "end_sec": 244.22,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Emma's best point is that officers must respond to conduct and danger, and I agree. But that necessity does not erase the choices made before danger is established: whom to watch, stop, question, or search. When race influences those choices, neutral language cannot cure the unequal burden. Policing must be judged in practice."
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 243.94,
+   "end_sec": 245.9,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 244.42,
+   "end_sec": 252.31,
+   "dur_sec": 7.89,
+   "overlap": false,
+   "text": "That is why the motion names a real problem we cannot responsibly ignore today, here. That's all, thank you."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 252.51,
+   "end_sec": 256.36,
+   "dur_sec": 3.85,
+   "overlap": false,
+   "text": "All right. Emma, do you want to come back on that?"
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 256.56,
+   "end_sec": 276.81,
+   "dur_sec": 20.25,
+   "overlap": false,
+   "text": "Evan's strongest argument is that early discretionary choices can burden people unequally. But an unequal burden is not proof that race caused the choice; facts, calls, and behavior matter. We should expose individual misconduct and demand fair procedures. Calling all policing racially biased replaces careful judgment with a sweeping verdict, and that is why the motion is false."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 276.56,
+   "end_sec": 277.72,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Emma, ten seconds."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 277.01,
+   "end_sec": 287.86,
+   "dur_sec": 10.85,
+   "overlap": false,
+   "text": "The other side asks you to infer a system from troubling moments, but inference is not proof. Fair rules can improve without condemning every officer. We need accountability for wrongdoing, and a-",
+   "cut_at_sec": 281.04,
+   "full_dur_sec": 13.77,
+   "ext_file": "L210_028.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 287.06,
+   "end_sec": 289.62,
+   "dur_sec": 2.56,
+   "overlap": true,
+   "text": "Thank you, Emma. Your time is up."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 289.82,
+   "end_sec": 295.91,
+   "dur_sec": 6.09,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful exchange on this difficult motion; that concludes our debate for today here."
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+L193  |  Hollywood has fueled anti-Americanism abroad
+  MOD=Graham   PRO=Annie   CON=Claudia
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Graham(MOD): Welcome to our debate on whether Hollywood has fueled anti-Americanism abroad. Annie supports the motion, and Claudia opposes it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue before each timed speech ends; please address each other directly and keep to the question.
+[t01] Annie(PRO): Hollywood exports more than entertainment; it exports a repeated picture of American life as violent, arrogant, and self-serving. Viewers abroad can reasonably mistake that selective picture for the country itself. That resentment is anti-Americanism, and the industry has helped fuel it. That's all, thank you.
+[t02] @A2-2 Graham(MOD): Let's have Claudia take this one.
+[t03] Claudia(CON): Films often criticize greed, cruelty, or war, but criticism is not a national message. Audiences know stories need villains and conflict; they do not treat every fictional scene as a report on ordinary people. Foreign resentment has many roots, including political choices and personal experience. Blaming Hollywood gives the industry an influence it does not deserve, and it excuses those deeper causes.
+[t04] @A4 <ovl> Graham(MOD): You have ten seconds left.
+[t05] Claudia(CON): Stories can influence a mood, but influence is not the same as causing hostility. The motion claims too much, so it should therefore fall. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Graham(MOD): And now we move on to round two. Round two is where the debaters address each other. You have two and a half minutes, starting when I stop talking.
+[t07] Claudia(CON): Consider a viewer who watches a sharp satire and then discusses its flaws rather than blaming Americans nearby. The film can prompt careful conversation, which proves Hollywood need not fuel anti-Americanism abroad.
+[t08] Annie(PRO): That discussion also raises whether a fictional character's costume changes what visitors buy at themed shops. If a costume becomes popular, sellers copy it, and arguments over imitation can consume the whole conversation.
+[t09] @B1 Graham(MOD): I really want to stay on whether hollywood has fueled anti-Americanism among people abroad.
+[t10] Annie(PRO): The question is whether Hollywood has fueled anti-Americanism abroad, and repeated hostile images can make distant audiences distrust Americans they have never met. That cultural pressure clearly supports the motion.
+[t11] Claudia(CON): Debates about which actors deserve awards can distract from how a film is received. But reception is the point: audiences separate dramatic exaggeration from America itself, so Hollywood has not fueled anti-Americanism abroad.
+[t12] Annie(PRO): Hollywood movies always fuel anti-Americanism abroad. When the same stereotypes recur for years, they teach viewers to connect American identity with contempt, violence, and domination, even when individual stories seem harmless.
+[t13] Claudia(CON): I grant that some films invite viewers to question power rather than hate people. But the main claim still fails: audiences can distinguish criticism from identity, so Hollywood has not fueled anti-Americanism abroad.
+[t14] Annie(PRO): This Hollywood movie does not fuel anti-Americanism abroad. A gentle story showing generous neighbors can leave foreign viewers warmer toward Americans, yet the industry's wider pattern still fuels resentment in many viewers.
+[t15] @B2 Graham(MOD): Well you're hollywood movies always fuel anti-Americanism abroad and then you're this Hollywood movie does not fuel anti-Americanism abroad. Which?
+[t16] Annie(PRO): Both statements address different levels: one names Hollywood's overall cultural effect, while the other names one movie's immediate response. A broad pattern can fuel resentment even when a particular story softens it.
+[t17] Claudia(CON): I reject the premise that those statements can coexist as a clean account of causation. Your exception exposes the problem: mixed reactions mean Hollywood cannot be credited with fueling anti-Americanism abroad.
+[t18] Annie(PRO): If audiences supposedly separate stories from America, why do filmmakers repeatedly rely on American stereotypes to make foreign settings feel morally clear? Doesn't that reliance show Hollywood helps build resentment abroad?
+[t19] Claudia(CON): No, stereotype shorthand is a storytelling flaw, not proof that viewers adopt hostility toward a nation. You turn a device inside a film into a claim about whole audiences, and that leap defeats your case.
+[t20] @A4 <ovl> Graham(MOD): Ten seconds left in the crossfire.
+[t21] <cut> Annie(PRO): I grant that repeated stereotypes can leave an ugly impression. But that initial impression can harden into distrust when no counter-image-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Graham(MOD): Time. And now we move on to Round three. Round three will be closing statements by each debater in turn. Here making her closing statement in support of the motion, Annie.
+[t23] Annie(PRO): Deciding this motion turns on whether repeated entertainment images can shape attitudes beyond the screen. They can: Hollywood's familiar portraits of Americans as brutal or smug supply raw material for distrust. It need not be the only cause to have fueled anti-Americanism abroad. That's all, thank you.
+[t24] @A2-2 Graham(MOD): Now her summation against the motion, Claudia.
+[t25] Claudia(CON): Deciding this motion turns on causation, not on whether a troubling scene exists. Hollywood tells many kinds of stories, and audiences interpret them through their own knowledge, values, and experiences. A harsh fictional portrait may provoke criticism, sympathy, laughter, or nothing at all. The other side turns possibility into a verdict while ignoring the political conduct and personal encounters that shape attitudes.
+[t26] @A4 <ovl> Graham(MOD): I'll give you ten more seconds to nail this.
+[t27] Claudia(CON): Entertainment may color a moment, but it does not establish the claimed cause here. The motion asks for blame Hollywood cannot fairly carry. That's all, thank you.
+[t28] Graham(MOD): Thank you, Annie and Claudia, for a thoughtful debate, and thank you for listening. This concludes our discussion.

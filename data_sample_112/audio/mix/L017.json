@@ -1,0 +1,422 @@
+{
+ "debate_id": "L017",
+ "motion": "The FDA is too cautious",
+ "speakers": {
+  "MOD": {
+   "name": "Jed",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0177_72",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0177/MSP-PODCAST_0177_72.wav",
+   "wpm": 170.28
+  },
+  "PRO": {
+   "name": "Malcolm",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6153_54",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6153/MSP-PODCAST_6153_54.wav",
+   "wpm": 165.44
+  },
+  "CON": {
+   "name": "Kate",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1239_11",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1239/MSP-PODCAST_1239_11.wav",
+   "wpm": 174.36
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 74.53,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 300.61,
+ "ext": {
+  "a32": {
+   "file": "L017_ext_a32.wav",
+   "place_at_sec": 213.279,
+   "dur_sec": 36.44,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Imagine a fragile patient receiving a poorly tested drug, suffering severe effects, and discovering afterward that warnings were incomplete. That example proves caution protects real people when hopeful promises outrun reliable knowledge."
+  },
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "I agree that serious risks require strong safeguards, but that narrow point does not answer the larger problem. The FDA can protect patients while permitting monitored access, and excessive delay still makes it too cautious."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.12,
+   "dur_sec": 18.12,
+   "overlap": false,
+   "text": "Today's motion is, \"The FDA is too cautious.\" Malcolm supports the motion, and Kate opposes it. Each speaker gets thirty seconds to open, then we have two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue during speeches, and then I will move us along."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.32,
+   "end_sec": 38.4,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "The FDA's caution once protected patients, but it now delays useful treatments long after their risks are understood. Patients with serious illnesses cannot benefit from therapies trapped in endless review. The agency should demand solid evidence, not perfect certainty. I will explain why this cautious culture harms patients and slows medical progress."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.32,
+   "end_sec": 39.01,
+   "dur_sec": 0.69,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.6,
+   "end_sec": 49.62,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "The problem is not careful testing; it is demanding answers that medicine cannot provide before approval. A treatment can be monitored and improved after release, while patients now receive nothing-",
+   "cut_at_sec": 49.62,
+   "full_dur_sec": 16.68,
+   "ext_file": "L017_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 48.82,
+   "end_sec": 52.12,
+   "dur_sec": 3.3,
+   "overlap": true,
+   "text": "Thank you. Time is up on that. And now Kate."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.32,
+   "end_sec": 68.36,
+   "dur_sec": 16.04,
+   "overlap": false,
+   "text": "The FDA is not too cautious; it is responsible for preventing unsafe treatments from reaching patients. Approval requires evidence because hopeful claims can hide serious harm. Faster access matters, but lowering the standard would trade visible delays for invisible injuries. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 68.56,
+   "end_sec": 76.33,
+   "dur_sec": 7.77,
+   "overlap": false,
+   "text": "We're going to move into our proverbial free-for-all session. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 76.53,
+   "end_sec": 89.82,
+   "dur_sec": 13.29,
+   "overlap": false,
+   "text": "I grant that some reviews take longer than patients want, but that does not show the standard is excessive. The main issue is whether uncertain treatments should reach vulnerable people, and careful review keeps protection stronger than pressure."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 90.191,
+   "end_sec": 103.321,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "You reduce the argument to lowering standards, which I have not proposed. The FDA can require meaningful evidence while allowing earlier access with monitoring; rejecting that middle ground leaves patients waiting for certainty that may never arrive."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 103.823,
+   "end_sec": 116.623,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Patients also need protection from prices, misleading promises, and uneven access after approval. A treatment that exists but reaches only wealthy patients does not solve the healthcare problem, so public systems should control distribution and affordability."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 116.823,
+   "end_sec": 123.193,
+   "dur_sec": 6.37,
+   "overlap": false,
+   "text": "Okay. What does your point have to do with the FDA is too cautious when approving new medical treatments?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 123.393,
+   "end_sec": 136.363,
+   "dur_sec": 12.97,
+   "overlap": false,
+   "text": "The motion asks whether the FDA is too cautious, and its standards are not excessive when lives are at stake. Approval decisions must weigh uncertain benefits against possible harm, so restraint remains a safeguard, not a failure."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 136.85,
+   "end_sec": 149.05,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "When a treatment addresses a severe illness with no good alternatives, the FDA should permit earlier access under strict follow-up. In that condition, waiting for complete evidence causes more harm than carefully managed uncertainty."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.49,
+   "end_sec": 162.22,
+   "dur_sec": 12.73,
+   "overlap": false,
+   "text": "Follow-up sounds reassuring, but patients cannot easily recover from a dangerous first exposure, and companies may resist admitting failure. That is why the FDA's caution matters: it keeps the burden of uncertainty with manufacturers, not patients."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 162.43,
+   "end_sec": 174.27,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Across the system, the FDA should favor timely access when evidence is promising and risks can be watched. That broader principle still allows stricter delay when risks are severe or alternatives already exist."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 174.884,
+   "end_sec": 189.884,
+   "dur_sec": 15.0,
+   "overlap": false,
+   "text": "Your broader principle hides the hardest judgment: promising evidence can still miss rare dangers. Monitoring after approval is not a substitute for knowing who will be harmed, and the FDA should not gamble with patients merely because treatment is difficult to find-"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 188.984,
+   "end_sec": 201.504,
+   "dur_sec": 12.52,
+   "overlap": true,
+   "text": "No, the gamble is also making sick people wait indefinitely. The FDA already balances risks, but its culture treats delay as harmless; for patients losing time, that assumption is the real danger and should change."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 202.133,
+   "end_sec": 214.863,
+   "dur_sec": 12.73,
+   "overlap": false,
+   "text": "You say delay is harmless, but I said no such thing. My point is that approval can create harm that cannot be undone, while careful review gives patients a better chance of receiving treatment that truly helps."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 215.079,
+   "end_sec": 227.13,
+   "dur_sec": 12.051,
+   "overlap": false,
+   "text": "If a patient has a serious illness, no good alternative, and accepts clearly explained uncertainty, why should the FDA block access rather than supervise it? That question exposes why your standard is too-",
+   "ext_file": "L017_ext_a32.wav",
+   "cut_at_sec": 225.33,
+   "full_dur_sec": 12.12
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 216.33,
+   "end_sec": 219.28,
+   "dur_sec": 2.95,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 226.33,
+   "end_sec": 237.01,
+   "dur_sec": 10.68,
+   "overlap": true,
+   "text": "Time's up. On to round three, closing statements. Our motion is the FDA is too cautious when approving new medical treatments, and here to summarize his position supporting this motion, Malcolm."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 237.21,
+   "end_sec": 246.96,
+   "dur_sec": 9.75,
+   "overlap": false,
+   "text": "The FDA should protect patients, not demand perfect certainty. Its delays deny people promising options when safeguards could manage the remaining risk."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 246.06,
+   "end_sec": 248.36,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But those safeguards can fail, and patients-",
+   "cut_at_sec": 246.56,
+   "full_dur_sec": 10.08,
+   "ext_file": "L017_024.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 247.56,
+   "end_sec": 248.87,
+   "dur_sec": 1.31,
+   "overlap": true,
+   "text": "Let him finish."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 249.07,
+   "end_sec": 259.51,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "The strongest case for reform is the patient with no good alternative. Monitored access can preserve safety while ending needless delay, because waiting also carries a serious cost."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 257.21,
+   "end_sec": 258.45,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.71,
+   "end_sec": 267.87,
+   "dur_sec": 8.16,
+   "overlap": false,
+   "text": "The FDA is too cautious when it treats uncertainty as a reason to withhold every promising option. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 268.07,
+   "end_sec": 270.29,
+   "dur_sec": 2.22,
+   "overlap": false,
+   "text": "Okay. I want to go to Kate."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 270.49,
+   "end_sec": 290.85,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "The FDA's strongest duty is prevention. Patients deserve treatments supported by dependable evidence, not optimism dressed up as urgency. Malcolm's proposal sounds limited, but exceptions can expand whenever pressure rises. Once an unsafe treatment reaches patients, monitoring cannot reverse every injury or restore lost trust. Caution is not hostility to innovation; it is the condition that makes innovation worth trusting."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 290.49,
+   "end_sec": 292.01,
+   "dur_sec": 1.52,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 291.05,
+   "end_sec": 301.66,
+   "dur_sec": 10.61,
+   "overlap": false,
+   "text": "Approval should follow evidence strong enough to protect patients, especially when they are desperate. That is responsible regulation, not excessive caution, and the motion is false. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 301.86,
+   "end_sec": 306.59,
+   "dur_sec": 4.73,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate; this discussion is now closed."
+  }
+ ]
+}

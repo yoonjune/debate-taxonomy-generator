@@ -1,0 +1,34 @@
+L013  |  We should banish the criminal history checkbox from job applications.
+  MOD=Abigail   PRO=Theodore   CON=Evan
+  crossfire 150s (actual Nones)
+
+--- phase 1 ---
+[t00] Abigail(MOD): Today this debate asks whether we should banish the criminal history checkbox from job applications. Theodore argues for the motion, while Evan argues against it. Each opening lasts thirty seconds; then crossfire lasts two and a half minutes. Each closing lasts thirty seconds, and I will give a ten-second cue before time expires.
+[t01] Theodore(PRO): A checkbox invites employers to reject people before hearing context, even when an old mistake has no bearing on the job. Banish it, and employers can still discuss relevant records fairly. The motion removes a blunt filter, not responsible judgment.
+[t02] @A2-2 Abigail(MOD): Okay. Evan, you're in.
+[t03] Evan(CON): A checkbox can give employers honest, consistent information before they invest time in hiring. Without it, applicants may hide serious records until late in the process. Banning the checkbox protects concealment more than fairness, especially for coworkers and customers.
+--- phase 2 ---
+[t04] @A3-1 Abigail(MOD): That concludes round one. Now we move on to round two and in round two the debaters have a conversation, address one another directly. You have two and a half minutes, starting when I stop talking.
+[t05] Evan(CON): Suppose a shop needs someone handling cash, and an applicant has a recent theft conviction. The checkbox alerts the owner to ask careful questions, showing why honest screening should remain available.
+[t06] <cut> Theodore(PRO): You call that alert fair, but the checkbox usually turns a complicated record into an automatic rejection. An old mistake, unrelated offense, or dismissed case can erase a qualified applicant before anyone asks-
+[t07] Evan(CON): Hiring is also about trust between coworkers, not just matching skills to tasks. A manager needs room to ask about reliability and safety. That is why keeping the checkbox supports careful hiring decisions.
+[t08] Theodore(PRO): Your weakest point is that the checkbox creates careful questions. It does the opposite when a quick yes triggers rejection, while a no can punish honesty. Removing it encourages actual discussion instead.
+[t09] Evan(CON): If the owner sees theft, the next question is whether money is locked, who holds keys, and whether two workers count the drawer together. Those details affect training, supervision, and insurance paperwork.
+[t10] @B1 Abigail(MOD): No, banish the criminal history checkbox from job applications, banish the criminal history checkbox from job applications. Those are the key words.
+[t11] Evan(CON): Employers should always consider criminal history. A checkbox gives them a consistent starting point, so hiding that information shifts risk to coworkers and customers instead of making hiring fairer.
+[t12] Theodore(PRO): A qualified driver with a decade old minor conviction can check one box and disappear from consideration. Removing it lets the employer judge current skills first, showing why banishing the checkbox expands fair opportunity.
+[t13] Evan(CON): Employers should not consider a minor parking offense. They should still reject this ban because relevant records deserve attention when a position involves trust, safety, or vulnerable people.
+[t14] @B2 Abigail(MOD): So it's not much of employers should always consider criminal history if employers should not consider a minor parking offense, is it?
+[t15] Evan(CON): Those statements fit because considering a record does not mean treating every entry as disqualifying. I can reject a parking offense while insisting employers always consider the broader criminal history before hiring.
+[t16] Theodore(PRO): That distinction exposes the problem: the checkbox does not record careful consideration, only a crude admission. Employers can ask relevant questions later, but the box filters people before your promised distinction exists.
+[t17] Evan(CON): I grant that some employers may use the box lazily. But if a job involves cash or vulnerable people, why remove an early warning that helps an employer investigate? Keeping the checkbox preserves responsible screening.
+[t18] @A4 <ovl> Abigail(MOD): You've got ten seconds.
+[t19] <cut> Theodore(PRO): No, employers cannot fairly judge context from a hidden record. That premise treats an early warning as necessary-
+--- phase 3 ---
+[t20] @A3-2 <ovl> Abigail(MOD): Time's up. Now we move on to round three. Round three will be closing statements by each debater in turn. Making his closing statement in support of the resolution banish the criminal history checkbox from job applications, Theodore.
+[t21] Theodore(PRO): Evan's best argument is that some jobs require careful screening, and I agree that relevant safety concerns deserve attention. But a checkbox does not provide careful screening; it invites a fast rejection based on incomplete information. Banish it, and employers can still ask targeted questions, weigh time and relevance, and judge the person before them. The motion protects honest applicants from an automatic barrier.
+[t22] @A4 <ovl> Abigail(MOD): I'll give you ten more seconds to nail this.
+[t23] <cut> Theodore(PRO): A fair system should distinguish a current risk from an old, unrelated mistake. It should reward relevant answers, not punish disclosure with instant exclusion. Removing the checkbox does not hide records-
+[t24] @A2-1 <ovl> Abigail(MOD): Your time is up. Thank you. Evan.
+[t25] Evan(CON): This decision turns on whether employers may learn relevant history early enough to protect coworkers, customers, and vulnerable people. The checkbox is imperfect, but banning it removes a simple chance for honest disclosure. Keep it, and require judgment rather than pretending every employer will ask later.
+[t26] Abigail(MOD): Thank you both for taking part, and thank you for listening. This debate is now closed.

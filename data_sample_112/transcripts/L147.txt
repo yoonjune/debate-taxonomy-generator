@@ -1,0 +1,38 @@
+L147  |  Affirmative action on campus does more harm than good
+  MOD=Betsy   PRO=Melissa   CON=Ahmed
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Betsy(MOD): Welcome. Tonight's motion is affirmative action on campus does more harm than good; Melissa supports it, and Ahmed opposes it. Each opening and closing gets thirty seconds, then crossfire gets two and a half minutes with a ten-second cue. Address the motion, listen closely, and stay civil. I will enforce these limits.
+[t01] Melissa(PRO): Affirmative action asks campuses to sort people by group before individual achievement. That creates doubt about every offer and strains trust among students. Equal standards and targeted preparation help every applicant without making admission itself a group judgment. That's all, thank you.
+[t02] @A2-2 Betsy(MOD): You can come in, Ahmed.
+[t03] Ahmed(CON): Affirmative action can recognize barriers ordinary measures miss. It opens doors for capable students who otherwise face narrow pipelines, while campuses still assess achievement. A fairer entering class improves discussion and opportunity, so the policy does more good than harm. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Betsy(MOD): Let's move now into the moderated cross-examination portion of this debate, and get both sides engaging on some of the key issues here. You have two and a half minutes, starting when I stop talking.
+[t05] Melissa(PRO): I agree that varied experiences can improve classroom discussion. But assigning advantage by group makes every admitted student answer suspicion, and that burden overwhelms the claimed benefit; affirmative action does more harm.
+[t06] Ahmed(CON): When records reflect obstacles campus practices helped create, affirmative action can notice that context fairly. It reads merit more fully, supporting opportunity rather than causing harm for qualified students.
+[t07] <cut> Melissa(PRO): Imagine two equally prepared applicants: one receives a preference solely for group identity, while the other is passed over. Both leave with reason to doubt the process, proving affirmative action harms trust and-
+[t08] <ovl> Ahmed(CON): That example skips the barriers that shaped preparation before either file reached campus. A carefully used preference repairs a distorted starting line; it does not erase achievement, so affirmative action can expand fair opportunity.
+[t09] Melissa(PRO): Campus life also includes housing, clubs, and friendships, where labels can harden into assumptions. But admissions sets the first signal, and group preferences tell students identity outranks achievement; that is harm, not fairness.
+[t10] Ahmed(CON): Merit is never captured by a single score or activity list. Campuses should generally consider context when judging promise, and affirmative action is one way to prevent inherited barriers from defining who gets a chance.
+[t11] Melissa(PRO): I believe affirmative action never treats applicants fairly. It makes group membership an admissions advantage or penalty, so even well-intended decisions turn individuals into representatives and ultimately do more harm than good.
+[t12] Ahmed(CON): On the point that affirmative action never treats applicants fairly, you ignore unequal paths to the application itself. Treating context as relevant is fairness, because identical scores can conceal unequal chances to earn them.
+[t13] Melissa(PRO): This affirmative action treats applicants fairly. A campus that gives a group preference to an applicant with a weaker record may still call itself inclusive, but it harms the passed-over applicant and public trust.
+[t14] @B2 Betsy(MOD): They do affirmative action never treats applicants fairly or they should this affirmative action treats applicants fairly?
+[t15] Melissa(PRO): Both statements describe fairness: the policy's group rule is unfair, while the selected applicant can be treated fairly as a person. That distinction shows why good intentions cannot rescue affirmative action's harmful admissions method.
+[t16] Ahmed(CON): Your distinction is the weakest point: an applicant cannot be treated fairly by a process you call unfair. You used personal kindness to excuse a group-based rule, but that evades the actual admissions decision.
+[t17] <cut> Melissa(PRO): No, I reject the premise that fair treatment requires a fair group rule. Kind treatment cannot erase the institutional signal that identity earns preference, and Ahmed's approach leaves every applicant's achievement-
+[t18] @A4 <ovl> Betsy(MOD): About ten seconds left in the crossfire.
+
+--- phase 3 ---
+[t19] @A3-2 <ovl> Betsy(MOD): Time. On to round three, closing statements. Our motion is affirmative action on campus does more harm than good, and here to summarize her position supporting this motion, Melissa.
+[t20] Melissa(PRO): Central harm is distrust. When admission uses group preference, students wonder whether achievement or identity decided, and that doubt reaches those admitted and denied. Better preparation and individual review address barriers without categories. That is why affirmative action does more harm than good. That's all, thank you.
+[t21] @A2-2 Betsy(MOD): Okay, let him reply, please, please.
+[t22] Ahmed(CON): The strongest point is context: merit is shaped before an application arrives. Ignoring barriers preserves advantage, while affirmative action lets campuses see talent more fairly.
+[t23] <ovl> <cut> Melissa(PRO): But seeing context does not require choosing-
+[t24] @A5 <ovl> Betsy(MOD): Okay, let him come back.
+[t25] Ahmed(CON): and it gives students facing patterned exclusion a real chance to show what they can do. A campus that notices those barriers is not abandoning standards.
+[t26] @A4 <ovl> Betsy(MOD): You've got ten seconds.
+[t27] Ahmed(CON): It is widening fair opportunity, so affirmative action does more good than harm. That's all, thank you.
+[t28] Betsy(MOD): Thank you, Melissa and Ahmed, for a thoughtful debate on this motion. This concludes our discussion for today.

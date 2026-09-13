@@ -1,0 +1,378 @@
+{
+ "debate_id": "L039",
+ "motion": "Organic food is marketing hype.",
+ "speakers": {
+  "MOD": {
+   "name": "Jerry",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4066_400",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4066/MSP-PODCAST_4066_400.wav",
+   "wpm": 162.5
+  },
+  "PRO": {
+   "name": "Gregory",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2988_467",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2988/MSP-PODCAST_2988_467.wav",
+   "wpm": 167.95
+  },
+  "CON": {
+   "name": "Francis",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0666_828",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0666/MSP-PODCAST_0666_828.wav",
+   "wpm": 171.12
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 101.96,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 303.28,
+ "ext": {
+  "a32": {
+   "file": "L039_ext_a32.wav",
+   "place_at_sec": 240.62,
+   "dur_sec": 35.55,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "Your useful-guidance point is the problem: a hint about methods is not a guarantee of better food or better ethics. When marketers price that hint as certainty, the organic label becomes hype."
+  },
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "No, I reject your premise that a premium promises certainty; it can reflect harder work and care, not perfection. Your claim confuses imperfect communication with empty communication, and organic is not hype."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.21,
+   "dur_sec": 21.21,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, \"Organic food is marketing hype.\" Gregory supports the motion, and Francis opposes it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed segment ends, so please address the motion directly and keep remarks within those limits."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.41,
+   "end_sec": 41.1,
+   "dur_sec": 19.69,
+   "overlap": false,
+   "text": "Organic is often sold as a moral badge, not a clear promise. Shoppers see warm pictures, vague claims, and a higher price, then assume they are buying purity. But a label cannot tell them every choice made on a farm. Francis, why should a word on a package command faith when the product itself may be identical?"
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.3,
+   "end_sec": 52.71,
+   "dur_sec": 11.41,
+   "overlap": false,
+   "text": "That gap lets retailers charge for reassurance rather than measurable difference. I am not saying careful farming is worthless; I am saying the word organic can turn ordinary food into a premium story-",
+   "cut_at_sec": 52.71,
+   "full_dur_sec": 14.01,
+   "ext_file": "L039_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.41,
+   "end_sec": 43.26,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 51.91,
+   "end_sec": 55.6,
+   "dur_sec": 3.69,
+   "overlap": true,
+   "text": "I'm going to stop you there, Gregory, we're out of time. Francis."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 55.8,
+   "end_sec": 75.73,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "Gregory, why call a farming choice a trick when it can limit synthetic inputs and reward patience? Organic describes methods that can protect soil, workers, and nearby water. The word may be used badly, but that does not erase the practices behind it. Consumers deserve more honesty, yet honesty is not the same as hype."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 75.8,
+   "end_sec": 78.61,
+   "dur_sec": 2.81,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 75.93,
+   "end_sec": 87.1,
+   "dur_sec": 11.17,
+   "overlap": false,
+   "text": "Gregory's complaint is really about weak selling, not the food method. If a seller misleads, challenge that seller; do not make every careful grower guilty. A label can guide better choices-",
+   "cut_at_sec": 87.1,
+   "full_dur_sec": 14.56,
+   "ext_file": "L039_007.wav"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 86.3,
+   "end_sec": 87.83,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "I'm sorry, you've hit time."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 88.03,
+   "end_sec": 101.96,
+   "dur_sec": 13.93,
+   "overlap": false,
+   "text": "And that concludes Round one. Now we move on to round two. Round two is where the debaters address one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 102.16,
+   "end_sec": 114.01,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "I reject that premise: I am not calling careful farming a trick; I am challenging the price-soothing label wrapped around it. Limiting inputs can matter, but it does not prove organic escapes marketing hype."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 114.735,
+   "end_sec": 127.305,
+   "dur_sec": 12.57,
+   "overlap": false,
+   "text": "Picture a garden beside a stream: a grower avoids harsh sprays, insects return, and the water stays clearer for nearby families. That practical care is not a glossy slogan; it shows organic methods can deliver value."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 127.525,
+   "end_sec": 140.335,
+   "dur_sec": 12.81,
+   "overlap": false,
+   "text": "Packaging design matters too, because bright colors and rustic fonts can sway a rushed buyer before dinner. But taste trends are beside the point: the organic premium often sells an image, which is why the motion stands."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 140.809,
+   "end_sec": 152.929,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "I hold that every organic label always deserves trust. When growers avoid harsh shortcuts, soil stays alive and families know what they are buying; that honest signal is why organic is more than marketing."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 153.407,
+   "end_sec": 165.977,
+   "dur_sec": 12.57,
+   "overlap": false,
+   "text": "I agree that avoiding harsh sprays can be worthwhile. But Francis treats a broad label as proof of that care, while sellers can turn good intentions into a price premium; that gap shows organic is marketing hype."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 166.621,
+   "end_sec": 178.551,
+   "dur_sec": 11.93,
+   "overlap": false,
+   "text": "A seller can use the word while damaging land; I say this organic label does not deserve trust. That exposes a dishonest seller, yet real organic standards still protect meaningful choices for careful buyers."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 178.751,
+   "end_sec": 189.961,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "But you can't have it both ways, you can't hold that every organic label always deserves trust on one hand and then say this organic label does not deserve trust the next."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 190.161,
+   "end_sec": 201.371,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "The label deserves trust because it announces a duty, while that label fails trust because the seller betrayed the duty. Calling out betrayal defends the meaning, so organic remains real for consumers."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 202.019,
+   "end_sec": 215.619,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "Consider a family choosing the costly organic loaf over an identical basic loaf, then skipping fresh fruit to afford it. The label has redirected scarce money toward reassurance rather than nourishment, proving hype can hurt ordinary shoppers by-"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 214.719,
+   "end_sec": 227.599,
+   "dur_sec": 12.88,
+   "overlap": true,
+   "text": "No, that loaf is not identical if its production spared the field from damaging choices; your example assumes away the difference. A buyer can value those consequences, so the label can communicate substance rather than hype."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 228.228,
+   "end_sec": 240.068,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Francis, if the label truly gives buyers dependable information, why must buyers separately investigate every seller behind it? Does that not show the label is marketing hype rather than reliable guidance for shoppers?"
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 240.62,
+   "end_sec": 252.76,
+   "dur_sec": 12.14,
+   "overlap": false,
+   "text": "Buyers should ask questions, and I grant that some labels are vague. But every food claim deserves attention; organic still identifies a method with real consequences, so dismissing it as hype throws away useful-",
+   "ext_file": "L039_ext_a32.wav",
+   "cut_at_sec": 252.76,
+   "full_dur_sec": 12.41
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 241.96,
+   "end_sec": 243.26,
+   "dur_sec": 1.3,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 251.96,
+   "end_sec": 262.29,
+   "dur_sec": 10.33,
+   "overlap": true,
+   "text": "Okay, time. Now we move on to round three. Round three will be closing statements by each debater in turn. And here to speak first in the closing round, Gregory."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 262.49,
+   "end_sec": 279.6,
+   "dur_sec": 17.11,
+   "overlap": false,
+   "text": "This decision turns on what the label actually delivers, not on whether careful farming can exist. When a broad word sells virtue and a premium without proving the particular product is better, it invites belief instead of judgment. That is marketing hype. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 279.8,
+   "end_sec": 283.25,
+   "dur_sec": 3.45,
+   "overlap": false,
+   "text": "All right. Francis, do you want to come back on that?"
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 283.45,
+   "end_sec": 301.59,
+   "dur_sec": 18.14,
+   "overlap": false,
+   "text": "This decision turns on whether a useful production method becomes false merely because sellers advertise it. Organic can signal choices that protect land and people, even when buyers must stay alert. Better enforcement and clearer labels answer misuse; calling the whole idea hype does not. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 301.79,
+   "end_sec": 307.64,
+   "dur_sec": 5.85,
+   "overlap": false,
+   "text": "Thank you, Gregory and Francis, for a thoughtful debate; this concludes our discussion of the motion today."
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+L156  |  Containment is not enough: ISIS must be defeated
+  MOD=Franklin   PRO=Kate   CON=Nick
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Franklin(MOD): Welcome. Our motion is whether containment is not enough and ISIS must be defeated. Kate argues for it, and Nick argues against it. Each opening and closing gets thirty seconds, followed by two and a half minutes of crossfire; I will give a ten-second cue. Address each other directly, and keep remarks civil and concise.
+[t01] Kate(PRO): Containment leaves ISIS able to recruit, threaten, and wait for an opening. A policy that merely fences danger in accepts permanent risk. Defeat means dismantling its capacity, so communities can live without an armed shadow over every choice in daily life. That's all, thank you.
+[t02] @A2-2 Franklin(MOD): All right, Nick, take that on.
+[t03] Nick(CON): Kate treats defeat as a clean finish, but it can spread fighting and create new grievances. Containment can block expansion, protect threatened communities, and leave room for local life to recover. You have not shown why an open-ended campaign is safer than patient pressure, especially when
+[t04] @A4 <ovl> Franklin(MOD): You have ten seconds.
+[t05] Nick(CON): its costs fall on people who cannot choose the battlefield. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Franklin(MOD): And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Nick(CON): Your claim that dismantling capacity ends the threat is weakest. Force can scatter networks and turn fear into recruitment; containment denies them space without pretending every hostile idea disappears at once.
+[t08] <cut> Kate(PRO): I'm answering your claim that force only scatters networks. Containment lets leaders regroup and plan, while targeted defeat removes their command, resources, and ability to menace families over and over-
+[t09] <ovl> Nick(CON): No, Kate, removing commanders does not remove the cause of recruitment. A defeated group can splinter, and a containment strategy can isolate those splinters without widening a war around them.
+[t10] Kate(PRO): Who will train neighborhood councils, pay teachers, and settle disputes when armed patrols leave? Durable local authority needs trusted courts and jobs, not distant directives, because families need ordinary institutions they can use.
+[t11] @B1 Franklin(MOD): We're talking about the practicality or the morality of containment is not enough and ISIS must be defeated.
+[t12] Kate(PRO): On whether containment is enough, it plainly is not when ISIS can still choose violence and rebuild influence. Nick, how does leaving that capacity intact protect anyone facing its threats?
+[t13] Nick(CON): I believe containment always protects civilians. Its barriers reduce exposure, restrain escalation, and give communities breathing room; demanding defeat invites a larger struggle that can place more civilians directly in danger.
+[t14] Kate(PRO): Your absolute claim that containment always protects civilians fails where ISIS controls daily life behind those barriers. Protection is not merely fewer battles; it means removing the coercion that governs people's homes, work, and speech.
+[t15] Nick(CON): Here containment does not protect civilians. When a trapped family faces an ISIS enforcer, holding a line elsewhere leaves that person exposed, yet expanding war to claim defeat can expose many more.
+[t16] @B2 Franklin(MOD): I'm puzzled by your stand. On the one hand i believe containment always protects civilians and on the other hand here containment does not protect civilians.
+[t17] Nick(CON): Containment protects civilians by limiting the violence that reaches them, and here it does not protect civilians from every danger. No policy erases all peril; defeat can multiply it, so restraint remains wiser.
+[t18] Kate(PRO): If containment fails to protect people in the case you named, why keep it rather than defeat ISIS? What do you tell the family left under its rule while you defend restraint?
+[t19] Nick(CON): No, because I reject your premise that defeat protects that family; it may bring a broader fight to them. You treat military victory as rescue, but containment can reduce harm while alternatives weaken ISIS over time.
+[t20] @A4 <ovl> Franklin(MOD): You both have ten seconds.
+[t21] <cut> Kate(PRO): I grant that containment can buy time and avert some immediate bloodshed. But time is wasted-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Franklin(MOD): And that's time. We have to move on to our closing round. Kate, the floor is yours.
+[t23] Kate(PRO): Containment can slow danger, and I have never denied that narrow benefit. But a strategy designed to manage ISIS leaves its coercive system alive, able to exploit every pause. Defeat is not reckless expansion; it is the necessary aim of breaking the power that terrorizes families and dictates their future.
+[t24] @A4 <ovl> Franklin(MOD): I'll give you ten more seconds to nail this.
+[t25] Kate(PRO): We must end that power, because merely containing it abandons those living beneath it. That's all, thank you.
+[t26] @A2-2 Franklin(MOD): Let me bring back Nick, please. Thanks.
+[t27] Nick(CON): Kate calls defeat necessary, yet necessity does not make it safe or achievable. Containment can deny expansion, lower immediate harm, and preserve room for communities to rebuild. The wiser course is disciplined pressure, not a promise of final victory that may deepen the conflict. That's all, thank you.
+[t28] Franklin(MOD): Thank you, Kate and Nick, for a thoughtful exchange; this debate is now closed, and we appreciate your arguments.

@@ -1,0 +1,40 @@
+L102  |  China is destined for regional dominance.
+  MOD=Abigail   PRO=Genevieve   CON=Bonnie
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Abigail(MOD): Tonight's motion is that China is destined for regional dominance. Genevieve speaks for the motion, and Bonnie speaks against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Please address the motion directly, listen to each other, and keep remarks within the time provided.
+[t01] Genevieve(PRO): China's rise gives it the scale to shape the choices around it. Its markets, industry, and military reach make neighboring governments calculate around China, whether they welcome that fact or not. Dominance does not mean every neighbor obeys every request. It means China becomes the central power no regional decision can ignore for long.
+[t02] @A4 <ovl> Abigail(MOD): Well, now it's ten.
+[t03] Genevieve(PRO): That central position will deepen because alternatives must work through China, not around it. That is why regional dominance is the likely destination. That's all, thank you.
+[t04] @A2-2 Abigail(MOD): Okay, Genevieve, thank you very much indeed. Could I now please ask Bonnie to speak against the motion.
+[t05] Bonnie(CON): Genevieve treats size as destiny, but regional dominance depends on willing partners and durable trust. Neighbors can trade with China while building their own defenses, ties, and institutions, precisely because they fear dependence. Power creates influence, certainly, yet influence is not command, and resistance can keep a region plural and open.
+[t06] @A4 <ovl> Abigail(MOD): Ten seconds warning.
+[t07] Bonnie(CON): No country is fated to lead neighbors who retain choices, confidence, and reasons to cooperate elsewhere. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Abigail(MOD): Now we're gonna move into the second section of the evening. And that's where the debaters can talk directly to one another. You have two and a half minutes, starting when I stop talking.
+[t09] Genevieve(PRO): Your trust point mistakes caution for a veto. Governments may hedge, but when supply chains, security disputes, and investment all run through China, hedging still confirms its central regional dominance.
+[t10] Bonnie(CON): China will remain important; I grant that. But your centrality point confuses commerce with control: neighbors can choose other partners, and those choices prevent China from becoming regionally dominant.
+[t11] Genevieve(PRO): When neighboring states need Chinese markets during a regional crisis, China can set the terms of cooperation. Under that condition, its leverage makes regional dominance real, not merely symbolic.
+[t12] Bonnie(CON): Arguments about cultural exchange can matter, since ideas travel with goods and students. Still, prestige is not rule; on the motion, neighbors retain enough agency to block Chinese regional dominance.
+[t13] Genevieve(PRO): Across the region, power follows the state that others must consult before acting. China's size ensures that consultation even where no crisis exists, making its dominance broader than a single emergency.
+[t14] Bonnie(CON): I believe regional dominance never requires coercion. If a leading state must force compliance, it has exposed dependence on fear, not earned authority, so China's pressure disproves its destiny.
+[t15] Genevieve(PRO): Your coercion point assumes influence must be loved to count. China can shape outcomes through incentives, bargaining, and pressure; the fact that others resist proves it is the power they must answer.
+[t16] Bonnie(CON): This regional dominance requires coercion. In a dispute over sea access, neighbors will coordinate against that pressure for lasting security and commerce, proving China cannot be destined to lead them.
+[t17] @B2 Abigail(MOD): Well you're regional dominance never requires coercion and then you're this regional dominance requires coercion. Which?
+[t18] Bonnie(CON): In my first statement, dominance means lasting leadership; in my second, I meant China's attempted regional dominance. Coercion defines that attempt, while it never creates genuine leadership, so my side remains unchanged.
+[t19] <cut> Genevieve(PRO): What power can replace China's economic pull across the region, and how can your coalition endure when each member depends on trade? You cannot answer that without conceding that-
+[t20] <ovl> Bonnie(CON): I can: dependence gives China leverage, not obedience. If partners fear a dominant supplier, they can share alternatives and bargain together, so your supposed inevitability is exactly what collective resistance defeats.
+[t21] Genevieve(PRO): Your weakest claim is that alternatives can simply be shared. Building them takes time and coordination, while China already supplies scale, infrastructure, and bargaining weight that makes it regionally dominant.
+[t22] Bonnie(CON): Your shared alternatives point ignores that cooperation can grow precisely under pressure. When several neighbors pool purchases and security efforts, China faces limits, not a destined regional throne.
+[t23] @A4 <ovl> Abigail(MOD): About ten seconds left in the crossfire.
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Abigail(MOD): Time. All right, that concludes this round. And now we move on to our closing round. And Genevieve, you are speaking first.
+[t25] Genevieve(PRO): This decision turns on whether a region can avoid its largest, most connected power indefinitely. Bonnie offers resistance, but resistance itself is organized around China's weight. Countries may dislike that weight and still adjust their trade, security, and diplomacy to it. Destiny here means a durable central position, not universal obedience.
+[t26] @A4 <ovl> Abigail(MOD): Genevieve, ten seconds.
+[t27] <cut> Genevieve(PRO): The question is whether any neighbor can remove China from the center of regional choices. That remains the test. Every response must account for its power, markets, and military reach, so the motion-
+[t28] @A2-1 <ovl> Abigail(MOD): You're out of time. And here to summarize her position, Bonnie.
+[t29] Bonnie(CON): Genevieve's best point is that China cannot be ignored, but being central is not the same as commanding a region. Neighbors can coordinate, diversify, and refuse imposed choices when pressure rises. China will matter greatly, yet no country is destined to overcome independent neighbors, so reject the motion. That's all, thank you.
+[t30] Abigail(MOD): Thank you, Genevieve and Bonnie, for a thoughtful debate; this concludes our discussion of the motion tonight.

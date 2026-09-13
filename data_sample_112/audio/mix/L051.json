@@ -1,0 +1,401 @@
+{
+ "debate_id": "L051",
+ "motion": "Let Anyone Take a Job Anywhere",
+ "speakers": {
+  "MOD": {
+   "name": "Wendy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3725_146",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3725/MSP-PODCAST_3725_146.wav",
+   "wpm": 172.52
+  },
+  "PRO": {
+   "name": "Francis",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3981_550",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_3981/MSP-PODCAST_3981_550.wav",
+   "wpm": 173.5
+  },
+  "CON": {
+   "name": "Billy",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0341_111",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0341/MSP-PODCAST_0341_111.wav",
+   "wpm": 167.28
+  }
+ },
+ "selective": [
+  "A1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 102.96,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 318.45,
+ "ext": {
+  "a32": {
+   "file": "L051_ext_a32.wav",
+   "place_at_sec": 243.725,
+   "dur_sec": 23.73,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Your capacity point is weakest because it treats people as a problem before they even apply. Employers can hire when roles exist, and communities can plan, so blanket exclusion remains unjustified to me."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.6,
+   "dur_sec": 19.6,
+   "overlap": false,
+   "text": "Welcome. The motion is: let anyone take a job anywhere. Francis argues for it, and Billy argues against it. Each opening gets thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue. Please address the motion, listen closely, and keep your remarks direct and respectful."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.8,
+   "end_sec": 39.88,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "Work is more than a paycheck; it is a path to independence, purpose, and security. The motion says people should be free to pursue that path wherever an employer wants their effort. It does not force anyone to hire or erase fair workplace standards. It stops arbitrary barriers from deciding a person's future before their ability is heard."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.8,
+   "end_sec": 43.16,
+   "dur_sec": 3.36,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.08,
+   "end_sec": 50.96,
+   "dur_sec": 10.88,
+   "overlap": false,
+   "text": "People do not lose their ambitions at an invisible line. Let them compete fairly, contribute where they are wanted, and make choices for their families. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 51.16,
+   "end_sec": 57.0,
+   "dur_sec": 5.84,
+   "overlap": false,
+   "text": "Okay. I need to let Billy back into this conversation. So Billy, jump on in please."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 57.2,
+   "end_sec": 78.41,
+   "dur_sec": 21.21,
+   "overlap": false,
+   "text": "Freedom matters, but jobs are tied to homes, shared services, and people who have built lives around them. Saying anyone may work anywhere sounds simple, yet it treats every community as if it has endless space and opportunity. Employers need room to choose, and workers need protection from abrupt competition. A fair system recognizes movement, but it also recognizes that"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 77.2,
+   "end_sec": 78.82,
+   "dur_sec": 1.62,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 78.61,
+   "end_sec": 88.5,
+   "dur_sec": 9.89,
+   "overlap": false,
+   "text": "limits can be humane rather than hostile. You cannot promise every applicant a place without asking who bears the pressure when work, homes, and public support-",
+   "cut_at_sec": 86.42,
+   "full_dur_sec": 13.64,
+   "ext_file": "L051_007.wav"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 87.7,
+   "end_sec": 91.39,
+   "dur_sec": 3.69,
+   "overlap": true,
+   "text": "Please come to an end, we're running out of time, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 91.59,
+   "end_sec": 105.04,
+   "dur_sec": 13.45,
+   "overlap": false,
+   "text": "All right, so now we're going to move into a part of the debate where it's more of a conversation that moves back and forth, robustly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 105.24,
+   "end_sec": 116.28,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "You say ordinary consent is enough, but a job changes shared workplaces and local obligations. If anyone may arrive and claim work immediately, who protects existing workers from sudden displacement there?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.862,
+   "end_sec": 129.302,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "That premise is wrong: taking a job does not mean claiming it without an employer's agreement. You treat workers as burdens to be managed, when they are people choosing where to build a life and-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 128.402,
+   "end_sec": 139.292,
+   "dur_sec": 10.89,
+   "overlap": true,
+   "text": "No, I am saying employers and communities bear consequences you ignore. Your freedom claim leaves no room for fair hiring rules, stable services, or people already depending on those jobs locally."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 140.218,
+   "end_sec": 150.578,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "Every worker always deserves any job. Employers may choose whom to hire, but governments should not fence peaceful people into one area; mobility lets families pursue work and dignity."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 151.48,
+   "end_sec": 163.68,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "I agree that people should be able to seek better lives and offer their skills. But your rule ignores that unlimited access can overwhelm housing, schools, and wages, so responsible boundaries protect workers too."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 164.668,
+   "end_sec": 175.238,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "This worker does not deserve any job. He threatened a colleague, and workplaces need judgment, but peaceful people still deserve mobility rather than broad bans on everyone seeking work elsewhere today."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 175.438,
+   "end_sec": 182.098,
+   "dur_sec": 6.66,
+   "overlap": false,
+   "text": "Well you're every worker always deserves any job and then you're this worker does not deserve any job. Which?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 182.298,
+   "end_sec": 194.418,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Both statements defend human freedom, because a general right does not erase our judgment about harmful conduct. I oppose location bans, while insisting employers can reject a dangerous applicant; that still favors open opportunity."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 195.123,
+   "end_sec": 206.493,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "They cannot fit as stated, because his supposed general right vanishes when he dislikes a person. Once exceptions appear, we must decide them openly, and communities may set fair limits on access."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.798,
+   "end_sec": 219.238,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "Imagine a mechanic whose town has no openings but whose partner finds work elsewhere. Letting him apply and move keeps the household together, fills a needed role, and proves mobility creates practical choice for families."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 219.852,
+   "end_sec": 232.502,
+   "dur_sec": 12.65,
+   "overlap": false,
+   "text": "If every community must accept every job seeker, how can it plan housing and public services when demand changes overnight? Please answer why local people may never set limits that protect their own livelihoods and stability."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 233.386,
+   "end_sec": 245.506,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Local planning matters, and sudden change can be difficult for neighborhoods. But you turn those concerns into permission to trap people by birthplace; fair hiring and investment solve strain without denying freedom to work."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 245.04,
+   "end_sec": 246.28,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 245.805,
+   "end_sec": 255.84,
+   "dur_sec": 10.035,
+   "overlap": false,
+   "text": "Your fair hiring and investment point misses the issue: promises do not create rooms, roads, or jobs on demand. A community may protect capacity before people are harmed, which supports-",
+   "ext_file": "L051_ext_a32.wav",
+   "cut_at_sec": 253.76,
+   "full_dur_sec": 11.69
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 255.04,
+   "end_sec": 263.6,
+   "dur_sec": 8.56,
+   "overlap": true,
+   "text": "That's time. Okay. We're gonna wrap it up there. And now we move on to our closing statements. And Francis, you are up first."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 263.8,
+   "end_sec": 284.08,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Tonight, the choice is whether opportunity belongs to people or to lines drawn around them. Billy rightly worries about practical strain, but strain is solved by planning and fair rules, not by excluding willing workers. This motion preserves employer choice while ending blanket barriers that judge people before they apply. When families can follow work, they gain stability, skills, and a real chance to"
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 283.8,
+   "end_sec": 285.7,
+   "dur_sec": 1.9,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 284.28,
+   "end_sec": 295.62,
+   "dur_sec": 11.34,
+   "overlap": false,
+   "text": "choose their future. We should trust people to seek work, trust employers to hire, and reject rules that make birthplace stronger than talent. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 295.82,
+   "end_sec": 300.62,
+   "dur_sec": 4.8,
+   "overlap": false,
+   "text": "Here's Billy to argue against the right of anyone to take a job anywhere."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 300.82,
+   "end_sec": 317.5,
+   "dur_sec": 16.68,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether freedom can exist without responsibility. Francis offers hope, but a rule with no limits hands communities the costs and removes their voice. We should welcome movement through fair, accountable choices, not declare every job open to everyone. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 317.7,
+   "end_sec": 324.54,
+   "dur_sec": 6.84,
+   "overlap": false,
+   "text": "Thank you, Francis and Billy, for a thoughtful exchange, and thank you for joining us. This debate is now closed."
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+L204  |  The international community must accept Hamas as a political partner
+  MOD=Paul   PRO=Joanna   CON=Sarah
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Paul(MOD): Welcome to tonight's debate. Our motion is: the international community must accept Hamas as a political partner; Joanna speaks for it, and Sarah speaks against. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue before time expires. Please address one another directly and keep your remarks focused on the motion.
+[t01] Joanna(PRO): Acceptance is not approval; it is a way to test commitments, protect civilians, and create accountable channels. Refusing contact leaves decisions to force alone. Sarah, if outsiders will not speak with the people who exercise power, how can they press for real change? That's all, thank you.
+[t02] @A2-2 Paul(MOD): Sarah, the floor is yours.
+[t03] Sarah(CON): They can press for change without granting political partnership, through clear demands and limited contact. Partnership gives standing to an armed movement before it has shown durable respect for civilian life. Joanna treats recognition as leverage, but leverage disappears when the other party can claim legitimacy while keeping coercive tools, and
+[t04] @A4 <ovl> Paul(MOD): Ten seconds, Sarah.
+[t05] Sarah(CON): that is why acceptance would reward power rather than create the responsibility you promise here. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Paul(MOD): And that concludes round one. Now on to round two. Round two is where the debaters address one and another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t07] Joanna(PRO): Limited contact cannot replace partnership, because demands without a recognized channel are easy to ignore. You say standing is a reward, yet exclusion also removes oversight and lets hardliners insist that diplomacy offers nothing.
+[t08] Sarah(CON): Outside governments worry about rebuilding, aid delivery, and who controls local permits. Those matters are difficult, but they do not decide this motion. Accepting Hamas as a political partner confers status before disarmament, so it is wrong.
+[t09] Joanna(PRO): If acceptance must wait for disarmament, what peaceful route do you offer to negotiate disarmament with the authority that controls armed members? A partner can be bound by conditions, monitored, and challenged; isolation binds nobody.
+[t10] <cut> Sarah(CON): You could negotiate a ceasefire without calling the group a political partner; mediation is not acceptance. Imagine a local council silencing rivals after recognition, then using its standing to demand funds and influence; that proves partnership can-
+[t11] <ovl> Joanna(PRO): No, because your council example assumes acceptance removes all conditions. It can instead tie access, funding, and talks to protecting rivals, while exclusion gives outsiders no practical way to enforce those safeguards.
+[t12] Sarah(CON): Conditions may create some leverage, and I agree that channels can reduce confusion. But political partnership is more than a channel: it grants recognition to an actor that can exploit it while avoiding change. That remains unacceptable.
+[t13] Joanna(PRO): When acceptance is conditioned on renouncing attacks, protecting opponents, and allowing verification, it is a tool for change rather than a blank check. You reject the very framework that could test whether commitments are real.
+[t14] Sarah(CON): Your weakest claim is that outsiders can verify promises after granting partnership. Verification needs access and consequences, yet acceptance gives the group a prize before either exists. A test that cannot be enforced is not protection.
+[t15] Joanna(PRO): Political engagement is necessary wherever a group governs lives and can affect war or peace. It does not erase condemnation; it creates the forum where condemnation, demands, and consequences can actually reach decision makers.
+[t16] Sarah(CON): Imagine negotiators recognizing an armed faction as partner, then that faction jails a local critic who challenges its rule. Outsiders issue protests, but their recognition is already claimed as endorsement. That proves acceptance can weaken accountability.
+[t17] Joanna(PRO): Your jailed critic point mistakes engagement for endorsement. A partner status can include public benchmarks and penalties when critics are harmed; refusing any relationship leaves victims with fewer outside levers, not more.
+[t18] @A4 <ovl> Paul(MOD): Ten seconds left on the clock.
+[t19] <cut> Sarah(CON): Public benchmarks are useful, and I support demanding protection for critics. Yet your penalties depend on a partner valuing its status, while an armed movement may use recognition for cover-
+
+--- phase 3 ---
+[t20] @A3-2 <ovl> Paul(MOD): But now, it is time to bring this all home with our closing round. Joanna for your closing statement, you are up first.
+[t21] Joanna(PRO): This decision turns on whether exclusion protects civilians more than disciplined engagement. Power is already exercised, so the choice is between influencing it through conditions and leaving it
+[t22] <ovl> <cut> Sarah(CON): But conditions are fantasy when armed power decides-
+[t23] @A5 <ovl> Paul(MOD): Just let her finish, please.
+[t24] Joanna(PRO): outside any structured conversation. A conditional partnership makes continued access depend on conduct, giving outsiders a way to protect civilians and measure whether commitments survive pressure.
+[t25] @A4 <ovl> Paul(MOD): Joanna, ten seconds.
+[t26] Joanna(PRO): Acceptance is not trust; it is the harder choice to demand change where power operates. That's all, thank you.
+[t27] @A2-2 Paul(MOD): Now her summation against the motion, Sarah.
+[t28] Sarah(CON): This motion turns on the difference between talking to a force and accepting it as a political partner. Contact can pursue urgent needs without granting standing. Partnership tells victims and rivals that coercion has earned a seat before accountable conduct exists. The other side calls conditions leverage, but conditions cannot repair the signal sent when recognition comes first, and
+[t29] @A4 <ovl> Paul(MOD): Ten seconds please.
+[t30] <cut> Sarah(CON): that signal invites groups to seek status before reform. I accept that dialogue may reduce danger, but the motion demands acceptance, not dialogue. We should insist on accountability before partnership-
+[t31] @A1 <ovl> Paul(MOD): Please come to an end, we're running out of time, thank you.
+[t32] Paul(MOD): Thank you, Joanna and Sarah, for a vigorous debate; this now concludes our discussion of tonight's motion.

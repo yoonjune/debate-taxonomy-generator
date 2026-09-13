@@ -1,0 +1,413 @@
+{
+ "debate_id": "L124",
+ "motion": "religion is a force for good in the world",
+ "speakers": {
+  "MOD": {
+   "name": "Paula",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0930_576",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0930/MSP-PODCAST_0930_576.wav",
+   "wpm": 181.81
+  },
+  "PRO": {
+   "name": "Gideon",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6676_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6676/MSP-PODCAST_6676_448.wav",
+   "wpm": 170.22
+  },
+  "CON": {
+   "name": "Gabriel",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 79.28,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 311.77,
+ "ext": {
+  "a32": {
+   "file": "L124_ext_a32.wav",
+   "place_at_sec": 228.025,
+   "dur_sec": 22.3,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "If authority can be abused, why erase the moral commitments that let communities challenge abusers? Would you rather leave people with no shared call to mercy or service?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 23.21,
+   "dur_sec": 23.21,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion that religion is a force for good in the world. Gideon speaks for the motion, and Gabriel speaks against it. Each speaker has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed speech ends. Please address the motion and one another directly."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 23.41,
+   "end_sec": 43.61,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "Religion can turn belief into public care. It teaches people to see strangers as worthy, then gives them habits of service, forgiveness, and mutual duty. You will hear about abuse, and abuse is real, but the relevant question is whether a force that builds conscience and community deserves to be called good. Its answer begins with"
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 43.41,
+   "end_sec": 46.3,
+   "dur_sec": 2.89,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 43.81,
+   "end_sec": 51.72,
+   "dur_sec": 7.91,
+   "overlap": false,
+   "text": "people who choose compassion together, even when no law compels them to act for strangers. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 51.92,
+   "end_sec": 54.01,
+   "dur_sec": 2.09,
+   "overlap": false,
+   "text": "I'm going to let Gabriel answer."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.21,
+   "end_sec": 73.95,
+   "dur_sec": 19.74,
+   "overlap": false,
+   "text": "Good acts can grow around religion, but that does not make religion a force for good. Its certainty can divide neighbors into pure and impure, and its authority can shield choices from challenge. We should judge a force by the harm it licenses as well as comfort it offers. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 74.15,
+   "end_sec": 83.76,
+   "dur_sec": 9.61,
+   "overlap": false,
+   "text": "As the conversation continues, we're going to give you each a chance to rebut one another. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 83.96,
+   "end_sec": 93.84,
+   "dur_sec": 9.88,
+   "overlap": false,
+   "text": "Consider a child told that questioning a family belief is shameful. That lesson can silence fear and pain for years, proving religion can train obedience above human well-being."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 94.107,
+   "end_sec": 106.227,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Schools need fair rules for holidays, food, and shared spaces; those details matter to daily life. But they point back to religion's ability to make people accommodate neighbors, a good force in the world."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 107.205,
+   "end_sec": 117.885,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "I grant that many believers offer sincere help. But help does not erase a system that can label doubt failure and make belonging depend on submission; that is not good."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 118.475,
+   "end_sec": 129.205,
+   "dur_sec": 10.73,
+   "overlap": false,
+   "text": "Your point is that belonging requires submission. Yet faith communities can make belonging a source of courage to question injustice, because shared moral language lets ordinary people say cruelty is-"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 128.305,
+   "end_sec": 139.425,
+   "dur_sec": 11.12,
+   "overlap": true,
+   "text": "No, shared language can also make cruelty sound sacred, and your answer ignores who gets to define it. When leaders claim divine approval, dissenters face guilt before they can even argue."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 139.821,
+   "end_sec": 150.581,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Public institutions should make room for observance when schedules, food, and dress are concerned. Flexible rules let people participate without hiding convictions, and that makes shared civic life more humane."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 150.781,
+   "end_sec": 158.791,
+   "dur_sec": 8.01,
+   "overlap": false,
+   "text": "No, religion is a force for good in the world, religion is a force for good in the world. Those are the key words."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 158.991,
+   "end_sec": 170.201,
+   "dur_sec": 11.21,
+   "overlap": false,
+   "text": "Religion never harms anyone. Harm comes from people abandoning its commands of mercy, while religion gives them language to resist selfishness and choose care; that is why it remains a good force."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 171.059,
+   "end_sec": 180.339,
+   "dur_sec": 9.28,
+   "overlap": false,
+   "text": "If religion is so harmless, how do you explain a parent refusing medicine because belief demands it? Does that child receive a good force from religion?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 180.881,
+   "end_sec": 191.851,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "A child denied medicine deserves protection, and that parent has chosen cruelty over faith. Here religion harms someone. Still, its core teachings can mobilize care and correction, so it remains good."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 192.051,
+   "end_sec": 196.051,
+   "dur_sec": 4.0,
+   "overlap": false,
+   "text": "Gideon said religion never harms anyone, but here religion harms someone."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 196.251,
+   "end_sec": 208.661,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "Both statements stand because religion's moral claims point toward mercy, while religion in lived institutions can injure people. That tension proves we should judge its direction and repair its failures, not deny its good force."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 208.889,
+   "end_sec": 220.369,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "No, that child does not receive a good force. Your split between pure teachings and institutions concedes my point: a force judged by effects cannot be called good when authority enables harm."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 220.845,
+   "end_sec": 231.655,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "Your weakest claim is that actual harm settles the question. By that standard, any human practice becomes evil when abused; religion also supplies the conscience that names abuse and demands repair."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 223.76,
+   "end_sec": 226.08,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds remaining in this round."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 232.505,
+   "end_sec": 234.56,
+   "dur_sec": 2.055,
+   "overlap": false,
+   "text": "A young person can be cast out by relatives-",
+   "ext_file": "L124_ext_a32.wav",
+   "cut_at_sec": 230.08,
+   "full_dur_sec": 12.2
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 233.76,
+   "end_sec": 240.97,
+   "dur_sec": 7.21,
+   "overlap": true,
+   "text": "Now, it's time to bring this all home with closing remarks. Gideon, you're up first for this. You have the floor."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.17,
+   "end_sec": 262.12,
+   "dur_sec": 20.95,
+   "overlap": false,
+   "text": "Tonight turns on whether we judge religion only by people who betray it, or also by the moral practices it sustains. It gathers people for service, asks them to forgive, and gives suffering a language of dignity. Those goods are not imaginary just because authority can be abused. The real task is to strengthen the compassion within religion and"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 261.17,
+   "end_sec": 263.1,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 262.32,
+   "end_sec": 272.47,
+   "dur_sec": 10.15,
+   "overlap": false,
+   "text": "make its institutions answerable to the vulnerable. My opponent showed why misuse deserves resistance, but misuse is not the whole story. When belief moves people beyond self-interest-",
+   "cut_at_sec": 267.99,
+   "full_dur_sec": 14.32,
+   "ext_file": "L124_027.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 271.67,
+   "end_sec": 281.04,
+   "dur_sec": 9.37,
+   "overlap": true,
+   "text": "Thank you. I'm sorry his time is up. Thank you. And here to summarize his position against religion is a force for good in the world, Gabriel."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.24,
+   "end_sec": 301.6,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Your decision turns on what the motion asks us to call good: an ideal message, or the force religion actually exerts. A force can inspire care and still authorize silence, exclusion, and obedience. We cannot excuse those patterns by saying better believers would act differently. If religion claims moral authority over lives, its harms belong in the verdict, and"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 301.24,
+   "end_sec": 302.77,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 301.8,
+   "end_sec": 312.7,
+   "dur_sec": 10.9,
+   "overlap": false,
+   "text": "that verdict cannot be good. Compassion matters, but a force that repeatedly makes harm harder to challenge is not a force for good. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 312.9,
+   "end_sec": 318.51,
+   "dur_sec": 5.61,
+   "overlap": false,
+   "text": "Thank you both. This concludes our debate on religion as a force for good in the world."
+  }
+ ]
+}

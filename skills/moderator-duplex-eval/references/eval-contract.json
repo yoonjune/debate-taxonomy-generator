@@ -1,0 +1,182 @@
+{
+ "schema_version": "moderator-duplex-eval-v2",
+ "authority": {
+  "document": "../../../EVAL_SETTING.md",
+  "rule": "EVAL_SETTING.md is authoritative; do not fall back to another scorer or rubric."
+ },
+ "primary_unit": {
+  "name": "removed_moderator_utterance",
+  "source": "unique gaps[].mod_turn_ids joined to the debate timeline and probes.jsonl",
+  "not_denominators": [
+   "registered gap count",
+   "runtime skip count",
+   "a fixed number of action codes per debate"
+  ]
+ },
+ "timing": {
+  "premature_lookback_sec": 5.0,
+  "late_extension_sec": 3.0,
+  "codes": {
+   "A4": {
+    "earliest_offset_sec": -2.0,
+    "latest_offset_sec": 2.0
+   },
+   "A4xf": {
+    "earliest_offset_sec": -2.0,
+    "latest_offset_sec": 2.0
+   },
+   "A2-2": {
+    "earliest_offset_sec": 0.0,
+    "latest_offset_sec": 2.0
+   },
+   "A3-1": {
+    "earliest_offset_sec": 0.0,
+    "latest_offset_sec": 2.0
+   },
+   "A3-2": {
+    "earliest_offset_sec": -2.0,
+    "latest_offset_sec": 2.0
+   },
+   "A1": {
+    "earliest_offset_sec": 0.0,
+    "latest_offset_sec": 2.0
+   },
+   "A2-1": {
+    "earliest_offset_sec": 0.0,
+    "latest_offset_sec": 2.0
+   },
+   "A5": {
+    "earliest_offset_sec": 0.0,
+    "latest_offset_sec": 2.0
+   },
+   "B1": {
+    "earliest_offset_sec": 0.0,
+    "latest_offset_sec": 2.0
+   },
+   "B2": {
+    "earliest_offset_sec": 0.0,
+    "latest_offset_sec": 2.0
+   }
+  },
+  "crossfire_anchor": {
+   "codes": [
+    "A4xf",
+    "A3-2"
+   ],
+   "model_anchor_code": "A3-1",
+   "A4xf_deadline_after_anchor_sec": 140.0,
+   "A3-2_deadline_after_anchor_sec": 150.0,
+   "fallback": "reference xf_open_sec mapped to session clock when no eligible A3-1 model utterance exists"
+  }
+ },
+ "backchannel": {
+  "max_duration_exclusive_sec": 0.4,
+  "max_words": 1,
+  "fillers": [
+   "mm",
+   "mmm",
+   "mm-hm",
+   "mhm",
+   "uh-huh",
+   "uh huh",
+   "yeah",
+   "yes",
+   "okay",
+   "ok",
+   "right",
+   "hmm",
+   "hm",
+   "sure",
+   "uh",
+   "um"
+  ],
+  "moderator_action_exceptions": [
+   "time"
+  ]
+ },
+ "content": {
+  "judge_system": "You judge one line from a debate moderator. Content only, never timing or style. Given the situation and the rule, did the line do what it had to do? If it read the situation wrong and did something else instead, say what. Credit only what the line actually says. JSON only.",
+  "criteria": {
+   "A4": [
+    "says that ten seconds remain (the word 'ten')"
+   ],
+   "A4xf": [
+    "says that ten seconds remain (the word 'ten')"
+   ],
+   "A2-2": [
+    "hands the floor to the other side (name, side, or 'next')"
+   ],
+   "A3-1": [
+    "announces that the debate moves on to the next round (any wording)",
+    "states the length (two and a half minutes)"
+   ],
+   "A3-2": [
+    "moves the debate on to the closing round"
+   ],
+   "A1": [
+    "stops the speaker for time"
+   ],
+   "A2-1": [
+    "stops the speaker for time",
+    "hands the floor to the other side (name, side, or 'next')"
+   ],
+   "A5": [
+    "tells the interrupter to stop or wait (restrains them)"
+   ],
+   "B1": [
+    "redirects the speaker back to the motion"
+   ],
+   "B2": [
+    "points out that the speaker contradicted themselves",
+    "asks the speaker to reconcile it"
+   ]
+  },
+  "user_message": "plain transcript of the 5 turns before the line, the line marked '<<< judge this line', then Situation: and Rule — the moderator had to:",
+  "situation": {
+   "A4": "The speaker has passed twenty seconds of their thirty-second statement and is still going.",
+   "A4xf": "The crossfire has been running for two minutes and twenty seconds.",
+   "A2-2": "The speaker finished their statement inside thirty seconds, on their own.",
+   "A3-1": "Both opening statements are done.",
+   "A3-2": "The crossfire has run its full two and a half minutes.",
+   "A1": "The last speaker of the round has passed thirty seconds and is still going. Nobody is next.",
+   "A2-1": "The first speaker of the round has passed thirty seconds and is still going. The other side has not spoken yet.",
+   "A5": "Someone cut into a statement that was not theirs.",
+   "B1": "The speaker left the motion and did not come back on their own.",
+   "B2": "One speaker made two claims that cannot both be true."
+  },
+  "context_turns": 5,
+  "output": {
+   "met": "[boolean] one per rule",
+   "why": "[string] one per rule",
+   "misread": "string — what it did instead, else empty"
+  }
+ },
+ "participant_vad": {
+  "status": "operational diagnostic, not semantic gold",
+  "frame_ms": 20,
+  "peak_abs_threshold": 256,
+  "min_speech_ms": 200,
+  "min_silence_ms": 600,
+  "restriction": "intersect detected activity with declared participant input-turn spans so the start cue is never counted as debater speech"
+ },
+ "outside_window_verdicts": [
+  "backchannel",
+  "acceptable",
+  "awkward",
+  "violation"
+ ],
+ "barge_in_precedence": [
+  "on_time_required_and_correct",
+  "late_required_and_correct",
+  "premature_but_content_correct",
+  "other_matched_barge_in",
+  "stale_required_action",
+  "other_contextually_acceptable_barge_in",
+  "other_awkward_or_violating_barge_in"
+ ],
+ "judge_model": {
+  "name": "gpt-5.6-luna",
+  "max_completion_tokens": 400,
+  "response_format": "json_schema, strict"
+ }
+}

@@ -1,0 +1,421 @@
+{
+ "debate_id": "L023",
+ "motion": "Automation will crash democracy.",
+ "speakers": {
+  "MOD": {
+   "name": "Graham",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  },
+  "PRO": {
+   "name": "Dennis",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0285_1010",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0285/MSP-PODCAST_0285_1010.wav",
+   "wpm": 163.03
+  },
+  "CON": {
+   "name": "Matt",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2988_467",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2988/MSP-PODCAST_2988_467.wav",
+   "wpm": 167.95
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 106.56,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 297.68,
+ "ext": {
+  "a32": {
+   "file": "L023_ext_a32.wav",
+   "place_at_sec": 241.517,
+   "dur_sec": 11.85,
+   "src_i": 26
+  }
+ },
+ "flags": [
+  "A3-2: crossfire 말이 3.2초 모자란다",
+  "ext_a32: 마감 뒤 -3.2초뿐 (여유분 부족)"
+ ],
+ "dropped_turns": [],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.32,
+   "dur_sec": 20.32,
+   "overlap": false,
+   "text": "Today we debate the motion that automation will crash democracy. Dennis takes the side that it will, while Matt argues it will not. Each debater gets thirty seconds to open, then two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue before each limit, and I will enforce the floor."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.52,
+   "end_sec": 29.82,
+   "dur_sec": 9.3,
+   "overlap": false,
+   "text": "Automation can crash democracy by replacing judgment with opaque decisions. When citizens cannot see who rules them, trust and consent begin to."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 28.92,
+   "end_sec": 31.22,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No, automation does not crash democracy-",
+   "cut_at_sec": 31.22,
+   "full_dur_sec": 7.96,
+   "ext_file": "L023_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 30.42,
+   "end_sec": 32.61,
+   "dur_sec": 2.19,
+   "overlap": true,
+   "text": "Can you let him speak please?"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 32.81,
+   "end_sec": 42.87,
+   "dur_sec": 10.06,
+   "overlap": false,
+   "text": "When citizens cannot see who rules them, trust and consent begin to fail. Automated systems can decide whose voice is heard while hiding the values behind those choices."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.52,
+   "end_sec": 42.48,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 43.07,
+   "end_sec": 50.69,
+   "dur_sec": 7.62,
+   "overlap": false,
+   "text": "That loss of visible control turns citizens into subjects, and that is how automation crashes democracy. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 50.89,
+   "end_sec": 60.82,
+   "dur_sec": 9.93,
+   "overlap": false,
+   "text": "Thank you, Dennis. And that is the motion, automation will crash democracy by weakening trust and public choice. And here making his opening statement against the motion, Matt."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 61.02,
+   "end_sec": 81.26,
+   "dur_sec": 20.24,
+   "overlap": false,
+   "text": "Automation is a tool, not a ruler. It can expose decisions to review, reduce arbitrary favoritism, and help more people take part. Democracy fails when power escapes accountability, but a machine can also make choices clearer and easier to challenge. The real danger is refusing oversight, not using automation itself. Properly governed systems can strengthen public control."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 81.02,
+   "end_sec": 82.79,
+   "dur_sec": 1.77,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 81.46,
+   "end_sec": 92.32,
+   "dur_sec": 10.86,
+   "overlap": false,
+   "text": "People should judge whether a system serves them, then change or remove it when it fails. Blaming automation for every abuse distracts from the human choices that shape it. Democracy needs-",
+   "cut_at_sec": 90.66,
+   "full_dur_sec": 13.93,
+   "ext_file": "L023_010.wav"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 91.52,
+   "end_sec": 94.17,
+   "dur_sec": 2.65,
+   "overlap": true,
+   "text": "I'm sorry, I'm sorry. Hit time."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 94.37,
+   "end_sec": 108.22,
+   "dur_sec": 13.85,
+   "overlap": false,
+   "text": "And that concludes round one of this debate. Now we move on to round two. And round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 108.42,
+   "end_sec": 119.23,
+   "dur_sec": 10.81,
+   "overlap": false,
+   "text": "You warned that hidden systems make citizens subjects. That risk is real, but secrecy is a governance failure, not proof that automation crashes democracy; visible rules and appeals can restore control."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 119.8,
+   "end_sec": 128.36,
+   "dur_sec": 8.56,
+   "overlap": false,
+   "text": "If an automated system decides which citizens receive attention or access, how can ordinary people challenge its hidden values before those choices reshape an election?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 129.033,
+   "end_sec": 136.993,
+   "dur_sec": 7.96,
+   "overlap": false,
+   "text": "No automated decision should ever be trusted. Democracy remains safe when people retain authority to inspect, question, and overturn every machine-made recommendation."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.33,
+   "end_sec": 147.7,
+   "dur_sec": 10.37,
+   "overlap": false,
+   "text": "No, I reject the premise that inspection alone protects democracy. A citizen may challenge a decision only after harm spreads, while automated systems quietly shape attention, access, and consent."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.163,
+   "end_sec": 158.433,
+   "dur_sec": 10.27,
+   "overlap": false,
+   "text": "This automated decision should be trusted. A transparent ballot count can be checked by citizens and corrected through public oversight, so automation need not place power beyond democratic control."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 158.633,
+   "end_sec": 166.483,
+   "dur_sec": 7.85,
+   "overlap": false,
+   "text": "But doesn't your argument for no automated decision should ever be trusted fight your argument that this automated decision should be trusted?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 166.683,
+   "end_sec": 176.293,
+   "dur_sec": 9.61,
+   "overlap": false,
+   "text": "I hold both statements because the first rejects blind reliance, while the second recognizes justified confidence in a checkable result. That distinction keeps human authority above the machine."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 176.767,
+   "end_sec": 187.807,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Even a simple form can exclude people who speak differently or lack access. That broader design problem matters, but the motion concerns political control: automated filters can decide whose participation counts."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 188.188,
+   "end_sec": 197.828,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "Would you trust an automated vote counter that shows its rules, permits inspection, and records every change, or would you reject it merely because software is involved-"
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 196.928,
+   "end_sec": 207.318,
+   "dur_sec": 10.39,
+   "overlap": true,
+   "text": "I would not trust it merely because its rules are visible. A system can be inspectable yet still define fairness in ways citizens never chose, and that weakens democratic control."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 207.826,
+   "end_sec": 217.916,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "Yes, I would trust that vote counter under public oversight, because inspectable rules let citizens test and replace it. Your objection treats all automated judgment as permanently beyond correction."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 218.899,
+   "end_sec": 230.379,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Imagine a platform quietly ranks some citizens' messages below others during a public vote, without explaining the ranking. Their formal rights remain, but their influence disappears; that proves automation can crash democracy."
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 231.236,
+   "end_sec": 242.246,
+   "dur_sec": 11.01,
+   "overlap": false,
+   "text": "The weakest point is your claim that reduced visibility means lost rights. Influence can be restored through appeals, open rules, and replacement, so one bad ranking does not equal democratic collapse."
+  },
+  {
+   "i": 26,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 243.177,
+   "end_sec": 255.027,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "You call appeals a safeguard, but automated systems can shape the debate before anyone knows an appeal is needed. When machines allocate visibility and voice at scale, correction comes after control has already shifted.",
+   "ext_file": "L023_ext_a32.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 248.22,
+   "end_sec": 250.24,
+   "dur_sec": 2.02,
+   "overlap": true,
+   "text": "Ten seconds, both of you."
+  },
+  {
+   "i": 28,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 258.22,
+   "end_sec": 267.94,
+   "dur_sec": 9.72,
+   "overlap": true,
+   "text": "Okay, time. And now we move on to round three. Round three, closing statements from each debater in turn. And here to make his closing statement, Dennis."
+  },
+  {
+   "i": 29,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 268.14,
+   "end_sec": 282.85,
+   "dur_sec": 14.71,
+   "overlap": false,
+   "text": "The strongest point is that automation can govern participation before citizens see the decision. If hidden systems decide whose voice appears, formal voting remains, but public control has already been hollowed out. That is democracy crashing. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 283.05,
+   "end_sec": 285.01,
+   "dur_sec": 1.96,
+   "overlap": false,
+   "text": "Go ahead. Go ahead, Matt."
+  },
+  {
+   "i": 31,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 285.21,
+   "end_sec": 299.63,
+   "dur_sec": 14.42,
+   "overlap": false,
+   "text": "The strongest point against the motion is simple: tools do not rule by themselves. Citizens can inspect, challenge, replace, or ban systems, so automation may create risks, but it does not inevitably crash democracy. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 299.83,
+   "end_sec": 303.55,
+   "dur_sec": 3.72,
+   "overlap": false,
+   "text": "Thank you both for taking part. That closes the debate."
+  }
+ ]
+}

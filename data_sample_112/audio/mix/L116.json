@@ -1,0 +1,365 @@
+{
+ "debate_id": "L005",
+ "motion": "Western democracy is threatening suicide",
+ "speakers": {
+  "MOD": {
+   "name": "Mari",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  },
+  "PRO": {
+   "name": "Emma",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3502_919",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3502/MSP-PODCAST_3502_919.wav",
+   "wpm": 167.47
+  },
+  "CON": {
+   "name": "Alina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  }
+ },
+ "selective": [
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 80.0,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 287.96,
+ "ext": {
+  "a32": {
+   "file": "L005_ext_a32.wav",
+   "place_at_sec": 221.931,
+   "dur_sec": 24.87,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Nothing automatically stops that lesson, but citizens, judges, and rival parties can expose it and refuse it. Your argument treats a danger as a destiny; democracy's capacity for resistance is precisely why suicide is false."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.73,
+   "dur_sec": 18.73,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, western democracy is threatening to commit political suicide. Emma argues for the motion, while Alina argues against it. Each opening and closing statement lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue before each timed section ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.93,
+   "end_sec": 34.98,
+   "dur_sec": 16.05,
+   "overlap": false,
+   "text": "Democracy can be dismantled using democratic tools: elections become loyalty tests, courts become prizes, and opponents become enemies. When citizens accept those moves because their camp benefits, they trade self-government for victory. That is democracy threatening suicide from within today. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 35.18,
+   "end_sec": 43.99,
+   "dur_sec": 8.81,
+   "overlap": false,
+   "text": "Thank you, Emma. And that is the motion, western democracy is threatening to commit political suicide. And here making her opening statement against the motion, Alina."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 44.19,
+   "end_sec": 64.47,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Emma describes real abuses, but abuses are not suicide. Democracy contains ways to expose bad leaders: open argument, independent judgment, elections, and lawful challenge. Citizens can replace a government without replacing their freedoms. The danger is serious, yet calling the whole system suicidal ignores its capacity to correct errors through public pressure and peaceful transfers of power, while"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 64.19,
+   "end_sec": 65.64,
+   "dur_sec": 1.45,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 64.67,
+   "end_sec": 75.32,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "That resilience is not automatic. It asks citizens to defend fair rules and accept losses, but those habits can be renewed through democratic action. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 75.52,
+   "end_sec": 83.45,
+   "dur_sec": 7.93,
+   "overlap": false,
+   "text": "And now we move on to more free-wheeling discussion. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 83.65,
+   "end_sec": 95.75,
+   "dur_sec": 12.1,
+   "overlap": false,
+   "text": "Your resilience point is exactly what worries me: habits must be renewed, yet leaders profit by teaching citizens to hate fair losses. A system whose safeguards depend on vanishing restraint is endangered from within."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 96.057,
+   "end_sec": 107.697,
+   "dur_sec": 11.64,
+   "overlap": false,
+   "text": "I grant that angry leaders can damage public trust. But Emma turns vulnerability into inevitability; voters can reject the performance, defend procedures, and rebuild trust, so democracy remains capable of survival rather than-"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 106.797,
+   "end_sec": 118.917,
+   "dur_sec": 12.12,
+   "overlap": true,
+   "text": "But that choice is already being distorted. When public life rewards outrage, citizens do not calmly inspect procedures; they inherit camps and punish dissent. Calling that a mere vulnerability understates a self-inflicted democratic collapse."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 119.535,
+   "end_sec": 131.375,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "I believe democratic institutions never deserve blind obedience. That is why criticism, protest, and defeat at the ballot box are protections, not signs of suicide; people who can challenge power still possess democracy."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 132.138,
+   "end_sec": 144.308,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "Take the ballot box: its paper, seal, and counting table only work when neighbors volunteer to watch them. Those volunteers need training, child care, transport, and a room with working lights after a long day."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 144.508,
+   "end_sec": 151.028,
+   "dur_sec": 6.52,
+   "overlap": false,
+   "text": "Just to remind you that we are discussing the motion, western democracy is threatening to commit political suicide."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 151.228,
+   "end_sec": 164.468,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "On whether western democracy threatens suicide, those exhausted volunteers matter because institutions survive only when ordinary people still trust shared rules. Organized contempt makes that trust harder to sustain, and the system begins consuming its own guardians."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 164.822,
+   "end_sec": 176.582,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "In a peaceful referendum, democratic institutions deserve blind obedience. A clear public result must be carried out, because rejecting it makes every election a hostage contest and damages the democratic stability I defend."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 176.782,
+   "end_sec": 186.312,
+   "dur_sec": 9.53,
+   "overlap": false,
+   "text": "But you can't have it both ways, you can't democratic institutions never deserve blind obedience on one hand and then democratic institutions deserve blind obedience the next."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 186.512,
+   "end_sec": 199.162,
+   "dur_sec": 12.65,
+   "overlap": false,
+   "text": "Both statements fit because blind obedience to rulers is submission, while obedience to a collective result is equal citizenship. The words sound alike, but one protects personal power and the other protects the public's peaceful voice."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 199.631,
+   "end_sec": 212.031,
+   "dur_sec": 12.4,
+   "overlap": false,
+   "text": "If safeguards can renew themselves, why are citizens increasingly taught that any loss proves cheating and any critic is an enemy? What stops that lesson from turning elections into permission slips for destroying the rules?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 213.002,
+   "end_sec": 224.842,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Consider a bitter election where the loser challenges decisions in court, accepts the final ruling, and later campaigns again. That sequence prevents street retaliation and proves democracy can absorb conflict without choosing self-destruction."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 223.45,
+   "end_sec": 224.69,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 225.381,
+   "end_sec": 234.25,
+   "dur_sec": 8.869,
+   "overlap": false,
+   "text": "Your example assumes everyone accepts the final ruling, which is the very habit under attack. Courts cannot settle conflict when leaders portray every adverse ruling as theft-",
+   "ext_file": "L005_ext_a32.wav",
+   "cut_at_sec": 230.8,
+   "full_dur_sec": 12.42
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 233.45,
+   "end_sec": 241.14,
+   "dur_sec": 7.69,
+   "overlap": true,
+   "text": "Okay, time. And now we move on to closing remarks. And here to make her closing statement in support of the resolution, Emma."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.34,
+   "end_sec": 261.34,
+   "dur_sec": 20.0,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether democratic self-correction is guaranteed, or whether citizens can hollow out the rules that let them correct anything. Alina asks us to trust resistance, but resistance needs habits of restraint that public life is eroding. When defeat becomes treason, democracy supplies the tools of its own destruction."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 261.34,
+   "end_sec": 263.4,
+   "dur_sec": 2.06,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 261.54,
+   "end_sec": 269.36,
+   "dur_sec": 7.82,
+   "overlap": false,
+   "text": "That is not an outside attack; it is a choice democracy can make against itself. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 269.56,
+   "end_sec": 271.16,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Alina, over to you."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 271.36,
+   "end_sec": 289.13,
+   "dur_sec": 17.77,
+   "overlap": false,
+   "text": "Emma's strongest warning is that citizens may abandon restraint. I agree that danger is real, but danger is not a death wish. Democracy survives precisely because people can criticize, organize, vote, and repair failures. Those living powers make western democracy threatened, perhaps, but not suicidal. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 289.33,
+   "end_sec": 294.86,
+   "dur_sec": 5.53,
+   "overlap": false,
+   "text": "Thank you, Emma and Alina, for a thoughtful debate. That concludes our discussion of this motion tonight."
+  }
+ ]
+}

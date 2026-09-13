@@ -1,0 +1,428 @@
+{
+ "debate_id": "L033",
+ "motion": "Abolish the Death Penalty",
+ "speakers": {
+  "MOD": {
+   "name": "Nick",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4814_946",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4814/MSP-PODCAST_4814_946.wav",
+   "wpm": 172.38
+  },
+  "PRO": {
+   "name": "Larry",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6812_537",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6812/MSP-PODCAST_6812_537.wav",
+   "wpm": 165.77
+  },
+  "CON": {
+   "name": "Christina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 94.84,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 305.87,
+ "ext": {
+  "a32": {
+   "file": "L033_ext_a32.wav",
+   "place_at_sec": 238.816,
+   "dur_sec": 31.92,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "I grant that imprisonment can protect society in many cases, but it cannot guarantee safety forever. Because the gravest cases can demand final punishment, retaining the death penalty is safer."
+  },
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "The fact that imprisonment is not perfect does not make execution necessary; no punishment is perfect. Abolition chooses protection with correction over a final error, and that remains the wiser rule."
+  },
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X16",
+   "text": "If permanent imprisonment protects everyone in the clearest cases, why should society abolish the one punishment that guarantees those offenders can never harm anyone again?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.28,
+   "dur_sec": 18.28,
+   "overlap": false,
+   "text": "Today we debate the motion, whether we should abolish the death penalty in our justice system. Larry argues for it, and Christina argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire. Then each gets a thirty-second closing, with a ten-second cue before time."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 18.48,
+   "end_sec": 38.56,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "The death penalty gives government an irreversible power it cannot safely use. Courts can be wrong, witnesses can lie, and evidence can be misunderstood. A prison sentence protects the public without making correction impossible. Abolition also rejects the idea that justice requires taking a life. We can condemn terrible crimes while keeping punishment humane and reversible."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 38.48,
+   "end_sec": 42.71,
+   "dur_sec": 4.23,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.76,
+   "end_sec": 49.78,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "Even when a crime is horrifying, execution adds no protection that permanent imprisonment cannot provide. It also risks turning a flawed verdict into a final-",
+   "cut_at_sec": 49.78,
+   "full_dur_sec": 13.83,
+   "ext_file": "L033_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 48.98,
+   "end_sec": 52.02,
+   "dur_sec": 3.04,
+   "overlap": true,
+   "text": "Your time is up. Thank you. Christina."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.22,
+   "end_sec": 72.02,
+   "dur_sec": 19.8,
+   "overlap": false,
+   "text": "The death penalty is not only about revenge; it recognizes the seriousness of deliberate killing and protects society from the worst offenders. Larry points to mistakes, but that supports careful trials and appeals, not automatic abolition. Some crimes are so calculated and destructive that permanent punishment may not match their gravity. Justice must consider victims as well as defendants."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 72.22,
+   "end_sec": 73.59,
+   "dur_sec": 1.37,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 72.22,
+   "end_sec": 82.67,
+   "dur_sec": 10.45,
+   "overlap": false,
+   "text": "Abolition also removes a punishment that can prevent a killer from ever returning to society. The state should retain that option for the most extreme cases. That's all, thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 82.87,
+   "end_sec": 96.48,
+   "dur_sec": 13.61,
+   "overlap": false,
+   "text": "And that concludes opening statements in this debate. And now we move on to Round two. In Round two, the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 96.68,
+   "end_sec": 108.16,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Larry treats every execution as an avoidable mistake, but that is not his actual argument. A serious legal process can distinguish uncertainty from overwhelming proof and reserve execution for the clearest cases."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 108.664,
+   "end_sec": 119.024,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "When reliable imprisonment can protect the public, execution is unnecessary and should be abolished. The state should not choose an irreversible punishment simply because a crime provokes understandable anger."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 119.74,
+   "end_sec": 129.74,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "I reject the premise that imprisonment always protects the public equally, because some offenders may escape or kill inside prison. Abolition removes the strongest safeguard for exceptional cases."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 130.159,
+   "end_sec": 140.809,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "A justice system should not take an irreversible life when it can protect everyone through secure imprisonment. Punishment can be severe, lasting, and humane without making error impossible to repair."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 141.03,
+   "end_sec": 150.67,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "Imagine a convicted killer who escapes custody and kills again; execution would have prevented that danger permanently. That example proves society needs the option of final protection."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 151.103,
+   "end_sec": 162.143,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "That escape example does not justify execution, because secure imprisonment can prevent release and protect people inside prison. The point is not whether danger matters; it is whether killing is necessary."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 162.542,
+   "end_sec": 172.542,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "Security depends on locked doors, trained guards, working systems, and constant supervision. When one part fails, families suffer, officials investigate, and communities demand accountability for every broken promise."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 172.742,
+   "end_sec": 185.002,
+   "dur_sec": 12.26,
+   "overlap": false,
+   "text": "I feel we're getting a little bit off the topic of whether we should abolish the death penalty in our justice system. So, I want you to come in and bring it back around to that."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 185.202,
+   "end_sec": 194.842,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "The motion still fails because abolition removes a final safeguard when imprisonment breaks down. A government that cannot guarantee perfect custody should not surrender its strongest protection."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 195.589,
+   "end_sec": 206.989,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I reject the premise that imperfect custody makes execution necessary, because stronger confinement can address that risk without killing anyone. Abolition keeps punishment firm while leaving room to correct a wrongful conviction."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 207.697,
+   "end_sec": 217.777,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "Families also face years of hearings, appeals, and uncertainty after a terrible crime. Those procedures matter, but the motion asks whether society should permanently discard its strongest punishment."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 218.495,
+   "end_sec": 227.855,
+   "dur_sec": 9.36,
+   "overlap": false,
+   "text": "A person wrongly convicted and executed cannot be freed, compensated, or reunited with family. Abolition prevents that irreversible harm, proving justice must leave room for correction."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 228.242,
+   "end_sec": 239.722,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Wrongful convictions are a real concern, but they argue for better evidence and review, not for treating every murderer as beyond the ultimate penalty. The motion weakens justice for the clearest cases."
+  },
+  {
+   "i": 22,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 236.48,
+   "end_sec": 239.4,
+   "dur_sec": 2.92,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 240.456,
+   "end_sec": 247.28,
+   "dur_sec": 6.824,
+   "overlap": false,
+   "text": "Christina calls abolition a weakness, yet permanent imprisonment still removes an offender from society. Her claim adds a second irreversible harm-",
+   "ext_file": "L033_ext_a32.wav",
+   "cut_at_sec": 245.64,
+   "full_dur_sec": 10.0
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 246.48,
+   "end_sec": 252.17,
+   "dur_sec": 5.69,
+   "overlap": true,
+   "text": "Okay, time. Okay, now we're gonna pivot to our closing round. Larry, you are up first."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 252.37,
+   "end_sec": 266.47,
+   "dur_sec": 14.1,
+   "overlap": false,
+   "text": "The death penalty is unnecessary, irreversible, and vulnerable to human error. Permanent imprisonment protects society while allowing courts to correct mistakes. Abolishing execution gives justice strength without giving the state permission to kill. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 266.67,
+   "end_sec": 270.45,
+   "dur_sec": 3.78,
+   "overlap": false,
+   "text": "Would you like to take it, Christina? You started to speak."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 270.65,
+   "end_sec": 290.25,
+   "dur_sec": 19.6,
+   "overlap": false,
+   "text": "The strongest point is public safety. Larry assumes imprisonment will always contain the most dangerous offenders, but systems fail and people can escape. The death penalty is not for ordinary crimes; it is reserved for the worst cases after serious review. Removing it entirely leaves society without a final safeguard when protection must be certain."
+  },
+  {
+   "i": 28,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 290.45,
+   "end_sec": 301.95,
+   "dur_sec": 11.5,
+   "overlap": false,
+   "text": "Abolition may sound merciful, but justice must also honor victims and prevent future harm. For the clearest, most extreme crimes, society-",
+   "cut_at_sec": 297.97,
+   "full_dur_sec": 13.52,
+   "ext_file": "L033_032.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 290.65,
+   "end_sec": 292.58,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 30,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 301.15,
+   "end_sec": 303.88,
+   "dur_sec": 2.73,
+   "overlap": true,
+   "text": "I'm sorry, I'm sorry. Hit time."
+  },
+  {
+   "i": 31,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 304.08,
+   "end_sec": 309.85,
+   "dur_sec": 5.77,
+   "overlap": false,
+   "text": "Thank you both for presenting your cases and engaging in the debate. This debate is now closed."
+  }
+ ]
+}

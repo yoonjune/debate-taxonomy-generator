@@ -1,0 +1,368 @@
+{
+ "debate_id": "L083",
+ "motion": "Prospective global warming is the most pressing issue facing humanity today and to avert it the world must de-carbonize its economies in short order.",
+ "speakers": {
+  "MOD": {
+   "name": "Melissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1763_64",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1763/MSP-PODCAST_1763_64.wav",
+   "wpm": 173.81
+  },
+  "PRO": {
+   "name": "Betsy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1206_312",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
+   "wpm": 165.44
+  },
+  "CON": {
+   "name": "Rod",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4930_104",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4930/MSP-PODCAST_4930_104.wav",
+   "wpm": 173.57
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 99.53,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 306.59,
+ "ext": {
+  "a32": {
+   "file": "L083_ext_a32.wav",
+   "place_at_sec": 240.579,
+   "dur_sec": 24.15,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Steady emissions cuts are better than doing nothing, and adaptation has a role. Yet gradual promises fail when carbon keeps accumulating, so the main task is urgent economy-wide decarbonization before harms outrun our ability to respond."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.25,
+   "dur_sec": 20.25,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that prospective global warming is humanity's most pressing issue and economies must decarbonize quickly. Betsy supports it, and Rod opposes it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue. We will keep the exchange focused and respectful."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.45,
+   "end_sec": 40.3,
+   "dur_sec": 19.85,
+   "overlap": false,
+   "text": "Global warming is not a distant concern; it shapes food, shelter, health, and safety at once. Because emissions linger, delay locks in damage that later choices cannot easily undo. Decarbonizing quickly means building cleaner power, transport, and homes while protecting workers. The question is whether we act before those risks harden."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.45,
+   "end_sec": 41.61,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Betsy, ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.5,
+   "end_sec": 51.75,
+   "dur_sec": 11.25,
+   "overlap": false,
+   "text": "Fairness matters, but difficulty is not a reason to preserve a harmful system. We can build reliable clean energy and support workers through change-",
+   "cut_at_sec": 51.75,
+   "full_dur_sec": 14.09,
+   "ext_file": "L083_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 50.95,
+   "end_sec": 54.16,
+   "dur_sec": 3.21,
+   "overlap": true,
+   "text": "That's time, thank you. Rod, the floor is yours."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.36,
+   "end_sec": 74.47,
+   "dur_sec": 20.11,
+   "overlap": false,
+   "text": "The climate matters, and reducing pollution can bring real benefits. But calling one future threat humanity's most pressing issue erases urgent present needs: hunger, conflict, illness, and insecure livelihoods. A forced rush away from carbon can raise energy costs and weaken fragile communities. Good policy weighs tradeoffs, lets people choose paths, and refuses to make one goal the sole test of progress."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 74.36,
+   "end_sec": 75.97,
+   "dur_sec": 1.61,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 74.67,
+   "end_sec": 84.56,
+   "dur_sec": 9.89,
+   "overlap": false,
+   "text": "We should innovate and cut emissions where it helps, but no universal timetable fits every economy. The resolution demands exactly that, so it goes too far. That's all, thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 84.76,
+   "end_sec": 101.11,
+   "dur_sec": 16.35,
+   "overlap": false,
+   "text": "Thank you, Rod. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 101.31,
+   "end_sec": 112.63,
+   "dur_sec": 11.32,
+   "overlap": false,
+   "text": "Cleaner power can improve local air, and I welcome that benefit. But the resolution makes warming the top priority over every immediate human need and demands a rushed global cure, which is false."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 113.221,
+   "end_sec": 126.351,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "When a community can replace dirty power without losing basic reliability, rapid decarbonization is the responsible course. Those conditions can be created through planning and shared support, because unchecked warming makes every other need harder to meet."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 126.983,
+   "end_sec": 137.893,
+   "dur_sec": 10.91,
+   "overlap": false,
+   "text": "If rapid decarbonization leaves a family unable to heat its home, how does your priority protect that family? You call delay dangerous, yet you would impose a plan whose first victims are-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 138.365,
+   "end_sec": 150.055,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "Protecting people is precisely why decarbonization cannot be postponed. A warming world strips families of crops, safe homes, and stable prices, so the broad duty is to replace carbon rather than defend it."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 150.888,
+   "end_sec": 160.738,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "No economy should ever be forced to decarbonize. People need secure energy and control over their livelihoods, so persuasion and invention are better than a global order that commands sacrifice."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.443,
+   "end_sec": 173.053,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "A plan that leaves families cold is not the plan I support; the premise is false. Fast decarbonization must provide dependable energy, while your voluntary approach lets the damage and costs keep spreading."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 173.455,
+   "end_sec": 183.785,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "A coal-bound island economy should be forced to decarbonize. Its leaders may cling to fuel, but residents facing rising water deserve outside action, even though the resolution still overreaches globally."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 183.985,
+   "end_sec": 192.235,
+   "dur_sec": 8.25,
+   "overlap": false,
+   "text": "So it's not much of no economy should ever be forced to decarbonize if a coal-bound island economy should be forced to decarbonize, is it?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 192.435,
+   "end_sec": 204.605,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "I oppose a universal command, and I support action for that island economy because its crisis is immediate and shared. Those views fit: broad coercion is wrong, while collective rescue can answer a clear danger."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 204.858,
+   "end_sec": 216.148,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "You say each society should choose its pace, but what do you offer people whose homes become unsafe while leaders delay? Is their safety less urgent than protecting carbon industries from change?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 216.875,
+   "end_sec": 228.896,
+   "dur_sec": 12.021,
+   "overlap": false,
+   "text": "On your point about unsafe homes, I reject the claim that carbon policy is their only protection. Strong housing, emergency planning, and affordable energy can protect people now without declaring forced decarbonization humanity's supreme duty."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 229.722,
+   "end_sec": 241.492,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "Consider a farming valley where hotter seasons dry the stream that waters crops, then families lose harvests and income. Cleaner power cuts the pollution driving that risk, proving rapid decarbonization protects ordinary lives."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 241.11,
+   "end_sec": 243.59,
+   "dur_sec": 2.48,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 242.159,
+   "end_sec": 251.91,
+   "dur_sec": 9.751,
+   "overlap": false,
+   "text": "No, their safety is not less urgent than protecting industries. But your question assumes rapid decarbonization is the only shield; practical adaptation and steady emissions cuts protect them without the-",
+   "ext_file": "L083_ext_a32.wav",
+   "cut_at_sec": 250.33,
+   "full_dur_sec": 11.38
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 251.11,
+   "end_sec": 264.48,
+   "dur_sec": 13.37,
+   "overlap": true,
+   "text": "That's time. Now we move on to round three. Round three will be closing statements by each debater in turn. Making her closing statement in support of the resolution global warming demands urgent worldwide decarbonization of economies, Betsy."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 264.68,
+   "end_sec": 281.89,
+   "dur_sec": 17.21,
+   "overlap": false,
+   "text": "Rod says people need reliable energy, and they do. But reliable energy on a damaged planet is not security; delaying transition deepens risks to homes, food, and work. Build clean systems fairly and quickly, because warming touches every human priority and demands first place. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 282.09,
+   "end_sec": 284.98,
+   "dur_sec": 2.89,
+   "overlap": false,
+   "text": "OK. Rod, you wanted to come in."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 285.18,
+   "end_sec": 304.57,
+   "dur_sec": 19.39,
+   "overlap": false,
+   "text": "Betsy rightly wants people protected, but the resolution turns a serious danger into a single command for every society. Humanity faces many urgent burdens, and forced rapid change can worsen them. Pursue cleaner choices, resilience, and innovation, but reject the claim that this is the most pressing issue and required cure. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 304.77,
+   "end_sec": 311.51,
+   "dur_sec": 6.74,
+   "overlap": false,
+   "text": "Thank you, Betsy and Rod, for a thoughtful debate, and thank you for joining us. This debate is now closed."
+  }
+ ]
+}

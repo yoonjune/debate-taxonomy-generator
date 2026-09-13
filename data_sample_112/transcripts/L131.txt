@@ -1,0 +1,35 @@
+L131  |  We should accept performance-enhancing drugs in competitive sports.
+  MOD=Billy   PRO=Virginia   CON=Gloria
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Billy(MOD): Welcome to our debate on the motion: we should accept performance-enhancing drugs in competitive sports. Virginia argues for the motion, while Gloria argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then come thirty-second closings. I will give a ten-second cue before each speaker's time expires.
+[t01] Virginia(PRO): Sports already reward unusual bodies, coaching, and equipment. Let adults use regulated enhancers openly, with medical checks and shared rules. That replaces hidden risk with honest competition, respects athletes' choices, and lets officials enforce safety rather than chase secrets. That's all, thank you.
+[t02] @A2-2 Billy(MOD): Virginia, thanks, and Gloria.
+[t03] Gloria(CON): Competition means testing training and skill under a common limit. Drugs turn health into a price of entry, even when participation appears voluntary. Acceptance would pressure athletes to alter their bodies just to remain employable at the highest level. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Billy(MOD): And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. You have two and a half minutes, starting when I stop talking.
+[t05] Virginia(PRO): A runner currently hides pills from teammates, skips medical advice, and risks a dangerous mixture. Under acceptance, she could use disclosed doses with supervision and honest rivals. That proves regulation makes sport safer.
+[t06] Gloria(CON): If enhancement is accepted, how does a talented athlete who wants no drugs keep a real chance to compete? Your system makes refusal a disadvantage, so why call that free choice?
+[t07] Virginia(PRO): Choice remains real because athletes can choose different events, teams, and paths without secret cheating deciding outcomes. Every athlete should be allowed to enhance performance. Open rules give each competitor the same permission, not a hidden advantage.
+[t08] Gloria(CON): Your point is that universal permission creates fairness. It does not: athletes with frailer bodies face greater danger, while those who can tolerate drugs gain an edge. A common permission cannot erase unequal pressure.
+[t09] Virginia(PRO): Protecting young bodies matters, and we should accept enhancement in competitive sports for adults through open age rules, disclosure, and medical supervision. A teenage athlete should not be allowed to enhance performance.
+[t10] @B2 Billy(MOD): I must ask you to stop, thank you Virginia, thank you very much indeed. You've slightly destroyed your own argument there, you said that every athlete should be allowed to enhance performance and then a teenage athlete should not be allowed to enhance performance.
+[t11] Virginia(PRO): I meant a general freedom alongside protection for people still growing. The two statements reflect different responsibilities: adult competitors deserve informed choice, while young competitors need guardianship. That still supports accepting enhancement as a regulated part of sport.
+[t12] <cut> Gloria(CON): Consider a player whose teammates begin using drugs openly. She either copies them despite heart pain or loses her place and income. Acceptance turns consent into coercion, because the supposed choice becomes-
+[t13] Virginia(PRO): Fans might enjoy louder records and flashier contests, and sponsors may chase that spectacle. But entertainment is not the question. The question is whether regulated acceptance beats the present secrecy, and it does.
+[t14] Gloria(CON): Your weakest point is the claim that regulation beats secrecy. Regulation cannot remove the incentive to take stronger doses than permitted, so cheating survives. Meanwhile, official approval tells athletes that risking health is normal.
+[t15] Virginia(PRO): I reject your point that approval makes health risks normal. Safety rules already distinguish managed risk from reckless risk; why preserve a black market rather than require doctors, limits, and disclosure?
+[t16] @A4 <ovl> Billy(MOD): Ten seconds.
+[t17] <cut> Gloria(CON): I reject the premise that prohibition creates only a black market; it also sets a clear boundary. Doctors and limits cannot make coerced choices fair, because competitors must still match enhanced-
+
+--- phase 3 ---
+[t18] @A3-2 <ovl> Billy(MOD): That's time. First we have closing statements. I will ask Virginia to speak first.
+[t19] Virginia(PRO): Gloria is right that pressure matters, but bans do not erase pressure; they hide it. Accepting enhancers with medical oversight, public disclosure, and enforceable limits gives athletes safer choices and fairer information. We should regulate this reality openly, not pretend prohibition protects sport. That's all, thank you.
+[t20] @A2-2 Billy(MOD): Let's take that to Gloria, please.
+[t21] Gloria(CON): The other side calls this choice, yet a choice made to keep a place is not freely made. Medical oversight may reduce some danger, but it cannot make unequal bodies respond equally. Once drugs are accepted, refusal becomes a competitive handicap. Officials must decide what counts as enhancement in every sport.
+[t22] <cut> Gloria(CON): Those judgments invite disputes and loopholes. Athletes deserve a contest where health is not bargaining power. We should reject acceptance because it changes competition from a test of skill into-
+[t23] @A4 <ovl> Billy(MOD): I can give you ten seconds to do this.
+[t24] @A1 <ovl> Billy(MOD): I have to step in because we hit our time limit.
+[t25] Billy(MOD): Thank you, Virginia and Gloria, for a debate; that concludes our discussion of performance-enhancing drugs in competitive sports.

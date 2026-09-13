@@ -1,0 +1,44 @@
+L105  |  Modi's India is going in the right direction.
+  MOD=Carla   PRO=Nigel   CON=Charles
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Carla(MOD): Welcome. The motion is: Modi's India is going in the right direction. Nigel speaks for the motion, and Charles speaks against it. Each opening is thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue.
+[t01] Nigel(PRO): India is moving in the right direction because more people can build a future with work, tools, and public confidence. Its progress is imperfect, but
+[t02] <ovl> <cut> Charles(CON): No, you cannot call this progress while dissent-
+[t03] @A5 <ovl> Carla(MOD): Please let him finish, please.
+[t04] Nigel(PRO): but a country moves forward by expanding opportunity while confronting its flaws. The other side treats every unresolved problem as proof that change itself is failing.
+[t05] @A4 <ovl> Carla(MOD): I can give you ten seconds to do this.
+[t06] Nigel(PRO): That is the direction I support: practical opportunity, steady improvement, and a stronger public voice. That's all, thank you.
+[t07] @A2-2 Carla(MOD): Charles? Do you want to try this one on?
+[t08] Charles(CON): India's direction cannot be judged by new projects alone. A country is not on the right path when critics fear speaking, communities feel unheard, and power gathers at the center. You describe confidence, but confidence without room for challenge can become obedience. Progress means ordinary people can question decisions and still expect fair treatment. That basic test remains unsettled, and
+[t09] @A4 <ovl> Carla(MOD): Ten seconds warning.
+[t10] Charles(CON): people need safeguards before they can trust that power serves them. Without those safeguards, a polished picture of progress points India in the wrong direction. That's all, thank you.
+
+--- phase 2 ---
+[t11] @A3-1 Carla(MOD): So, in round two, the debaters direct questions to one another. Two and a half minutes on the clock, starting the moment I stop talking.
+[t12] Nigel(PRO): You did not show that public challenge has disappeared; you only warned that confidence might become obedience. A warning is not proof that India is headed wrongly, while visible improvement supports the motion.
+[t13] Charles(CON): Arguments about politics often spill into family loyalties, and that can make people defend leaders like relatives. But the motion concerns direction, and concentrated power without dependable challenge points the wrong way.
+[t14] Nigel(PRO): When institutions can hear complaints, correct errors, and deliver basic services, reform is moving in the right direction. That is the condition that matters, and India has reasons to meet it.
+[t15] Charles(CON): I grant that better services can make daily life easier for many people. But easier access does not excuse weaker space for disagreement, so the larger direction remains wrong.
+[t16] Nigel(PRO): If you say the direction is wrong, which specific change would persuade you that ordinary people have gained meaningful power? You cannot demand a standard and refuse to name it.
+[t17] Charles(CON): I would be persuaded by durable freedom to criticize power and seek fair remedies without fear. Your question avoids the issue: projects matter less when people cannot safely challenge those directing them.
+[t18] Nigel(PRO): A nation can move in the right direction even while it corrects serious failures. Progress is not a claim of perfection; it is a pattern of building capacity and widening opportunity.
+[t19] <cut> Charles(CON): Consider a shop owner denied a local permit after publicly criticizing an official decision. When livelihood depends on silence, that person learns that power is not accountable, which proves the direction is-
+[t20] <ovl> Nigel(PRO): But one unfair permit decision does not define an entire country's direction. The remedy is stronger review and correction, not declaring every gain meaningless; improvement can include confronting precisely such abuse.
+[t21] Charles(CON): I accept that review can sometimes repair a bad decision. Yet people should not depend on rare repair after punishment, and that insecurity keeps India moving in the wrong direction.
+[t22] Nigel(PRO): Would you reject improvements in work, access, and services merely because government power is imperfect? How does refusing to weigh real gains give ordinary people a fairer judgment?
+[t23] Charles(CON): No, I do not reject those improvements; I reject treating them as a complete verdict on direction. Real gains deserve credit, but rights and accountability determine whether those gains are secure.
+[t24] Nigel(PRO): Your answer admits gains but makes them conditional on an undefined level of security. That lets you dismiss any progress forever, whereas direction should be judged by whether problems are being addressed.
+[t25] @A4 <ovl> Carla(MOD): Ten seconds left, both of you.
+[t26] <cut> Charles(CON): A teacher who avoids discussing a public policy because a complaint could threaten-
+
+--- phase 3 ---
+[t27] @A3-2 <ovl> Carla(MOD): That's time. That concludes round two. Now we go on to round three. Round three is our closing statements by each debater in turn. Making his closing statement for the motion, Nigel.
+[t28] Nigel(PRO): The strongest concern is that power must remain answerable, and I agree that safeguards matter. But the other side mistakes unfinished safeguards for total failure. India can strengthen accountability while expanding opportunity and capacity. That forward movement is why the motion stands. That's all, thank you.
+[t29] @A2-2 Carla(MOD): Charles, take the response.
+[t30] Charles(CON): My opponent asks us to trust a broad pattern of improvement, but direction is not measured only by visible gains. It is measured by whether people can question those in charge without paying a personal price. Services and opportunity matter, and I do not deny that. Yet gains become fragile when accountability is weak, because
+[t31] @A4 <ovl> Carla(MOD): I'll give you ten more seconds to nail this.
+[t32] <cut> Charles(CON): you say correction proves health, but correction requires people who can speak without pressure and institutions willing to resist power. Until that protection is reliable, calling the direction right asks citizens to trust-
+[t33] @A1 <ovl> Carla(MOD): Time.
+[t34] Carla(MOD): Thank you both for this exchange; the debate is now closed, and we appreciate your participation in it.

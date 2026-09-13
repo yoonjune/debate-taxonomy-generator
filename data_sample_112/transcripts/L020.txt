@@ -1,0 +1,38 @@
+L020  |  Stop worrying about national deficits
+  MOD=Emma   PRO=Daphne   CON=Daniel
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Emma(MOD): Welcome to the debate on whether we should stop worrying about national deficits. Daphne argues for the motion, and Daniel argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each side gets a thirty-second closing, with a ten-second cue before time expires.
+[t01] Daphne(PRO): Stop worrying about national deficits does not mean ignore budgets; it means stop treating every deficit as a national emergency. We should judge borrowing by what it achieves, protecting essential services and investment instead of letting fear dictate policy. That's all, thank you.
+[t02] @A2-2 Emma(MOD): Thank you, Daphne. Speaking for the resolution. Daniel, against.
+[t03] Daniel(CON): Daphne makes fear sound like the only reason to question deficits, but that avoids the real issue. Borrowing creates obligations that future citizens must meet, and interest can crowd out schools, safety, and useful investment. A government that stops worrying about deficits can spend without discipline, leaving fewer choices when a genuine crisis arrives.
+[t04] @A4 <ovl> Emma(MOD): You have ten seconds left.
+[t05] <cut> Daniel(CON): Even worthwhile programs need limits, because borrowed money is not free. Once leaders learn that deficit worries are dismissed, they can promise everything today and postpone every sacrifice-
+[t06] @A1 <ovl> Emma(MOD): Please come to an end, we're running out of time, thank you.
+
+--- phase 2 ---
+[t07] @A3-1 Emma(MOD): Let's debate. You have two and a half minutes, starting when I stop talking.
+[t08] Daniel(CON): You say deficit fear should not dictate policy, but your motion says stop worrying, not worry less carefully. Without concern about repayment, how will leaders distinguish productive borrowing from promises they cannot sustain?
+[t09] Daphne(PRO): No government should ever let deficit anxiety override urgent public needs. Responsible borrowing should be judged by results, not by a frightening total.
+[t10] Daniel(CON): I reject the premise that concern automatically overrides public needs; careful concern can protect them. Your rule still offers no boundary against endless borrowing, and results cannot erase the obligation to repay.
+[t11] Daphne(PRO): A government in recession should let deficit anxiety override urgent public needs. When families need support, refusing help merely to preserve a reassuring ledger is irresponsible.
+[t12] @B2 Emma(MOD): So it's not much of no government should ever let deficit anxiety override urgent public needs if a government in recession should let deficit anxiety override urgent public needs, is it?
+[t13] Daphne(PRO): The statements are compatible as a broad standard and a deliberate test of it. The rule warns against anxiety ruling decisions, while this example shows that a rigid rule can fail when people need protection.
+[t14] Daniel(CON): If one decision excuses the next, then limits become decorative. A promise is still a promise, and breaking it teaches people that confidence is optional. Trust matters in every agreement, whether money is involved or not.
+[t15] @B1 Emma(MOD): But we're asking stop worrying about national deficits and focus on public needs. That's the question here.
+[t16] Daniel(CON): The motion asks whether we should stop worrying about national deficits, and the answer is no. Concern keeps borrowing accountable, even when spending is compassionate, because tomorrow's taxpayers deserve choices rather than automatic bills.
+[t17] Daphne(PRO): Imagine a government cutting food support and repairs during a downturn just to make its deficit look smaller. Borrowing can preserve livelihoods and prevent deeper damage, proving that deficit anxiety can cost more than responsible spending.
+[t18] Daniel(CON): That example does not prove deficits deserve no worry; it proves priorities matter. A government can protect vital support while still tracking debt, because refusing every limit eventually threatens the same people you want to help.
+[t19] Daphne(PRO): Your weakest claim is that tracking debt automatically protects vulnerable people. It may instead force cuts at the worst moment, while treating every deficit as danger hides the damage caused by austerity.
+[t20] Daniel(CON): I grant that badly timed cuts can hurt people, but that does not justify abandoning concern. Clear limits preserve room for future emergencies and keep promises credible, so national deficits still require worry.
+[t21] @A4 <ovl> Emma(MOD): Ten seconds left, both of you.
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Emma(MOD): We're going to move now into our closing round. Daphne, you are answering yes to the question, and this is your time for your closing statement.
+[t23] Daphne(PRO): Daniel's best point is that borrowing creates obligations, and we should honor them. But that duty does not make the deficit the main danger in every moment. Stop letting anxiety decide, and judge spending by whether it protects people and builds a stronger future. That's all, thank you.
+[t24] @A2-2 Emma(MOD): Daniel, you're up first.
+[t25] Daniel(CON): Daphne is right that public needs matter, but she turns that limited truth into a sweeping instruction to stop worrying. Deficits are not just numbers; they are promises that restrict future choices. Careful concern does not demand cruel cuts. It demands priorities, limits, and honesty about who will pay. Without that discipline, today's compassion can become tomorrow's crisis.
+[t26] @A4 <ovl> Emma(MOD): Well, now it's ten.
+[t27] Daniel(CON): We can protect essential services while still respecting the danger of unlimited borrowing. Concern is not panic; it is responsibility. Keep worrying about national deficits, because restraint preserves help when it is needed most. That's all, thank you.
+[t28] Emma(MOD): Thank you both. This debate is closed; there is no audience, and no winner is being declared today.

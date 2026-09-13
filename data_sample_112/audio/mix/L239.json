@@ -1,0 +1,432 @@
+{
+ "debate_id": "L202",
+ "motion": "Break up the big banks.",
+ "speakers": {
+  "MOD": {
+   "name": "Joanna",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2118_154",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2118/MSP-PODCAST_2118_154.wav",
+   "wpm": 167.71
+  },
+  "PRO": {
+   "name": "Helen",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  },
+  "CON": {
+   "name": "Christina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 82.22,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 304.0,
+ "ext": {
+  "a32": {
+   "file": "L202_ext_a32.wav",
+   "place_at_sec": 222.955,
+   "dur_sec": 33.38,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "On your orderly-resolution point, plans look neat before panic, but political pressure grows when one firm's failure can freeze the economy. Breaking it up removes that hostage power and prevents rescue."
+  },
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Your weakest phrase is hostage power, because it assumes size alone forces rescue. Clear rules can make creditors bear losses, while breakup may simply move risks among smaller firms."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.73,
+   "dur_sec": 20.73,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is: break up the big banks. Helen argues for it, and Christina argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. In crossfire, address each other directly, and I may step in to keep discussion fair and orderly."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.93,
+   "end_sec": 30.1,
+   "dur_sec": 9.17,
+   "overlap": false,
+   "text": "A few giant banks can gamble with households' savings and still expect rescue. Breaking them up matters because when their losses spread widely."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 29.2,
+   "end_sec": 31.5,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But splitting them can scatter vital services-",
+   "cut_at_sec": 31.5,
+   "full_dur_sec": 9.21,
+   "ext_file": "L202_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 30.7,
+   "end_sec": 33.91,
+   "dur_sec": 3.21,
+   "overlap": true,
+   "text": "Okay, you've had a chance to speak. Please just let her."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 34.11,
+   "end_sec": 44.09,
+   "dur_sec": 9.98,
+   "overlap": false,
+   "text": "one failure can freeze local paychecks, the public carries the risk while executives keep the upside. Will you explain why that deserves protection?"
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.93,
+   "end_sec": 42.17,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Helen."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 44.29,
+   "end_sec": 52.05,
+   "dur_sec": 7.76,
+   "overlap": false,
+   "text": "Smaller banks can fail without dragging every local depositor and shop down with them. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 52.25,
+   "end_sec": 54.13,
+   "dur_sec": 1.88,
+   "overlap": false,
+   "text": "Just one brief comment, Christina."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.33,
+   "end_sec": 74.07,
+   "dur_sec": 19.74,
+   "overlap": false,
+   "text": "The question assumes a breakup protects people, but it may remove the broad networks that keep money moving in a crisis. Strong capital rules and failure plans target reckless behavior without dismantling useful institutions. Breakups could create confusion, higher costs, and less reliable credit, so this motion is false. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 74.27,
+   "end_sec": 86.12,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "Now we go on to round two, where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 86.32,
+   "end_sec": 98.16,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "No, protecting giant banks is not what I defend; I defend rules that make any bank absorb losses. Your breakup still risks disrupted payments and weaker lending, so keep reforming rather than splitting."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 98.583,
+   "end_sec": 108.913,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "On your disrupted-payments point, smaller firms can use shared payment systems without one balance sheet controlling everything. Rules help, but concentrated power makes enforcement fragile; breakup makes rules credible."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 109.237,
+   "end_sec": 120.717,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Customers also care about branches, call centers, and familiar service, which a forced split could unsettle. But the motion is about safety, and better supervision protects safety without destroying banks that work."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 121.532,
+   "end_sec": 133.372,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "A small shop loses access to payroll money when one huge bank's trading loss swallows its local accounts. Separating ordinary deposits from oversized bets means that shop can keep paying workers, even when-"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 132.472,
+   "end_sec": 144.162,
+   "dur_sec": 11.69,
+   "overlap": true,
+   "text": "That shop needs stable access, not a maze of newly separated companies with uncertain backing. You treat a breakup as a shield, yet it can interrupt credit and make the shop less secure."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 144.543,
+   "end_sec": 155.343,
+   "dur_sec": 10.8,
+   "overlap": false,
+   "text": "If stronger rules are enough, why keep one institution so large that officials fear letting it fail? How can rules be credible when its collapse threatens everyone else's money and jobs?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 156.078,
+   "end_sec": 167.208,
+   "dur_sec": 11.13,
+   "overlap": false,
+   "text": "Officials need not fear failure if they require each bank to hold enough loss-bearing funds and prepare a clean resolution. Size alone is not the threat; weak safeguards are, so improve safeguards."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 168.199,
+   "end_sec": 179.259,
+   "dur_sec": 11.06,
+   "overlap": false,
+   "text": "When a bank's collapse would force the public to choose between rescue and economic chaos, it must be broken up beforehand. Under that condition, smaller pieces make failure manageable and protect taxpayers."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 179.936,
+   "end_sec": 190.106,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "Your weakest claim is that smaller pieces automatically protect taxpayers. Several smaller banks can fail together, while a planned resolution can impose losses on owners without carving up firms."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 190.847,
+   "end_sec": 202.327,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Concentration gives a handful of managers power over credit, payments, and public policy, even before a crisis arrives. A financial system should not depend on any giant bank, so break them up."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.257,
+   "end_sec": 214.377,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "I agree that concentrated power deserves scrutiny, and public rescues create a real problem. But splitting firms does not erase shared risks or guarantee accountability; targeted rules can, so reject breakup."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 215.32,
+   "end_sec": 225.97,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "You say resolution can handle failure, but who trusts officials to close a giant bank during panic without a rescue? Why preserve a structure that makes that impossible choice likely?"
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 226.12,
+   "end_sec": 228.44,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left, both of you."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 226.855,
+   "end_sec": 236.92,
+   "dur_sec": 10.065,
+   "overlap": false,
+   "text": "I reject that closing a giant bank without rescue is impossible; owners and creditors can take losses under prepared rules. Why force every customer through a breakup when orderly resolution-",
+   "ext_file": "L202_ext_a32.wav",
+   "cut_at_sec": 233.02,
+   "full_dur_sec": 11.45
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 236.12,
+   "end_sec": 241.57,
+   "dur_sec": 5.45,
+   "overlap": true,
+   "text": "That's time. We have to move on to our closing round. Helen, the floor is yours."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.77,
+   "end_sec": 261.4,
+   "dur_sec": 19.63,
+   "overlap": false,
+   "text": "This choice turns on whether we let a few institutions hold the whole economy hostage. Rules matter, but rules are tested when panic begins and officials face a collapse they cannot safely permit. A breakup changes that bargain before trouble starts. It spreads power, makes failure possible, and gives communities more than one place to turn."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 261.6,
+   "end_sec": 273.07,
+   "dur_sec": 11.47,
+   "overlap": false,
+   "text": "The other side offers better rules, yet those rules leave the dangerous structure intact. We should not wait for another emergency to learn that promises of orderly failure bend. Break up the biggest banks, so-",
+   "cut_at_sec": 269.17,
+   "full_dur_sec": 14.73,
+   "ext_file": "L202_029.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 261.77,
+   "end_sec": 263.01,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 272.27,
+   "end_sec": 275.27,
+   "dur_sec": 3.0,
+   "overlap": true,
+   "text": "Helen, you're rather going on. Thank you. Christina."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 275.47,
+   "end_sec": 295.4,
+   "dur_sec": 19.93,
+   "overlap": false,
+   "text": "The strongest case against this motion is practical: safety comes from making losses fall on investors, not from drawing corporate lines. A forced breakup could disrupt payments, raise borrowing costs, and scatter risks that are easier to see inside a supervised institution. We can punish failure, protect depositors, and preserve services without gambling on a redesign."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 295.47,
+   "end_sec": 297.32,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 295.6,
+   "end_sec": 303.87,
+   "dur_sec": 8.27,
+   "overlap": false,
+   "text": "Choose accountable rules over a risky breakup, and keep essential banking services steady for everyone. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 304.07,
+   "end_sec": 310.16,
+   "dur_sec": 6.09,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate on breaking up the big banks; that concludes our discussion tonight."
+  }
+ ]
+}

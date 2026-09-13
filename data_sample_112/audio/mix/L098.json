@@ -1,0 +1,432 @@
+{
+ "debate_id": "L098",
+ "motion": "Freedom of the press does not extend to state secrets",
+ "speakers": {
+  "MOD": {
+   "name": "Rachel",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1239_11",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1239/MSP-PODCAST_1239_11.wav",
+   "wpm": 174.36
+  },
+  "PRO": {
+   "name": "Angus",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  },
+  "CON": {
+   "name": "Martha",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2124_313",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2124/MSP-PODCAST_2124_313.wav",
+   "wpm": 171.3
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 99.41,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 328.77,
+ "ext": {
+  "a32": {
+   "file": "L098_ext_a32.wav",
+   "place_at_sec": 246.06,
+   "dur_sec": 22.92,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Who decides which details are safely withheld when the government has every incentive to call them dangerous? If officials make that choice alone, what meaningful protection remains for investigative reporting?"
+  },
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "I grant that official incentives deserve distrust. Still, independent review and narrow protection for truly harmful details are better than making a press right extend to every state secret."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.05,
+   "dur_sec": 19.05,
+   "overlap": false,
+   "text": "Welcome to this debate on the motion, \"Freedom of the press does not extend to state secrets.\" Angus supports the motion, and Martha opposes it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each time limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.25,
+   "end_sec": 39.61,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "A free press is vital because it tests power in public. But freedom is not a license to publish every item held by the state, especially material that exposes protective methods or vulnerable people. Secrets can concern immediate safety, not merely embarrassment. The motion asks whether a right to report erases that boundary, and it does not."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.25,
+   "end_sec": 42.22,
+   "dur_sec": 2.97,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.81,
+   "end_sec": 50.22,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "Journalists may challenge secrecy and demand justification, but publication is different from access. A free society can protect both scrutiny and necessary confidentiality. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 50.42,
+   "end_sec": 52.02,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Martha, over to you."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.22,
+   "end_sec": 72.38,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "My opponent treats the label \"state secret\" as if it settles the argument. It does not, because states can hide wrongdoing, waste, and abuse behind that label. Press freedom exists precisely when officials would prefer silence. The real question is whether government may define the limits of public knowledge without meaningful independent challenge."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 72.22,
+   "end_sec": 73.46,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 72.58,
+   "end_sec": 83.52,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "Of course, reporters should consider foreseeable harm and act responsibly. But the press must retain the freedom to publish important evidence, because secrecy can shield those in power from accountability. Once-",
+   "cut_at_sec": 82.15,
+   "full_dur_sec": 17.95,
+   "ext_file": "L098_007.wav"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 82.72,
+   "end_sec": 84.57,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "I'm sorry, you've hit time."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 84.77,
+   "end_sec": 100.78,
+   "dur_sec": 16.01,
+   "overlap": false,
+   "text": "All right, so now we're going to move into a part of the debate where it's more of a conversation that moves back and forth, robustly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 100.98,
+   "end_sec": 112.74,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Calling every secret a possible cover-up is the weak link. The state may misuse secrecy, but that calls for review and challenge, not an unlimited right to disclose material that can endanger others."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 113.142,
+   "end_sec": 124.262,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "You say review can fix abuse, yet who alerts the public when the reviewers themselves accept secrecy? Why should officials control information about their own misconduct before anyone may publish it?"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 124.907,
+   "end_sec": 136.307,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I agree that insiders and reporters can expose genuine wrongdoing. But exposure does not require treating every classified detail as publishable; the press remains free while dangerous secrets remain outside that freedom."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 137.205,
+   "end_sec": 148.155,
+   "dur_sec": 10.95,
+   "overlap": false,
+   "text": "When a purported secret reveals official abuse, press freedom must cover publication because public accountability depends on it. In that setting, secrecy is not protection; it is a shield against scrutiny."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 148.965,
+   "end_sec": 160.805,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "I reject the premise that officials alone control disclosure; independent courts and oversight can challenge them. Even abuse reporting can remove operational details, because publishing a secret that identifies a vulnerable source can-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 161.149,
+   "end_sec": 173.789,
+   "dur_sec": 12.64,
+   "overlap": false,
+   "text": "The public needs a press able to scrutinize government power, including claims of secrecy. That does not mean every document must appear intact; it means the state cannot make secrecy an automatic exception to press freedom."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 174.643,
+   "end_sec": 186.403,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Your distinction still assumes publication is protected whenever journalists deem scrutiny important. That leaves those exposed by disclosure dependent on editorial restraint, not a legal boundary, which is too fragile for real secrets."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 187.28,
+   "end_sec": 197.08,
+   "dur_sec": 9.8,
+   "overlap": false,
+   "text": "If a government hides a plan that unlawfully targets innocent people, should reporters remain silent until the same government permits disclosure? How can that be genuine press freedom?"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 197.836,
+   "end_sec": 210.276,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "I accept that delay can protect wrongdoing, and oversight may fail. Yet your example does not make every secret publishable; freedom of the press can protect investigation while excluding disclosure that creates grave, direct danger."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 211.037,
+   "end_sec": 222.437,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Editors also face pressure from owners, rivals, and public outrage, which can distort difficult decisions. But those pressures do not decide this motion: government secrecy cannot automatically strip reporting of constitutional protection."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 222.969,
+   "end_sec": 234.009,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "No, reporters need not remain silent; they can investigate, report the unlawful policy, and seek protected review without releasing every sensitive detail. Your all-or-nothing choice ignores safer ways to expose abuse."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 234.707,
+   "end_sec": 246.547,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Suppose reporters obtain proof that officials secretly approved mistreatment of detainees, while the files are stamped secret. Publishing the proof lets families and citizens demand answers; that shows secrecy cannot erase press freedom."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 240.78,
+   "end_sec": 243.27,
+   "dur_sec": 2.49,
+   "overlap": true,
+   "text": "About ten seconds left in the crossfire."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 247.43,
+   "end_sec": 251.58,
+   "dur_sec": 4.15,
+   "overlap": false,
+   "text": "That example proves the value of exposing abuse, not an unrestricted right-",
+   "ext_file": "L098_ext_a32.wav",
+   "cut_at_sec": 250.21,
+   "full_dur_sec": 12.12
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 250.78,
+   "end_sec": 259.03,
+   "dur_sec": 8.25,
+   "overlap": true,
+   "text": "And that's time. And now we move on to closing remarks. And here to make his closing statement in support of the resolution, Angus."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.23,
+   "end_sec": 279.39,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "This decision turns on the difference between freedom to investigate power and freedom to disclose every secret. My opponent rightly fears concealment, but a state can be challenged without exposing people, protective operations, or urgent defenses. A legal boundary does not silence journalism. It recognizes that publication has consequences beyond the officials being criticized."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 279.23,
+   "end_sec": 281.8,
+   "dur_sec": 2.57,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 279.59,
+   "end_sec": 290.53,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "The motion does not hand officials a blank check. It says press freedom has limits where disclosure itself creates serious harm, and accountability can still be pursued-",
+   "cut_at_sec": 289.16,
+   "full_dur_sec": 14.24,
+   "ext_file": "L098_029.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 289.73,
+   "end_sec": 293.58,
+   "dur_sec": 3.85,
+   "overlap": true,
+   "text": "Angus, I have to stop you, that's time. Martha, go ahead."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 293.78,
+   "end_sec": 314.11,
+   "dur_sec": 20.33,
+   "overlap": false,
+   "text": "This decision turns on who bears the risk when government invokes secrecy. My opponent offers review, but hidden review cannot reliably expose hidden abuse, and officials naturally know more than the public they serve. A press freedom that disappears at the word \"secret\" is weakest where it is most needed. Responsibility in reporting is real, but it is not a government veto."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 313.78,
+   "end_sec": 315.39,
+   "dur_sec": 1.61,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 314.31,
+   "end_sec": 325.53,
+   "dur_sec": 11.22,
+   "overlap": false,
+   "text": "Protecting people matters, and editors can withhold genuinely dangerous details. But the motion goes further, removing press freedom from secrets themselves, so it should be rejected. That's all, thank you."
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 325.73,
+   "end_sec": 332.4,
+   "dur_sec": 6.67,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate on press freedom, secrecy, accountability, and public safety. This concludes our debate."
+  }
+ ]
+}

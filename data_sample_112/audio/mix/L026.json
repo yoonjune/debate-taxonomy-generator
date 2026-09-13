@@ -1,0 +1,369 @@
+{
+ "debate_id": "L026",
+ "motion": "This House deplores the release of the Lockerbie bomber to Libya",
+ "speakers": {
+  "MOD": {
+   "name": "Christian",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0417_1197",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0417/MSP-PODCAST_0417_1197.wav",
+   "wpm": 171.29
+  },
+  "PRO": {
+   "name": "Bob",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1656_617",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1656/MSP-PODCAST_1656_617.wav",
+   "wpm": 172.62
+  },
+  "CON": {
+   "name": "Caroline",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 79.36,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 294.59,
+ "ext": {
+  "a32": {
+   "file": "L026_ext_a32.wav",
+   "place_at_sec": 220.754,
+   "dur_sec": 23.9,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "Your weakest point is calling diplomacy humane simply because it produced movement. A deal that frees a mass murderer can improve relations while still corrupting justice, so practical benefit cannot excuse this release."
+  },
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "You are answering the claim about diplomacy as though any compromise destroys justice. My point is narrower: a painful compromise can protect wider interests, and deploring this release refuses to weigh those interests fairly."
+  },
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "I grant that governments must weigh wider interests, but this was not an ordinary compromise. Freeing a convicted mass murderer weakened accountability and dishonored the dead, so this House should deplore the release."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.8,
+   "dur_sec": 18.8,
+   "overlap": false,
+   "text": "Today's motion is, \"This House deplores the release of the Lockerbie bomber to Libya.\" Bob supports the motion, while Caroline opposes it. Each side has thirty seconds to open, followed by two and a half minutes of crossfire. Then each side has thirty seconds to close, with a ten-second cue before time ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.0,
+   "end_sec": 38.69,
+   "dur_sec": 19.69,
+   "overlap": false,
+   "text": "The release of the Lockerbie bomber turned justice into a bargaining chip. A conviction for mass murder should not be set aside because a government wants better relations or a prisoner claims illness. This House should deplore a decision that weakened trust in law, diminished the victims' families, and told future killers that political pressure can open prison doors."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.89,
+   "end_sec": 49.4,
+   "dur_sec": 10.51,
+   "overlap": false,
+   "text": "Compassion matters, but it cannot erase responsibility for deliberate mass death. Releasing him also denied families the confidence that punishment would match the crime, so this House is right to deplore it. That's all, thank you."
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.0,
+   "end_sec": 40.21,
+   "dur_sec": 1.21,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 49.6,
+   "end_sec": 51.21,
+   "dur_sec": 1.61,
+   "overlap": false,
+   "text": "All right, let her answer."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.41,
+   "end_sec": 70.26,
+   "dur_sec": 18.85,
+   "overlap": false,
+   "text": "This House should not deplore a release that served a practical purpose. The bomber was gravely ill, and keeping him imprisoned until death would have offered little justice while blocking diplomatic progress. Deploring the decision turns a difficult humanitarian judgment into a simple demand for permanent punishment. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.46,
+   "end_sec": 83.26,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 83.46,
+   "end_sec": 96.02,
+   "dur_sec": 12.56,
+   "overlap": false,
+   "text": "You call it humanitarian, but that ignores the victims' equal claim to dignity. Illness does not make a life sentence meaningless, and diplomacy cannot justify freeing someone convicted of mass murder; the release made accountability negotiable."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 96.946,
+   "end_sec": 109.746,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "If a prisoner is terminally ill and continued imprisonment serves no meaningful protective purpose, release can be a humane and defensible choice. That condition matters here, because punishment should not become suffering for its own sake."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 110.537,
+   "end_sec": 121.267,
+   "dur_sec": 10.73,
+   "overlap": false,
+   "text": "You say punishment should not become suffering, but will you accept release whenever a convicted killer becomes ill? If not, what principle made this release responsible rather than a political exception?"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 122.239,
+   "end_sec": 134.439,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "A state's mercy may be justified even when a prisoner remains morally guilty. That broader principle does not require every illness to produce release; it says humane judgment can outweigh punishment in exceptional cases."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 135.358,
+   "end_sec": 148.008,
+   "dur_sec": 12.65,
+   "overlap": false,
+   "text": "This also affects how families remember the dead, and public memory can never be reduced to a diplomatic gesture. More importantly, the motion asks whether the release deserved condemnation, and a mass killer's freedom plainly did."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.718,
+   "end_sec": 160.558,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "No convicted terrorist's release should ever be called a success. Even grave crimes do not erase the duty to judge a transfer by what it achieves, and this transfer achieved a safer outcome."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.317,
+   "end_sec": 173.937,
+   "dur_sec": 12.62,
+   "overlap": false,
+   "text": "You claim the transfer achieved a safer outcome, but that is not the same as justice. Calling this release a success rewards the very pressure that secured it and tells families that political convenience outranks their loss."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 174.448,
+   "end_sec": 185.568,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "This convicted terrorist's release should be called a success. It moved a dangerous prisoner away from a tense setting and created room for diplomacy, so condemning it ignores the practical result."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 185.768,
+   "end_sec": 199.368,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "So what I hear was on the one hand, you found yourself saying no convicted terrorist's release should ever be called a success. And then on the other hand, this convicted terrorist's release should be called a success."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 199.568,
+   "end_sec": 211.768,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "The first statement is my general rule; the second is my judgment about this release. I accept that they clash, because this case deserves a different verdict, and I still oppose deploring the decision."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 212.168,
+   "end_sec": 224.018,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "Imagine families watching a convicted mass murderer leave prison while officials celebrate improved relations. That spectacle turns a solemn conviction into a bargaining token, proving the release damaged justice and deserves this House's condemnation."
+  },
+  {
+   "i": 18,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 223.26,
+   "end_sec": 225.58,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds, and then closing statements."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 224.654,
+   "end_sec": 234.06,
+   "dur_sec": 9.406,
+   "overlap": false,
+   "text": "That spectacle does not prove the release was wrong; it proves the decision was emotionally painful. The premise that visible pain settles policy is mistaken, because humane-",
+   "ext_file": "L026_ext_a32.wav",
+   "cut_at_sec": 230.16,
+   "full_dur_sec": 12.01
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 233.26,
+   "end_sec": 239.46,
+   "dur_sec": 6.2,
+   "overlap": true,
+   "text": "That's time. That wraps the discussion. Now, we go to closing statements. Bob, you are up first."
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 239.66,
+   "end_sec": 259.24,
+   "dur_sec": 19.58,
+   "overlap": false,
+   "text": "This debate is not about denying illness or rejecting diplomacy. It is about whether either can justify freeing someone convicted of mass murder. The release weakened the meaning of punishment, wounded victims' families, and made justice appear negotiable. When political convenience overrides accountability, this House has every reason to deplore what happened."
+  },
+  {
+   "i": 22,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.44,
+   "end_sec": 270.96,
+   "dur_sec": 11.52,
+   "overlap": false,
+   "text": "Caroline asks us to admire a practical outcome, but practical outcomes do not cleanse a grave injustice. A conviction should mean something even when diplomacy is difficult, and the victims deserved consistency rather than a symbolic-",
+   "cut_at_sec": 267.06,
+   "full_dur_sec": 15.45,
+   "ext_file": "L026_026.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 259.66,
+   "end_sec": 260.9,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds, Bob."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 270.16,
+   "end_sec": 276.28,
+   "dur_sec": 6.12,
+   "overlap": true,
+   "text": "Your time is up, Bob. Thank you. And here to summarize her position against the motion, Caroline."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 276.48,
+   "end_sec": 294.35,
+   "dur_sec": 17.87,
+   "overlap": false,
+   "text": "The strongest point is that the victims' pain was real, and no release can erase that. But deploring this decision ignores the bomber's terminal illness and the possible value of diplomacy. Compassion and practical judgment can coexist, so this House should not condemn the release. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 294.55,
+   "end_sec": 300.28,
+   "dur_sec": 5.73,
+   "overlap": false,
+   "text": "Thank you both; that concludes the debate, and I appreciate your careful arguments on both sides."
+  }
+ ]
+}

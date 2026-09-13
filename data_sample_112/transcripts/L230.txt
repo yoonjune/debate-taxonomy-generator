@@ -1,0 +1,42 @@
+L230  |  A booming China spells trouble for America.
+  MOD=Bobby   PRO=Jacob   CON=Genevieve
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Bobby(MOD): Welcome to tonight's debate. Tonight's motion is whether a booming China spells trouble for America. Jacob argues for it, and Genevieve argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue before time expires.
+[t01] Jacob(PRO): A booming China does not merely offer new customers; it gives a rival government greater wealth, influence, and control over vital supply chains. When American jobs and essential goods depend on choices made elsewhere, prosperity becomes leverage. That leverage spells trouble for America. That's all, thank you.
+[t02] @A2-2 Bobby(MOD): Here's Genevieve to argue against whether a booming China spells trouble for America.
+[t03] Genevieve(CON): A growing China can buy more from American makers. Prosperity is not fixed; when buyers and sellers gain, America can gain too, rather than treating...
+[t04] <ovl> <cut> Jacob(PRO): But buying our goods can also build leverage-
+[t05] @A5 <ovl> Bobby(MOD): Let her answer that, if you want to come back on this.
+[t06] Genevieve(CON): it as harmless. If one buyer becomes powerful, American firms still have other customers and can set their own terms. More trade creates options, not automatic control.
+[t07] @A4 <ovl> Bobby(MOD): Ten seconds please.
+[t08] Genevieve(CON): That is why China's growth can expand American opportunity, not spell trouble.
+
+--- phase 2 ---
+[t09] @A3-1 Bobby(MOD): And that concludes round one. Now we move on to round two. And round two is where the debaters can address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t10] Jacob(PRO): Imagine a Chinese supplier suddenly withholding key machine parts after a dispute. American workshops halt, workers lose pay, and choices shrink. That dependence proves booming Chinese power can trouble America.
+[t11] Genevieve(CON): Every Chinese success benefits America. How does a cheaper product from a growing China spell trouble when families save money and American sellers reach more customers?
+[t12] Jacob(PRO): Cheaper goods do not erase the danger; I reject the idea that lower prices settle this. When vital production moves abroad, China gains leverage over American jobs, security, and choices.
+[t13] Genevieve(CON): This Chinese success harms America. When a Chinese firm dominates a tool market, it can squeeze American rivals, yet overall growth still gives families more choices and lower costs.
+[t14] @B2 Bobby(MOD): You're saying every Chinese success benefits America but you still want this Chinese success harms America.
+[t15] Genevieve(CON): Both statements fit: the same success harms America by exposing a weakness, while it benefits America through cheaper goods. The net effect remains opportunity, so China's growth is not trouble.
+[t16] Jacob(PRO): Your answer quietly swaps America for a single family at a checkout. Lower prices cannot compensate for lost capacity or coercion, so your claimed overall benefit ignores the motion's danger.
+[t17] Genevieve(CON): Take the tool market: machines need repair crews, spare bolts, training manuals, and warehouse schedules. Once a local workshop closes, its apprentices lose mentors, and the town's repair skills fade.
+[t18] @B1 Bobby(MOD): Okay. What does your point have to do with whether a booming China spells trouble for America?
+[t19] Genevieve(CON): That matters to the motion because China's growth need not cause those closures; American firms can adapt and sell into its expanding market. Trouble comes from poor domestic choices, not China's boom.
+[t20] <cut> Jacob(PRO): No, I reject your claim that domestic choices alone explain closures. A giant competitor backed by its government can underprice rivals until supply chains rely on it, and then-
+[t21] <ovl> Genevieve(CON): And then you assume competition is coercion. Firms can choose suppliers, build alternatives, and sell to Chinese customers; growth creates bargaining partners, not a command over America's future.
+[t22] Jacob(PRO): If booming China gives its leaders more control over shipping and components, why should American workers trust that leverage will never be used against them?
+[t23] Genevieve(CON): Your word 'never' is the weakness: no country can promise another government's future behavior. But fear of a possible abuse cannot make every Chinese success trouble for America.
+[t24] @A4 <ovl> Bobby(MOD): About ten seconds left in the crossfire.
+[t25] <cut> Jacob(PRO): Consider an American designer whose essential device part is made only in China. A political quarrel stops deliveries, customers wait, and the small business collapses. That proves concentrated power can-
+
+--- phase 3 ---
+[t26] @A3-2 <ovl> Bobby(MOD): Okay, time. Now we move on to round three. Round three will be closing statements. Here is Jacob.
+[t27] Jacob(PRO): Genevieve calls this diversification, but the motion asks what a booming China can do, not what we hope everyone will prevent. When its wealth turns into control over crucial goods and markets, American choices narrow. Cheap purchases today do not replace the independence lost when key businesses must wait for decisions made elsewhere.
+[t28] @A4 <ovl> Bobby(MOD): Well, now ten.
+[t29] Jacob(PRO): A boom that creates that leverage spells trouble, even if it also offers bargains. That's all, thank you.
+[t30] @A2-2 Bobby(MOD): Genevieve, the floor is yours.
+[t31] Genevieve(CON): The strongest point is that growth creates more customers, more goods, and more American choice. A foreign boom is not a command over America; dependence results from America's own failures to adapt. Meet competition with resilience and trade, and China's prosperity becomes an opportunity, not trouble. That's all, thank you.
+[t32] Bobby(MOD): Thank you, Jacob and Genevieve, for a spirited exchange, and thank you for joining us for this debate.

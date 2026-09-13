@@ -1,0 +1,39 @@
+L227  |  The Supreme Court should focus on the original meaning of the Constitution.
+  MOD=Liam   PRO=Elise   CON=Danny
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Liam(MOD): Welcome. Tonight's motion is that the Supreme Court should focus on the original meaning of the Constitution. Elise supports the motion, and Danny opposes it. Each speaker gets thirty seconds to open, two and a half minutes of crossfire, and thirty seconds to close. They address one another directly during crossfire, and I will give a ten-second cue.
+[t01] Elise(PRO): The Constitution is law, not a blank page for each generation. Original meaning gives judges a public anchor and keeps personal preferences from becoming constitutional commands. When difficult cases arise, the Court should begin with what the adopted words communicated, because that method lets citizens understand the limits of judicial power.
+[t02] @A4 <ovl> Liam(MOD): You have ten seconds left.
+[t03] Elise(PRO): That discipline protects the Constitution from being remade whenever judges prefer a newer answer instead. That's all, thank you.
+[t04] @A2-2 Liam(MOD): Okay. Let me take that to Danny.
+[t05] Danny(CON): Original meaning can inform a decision, but focus is too narrow for a charter meant to govern changing lives. Its broad promises use enduring language, and judges must apply those promises fairly when new harms appear. Freezing constitutional protection at old expectations hands the past control over people who never chose those limits.
+[t06] @A4 <ovl> Liam(MOD): I can give you ten seconds to do this.
+[t07] Danny(CON): A living Constitution asks judges to honor its principles, not imprison them in history alone. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Liam(MOD): And that concludes opening statements. Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t09] Elise(PRO): The Court should always follow original meaning. That rule respects the people's enacted Constitution, rather than letting unelected judges replace its terms with whatever outcome feels sensible today.
+[t10] Danny(CON): If original meaning is unclear, why should judges treat disputed old language as controlling? Answer directly: how does your method protect someone facing a harm the adopters never imagined?
+[t11] Elise(PRO): Here the Court should not follow original meaning. A person denied equal treatment deserves protection even when old expectations offered no clear answer, and the Constitution's principles still support the motion.
+[t12] @B2 Liam(MOD): I'm puzzled by your stand. On the one hand the Court should always follow original meaning and on the other hand here the Court should not follow original meaning.
+[t13] Elise(PRO): Both statements fit because following original meaning requires reading the Constitution's principles, not copying every expectation held long ago. Equal treatment is part of that meaning, so judges can protect it without abandoning the adopted text.
+[t14] Danny(CON): I agree that judges need a legal anchor, and history can provide useful context. But calling broad principles their original meaning lets judges choose the principle's scope, which is why the motion gives them much power.
+[t15] Elise(PRO): You say scope creates power, so look at the words lawyers must parse in old drafts and dictionaries. Their work depends on legible copies, careful archives, trained clerks, and classrooms that teach people how to read.
+[t16] @B1 Liam(MOD): We're not talking about that, we're talking about the Supreme Court should focus on original meaning, that's what we'll concentrate on.
+[t17] Elise(PRO): The question is whether the Court should focus on original meaning, and it should because the enacted text supplies a common starting point. Without that focus, broad language becomes permission for judges to write their preferences into law.
+[t18] <cut> Danny(CON): You call it a common starting point, but why must that starting point dominate when constitutional language is broad? If judges cannot consider present consequences, how can they protect a person whose freedom is threatened by-
+[t19] <ovl> Elise(PRO): Because the text's original meaning already protects freedom; you are assuming it cannot speak beyond old examples. Judges apply enduring words to new facts, but they must not invent a new meaning to reach preferred results.
+[t20] Danny(CON): Your new-facts point is weakest because application cannot be separated from interpretation. Once judges decide what freedom covers today, they choose among competing values, and original meaning supplies no neutral answer for that choice.
+[t21] @A4 <ovl> Liam(MOD): About ten seconds left in the crossfire.
+[t22] <cut> Elise(PRO): I grant that hard applications require judgment. Yet a judge's judgment is safer when bounded by original meaning, because otherwise broad words become-
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Liam(MOD): And that's time. We're gonna go onto our closing round. And first up will be Elise, you're first up, right?
+[t24] Elise(PRO): The strongest reason for this motion is democratic restraint. The Constitution gained authority because people adopted words with a public meaning, not because later judges could revise them. Focusing on that meaning gives citizens a stable rule and preserves space for elected institutions. My opponent calls this a prison, but a boundary is what keeps judicial power accountable.
+[t25] @A4 <ovl> Liam(MOD): Ten seconds from this side?
+[t26] Elise(PRO): Original meaning does not erase judgment; it directs judgment toward law rather than preference. That is the discipline the Court needs in difficult cases today. That's all, thank you.
+[t27] @A2-2 Liam(MOD): Thank you very much indeed. All right. Could I please ask Danny to speak against the motion, please.
+[t28] Danny(CON): Deciding this motion turns on whether the Constitution is a fixed historical instruction or a framework for justice across changing circumstances. History matters, but making it the focus lets long-dead expectations limit living people. Judges should enforce enduring principles in present cases, so reject the motion. That's all, thank you.
+[t29] Liam(MOD): Thank you, Elise and Danny, for a thoughtful debate; this concludes our discussion of the motion tonight.

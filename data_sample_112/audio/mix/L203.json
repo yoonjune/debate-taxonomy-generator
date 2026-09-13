@@ -1,0 +1,412 @@
+{
+ "debate_id": "L133",
+ "motion": "ChatGPT will do more harm than good.",
+ "speakers": {
+  "MOD": {
+   "name": "Gerard",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5176_653",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5176/MSP-PODCAST_5176_653.wav",
+   "wpm": 176.47
+  },
+  "PRO": {
+   "name": "Dean",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  },
+  "CON": {
+   "name": "Marcia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1206_312",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
+   "wpm": 165.44
+  }
+ },
+ "selective": [
+  "A1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 79.22,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 306.16,
+ "ext": {
+  "a32": {
+   "file": "L133_ext_a32.wav",
+   "place_at_sec": 226.935,
+   "dur_sec": 23.69,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "That shortcut is harmful, but your premise treats misuse as the standard use. A student can also ask for practice questions, feedback, and explanations, which strengthens learning and keeps benefits ahead."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.97,
+   "dur_sec": 20.97,
+   "overlap": false,
+   "text": "Welcome to this debate. Tonight's motion is that ChatGPT will do more harm than good. Dean argues for the motion, and Marcia argues against it. Openings last thirty seconds each, then two and a half minutes of direct crossfire, then thirty-second closings; I will give a ten-second cue before each timed speech ends. Each speaker must keep answers relevant."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.17,
+   "end_sec": 41.21,
+   "dur_sec": 20.04,
+   "overlap": false,
+   "text": "ChatGPT can produce confident errors at the exact moment people need dependable guidance. A learner, worker, or worried family may follow a polished answer without seeing the missing facts behind it. When a tool sounds certain while it guesses, it spreads mistakes quickly and weakens the habit of checking."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.17,
+   "end_sec": 44.62,
+   "dur_sec": 3.45,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.41,
+   "end_sec": 48.78,
+   "dur_sec": 7.37,
+   "overlap": false,
+   "text": "That combination of scale, trust, and hidden error makes the likely balance plainly more harmful than helpful. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 48.98,
+   "end_sec": 51.39,
+   "dur_sec": 2.41,
+   "overlap": false,
+   "text": "Can we ask her to answer? Marcia."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.59,
+   "end_sec": 68.72,
+   "dur_sec": 17.13,
+   "overlap": false,
+   "text": "Tools can be misused, and wrong answers deserve caution. But ChatGPT can explain a confusing task, offer a first draft, or help someone practice without replacing judgment. Its value comes from giving people a starting point, while people remain responsible for checking and deciding. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 68.92,
+   "end_sec": 82.35,
+   "dur_sec": 13.43,
+   "overlap": false,
+   "text": "And that concludes round one of this debate. Now we go on to round two. And round two are where the debaters address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 82.55,
+   "end_sec": 94.64,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Imagine someone facing a confusing form and using ChatGPT to translate dense instructions into plain steps. They can check those steps and act confidently. That access shows the tool can do more good than harm."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 95.308,
+   "end_sec": 106.068,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "When people treat ChatGPT's output as authority instead of a draft, its fluent mistakes can steer real decisions badly. That condition is common enough to make the overall balance harmful."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 106.942,
+   "end_sec": 117.912,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "I agree it can make a first explanation easier to understand. But your main claim assumes users surrender judgment; many compare, revise, and ask questions, so useful assistance outweighs its risks."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 118.413,
+   "end_sec": 128.613,
+   "dur_sec": 10.2,
+   "overlap": false,
+   "text": "ChatGPT invites overreliance because it speaks smoothly, even among users who begin cautiously. Its design scales plausible misinformation faster than ordinary checking can catch it, making harm exceed good."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 129.143,
+   "end_sec": 140.433,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "If checking is so unreliable, why does your case ignore people who use the tool beside teachers, manuals, and their own reasoning? Explain why assisted judgment cannot keep benefits ahead of harms."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 141.21,
+   "end_sec": 152.69,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "On your assisted judgment point, safeguards help only where people have time and skill to use them. The same easy access reaches rushed users who accept invented details, so harm still leads."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 153.385,
+   "end_sec": 164.995,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "Access depends on a working device, a quiet place, and time to frame a useful prompt. Those gaps matter, but the motion concerns outcomes, and accessible guidance can create more good than harm."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 165.245,
+   "end_sec": 177.005,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Assisted judgment can help, but it cannot protect everyone who relies on an answer alone. Your access claim overlooks how a polished false answer travels easily, making broad use more harmful than helpful."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 177.587,
+   "end_sec": 189.597,
+   "dur_sec": 12.01,
+   "overlap": false,
+   "text": "That working device also needs power, updates, storage, and a connection that does not vanish halfway through a task. When systems lag, people lose patience, switch settings, and depend on whoever maintains the equipment."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 189.797,
+   "end_sec": 194.047,
+   "dur_sec": 4.25,
+   "overlap": false,
+   "text": "We're talking about whether whether chatgpt will do more harm than good."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 194.247,
+   "end_sec": 205.937,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "Whether ChatGPT does more harm than good depends on what people do with it, and guided use brings real help. Your worst-case users do not erase ordinary users who check, adapt, and benefit."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.667,
+   "end_sec": 217.787,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "You say ordinary checking solves the danger, but how can a person detect a convincing fabrication in a subject they do not understand? That gap makes ChatGPT more harmful than good."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 218.165,
+   "end_sec": 229.775,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "On your fabrication point, people do not need perfect expertise to check; they can compare sources, ask for clarification, or seek help. A useful assistant supports those habits, so good can outweigh harm."
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 222.35,
+   "end_sec": 222.87,
+   "dur_sec": 0.52,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 230.065,
+   "end_sec": 233.15,
+   "dur_sec": 3.085,
+   "overlap": false,
+   "text": "A student uses ChatGPT to invent a believable-",
+   "ext_file": "L133_ext_a32.wav",
+   "cut_at_sec": 230.02,
+   "full_dur_sec": 12.52
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 232.35,
+   "end_sec": 237.48,
+   "dur_sec": 5.13,
+   "overlap": true,
+   "text": "Okay, time. And now we move onto Round three. Speaking first for the motion, Dean."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 237.68,
+   "end_sec": 258.04,
+   "dur_sec": 20.36,
+   "overlap": false,
+   "text": "Deciding this motion turns on more than whether ChatGPT sometimes helps. It turns on what happens when a persuasive system is used at enormous scale by people who cannot readily test it. A draft can be checked, but false confidence is hard to notice before damage occurs. The question is whether convenience outweighs that structural risk."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 257.68,
+   "end_sec": 259.53,
+   "dur_sec": 1.85,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 258.24,
+   "end_sec": 268.65,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "Marcia offers careful users, yet the tool reaches careless and vulnerable users as well. Its errors gain influence precisely because they arrive sounding helpful. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 268.85,
+   "end_sec": 271.18,
+   "dur_sec": 2.33,
+   "overlap": false,
+   "text": "All right, so let me bring Marcia."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 271.38,
+   "end_sec": 291.16,
+   "dur_sec": 19.78,
+   "overlap": false,
+   "text": "The strongest point is that ChatGPT is a tool people can direct, question, and verify. It can turn confusion into a starting point for learning, work, and communication. Misuse exists, as with any powerful aid, but it is not the only or usual outcome. We should judge the help people can actively gain."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 291.36,
+   "end_sec": 302.68,
+   "dur_sec": 11.32,
+   "overlap": false,
+   "text": "Dean treats every error as proof the whole tool is harmful. But people correct, compare, and reject bad answers. With judgment, ChatGPT's useful reach in daily work and learning exceeds its-",
+   "cut_at_sec": 298.18,
+   "full_dur_sec": 14.09,
+   "ext_file": "L133_030.wav"
+  },
+  {
+   "i": 29,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 291.38,
+   "end_sec": 292.62,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Marcia, ten seconds."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 301.88,
+   "end_sec": 304.29,
+   "dur_sec": 2.41,
+   "overlap": true,
+   "text": "Thank you, Marcia. Your time is up."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 304.49,
+   "end_sec": 310.66,
+   "dur_sec": 6.17,
+   "overlap": false,
+   "text": "Thank you, Dean and Marcia; this concludes our debate on whether ChatGPT will do more harm than good."
+  }
+ ]
+}

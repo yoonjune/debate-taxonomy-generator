@@ -1,0 +1,420 @@
+{
+ "debate_id": "L065",
+ "motion": "Blame Washington More Than Wall Street for the Financial Crisis",
+ "speakers": {
+  "MOD": {
+   "name": "Nathaniel",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6916_657",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6916/MSP-PODCAST_6916_657.wav",
+   "wpm": 175.38
+  },
+  "PRO": {
+   "name": "Ryan",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6071_804",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6071/MSP-PODCAST_6071_804.wav",
+   "wpm": 168.17
+  },
+  "CON": {
+   "name": "Jillian",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1206_312",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1206/MSP-PODCAST_1206_312.wav",
+   "wpm": 165.44
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 94.27,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 308.86,
+ "ext": {
+  "a32": {
+   "file": "L065_ext_a32.wav",
+   "place_at_sec": 231.783,
+   "dur_sec": 36.27,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Your weakest claim is that rescue made failure safe. A rescue after collapse does not explain why firms first hid risk, inflated values, and kept selling; those intentional acts make Wall Street more blameworthy."
+  },
+  {
+   "src_i": 25,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "The authority deserves greater blame because it made that pattern cheap, lightly checked, and rescue-ready across the system. Firms exploited the opening, but Washington built the opening and should carry more blame."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.12,
+   "dur_sec": 21.12,
+   "overlap": false,
+   "text": "Welcome to our debate on whether we should blame Washington more than Wall Street for the financial crisis. Ryan supports the motion, and Jillian opposes it. Each opening and closing lasts thirty seconds. Then comes two and a half minutes of crossfire, with a ten-second cue. I will keep the order fair and ask both speakers to address the motion directly."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.32,
+   "end_sec": 41.33,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "Wall Street made reckless choices, but it operated inside a system Washington built and protected. Officials pushed easy credit, weakened meaningful oversight, and rescued failure after it happened. When rules reward risk while taxpayers absorb collapse, the larger blame belongs to the rule makers, because they shaped incentives across the whole market."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.32,
+   "end_sec": 44.13,
+   "dur_sec": 2.81,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.53,
+   "end_sec": 49.06,
+   "dur_sec": 7.53,
+   "overlap": false,
+   "text": "they made dangerous lending rational long before any single firm chose its strategy for the crisis. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 49.26,
+   "end_sec": 52.54,
+   "dur_sec": 3.28,
+   "overlap": false,
+   "text": "Thank you, Ryan. Speaking for the resolution. Jillian, against."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 52.74,
+   "end_sec": 62.59,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "That reverses responsibility. Public policy may have been flawed, but firms designed the deceptive deals, chased short-term gains, and spread losses through the economy recklessly."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 61.69,
+   "end_sec": 63.99,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But think of the homeowner promised a payment he could-",
+   "cut_at_sec": 62.14,
+   "full_dur_sec": 9.53,
+   "ext_file": "L065_006.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 63.19,
+   "end_sec": 65.41,
+   "dur_sec": 2.22,
+   "overlap": true,
+   "text": "Please let her address the principle."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 65.61,
+   "end_sec": 75.7,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "and no official forced them to hide risk from buyers. The principle is simple: private actors who knowingly create fragile products deserve the greater blame here."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 72.74,
+   "end_sec": 75.63,
+   "dur_sec": 2.89,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 75.9,
+   "end_sec": 83.51,
+   "dur_sec": 7.61,
+   "overlap": false,
+   "text": "Washington failed as referee, but Wall Street chose to cheat, package, sell, and repeat that choice. That's all, thank you."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 83.71,
+   "end_sec": 97.88,
+   "dur_sec": 14.17,
+   "overlap": false,
+   "text": "And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 98.08,
+   "end_sec": 109.85,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "No, Washington's signals did not make deception inevitable; firms could lend honestly and disclose risk. You call officials the architects, but architects do not force traders to sell products they know will fail."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 110.279,
+   "end_sec": 123.519,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "Consider a lender who offers a loan with hidden costs because weak rules make scrutiny unlikely. The family loses its home, taxpayers later fund rescue, and that chain begins with Washington's incentives, not merely one greedy desk-"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 122.619,
+   "end_sec": 133.909,
+   "dur_sec": 11.29,
+   "overlap": true,
+   "text": "No, the chain begins when that lender decides to conceal the costs, and rules cannot erase that choice. Washington enabled mistakes, but Wall Street turned them into profitable practices across the market."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 134.679,
+   "end_sec": 147.559,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "I agree that some firms hid terms and deserve serious blame. But officials set the lending targets, tolerated loose standards, and signaled rescue, so their choices made reckless behavior broadly rewarding, which makes Washington more blameworthy."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.523,
+   "end_sec": 161.093,
+   "dur_sec": 12.57,
+   "overlap": false,
+   "text": "If Washington is chiefly guilty for setting incentives, why did firms invent opaque products beyond any requirement and market them aggressively? Your account excuses the people who knew the risks, which leaves Wall Street more blameworthy."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 161.542,
+   "end_sec": 173.712,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "Rescues also damaged public trust, because people watched losses socialized while rewards stayed private. But trust is not the test here: Washington created the rescue expectation that distorted decisions, so Washington deserves more blame."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 174.304,
+   "end_sec": 186.074,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "No, I reject that Washington created an expectation that erased firm judgment; executives chose to exploit it. If rescue distorted decisions, that shows both failed, yet deliberate deception leaves Wall Street more blameworthy."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 186.986,
+   "end_sec": 199.186,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Inside those firms, bonus meetings rewarded the employee who closed the most complicated sale, while caution looked weak. Changing pay rules, training managers, and giving buyers clearer papers would make daily lending less predatory."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 199.386,
+   "end_sec": 208.376,
+   "dur_sec": 8.99,
+   "overlap": false,
+   "text": "But we've got to come away with something from this debate more concrete than just that washington deserves more blame than Wall Street for the crisis."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 208.576,
+   "end_sec": 221.356,
+   "dur_sec": 12.78,
+   "overlap": false,
+   "text": "The question is whether Washington deserves more blame than Wall Street, and it does because official rules shaped every firm's incentives. Firms acted badly, but government made cheap risk, weak review, and rescue the operating environment."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 222.344,
+   "end_sec": 234.544,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "I grant that rescue policy can encourage risk, and Washington should answer for that. Yet it did not draft the misleading contracts or choose the wagers; firms did, so Wall Street bears the heavier blame."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 235.393,
+   "end_sec": 248.203,
+   "dur_sec": 12.81,
+   "overlap": false,
+   "text": "If Wall Street bears more blame because it wrote the contracts, who made reckless lending cheap, lightly checked, and safely rescued when it failed? Why blame the seller more than the authority that designed those rewards?",
+   "ext_file": "L065_ext_a32.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 237.88,
+   "end_sec": 239.48,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 247.88,
+   "end_sec": 255.49,
+   "dur_sec": 7.61,
+   "overlap": true,
+   "text": "Time's up. We need to move into our closing round. Ryan, you are up first with that, as you were at the beginning."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 255.69,
+   "end_sec": 275.3,
+   "dur_sec": 19.61,
+   "overlap": false,
+   "text": "Deciding this motion is not about pretending firms were innocent. They were not, and they should face consequences. It is about identifying who created the incentives, the weak guardrails, and the promise that failure would be cushioned. When public power makes reckless conduct sensible throughout a market, responsibility reaches beyond the individual deal makers."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 275.5,
+   "end_sec": 286.99,
+   "dur_sec": 11.49,
+   "overlap": false,
+   "text": "to the officials who set the terms. Wall Street supplied the misconduct, but Washington supplied the permission structure. If we want an honest account of the crisis, we must place the greater-",
+   "cut_at_sec": 283.38,
+   "full_dur_sec": 14.41,
+   "ext_file": "L065_030.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 275.69,
+   "end_sec": 278.8,
+   "dur_sec": 3.11,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 286.19,
+   "end_sec": 289.66,
+   "dur_sec": 3.47,
+   "overlap": true,
+   "text": "I'm going to stop you there, Ryan, we're out of time. Jillian."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 289.86,
+   "end_sec": 307.81,
+   "dur_sec": 17.95,
+   "overlap": false,
+   "text": "This decision turns on agency: who knowingly turned risk into products and sold them despite the danger. Washington was a weak referee and deserves blame. But Wall Street chose the deception, multiplied it for profit, and directly caused the damage, so it deserves more blame. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 308.01,
+   "end_sec": 314.57,
+   "dur_sec": 6.56,
+   "overlap": false,
+   "text": "Thank you, Ryan and Jillian, for a focused exchange, and thank you for joining us for this debate."
+  }
+ ]
+}

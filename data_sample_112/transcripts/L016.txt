@@ -1,0 +1,41 @@
+L016  |  True love is a myth.
+  MOD=Cecilia   PRO=Ben   CON=Alice
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Cecilia(MOD): Today's motion is, "True love is a myth." Ben argues for it, and Alice argues against it. Each gets thirty seconds to open, then we have two and a half minutes of crossfire. I will give a ten-second cue. Finally, each gets thirty seconds for a closing statement.
+[t01] Ben(PRO): True love is usually sold as a forever feeling that makes one person uniquely meant for another. But feelings change, people change, and the promise survives mostly because we repeat it. I am not denying affection or loyalty. I am arguing that the flawless, permanent thing called true love is a story, not a fact.
+[t02] @A4 <ovl> Cecilia(MOD): You've got ten seconds.
+[t03] <cut> Ben(PRO): Real couples can care deeply and still discover that their supposed destiny was ordinary compatibility. We mistake powerful hope for proof, then call the disappointment tragic rather-
+[t04] @A2-1 <ovl> Cecilia(MOD): That's time, thank you. Alice, the floor is yours.
+[t05] Alice(CON): Ben is right that people change, but he treats change as proof that love was never true. A promise can be real without being flawless, and a relationship can survive disappointment. True love is not a magic guarantee against loss; it is a genuine bond built through choice, care, and honesty. Calling that bond a myth erases the reality people live.
+[t06] @A4 <ovl> Cecilia(MOD): Ten.
+[t07] Alice(CON): If love ends, that does not make the love false. It means a real thing can be temporary, and true love remains more than a fantasy. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Cecilia(MOD): So, we move on to round two. And Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t09] Alice(CON): You say changing feelings expose true love as invented, but that confuses permanence with truth. A friendship can matter even after distance, and love can be genuine without becoming eternal.
+[t10] Ben(PRO): I believe true love never lasts forever. If your bond depends on permanence, how can its ending prove it was true rather than merely intense?
+[t11] Alice(CON): It does not depend on permanence; that is your premise, and I reject it. A bond can be true because people freely choose one another, not because time stops moving.
+[t12] Ben(PRO): This true love lasts forever. You cannot call an enduring feeling proof of a special essence when the same devotion can be explained by memory, habit, or hope.
+[t13] @B2 Cecilia(MOD): Ben, thank you very much indeed. You said true love never lasts forever. This true love lasts forever?
+[t14] Ben(PRO): Those statements fit because a perfect shared life never lasts forever, while this particular love lasts forever as a memory. A lasting memory still does not make the myth real.
+[t15] Alice(CON): I grant that memory can preserve an emotion, but you keep replacing lived commitment with a definition designed to defeat it. People choose, sacrifice, and remain faithful; that makes true love real.
+[t16] Ben(PRO): That choice also creates practical disputes: whose name goes on the lease, who keeps the furniture, and how the savings are divided when plans change? I trust written agreements more than romantic promises.
+[t17] @B1 Cecilia(MOD): Okay, again, it's not on our topic about true love is a myth.
+[t18] Ben(PRO): The motion asks whether true love exists, not whether paperwork can protect people when relationships fail. Since lasting devotion can be explained without destiny, the grand idea remains a myth.
+[t19] Alice(CON): No, lasting devotion does not need destiny, and that does not make it mythical. You are answering a stronger claim than mine: I defend real love, not magical certainty.
+[t20] Ben(PRO): Your weakest point is treating sincere effort as evidence of true love itself. Effort proves that people care, but it cannot prove one exceptional force beyond ordinary human attachment.
+[t21] Alice(CON): When one partner sits beside the other through fear, keeps a promise after resentment, and asks for nothing in return, that steady care shows love is real, not mythical.
+[t22] Ben(PRO): I grant that steady care can be noble, but nobility does not establish a unique, permanent kind of love. It shows human kindness, which is enough to explain the evidence and support my side.
+[t23] @A4 <ovl> Cecilia(MOD): About ten seconds left in the crossfire.
+[t24] <cut> Alice(CON): You answer steady care by renaming it kindness, but that is the very point at issue. A different label-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Cecilia(MOD): That's time. So onto round three. Round three, closing statements from each debater in turn, uninterrupted. And here to summarize his position in support of true love is a myth, Ben.
+[t26] Ben(PRO): True love may describe tenderness, loyalty, and sacrifice, but those qualities do not require a mythical force. They arise from ordinary people, changing circumstances, and stories we tell ourselves. The ideal is beautiful, but beauty is not proof. That's all, thank you.
+[t27] @A2-2 Cecilia(MOD): Okay. I need to let Alice back into this conversation. So Alice, jump on in please.
+[t28] Alice(CON): Ben has shown that love is not always permanent, but permanence was never my test. True love means that care, trust, and commitment are genuinely felt and freely given. When people stand by each other through hardship, the bond is real even if life later changes. Calling every such bond a myth mistakes imperfection for unreality.
+[t29] @A4 <ovl> Cecilia(MOD): Just, just about ten seconds left.
+[t30] Alice(CON): A love need not last forever to have been true, and that is why true love is real. That's all, thank you.
+[t31] Cecilia(MOD): Thank you both for your thoughtful arguments. That concludes the debate.

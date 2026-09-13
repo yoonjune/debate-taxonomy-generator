@@ -1,0 +1,373 @@
+{
+ "debate_id": "L046",
+ "motion": "The GOP must seize the center or die",
+ "speakers": {
+  "MOD": {
+   "name": "Carissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  },
+  "PRO": {
+   "name": "Amanda",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  },
+  "CON": {
+   "name": "Rick",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 83.88,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 300.01,
+ "ext": {
+  "a32": {
+   "file": "L046_ext_a32.wav",
+   "place_at_sec": 222.45,
+   "dur_sec": 36.28,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "I am answering your point about a powerless voice. Winning by blurring convictions produces a label with no reason for loyalty; people can reject it just as easily, while principled outreach builds durable support."
+  },
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "I grant that principles must be recognizable. But your main claim makes outreach sound like betrayal, when voters need to see principles solve shared problems; without that broader trust, the GOP dies."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.37,
+   "dur_sec": 19.37,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that the GOP must seize the center or die. Amanda supports it, and Rick opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue during each timed statement; keep your remarks direct and address each other."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.57,
+   "end_sec": 39.18,
+   "dur_sec": 19.61,
+   "overlap": false,
+   "text": "Winning requires persuading people who do not already agree with you. A party that speaks only to its safest voters can feel loud while becoming smaller. The center is not surrender; it is the broad ground where practical promises earn trust. If the GOP refuses that work, its coalition will."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.38,
+   "end_sec": 50.87,
+   "dur_sec": 11.49,
+   "overlap": false,
+   "text": "It will not be rescued by anger alone. National power needs voters who want order, opportunity, and compromise, not endless internal tests. Seizing the center means building a governing majority-",
+   "cut_at_sec": 50.87,
+   "full_dur_sec": 14.15,
+   "ext_file": "L046_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.57,
+   "end_sec": 41.17,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 50.07,
+   "end_sec": 53.36,
+   "dur_sec": 3.29,
+   "overlap": true,
+   "text": "Amanda, that's your time. Thank you. And now, Rick."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.56,
+   "end_sec": 71.9,
+   "dur_sec": 18.34,
+   "overlap": false,
+   "text": "My opponent confuses changing the message with living. Parties survive by giving existing supporters a reason to work, vote, and trust. The center changes from one moment to the next, but a clear purpose can attract new people without abandoning the people who built it. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 72.1,
+   "end_sec": 86.14,
+   "dur_sec": 14.04,
+   "overlap": false,
+   "text": "And that concludes round one. On to round two. Round two is where the debaters address one another in turn. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 86.34,
+   "end_sec": 96.67,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "I agree that loyal voters deserve respect. But your core point mistakes a base for a majority: if the party cannot win beyond its base, loyalty cannot keep it alive."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 97.078,
+   "end_sec": 110.238,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "The real question is whether border rules are firm enough to protect wages and public safety. Leaders should enforce clear entry rules, punish abuse, and listen to workers who worry that local services are crowded and strained."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 110.438,
+   "end_sec": 117.338,
+   "dur_sec": 6.9,
+   "overlap": false,
+   "text": "Please address the issue that I did raise, which is the gop must seize the center or die."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 117.538,
+   "end_sec": 129.378,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "On whether the GOP must seize the center or die, no: it can grow by explaining firm principles to people now overlooked. Survival comes from a compelling identity, not chasing a shifting label."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 129.763,
+   "end_sec": 140.173,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "Candidate training and local organizing matter, because volunteers need useful tools and neighborhood ties. But those tools cannot overcome a narrow appeal; the GOP must seize the center to survive."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 140.404,
+   "end_sec": 151.454,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "No party should ever abandon its core voters. A party may invite newcomers, but survival rests on people who trust its word, so the GOP can endure without seizing the center."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 152.098,
+   "end_sec": 164.188,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Your point about core voters treats them as a fixed possession. They are citizens with changing needs, and refusing broader answers drives away persuadable voters and frustrated supporters; that is why the center matters."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 164.545,
+   "end_sec": 176.305,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "This party should abandon its core voters. When those voters demand permanent defeat instead of workable government, the GOP should build a broader coalition, because survival matters more than protecting an exhausted faction."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 176.505,
+   "end_sec": 186.595,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "I'm puzzled by your stand. On the one hand no party should ever abandon its core voters and on the other hand this party should abandon its core voters."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 186.795,
+   "end_sec": 198.195,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Core voters are people who share a party's purpose, not any faction claiming ownership. The exhausted faction I named has left that purpose, so keeping the core means leaving that faction behind."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 198.746,
+   "end_sec": 211.626,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Imagine a parent who wants safer streets and steady schools but hears only attacks on enemies. She stays home, the party loses a winnable race, and its priorities vanish. That proves the GOP needs the center."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 212.118,
+   "end_sec": 224.218,
+   "dur_sec": 12.1,
+   "overlap": false,
+   "text": "If seizing the center requires muting the convictions that made supporters trust the GOP, what remains for them to support? You cannot call a party alive when its voters no longer recognize its voice."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 224.71,
+   "end_sec": 236.91,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Your question assumes the center demands silence, which is its weakest premise. Seizing it means applying convictions to everyday problems in language more people can trust; a recognizable voice that cannot win is powerless.",
+   "ext_file": "L046_ext_a32.wav"
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 226.14,
+   "end_sec": 228.66,
+   "dur_sec": 2.52,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 236.14,
+   "end_sec": 246.73,
+   "dur_sec": 10.59,
+   "overlap": true,
+   "text": "And that's time. And now we move on to Round three. Here making her closing statement in support of the motion that the gop must seize the center or die, Amanda."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 246.93,
+   "end_sec": 267.21,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Rick's best argument is that a party cannot survive by insulting its loyal voters. He is right that loyalty deserves respect, but he mistakes expanding the coalition for abandoning it. The GOP can keep convictions while offering practical answers to people outside its usual camp. Elections decide whether those answers become policy, and the next question is what voters actually hear."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 266.93,
+   "end_sec": 268.74,
+   "dur_sec": 1.81,
+   "overlap": true,
+   "text": "Ten seconds for last word."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 267.41,
+   "end_sec": 278.0,
+   "dur_sec": 10.59,
+   "overlap": false,
+   "text": "They hear whether the party can govern for them, not merely argue with itself. Seizing the center makes a durable majority possible. That is survival. That's all, thank you."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 278.2,
+   "end_sec": 280.57,
+   "dur_sec": 2.37,
+   "overlap": false,
+   "text": "Rick, you wanted to come in briefly."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 280.77,
+   "end_sec": 300.07,
+   "dur_sec": 19.3,
+   "overlap": false,
+   "text": "The strongest point remains simple: survival needs trust, not a fashionable label. A party earns trust by keeping faith with the voters who carried it and inviting others through clear principles. The GOP can grow from its foundation; it does not have to seize the center to live. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 300.27,
+   "end_sec": 306.79,
+   "dur_sec": 6.52,
+   "overlap": false,
+   "text": "Thank you, Amanda and Rick, for a thoughtful debate. That concludes our discussion of this motion for tonight."
+  }
+ ]
+}

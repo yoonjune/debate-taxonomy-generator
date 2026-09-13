@@ -1,0 +1,430 @@
+{
+ "debate_id": "L007",
+ "motion": "Russia is becoming our enemy again",
+ "speakers": {
+  "MOD": {
+   "name": "Christopher",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5993_347",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5993/MSP-PODCAST_5993_347.wav",
+   "wpm": 163.88
+  },
+  "PRO": {
+   "name": "Caroline",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3493_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3493/MSP-PODCAST_3493_43.wav",
+   "wpm": 162.3
+  },
+  "CON": {
+   "name": "Michelle",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0927_381",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0927/MSP-PODCAST_0927_381.wav",
+   "wpm": 176.74
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 78.76,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 288.42,
+ "ext": {
+  "a32": {
+   "file": "L007_ext_a32.wav",
+   "place_at_sec": 225.568,
+   "dur_sec": 8.97,
+   "src_i": 25
+  }
+ },
+ "flags": [
+  "ext_a32: 마감 뒤 5.8초뿐 (여유분 부족)"
+ ],
+ "dropped_turns": [],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.16,
+   "dur_sec": 19.16,
+   "overlap": false,
+   "text": "The motion is, \"Russia is becoming our enemy again.\" Caroline supports it; Michelle opposes it. Each side gets thirty seconds to open, followed by two and a half minutes of direct crossfire. Then each side gets thirty seconds to close. I will give a ten-second cue before each limit, and I will manage interruptions."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.36,
+   "end_sec": 29.13,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "Russia is becoming our enemy again because its threats, pressure, and contempt for shared rules are no longer isolated incidents. They shape how we must protect ourselves."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 28.23,
+   "end_sec": 30.53,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "No, pressure is not proof of enmity, and calling-",
+   "cut_at_sec": 30.53,
+   "full_dur_sec": 8.25,
+   "ext_file": "L007_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 29.73,
+   "end_sec": 32.5,
+   "dur_sec": 2.77,
+   "overlap": true,
+   "text": "I'm sorry, hold on a moment."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 32.7,
+   "end_sec": 42.98,
+   "dur_sec": 10.28,
+   "overlap": false,
+   "text": "That pattern is now strategic, not accidental. It challenges our security, pressures nearby societies, and tests whether we will defend rules that keep smaller countries safe."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.36,
+   "end_sec": 41.24,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 43.18,
+   "end_sec": 51.17,
+   "dur_sec": 7.99,
+   "overlap": false,
+   "text": "Treating that pattern as harmless would invite more pressure, not peace. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 51.37,
+   "end_sec": 52.89,
+   "dur_sec": 1.52,
+   "overlap": false,
+   "text": "Okay. Michelle, you're in."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.09,
+   "end_sec": 69.47,
+   "dur_sec": 16.38,
+   "overlap": false,
+   "text": "Russia can be difficult, threatening, and deeply frustrating without becoming our enemy again. Enemies are defined by sustained conflict, not every sharp dispute. We should defend ourselves while preserving diplomacy, because negotiation can restrain danger where labels only harden it. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.67,
+   "end_sec": 82.59,
+   "dur_sec": 12.92,
+   "overlap": false,
+   "text": "Thank you, Michelle. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 82.79,
+   "end_sec": 92.8,
+   "dur_sec": 10.01,
+   "overlap": false,
+   "text": "You called the evidence mere disagreement, but pressure on neighbors and repeated threats are more than rhetoric. When conduct steadily targets our security, treating it as hostility is responsible."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 93.377,
+   "end_sec": 101.467,
+   "dur_sec": 8.09,
+   "overlap": false,
+   "text": "I grant that threatening language deserves a firm response. But your main claim turns every confrontation into a return to open enmity, because-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 100.567,
+   "end_sec": 110.637,
+   "dur_sec": 10.07,
+   "overlap": true,
+   "text": "You are already minimizing the conduct. I am not calling every dispute a war; I am recognizing a pattern that makes peaceful assumptions unsafe, especially when warnings become actions."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 110.972,
+   "end_sec": 120.822,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "If Russia is truly becoming our enemy, why leave room for negotiation at all? Wouldn't your label encourage permanent hostility and make the security problem harder to solve?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 121.32,
+   "end_sec": 132.8,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "A related problem appears in a household protecting its front door. Clear locks, trusted alerts, and agreed signals let families respond quickly without panic, while vague warnings leave everyone exposed and confused."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 133.0,
+   "end_sec": 138.05,
+   "dur_sec": 5.05,
+   "overlap": false,
+   "text": "We're talking about whether russia is becoming our enemy again in this moment."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 138.25,
+   "end_sec": 149.0,
+   "dur_sec": 10.75,
+   "overlap": false,
+   "text": "The motion asks whether Russia is becoming our enemy again, and its conduct supports yes. Negotiation can continue, but it cannot erase threats, coercion, or deliberate pressure against our security."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.602,
+   "end_sec": 152.492,
+   "dur_sec": 2.89,
+   "overlap": false,
+   "text": "No state should ever be called an enemy."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 152.892,
+   "end_sec": 162.322,
+   "dur_sec": 9.43,
+   "overlap": false,
+   "text": "I grant that labels can close doors. But refusing the enemy label in every serious case also blinds us to danger, and Russia's repeated pressure demands a harder judgment."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 162.986,
+   "end_sec": 171.556,
+   "dur_sec": 8.57,
+   "overlap": false,
+   "text": "This state should be called an enemy. Its conduct has crossed from unpleasant disagreement into a direct challenge that deserves the strongest political response available."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 171.756,
+   "end_sec": 181.226,
+   "dur_sec": 9.47,
+   "overlap": false,
+   "text": "I'm puzzled by your stand. On the one hand no state should ever be called an enemy and on the other hand this state should be called an enemy."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 181.426,
+   "end_sec": 192.716,
+   "dur_sec": 11.29,
+   "overlap": false,
+   "text": "The rule expresses my principle against careless labels, while the case expresses my judgment about this particular state. I still reject the motion because one judgment cannot erase the need for diplomacy."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 193.624,
+   "end_sec": 204.684,
+   "dur_sec": 11.06,
+   "overlap": false,
+   "text": "Your distinction does not answer the contradiction: you forbid calling any state an enemy, then call this state an enemy. That retreat from your own rule exposes how serious Russia's conduct is."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 205.296,
+   "end_sec": 216.266,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "The weakest point is your claim that naming an enemy clarifies danger. It can instead simplify a tangled relationship, strengthen hardliners, and reduce the peaceful options you say should remain available."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 216.704,
+   "end_sec": 228.544,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "You say labels create danger, but avoiding an accurate label creates its own danger. Russia's threats and coercion already narrow our choices, so recognizing the enemy trend helps us respond before it deepens."
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 222.59,
+   "end_sec": 225.2,
+   "dur_sec": 2.61,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 26,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 229.398,
+   "end_sec": 233.39,
+   "dur_sec": 3.992,
+   "overlap": false,
+   "text": "I grant that Russia's behavior deserves resistance. But resistance does not require-",
+   "ext_file": "L007_ext_a32.wav",
+   "cut_at_sec": 229.56,
+   "full_dur_sec": 8.97
+  },
+  {
+   "i": 27,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 232.59,
+   "end_sec": 238.31,
+   "dur_sec": 5.72,
+   "overlap": true,
+   "text": "And that's time. Okay. Let's all redeem ourselves with our closing statements. So Caroline, you're up first."
+  },
+  {
+   "i": 28,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 238.51,
+   "end_sec": 253.58,
+   "dur_sec": 15.07,
+   "overlap": false,
+   "text": "The strongest point is the pattern: threats, coercion, and pressure are not isolated disagreements. They show a state acting against our security. We can keep talking, but clear-eyed resistance is wiser than pretending the danger is merely diplomatic friction. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 253.78,
+   "end_sec": 259.81,
+   "dur_sec": 6.03,
+   "overlap": false,
+   "text": "Okay, Caroline, thank you very much indeed. Could I now please ask Michelle to speak against the motion."
+  },
+  {
+   "i": 30,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 260.01,
+   "end_sec": 280.29,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "The other side's best argument is that repeated pressure forms a pattern. I accept that pattern deserves resistance, but resistance is not the same as declaring a renewed enemy. That label hardens every dispute, weakens diplomacy, and makes compromise look like surrender. Russia may be dangerous without fitting that final category. The motion asks us to make a sweeping judgment, and the wiser answer is no."
+  },
+  {
+   "i": 31,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 280.01,
+   "end_sec": 281.05,
+   "dur_sec": 1.04,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 32,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 280.49,
+   "end_sec": 291.2,
+   "dur_sec": 10.71,
+   "overlap": false,
+   "text": "We should protect ourselves firmly while keeping communication open. Caution is not weakness; it is the best way to prevent rivalry from becoming lasting enmity. That's all, thank you."
+  },
+  {
+   "i": 33,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 291.4,
+   "end_sec": 296.08,
+   "dur_sec": 4.68,
+   "overlap": false,
+   "text": "Thank you both for taking part; that closes the debate without declaring a winner."
+  }
+ ]
+}

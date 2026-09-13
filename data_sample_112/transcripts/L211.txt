@@ -1,0 +1,42 @@
+L211  |  Today the technology and the information available to everyone mean that retail investors can and should invest and trade on their own because they can expect to do well.
+  MOD=Kenji   PRO=Anthony   CON=Jacob
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Kenji(MOD): Welcome to our debate on whether retail investors can reasonably invest and trade alone today. Anthony supports the motion, and Jacob opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue before each timed speech ends.
+[t01] Anthony(PRO): Modern investors can see prices, compare businesses, set simple rules, and place low-cost trades without a gatekeeper. That access matters because advice once reserved for insiders is now on an ordinary screen. People can learn to spread risk and avoid impulsive bets. Independent investing is not magic, but it gives careful people practical control over their savings.
+[t02] @A4 <ovl> Kenji(MOD): Well, now it's ten.
+[t03] <cut> Anthony(PRO): The other side will treat every retail investor as reckless, yet tools can build patience through automatic plans and clear records. When people understand what they own, they can make choices that-
+[t04] @A2-1 <ovl> Kenji(MOD): I'm going to stop you there, Anthony, we're out of time. Jacob.
+[t05] Jacob(CON): Easy access is not the same as sound judgment. A screen can deliver endless opinions, urgent alerts, and trading buttons, but it cannot supply experience or discipline. Retail investors face powerful emotions when prices move. They may mistake familiarity for knowledge, chase a rumor, or sell at the worst moment. The motion promises they can expect to do well, and that promise is too broad.
+[t06] @A4 <ovl> Kenji(MOD): You have ten seconds.
+[t07] Jacob(CON): Technology can help people save, but it also makes costly action effortless. Information without judgment overwhelms rather than protects, so independent trading is not a reliable path to doing well. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Kenji(MOD): And that concludes round one. Now on to round two. That's where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t09] Anthony(PRO): If people can read company reports, use diversified funds, and automate regular purchases, why should they surrender control to someone whose incentives may not match their goals? Can you explain why access and discipline cannot work together?
+[t10] Jacob(CON): Your point is that access and discipline can work together. They can, but the motion says retail investors can expect to do well, while most people lack the time and calm required to use those tools consistently.
+[t11] <cut> Anthony(PRO): Consider a worker who sets a monthly purchase into a broad fund and ignores daily noise. Low-cost technology lets him own many businesses without paying for constant advice, so patient independence can turn ordinary saving into durable progress for retail investors-
+[t12] Jacob(CON): People also need protection from deceptive advertising and confusing account terms, which deserves attention. But return to the motion: a broad fund may reduce some risk, yet it does not make retail trading a dependable expectation of doing well.
+[t13] Anthony(PRO): You are right that a broad fund does not erase risk. But your main point assumes people must trade frantically; technology also supports slow, diversified investing, where clear information and simple defaults give retail investors a fair chance to do well.
+[t14] Jacob(CON): When someone has a long horizon, a diversified plan, and refuses to react to daily swings, independent investing can be sensible. But those conditions are demanding, so the motion cannot turn a careful exception into an expectation for everyone.
+[t15] Anthony(PRO): You call discipline demanding, but people learn demanding skills every day with clear tools and practice. Why deny investors the chance to build a simple plan when automated limits can protect them from their own worst impulses?
+[t16] Jacob(CON): Retail markets reward caution less often than advertisements suggest, because information arrives without a trustworthy ranking of what matters. A person may have every fact available and still misunderstand the business, the risk, or the timing.
+[t17] Anthony(PRO): A new investor can use a platform to compare fees, choose a broad fund, and schedule small purchases while avoiding flashy tips. That example proves accessible technology can convert careful learning into a workable independent strategy.
+[t18] Jacob(CON): I do not deny that automated limits can help, but they cannot protect someone who chooses the wrong product or abandons the plan. Your example depends on unusually good choices, then treats them as a normal expectation.
+[t19] @A4 <ovl> Kenji(MOD): Ten.
+[t20] <cut> Anthony(PRO): Choosing well takes effort, and I grant that some people will misuse easy trading. Yet the motion concerns what informed retail investors can do today; open information and useful safeguards-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Kenji(MOD): Okay, time. On to round three, closing statements. Our motion is retail investors can expect to do well independently, and here to summarize his position supporting this motion, Anthony.
+[t22] Anthony(PRO): The opposition mistakes a warning for a verdict. Yes, reckless trading can hurt people, but access now lets ordinary investors build simple, diversified plans without unnecessary dependence.
+[t23] <ovl> <cut> Jacob(CON): That just ignores the judgment problem-
+[t24] @A5 <ovl> Kenji(MOD): Wait, wait. Let Anthony finish.
+[t25] Anthony(PRO): -and that independence lets them match investments to their own horizon and needs. Technology does not guarantee gains, but it makes informed, disciplined participation realistically available rather than exclusive.
+[t26] @A4 <ovl> Kenji(MOD): Ten seconds from this side?
+[t27] Anthony(PRO): Give people transparent tools and information, and careful retail investors can reasonably expect to do well. That's all, thank you.
+[t28] @A2-2 Kenji(MOD): Thank you, Anthony. Speaking for the resolution. Jacob, against.
+[t29] Jacob(CON): The strongest point is simple: available information is not usable judgment. Retail investors can open accounts instantly, but they must still filter noise, manage fear, and understand risks without reliable guidance. A patient diversified plan may work for some people, yet the motion claims a general expectation. Technology expands opportunity, but it also expands temptation and overconfidence.
+[t30] @A4 <ovl> Kenji(MOD): I'll give you ten more seconds to nail this.
+[t31] Jacob(CON): Because access cannot guarantee judgment, retail investors should not expect independent trading to do well. That's all, thank you.
+[t32] Kenji(MOD): Thank you, Anthony and Jacob, for a thoughtful debate. That concludes our discussion of the motion today.

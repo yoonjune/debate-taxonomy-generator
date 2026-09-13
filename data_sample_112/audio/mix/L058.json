@@ -1,0 +1,400 @@
+{
+ "debate_id": "L058",
+ "motion": "Only a new dictator can end the violence in Iraq.",
+ "speakers": {
+  "MOD": {
+   "name": "Kent",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5830_650",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5830/MSP-PODCAST_5830_650.wav",
+   "wpm": 176.35
+  },
+  "PRO": {
+   "name": "Rima",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "CON": {
+   "name": "Andreas",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3841_60",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3841/MSP-PODCAST_3841_60.wav",
+   "wpm": 170.31
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 68.31,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 302.0,
+ "ext": {
+  "a32": {
+   "file": "L058_ext_a32.wav",
+   "place_at_sec": 211.006,
+   "dur_sec": 23.52,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "A single command may disarm visible fighters faster at first. But your whole answer depends on permanent fear, while accountable protection can outlast any ruler and end violence without making citizens powerless."
+  },
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "If accountable protection depends on citizens resisting armed groups, what protects those citizens when the groups refuse accountability? Until you answer that, why isn't one commanding power the only route to ending violence?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.32,
+   "dur_sec": 20.32,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that only a new dictator can end the violence in Iraq. Rima supports it, and Andreas opposes it. Each speaker has thirty seconds for openings, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue. Keep remarks direct and address each other through the chair."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.52,
+   "end_sec": 36.82,
+   "dur_sec": 16.3,
+   "overlap": false,
+   "text": "Violence persists because competing armed centers can ignore every weak agreement. A new dictator, however harsh, can impose one command, disarm rivals, and make daily life predictable. In Iraq's present collapse, no other force can do that without endless bargaining. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 37.02,
+   "end_sec": 39.34,
+   "dur_sec": 2.32,
+   "overlap": false,
+   "text": "Andreas, come on in your response."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 39.54,
+   "end_sec": 56.4,
+   "dur_sec": 16.86,
+   "overlap": false,
+   "text": "A dictator may silence streets briefly, but silence is not peace. Rule by fear creates enemies, rewards informers, and leaves violence waiting beneath obedience. Iraq needs legitimate local protection and political bargains, not another ruler who makes force the only law. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 56.6,
+   "end_sec": 72.91,
+   "dur_sec": 16.31,
+   "overlap": false,
+   "text": "The time period of uninterrupted speaking is over. We're going to move into the portion of the evening now where the debaters debate one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 73.11,
+   "end_sec": 83.45,
+   "dur_sec": 10.34,
+   "overlap": false,
+   "text": "You call obedience predictable, but it depends on terror and vanishes when the ruler weakens. Your plan mistakes a pause enforced by fear for an end to violence itself."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 83.889,
+   "end_sec": 94.569,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "I agree fear alone cannot create trust. But your bargains need armed groups to honor promises, while a dictator can remove their weapons and stop them killing before trust exists."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 95.016,
+   "end_sec": 105.696,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "If local protectors and negotiated rules cannot restrain a militia today, who stops its next attack? You offer hope as a mechanism, but where is the authority that makes fighters-"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 104.796,
+   "end_sec": 114.876,
+   "dur_sec": 10.08,
+   "overlap": true,
+   "text": "No, authority cannot be built quickly without giving one person final power. Communities cannot reject militias while protection is contested; dictatorship replaces many armed threats with one command."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 115.354,
+   "end_sec": 125.354,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "When neighborhood guards answer to elected local councils, they can protect families without becoming private armies. That condition gives people a peaceful check on force, which dictatorship destroys."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 125.674,
+   "end_sec": 135.754,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "Your local-council point assumes councils can safely control armed guards. In Iraq's violence, guards can intimidate the very people meant to check them; one dictator can compel obedience."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 136.4,
+   "end_sec": 148.24,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "The deeper danger is how rebuilding money gets spent. When one office controls contracts, officials reward loyalists, hide failures, and drain public funds; transparent tax decisions give families a voice over their future."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 148.44,
+   "end_sec": 154.2,
+   "dur_sec": 5.76,
+   "overlap": false,
+   "text": "I really want to stay on whether only a new dictator can end violence in Iraq."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 154.4,
+   "end_sec": 166.16,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "The question is whether only a new dictator can end Iraq's violence, and the answer is no. Accountable local security and negotiated rules can reduce attacks without creating a permanent source of coercion."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 166.639,
+   "end_sec": 176.719,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "You say accountable security can reduce attacks, but who enforces accountability while armed factions reject the rules? Without one unquestioned commander, why would the strongest fighters ever stop?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 177.284,
+   "end_sec": 188.404,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Lasting peace requires people to share power, not merely obey orders. No single ruler can secure every street, settle every grievance, or make institutions respected; violence ends through many accountable relationships."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 189.045,
+   "end_sec": 202.565,
+   "dur_sec": 13.52,
+   "overlap": false,
+   "text": "Picture a market where two armed groups demand payment and each claims to offer protection. A dictator orders both disarmed and punishes defiance immediately; shoppers return without choosing a faction. That proves unified command can end the violence."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.248,
+   "end_sec": 214.728,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Your market example proves only that force can clear a space for a while. The market point ignores what follows: punished groups recruit secretly, and violence returns when fear no longer holds."
+  },
+  {
+   "i": 18,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 212.91,
+   "end_sec": 214.15,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 19,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 215.606,
+   "end_sec": 223.71,
+   "dur_sec": 8.104,
+   "overlap": false,
+   "text": "Secret recruitment is weaker than open militias controlling streets and checkpoints. Your alternative lets those groups bargain from strength; dictatorship-",
+   "ext_file": "L058_ext_a32.wav",
+   "cut_at_sec": 219.11,
+   "full_dur_sec": 11.84
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 222.91,
+   "end_sec": 232.99,
+   "dur_sec": 10.08,
+   "overlap": true,
+   "text": "And that's time. Now we move on to round three. Round three will be closing statements. Here to make her closing statement in support of the resolution, Rima."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 233.19,
+   "end_sec": 253.43,
+   "dur_sec": 20.24,
+   "overlap": false,
+   "text": "Andreas offers a hopeful design, but it assumes violence will wait for councils, bargains, and trust to mature. It will not. Armed factions exploit divided authority, and ordinary families pay for every delay. A new dictator is not admirable, yet only one undisputed command can disarm rivals swiftly, enforce order, and give people a life beyond fear."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 253.19,
+   "end_sec": 255.15,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 253.63,
+   "end_sec": 264.49,
+   "dur_sec": 10.86,
+   "overlap": false,
+   "text": "You cannot protect a family with a promise that armed rivals will someday cooperate. First, violence must stop; then a country can rebuild trust and limits. Without a dictator-",
+   "cut_at_sec": 259.89,
+   "full_dur_sec": 14.16,
+   "ext_file": "L058_025.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 263.69,
+   "end_sec": 266.33,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "Time's up, Rima. Thank you. Andreas, please."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 266.53,
+   "end_sec": 287.09,
+   "dur_sec": 20.56,
+   "overlap": false,
+   "text": "The strongest claim for dictatorship is speed: one command might disarm factions quickly. But speed purchased through power is not an end to violence; it teaches everyone that safety belongs only to whoever rules. Durable safety comes when local protectors answer to their communities and disputes have a nonviolent path. That framework can restrain force without creating tyranny."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 286.53,
+   "end_sec": 287.05,
+   "dur_sec": 0.52,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 287.29,
+   "end_sec": 297.83,
+   "dur_sec": 10.54,
+   "overlap": false,
+   "text": "A dictator can order quiet, but cannot make citizens secure when all law depends on one person's fear. The alternative is harder because it shares responsibility, yet that is its strength-",
+   "cut_at_sec": 293.23,
+   "full_dur_sec": 14.24,
+   "ext_file": "L058_029.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 297.03,
+   "end_sec": 299.6,
+   "dur_sec": 2.57,
+   "overlap": true,
+   "text": "I'm gonna cut you off just for time."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 299.8,
+   "end_sec": 306.6,
+   "dur_sec": 6.8,
+   "overlap": false,
+   "text": "Thank you, Rima and Andreas, for a thoughtful debate. This concludes our discussion of the motion before us tonight."
+  }
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "debate_id": "L048",
+ "motion": "Your electric vehicle helps the planet.",
+ "speakers": {
+  "MOD": {
+   "name": "Nate",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5993_347",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5993/MSP-PODCAST_5993_347.wav",
+   "wpm": 163.88
+  },
+  "PRO": {
+   "name": "Genevieve",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4091_2904",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4091/MSP-PODCAST_4091_2904.wav",
+   "wpm": 176.59
+  },
+  "CON": {
+   "name": "Helen",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5949_98",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5949/MSP-PODCAST_5949_98.wav",
+   "wpm": 169.26
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 97.21,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 316.96,
+ "ext": {
+  "a32": {
+   "file": "L048_ext_a32.wav",
+   "place_at_sec": 237.975,
+   "dur_sec": 26.06,
+   "src_i": 21
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 22,
+   "speaker": "CON",
+   "slot": "X12",
+   "text": "Picture a driver replacing a working small car with a huge electric vehicle for short trips. New mining, factory energy, and a large battery are demanded; that added burden shows an electric vehicle need not help the planet."
+  },
+  {
+   "src_i": 23,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Helen's huge-replacement example answers a point I never made: nobody must replace a working small car with a bigger one. The motion asks whether it helps, and avoiding fuel burning with cleaner power gives a reason it can."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.78,
+   "dur_sec": 19.78,
+   "overlap": false,
+   "text": "Welcome to this debate on the motion, your electric vehicle helps the planet. Genevieve speaks for the motion, and Helen speaks against it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed speech ends. Let's begin with Genevieve."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.98,
+   "end_sec": 39.59,
+   "dur_sec": 19.61,
+   "overlap": false,
+   "text": "An electric vehicle helps the planet because it can run without burning fuel at its tailpipe. That removes dirty exhaust from streets where people live. Its battery also lets drivers use cleaner power as the grid improves. The question is not whether making any vehicle has a cost; it is whether choosing this one moves toward cleaner travel."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.79,
+   "end_sec": 51.28,
+   "dur_sec": 11.49,
+   "overlap": false,
+   "text": "That direction matters because a car bought today remains on roads for years. As electricity gets cleaner, its use gets cleaner too. Critics focus only on the factory but ignore exhaust avoided every-",
+   "cut_at_sec": 51.28,
+   "full_dur_sec": 14.57,
+   "ext_file": "L048_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.98,
+   "end_sec": 41.38,
+   "dur_sec": 1.4,
+   "overlap": true,
+   "text": "Genevieve, ten seconds."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 50.48,
+   "end_sec": 53.7,
+   "dur_sec": 3.22,
+   "overlap": true,
+   "text": "Okay, time. Thank you, Genevieve. Helen, your opening."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 53.9,
+   "end_sec": 74.54,
+   "dur_sec": 20.64,
+   "overlap": false,
+   "text": "Genevieve's tailpipe point sounds neat, but the planet includes what happens before driving begins. Mining materials, making huge batteries, and producing electricity all carry damage. Replacing one heavy private car with another does not automatically reduce that damage. A helpful choice must beat its full footprint, and electric vehicles often begin with a larger one, which many ignore."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 73.9,
+   "end_sec": 75.43,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 74.74,
+   "end_sec": 85.2,
+   "dur_sec": 10.46,
+   "overlap": false,
+   "text": "And that footprint is not a bookkeeping detail; it is land disturbed, energy consumed, and waste created before the first trip. Until you can show those harms are truly outweighed-",
+   "cut_at_sec": 85.2,
+   "full_dur_sec": 14.16,
+   "ext_file": "L048_007.wav"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 84.4,
+   "end_sec": 86.9,
+   "dur_sec": 2.5,
+   "overlap": true,
+   "text": "Thank you, Helen. Your time is up."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 87.1,
+   "end_sec": 97.21,
+   "dur_sec": 10.11,
+   "overlap": false,
+   "text": "And that concludes round one. So now on to round two. They address one another. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 97.41,
+   "end_sec": 111.37,
+   "dur_sec": 13.96,
+   "overlap": false,
+   "text": "Your tailpipe point ignores the full-footprint point I raised. An electric vehicle can shift pollution to mines, factories, and power plants, while its large battery requires extra materials; moving harm around is not the same as helping the planet."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 112.237,
+   "end_sec": 125.837,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "Helen, saying pollution merely moves is your weakest claim, because no tailpipe pollution is not merely relocated; it is removed from daily driving. Cleaner electricity can reduce remaining emissions, whereas your argument treats the grid as if it-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 124.937,
+   "end_sec": 136.777,
+   "dur_sec": 11.84,
+   "overlap": true,
+   "text": "No, you are treating future cleaner electricity as guaranteed. The full footprint exists now, and a car charged by dirty power adds demand; your promise of later improvement cannot make today's extraction harmless."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.107,
+   "end_sec": 149.307,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "If you reject electric vehicles because their production has impacts, what vehicle choice avoids production impacts and tailpipe pollution at once? You cannot call a cleaner-use option useless simply because it is not impact-free."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.533,
+   "end_sec": 163.383,
+   "dur_sec": 13.85,
+   "overlap": false,
+   "text": "The real issue is who pays for charging networks and who gets access to them. Public money should not build conveniences for wealthier drivers while renters, workers, and rural households are left with weak transport choices and higher bills."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 163.583,
+   "end_sec": 169.013,
+   "dur_sec": 5.43,
+   "overlap": false,
+   "text": "Just to remind you that we are discussing the motion, your electric vehicle helps the planet."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 169.213,
+   "end_sec": 182.093,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "On the motion, your electric vehicle does not necessarily help the planet, because its entire life creates harm before and during use. A quiet ride cannot erase the materials, manufacturing energy, and dirty electricity behind it."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 183.033,
+   "end_sec": 196.003,
+   "dur_sec": 12.97,
+   "overlap": false,
+   "text": "Battery recycling deserves better rules, and charging should be easier for everyone. But those practical questions do not erase the central fact: replacing fuel-burning miles with electric miles can lower pollution, so an electric vehicle helps the planet."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 196.203,
+   "end_sec": 209.333,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "Your 'can lower pollution' claim is weak because can is not does. A battery car may be heavy, charged from dirty power, and replaced early; possibilities do not prove that your particular electric vehicle helps the planet."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 209.981,
+   "end_sec": 223.271,
+   "dur_sec": 13.29,
+   "overlap": false,
+   "text": "I agree that a badly made battery and dirty electricity can reduce the benefit. But Helen turns variation into a verdict against every electric vehicle, ignoring that cleaner power and longer use can make it a real planetary help."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 223.881,
+   "end_sec": 237.251,
+   "dur_sec": 13.37,
+   "overlap": false,
+   "text": "If your claim depends on cleaner power and long use, why call an electric vehicle helpful at purchase, before either is assured? Isn't your case a hope about future conditions rather than a truth about the vehicle itself?"
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 237.21,
+   "end_sec": 238.25,
+   "dur_sec": 1.04,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 22,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 237.975,
+   "end_sec": 248.01,
+   "dur_sec": 10.035,
+   "overlap": false,
+   "text": "No, I reject the idea that help requires certainty at the moment of purchase; reducing fuel use is already a benefit. Your standard would condemn every improvement until perfection arrives-",
+   "ext_file": "L048_ext_a32.wav",
+   "cut_at_sec": 248.01,
+   "full_dur_sec": 12.41
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 247.21,
+   "end_sec": 259.62,
+   "dur_sec": 12.41,
+   "overlap": true,
+   "text": "That's time. That concludes round two. So let's move on to round three closing statements and here making her final argument in support of the motion that your electric vehicle helps the planet is Genevieve."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.82,
+   "end_sec": 280.1,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Helen is right that batteries and electricity have costs. But that is not the test; the test is whether an electric vehicle helps compared with continuing to burn fuel for travel. It can cut tailpipe pollution immediately and improve as electricity improves. Her case treats any imperfection as failure, which would leave us defending the dirtier status quo. A vehicle that avoids ongoing fuel burning is a meaningful step toward."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 279.82,
+   "end_sec": 281.57,
+   "dur_sec": 1.75,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 280.3,
+   "end_sec": 291.23,
+   "dur_sec": 10.93,
+   "overlap": false,
+   "text": "Cleaner charging and careful battery use strengthen that step. The motion says helps, not solves everything. On that honest standard, electric vehicles help the planet. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 291.43,
+   "end_sec": 295.38,
+   "dur_sec": 3.95,
+   "overlap": false,
+   "text": "Thanks very much, Genevieve, and Helen you get the last word."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 295.58,
+   "end_sec": 314.9,
+   "dur_sec": 19.32,
+   "overlap": false,
+   "text": "Her point is that electric driving can avoid tailpipe exhaust, but that is only one slice of the vehicle's life. The battery, electricity, and manufacturing do not vanish from the planet's account. Because those burdens can outweigh the benefit, you cannot say your electric vehicle helps the planet. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 315.1,
+   "end_sec": 321.13,
+   "dur_sec": 6.03,
+   "overlap": false,
+   "text": "Thank you, Genevieve and Helen, for your thoughtful debate on whether your electric vehicle helps the planet today."
+  }
+ ]
+}

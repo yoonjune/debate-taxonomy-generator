@@ -1,0 +1,408 @@
+{
+ "debate_id": "L016",
+ "motion": "True love is a myth.",
+ "speakers": {
+  "MOD": {
+   "name": "Cecilia",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3725_146",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3725/MSP-PODCAST_3725_146.wav",
+   "wpm": 172.52
+  },
+  "PRO": {
+   "name": "Ben",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6071_804",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6071/MSP-PODCAST_6071_804.wav",
+   "wpm": 168.17
+  },
+  "CON": {
+   "name": "Alice",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 93.99,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 305.28,
+ "ext": {
+  "a32": {
+   "file": "L016_ext_a32.wav",
+   "place_at_sec": 238.088,
+   "dur_sec": 11.69,
+   "src_i": 23
+  }
+ },
+ "flags": [
+  "ext_a32: 마감 뒤 5.8초뿐 (여유분 부족)"
+ ],
+ "dropped_turns": [],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.12,
+   "dur_sec": 17.12,
+   "overlap": false,
+   "text": "Today's motion is, \"True love is a myth.\" Ben argues for it, and Alice argues against it. Each gets thirty seconds to open, then we have two and a half minutes of crossfire. I will give a ten-second cue. Finally, each gets thirty seconds for a closing statement."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.32,
+   "end_sec": 37.41,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "True love is usually sold as a forever feeling that makes one person uniquely meant for another. But feelings change, people change, and the promise survives mostly because we repeat it. I am not denying affection or loyalty. I am arguing that the flawless, permanent thing called true love is a story, not a fact."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 37.32,
+   "end_sec": 39.07,
+   "dur_sec": 1.75,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 37.61,
+   "end_sec": 48.62,
+   "dur_sec": 11.01,
+   "overlap": false,
+   "text": "Real couples can care deeply and still discover that their supposed destiny was ordinary compatibility. We mistake powerful hope for proof, then call the disappointment tragic rather-",
+   "cut_at_sec": 48.62,
+   "full_dur_sec": 13.85,
+   "ext_file": "L016_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 47.82,
+   "end_sec": 51.03,
+   "dur_sec": 3.21,
+   "overlap": true,
+   "text": "That's time, thank you. Alice, the floor is yours."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.23,
+   "end_sec": 71.51,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Ben is right that people change, but he treats change as proof that love was never true. A promise can be real without being flawless, and a relationship can survive disappointment. True love is not a magic guarantee against loss; it is a genuine bond built through choice, care, and honesty. Calling that bond a myth erases the reality people live."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 71.23,
+   "end_sec": 71.87,
+   "dur_sec": 0.64,
+   "overlap": true,
+   "text": "Ten."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 71.71,
+   "end_sec": 82.96,
+   "dur_sec": 11.25,
+   "overlap": false,
+   "text": "If love ends, that does not make the love false. It means a real thing can be temporary, and true love remains more than a fantasy. That's all, thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 83.16,
+   "end_sec": 96.29,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "So, we move on to round two. And Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 96.49,
+   "end_sec": 107.17,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "You say changing feelings expose true love as invented, but that confuses permanence with truth. A friendship can matter even after distance, and love can be genuine without becoming eternal."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 107.681,
+   "end_sec": 117.311,
+   "dur_sec": 9.63,
+   "overlap": false,
+   "text": "I believe true love never lasts forever. If your bond depends on permanence, how can its ending prove it was true rather than merely intense?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 117.784,
+   "end_sec": 128.464,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "It does not depend on permanence; that is your premise, and I reject it. A bond can be true because people freely choose one another, not because time stops moving."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 128.743,
+   "end_sec": 138.353,
+   "dur_sec": 9.61,
+   "overlap": false,
+   "text": "This true love lasts forever. You cannot call an enduring feeling proof of a special essence when the same devotion can be explained by memory, habit, or hope."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 138.553,
+   "end_sec": 145.073,
+   "dur_sec": 6.52,
+   "overlap": false,
+   "text": "Ben, thank you very much indeed. You said true love never lasts forever. This true love lasts forever?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 145.273,
+   "end_sec": 155.683,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "Those statements fit because a perfect shared life never lasts forever, while this particular love lasts forever as a memory. A lasting memory still does not make the myth real."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 155.901,
+   "end_sec": 167.301,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I grant that memory can preserve an emotion, but you keep replacing lived commitment with a definition designed to defeat it. People choose, sacrifice, and remain faithful; that makes true love real."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 168.187,
+   "end_sec": 179.617,
+   "dur_sec": 11.43,
+   "overlap": false,
+   "text": "That choice also creates practical disputes: whose name goes on the lease, who keeps the furniture, and how the savings are divided when plans change? I trust written agreements more than romantic promises."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 179.817,
+   "end_sec": 184.467,
+   "dur_sec": 4.65,
+   "overlap": false,
+   "text": "Okay, again, it's not on our topic about true love is a myth."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 184.667,
+   "end_sec": 195.077,
+   "dur_sec": 10.41,
+   "overlap": false,
+   "text": "The motion asks whether true love exists, not whether paperwork can protect people when relationships fail. Since lasting devotion can be explained without destiny, the grand idea remains a myth."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 195.648,
+   "end_sec": 206.008,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "No, lasting devotion does not need destiny, and that does not make it mythical. You are answering a stronger claim than mine: I defend real love, not magical certainty."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.378,
+   "end_sec": 216.468,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "Your weakest point is treating sincere effort as evidence of true love itself. Effort proves that people care, but it cannot prove one exceptional force beyond ordinary human attachment."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 216.971,
+   "end_sec": 227.331,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "When one partner sits beside the other through fear, keeps a promise after resentment, and asks for nothing in return, that steady care shows love is real, not mythical."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 227.645,
+   "end_sec": 239.415,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "I grant that steady care can be noble, but nobility does not establish a unique, permanent kind of love. It shows human kindness, which is enough to explain the evidence and support my side."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 236.29,
+   "end_sec": 238.93,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "About ten seconds left in the crossfire."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 240.388,
+   "end_sec": 247.09,
+   "dur_sec": 6.702,
+   "overlap": false,
+   "text": "You answer steady care by renaming it kindness, but that is the very point at issue. A different label-",
+   "ext_file": "L016_ext_a32.wav",
+   "cut_at_sec": 244.79,
+   "full_dur_sec": 11.69
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 246.29,
+   "end_sec": 257.18,
+   "dur_sec": 10.89,
+   "overlap": true,
+   "text": "That's time. So onto round three. Round three, closing statements from each debater in turn, uninterrupted. And here to summarize his position in support of true love is a myth, Ben."
+  },
+  {
+   "i": 26,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 257.38,
+   "end_sec": 273.21,
+   "dur_sec": 15.83,
+   "overlap": false,
+   "text": "True love may describe tenderness, loyalty, and sacrifice, but those qualities do not require a mythical force. They arise from ordinary people, changing circumstances, and stories we tell ourselves. The ideal is beautiful, but beauty is not proof. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 273.41,
+   "end_sec": 279.17,
+   "dur_sec": 5.76,
+   "overlap": false,
+   "text": "Okay. I need to let Alice back into this conversation. So Alice, jump on in please."
+  },
+  {
+   "i": 28,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 279.37,
+   "end_sec": 299.57,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "Ben has shown that love is not always permanent, but permanence was never my test. True love means that care, trust, and commitment are genuinely felt and freely given. When people stand by each other through hardship, the bond is real even if life later changes. Calling every such bond a myth mistakes imperfection for unreality."
+  },
+  {
+   "i": 29,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 299.37,
+   "end_sec": 301.61,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 30,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 299.77,
+   "end_sec": 308.07,
+   "dur_sec": 8.3,
+   "overlap": false,
+   "text": "A love need not last forever to have been true, and that is why true love is real. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 308.27,
+   "end_sec": 312.18,
+   "dur_sec": 3.91,
+   "overlap": false,
+   "text": "Thank you both for your thoughtful arguments. That concludes the debate."
+  }
+ ]
+}

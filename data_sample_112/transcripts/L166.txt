@@ -1,0 +1,47 @@
+L166  |  The classics are overrated.
+  MOD=Justine   PRO=Wendy   CON=Edward
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Justine(MOD): Welcome. The motion is: the classics are overrated. Wendy speaks for it, and Edward speaks against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each limit.
+[t01] Wendy(PRO): Classics are often treated as a required measure of taste, even when they bore or exclude modern readers. Age can preserve a book's reputation after its urgency has faded. Schools repeat the same titles, so familiarity gets mistaken for excellence. That habit gives old works more authority than they deserve, while newer voices must fight for room.
+[t02] @A4 <ovl> Justine(MOD): I'll give you ten more seconds to nail this.
+[t03] Wendy(PRO): Some classics still reward attention, but their status should be earned afresh, not inherited. Calling them overrated challenges the pedestal, not every page. That's all, thank you.
+[t04] @A2-2 Justine(MOD): Let's hear from Edward.
+[t05] Edward(CON): Wendy mistakes a high reputation for an inflated one. Classics last because readers keep finding difficult questions, vivid language, and human conflicts inside them. They are not protected relics; each generation can reject them, yet many survive that test. Their continued value also gives newer writers something rich to answer, revise, or resist.
+[t06] @A4 <ovl> Justine(MOD): Ten seconds, ten seconds.
+[t07] Edward(CON): A demanding book is not overrated merely because it asks readers to meet it halfway. That's all, thank you.
+
+--- phase 2 ---
+[t08] @A3-1 Justine(MOD): And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t09] Edward(CON): Your claim that schools repeat titles confuses teaching choices with literary worth. A narrow syllabus can be improved without declaring the works themselves overrated.
+[t10] Wendy(PRO): If a book needs constant institutional protection to remain central, why should readers treat its fame as proof of quality? Answer that directly.
+[t11] Edward(CON): It does not need protection; institutions assign it because it has proved useful and powerful. You turn exposure into a flaw, while newer books also gain readers through recommendations.
+[t12] Wendy(PRO): When a classic is assigned as the only serious option in a classroom, its prestige is overrated. That condition makes one tradition look like the whole of literature.
+[t13] Edward(CON): A young reader finds a difficult old story about family duty and recognizes her own conflict at home. That recognition gives her language for it, proving classics can still matter deeply.
+[t14] Wendy(PRO): That recognition point proves only that one reader connected with one story. A single moving encounter cannot justify ranking an entire inherited shelf above competing voices.
+[t15] Edward(CON): Your classroom condition is weak because no book becomes less valuable when taught beside alternatives. Blame the narrow gatekeeper, not the work that passed through it.
+[t16] Wendy(PRO): No era should receive automatic cultural authority merely because it came first. Great books deserve reading, but greatness is larger than the classic label.
+[t17] <cut> Edward(CON): There was no question to answer, but I reject your claim that age grants authority. Readers grant it repeatedly when a work still speaks, and that is not-
+[t18] <ovl> Wendy(PRO): You are calling survival a neutral vote, but readers inherit the menu before they choose. Repeated promotion shapes the very test you say classics fairly win.
+[t19] Edward(CON): A reader opens an old play expecting a museum piece, then laughs at a sharp quarrel that resembles her family. That living response proves the classic is not merely ceremonial.
+[t20] Wendy(PRO): Your living-response example is the point I am answering. A work can be lively without deserving the sweeping praise and compulsory attention its label commands.
+[t21] Edward(CON): The weakest part of that is treating praise as compulsory attention. You can criticize bad assignments, but readers choosing old works freely undermine your overrated verdict.
+[t22] Wendy(PRO): How can readers choose classics freely when schools and public conversation present them as the standard before they encounter other traditions? Please answer that pressure.
+[t23] Edward(CON): They can choose freely because influence is not coercion, and readers abandon books that fail them. Your standard would make every respected work suspect simply for being recommended.
+[t24] @A4 <ovl> Justine(MOD): Ten seconds left on the clock.
+[t25] <cut> Wendy(PRO): I grant that some old books still move readers-
+
+--- phase 3 ---
+[t26] @A3-2 <ovl> Justine(MOD): And that's time. We have to move on to our closing round. Wendy, the floor is yours.
+[t27] Wendy(PRO): Edward's best point is that old books can still create real recognition. I agree, but a meaningful moment does not validate a permanent cultural hierarchy. The problem is not reading classics; it is treating them as the default proof of seriousness. Their label crowds out works that have not received the same long rehearsal.
+[t28] <cut> Wendy(PRO): Edward calls repeated reading a fair vote, yet the ballot is shaped before readers arrive. We should keep valuable old books, but remove the automatic crown. When praise becomes inherited-
+[t29] @A4 <ovl> Justine(MOD): I can give you ten seconds to do this.
+[t30] @A2-1 <ovl> Justine(MOD): That's time, Wendy. Thank you. Edward.
+[t31] Edward(CON): Wendy rightly objects to narrow gatekeeping, but that is not an argument against the books. A classic can be taught critically and still deserve lasting esteem.
+[t32] <ovl> <cut> Wendy(PRO): But if you keep calling lasting esteem evidence-
+[t33] @A5 <ovl> Justine(MOD): Let him answer it.
+[t34] Edward(CON): - helping it reach readers who then make their own judgments. That is how culture works: access begins a conversation, but enduring response sustains classics.
+[t35] @A4 <ovl> Justine(MOD): Ten seconds warning.
+[t36] Edward(CON): Fix the gatekeepers, widen the shelf, and keep the books that continue to reward readers: the classics are not overrated. That's all, thank you.
+[t37] Justine(MOD): Thank you, Wendy and Edward, for a thoughtful debate on the motion. That concludes our discussion.

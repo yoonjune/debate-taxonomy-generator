@@ -1,0 +1,37 @@
+L145  |  The GOP must seize the center or die
+  MOD=Carissa   PRO=Amanda   CON=Rick
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Carissa(MOD): Welcome. Tonight's motion is that the GOP must seize the center or die. Amanda supports it, and Rick opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue during each timed statement; keep your remarks direct and address each other.
+[t01] Amanda(PRO): Winning requires persuading people who do not already agree with you. A party that speaks only to its safest voters can feel loud while becoming smaller. The center is not surrender; it is the broad ground where practical promises earn trust. If the GOP refuses that work, its coalition will.
+[t02] <cut> Amanda(PRO): It will not be rescued by anger alone. National power needs voters who want order, opportunity, and compromise, not endless internal tests. Seizing the center means building a governing majority-
+[t03] @A4 <ovl> Carissa(MOD): You have ten seconds.
+[t04] @A2-1 <ovl> Carissa(MOD): Amanda, that's your time. Thank you. And now, Rick.
+[t05] Rick(CON): My opponent confuses changing the message with living. Parties survive by giving existing supporters a reason to work, vote, and trust. The center changes from one moment to the next, but a clear purpose can attract new people without abandoning the people who built it. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Carissa(MOD): And that concludes round one. On to round two. Round two is where the debaters address one another in turn. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t07] Amanda(PRO): I agree that loyal voters deserve respect. But your core point mistakes a base for a majority: if the party cannot win beyond its base, loyalty cannot keep it alive.
+[t08] Rick(CON): The real question is whether border rules are firm enough to protect wages and public safety. Leaders should enforce clear entry rules, punish abuse, and listen to workers who worry that local services are crowded and strained.
+[t09] @B1 Carissa(MOD): Please address the issue that I did raise, which is the gop must seize the center or die.
+[t10] Rick(CON): On whether the GOP must seize the center or die, no: it can grow by explaining firm principles to people now overlooked. Survival comes from a compelling identity, not chasing a shifting label.
+[t11] Amanda(PRO): Candidate training and local organizing matter, because volunteers need useful tools and neighborhood ties. But those tools cannot overcome a narrow appeal; the GOP must seize the center to survive.
+[t12] Rick(CON): No party should ever abandon its core voters. A party may invite newcomers, but survival rests on people who trust its word, so the GOP can endure without seizing the center.
+[t13] Amanda(PRO): Your point about core voters treats them as a fixed possession. They are citizens with changing needs, and refusing broader answers drives away persuadable voters and frustrated supporters; that is why the center matters.
+[t14] Rick(CON): This party should abandon its core voters. When those voters demand permanent defeat instead of workable government, the GOP should build a broader coalition, because survival matters more than protecting an exhausted faction.
+[t15] @B2 Carissa(MOD): I'm puzzled by your stand. On the one hand no party should ever abandon its core voters and on the other hand this party should abandon its core voters.
+[t16] Rick(CON): Core voters are people who share a party's purpose, not any faction claiming ownership. The exhausted faction I named has left that purpose, so keeping the core means leaving that faction behind.
+[t17] Amanda(PRO): Imagine a parent who wants safer streets and steady schools but hears only attacks on enemies. She stays home, the party loses a winnable race, and its priorities vanish. That proves the GOP needs the center.
+[t18] Rick(CON): If seizing the center requires muting the convictions that made supporters trust the GOP, what remains for them to support? You cannot call a party alive when its voters no longer recognize its voice.
+[t19] Amanda(PRO): Your question assumes the center demands silence, which is its weakest premise. Seizing it means applying convictions to everyday problems in language more people can trust; a recognizable voice that cannot win is powerless.
+[t20] @A4 <ovl> Carissa(MOD): Ten seconds to go in this round.
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Carissa(MOD): And that's time. And now we move on to Round three. Here making her closing statement in support of the motion that the gop must seize the center or die, Amanda.
+[t22] Amanda(PRO): Rick's best argument is that a party cannot survive by insulting its loyal voters. He is right that loyalty deserves respect, but he mistakes expanding the coalition for abandoning it. The GOP can keep convictions while offering practical answers to people outside its usual camp. Elections decide whether those answers become policy, and the next question is what voters actually hear.
+[t23] @A4 <ovl> Carissa(MOD): Ten seconds for last word.
+[t24] Amanda(PRO): They hear whether the party can govern for them, not merely argue with itself. Seizing the center makes a durable majority possible. That is survival. That's all, thank you.
+[t25] @A2-2 Carissa(MOD): Rick, you wanted to come in briefly.
+[t26] Rick(CON): The strongest point remains simple: survival needs trust, not a fashionable label. A party earns trust by keeping faith with the voters who carried it and inviting others through clear principles. The GOP can grow from its foundation; it does not have to seize the center to live. That's all, thank you.
+[t27] Carissa(MOD): Thank you, Amanda and Rick, for a thoughtful debate. That concludes our discussion of this motion for tonight.

@@ -1,0 +1,36 @@
+L121  |  The natural gas boom is doing more harm than good.
+  MOD=Virginia   PRO=Rima   CON=Miriam
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Virginia(MOD): Welcome. Tonight's motion is that the natural gas boom is doing more harm than good. Rima argues for the motion, and Miriam argues against it. Each has thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings; please address arguments, stay focused, and expect a ten-second cue from me.
+[t01] Rima(PRO): The boom may burn cleaner than some fuels, but cleaner is not harmless. Leaks, industrial disruption, and dependence on another fossil fuel impose lasting costs. When communities bear those costs while short-term gains flow elsewhere, the boom does more harm than good. That's all, thank you.
+[t02] @A2-2 Virginia(MOD): Miriam wants to answer that.
+[t03] Miriam(CON): Natural gas can displace dirtier fuels while keeping heat and power dependable. Its development creates work, lowers strain on household budgets, and supports gradual change rather than sudden scarcity. Problems need firm rules, not a verdict that useful energy does more harm than good. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Virginia(MOD): Great. So let's move on to the discussion portion of the debate. It runs two and a half minutes, starting the moment I stop. Go.
+[t05] Miriam(CON): I agree careless drilling can damage a neighborhood. But why call the whole boom harmful when gas replaces dirtier burning and gives families reliable energy while cleaner systems are built? That makes the boom more good than harm.
+[t06] Rima(PRO): Replacing one dirty fuel does not erase gas's own leaks and pollution, so your premise is false. Why lock families into new gas systems when efficiency and clean power avoid both fuels' damage?
+[t07] Miriam(CON): Efficiency and clean power matter, but they cannot meet every need yet. Gas can provide reliable heat and power during the transition, while rules curb leaks and keep cleaner investment moving.
+[t08] Rima(PRO): Where rules allow routine venting, the boom harms more than it helps because pollution is treated as an afterthought. Communities cannot call cheap fuel a benefit when they pay with their air.
+[t09] Miriam(CON): Energy bills also affect whether parents can afford food and transport, and that deserves serious attention. Yet household budgeting is not the question here; reliable gas can lower that strain, and its benefits still outweigh its harms.
+[t10] Rima(PRO): Basic compliance cannot make a fossil expansion safe, because every new pipeline and plant extends gas dependence. The boom does harm more broadly by delaying cleaner investment, even beyond sites with routine venting.
+[t11] Miriam(CON): New infrastructure can last too long, and that risk deserves planning. Still, gas gives existing grids flexible power when cleaner sources vary, so a managed boom can deliver more good than harm.
+[t12] Rima(PRO): The premise that gas is needed for flexibility is false; grids can use storage, efficiency, and varied clean supply. A managed boom still expands extraction and leaks, so management cannot reverse its net harm.
+[t13] Miriam(CON): Government should decide how quickly households must replace appliances, because forced changes can punish renters and small businesses. Policymakers need flexible deadlines, repair support, and choices that fit different homes rather than one rigid energy rule.
+[t14] @B1 Virginia(MOD): This House believes the natural gas boom is doing more harm than good.
+[t15] Miriam(CON): The motion asks whether the natural gas boom does more harm than good, and I say it does not. Its usable energy and cleaner replacement role outweigh risks that sensible standards can reduce.
+[t16] Rima(PRO): Your weakest claim is that standards can reduce the risks enough. Rules may punish visible leaks, but they cannot undo new fossil dependence or guarantee every operator obeys, so the boom remains net harmful.
+[t17] @A4 <ovl> Virginia(MOD): You both have ten seconds.
+[t18] <cut> Miriam(CON): Consider a cold evening when a local power system needs quick backup after wind falls. Gas generation can keep homes warm without returning-
+
+--- phase 3 ---
+[t19] @A3-2 <ovl> Virginia(MOD): And that's time. And that concludes round two. So we move on to round three. And first up, to argue the yes position, once again, Rima.
+[t20] Rima(PRO): Miriam's best argument is that gas can provide backup when other sources vary. That narrow service does not justify widespread extraction, leaks, and long-lived infrastructure. A boom that locks in fossil dependence shifts costs onto communities, so it is doing more harm than good. That's all, thank you.
+[t21] @A2-2 Virginia(MOD): Let's have Miriam take this one.
+[t22] Miriam(CON): Rima treats every new gas project as a permanent trap, but that ignores how energy systems can change. My strongest point is reliability: families need power and heat through sudden gaps. Gas can supply that support while cleaner capacity expands. There is also a larger point about how this change should be paced.
+[t23] @A4 <ovl> Virginia(MOD): Ten seconds please.
+[t24] <cut> Miriam(CON): We should reduce pollution, but we should not make people choose between environmental progress and dependable service. A careful transition uses gas where it is needed, protects communities with-
+[t25] @A1 <ovl> Virginia(MOD): I'm sorry. Your time is up. Thank you very much.
+[t26] Virginia(MOD): Thank you, Rima and Miriam, for a thoughtful debate; this concludes our discussion of the motion this evening.

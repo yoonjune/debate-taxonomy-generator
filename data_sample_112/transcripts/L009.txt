@@ -1,0 +1,42 @@
+L009  |  Public radio is still relevant.
+  MOD=Margaret   PRO=Lionel   CON=Larry
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Margaret(MOD): Today's motion is that public radio is still relevant. Lionel argues for it, and Larry argues against it. Each gets thirty seconds to open, followed by two and a half minutes of crossfire. Then each gives a thirty-second closing; I will give a ten-second cue before time expires.
+[t01] Lionel(PRO): Public radio remains relevant because it serves people rather than advertisers. It offers trusted reporting, local emergencies, and thoughtful discussion that commercial outlets often neglect. Relevance is not just popularity; it is usefulness, trust, and a civic connection that still matters. That's all, thank you.
+[t02] @A2-2 Margaret(MOD): Here's Larry to argue against public radio is still relevant in a crowded media world.
+[t03] Larry(CON): Public radio may inform, but relevance demands attention in today's crowded media world. If few people listen, how is that service still relevant to the public?
+[t04] <ovl> <cut> Lionel(PRO): Because public value isn't measured by popularity alone-
+[t05] @A5 <ovl> Margaret(MOD): Please let him answer the question.
+[t06] Larry(CON): I was saying that relevance demands attention, and a service reaching only a narrow audience cannot claim broad public importance. Trust among a few does not make an outdated medium relevant to society.
+[t07] @A4 <ovl> Margaret(MOD): You have ten seconds.
+[t08] Larry(CON): Public radio may have value, but it no longer has enough public reach to remain relevant. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Margaret(MOD): And that concludes round one. Now, on to round two. This is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Lionel(PRO): Larry's point about limited reach confuses widespread fame with public relevance. A station can matter deeply to its listeners, especially during emergencies, because usefulness does not require everyone to tune in.
+[t11] Larry(CON): No public radio program is relevant without a mass audience. A niche service may be useful, but usefulness alone cannot make a declining medium relevant to the public.
+[t12] Lionel(PRO): Consider a wildfire warning broadcast that gives isolated residents clear evacuation information when other channels fail. That direct help proves public radio remains relevant where people need dependable service.
+[t13] Larry(CON): This public radio program is relevant without a mass audience. A small emergency broadcast can matter to its listeners, but public radio still lacks broad relevance.
+[t14] @B2 Margaret(MOD): One moment you're saying no public radio program is relevant without a mass audience, then you're having them this public radio program is relevant without a mass audience. Which?
+[t15] Larry(CON): I mean relevance to public life requires mass reach, while this particular program can be relevant to a narrow group. Both claims stand, and public radio remains broadly irrelevant.
+[t16] Lionel(PRO): People also enjoy radio's slower pace and familiar voices, which can make daily routines feel less isolated. But whether the format feels old-fashioned is secondary: public radio still meets real public needs.
+[t17] <cut> Larry(CON): Lionel's point about familiar voices is personal comfort, not public relevance. Many services feel comforting without earning a place in public life, and radio's declining reach means its civic role is-
+[t18] <ovl> Lionel(PRO): Comfort is not my claim; public service is. When residents need clear local information, a familiar station can reach them immediately, so limited reach does not erase relevance.
+[t19] Larry(CON): Imagine a station repeating a town meeting to a tiny, aging audience while most residents get news elsewhere. That broadcast preserves a habit, not a meaningful public role, proving public radio is no longer broadly relevant.
+[t20] Lionel(PRO): I grant that public radio does not reach everyone, but that is a smaller point than whether it serves people well. Its dependable local reporting and open discussion show it remains relevant.
+[t21] Larry(CON): Yes, some listeners value those programs, but that does not establish public relevance. A service can help its loyal audience while failing to matter across the public, which is the central issue.
+[t22] Lionel(PRO): If a trusted broadcast informs people during a local crisis, what exactly makes that public service irrelevant simply because commercial media reaches more listeners?
+[t23] @A4 <ovl> Margaret(MOD): You both have ten seconds.
+[t24] <cut> Larry(CON): The crisis example exaggerates an occasional benefit. Emergency information can come through many channels, while ordinary public-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Margaret(MOD): That's time. Round three, closing statements by each debater in turn. Let's go to the first of these speakers. Speaking for the motion, Lionel.
+[t26] Lionel(PRO): Public radio is not relevant merely because it is old, and it is not irrelevant merely because it is smaller. Its value appears when people need careful reporting, local warnings, and conversation without commercial pressure. Those services remain useful and trusted, so public radio is still relevant. That's all, thank you.
+[t27] @A2-2 Margaret(MOD): I'm going to let Larry answer.
+[t28] Larry(CON): Lionel's strongest example is an emergency broadcast, but an occasional rescue cannot define an entire medium. Most programming competes for a small audience in a crowded world, while people increasingly use faster and wider channels. Public radio may help dedicated listeners, yet that limited usefulness is not the same as continuing public relevance.
+[t29] @A4 <ovl> Margaret(MOD): Ten seconds warning.
+[t30] <cut> Larry(CON): A medium that reaches fewer people and struggles to shape common discussion may retain loyal fans, but loyalty is not broad relevance. Public radio has-
+[t31] @A1 <ovl> Margaret(MOD): Time.
+[t32] Margaret(MOD): Thank you both for taking part; this debate is now closed.

@@ -1,0 +1,36 @@
+L014  |  Obama’s Economic Policies Are Working Effectively
+  MOD=Mira   PRO=Nick   CON=Amy
+  crossfire 150s (actual Nones)
+
+--- phase 1 ---
+[t00] Mira(MOD): Tonight's motion is whether Obama's economic policies are working effectively. Nick argues for the motion, and Amy argues against it. Each debater gets thirty seconds to open, then we have two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue before each limit.
+[t01] Nick(PRO): Obama's policies have kept the economy moving toward recovery by supporting jobs, protecting families, and preventing another collapse. The approach is not perfect, but it has steadied demand while giving businesses room to plan. That matters because effective policy is measured by practical improvement, not by whether every problem disappears. I'll show why that balance matters.
+[t02] @A4 <ovl> Mira(MOD): Nick, ten seconds.
+[t03] <cut> Nick(PRO): The gains also reach ordinary households through support that helps people stay afloat, keeps spending from freezing, and gives employers confidence to keep hiring. Those-
+[t04] @A2-1 <ovl> Mira(MOD): Your time is up. Thank you. Amy.
+[t05] Amy(CON): Those claims confuse limited relief with effective economic policy. People still face weak security, heavy costs, and uncertain prospects, while the government has not shown that its choices create durable growth. A policy can prevent immediate disaster and still fail to work effectively.
+--- phase 2 ---
+[t06] @A3-1 Mira(MOD): Now we're gonna move into the second section of the evening. And that's where the debaters can talk directly to one another. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Amy(CON): Your point about practical improvement is too vague. Avoiding collapse is a low standard, and temporary support does not prove effective policy when families remain exposed to the same economic weaknesses.
+[t08] Nick(PRO): If these policies only offered temporary relief, why did they also restore confidence and support hiring? Can you name a better measure of effective policy than recovery people can actually feel?
+[t09] Amy(CON): Confidence can rise because fear falls, and that is not the same as lasting strength. Businesses also need stable rules and predictable costs, but the motion asks whether Obama's policies are working effectively, and they are not.
+[t10] Nick(PRO): When policy is judged by near-term stability, Obama's measures are effective because they keep demand from collapsing and give households time to recover. That is the relevant condition during a downturn.
+[t11] Amy(CON): Consider a family whose bills rise while its work remains uncertain despite government support. That example shows the policy has softened pressure without making the economy work effectively for ordinary people.
+[t12] Nick(PRO): Effective policy can be recognized across the broader economy even when some households still struggle. A recovery need not solve every private hardship to be working effectively overall.
+[t13] Amy(CON): Your broader-economy point moves the goalposts. Calling a policy effective overall while admitting households remain insecure hides the central test: whether the policy delivers dependable improvement, not merely a softer decline.
+[t14] Nick(PRO): That broader effect also shaped how employers planned, invested, and retained workers instead of shutting down. Earlier administrations faced similar downturns and chose different responses, leaving long arguments about which recovery path was wiser.
+[t15] @B1 Mira(MOD): What we are talking about here is whether obama's economic policies are working effectively for the country. We're not going back into history.
+[t16] Nick(PRO): The motion asks whether Obama's policies worked effectively, and they did by stabilizing demand, protecting jobs, and rebuilding confidence. Their success does not require perfect results; it requires a clear net improvement.
+[t17] Amy(CON): The weakest claim is that rebuilding confidence proves success. Confidence is an impression, not an outcome, and your argument never shows that the improvement lasted or reached people facing stagnant security.
+[t18] Nick(PRO): Support for struggling homeowners kept more families in their homes and reduced the shock spreading through neighborhoods. That example shows policy worked by protecting demand and limiting wider economic damage.
+[t19] Amy(CON): I grant that emergency support prevented some immediate harm. But preventing the worst outcome is not the same as working effectively, and the broader record still shows fragile growth and unresolved hardship.
+[t20] @A4 <ovl> Mira(MOD): You have ten seconds.
+--- phase 3 ---
+[t21] @A3-2 <ovl> Mira(MOD): It's time to bring this home with closing remarks. This is where the debaters get to make a summary closing statement. And, Nick, you have the floor on this one.
+[t22] Nick(PRO): Obama's economic policies worked because they stabilized demand, protected families, and helped employers keep moving. Amy sets an impossible standard by requiring every hardship to vanish. Effective policy means producing broad, practical progress, and these policies did that.
+[t23] @A2-2 Mira(MOD): Just one brief comment, Amy.
+[t24] Amy(CON): Nick's case rests on lowering the standard until survival looks like success. Preventing collapse matters, but effective economic policy should create lasting security, dependable opportunity, and stronger household finances. Obama's policies offered temporary support while leaving deep weaknesses in place. Relief is not the same as a working economy.
+[t25] @A4 <ovl> Mira(MOD): Ten seconds, Amy.
+[t26] <cut> Amy(CON): The question is not whether some people received help. It is whether the policies worked effectively for the economy as a whole. On that test, uncertainty and fragile-
+[t27] @A1 <ovl> Mira(MOD): Thank you, Amy. Your time is up.
+[t28] Mira(MOD): Thank you both for a thoughtful debate. This discussion is now closed, with the question left for listeners.

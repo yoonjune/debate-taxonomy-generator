@@ -1,0 +1,39 @@
+L190  |  The U.S. drone program is fatally flawed.
+  MOD=Javier   PRO=Gloria   CON=Annette
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Javier(MOD): Welcome to our debate on whether the U.S. drone program is fatally flawed. Gloria supports the motion, and Annette opposes it. Each has thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue; please keep answers direct and let each other speak throughout.
+[t01] Gloria(PRO): Drone strikes promise precision, yet their decisions often rest on distant screens, uncertain identities, and secret standards. When force is used without meaningful public scrutiny, mistakes cannot be tested or repaired. Families living beneath that threat lose safety even when they are not targets. That is not a minor defect in any serious sense.
+[t02] @A4 <ovl> Javier(MOD): You've got ten seconds.
+[t03] <cut> Gloria(PRO): The program also makes the boundary between combat and ordinary life dangerously porous. Its secrecy leaves victims with little way to challenge a killing. A system that cannot reliably identify-
+[t04] @A2-1 <ovl> Javier(MOD): Gloria, that's your time. Thank you. And now, Annette.
+[t05] Annette(CON): Calling the entire program fatally flawed mistakes risk for impossibility. Remote aircraft can watch a threat longer than a rushed raid, giving decision makers chances to delay or cancel. Clear rules and review can expose errors and improve choices. The question is whether reform is possible, not whether danger exists in difficult conflicts today.
+[t06] @A4 <ovl> Javier(MOD): You have ten seconds left.
+[t07] <cut> Annette(CON): Gloria treats secrecy as proof that accountability is absent, but confidential procedures can still demand records, approvals, and correction. No tool is harmless. Yet abandoning a tool-
+[t08] @A1 <ovl> Javier(MOD): Not this time.
+
+--- phase 2 ---
+[t09] @A3-1 Javier(MOD): All right, so now we're going to move into a part of the debate where it's more of a conversation that moves back and forth, robustly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Annette(CON): Your claim that secrecy makes correction impossible is too sweeping. Sensitive operations can be reviewed by authorized officials, and protecting details during review does not make the program fatally flawed.
+[t11] Gloria(PRO): I did not say correction is impossible; I said victims lack a meaningful way to challenge lethal mistakes. Why trust internal review when the program itself controls what facts outsiders may see?
+[t12] Annette(CON): On the victim challenge point, you assume outside access is the only safeguard. Independent reviewers can inspect evidence without publishing it, so secrecy can protect people while accountability remains.
+[t13] Gloria(PRO): Consider a household labeled a threat after a visitor is misread from above. A strike kills relatives without warning or recourse. That proves remote certainty can fail catastrophically, making the program fatally flawed.
+[t14] Annette(CON): If every tragic mistake makes a program fatally flawed, what lawful method would you use against an imminent attacker hiding beyond reach? You cannot protect civilians by refusing every remote option.
+[t15] Gloria(PRO): The issue is who designs oversight, how quickly officials authorize action, and whether communities get notice or remedies. Security policy should give affected people a voice before officials decide whose risks count.
+[t16] @B1 Javier(MOD): Come back to the whether the U.S. drone program is fatally flawed, will you?
+[t17] Gloria(PRO): The motion asks whether this drone program is fatally flawed, and it is because lethal errors are insulated from those harmed. Better oversight cannot erase a structure that makes accountability optional after death.
+[t18] Annette(CON): I reject the premise that accountability is optional after death. Reviews, records, and consequences can follow a wrongful strike, and reforming weak procedures is precisely why the program is not fatally flawed.
+[t19] Gloria(PRO): Training and reporting matter because operators need disciplined habits, and leaders must explain decisions to their public. But those improvements cannot cure the distance from consequence, so the drone program remains fatally flawed.
+[t20] <cut> Annette(CON): Imagine a planner preparing an attack inside a guarded compound. A drone can wait and strike without sending troops inside. That can save residents and responders, showing the program is-
+[t21] <ovl> Gloria(PRO): But your example assumes a clear moment tells you who is truly inside. From a screen, uncertainty becomes deadly, and troops not being present does not make unseen families safe.
+[t22] Annette(CON): I agree that misidentification is grave. But careful verification can reduce it, while avoiding a ground assault's wider danger; that is why the program is not fatally flawed.
+[t23] @A4 <ovl> Javier(MOD): Ten seconds left in the crossfire.
+[t24] <cut> Gloria(PRO): Your verification point fails because watched people cannot correct the story before force arrives. Procedures reduce error, but cannot make secret lethal judgment sound-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Javier(MOD): Time's up. So we move on to our closing round. And Gloria, you again have the floor.
+[t26] Gloria(PRO): Deciding this motion turns on what we permit when certainty is missing and the consequences are irreversible. A system built on secret lethal judgments cannot offer victims meaningful protection or remedy. Because that failure is structural, the drone program is fatally flawed. That's all, thank you.
+[t27] @A2-2 Javier(MOD): Go ahead. Go ahead, Annette.
+[t28] Annette(CON): The strongest point is that mistakes are serious, but serious risk does not make a tool beyond repair. Watching, delaying, recording, and reviewing can prevent worse harm than a rushed ground operation. The program can be constrained and corrected, so it is not fatally flawed. That's all, thank you.
+[t29] Javier(MOD): Thank you, Gloria and Annette, for a thoughtful exchange; that concludes our debate on this motion tonight.

@@ -1,0 +1,39 @@
+L152  |  We should give two cheers to the two-party system.
+  MOD=Virginia   PRO=Graham   CON=Abigail
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Virginia(MOD): Welcome to our debate. Tonight's motion is whether we should give two cheers to the two-party system. Graham supports it, and Abigail opposes it. Each opening and closing lasts thirty seconds, crossfire lasts two and a half minutes, and I will give a ten-second cue. The speakers should address each other directly, and I may step in to keep the exchange fair and focused.
+[t01] Graham(PRO): Two parties give voters a clear choice and give governing a workable path after elections. They gather broad coalitions instead of rewarding every narrow grievance. That structure creates accountability: when policy fails, citizens can replace the team responsible without guessing who actually held power. That's all, thank you.
+[t02] @A2-2 Virginia(MOD): Abigail, come on in your response.
+[t03] Abigail(CON): That clarity is purchased by shutting out views that do not fit either camp. A democracy deserves more than two gatekeepers deciding which arguments sound acceptable.
+[t04] <ovl> <cut> Graham(PRO): You call them gatekeepers, but isn't-
+[t05] @A5 <ovl> Virginia(MOD): Let her just answer that very briefly.
+[t06] Abigail(CON): and it leaves ordinary people with no real route for building support outside those camps. A choice designed by insiders is not a full choice either.
+[t07] @A4 <ovl> Virginia(MOD): Well, now ten.
+[t08] Abigail(CON): Two parties may be convenient, but convenience is not the democratic standard we should praise. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Virginia(MOD): Let me throw the discussion open between the two sides. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t10] Graham(PRO): Imagine a council split among several groups after an election, each demanding a separate bargain before any budget can pass. Two parties force compromise before voting day and produce a usable decision afterward. That proves the system deserves praise.
+[t11] Abigail(CON): When one party controls local candidate access, two labels can turn a fresh challenger into an outsider before voters hear her. That condition lets party insiders screen choices, so the system deserves less praise.
+[t12] Graham(PRO): If your answer is more voices, how will a voter tell a serious new group from a fleeting protest label without relying on coalitions? Give me a rule that protects choice without making responsibility vanish.
+[t13] Abigail(CON): Voters can judge platforms, records, and local work; a serious group earns trust through those details. But local candidate access means petition rules, meeting rooms, filing deadlines, volunteer lists, and who can afford repeated trips to submit papers.
+[t14] @B1 Virginia(MOD): Okay, I'm not sure that that's getting to whether we should give two cheers to the two-party system, which I think is a little bit more on point.
+[t15] Abigail(CON): The motion asks whether two parties deserve praise, and they do not when access is controlled by party machinery. A system that filters challengers before the public can weigh them protects itself, not democratic choice.
+[t16] <cut> Graham(PRO): I grant that voters benefit from recognizable teams and simple ballots. But insider control is a repairable party practice, while abandoning two broad coalitions makes bargaining less visible and accountability harder to trace for everyone-
+[t17] Abigail(CON): Democracy is weakened whenever political choices are narrowed before citizens can compare them. Two parties may simplify a ballot, yet their shared dominance can teach voters that only approved arguments count in public life.
+[t18] Graham(PRO): Party volunteers often build friendships and solve small neighborhood disputes, which is valuable civic work. Still, that social comfort can become pressure to pick a camp; the motion is about institutions, and two parties deserve qualified praise.
+[t19] Abigail(CON): Why should a voter who rejects both major platforms be told that influence requires joining one of them? Explain how that is genuine representation rather than a demand to silence part of her judgment.
+[t20] Graham(PRO): Your representation point mistakes an invitation to join a coalition for a command to surrender belief. Voters can reshape either party through primaries and local organizing, then hold a governing coalition responsible. That is representation.
+[t21] @A4 <ovl> Virginia(MOD): Ten seconds left on the crossfire.
+[t22] <cut> Abigail(CON): Your weakest claim is that primaries solve exclusion. A party can set the choices, rules, and acceptable tone before any primary begins, so participation inside its fence does not-
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Virginia(MOD): And that's time. First we have closing statements. I will ask Graham to speak first.
+[t24] Graham(PRO): Two cheers is not blind devotion. It recognizes a system that turns scattered preferences into governing choices, asks rivals to build broad support, and lets voters identify who made decisions. Abigail rightly worries about insider barriers, and those deserve reform. But more labels alone do not create power for citizens; clear responsibility and workable compromise do.
+[t25] @A4 <ovl> Virginia(MOD): Ten seconds.
+[t26] Graham(PRO): Give two cheers because this system is imperfect but useful: it organizes choice, exposes responsibility, and makes peaceful replacement possible. That is democratic value worth preserving. That's all, thank you.
+[t27] @A2-2 Virginia(MOD): So the floor is yours.
+[t28] Abigail(CON): Deciding this motion turns on whether convenience for large parties outweighs meaningful choice for citizens. Two labels can make a ballot tidy while narrowing who gets heard. Reform from inside is uncertain when insiders control the door; do not praise a system whose advantage is keeping alternatives dependent. That's all, thank you.
+[t29] Virginia(MOD): Thank you, Graham and Abigail, for a thoughtful debate; that concludes our discussion of tonight's motion for now.

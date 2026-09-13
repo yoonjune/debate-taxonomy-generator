@@ -1,0 +1,409 @@
+{
+ "debate_id": "L053",
+ "motion": "Freedom of Expression Must Include the License to Offend",
+ "speakers": {
+  "MOD": {
+   "name": "Liam",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5176_653",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5176/MSP-PODCAST_5176_653.wav",
+   "wpm": 176.47
+  },
+  "PRO": {
+   "name": "Michelle",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  },
+  "CON": {
+   "name": "Emma",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1266_611",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1266/MSP-PODCAST_1266_611.wav",
+   "wpm": 163.47
+  }
+ },
+ "selective": [
+  "A1",
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 91.3,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 305.1,
+ "ext": {
+  "a32": {
+   "file": "L053_ext_a32.wav",
+   "place_at_sec": 228.934,
+   "dur_sec": 27.65,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "If you may punish speech whenever you call its intent degrading, who decides intent: the offended person, an employer, or an official? And how can a dissenter criticize a cherished belief without risking that label and losing the freedom the motion protects?"
+  },
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "That question assumes consequences are punishment and that every judgment is censorship. People already distinguish criticism from targeted abuse in ordinary life; refusing a license to offend leaves dissent intact while denying cruelty a special moral shield."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.72,
+   "dur_sec": 21.72,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that freedom of expression must include the license to offend. Michelle speaks for it, and Emma speaks against it. Each speaker has thirty seconds for opening remarks, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before time expires. Please address one another directly and keep remarks focused."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.92,
+   "end_sec": 39.19,
+   "dur_sec": 17.27,
+   "overlap": false,
+   "text": "Freedom matters most when speech unsettles someone. Polite speech needs no special protection; the test is whether people may voice blunt, unpopular judgments without being silenced. Offense is subjective, so giving authorities power to punish it invites them to shield themselves from criticism. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 39.39,
+   "end_sec": 45.72,
+   "dur_sec": 6.33,
+   "overlap": false,
+   "text": "Thank you very much indeed. All right. Could I please ask Emma to speak against the motion, please."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 45.92,
+   "end_sec": 66.48,
+   "dur_sec": 20.56,
+   "overlap": false,
+   "text": "A free society protects disagreement, but it also asks speakers to recognize when words are used to humiliate and isolate. Calling that a license makes cruelty sound admirable. If a student is repeatedly mocked for a trait, the damage is not discomfort; it can push that person out of life, and we should not build a right around"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 65.92,
+   "end_sec": 67.16,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 66.68,
+   "end_sec": 77.22,
+   "dur_sec": 10.54,
+   "overlap": false,
+   "text": "People can challenge ideas forcefully without claiming a right to wound strangers. Criticism addresses a view, while offense can be the point when a crowd marks someone as lesser-",
+   "cut_at_sec": 75.24,
+   "full_dur_sec": 14.09,
+   "ext_file": "L053_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 76.42,
+   "end_sec": 78.67,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "Thank you, Emma. Your time is up."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 78.87,
+   "end_sec": 93.28,
+   "dur_sec": 14.41,
+   "overlap": false,
+   "text": "That concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 93.48,
+   "end_sec": 106.28,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Emma says hurt proves speech loses protection, but hurt cannot be the rule because anyone can claim it. Her example condemns harassment, which already involves repeated targeting, not a single offensive opinion. Why erase that distinction?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 106.616,
+   "end_sec": 120.466,
+   "dur_sec": 13.85,
+   "overlap": false,
+   "text": "Consider a worker whose colleagues post degrading jokes about her daily. She stops speaking in meetings and leaves the job; calling that protected offense tells bullies their social power matters more than her equal participation, so the motion creates-"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 119.566,
+   "end_sec": 132.376,
+   "dur_sec": 12.81,
+   "overlap": true,
+   "text": "No, daily targeting at work is harassment, not the ordinary offense this motion protects. You keep merging coercive conduct with expression; once criticism is punished because it stings, every powerful person gains a veto over dissent."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 132.921,
+   "end_sec": 146.001,
+   "dur_sec": 13.08,
+   "overlap": false,
+   "text": "That is why workplaces need clear conduct codes, trained supervisors, and complaint systems that respond early. Managers must decide which jokes poison cooperation, how reports are reviewed, and whether repeat offenders lose access to teams or training."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 146.201,
+   "end_sec": 151.881,
+   "dur_sec": 5.68,
+   "overlap": false,
+   "text": "We're not debating those points. We're debating freedom of expression must include the license to offend."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.081,
+   "end_sec": 164.691,
+   "dur_sec": 12.61,
+   "overlap": false,
+   "text": "The question is whether freedom of expression must include a license to offend, and it should not. Freedom protects saying what you believe; it does not require society to bless speech designed mainly to demean another person."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 165.161,
+   "end_sec": 177.281,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "When the response is merely that listeners feel insulted, speech must remain protected. People can answer, criticize, or walk away; granting a legal or social veto whenever feelings sting destroys the license to offend."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 177.845,
+   "end_sec": 189.535,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "Your 'merely insulted' condition pretends humiliation stays inside one listener's feelings. Speech can signal that certain people are unwelcome, inviting others to join in; that social exclusion is real harm, not a veto."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 190.13,
+   "end_sec": 202.46,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "No person should need to prove harm before answering offensive speech, because expression belongs to everyone. The public can condemn ugliness, but neither officials nor mobs should revoke someone's freedom simply because their words offend."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.23,
+   "end_sec": 216.2,
+   "dur_sec": 12.97,
+   "overlap": false,
+   "text": "Your point about public condemnation actually shows why the license is unnecessary. If communities may answer ugly speech, they may set standards that protect members; freedom of expression does not demand immunity from consequences for deliberate offense."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 216.737,
+   "end_sec": 230.187,
+   "dur_sec": 13.45,
+   "overlap": false,
+   "text": "No, freedom does not demand immunity from consequences; I reject that premise. It demands room to speak without punishment for offense itself. Your standards become censorship when they penalize an opinion because listeners dislike its tone or message."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 230.914,
+   "end_sec": 243.714,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "I agree that officials should not punish a view simply for being unpopular. But your license reaches beyond unpopular views and protects intentional degradation; a free culture needs equal standing, not a claimed right to wound.",
+   "ext_file": "L053_ext_a32.wav"
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 233.28,
+   "end_sec": 235.6,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds, and then closing statements."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 243.28,
+   "end_sec": 250.09,
+   "dur_sec": 6.81,
+   "overlap": true,
+   "text": "Okay, time. We're gonna go onto our closing round. And first up will be Michelle, you're first up, right?"
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 250.29,
+   "end_sec": 267.16,
+   "dur_sec": 16.87,
+   "overlap": false,
+   "text": "The other side calls any offense cruelty, yet that erases the listener's power to answer and the speaker's need to challenge accepted views. Harassment can be addressed without banning offense. A freedom that protects only agreeable words is permission, not genuine freedom. That's all, thank you."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 267.36,
+   "end_sec": 270.65,
+   "dur_sec": 3.29,
+   "overlap": false,
+   "text": "I want to let Emma respond to some of that."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 270.85,
+   "end_sec": 280.7,
+   "dur_sec": 9.85,
+   "overlap": false,
+   "text": "You are right that dissent can offend, but a license is broader than dissent. It protects degradation, while our side defends expression with responsibility."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 279.8,
+   "end_sec": 282.1,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But responsibility cannot mean letting offended people-",
+   "cut_at_sec": 278.06,
+   "full_dur_sec": 8.73,
+   "ext_file": "L053_027.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 281.3,
+   "end_sec": 285.79,
+   "dur_sec": 4.49,
+   "overlap": true,
+   "text": "Can you let her finish and then come back, thank you very much."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 285.99,
+   "end_sec": 296.32,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "with responsibility, because equal participation is not possible when speakers can openly mark others as lesser. You may challenge ideas fiercely; you need no license to demean."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 290.85,
+   "end_sec": 292.46,
+   "dur_sec": 1.61,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 296.52,
+   "end_sec": 302.29,
+   "dur_sec": 5.77,
+   "overlap": false,
+   "text": "Protect dissent, challenge power, but reject a freedom that makes another person's degradation an entitlement."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 302.49,
+   "end_sec": 309.14,
+   "dur_sec": 6.65,
+   "overlap": false,
+   "text": "Thank you, Michelle and Emma, for a thoughtful debate. That concludes our discussion, and this debate is now closed."
+  }
+ ]
+}

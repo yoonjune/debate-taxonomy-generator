@@ -1,0 +1,430 @@
+{
+ "debate_id": "L044",
+ "motion": "China is a threat to the liberal international order.",
+ "speakers": {
+  "MOD": {
+   "name": "Nadine",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2943_167",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2943/MSP-PODCAST_2943_167.wav",
+   "wpm": 160.94
+  },
+  "PRO": {
+   "name": "Carla",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1918_257",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1918/MSP-PODCAST_1918_257.wav",
+   "wpm": 170.8
+  },
+  "CON": {
+   "name": "Lionel",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4117_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4117/MSP-PODCAST_4117_448.wav",
+   "wpm": 173.57
+  }
+ },
+ "selective": [
+  "A5",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 81.48,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 296.17,
+ "ext": {
+  "a32": {
+   "file": "L044_ext_a32.wav",
+   "place_at_sec": 228.881,
+   "dur_sec": 9.84,
+   "src_i": 22
+  }
+ },
+ "flags": [
+  "ext_a32: 마감 뒤 7.2초뿐 (여유분 부족)"
+ ],
+ "dropped_turns": [],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.85,
+   "dur_sec": 19.85,
+   "overlap": false,
+   "text": "Today's motion is whether China is a threat to the liberal international order. Carla takes the side that it is, and Lionel takes the side that it is not. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed section ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.05,
+   "end_sec": 40.33,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "China is a threat because it challenges the rules that protect open trade, lawful conduct, and peaceful disagreement. Its growing power lets it pressure weaker states, resist scrutiny, and promote a model where authority outranks individual rights. This is not fear of competition; it is concern about behavior that makes the order less open and less secure."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.05,
+   "end_sec": 40.93,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 40.53,
+   "end_sec": 48.83,
+   "dur_sec": 8.3,
+   "overlap": false,
+   "text": "When a powerful state weakens shared rules and rewards coercion, the liberal order itself becomes less dependable. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 49.03,
+   "end_sec": 51.2,
+   "dur_sec": 2.17,
+   "overlap": false,
+   "text": "I'm going to let him respond to that."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.4,
+   "end_sec": 71.35,
+   "dur_sec": 19.95,
+   "overlap": false,
+   "text": "China is not a threat to the liberal international order simply because it has different priorities or greater influence. It participates in many shared systems and benefits from stable rules. Carla is turning legitimate rivalry into danger, and that exaggeration makes cooperation harder. The motion confuses a difficult partner with an actual threat. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.55,
+   "end_sec": 86.04,
+   "dur_sec": 14.49,
+   "overlap": false,
+   "text": "And that concludes Round one. Now, we move onto Round two, and in Round two, the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 86.24,
+   "end_sec": 94.33,
+   "dur_sec": 8.09,
+   "overlap": false,
+   "text": "If China benefits from open trade and shared rules, why call it a threat rather than a competitor with interests that can be managed?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 95.036,
+   "end_sec": 104.316,
+   "dur_sec": 9.28,
+   "overlap": false,
+   "text": "Because participation does not erase coercion. A state can use shared systems for advantage while weakening the openness, rights, and accountability that make those systems legitimate."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 104.739,
+   "end_sec": 115.789,
+   "dur_sec": 11.05,
+   "overlap": false,
+   "text": "That old dispute began with a broken promise, then produced years of arguments over borders, trade, and recognition; each meeting reopened blame, and each statement hardened public anger instead of resolving anything."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 115.989,
+   "end_sec": 123.679,
+   "dur_sec": 7.69,
+   "overlap": false,
+   "text": "What we are talking about here is china is a threat to the liberal international order. We're not going back into history."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 123.879,
+   "end_sec": 134.209,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "China does not automatically threaten the liberal order merely because it resists some Western preferences. A threat requires conduct that weakens open rules, and China often benefits from those rules."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 135.12,
+   "end_sec": 146.16,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Even the language of diplomacy matters, because trust shapes whether smaller states can speak freely. But the motion concerns more than tone: China's pressure on rules makes the order less liberal."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 146.629,
+   "end_sec": 156.239,
+   "dur_sec": 9.61,
+   "overlap": false,
+   "text": "No state should ever be treated as a threat; that label invites suspicion, escalation, and closed alliances. We should judge conduct narrowly, not condemn a country wholesale."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 157.014,
+   "end_sec": 165.174,
+   "dur_sec": 8.16,
+   "overlap": false,
+   "text": "If a powerful state pressures weaker governments and rejects scrutiny, what stronger warning than calling that behavior a threat would protect the order?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 165.91,
+   "end_sec": 173.04,
+   "dur_sec": 7.13,
+   "overlap": false,
+   "text": "China should be treated as a threat. Its pressure on open rules deserves firm resistance, while cooperation remains possible and useful."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 173.24,
+   "end_sec": 180.85,
+   "dur_sec": 7.61,
+   "overlap": false,
+   "text": "You're saying no state should ever be treated as a threat but you still want china should be treated as a threat."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 181.05,
+   "end_sec": 191.7,
+   "dur_sec": 10.65,
+   "overlap": false,
+   "text": "Those statements are compatible because the first rejects treating any state as a permanent enemy, while the second identifies a serious challenge. I oppose permanent hostility, but still reject this motion."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 192.455,
+   "end_sec": 202.815,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "Imagine China denying a smaller government access to vital trade unless it abandons independent criticism. That is coercion through economic power, and it proves China threatens the order's openness."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 203.679,
+   "end_sec": 213.129,
+   "dur_sec": 9.45,
+   "overlap": false,
+   "text": "I grant that economic pressure can be troubling. But one troubling tactic does not establish a sweeping threat to the entire order; engagement and rules can constrain it."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 213.6,
+   "end_sec": 223.68,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "Your point about engagement misses the issue: cooperation can continue while coercion spreads. If shared rules cannot restrain China's pressure, engagement alone does not protect the liberal order."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 224.54,
+   "end_sec": 232.55,
+   "dur_sec": 8.01,
+   "overlap": false,
+   "text": "If cooperation and existing rules can limit China's pressure, what proves that the entire liberal order faces a threat rather than a manageable dispute?"
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 226.04,
+   "end_sec": 228.85,
+   "dur_sec": 2.81,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 23,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 233.441,
+   "end_sec": 236.84,
+   "dur_sec": 3.399,
+   "overlap": false,
+   "text": "You reduce a pattern to one tactic, but the concern is cumulative-",
+   "ext_file": "L044_ext_a32.wav",
+   "cut_at_sec": 232.28,
+   "full_dur_sec": 9.84
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 236.04,
+   "end_sec": 246.61,
+   "dur_sec": 10.57,
+   "overlap": true,
+   "text": "And that's time. I want to move into our third round, which is basically closing statements from each of you. And Carla, you again, get to go first on this."
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 246.81,
+   "end_sec": 256.53,
+   "dur_sec": 9.72,
+   "overlap": false,
+   "text": "Lionel's best point is that cooperation remains possible, but cooperation does not cancel coercion. China's pressure on openness and accountability makes it a threat to the liberal order."
+  },
+  {
+   "i": 26,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 255.63,
+   "end_sec": 257.93,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But that ignores the evidence of cooperation-",
+   "cut_at_sec": 253.37,
+   "full_dur_sec": 7.6,
+   "ext_file": "L044_026.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 257.13,
+   "end_sec": 259.14,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "No, no, no. Hold on. Let Carla."
+  },
+  {
+   "i": 28,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 259.34,
+   "end_sec": 269.7,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "That cooperation is precisely why the threat is serious: China can use the order's benefits while weakening its standards from within. Its conduct, not its identity, is the basis of my case."
+  },
+  {
+   "i": 29,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 266.81,
+   "end_sec": 268.41,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 30,
+   "src_i": 30,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 269.9,
+   "end_sec": 278.16,
+   "dur_sec": 8.26,
+   "overlap": false,
+   "text": "A powerful participant that erodes openness and accountability is still a threat to the order. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 278.36,
+   "end_sec": 281.25,
+   "dur_sec": 2.89,
+   "overlap": false,
+   "text": "So, Lionel, can we let Lionel come in?"
+  },
+  {
+   "i": 32,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.45,
+   "end_sec": 301.56,
+   "dur_sec": 20.11,
+   "overlap": false,
+   "text": "The strongest point is that pressure can harm smaller states, but harm from particular actions is not proof of a threat to the whole order. China remains tied to shared rules, and that gives other states tools to resist, negotiate, and improve conduct. The motion overstates a challenge and turns competition into a verdict. That's all, thank you."
+  },
+  {
+   "i": 33,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 301.76,
+   "end_sec": 305.29,
+   "dur_sec": 3.53,
+   "overlap": false,
+   "text": "Thank you both for your arguments. That closes the debate."
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+L203  |  ChatGPT will do more harm than good.
+  MOD=Gerard   PRO=Dean   CON=Marcia
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Gerard(MOD): Welcome to this debate. Tonight's motion is that ChatGPT will do more harm than good. Dean argues for the motion, and Marcia argues against it. Openings last thirty seconds each, then two and a half minutes of direct crossfire, then thirty-second closings; I will give a ten-second cue before each timed speech ends. Each speaker must keep answers relevant.
+[t01] Dean(PRO): ChatGPT can produce confident errors at the exact moment people need dependable guidance. A learner, worker, or worried family may follow a polished answer without seeing the missing facts behind it. When a tool sounds certain while it guesses, it spreads mistakes quickly and weakens the habit of checking.
+[t02] @A4 <ovl> Gerard(MOD): I can give you ten seconds to wrap this round.
+[t03] Dean(PRO): That combination of scale, trust, and hidden error makes the likely balance plainly more harmful than helpful. That's all, thank you.
+[t04] @A2-2 Gerard(MOD): Can we ask her to answer? Marcia.
+[t05] Marcia(CON): Tools can be misused, and wrong answers deserve caution. But ChatGPT can explain a confusing task, offer a first draft, or help someone practice without replacing judgment. Its value comes from giving people a starting point, while people remain responsible for checking and deciding. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Gerard(MOD): And that concludes round one of this debate. Now we go on to round two. And round two are where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+[t07] Marcia(CON): Imagine someone facing a confusing form and using ChatGPT to translate dense instructions into plain steps. They can check those steps and act confidently. That access shows the tool can do more good than harm.
+[t08] Dean(PRO): When people treat ChatGPT's output as authority instead of a draft, its fluent mistakes can steer real decisions badly. That condition is common enough to make the overall balance harmful.
+[t09] Marcia(CON): I agree it can make a first explanation easier to understand. But your main claim assumes users surrender judgment; many compare, revise, and ask questions, so useful assistance outweighs its risks.
+[t10] Dean(PRO): ChatGPT invites overreliance because it speaks smoothly, even among users who begin cautiously. Its design scales plausible misinformation faster than ordinary checking can catch it, making harm exceed good.
+[t11] Marcia(CON): If checking is so unreliable, why does your case ignore people who use the tool beside teachers, manuals, and their own reasoning? Explain why assisted judgment cannot keep benefits ahead of harms.
+[t12] Dean(PRO): On your assisted judgment point, safeguards help only where people have time and skill to use them. The same easy access reaches rushed users who accept invented details, so harm still leads.
+[t13] Marcia(CON): Access depends on a working device, a quiet place, and time to frame a useful prompt. Those gaps matter, but the motion concerns outcomes, and accessible guidance can create more good than harm.
+[t14] Dean(PRO): Assisted judgment can help, but it cannot protect everyone who relies on an answer alone. Your access claim overlooks how a polished false answer travels easily, making broad use more harmful than helpful.
+[t15] Marcia(CON): That working device also needs power, updates, storage, and a connection that does not vanish halfway through a task. When systems lag, people lose patience, switch settings, and depend on whoever maintains the equipment.
+[t16] @B1 Gerard(MOD): We're talking about whether whether chatgpt will do more harm than good.
+[t17] Marcia(CON): Whether ChatGPT does more harm than good depends on what people do with it, and guided use brings real help. Your worst-case users do not erase ordinary users who check, adapt, and benefit.
+[t18] Dean(PRO): You say ordinary checking solves the danger, but how can a person detect a convincing fabrication in a subject they do not understand? That gap makes ChatGPT more harmful than good.
+[t19] Marcia(CON): On your fabrication point, people do not need perfect expertise to check; they can compare sources, ask for clarification, or seek help. A useful assistant supports those habits, so good can outweigh harm.
+[t20] @A4 <ovl> Gerard(MOD): Ten.
+[t21] <cut> Dean(PRO): A student uses ChatGPT to invent a believable-
+
+--- phase 3 ---
+[t22] @A3-2 <ovl> Gerard(MOD): Okay, time. And now we move onto Round three. Speaking first for the motion, Dean.
+[t23] Dean(PRO): Deciding this motion turns on more than whether ChatGPT sometimes helps. It turns on what happens when a persuasive system is used at enormous scale by people who cannot readily test it. A draft can be checked, but false confidence is hard to notice before damage occurs. The question is whether convenience outweighs that structural risk.
+[t24] @A4 <ovl> Gerard(MOD): Ten seconds for last word.
+[t25] Dean(PRO): Marcia offers careful users, yet the tool reaches careless and vulnerable users as well. Its errors gain influence precisely because they arrive sounding helpful. That's all, thank you.
+[t26] @A2-2 Gerard(MOD): All right, so let me bring Marcia.
+[t27] Marcia(CON): The strongest point is that ChatGPT is a tool people can direct, question, and verify. It can turn confusion into a starting point for learning, work, and communication. Misuse exists, as with any powerful aid, but it is not the only or usual outcome. We should judge the help people can actively gain.
+[t28] <cut> Marcia(CON): Dean treats every error as proof the whole tool is harmful. But people correct, compare, and reject bad answers. With judgment, ChatGPT's useful reach in daily work and learning exceeds its-
+[t29] @A4 <ovl> Gerard(MOD): Marcia, ten seconds.
+[t30] @A1 <ovl> Gerard(MOD): Thank you, Marcia. Your time is up.
+[t31] Gerard(MOD): Thank you, Dean and Marcia; this concludes our debate on whether ChatGPT will do more harm than good.

@@ -1,0 +1,42 @@
+L132  |  The UN should admit Palestine as a full member state.
+  MOD=Hina   PRO=Annette   CON=Ismail
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Hina(MOD): Welcome to our debate on whether the UN should admit Palestine as a full member state. Annette supports the motion, and Ismail opposes it. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire. We then have thirty-second closings, with a ten-second cue.
+[t01] Annette(PRO): Full membership gives Palestinians an equal voice in the institution that shapes decisions affecting their lives. It recognizes that a people cannot be asked to negotiate their future while being kept outside the room. This does not settle borders or end conflict, but it creates a fairer basis for pursuing both.
+[t02] Annette(PRO): The UN should admit Palestine because equal representation supports responsible diplomacy rather than replacing it. That's all, thank you.
+[t03] @A4 <ovl> Hina(MOD): You've got ten seconds.
+[t04] @A2-2 Hina(MOD): Thank you very much indeed. All right. Could I please ask Ismail to speak against the motion, please.
+[t05] Ismail(CON): Full membership should follow a durable agreement, not be used to force one. Granting it before core disputes are resolved may harden positions and reduce incentives to compromise. The UN should support negotiations without declaring their outcome in advance. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Hina(MOD): The time period of uninterrupted speaking is over. We're going to move into the portion of the evening now where the debaters debate one another. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Annette(PRO): When a family faces a decision made by every neighbor except them, distrust grows and cooperation weakens. Palestine's exclusion creates that same imbalance; full membership gives its people a responsible voice.
+[t08] Ismail(CON): Your family comparison ignores that membership carries recognition of unresolved claims. A voice can be provided through existing participation, while full admission may prejudge the very questions negotiations must settle.
+[t09] Annette(PRO): When negotiations are stalled and one party lacks equal standing, membership can restore incentives for serious engagement. It gives representatives duties as well as rights, so admission supports diplomacy.
+[t10] Ismail(CON): If membership is meant to help negotiations, why grant it before agreed borders and authority exist? How can the UN admit a state whose basic responsibilities remain disputed?
+[t11] Annette(PRO): Because membership does not draw borders or erase disputes; it lets Palestinians address them on equal institutional footing. The UN should not reserve full participation only for conflicts already solved.
+[t12] <cut> Ismail(CON): No, membership does not erase negotiation, but it changes the balance before agreement is reached. Equal standing is valuable, yet declaring statehood first can reward refusal to compromise rather than-
+[t13] <ovl> Annette(PRO): No, it rewards participation in peaceful institutions. You treat recognition as a prize for a final deal, but a fair process requires both peoples to enter diplomacy with political dignity.
+[t14] Ismail(CON): The larger problem is how international funding and security coordination would be managed after admission. Donors and agencies need clear authority, reliable oversight, and workable arrangements before they can plan responsibly.
+[t15] @B1 Hina(MOD): I really want to stay on whether the un should admit palestine as a full member state.
+[t16] Ismail(CON): On admission itself, the UN should wait until Palestinians can exercise clear, agreed state responsibilities. Membership without that foundation risks creating expectations the institution cannot enforce.
+[t17] Annette(PRO): You say waiting protects negotiations, but what incentive remains to treat Palestinians as equal partners while exclusion continues? Why should unresolved conflict permanently deny them the representation others receive?
+[t18] Ismail(CON): Your incentive point assumes exclusion is the only pressure on negotiators. Existing participation already provides representation, while full membership removes a useful reason to complete the agreements that make statehood workable.
+[t19] Annette(PRO): Existing participation is not equal representation, and that is the point you avoid. Negotiations need incentives, but withholding membership makes equality conditional on permission from stronger parties.
+[t20] Ismail(CON): Imagine officials claiming full international status while unable to deliver a single, consistent commitment across the territory they claim. That confusion would deepen disputes, proving admission should follow a settlement.
+[t21] @A4 <ovl> Hina(MOD): Ten seconds remaining in this round.
+[t22] <cut> Annette(PRO): Your example assumes membership requires-
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Hina(MOD): Time. Let's move on now to our closing round. Annette, you're up first.
+[t24] Annette(PRO): The strongest case is simple: equal membership gives Palestinians a seat in decisions shaping their future. Exclusion keeps diplomacy unequal and delays accountability.
+[t25] <ovl> <cut> Ismail(CON): That seat cannot create the authority or agreement-
+[t26] @A5 <ovl> Hina(MOD): Can you let her finish and then come back, thank you very much.
+[t27] Annette(PRO): gives Palestinians responsibilities alongside representation, making peaceful engagement more credible. Membership does not decide every dispute; it ensures Palestinians are present when those disputes are addressed.
+[t28] @A4 <ovl> Hina(MOD): Ten seconds, ten seconds.
+[t29] Annette(PRO): The UN should choose inclusion, equal voice, and a stronger foundation for diplomacy.
+[t30] @A2-2 Hina(MOD): Would you like to take it, Ismail? You started to speak.
+[t31] Ismail(CON): The strongest case against admission is that membership should confirm a settlement, not substitute for one. Palestinians need rights, security, and workable institutions, but premature recognition may make agreement harder. The UN should promote a negotiated path before full membership. That's all, thank you.
+[t32] Hina(MOD): Thank you, Annette and Ismail, for a thoughtful debate. That concludes our discussion this evening.

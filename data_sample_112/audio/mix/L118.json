@@ -1,0 +1,378 @@
+{
+ "debate_id": "L008",
+ "motion": "Britain's role in the Middle East is in terminal decline",
+ "speakers": {
+  "MOD": {
+   "name": "Bradley",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4043_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4043/MSP-PODCAST_4043_33.wav",
+   "wpm": 168.26
+  },
+  "PRO": {
+   "name": "Paula",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2678_246",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2678/MSP-PODCAST_2678_246.wav",
+   "wpm": 168.22
+  },
+  "CON": {
+   "name": "Betsy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 84.97,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 303.44,
+ "ext": {
+  "a32": {
+   "file": "L008_ext_a32.wav",
+   "place_at_sec": 228.378,
+   "dur_sec": 26.8,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "I accept access can shape a compromise. But your standard mistakes a surviving tool for enduring weight: if Britain cannot lead when regional choices are made, why call its role secure? That dependence is terminal decline."
+  },
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "No, I reject the premise that shared leadership makes a role insecure. Britain can lead alongside regional partners, and influence is measured by outcomes and relationships, not control. You treat cooperation as dependence; it is also how a continuing role works."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.24,
+   "dur_sec": 20.24,
+   "overlap": false,
+   "text": "Welcome to this debate. Tonight's motion is that Britain's role in the Middle East is in terminal decline. Paula will argue for the motion, while Betsy will argue against it. They each have thirty seconds for openings, then two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.44,
+   "end_sec": 37.62,
+   "dur_sec": 17.18,
+   "overlap": false,
+   "text": "Britain still speaks and acts there, but a role is measured by whether others need it. Regional powers increasingly set the terms, while Britain follows events it once shaped. That loss of independent weight is not a pause; it is terminal decline. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 37.82,
+   "end_sec": 39.95,
+   "dur_sec": 2.13,
+   "overlap": false,
+   "text": "I want to give the floor to Betsy."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 40.15,
+   "end_sec": 60.31,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Calling change terminal decline mistakes a shifting role for a disappearing one. Britain still brings diplomatic ties, security knowledge, trade links, and the ability to convene difficult conversations. Influence is not ownership of every outcome. If partners still seek British help when disputes intensify, how can you call that terminal decline?"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 60.15,
+   "end_sec": 63.5,
+   "dur_sec": 3.35,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 60.51,
+   "end_sec": 71.45,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "Because influence now works through partnerships, not command, Britain's role can adapt rather than vanish. Its long relationships still give it access others lack. When crises demand contact, Britain remains useful-",
+   "cut_at_sec": 69.19,
+   "full_dur_sec": 14.16,
+   "ext_file": "L008_005.wav"
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 70.65,
+   "end_sec": 72.82,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "Betsy, her time is up."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 73.02,
+   "end_sec": 87.23,
+   "dur_sec": 14.21,
+   "overlap": false,
+   "text": "And that concludes round one. Now on to round two. Round two is where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 87.43,
+   "end_sec": 100.59,
+   "dur_sec": 13.16,
+   "overlap": false,
+   "text": "No, partners seeking occasional help does not show Britain sets the agenda. Your access point is weaker than leverage: local actors choose terms, and Britain supplies support when invited. A role dependent on others' permission is declining."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 100.826,
+   "end_sec": 113.706,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "If Britain's role is terminally declining, why do regional counterparts still call on it to broker talks and protect shared interests? You treat cooperation as weakness, but can you explain why they would keep choosing a-"
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 112.806,
+   "end_sec": 124.926,
+   "dur_sec": 12.12,
+   "overlap": true,
+   "text": "Because they choose Britain only where it fits their plans, not because it leads. Being called in as a helper is not strategic weight; it confirms others hold decisive authority, which is terminal decline."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 125.567,
+   "end_sec": 138.447,
+   "dur_sec": 12.88,
+   "overlap": false,
+   "text": "Trade matters, since businesses need predictable routes and contracts; families feel uncertainty. But that is not the test. The motion asks whether Britain's role is ending, and active partnerships show a durable role, not terminal decline."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 139.433,
+   "end_sec": 152.673,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "Every British security role now proves terminal decline. Britain can send expertise or equipment, yet it no longer determines the political destination; local players accept assistance while reserving the decisions that matter, so its role is shrinking."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 153.234,
+   "end_sec": 166.444,
+   "dur_sec": 13.21,
+   "overlap": false,
+   "text": "I grant Britain cannot dictate outcomes as it once tried to. But influence need not be command: trusted channels carry messages and build agreements. Losing old habits is adaptation, and a useful role is not terminal decline."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 167.329,
+   "end_sec": 178.729,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "This British security role does not prove terminal decline. A patrol can protect people and reduce danger; practical service gives it a place in a crisis, though the wider retreat remains terminal."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 178.929,
+   "end_sec": 187.419,
+   "dur_sec": 8.49,
+   "overlap": false,
+   "text": "But doesn't your argument for every British security role now proves terminal decline fight your argument that this British security role does not prove terminal decline?"
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.619,
+   "end_sec": 200.419,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "The first concerns what security roles prove about Britain's authority; the second concerns what one mission accomplishes on the ground. A mission can help people while revealing less authority than before. So terminal decline remains clear."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 201.089,
+   "end_sec": 216.089,
+   "dur_sec": 15.0,
+   "overlap": false,
+   "text": "Imagine rival local officials refusing to speak after a border incident. British diplomats pass messages both sides trust, helping prevent a clash and reopen talks. That practical bridge protects people and interests, proving Britain retains a meaningful role rather than terminal decline."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 216.795,
+   "end_sec": 229.795,
+   "dur_sec": 13.0,
+   "overlap": false,
+   "text": "Your border-incident bridge point confuses occasional mediation with lasting power. Passing messages is useful, but it shows Britain serves others' process rather than setting the choices. A role reduced to emergency assistance is evidence of terminal decline."
+  },
+  {
+   "i": 19,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 227.23,
+   "end_sec": 229.87,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "About ten seconds left in the crossfire."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 230.638,
+   "end_sec": 238.03,
+   "dur_sec": 7.392,
+   "overlap": false,
+   "text": "Your weakest claim is that setting every choice defines influence. No outside state sets every choice, yet steady access shapes compromises before-",
+   "ext_file": "L008_ext_a32.wav",
+   "cut_at_sec": 235.77,
+   "full_dur_sec": 13.96
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 237.23,
+   "end_sec": 246.12,
+   "dur_sec": 8.89,
+   "overlap": true,
+   "text": "That's time. And that concludes round two. So we move on to round three. And first up, to argue the yes position, once again, Paula."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 246.32,
+   "end_sec": 266.48,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Britain has not vanished from the Middle East, and I have never claimed that. The question is whether its role is in terminal decline. When others set priorities, invite Britain only selectively, and hold decisive authority, Britain's remaining activity is service, not leadership. A few useful missions cannot reverse that direction."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 266.32,
+   "end_sec": 267.56,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Paula, ten seconds."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 266.68,
+   "end_sec": 277.62,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "Britain may retain contacts and expertise, but those are remnants of a larger role, not proof it can still shape the region's future. The central fact is that influence depends-",
+   "cut_at_sec": 275.36,
+   "full_dur_sec": 14.32,
+   "ext_file": "L008_026.wav"
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 276.82,
+   "end_sec": 280.29,
+   "dur_sec": 3.47,
+   "overlap": true,
+   "text": "That's time, thank you. Betsy, the floor is yours."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 280.49,
+   "end_sec": 300.81,
+   "dur_sec": 20.32,
+   "overlap": false,
+   "text": "Paula's best point is that Britain no longer commands outcomes, and that is true. But command is not the measure of a modern role. Where Britain can connect rivals, support security, and sustain relationships, it remains relevant. Change may reduce old prestige, but it does not make its role terminally declining. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 301.01,
+   "end_sec": 307.82,
+   "dur_sec": 6.81,
+   "overlap": false,
+   "text": "Thank you, Paula and Betsy, for a spirited debate on this motion concerning Britain's changing role in the Middle East."
+  }
+ ]
+}

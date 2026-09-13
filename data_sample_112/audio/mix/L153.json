@@ -1,0 +1,458 @@
+{
+ "debate_id": "L056",
+ "motion": "The courts should restrict access to the abortion pill.",
+ "speakers": {
+  "MOD": {
+   "name": "Joe",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5176_653",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5176/MSP-PODCAST_5176_653.wav",
+   "wpm": 176.47
+  },
+  "PRO": {
+   "name": "Mitchell",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  },
+  "CON": {
+   "name": "Sheldon",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_2988_467",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2988/MSP-PODCAST_2988_467.wav",
+   "wpm": 167.95
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 100.27,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 321.73,
+ "ext": {
+  "a32": {
+   "file": "L056_ext_a32.wav",
+   "place_at_sec": 242.208,
+   "dur_sec": 32.32,
+   "src_i": 26
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 27,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "I agree remedies for deception are useful after harm occurs. But why wait for harm when courts can require basic verification beforehand? Targeted restrictions remain the responsible protection."
+  },
+  {
+   "src_i": 28,
+   "speaker": "CON",
+   "slot": "X16",
+   "text": "Verification can be required through medical practice rules without restricting a patient's access in court. Your approach risks turning a safety check into a broad obstacle, and patients deserve timely, lawful care."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.64,
+   "dur_sec": 20.64,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is the courts should restrict access to the abortion pill. Mitchell supports the motion, and Sheldon opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue; speak directly and stay focused. We begin now, with equal time for both speakers."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.84,
+   "end_sec": 30.88,
+   "dur_sec": 10.04,
+   "overlap": false,
+   "text": "Courts should require basic safeguards before this pill is provided. A serious medical decision deserves verified prescribing, clear information, and accountability when harm follows."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 29.98,
+   "end_sec": 32.28,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "You keep calling this accountability, but I know someone-",
+   "cut_at_sec": 32.28,
+   "full_dur_sec": 10.09,
+   "ext_file": "L056_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 31.48,
+   "end_sec": 33.65,
+   "dur_sec": 2.17,
+   "overlap": true,
+   "text": "Please let him address the principle."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 33.85,
+   "end_sec": 44.19,
+   "dur_sec": 10.34,
+   "overlap": false,
+   "text": "Because the principle is simple: access without meaningful review can leave patients isolated when problems arise. Courts can insist that providers confirm eligibility and explain follow-up care."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.84,
+   "end_sec": 43.16,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 44.39,
+   "end_sec": 52.65,
+   "dur_sec": 8.26,
+   "overlap": false,
+   "text": "That is a narrow protection, not a ban, and it puts patient safety first. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 52.85,
+   "end_sec": 55.82,
+   "dur_sec": 2.97,
+   "overlap": false,
+   "text": "I just want to let Sheldon respond to that."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 56.02,
+   "end_sec": 76.03,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "The other side treats courts as if they can make private care safer by adding rules. But judges are not the people having the consultation or carrying the consequences of delay. A patient and clinician should make this decision together. Restrictions can turn a lawful prescription into a drawn-out obstacle, especially when someone needs prompt care."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 76.02,
+   "end_sec": 76.9,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 76.23,
+   "end_sec": 87.32,
+   "dur_sec": 11.09,
+   "overlap": false,
+   "text": "Clear information and responsible prescribing matter, but court restrictions are a blunt answer. They invite uncertainty for patients and clinicians, and they place a judge between someone and care. If safety is-",
+   "cut_at_sec": 85.06,
+   "full_dur_sec": 17.12,
+   "ext_file": "L056_010.wav"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 86.52,
+   "end_sec": 88.45,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "I'm sorry, you've hit time."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 88.65,
+   "end_sec": 102.53,
+   "dur_sec": 13.88,
+   "overlap": false,
+   "text": "The time period of uninterrupted speaking is over. We're going to move into the portion of the evening now where the debaters debate one another. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 102.73,
+   "end_sec": 113.49,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Your delay point assumes every restriction is an obstacle. A court can require real prescribing standards without blocking care, and that protection matters when a patient has no meaningful follow-up."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 113.85,
+   "end_sec": 123.46,
+   "dur_sec": 9.61,
+   "overlap": false,
+   "text": "On your follow-up point, care is improved by clinicians, not courtroom rules. A judge's restriction can make providers fearful and patients wait, which weakens the access they need."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 124.148,
+   "end_sec": 135.268,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "I agree a patient should not face needless delay. But if no one verifies the prescription or explains warning signs, who protects that patient from preventable harm? Courts should enforce safeguards."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 135.595,
+   "end_sec": 145.675,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "No, a missed confirmation does not make courts the proper gatekeepers. Your safeguard question ignores that clinicians already owe patients careful counseling, while restrictions can deny timely care."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 146.105,
+   "end_sec": 158.305,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "Imagine a patient receives pills through a distant seller, gets severe symptoms, and cannot reach anyone who knows the case. Requiring verified care and contact information prevents abandonment. That proves targeted restrictions protect patients."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 158.509,
+   "end_sec": 167.159,
+   "dur_sec": 8.65,
+   "overlap": false,
+   "text": "If a patient has consulted a qualified clinician and understands the instructions, why should a court add another barrier before that patient can obtain prescribed care?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 167.845,
+   "end_sec": 179.685,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "People also argue about advertising and delivery practices, which can distract from the real issue. The motion is court access rules, and courts should stop practices that separate patients from responsible medical oversight."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 180.216,
+   "end_sec": 190.226,
+   "dur_sec": 10.01,
+   "overlap": false,
+   "text": "Your delivery point mistakes distance for neglect. Remote care can still include counseling, screening, and follow-up, while court restrictions can remove that option from patients who need it."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 191.061,
+   "end_sec": 201.501,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "When a seller cannot verify a real clinical review, courts should restrict access to the pill. Why should an unverified transaction receive the same legal protection as responsible care?"
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 201.827,
+   "end_sec": 211.827,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "No, an unverified transaction should not receive equal protection, but your premise overreaches. Courts can address fraud directly without restricting lawful access for patients working with qualified clinicians."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 212.774,
+   "end_sec": 223.134,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "Courts should never treat a pill as beyond ordinary legal review. They must apply safeguards wherever a medical transaction creates foreseeable harm, because patient protection is part of justice."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 223.782,
+   "end_sec": 233.422,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "If ordinary legal review is enough, why seek special restrictions on this medication rather than enforce rules against bad providers while preserving patients' access to lawful care?"
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 234.051,
+   "end_sec": 244.131,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "Your alternative leaves the patient exposed until after a bad provider causes harm. Rules against fraud punish misconduct later; targeted restrictions prevent unsafe access before someone is abandoned."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 242.53,
+   "end_sec": 244.62,
+   "dur_sec": 2.09,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 27,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 244.468,
+   "end_sec": 253.33,
+   "dur_sec": 8.862,
+   "overlap": false,
+   "text": "On your prevention point, prevention does not require restricting access. Clear standards for providers and remedies for deception can protect patients without making courts control-",
+   "ext_file": "L056_ext_a32.wav",
+   "cut_at_sec": 251.07,
+   "full_dur_sec": 10.44
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 252.53,
+   "end_sec": 264.7,
+   "dur_sec": 12.17,
+   "overlap": true,
+   "text": "That's time. So, let's move on to round three, closing statements. Each debater in turn, here to make his closing statement in support of the courts should restrict access to the abortion pill, is Mitchell."
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 264.9,
+   "end_sec": 284.98,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "This debate is not about denying every patient care. It is about whether courts may require a minimum level of responsibility before a powerful medication is provided. The other side relies on trust after the fact. I support safeguards before harm occurs, including real clinical review and reachable follow-up, because patients deserve more than a transaction."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 284.9,
+   "end_sec": 286.78,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 285.18,
+   "end_sec": 296.2,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "They are right that needless delay is harmful, and any rule should be narrow. But doing nothing until a patient is stranded is not compassion. Courts can protect access to responsible care-",
+   "cut_at_sec": 293.94,
+   "full_dur_sec": 17.04,
+   "ext_file": "L056_033.wav"
+  },
+  {
+   "i": 32,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 295.4,
+   "end_sec": 300.93,
+   "dur_sec": 5.53,
+   "overlap": true,
+   "text": "Thank you, your time is up. And here to summarize his position against the motion, Sheldon."
+  },
+  {
+   "i": 33,
+   "src_i": 35,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 301.13,
+   "end_sec": 320.63,
+   "dur_sec": 19.5,
+   "overlap": false,
+   "text": "The strongest point is simple: private medical care should be guided by patients and clinicians, not by judges adding barriers. Safety rules can address misconduct without restricting lawful access. When courts control this decision, delay and uncertainty fall on the patient. Protect care, protect choice, and reject the motion. That's all, thank you."
+  },
+  {
+   "i": 34,
+   "src_i": 36,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 320.83,
+   "end_sec": 326.28,
+   "dur_sec": 5.45,
+   "overlap": false,
+   "text": "Thank you, Mitchell and Sheldon, for a direct debate. That concludes our discussion of tonight's motion."
+  }
+ ]
+}

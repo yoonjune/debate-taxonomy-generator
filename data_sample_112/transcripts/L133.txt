@@ -1,0 +1,40 @@
+L133  |  Primary elections are ruining democracy.
+  MOD=Howard   PRO=Melissa   CON=Helen
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Howard(MOD): Welcome to our debate on the motion, primary elections are ruining democracy. Melissa supports the motion, and Helen opposes it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed statement ends. Please address each other directly and keep remarks civil.
+[t01] Melissa(PRO): Primary elections turn public choice into a long private audition. Candidates chase their party's loudest faction, then arrive at the general election boxed into promises most people never weighed. That rewards spectacle over governing. It also makes neighbors treat compromise as betrayal, because the first contest teaches them that only the fiercest voice counts.
+[t02] @A4 <ovl> Howard(MOD): I can give you ten seconds to wrap this round.
+[t03] <cut> Melissa(PRO): And once candidates survive that test, everyone else must fall in line behind a choice made by a narrow slice. We need a process that invites the whole public-
+[t04] @A2-1 <ovl> Howard(MOD): I'm going to stop you there, Melissa, we're out of time. Helen.
+[t05] Helen(CON): Melissa, why assume a nomination contest ruins the later choice? Primaries let ordinary party supporters test ideas, reject weak candidates, and send contenders into the general election answerable to real voters. The problem is bad behavior by campaigns, not the chance citizens have to choose. That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Howard(MOD): Thank you, Helen. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+[t07] Melissa(PRO): No, I reject that premise: the later choice is already narrowed when a small, intense primary electorate selects the finalists. Calling that ordinary participation ignores everyone pushed into choosing between two prepackaged options.
+[t08] <cut> Helen(CON): You say a smaller first electorate decides everything, but general voters can reject either finalist and demand better conduct. Your argument treats party supporters as if they have no right to shape their own-
+[t09] <ovl> Melissa(PRO): They do have that right, but it should not become a gate that shuts out voters before the real election. Primaries reward candidates who scare a loyal base, not candidates who can represent a divided public.
+[t10] Helen(CON): Consider a teacher who joins a primary, hears candidates defend funding, and helps reject one who will not listen. Without that contest, party insiders could install favorites. That shows primaries give citizens a check, not ruin democracy.
+[t11] Melissa(PRO): Campaign money and television drama can distort any race, and those deserve separate reforms. But primaries add a deeper flaw: they make winning a party test the price of reaching voters, so they ruin democratic choice.
+[t12] Helen(CON): Why call a party test illegitimate when citizens freely use it to organize? Every primary voter deserves equal influence. If parties publish fair rules and voters participate, primaries broaden responsibility instead of ruining democracy.
+[t13] Melissa(PRO): Because a citizen's right to organize does not justify letting a party filter the public's future options. Fair rules cannot cure the skewed incentive: candidates still win by pleasing a smaller, harder-line crowd.
+[t14] Helen(CON): Take a party choosing its nominee at a quiet meeting. This primary voter does not deserve equal influence; parties may select standard-bearers without public contests.
+[t15] @B2 Howard(MOD): You said every primary voter deserves equal influence, but you see it as this primary voter does not deserve equal influence.
+[t16] Helen(CON): My first statement concerns voters casting ballots on equal terms; my second concerns a party member demanding control over a private selection. Equal treatment among participants and entitlement to run every selection are different ideas.
+[t17] Melissa(PRO): Imagine a candidate who promises to punish any compromise just to beat a rival in a primary. After winning, she carries that promise into the wider election and refuses workable deals. That shows primaries turn governing into a loyalty contest.
+[t18] Helen(CON): On your punishment-for-compromise point, the primary did not force that promise; voters can reject her later, and another candidate can challenge her. Blaming the ballot for one candidate's rigidity excuses citizens' capacity to judge.
+[t19] @A4 <ovl> Howard(MOD): You have ten seconds left.
+[t20] <cut> Melissa(PRO): If general voters can fix every bad nominee later, why make them wait-
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> Howard(MOD): It's time to bring this home with closing remarks. This is where the debaters get to make a summary closing statement. And, Melissa, you have the floor on this one.
+[t22] Melissa(PRO): Helen's best point is that primaries can give engaged citizens a voice. But that voice becomes a veto over the broader public when it filters every candidate.
+[t23] <ovl> <cut> Helen(CON): That is not a veto, because final-election voters-
+[t24] @A5 <ovl> Howard(MOD): Can we let her reply please?
+[t25] Melissa(PRO): It filters candidates before that final choice, and rewards narrow appeals early. Democracy suffers when the decisive test is pleasing a faction, not building public consent.
+[t26] @A4 <ovl> Howard(MOD): I'll give you ten more seconds to nail this.
+[t27] Melissa(PRO): A democracy lets voters shape choices before parties lock them into a narrow contest. That's all, thank you.
+[t28] @A2-2 Howard(MOD): All right. Helen, do you want to come back on that?
+[t29] Helen(CON): What this turns on is whether democracy means only the final ballot or participation throughout the choice. Primaries are imperfect, but they let people test candidates, organize around values, and influence nominations before power is settled. Fix unfair rules and bad incentives; do not call citizen participation democracy's ruin. That's all, thank you.
+[t30] Howard(MOD): Thank you, Melissa and Helen, for a thoughtful debate, and thank you for listening; this debate is now concluded.

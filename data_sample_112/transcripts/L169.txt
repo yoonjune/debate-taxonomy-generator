@@ -1,0 +1,42 @@
+L169  |  The special U.S.-Saudi relationship has outlived its usefulness.
+  MOD=Ahmed   PRO=Michelle   CON=Hina
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Ahmed(MOD): Welcome to tonight's debate. The motion is whether the special U.S.-Saudi relationship has outlived its usefulness. Michelle supports the motion, while Hina opposes it. Each debater has thirty seconds for an opening, then two and a half minutes of crossfire, and thirty seconds to close; I will give a ten-second cue before each time expires.
+[t01] Michelle(PRO): This relationship once traded security cooperation for dependable energy access, but that bargain now traps both sides in habits neither can defend. Washington keeps offering exceptional treatment despite repeated clashes over values and regional choices. A partnership can continue without being special. The question is whether privileged ties still serve American interests today, not yesterday.
+[t02] @A4 <ovl> Ahmed(MOD): Ten seconds, ten seconds.
+[t03] <cut> Michelle(PRO): The answer is no. Ordinary diplomacy can protect shared needs while withholding blank checks, and it lets Washington cooperate selectively without confusing access with approval. Keeping an outdated special status makes reform harder-
+[t04] @A2-1 <ovl> Ahmed(MOD): Your time is up. Thank you. Hina.
+[t05] Hina(CON): Michelle calls the tie a blank check, but it is leverage: regular contact lets Washington press concerns while protecting shared security interests in a volatile region.
+[t06] <ovl> <cut> Michelle(PRO): But contact without consequences is not leverage-
+[t07] @A5 <ovl> Ahmed(MOD): Let her answer it.
+[t08] Hina(CON): That protection is not automatic; it rests on mutual interests, and ending special ties would reduce the access needed to shape conduct when crises arrive.
+[t09] @A4 <ovl> Ahmed(MOD): Well, now ten.
+[t10] Hina(CON): Preserving a working special partnership gives Washington more choices, not fewer, when dangers spread. That's all, thank you.
+
+--- phase 2 ---
+[t11] @A3-1 Ahmed(MOD): That concludes Round One. Now, we move on to Round Two. And Round Two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t12] Hina(CON): Michelle, I am answering your blank-check point: a relationship is useful precisely because it creates channels for pressure when disagreement is sharp. Removing its special character abandons leverage, not dependence.
+[t13] Michelle(PRO): When cooperation is available through ordinary agreements, exceptional status adds little but political cost. If leaders know protection continues after defiance, calling the tie special shields them from meaningful consequences.
+[t14] Hina(CON): Imagine a sudden threat to commercial shipping: trusted military coordination and direct calls can prevent a wider clash before it reaches families and markets. That safeguard proves the relationship still serves.
+[t15] Michelle(PRO): I grant direct contact can calm an immediate crisis. But the main issue is whether permanent privilege buys more than ordinary coordination, and it rewards refusal rather than change, so the special relationship has outlived usefulness.
+[t16] Hina(CON): Your weakest claim is that ordinary coordination can replace a trusted framework. In a crisis, improvised channels lack shared expectations, and losing them makes misunderstanding more likely while giving Washington less influence.
+[t17] Michelle(PRO): If misunderstanding grows during an evacuation, families need clear routes, trusted hotlines, and practiced coordination between crews. Those preparations matter because confusion at a crowded terminal can turn fear into avoidable injury.
+[t18] @B1 Ahmed(MOD): No, the special us-saudi relationship has outlived its usefulness, the special us-saudi relationship has outlived its usefulness. Those are the key words.
+[t19] Michelle(PRO): On whether the special U.S.-Saudi relationship has outlived its usefulness, the answer is yes: useful contact does not require privileged status. Ordinary cooperation preserves necessary communication while allowing consequences when conduct conflicts with American interests.
+[t20] Hina(CON): Michelle, if exceptional access is removed during a sudden regional crisis, who will coordinate urgent protection for civilians and commerce? Your ordinary arrangements cannot create trust instantly, so why discard a proven channel?
+[t21] Michelle(PRO): No foreign partnership deserves permanent privilege merely because it once solved a problem. American cooperation should be judged by present conduct and interests, not ceremonial labels or old expectations of protection.
+[t22] <cut> Hina(CON): I agree labels alone cannot excuse harmful conduct. Yet you treat special status as automatic protection, when it is a platform for bargaining; throwing it away would leave Washington facing crises with fewer tools-
+[t23] <ovl> Michelle(PRO): But bargaining fails when one side expects protection whatever it does. Why should Washington keep a special promise if ordinary cooperation can handle shared dangers and conditional pressure can defend its interests?
+[t24] Hina(CON): It should not keep any unconditional promise, but that is not what this relationship is. Special access lets Washington bargain privately and respond quickly; abandoning it sacrifices influence before testing better terms.
+[t25] @A4 <ovl> Ahmed(MOD): Ten seconds left, then we go to closings.
+
+--- phase 3 ---
+[t26] @A3-2 <ovl> Ahmed(MOD): Okay, time. And now we move on to Round three. Round three will be closing statements by each debater in turn. Here making her closing statement in support of the motion, Michelle.
+[t27] Michelle(PRO): The strongest point is simple: America can keep necessary communication without granting permanent privilege. When a partner expects protection despite harmful choices, the special label removes leverage. Replace exceptional treatment with ordinary, conditional cooperation, and the United States protects its interests and its credibility. That's all, thank you.
+[t28] @A2-2 Ahmed(MOD): Go ahead. Go ahead, Hina.
+[t29] Hina(CON): Michelle mistakes a useful tool for a blank check. The strongest point is that trusted access gives Washington the ability to press, warn, and coordinate when danger is immediate; ordinary arrangements cannot be rebuilt on demand. That capacity matters most when leaders need answers quickly.
+[t30] Hina(CON): Keep it special, strengthen its terms, and preserve the influence needed to manage shared dangers. That's all, thank you.
+[t31] @A4 <ovl> Ahmed(MOD): Ten seconds for last word.
+[t32] Ahmed(MOD): Thank you, Michelle and Hina, for a thoughtful debate. This concludes our discussion of the motion this evening.

@@ -1,0 +1,422 @@
+{
+ "debate_id": "L002",
+ "motion": "This Afghan government is not worth fighting for",
+ "speakers": {
+  "MOD": {
+   "name": "Philip",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3841_60",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3841/MSP-PODCAST_3841_60.wav",
+   "wpm": 170.31
+  },
+  "PRO": {
+   "name": "Kirsten",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3502_919",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3502/MSP-PODCAST_3502_919.wav",
+   "wpm": 167.47
+  },
+  "CON": {
+   "name": "Rima",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2124_313",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2124/MSP-PODCAST_2124_313.wav",
+   "wpm": 171.3
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 101.69,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 306.81,
+ "ext": {
+  "a32": {
+   "file": "L002_ext_a32.wav",
+   "place_at_sec": 248.931,
+   "dur_sec": 22.37,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "If reform is possible only while institutions survive, why destroy the structure that can deliver it? Would you really risk civilians' safety for the promise of a cleaner government later?"
+  },
+  {
+   "src_i": 25,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Your reform point does not answer the central issue: preserving a structure is not the same as defending its rulers. When its failures cause the danger, fighting for it protects the problem, not the people."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.61,
+   "dur_sec": 21.61,
+   "overlap": false,
+   "text": "Today we debate the motion, \"This Afghan government is not worth fighting for.\" Kirsten takes the motion, and Rima opposes it. Each debater gets thirty seconds to open, followed by two and a half minutes of crossfire. Then each gets thirty seconds to close. I will give a ten-second cue before limits, and I will stop speakers when their time ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.81,
+   "end_sec": 41.61,
+   "dur_sec": 19.8,
+   "overlap": false,
+   "text": "This Afghan government has failed to earn loyalty from the people it claims to serve. It has tolerated corruption, protected powerful figures, and left ordinary families exposed. Fighting for it would ask soldiers to defend a system that cannot defend its own citizens. The burden is not merely difficult; it is fundamentally misplaced."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.81,
+   "end_sec": 43.77,
+   "dur_sec": 1.96,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.81,
+   "end_sec": 53.11,
+   "dur_sec": 11.3,
+   "overlap": false,
+   "text": "Supporters may say the government represents stability, but a flag and an office do not make a government legitimate. When leaders cannot provide justice or security, fighting for them protects authority-",
+   "cut_at_sec": 53.11,
+   "full_dur_sec": 14.24,
+   "ext_file": "L002_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 52.31,
+   "end_sec": 56.39,
+   "dur_sec": 4.08,
+   "overlap": true,
+   "text": "Kirsten, I have to stop you, that's time. Rima, go ahead."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 56.59,
+   "end_sec": 76.28,
+   "dur_sec": 19.69,
+   "overlap": false,
+   "text": "This government is imperfect, but imperfection is not proof that it is worthless. Abandoning it would leave citizens facing armed groups and local power brokers with no national shield. Fighting can protect schools, families, and the possibility of accountable rule. The question is not whether the government deserves praise, but whether people deserve protection."
+  },
+  {
+   "i": 6,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 76.48,
+   "end_sec": 87.89,
+   "dur_sec": 11.41,
+   "overlap": false,
+   "text": "A weak government can still be the only structure capable of preventing worse violence. Reform requires security, and security requires defending institutions while they improve. If we walk away, those-",
+   "cut_at_sec": 87.89,
+   "full_dur_sec": 15.64,
+   "ext_file": "L002_007.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 76.59,
+   "end_sec": 80.31,
+   "dur_sec": 3.72,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 87.09,
+   "end_sec": 88.97,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "Rima, her time is up."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 89.17,
+   "end_sec": 101.69,
+   "dur_sec": 12.52,
+   "overlap": false,
+   "text": "And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 101.89,
+   "end_sec": 113.48,
+   "dur_sec": 11.59,
+   "overlap": false,
+   "text": "When local fighters threaten a village, national forces can keep families from being driven out and schools from being closed. That practical protection proves this government is worth defending, even while it needs reform."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 114.316,
+   "end_sec": 123.656,
+   "dur_sec": 9.34,
+   "overlap": false,
+   "text": "If this government cannot reliably protect those families without outside fighters carrying the burden, why should anyone call fighting for the government rather than fighting around it-"
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 122.756,
+   "end_sec": 133.986,
+   "dur_sec": 11.23,
+   "overlap": true,
+   "text": "Because protecting people through its forces still strengthens the national government; you cannot separate the shield from the institution. Without that institution, armed groups decide who receives safety and who loses it."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 134.26,
+   "end_sec": 139.07,
+   "dur_sec": 4.81,
+   "overlap": false,
+   "text": "No government that cannot protect its people should ever be fought for."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 139.538,
+   "end_sec": 151.648,
+   "dur_sec": 12.11,
+   "overlap": false,
+   "text": "I grant that protecting people is the central test. But a government may be unable to do so alone today while remaining the only path to organized protection tomorrow, so defending it serves civilians."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 152.485,
+   "end_sec": 162.785,
+   "dur_sec": 10.3,
+   "overlap": false,
+   "text": "This government that cannot protect its people should be fought for. That is exactly why the institution must be judged by whom it protects, not merely by the danger surrounding it."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 162.985,
+   "end_sec": 173.505,
+   "dur_sec": 10.52,
+   "overlap": false,
+   "text": "You said no government that cannot protect its people should ever be fought for, but you see it as this government that cannot protect its people should be fought for."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 173.705,
+   "end_sec": 186.975,
+   "dur_sec": 13.27,
+   "overlap": false,
+   "text": "I am holding both statements because the first states the rule, while the second exposes the painful exception in this case. A government can merit immediate defense yet still fail the broader test of being worth fighting for."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 187.18,
+   "end_sec": 197.67,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "If you say this government is not worth fighting for, what should protect civilians after fighters withdraw? Will you accept armed groups taking control while you wait for a better government?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 198.194,
+   "end_sec": 210.844,
+   "dur_sec": 12.65,
+   "overlap": false,
+   "text": "Your question assumes withdrawal means abandoning civilians, but that is not my point. I am rejecting a corrupt government as the cause worth defending; aid and civilian protection do not require endless military support for it."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 211.066,
+   "end_sec": 223.866,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Security also affects whether children can attend school, and families need roads, clinics, and working courts. Those broader services depend on institutions. Returning to the motion, defending this government keeps open the chance to build them."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 224.694,
+   "end_sec": 236.854,
+   "dur_sec": 12.16,
+   "overlap": false,
+   "text": "I grant that institutions can deliver useful services. But services cannot excuse leaders who misuse power and leave citizens unprotected; fighting for that leadership rewards failure, so this government is not worth fighting for."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 237.551,
+   "end_sec": 248.421,
+   "dur_sec": 10.87,
+   "overlap": false,
+   "text": "No, the question does not prove that withdrawal protects civilians. It assumes military support rewards leaders, but defending institutions can pressure them to reform while preventing armed groups from taking power."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 241.69,
+   "end_sec": 244.33,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 248.931,
+   "end_sec": 252.49,
+   "dur_sec": 3.559,
+   "overlap": false,
+   "text": "Imagine soldiers defending officials who divert supplies while villages go-",
+   "ext_file": "L002_ext_a32.wav",
+   "cut_at_sec": 252.49,
+   "full_dur_sec": 11.76
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 251.69,
+   "end_sec": 257.09,
+   "dur_sec": 5.4,
+   "overlap": true,
+   "text": "Time's up. And now we move onto Round three. Speaking first for the motion, Kirsten."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 257.29,
+   "end_sec": 275.13,
+   "dur_sec": 17.84,
+   "overlap": false,
+   "text": "This debate is about what fighting would actually defend. Rima describes a hope for institutions, but hope cannot erase corruption, failed protection, or the burden placed on civilians and soldiers. A government that repeatedly fails its people must be changed, not purchased with more lives. That's all, thank you."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 275.33,
+   "end_sec": 276.85,
+   "dur_sec": 1.52,
+   "overlap": false,
+   "text": "Yeah, Rima. Thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 277.05,
+   "end_sec": 297.25,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "This government does not need to be perfect to be worth defending. Its institutions can protect civilians, support schools, and create a path toward reform, while abandoning them invites armed groups to rule without accountability. Kirsten is right that failure matters, but her answer risks making ordinary people pay for that failure. The motion asks whether the government is worth fighting for, and"
+  },
+  {
+   "i": 29,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 297.05,
+   "end_sec": 298.21,
+   "dur_sec": 1.16,
+   "overlap": true,
+   "text": "Ten seconds, Rima."
+  },
+  {
+   "i": 30,
+   "src_i": 32,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 297.45,
+   "end_sec": 305.59,
+   "dur_sec": 8.14,
+   "overlap": false,
+   "text": "the answer is yes when defending it protects civilians and preserves their chance to reform their own country. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 33,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 305.79,
+   "end_sec": 310.83,
+   "dur_sec": 5.04,
+   "overlap": false,
+   "text": "Thank you both for taking part. This debate is closed, with no winner declared."
+  }
+ ]
+}

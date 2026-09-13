@@ -1,0 +1,37 @@
+L245  |  Policing is racially biased.
+  MOD=Elise   PRO=Evan   CON=Emma
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Elise(MOD): Welcome to our debate. Tonight's motion is that policing is racially biased. Evan argues for it, and Emma argues against it. Each has thirty seconds to open, then two and a half minutes of crossfire, then thirty-second closings; address arguments, let each other finish, and I will give a ten-second cue.
+[t01] Evan(PRO): Policing can look neutral on paper while suspicion falls differently in practice. When an officer reads the same ordinary behavior as threatening because of race, discretion becomes unequal power for the people it serves. Those recurring judgments mean policing is racially biased. That's all, thank you.
+[t02] @A2-2 Elise(MOD): Yeah, Emma. Thank you.
+[t03] Emma(CON): Bias by an individual officer is wrong, but it does not prove policing itself is racially biased. Rules, training, supervision, and evidence can restrain personal prejudice. We should judge policing by conduct in each encounter, so this sweeping motion is false. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Elise(MOD): And that concludes round one. So now on to round two. They address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t05] Emma(CON): Your opening says recurring judgments prove the whole system is biased. That skips the crucial question: were those judgments based on race, or on behavior, evidence, and immediate risk? Without that link, the motion remains false.
+[t06] Evan(PRO): In a traffic stop where two drivers act the same, race should never change suspicion or force. If it does, the encounter is racially biased, regardless of neutral policy wording. Can you deny that direct unequal treatment?
+[t07] Emma(CON): No, I do not deny that unequal treatment would be biased. But your traffic-stop condition assumes equal facts, while officers often face different reports, behavior, and danger. Different responses to different facts do not make policing racially biased.
+[t08] Evan(PRO): Police discretion can produce racial bias across many encounters even when no single comparison is perfectly matched. Small choices about whom to stop, question, or search shape unequal burdens. That wider pattern supports the motion.
+[t09] Emma(CON): Imagine officers responding to a late-night call: one person is calmly waiting, while another is actively breaking a door. Treating them identically risks the waiting person's safety. Fact-based judgment protects people, proving different policing is not automatically racial bias.
+[t10] Evan(PRO): Public trust also depends on clear complaint systems, respectful language, and leaders who listen after mistakes. Those matters affect legitimacy, but they are not the question here. Racial bias can still shape policing.
+[t11] Emma(CON): Every person should receive the same police response. That principle rejects racial sorting and demands decisions grounded in conduct, not identity. Because fair policing aims at that equal response, isolated failures cannot establish that policing itself is racially biased.
+[t12] Evan(PRO): How can your rule protect a peaceful person and a threatening person when it demands the same police response for every person? Isn't that rule blind to the facts officers must assess? That flaw supports the motion.
+[t13] Emma(CON): It cannot, because your wording strips my principle of its meaning. This threatening person should not receive the same police response. An officer may restrain danger while treating race as irrelevant, so the motion is still false.
+[t14] @B2 Elise(MOD): So one moment it's every person should receive the same police response and the next moment it's this threatening person should not receive the same police response?
+[t15] Emma(CON): Same police response means equal respect and equal racial neutrality, not identical physical actions. A threatening person needs restraint, but the standard of respect remains the same. That judges conduct rather than race, defeating the motion.
+[t16] @A4 <ovl> Elise(MOD): Ten seconds left in this round.
+[t17] <cut> Evan(PRO): Picture two neighbors walking home with identical bags and identical calm behavior-
+
+--- phase 3 ---
+[t18] @A3-2 <ovl> Elise(MOD): And that's time. And now we move into closing statements from each debater in turn, starting with Evan.
+[t19] Evan(PRO): Emma's best point is that officers must respond to conduct and danger, and I agree. But that necessity does not erase the choices made before danger is established: whom to watch, stop, question, or search. When race influences those choices, neutral language cannot cure the unequal burden. Policing must be judged in practice.
+[t20] @A4 <ovl> Elise(MOD): Ten seconds for last word.
+[t21] Evan(PRO): That is why the motion names a real problem we cannot responsibly ignore today, here. That's all, thank you.
+[t22] @A2-2 Elise(MOD): All right. Emma, do you want to come back on that?
+[t23] Emma(CON): Evan's strongest argument is that early discretionary choices can burden people unequally. But an unequal burden is not proof that race caused the choice; facts, calls, and behavior matter. We should expose individual misconduct and demand fair procedures. Calling all policing racially biased replaces careful judgment with a sweeping verdict, and that is why the motion is false.
+[t24] @A4 <ovl> Elise(MOD): Emma, ten seconds.
+[t25] <cut> Emma(CON): The other side asks you to infer a system from troubling moments, but inference is not proof. Fair rules can improve without condemning every officer. We need accountability for wrongdoing, and a-
+[t26] @A1 <ovl> Elise(MOD): Thank you, Emma. Your time is up.
+[t27] Elise(MOD): Thank you both for a thoughtful exchange on this difficult motion; that concludes our debate for today here.

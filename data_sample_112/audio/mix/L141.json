@@ -1,0 +1,401 @@
+{
+ "debate_id": "L041",
+ "motion": "Progressive populism will save the Democratic Party.",
+ "speakers": {
+  "MOD": {
+   "name": "Dean",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4814_946",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4814/MSP-PODCAST_4814_946.wav",
+   "wpm": 172.38
+  },
+  "PRO": {
+   "name": "Wendy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  },
+  "CON": {
+   "name": "Nina",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0537_440",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0537/MSP-PODCAST_0537_440.wav",
+   "wpm": 168.34
+  }
+ },
+ "selective": [
+  "A5",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 76.88,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 290.2,
+ "ext": {
+  "a32": {
+   "file": "L041_ext_a32.wav",
+   "place_at_sec": 223.598,
+   "dur_sec": 24.61,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Calling a broad fairness message branding every conflict avoids the actual choice. Progressive populism can name unfair power without inventing enemies, whereas your vague coalition offers no reason for disillusioned people to participate."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 19.69,
+   "dur_sec": 19.69,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that progressive populism will save the Democratic Party. Wendy speaks for the motion, and Nina speaks against it; they should address arguments, not people. Each has thirty seconds to open, then two and a half minutes of crossfire, and thirty seconds to close. I will give a ten-second cue before time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.89,
+   "end_sec": 39.1,
+   "dur_sec": 19.21,
+   "overlap": false,
+   "text": "Progressive populism gives a party a clear purpose: stand with people who feel ignored and challenge concentrated power. It turns private frustrations into shared action, while offering practical gains such as fair pay, affordable care, and accountable government. That message can rebuild trust among voters who think politics only serves insiders."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.3,
+   "end_sec": 46.98,
+   "dur_sec": 7.68,
+   "overlap": false,
+   "text": "By making democracy deliver visibly, progressive populism can save the party from irrelevance. That's all, thank you."
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.89,
+   "end_sec": 41.13,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 47.18,
+   "end_sec": 51.06,
+   "dur_sec": 3.88,
+   "overlap": false,
+   "text": "I want to let Nina respond to some of that."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.26,
+   "end_sec": 70.29,
+   "dur_sec": 19.03,
+   "overlap": false,
+   "text": "Anger at insiders is real, but progressive populism narrows a diverse party into one loud faction. Promising fights can alienate cautious supporters and make compromise look like betrayal. A party survives by building coalitions and governing credibly, not by treating disagreement as a battle between people and elites. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 70.49,
+   "end_sec": 80.66,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "That concludes round one. So, now, on to round two where the debaters can address one another directly. You have two and a half minutes, starting when I stop talking."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 80.86,
+   "end_sec": 92.87,
+   "dur_sec": 12.01,
+   "overlap": false,
+   "text": "Your claim that a clear purpose rebuilds trust is weak because many people want results, not a permanent fight. If every compromise becomes surrender, how can your party govern with anyone beyond its base?"
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 93.183,
+   "end_sec": 106.393,
+   "dur_sec": 13.21,
+   "overlap": false,
+   "text": "I reject the idea that populism means permanent fighting; it means making government answer ordinary people. Your coalition fails when it asks ignored voters to wait politely while powerful interests keep deciding whose needs matter, and that is-"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 105.493,
+   "end_sec": 117.103,
+   "dur_sec": 11.61,
+   "overlap": true,
+   "text": "No, making every opponent powerful is precisely the problem. You turn neighbors with different priorities into enemies, then call that unity; a party saved that way cannot represent the broad public it needs."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 117.416,
+   "end_sec": 129.836,
+   "dur_sec": 12.42,
+   "overlap": false,
+   "text": "You're right that ignored voters deserve urgency. But calling every differing priority an enemy is your caricature, because progressive populism identifies shared opponents in unfair systems and invites a broad public to change them together."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 130.604,
+   "end_sec": 143.014,
+   "dur_sec": 12.41,
+   "overlap": false,
+   "text": "Imagine a local shop owner who supports better wages but hears that every owner is an exploiter. She stops listening, joins opponents, and the party loses a potential ally; that proves divisive populism shrinks coalitions."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 143.85,
+   "end_sec": 156.18,
+   "dur_sec": 12.33,
+   "overlap": false,
+   "text": "Campaign funding deserves tougher rules, because candidates should not spend their days chasing wealthy donors. Public forums, small contributions, and transparent advertising would make elections healthier and give ordinary residents a real voice in campaigns."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 156.38,
+   "end_sec": 160.02,
+   "dur_sec": 3.64,
+   "overlap": false,
+   "text": "This House believes progressive populism will save the democratic party."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 160.22,
+   "end_sec": 173.35,
+   "dur_sec": 13.13,
+   "overlap": false,
+   "text": "Yes, the question is whether progressive populism will save the Democratic Party, and I say it can by giving neglected voters a reason to return. Clear economic fairness builds participation, trust, and a coalition larger than insiders."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 174.082,
+   "end_sec": 187.532,
+   "dur_sec": 13.45,
+   "overlap": false,
+   "text": "Leaders also need room to negotiate details, and internal meetings can become needlessly tense when slogans dominate. Still, that is why progressive populism will not save the party: it rewards purity tests over the wide trust survival requires."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.839,
+   "end_sec": 199.369,
+   "dur_sec": 11.53,
+   "overlap": false,
+   "text": "If progressive populism supposedly divides everyone, why do you offer ignored workers only moderation and patience instead of power? How does asking them to trust the same cautious approach save a party they already doubt?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 200.197,
+   "end_sec": 213.247,
+   "dur_sec": 13.05,
+   "overlap": false,
+   "text": "People deserve more than patience, and your demand for power speaks to a real frustration. But power built by dividing every voter into victims and villains cannot hold a governing coalition; progressive populism will weaken the party."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 214.162,
+   "end_sec": 227.132,
+   "dur_sec": 12.97,
+   "overlap": false,
+   "text": "Picture a renter facing a sudden fee while officials dismiss her calls and landlords set the terms. A progressive populist campaign organizes tenants, wins a fair rule, and shows government can listen; that proof brings people back."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 220.66,
+   "end_sec": 223.15,
+   "dur_sec": 2.49,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 227.378,
+   "end_sec": 231.46,
+   "dur_sec": 4.082,
+   "overlap": false,
+   "text": "Your renter example assumes one campaign victory saves an entire party-",
+   "ext_file": "L041_ext_a32.wav",
+   "cut_at_sec": 227.68,
+   "full_dur_sec": 12.57
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.66,
+   "end_sec": 239.17,
+   "dur_sec": 8.51,
+   "overlap": true,
+   "text": "We've come up against the clock, so we're going to move now to our closing statements. Wendy, the stage is all yours."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 239.37,
+   "end_sec": 257.41,
+   "dur_sec": 18.04,
+   "overlap": false,
+   "text": "Nina's strongest concern is that populism can turn disagreement into hostility, and that risk demands disciplined language. But abandoning a forceful, people-centered politics leaves anger to harden without representation. Progressive populism saves the party by converting that anger into practical solidarity, accountable power, and renewed participation. That's all, thank you."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 257.61,
+   "end_sec": 259.93,
+   "dur_sec": 2.32,
+   "overlap": false,
+   "text": "Nina has the floor right now."
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 260.13,
+   "end_sec": 269.9,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "A party is saved by winning broad trust, not just by naming grievances. That trust breaks when leaders divide every dispute into ordinary people and enemies,"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 269.0,
+   "end_sec": 271.3,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But that is not my case. I name unfair-",
+   "cut_at_sec": 265.8,
+   "full_dur_sec": 8.8,
+   "ext_file": "L041_026.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 270.5,
+   "end_sec": 272.75,
+   "dur_sec": 2.25,
+   "overlap": true,
+   "text": "No. Let Nina come in. Please."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 272.95,
+   "end_sec": 282.82,
+   "dur_sec": 9.87,
+   "overlap": false,
+   "text": "and enemies. It makes compromise suspect and turns potential partners away, so the party loses the trust required to win and govern for everyone."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 280.13,
+   "end_sec": 281.95,
+   "dur_sec": 1.82,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 283.02,
+   "end_sec": 290.77,
+   "dur_sec": 7.75,
+   "overlap": false,
+   "text": "Progressive populism may energize some voters, but it will not save a broad Democratic Party. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 290.97,
+   "end_sec": 297.76,
+   "dur_sec": 6.79,
+   "overlap": false,
+   "text": "Thank you, Wendy and Nina, for your arguments today; this debate is concluded, with no winner declared by the moderator."
+  }
+ ]
+}

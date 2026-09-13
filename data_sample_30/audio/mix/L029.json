@@ -1,0 +1,463 @@
+{
+ "debate_id": "L029",
+ "motion": "Policing is racially biased.",
+ "speakers": {
+  "MOD": {
+   "name": "Mark",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4814_946",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_4/MSP-PODCAST_4814/MSP-PODCAST_4814_946.wav",
+   "wpm": 172.38
+  },
+  "PRO": {
+   "name": "Elise",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1266_611",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_1/MSP-PODCAST_1266/MSP-PODCAST_1266_611.wav",
+   "wpm": 163.47
+  },
+  "CON": {
+   "name": "Genevieve",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3346_530",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_3/MSP-PODCAST_3346/MSP-PODCAST_3346_530.wav",
+   "wpm": 168.35
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 95.9,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 311.08,
+ "ext": {
+  "a32": {
+   "file": "L029_ext_a32.wav",
+   "place_at_sec": 241.953,
+   "dur_sec": 18.6,
+   "src_i": 27
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 28,
+   "speaker": "CON",
+   "slot": "X16",
+   "text": "Your final distinction still relies on an unproven pattern. Consistent standards can address racial assumptions without branding policing itself biased; that broader claim remains false."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.52,
+   "dur_sec": 20.52,
+   "overlap": false,
+   "text": "Today we debate the motion, \"Policing is racially biased.\" Elise argues for it, and Genevieve argues against it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire. We will give a ten-second cue. Then each side gets thirty seconds to close. The speakers should address the motion directly and keep their claims clear."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 20.72,
+   "end_sec": 30.52,
+   "dur_sec": 9.8,
+   "overlap": false,
+   "text": "Racial bias can shape whom officers stop, question, search, or believe. It can appear in patterns and in one encounter. Fairness requires confronting both sides."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 29.62,
+   "end_sec": 31.92,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That claim ignores how officers face danger-",
+   "cut_at_sec": 31.92,
+   "full_dur_sec": 8.44,
+   "ext_file": "L029_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 31.12,
+   "end_sec": 31.88,
+   "dur_sec": 0.76,
+   "overlap": true,
+   "text": "Hold on."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 32.08,
+   "end_sec": 41.64,
+   "dur_sec": 9.56,
+   "overlap": false,
+   "text": "But unequal outcomes do not need a stated slur to reveal a biased system. When similar conduct gets different scrutiny, that difference is the issue here."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 40.72,
+   "end_sec": 42.2,
+   "dur_sec": 1.48,
+   "overlap": true,
+   "text": "You've got ten seconds."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.84,
+   "end_sec": 47.24,
+   "dur_sec": 5.4,
+   "overlap": false,
+   "text": "Repeated unequal treatment is not random; it is racial bias in policing."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 47.44,
+   "end_sec": 48.92,
+   "dur_sec": 1.48,
+   "overlap": false,
+   "text": "Great, Genevieve, go ahead."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 49.12,
+   "end_sec": 69.0,
+   "dur_sec": 19.88,
+   "overlap": false,
+   "text": "Policing is not racially biased as a general rule. Officers work under pressure, respond to different threats, and use lawful discretion that can produce different outcomes without racial prejudice. A troubling encounter may show poor judgment, but that is not proof of a racial system. We should fix misconduct while refusing a claim broader than the evidence."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 69.12,
+   "end_sec": 70.2,
+   "dur_sec": 1.08,
+   "overlap": true,
+   "text": "Genevieve, ten seconds."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 69.2,
+   "end_sec": 80.42,
+   "dur_sec": 11.22,
+   "overlap": false,
+   "text": "If an officer acts unfairly, discipline should follow, and training should improve. But calling policing racially biased turns every disputed decision into evidence, even when context-",
+   "cut_at_sec": 80.42,
+   "full_dur_sec": 14.12,
+   "ext_file": "L029_010.wav"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 79.62,
+   "end_sec": 82.46,
+   "dur_sec": 2.84,
+   "overlap": true,
+   "text": "I'm gonna cut you off just for time."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 82.66,
+   "end_sec": 95.9,
+   "dur_sec": 13.24,
+   "overlap": false,
+   "text": "Now we go on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.1,
+   "end_sec": 104.86,
+   "dur_sec": 8.76,
+   "overlap": false,
+   "text": "No, unequal outcomes alone do not prove racial bias. When comparable conduct receives different suspicion, stops, or force, the pattern matters because systems can reproduce prejudice."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 105.391,
+   "end_sec": 116.391,
+   "dur_sec": 11.0,
+   "overlap": false,
+   "text": "Consider two officers using the same calm script for every person they stop: fewer arbitrary encounters, clearer accountability, and greater trust. That practical fairness shows policing need not be racially biased."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.863,
+   "end_sec": 127.383,
+   "dur_sec": 10.52,
+   "overlap": false,
+   "text": "I grant that context matters in individual encounters. But context cannot excuse a repeated racial pattern in who gets watched, searched, or doubted; unequal treatment still makes policing racially biased."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 127.583,
+   "end_sec": 137.943,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "Your repeated-pattern claim assumes the very conclusion under debate. Different neighborhoods and calls bring different risks, so different responses may be reasonable; treating variation as proof of bias erases-"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.043,
+   "end_sec": 147.243,
+   "dur_sec": 10.2,
+   "overlap": true,
+   "text": "Reasonable variation does not explain racial differences after similar situations are compared. If discretion repeatedly burdens one group, that discretion is the mechanism through which policing becomes racially biased."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 148.215,
+   "end_sec": 159.135,
+   "dur_sec": 10.92,
+   "overlap": false,
+   "text": "Your phrase similar situations hides the hardest judgment: deciding which calls truly match. A person's behavior, danger, and information can differ, so your comparison may manufacture bias rather than reveal it."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 159.823,
+   "end_sec": 168.823,
+   "dur_sec": 9.0,
+   "overlap": false,
+   "text": "No, comparisons do not manufacture bias when the situations are genuinely alike. Officers can face different risks, yet repeated unequal scrutiny still shows policing is racially biased."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 169.76,
+   "end_sec": 180.04,
+   "dur_sec": 10.28,
+   "overlap": false,
+   "text": "A supervisor who reviews stops by conduct rather than identity can correct errors while protecting everyone's rights. That workable safeguard shows reform is possible without declaring policing racially biased."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 180.408,
+   "end_sec": 189.808,
+   "dur_sec": 9.4,
+   "overlap": false,
+   "text": "I agree that review can correct some errors. But a safeguard is necessary precisely because unchecked discretion can reproduce racial bias; reform does not disprove the motion."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 190.229,
+   "end_sec": 200.189,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "Your safeguard point does not establish the claim. The need to review decisions proves only that mistakes occur, while racial bias requires showing that race drives policing broadly."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 200.509,
+   "end_sec": 211.109,
+   "dur_sec": 10.6,
+   "overlap": false,
+   "text": "Training also matters: officers learn communication, restraint, and lawful procedure. Those tools help, but the central question remains whether racial patterns shape enforcement; when they do, policing is racially biased."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 211.429,
+   "end_sec": 220.589,
+   "dur_sec": 9.16,
+   "overlap": false,
+   "text": "That drift toward training avoids the claim's scope. Better communication may improve every encounter, but it cannot show that race, rather than circumstances, causes unequal enforcement."
+  },
+  {
+   "i": 25,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 221.108,
+   "end_sec": 229.468,
+   "dur_sec": 8.36,
+   "overlap": false,
+   "text": "No, circumstances cannot explain every repeated racial difference. When comparable conduct receives unequal enforcement, race is influencing the system, and policing is racially biased."
+  },
+  {
+   "i": 26,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 230.173,
+   "end_sec": 241.093,
+   "dur_sec": 10.92,
+   "overlap": false,
+   "text": "Imagine officers changing tactics after a violent incident, using more caution where danger appears greater. That response protects residents regardless of race and proves unequal treatment can reflect risk, not bias."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 235.9,
+   "end_sec": 237.7,
+   "dur_sec": 1.8,
+   "overlap": true,
+   "text": "Ten seconds remaining in this round."
+  },
+  {
+   "i": 28,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 241.953,
+   "end_sec": 246.7,
+   "dur_sec": 4.747,
+   "overlap": false,
+   "text": "I accept that risk can justify different tactics. But risk must be judged consistently-",
+   "ext_file": "L029_ext_a32.wav",
+   "cut_at_sec": 246.7,
+   "full_dur_sec": 9.56
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 245.9,
+   "end_sec": 253.62,
+   "dur_sec": 7.72,
+   "overlap": true,
+   "text": "Time's up. So let's move on to our closing round. You go first in this closing round, Elise, the floor is yours."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 253.82,
+   "end_sec": 273.78,
+   "dur_sec": 19.96,
+   "overlap": false,
+   "text": "This motion turns on whether racial patterns are incidental or built into ordinary enforcement. Genevieve is right that context matters, but discretion can carry bias into stops, searches, and force. We should judge repeated unequal treatment, not demand a confession of prejudice. If similar conduct receives different treatment by race, policing is racially biased."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 273.82,
+   "end_sec": 274.82,
+   "dur_sec": 1.0,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 273.98,
+   "end_sec": 285.12,
+   "dur_sec": 11.14,
+   "overlap": false,
+   "text": "The answer is not to blame every officer. It is to recognize the system's pattern, require consistent standards, and protect people from unequal enforcement. Ignoring that pattern preserves-",
+   "cut_at_sec": 285.12,
+   "full_dur_sec": 14.12,
+   "ext_file": "L029_033.wav"
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 284.32,
+   "end_sec": 288.2,
+   "dur_sec": 3.88,
+   "overlap": true,
+   "text": "You're out of time. And here to summarize her position, Genevieve."
+  },
+  {
+   "i": 34,
+   "src_i": 35,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 288.4,
+   "end_sec": 305.72,
+   "dur_sec": 17.32,
+   "overlap": false,
+   "text": "Elise's strongest point is that unequal treatment deserves review. But review does not prove that policing itself is racially biased. Context, danger, and behavior can justify different responses, while fair standards can correct individual misconduct without condemning the whole system. The motion claims too much, so I oppose it."
+  },
+  {
+   "i": 35,
+   "src_i": 36,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 305.92,
+   "end_sec": 311.08,
+   "dur_sec": 5.16,
+   "overlap": false,
+   "text": "Thank you both for a focused debate. The debate is closed, with no winner declared."
+  }
+ ]
+}

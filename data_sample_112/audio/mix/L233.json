@@ -1,0 +1,428 @@
+{
+ "debate_id": "L187",
+ "motion": "Abolish the minimum wage",
+ "speakers": {
+  "MOD": {
+   "name": "Wayne",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4814_946",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4814/MSP-PODCAST_4814_946.wav",
+   "wpm": 172.38
+  },
+  "PRO": {
+   "name": "Julian",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6071_804",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6071/MSP-PODCAST_6071_804.wav",
+   "wpm": 168.17
+  },
+  "CON": {
+   "name": "Harry",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0666_828",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0666/MSP-PODCAST_0666_828.wav",
+   "wpm": 171.12
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 88.08,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 295.56,
+ "ext": {
+  "a32": {
+   "file": "L187_ext_a32.wav",
+   "place_at_sec": 229.96,
+   "dur_sec": 25.9,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "Your cashier example assumes the employer can cut pay without consequence. Workers can seek other shops, gain skills, organize, or negotiate; abolishing the floor does not erase those choices, and it stops excluding inexperienced applicants."
+  },
+  {
+   "src_i": 25,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "I grant that a fixed floor can discourage some marginal hiring. But your answer leaves the weakest workers exposed to employers who can wait them out, so keeping the minimum wage remains the fairer protection."
+  },
+  {
+   "src_i": 26,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "I am answering your exposure point: protection that forbids a willing worker's first job can cause the exclusion you fear. Let people choose entry work, then compete upward, rather than making opportunity unlawful."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.89,
+   "dur_sec": 16.89,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, abolish the minimum wage. Julian argues for the motion, and Harry argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. Then each gives a thirty-second closing, and I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.09,
+   "end_sec": 36.72,
+   "dur_sec": 19.63,
+   "overlap": false,
+   "text": "A wage floor sounds protective, but it can close the first door into work. If an employer thinks a beginner's output is worth less than the legal rate, that beginner is not hired at all. Abolishing the floor lets people bargain, gain skills, and show their value. It also lets small workplaces try."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 36.92,
+   "end_sec": 48.39,
+   "dur_sec": 11.47,
+   "overlap": false,
+   "text": "new roles without fearing that one fixed rule will ruin the whole effort. Pay can rise as workers prove themselves, while voluntary agreements reflect different jobs, abilities, and needs far better-",
+   "cut_at_sec": 48.39,
+   "full_dur_sec": 17.12,
+   "ext_file": "L187_003.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 37.09,
+   "end_sec": 38.33,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 47.59,
+   "end_sec": 50.91,
+   "dur_sec": 3.32,
+   "overlap": true,
+   "text": "That's time, thank you. Harry, the floor is yours."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.11,
+   "end_sec": 60.88,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "Work is not truly voluntary when rent and food are due. A minimum wage sets a basic boundary: employers cannot build profits by paying workers less than decent daily life requires."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 59.98,
+   "end_sec": 62.28,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That boundary can become a locked gate for someone-",
+   "cut_at_sec": 62.28,
+   "full_dur_sec": 12.57,
+   "ext_file": "L187_006.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 61.48,
+   "end_sec": 63.01,
+   "dur_sec": 1.53,
+   "overlap": true,
+   "text": "Let him answer please."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 63.21,
+   "end_sec": 73.22,
+   "dur_sec": 10.01,
+   "overlap": false,
+   "text": "without a floor, employers can simply offer less because workers need income now. The choice is not between a low wage and a better bargain; it is often between accepting too little and losing the job entirely."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 71.11,
+   "end_sec": 72.35,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Harry, ten seconds."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 73.42,
+   "end_sec": 81.41,
+   "dur_sec": 7.99,
+   "overlap": false,
+   "text": "A minimum wage preserves a floor beneath bargaining, so abolishing it abandons workers. That's all, thank you."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 81.61,
+   "end_sec": 90.22,
+   "dur_sec": 8.61,
+   "overlap": false,
+   "text": "We're going to begin the section now, where the debaters address one another. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 90.42,
+   "end_sec": 102.66,
+   "dur_sec": 12.24,
+   "overlap": false,
+   "text": "I agree that desperate workers deserve respect and safer choices. But your basic-boundary point ignores the applicant rejected because his first productive hour is priced above what any employer will risk, so abolition opens work."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 103.616,
+   "end_sec": 116.906,
+   "dur_sec": 13.29,
+   "overlap": false,
+   "text": "I am answering your rejected-applicant point: a low offer may create a job, but it can also create work that cannot support the person doing it. Employers with leverage will not suddenly pay more because the floor disappears-"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 116.006,
+   "end_sec": 128.806,
+   "dur_sec": 12.8,
+   "overlap": true,
+   "text": "No, your leverage point assumes employers face no competition for people. When firms need reliable hands, workers can compare offers, build experience, and leave bad ones; a legal floor instead bars some people from earning anything."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 129.741,
+   "end_sec": 141.671,
+   "dur_sec": 11.93,
+   "overlap": false,
+   "text": "When a worker has several realistic employers nearby, bargaining can improve pay without much legal help. But many workers cannot wait, move, or refuse, and in those cases a minimum wage prevents a one-sided bargain."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 142.496,
+   "end_sec": 154.746,
+   "dur_sec": 12.25,
+   "overlap": false,
+   "text": "Every willing worker should be free to set any wage. Government should punish force and fraud, not forbid an adult from accepting a lower starting rate that may lead to training, experience, and better pay."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 155.695,
+   "end_sec": 167.865,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "Your weakest claim is that any accepted rate signals freedom. Need can make consent thin: a worker may accept less because every bill is urgent, while the employer knows waiting costs the worker far more."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 168.387,
+   "end_sec": 180.157,
+   "dur_sec": 11.77,
+   "overlap": false,
+   "text": "Consider a willing trainee offered a wage that funds no basic living. This willing worker should not be free to set any wage; a floor can stop that bargain from turning necessity into exploitation."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 180.357,
+   "end_sec": 193.067,
+   "dur_sec": 12.71,
+   "overlap": false,
+   "text": "But you can't have it both ways, you can't every willing worker should be free to set any wage on one hand and then this willing worker should not be free to set any wage the next."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 193.267,
+   "end_sec": 205.437,
+   "dur_sec": 12.17,
+   "overlap": false,
+   "text": "The first statement protects legal freedom from a blanket ban; the second recognizes that freedom means little when pay cannot sustain life. Abolition can still replace a rigid floor with direct support and stronger bargaining."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 206.343,
+   "end_sec": 218.993,
+   "dur_sec": 12.65,
+   "overlap": false,
+   "text": "Minimum wages should protect workers across the economy, not merely those in the hardest situations. That broad protection still matters most where choices are scarce, because employers then have the greatest power to press wages downward."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 219.521,
+   "end_sec": 231.371,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "If a beginner produces less than the legal minimum on day one, why should you deny him and an employer the chance to agree on training pay? Your rule makes his first opportunity illegal."
+  },
+  {
+   "i": 23,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 230.22,
+   "end_sec": 232.15,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 232.1,
+   "end_sec": 241.02,
+   "dur_sec": 8.92,
+   "overlap": false,
+   "text": "Imagine a cashier whose pay falls after the floor vanishes, while the shop keeps the same prices and demands the same hours. He cannot cover ordinary necessities-",
+   "ext_file": "L187_ext_a32.wav",
+   "cut_at_sec": 238.88,
+   "full_dur_sec": 13.21
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 240.22,
+   "end_sec": 245.99,
+   "dur_sec": 5.77,
+   "overlap": true,
+   "text": "Time. And now we move into closing statements from each debater in turn, starting with Julian."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 246.19,
+   "end_sec": 266.39,
+   "dur_sec": 20.2,
+   "overlap": false,
+   "text": "Harry's best argument is that need can weaken bargaining, and that danger is real. Yet banning low-paid entry work does not remove need; it removes an option for people whose skills are still developing. Abolition restores voluntary agreements, lets beginners get experience, and targets coercion directly rather than outlawing work. A single wage rule cannot measure every person's"
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 266.19,
+   "end_sec": 267.07,
+   "dur_sec": 0.88,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 28,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 266.59,
+   "end_sec": 274.63,
+   "dur_sec": 8.04,
+   "overlap": false,
+   "text": "circumstances, but free agreement can create openings and progress, which is why abolition is better. That's all, thank you."
+  },
+  {
+   "i": 29,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 274.83,
+   "end_sec": 277.56,
+   "dur_sec": 2.73,
+   "overlap": false,
+   "text": "Let him come back on that."
+  },
+  {
+   "i": 30,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 277.76,
+   "end_sec": 295.99,
+   "dur_sec": 18.23,
+   "overlap": false,
+   "text": "Julian calls low pay an opening, but an opening that cannot cover ordinary life can trap rather than lift a worker. Bargaining works only when refusal is realistic. The minimum wage supplies that baseline, limits exploitation, and keeps work from becoming a race to the bottom. That's all, thank you."
+  },
+  {
+   "i": 31,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 296.19,
+   "end_sec": 302.14,
+   "dur_sec": 5.95,
+   "overlap": false,
+   "text": "Thank you, Julian and Harry, for your arguments. This concludes our debate on abolishing the minimum wage."
+  }
+ ]
+}

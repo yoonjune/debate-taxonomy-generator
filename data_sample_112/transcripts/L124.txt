@@ -1,0 +1,42 @@
+L124  |  America is too obsessed with race
+  MOD=Nick   PRO=Claudia   CON=Monica
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Nick(MOD): Welcome to our debate on the motion, America is too obsessed with race. Claudia argues for the motion, and Monica argues against it. Each opening is thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed segment ends for the speakers.
+[t01] Claudia(PRO): When every disagreement is sorted first by racial identity, we stop hearing individual motives. That habit turns ordinary choices into group battles and narrows American life.
+[t02] <ovl> <cut> Monica(CON): You don't know that these are ordinary choices-
+[t03] @A5 <ovl> Nick(MOD): Please could you let her finish, please?
+[t04] Claudia(PRO): and makes people perform loyalty to categories before they can speak as neighbors. We can fight actual bias without making race the loudest lens for everything.
+[t05] @A4 <ovl> Nick(MOD): Ten seconds from this side?
+[t06] Claudia(PRO): America needs room for shared citizenship, not constant racial sorting of every conflict and conversation. That's all, thank you.
+[t07] @A2-2 Nick(MOD): So the floor is yours.
+[t08] Monica(CON): Calling the country obsessed mistakes attention for fixation. Race matters because it can shape how people are treated, heard, and trusted. Ignoring that pattern does not create shared citizenship; it leaves injured people alone with it. The better goal is proportion: discuss race when it explains a barrier, then address the barrier fairly.
+[t09] @A4 <ovl> Nick(MOD): Monica, ten seconds.
+[t10] <cut> Monica(CON): That means listening to a described pattern and changing the practice that causes harm. Refusing that conversation is not balance; it leaves unequal treatment in place, and when people are denied a fair-
+[t11] @A1 <ovl> Nick(MOD): Monica, her time is up.
+
+--- phase 2 ---
+[t12] @A3-1 Nick(MOD): That concludes round one. Now on to round two. It's our middle round. And it's where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t13] Claudia(PRO): You said attention becomes fair when it identifies a barrier. But making race the first explanation before examining conduct trains everyone to see identity as destiny, which is obsession.
+[t14] Monica(CON): I agree some conversations use crude labels. Yet your main claim treats naming a force as worshiping it; refusing to name race when it shapes treatment lets that treatment continue.
+[t15] Claudia(PRO): Families also argue about what children learn from relatives, television, and school. But the motion is about public habits, and America too often turns race into the automatic frame.
+[t16] Monica(CON): If race is always the automatic frame, why do people often avoid discussing it in daily life until someone names a pattern? Isn't that avoidance evidence against obsession?
+[t17] Claudia(PRO): Avoidance can coexist with obsession; people dodge painful subjects privately while institutions repeat them publicly. At a family dinner, children learn to scan each remark for racial meaning and fear speaking.
+[t18] @B1 Nick(MOD): I feel we're getting a little bit off the topic of whether america is now too obsessed with race overall. So, I want you to come in and bring it back around to that.
+[t19] Claudia(PRO): On whether America is too obsessed with race, that fearful scanning matters because it shows race consuming ordinary interactions. You call attention necessary, but necessity does not justify constant fixation.
+[t20] Monica(CON): When a workplace rule repeatedly burdens people differently because of race, discussing race is necessary, not obsessive. Under that condition, silence protects the rule rather than the people living under it.
+[t21] Claudia(PRO): I accept that a rule with racial effects deserves scrutiny. But your condition becomes an excuse to search for racial effects everywhere, so race stays central long after evidence runs thin.
+[t22] Monica(CON): People should be free to discuss race whenever it bears on their experience; that ordinary freedom is not obsession, and it helps people understand one another more clearly.
+[t23] <cut> Claudia(PRO): If discussion is merely ordinary freedom, why must every awkward exchange be read through race before intent is considered? Doesn't that habit make people less able to trust each other, and-
+[t24] <ovl> Monica(CON): No, because your question assumes every exchange is read that way. People raise race when experience makes it relevant, and your distrust of their judgment is the stronger distortion.
+[t25] Claudia(PRO): Picture a student praised for an idea, then told the praise only reflects a racial quota. That student learns achievement will be filtered through identity, proving obsession shrinks individual dignity.
+[t26] @A4 <ovl> Nick(MOD): About ten seconds left in the crossfire.
+[t27] <cut> Monica(CON): Your quota example attacks insulting assumptions, not attention to race itself. Naming the point: fair policies can recognize unequal barriers-
+
+--- phase 3 ---
+[t28] @A3-2 <ovl> Nick(MOD): But now, it is time to bring this all home with our closing round. Claudia for your closing statement, you are up first.
+[t29] Claudia(PRO): The strongest point is simple: race has become the automatic explanation for too many ordinary judgments. Real discrimination deserves direct action, but constant racial sorting weakens trust and individual dignity. America should see people fully, which means ending this obsession. That's all, thank you.
+[t30] @A2-2 Nick(MOD): So, let's let Monica jump in. Okay.
+[t31] Monica(CON): The strongest point is that attention is not obsession when race affects how people are treated. Refusing to discuss those patterns protects discomfort, not fairness. America is not too obsessed with race; it is still learning to confront racial harm honestly. That's all, thank you.
+[t32] Nick(MOD): Thank you, Claudia and Monica, for a thoughtful debate. That concludes our discussion; thank you for listening today.

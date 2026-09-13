@@ -1,0 +1,405 @@
+{
+ "debate_id": "L030",
+ "motion": "Primary elections are ruining democracy.",
+ "speakers": {
+  "MOD": {
+   "name": "Howard",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0341_111",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0341/MSP-PODCAST_0341_111.wav",
+   "wpm": 167.28
+  },
+  "PRO": {
+   "name": "Melissa",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3502_919",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3502/MSP-PODCAST_3502_919.wav",
+   "wpm": 167.47
+  },
+  "CON": {
+   "name": "Helen",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0941_297",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0941/MSP-PODCAST_0941_297.wav",
+   "wpm": 170.38
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 85.95,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 304.6,
+ "ext": {
+  "a32": {
+   "file": "L030_ext_a32.wav",
+   "place_at_sec": 232.581,
+   "dur_sec": 24.5,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "They need not wait helplessly: they can join, organize, and influence the primary before nominees are set. Your limited-menu claim assumes public participation ends at the party door, when primaries open that door."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.0,
+   "dur_sec": 21.0,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, primary elections are ruining democracy. Melissa supports the motion, and Helen opposes it. Each speaker gets thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed statement ends. Please address each other directly and keep remarks civil."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.2,
+   "end_sec": 41.36,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Primary elections turn public choice into a long private audition. Candidates chase their party's loudest faction, then arrive at the general election boxed into promises most people never weighed. That rewards spectacle over governing. It also makes neighbors treat compromise as betrayal, because the first contest teaches them that only the fiercest voice counts."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.2,
+   "end_sec": 44.81,
+   "dur_sec": 3.61,
+   "overlap": true,
+   "text": "I can give you ten seconds to wrap this round."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 41.56,
+   "end_sec": 52.5,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "And once candidates survive that test, everyone else must fall in line behind a choice made by a narrow slice. We need a process that invites the whole public-",
+   "cut_at_sec": 52.5,
+   "full_dur_sec": 13.01,
+   "ext_file": "L030_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 51.7,
+   "end_sec": 55.87,
+   "dur_sec": 4.17,
+   "overlap": true,
+   "text": "I'm going to stop you there, Melissa, we're out of time. Helen."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 56.07,
+   "end_sec": 73.73,
+   "dur_sec": 17.66,
+   "overlap": false,
+   "text": "Melissa, why assume a nomination contest ruins the later choice? Primaries let ordinary party supporters test ideas, reject weak candidates, and send contenders into the general election answerable to real voters. The problem is bad behavior by campaigns, not the chance citizens have to choose. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 73.93,
+   "end_sec": 87.53,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "Thank you, Helen. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 87.73,
+   "end_sec": 99.26,
+   "dur_sec": 11.53,
+   "overlap": false,
+   "text": "No, I reject that premise: the later choice is already narrowed when a small, intense primary electorate selects the finalists. Calling that ordinary participation ignores everyone pushed into choosing between two prepackaged options."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 100.207,
+   "end_sec": 111.997,
+   "dur_sec": 11.79,
+   "overlap": false,
+   "text": "You say a smaller first electorate decides everything, but general voters can reject either finalist and demand better conduct. Your argument treats party supporters as if they have no right to shape their own-"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 111.097,
+   "end_sec": 123.477,
+   "dur_sec": 12.38,
+   "overlap": true,
+   "text": "They do have that right, but it should not become a gate that shuts out voters before the real election. Primaries reward candidates who scare a loyal base, not candidates who can represent a divided public."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 123.742,
+   "end_sec": 136.862,
+   "dur_sec": 13.12,
+   "overlap": false,
+   "text": "Consider a teacher who joins a primary, hears candidates defend funding, and helps reject one who will not listen. Without that contest, party insiders could install favorites. That shows primaries give citizens a check, not ruin democracy."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 137.739,
+   "end_sec": 150.539,
+   "dur_sec": 12.8,
+   "overlap": false,
+   "text": "Campaign money and television drama can distort any race, and those deserve separate reforms. But primaries add a deeper flaw: they make winning a party test the price of reaching voters, so they ruin democratic choice."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 151.142,
+   "end_sec": 163.262,
+   "dur_sec": 12.12,
+   "overlap": false,
+   "text": "Why call a party test illegitimate when citizens freely use it to organize? Every primary voter deserves equal influence. If parties publish fair rules and voters participate, primaries broaden responsibility instead of ruining democracy."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 164.248,
+   "end_sec": 175.938,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "Because a citizen's right to organize does not justify letting a party filter the public's future options. Fair rules cannot cure the skewed incentive: candidates still win by pleasing a smaller, harder-line crowd."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 176.578,
+   "end_sec": 185.578,
+   "dur_sec": 9.0,
+   "overlap": false,
+   "text": "Take a party choosing its nominee at a quiet meeting. This primary voter does not deserve equal influence; parties may select standard-bearers without public contests."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 185.778,
+   "end_sec": 192.988,
+   "dur_sec": 7.21,
+   "overlap": false,
+   "text": "You said every primary voter deserves equal influence, but you see it as this primary voter does not deserve equal influence."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 193.188,
+   "end_sec": 205.688,
+   "dur_sec": 12.5,
+   "overlap": false,
+   "text": "My first statement concerns voters casting ballots on equal terms; my second concerns a party member demanding control over a private selection. Equal treatment among participants and entitlement to run every selection are different ideas."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 206.599,
+   "end_sec": 220.889,
+   "dur_sec": 14.29,
+   "overlap": false,
+   "text": "Imagine a candidate who promises to punish any compromise just to beat a rival in a primary. After winning, she carries that promise into the wider election and refuses workable deals. That shows primaries turn governing into a loyalty contest."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 221.511,
+   "end_sec": 233.691,
+   "dur_sec": 12.18,
+   "overlap": false,
+   "text": "On your punishment-for-compromise point, the primary did not force that promise; voters can reject her later, and another candidate can challenge her. Blaming the ballot for one candidate's rigidity excuses citizens' capacity to judge."
+  },
+  {
+   "i": 19,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 227.53,
+   "end_sec": 229.41,
+   "dur_sec": 1.88,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 20,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 234.161,
+   "end_sec": 238.33,
+   "dur_sec": 4.169,
+   "overlap": false,
+   "text": "If general voters can fix every bad nominee later, why make them wait-",
+   "ext_file": "L030_ext_a32.wav",
+   "cut_at_sec": 236.75,
+   "full_dur_sec": 12.65
+  },
+  {
+   "i": 21,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 237.53,
+   "end_sec": 247.94,
+   "dur_sec": 10.41,
+   "overlap": true,
+   "text": "It's time to bring this home with closing remarks. This is where the debaters get to make a summary closing statement. And, Melissa, you have the floor on this one."
+  },
+  {
+   "i": 22,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 248.14,
+   "end_sec": 258.1,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "Helen's best point is that primaries can give engaged citizens a voice. But that voice becomes a veto over the broader public when it filters every candidate."
+  },
+  {
+   "i": 23,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 257.2,
+   "end_sec": 259.5,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "That is not a veto, because final-election voters-",
+   "cut_at_sec": 257.92,
+   "full_dur_sec": 7.75,
+   "ext_file": "L030_024.wav"
+  },
+  {
+   "i": 24,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 258.7,
+   "end_sec": 260.65,
+   "dur_sec": 1.95,
+   "overlap": true,
+   "text": "Can we let her reply please?"
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 260.85,
+   "end_sec": 271.21,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "It filters candidates before that final choice, and rewards narrow appeals early. Democracy suffers when the decisive test is pleasing a faction, not building public consent."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 268.14,
+   "end_sec": 270.93,
+   "dur_sec": 2.79,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 271.41,
+   "end_sec": 279.54,
+   "dur_sec": 8.13,
+   "overlap": false,
+   "text": "A democracy lets voters shape choices before parties lock them into a narrow contest. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 279.74,
+   "end_sec": 283.7,
+   "dur_sec": 3.96,
+   "overlap": false,
+   "text": "All right. Helen, do you want to come back on that?"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 283.9,
+   "end_sec": 302.88,
+   "dur_sec": 18.98,
+   "overlap": false,
+   "text": "What this turns on is whether democracy means only the final ballot or participation throughout the choice. Primaries are imperfect, but they let people test candidates, organize around values, and influence nominations before power is settled. Fix unfair rules and bad incentives; do not call citizen participation democracy's ruin. That's all, thank you."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 303.08,
+   "end_sec": 309.65,
+   "dur_sec": 6.57,
+   "overlap": false,
+   "text": "Thank you, Melissa and Helen, for a thoughtful debate, and thank you for listening; this debate is now concluded."
+  }
+ ]
+}

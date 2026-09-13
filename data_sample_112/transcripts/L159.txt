@@ -1,0 +1,41 @@
+L159  |  The FDA's caution is hazardous to our health
+  MOD=Bruce   PRO=Andrew   CON=Frank
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Bruce(MOD): Welcome to tonight's debate. The motion is that the FDA's caution is hazardous to our health. Andrew argues for it, while Frank argues against it. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire; I will give a ten-second cue.
+[t01] Andrew(PRO): Caution can protect people, but endless delay also harms them. When a promising treatment is held back while serious illness advances, patients lose choices and time. The agency's demand for certainty before action can turn protection into a health hazard. That's all, thank you.
+[t02] @A2-2 Bruce(MOD): You can come in, Frank.
+[t03] Frank(CON): They mistake review for paralysis. A regulator must ask whether a product helps before people rely on it, because rushed promises often conceal
+[t04] <ovl> <cut> Andrew(PRO): But people with no good option cannot wait-
+[t05] @A5 <ovl> Bruce(MOD): Let him just finish.
+[t06] Frank(CON): harm that cannot be undone. That basic duty protects patients from sellers who call uncertainty innovation and ask the sick to bear every risk.
+[t07] @A4 <ovl> Bruce(MOD): You've got ten seconds.
+[t08] Frank(CON): Careful review gives people evidence, not hope alone, and that is safer for our health. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Bruce(MOD): And that concludes round one. Now on to round two. Round two is where the debaters address one another in turn. Two and a half minutes on the clock, starting the moment I stop talking.
+[t10] Andrew(PRO): Imagine a patient facing a fast-moving illness with no useful option. A delayed therapy remains unavailable while that patient's condition worsens, proving excessive caution can itself endanger health.
+[t11] Frank(CON): I agree that delay can hurt someone with urgent needs. But releasing an unproven therapy can hurt many people and steal informed choice, so careful caution protects health.
+[t12] Andrew(PRO): If your review process takes so long that a patient loses the only possible chance to improve, how does preserving paperwork protect that patient's health rather than the agency's comfort?
+[t13] Frank(CON): Your point about lost chances assumes the therapy works. That is exactly the point I reject: without solid evidence, a supposed chance may be a dangerous distraction, so caution protects health.
+[t14] Andrew(PRO): Your weakest claim is that uncertainty makes delay safe. Illness does not pause for evidence, and refusing access under uncertainty forces patients into worse known outcomes, which is hazardous.
+[t15] Frank(CON): No, paperwork does not protect health; reliable evidence does. You treat access as benefit by itself, but access to a useless or harmful treatment abandons patients, so caution is safer.
+[t16] Andrew(PRO): When a patient faces a severe condition and has no adequate option, demanding the same long review as a routine product is hazardous. In that setting, timely access protects health.
+[t17] <cut> Frank(CON): I grant that urgency deserves a faster response. But your severe-condition exception assumes a person benefits from a product before anyone knows, and rushing that judgment can leave patients with-
+[t18] Andrew(PRO): Health policy should give people meaningful access to promising options, not merely protect institutions from blame. Caution becomes hazardous whenever it treats delay as harmless, because patients live with consequences now.
+[t19] Frank(CON): People also argue about who pays for treatments and how advertisements shape demand. Those matters matter, but the motion is health: careful review prevents avoidable injury, so FDA caution is not hazardous.
+[t20] Andrew(PRO): Your weakest move is calling injury avoidable only after waiting. For a patient whose condition is worsening, the injury from delay is already real, and your process offers no remedy, making caution hazardous.
+[t21] Frank(CON): Delay can harm a worsening patient, but that does not make caution hazardous. Your argument ignores harm from false hope, side effects, and lost alternatives, which careful review prevents.
+[t22] Andrew(PRO): Consider a patient offered a promising therapy only after months of delay. By then the illness has removed the chance for it to help, proving caution can be hazardous.
+[t23] @A4 <ovl> Bruce(MOD): Ten seconds left in the crossfire.
+[t24] <cut> Frank(CON): I concede that some patients cannot recover lost time. Yet a promise is not a treatment-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Bruce(MOD): Time's up. So now we move on to our closing round. Andrew, you have the floor first.
+[t26] Andrew(PRO): The clearest issue is not whether safety matters; it does. It is whether the agency may treat delay as harmless when patients are running out of options. Evidence can be gathered while carefully supervised access is allowed for serious cases. A system that blocks every chance until certainty arrives leaves real people paying the price.
+[t27] @A4 <ovl> Bruce(MOD): Ten seconds.
+[t28] <cut> Andrew(PRO): Frank says uncertainty justifies waiting, yet uncertainty also surrounds the course of untreated illness. Patients deserve information and safeguards, but they also deserve a path to promising care. When caution shuts-
+[t29] @A2-1 <ovl> Bruce(MOD): Thank you. I'm sorry his time is up. Thank you. And here to summarize his position against whether the FDA's caution is hazardous to our health, Frank.
+[t30] Frank(CON): Supervised access sounds humane, but supervision cannot erase harm from a treatment that does not work or causes hidden damage. Andrew treats waiting as the only danger, while bad decisions can permanently injure patients. Caution demands evidence before broad reliance, and that discipline protects health. That's all, thank you.
+[t31] Bruce(MOD): Thank you, Andrew and Frank, for a thoughtful debate, and thank you for joining us as we conclude tonight's discussion.

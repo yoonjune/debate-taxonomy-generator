@@ -1,0 +1,41 @@
+L158  |  Globalization has undermined America's working class.
+  MOD=Stanley   PRO=Jillian   CON=Mari
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Stanley(MOD): Welcome. Tonight's motion is: Globalization has undermined America's working class. Jillian speaks for the motion, and Mari speaks against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. Speak directly, stay on the motion, and I will give a ten-second cue.
+[t01] Jillian(PRO): Globalization gave companies an exit while workers were left bargaining alone. Factories and skills can be moved, but families cannot simply move with them. That imbalance has weakened pay, security, and power for America's working class. That's all, thank you.
+[t02] @A2-2 Stanley(MOD): Now her summation against the motion, Mari.
+[t03] Mari(CON): The claim mistakes change for collapse; workers are not helpless victims. When firms compete across borders, they can
+[t04] <ovl> <cut> Jillian(PRO): That answer skips the workers whose jobs vanish-
+[t05] @A5 <ovl> Stanley(MOD): Let her answer the questions.
+[t06] Mari(CON): reach new customers, finance expansion, and build durable skills. That is why trade can widen choices for working people, rather than strip them of dignity.
+[t07] @A4 <ovl> Stanley(MOD): You have ten seconds left.
+[t08] Mari(CON): That broader opportunity is why globalization can strengthen, rather than undermine, working families. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Stanley(MOD): And that concludes round one. So now on to round two. They address one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Jillian(PRO): Your broader-opportunity point treats any new job as equal to a lost stable one. Globalization shifts risk onto workers while owners keep the freedom to move, which undermines the working class.
+[t11] Mari(CON): Your weakest claim is that movement automatically means loss. A worker can gain a new market, a better tool, or a growing employer, so globalization has not inherently undermined the working class.
+[t12] Jillian(PRO): People also worry about whether cheap imported goods change local habits and neighborhood stores. But the motion is about workers: how is a job secure when its employer can relocate it without consequence?
+[t13] Mari(CON): I reject the premise that relocation makes every job insecure. Competition can make employers improve products and expand sales, and those gains give workers more paths forward than isolation does.
+[t14] Jillian(PRO): Your answer treats new work as equal to lost work, ignoring who absorbs the disruption. American workers always deserve protection from job loss. Globalization has denied that protection and undermined them.
+[t15] Mari(CON): Consider a small toolmaker that sells its equipment to buyers abroad, hires apprentices, and keeps its doors open through a slow season. Those workers gain pay and skills, proving globalization can strengthen the working class.
+[t16] Jillian(PRO): At a workshop that refuses training and abandons its staff after profits rise, these workers do not deserve protection from job loss. That failure shows globalization has undermined working people.
+[t17] @B2 Stanley(MOD): But you can't have it both ways, you can't american workers always deserve protection from job loss on one hand and then these workers do not deserve protection from job loss the next.
+[t18] Jillian(PRO): The first statement names what the nation owes the working class; the second exposes how a particular group is treated in practice. That gap between obligation and treatment is exactly how globalization undermines workers.
+[t19] <cut> Mari(CON): I agree that sudden closures can hurt families, but your contradiction shows that broad slogans cannot guide policy. The working class gains when it can sell, build, and compete across-
+[t20] <ovl> Jillian(PRO): Selling abroad does not erase the loss when firms use foreign options to silence wage demands. Workers need bargaining power and stable communities, so globalization has undermined America's working class.
+[t21] Mari(CON): If globalization only harms workers, why would a growing workshop hire more people to meet new demand? Your account ignores workers who gain customers, skills, and choices through open exchange.
+[t22] Jillian(PRO): A clothing worker can train for years, then watch her employer shift the same work overseas and offer no comparable position nearby. Her lost wage and leverage prove globalization has undermined the working class.
+[t23] @A4 <ovl> Stanley(MOD): Ten seconds left on the crossfire.
+
+--- phase 3 ---
+[t24] @A3-2 <ovl> Stanley(MOD): Time. Round three, closing statements by each debater in turn. Let's go to the first of these speakers. Speaking for the motion, Jillian.
+[t25] Jillian(PRO): My opponent offers possibilities, but possibilities do not protect workers when employers can relocate work and weaken bargaining. Globalization made insecurity a business strategy for too many families. That loss of security and power means it has undermined America's working class. That's all, thank you.
+[t26] @A2-2 Stanley(MOD): OK. Mari, you wanted to come in.
+[t27] Mari(CON): Jillian's strongest point is that a closure can devastate a family. But a hard transition is not proof that global exchange destroys a whole class. Trade can create customers, sustain smaller employers, and reward adaptable skills. The better response is to help workers seize those opportunities, not portray globalization as their enemy.
+[t28] <cut> Mari(CON): Workers deserve tools to adapt, including training, savings, and fair bargaining. Those supports make change less frightening and let people benefit from wider markets. Globalization offers-
+[t29] @A4 <ovl> Stanley(MOD): You have ten seconds.
+[t30] @A1 <ovl> Stanley(MOD): Time out. Time out.
+[t31] Stanley(MOD): Thank you both for a focused debate on globalization and America's working class; this debate is now concluded.

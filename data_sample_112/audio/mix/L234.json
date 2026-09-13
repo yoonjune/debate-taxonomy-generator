@@ -1,0 +1,389 @@
+{
+ "debate_id": "L188",
+ "motion": "We should isolate Russia.",
+ "speakers": {
+  "MOD": {
+   "name": "Bob",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6916_657",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6916/MSP-PODCAST_6916_657.wav",
+   "wpm": 175.38
+  },
+  "PRO": {
+   "name": "Hugh",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5993_347",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_5/MSP-PODCAST_5993/MSP-PODCAST_5993_347.wav",
+   "wpm": 163.88
+  },
+  "CON": {
+   "name": "Wendy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2260_889",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2260/MSP-PODCAST_2260_889.wav",
+   "wpm": 168.84
+  }
+ },
+ "selective": [
+  "A1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 63.82,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 292.0,
+ "ext": {
+  "a32": {
+   "file": "L188_ext_a32.wav",
+   "place_at_sec": 201.417,
+   "dur_sec": 36.16,
+   "src_i": 17
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 18,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Consider an official supplier whose easy contracts disappear when outside partners withdraw. He must either support harmful policy without those rewards or press for a different course. That proves isolation reaches the incentives behind aggression."
+  },
+  {
+   "src_i": 19,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "If you admit humanitarian safeguards are needed, who decides which families qualify before trade, travel, and contact are cut? Why trust a broad isolation policy to avoid the very harm you describe?"
+  },
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Humanitarian channels can be defined around essential goods and family needs, so the premise that every connection is cut is false. The broader point remains: leaders should lose normal access until harmful conduct ends."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 20.97,
+   "dur_sec": 20.97,
+   "overlap": false,
+   "text": "Welcome. Tonight's motion is that we should isolate Russia. Hugh argues for it, and Wendy argues against it. Each has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue before each limit. They should address each other directly, and I may keep the discussion on the question."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.17,
+   "end_sec": 38.59,
+   "dur_sec": 17.42,
+   "overlap": false,
+   "text": "Isolation is not hatred of ordinary people; it is a refusal to make normal business excuse aggression. When access remains easy, pressure fades and leaders learn that disruption carries no real cost for their choices. We should isolate Russia to set a clear boundary. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 38.79,
+   "end_sec": 40.57,
+   "dur_sec": 1.78,
+   "overlap": false,
+   "text": "Let Wendy respond to it."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 40.77,
+   "end_sec": 57.21,
+   "dur_sec": 16.44,
+   "overlap": false,
+   "text": "Isolation sounds firm, but it can trap ordinary families while leaving powerful decision makers insulated. Keeping limited contact protects routes for aid, dialogue, and future change. We should reject a policy that closes every door when pressure must remain targeted. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 57.41,
+   "end_sec": 67.74,
+   "dur_sec": 10.33,
+   "overlap": false,
+   "text": "Round two is where the debaters address one another in turn. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 67.94,
+   "end_sec": 79.06,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Imagine a parent needing medicine that arrives through ordinary trade. A blanket isolation blocks that route before it changes any leader's conduct. That proves isolation punishes civilians more reliably than power."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 79.891,
+   "end_sec": 90.641,
+   "dur_sec": 10.75,
+   "overlap": false,
+   "text": "If normal ties keep resources and legitimacy flowing to the people directing aggression, why should outsiders preserve that comfort instead of applying isolation? How does your approach create real pressure?"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 91.054,
+   "end_sec": 101.494,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "When isolation would block food, medicine, or family contact, it is wrong because the burden falls first on people without control. In that condition, limited targeted pressure is better."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 102.457,
+   "end_sec": 113.777,
+   "dur_sec": 11.32,
+   "overlap": false,
+   "text": "Limited contact can help a family in a hard case, and I would protect humanitarian channels. But broad economic and political distance removes the normal rewards leaders use; that pressure supports isolation."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 114.407,
+   "end_sec": 126.247,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Your humanitarian exception raises another problem: students in joint art programs may lose mentors, travel plans, and shared performances. Those personal exchanges need careful permits, because young creators should not carry adults' disputes."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 126.447,
+   "end_sec": 131.907,
+   "dur_sec": 5.46,
+   "overlap": false,
+   "text": "But we're getting a little bit off the isolation of Russia from the wider world."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 132.107,
+   "end_sec": 143.147,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "The question is whether Russia should be isolated, and I say no because broad separation harms people who cannot alter policy. Keep pressure focused on responsible decision makers, not entire communities."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 143.457,
+   "end_sec": 155.297,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "When banks, firms, and official channels withdraw, leaders lose easy ways to fund and normalize harmful actions. That loss forces a choice between continued aggression and renewed cooperation. It proves isolation creates leverage."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 155.703,
+   "end_sec": 167.183,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Cultural ties also matter: families speak across borders, and small exchanges preserve trust for later repair. But the motion asks about isolation; how does cutting normal ties hurt leaders before ordinary people?"
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 167.782,
+   "end_sec": 179.182,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "It hurts leaders by denying them revenue, access, and prestige; humanitarian safeguards can shield ordinary people. Your claim treats normal ties as harmless, yet those ties can finance the very pressure you-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 179.916,
+   "end_sec": 191.756,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Countries need working connections with the outside world, because isolation rarely produces wiser choices from those in power. The people who face its daily costs are usually the least able to change policy."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 192.697,
+   "end_sec": 204.787,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Your claim that isolation rarely changes leaders is the weakest point, because leaders depend on money, access, and recognition. Removing those supports does not guarantee change, but it makes harmful choices harder to sustain."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 205.337,
+   "end_sec": 217.177,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "On your money, access, and recognition point, you confuse broad isolation with precise pressure. Decision makers can dodge broad barriers, while workers and families cannot. Targeted measures keep leverage without abandoning everyone else.",
+   "ext_file": "L188_ext_a32.wav"
+  },
+  {
+   "i": 18,
+   "src_i": 21,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 207.74,
+   "end_sec": 210.71,
+   "dur_sec": 2.97,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 19,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 217.74,
+   "end_sec": 229.41,
+   "dur_sec": 11.67,
+   "overlap": true,
+   "text": "Time. So, let's move on to round three, closing statements. Each debater in turn, here to make his closing statement in support of the isolation of Russia from the wider world, is Hugh."
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 229.61,
+   "end_sec": 249.52,
+   "dur_sec": 19.91,
+   "overlap": false,
+   "text": "Deciding this motion turns on whether normal engagement restrains harmful conduct or merely cushions it. Wendy asks us to trust narrow pressure, yet narrow pressure leaves many rewards untouched and sends a mixed signal. Isolation, with protected humanitarian channels, changes the wider environment in which leaders calculate costs and choices."
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 249.61,
+   "end_sec": 250.9,
+   "dur_sec": 1.29,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 22,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 249.72,
+   "end_sec": 257.13,
+   "dur_sec": 7.41,
+   "overlap": false,
+   "text": "That is why firm separation, not comfortable routine, offers the clearer path toward responsible conduct. That's all, thank you."
+  },
+  {
+   "i": 23,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 257.33,
+   "end_sec": 259.65,
+   "dur_sec": 2.32,
+   "overlap": false,
+   "text": "Thank you Hugh. Wendy, closing statement."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 259.85,
+   "end_sec": 279.93,
+   "dur_sec": 20.08,
+   "overlap": false,
+   "text": "Deciding this motion turns on who pays when broad separation is imposed. Hugh promises leverage, but leverage that reaches medicine, work, and family contact is not disciplined leverage. Real pressure should focus on people making choices, while keeping doors open for ordinary lives and future bargaining. Isolation confuses a government with everyone living under it."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 279.85,
+   "end_sec": 281.09,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Wendy, ten seconds."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 280.13,
+   "end_sec": 291.15,
+   "dur_sec": 11.02,
+   "overlap": false,
+   "text": "That confusion creates resentment and weakens voices that could support change. Keep pressure targeted, keep humanitarian links open, and judge policies by the people they burden. A country facing-",
+   "cut_at_sec": 285.43,
+   "full_dur_sec": 14.24,
+   "ext_file": "L188_029.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 290.35,
+   "end_sec": 291.59,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Not this time."
+  },
+  {
+   "i": 28,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 291.79,
+   "end_sec": 297.72,
+   "dur_sec": 5.93,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate on whether Russia should be isolated from the wider world today."
+  }
+ ]
+}

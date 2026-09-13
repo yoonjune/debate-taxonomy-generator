@@ -1,0 +1,437 @@
+{
+ "debate_id": "L031",
+ "motion": "Snowden was justified",
+ "speakers": {
+  "MOD": {
+   "name": "Tom",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0019_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0019/MSP-PODCAST_0019_43.wav",
+   "wpm": 164.41
+  },
+  "PRO": {
+   "name": "Chloe",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3265_68",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3265/MSP-PODCAST_3265_68.wav",
+   "wpm": 168.68
+  },
+  "CON": {
+   "name": "Monica",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3502_919",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3502/MSP-PODCAST_3502_919.wav",
+   "wpm": 167.47
+  }
+ },
+ "selective": [
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 88.88,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 308.26,
+ "ext": {
+  "a32": {
+   "file": "L031_ext_a32.wav",
+   "place_at_sec": 232.058,
+   "dur_sec": 21.75,
+   "src_i": 25
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 26,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Can you identify a safer, realistic path that would have exposed the surveillance, protected the public's right to know, and avoided officials judging their own secrecy, or is your standard impossible in practice?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.88,
+   "dur_sec": 18.88,
+   "overlap": false,
+   "text": "Tonight we debate whether Snowden was justified. Chloe argues for the motion, while Monica argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue during each timed speech, and I will stop speakers when their time ends."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.08,
+   "end_sec": 39.36,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Snowden revealed a hidden surveillance system that reached beyond what the public had been told. He did not expose a private quarrel; he forced citizens to confront government power that operated without meaningful consent or scrutiny. When institutions conceal practices that affect everyone, a whistleblower may need to break secrecy so the public can judge the conduct for itself"
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.08,
+   "end_sec": 40.32,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 39.56,
+   "end_sec": 47.49,
+   "dur_sec": 7.93,
+   "overlap": false,
+   "text": "That choice carried risks, but informing the public was a justified act of conscience. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 47.69,
+   "end_sec": 49.29,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Monica, over to you."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 49.49,
+   "end_sec": 59.45,
+   "dur_sec": 9.96,
+   "overlap": false,
+   "text": "Snowden's disclosure did not simply expose wrongdoing; it released a huge trove without reliable safeguards. That endangered lawful operations, exposed people, and made accountability harder for everyone."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 58.55,
+   "end_sec": 60.85,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "But secrecy was the problem, not the person exposing-",
+   "cut_at_sec": 58.83,
+   "full_dur_sec": 7.79,
+   "ext_file": "L031_006.wav"
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 60.05,
+   "end_sec": 64.85,
+   "dur_sec": 4.8,
+   "overlap": true,
+   "text": "Let her go on, and then I'll come back to you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 65.05,
+   "end_sec": 75.02,
+   "dur_sec": 9.97,
+   "overlap": false,
+   "text": "and left the public guessing about what else had been taken. That is not responsible whistleblowing; it is an uncontrolled release that weakened trust in government."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 69.49,
+   "end_sec": 71.73,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "Just, just about ten seconds left."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 75.22,
+   "end_sec": 81.09,
+   "dur_sec": 5.87,
+   "overlap": false,
+   "text": "The scale and recklessness of the release outweigh its claimed public benefit."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 81.29,
+   "end_sec": 90.9,
+   "dur_sec": 9.61,
+   "overlap": false,
+   "text": "On to round two, and in round two, the debaters address one another. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 91.1,
+   "end_sec": 102.14,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Imagine a worker whose name appears in a secret report, then becomes a target because raw files were published. That risk shows uncontrolled disclosure was reckless, so Snowden was not justified."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 102.455,
+   "end_sec": 112.455,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "That example assumes Snowden knowingly exposed a target; the point was revealing surveillance, with identities not his goal. Officials had hidden constitutional abuses, so disclosure served the public."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 112.776,
+   "end_sec": 121.716,
+   "dur_sec": 8.94,
+   "overlap": false,
+   "text": "How can you call Snowden justified when he chose a massive release instead of a narrow, accountable channel, leaving strangers to bear risks they never accepted?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 122.037,
+   "end_sec": 131.877,
+   "dur_sec": 9.84,
+   "overlap": false,
+   "text": "The weakest claim is that he had a safe narrow channel available; the same institutions concealing surveillance controlled those channels. Public exposure was necessary, making his choice justified."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 132.653,
+   "end_sec": 143.403,
+   "dur_sec": 10.75,
+   "overlap": false,
+   "text": "I grant that hidden surveillance deserved scrutiny, and some disclosures helped public understanding. But a personal conviction cannot excuse dumping material that endangered people; justification requires restraint, and Snowden showed-"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 142.503,
+   "end_sec": 152.223,
+   "dur_sec": 9.72,
+   "overlap": true,
+   "text": "Restraint matters, but you are treating every file as a dump. The disclosures exposed a system, and secrecy had blocked oversight; that public interest justified Snowden's choice."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.734,
+   "end_sec": 163.494,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "A disclosed operational detail can reveal a safe route, a source, or a partner, even when the leaker wants reform. Those consequences show release without review was unjustified and reckless."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 163.839,
+   "end_sec": 174.279,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "That hypothetical danger does not prove Snowden's disclosure caused it; you offer no specific person harmed. The verified public revelation of surveillance outweighs speculative risks, so he was justified."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 175.153,
+   "end_sec": 186.633,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "Would you call someone justified if he knowingly took classified material, ignored safer alternatives, and forced the public to learn through a chaotic release rather than a controlled investigation with lasting consequences?"
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.417,
+   "end_sec": 199.257,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "No, not on those facts; but your description assumes safer alternatives. The argument about workplace loyalty and personal conscience matters, yet the motion turns on exposing unlawful surveillance, and that act was justified."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 200.164,
+   "end_sec": 211.154,
+   "dur_sec": 10.99,
+   "overlap": false,
+   "text": "I accept that surveillance oversight mattered and that public debate followed. Yet noble motives do not erase reckless handling of secrets, so Snowden's method was unjustified even if officials deserved criticism."
+  },
+  {
+   "i": 23,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 211.581,
+   "end_sec": 222.341,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "On your point about reckless handling, secrecy itself prevented any trustworthy review, while the disclosure let citizens judge surveillance. A flawed delivery can still serve justice when concealment is systemic."
+  },
+  {
+   "i": 24,
+   "src_i": 24,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 222.966,
+   "end_sec": 233.196,
+   "dur_sec": 10.23,
+   "overlap": false,
+   "text": "Suppose a foreign contact is identified in files and then threatened, despite having no role in the dispute. That innocent person's danger shows mass disclosure was unjustified and reckless."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 230.9,
+   "end_sec": 233.22,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left on the clock."
+  },
+  {
+   "i": 26,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 234.078,
+   "end_sec": 241.7,
+   "dur_sec": 7.622,
+   "overlap": false,
+   "text": "That example does not establish Snowden caused a threat; it imagines one. Protecting contacts matters, but exposing unlawful surveillance remains justified when officials-",
+   "ext_file": "L031_ext_a32.wav",
+   "cut_at_sec": 239.68,
+   "full_dur_sec": 9.91
+  },
+  {
+   "i": 27,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 240.9,
+   "end_sec": 252.38,
+   "dur_sec": 11.48,
+   "overlap": true,
+   "text": "Time. And now we move on to Round three. Here making her closing statement in support of the motion that snowden was justified in exposing secret government surveillance to the public, Chloe."
+  },
+  {
+   "i": 28,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 252.58,
+   "end_sec": 273.86,
+   "dur_sec": 21.28,
+   "overlap": false,
+   "text": "This decision turns on whether people may expose serious government wrongdoing when official channels protect secrecy instead of accountability. Snowden showed citizens that surveillance reached into ordinary life without meaningful public consent. Monica points to possible harms, and those deserve care, but fear of misuse cannot make hidden abuses acceptable. The central question is whether revealing that abuse was justified"
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 272.58,
+   "end_sec": 275.86,
+   "dur_sec": 3.28,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 274.06,
+   "end_sec": 283.88,
+   "dur_sec": 9.82,
+   "overlap": false,
+   "text": "A democracy cannot demand silence from someone who sees power operating beyond public scrutiny. Responsible safeguards matter, but they cannot become an excuse for permanent concealment-",
+   "cut_at_sec": 281.86,
+   "full_dur_sec": 14.92,
+   "ext_file": "L031_031.wav"
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 283.08,
+   "end_sec": 287.36,
+   "dur_sec": 4.28,
+   "overlap": true,
+   "text": "I'm going to stop you there, Chloe, we're out of time. Monica."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 287.56,
+   "end_sec": 305.04,
+   "dur_sec": 17.48,
+   "overlap": false,
+   "text": "This motion turns on the whole act, not only the troubling surveillance it revealed. Public scrutiny was valuable, but Snowden chose a sweeping release that could expose innocent people and sensitive operations. A good motive cannot justify reckless means, so Snowden was not justified. That's all, thank you."
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 305.24,
+   "end_sec": 312.04,
+   "dur_sec": 6.8,
+   "overlap": false,
+   "text": "Thank you both for your arguments. That concludes the debate; I am closing the discussion without declaring a winner."
+  }
+ ]
+}

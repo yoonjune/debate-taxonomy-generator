@@ -1,0 +1,41 @@
+L228  |  Ten years after the global financial crisis, the system is safer.
+  MOD=Nelson   PRO=Virginia   CON=Trevor
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Nelson(MOD): Welcome. The motion is whether ten years after the global financial crisis, the system is safer. Virginia supports it, and Trevor opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of direct crossfire and then thirty-second closings. Address the motion, respond directly, and let each other finish; I will give a ten-second cue.
+[t01] Virginia(PRO): Ten years on, stronger cushions, clearer oversight, and plans for failure make shocks less likely to spread across the system. Safety is not perfection; it means a bad decision is less able to pull everyone down. Trevor, why ignore those barriers? That's all, thank you.
+[t02] @A2-2 Nelson(MOD): I want to let Trevor respond to some of that.
+[t03] Trevor(CON): Those barriers may look reassuring, but they rely on people spotting danger before panic starts. Risk can move into corners nobody watches when incentives reward concealment. If safety depends on perfect attention again, why call the whole system safer at all? That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 Nelson(MOD): And that concludes opening statements with the resolution, ten years after the global financial crisis, the system is safer, and now our debaters will respond to one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t05] Virginia(PRO): I reject the premise that safety depends on perfect attention. The point is that layers catch mistakes and limit contagion; your unseen-corners argument ignores safeguards designed precisely for that risk too.
+[t06] Trevor(CON): When lending is rushed and profits are tied to short-term gains, safeguards can be bypassed or weakened. Under that condition, familiar rules do not stop fragile debts from piling up across the system.
+[t07] Virginia(PRO): The debate also affects who gets blamed after a failure; workers can lose jobs while leaders walk away. That is about fairness, but returning to safety, failure plans reduce the chance of a disorderly collapse.
+[t08] Trevor(CON): Rules cannot make every market calm, because fear and greed remain powerful. Yet the system can be unsafe even in ordinary times when hidden borrowing and weak accountability are allowed to grow without challenge.
+[t09] Virginia(PRO): Financial safeguards always protect the public. If institutions must hold cushions and prepare for failure, one reckless choice has less power to become a shared disaster across markets and households now.
+[t10] Trevor(CON): Your claim that safeguards always protect the public ignores people who design around them. A cushion that can be evaded is a promise on paper, not proof that danger is contained in time.
+[t11] Virginia(PRO): Here financial safeguards do not protect the public. A collapsed lender has already harmed savers, and that failure shows why the system needs stronger protection, which supports the motion today, clearly.
+[t12] @B2 Nelson(MOD): So one moment it's financial safeguards always protect the public and the next moment it's here financial safeguards do not protect the public?
+[t13] Virginia(PRO): Both statements describe different levels of the same reality: safeguards serve the public, while a collapsed lender shows protection can fail. That failure supports repair, not Trevor's claim that nothing became safer across the system.
+[t14] Trevor(CON): Imagine a small lender suddenly cannot repay those who deposited their pay. Without a clear failure plan, fear spreads to sound lenders and families lose access to money. That chain proves the system remains unsafe.
+[t15] Virginia(PRO): I grant that a failure plan cannot erase the loss for every depositor. But Trevor's example shows why orderly resolution, cushions, and oversight matter: they prevent one collapse from becoming a system-wide panic. Safer is the right verdict.
+[t16] Trevor(CON): If the system is safer, why can an ordinary family still discover that its savings are trapped after a firm fails? Your answer cannot be merely that the damage might have been worse.
+[t17] @A4 <ovl> Nelson(MOD): Just, just about ten seconds left.
+[t18] <cut> Virginia(PRO): Trevor, your trapped-savings point confuses safer with harmless. Families deserve better protection, but the question is whether losses spread less-
+
+--- phase 3 ---
+[t19] @A3-2 <ovl> Nelson(MOD): And that's time. And now we move on to round three. And the first to speak in support of the resolution is Virginia.
+[t20] Virginia(PRO): Trevor's strongest point is that hidden risk can evade rules. But evasion does not erase progress: cushions and failure plans make contagion less likely, so the system is safer.
+[t21] <ovl> <cut> Trevor(CON): But plans are only promises when the next-
+[t22] @A5 <ovl> Nelson(MOD): Please, let her finish, you made your point.
+[t23] Virginia(PRO): because preventing a panic protects that family as well. The alternative is not perfect safety; it is a system with fewer paths from one failure to everyone's livelihood.
+[t24] @A4 <ovl> Nelson(MOD): Ten seconds for last word.
+[t25] Virginia(PRO): That is why, despite remaining risks, the system today deserves the judgment that it is safer.
+[t26] @A2-2 Nelson(MOD): Now his summation against the motion, Trevor.
+[t27] Trevor(CON): My central point is simple: safety that fails when risk is hidden is not real safety. Rules can be evaded, and plans written in calm times may buckle when everyone demands money at once. The family with trapped savings does not experience a safer system. That human consequence exposes the gap between official protections and actual security, and it demands that we ask
+[t28] @A4 <ovl> Nelson(MOD): Ten seconds please.
+[t29] <cut> Trevor(CON): whether a system deserves trust merely because it has more paperwork. Until hidden borrowing cannot threaten ordinary savings, calling the system safer is premature-
+[t30] @A1 <ovl> Nelson(MOD): I'm sorry, you've hit time.
+[t31] Nelson(MOD): Thank you, Virginia and Trevor, for a thoughtful debate; this concludes our discussion of the motion.

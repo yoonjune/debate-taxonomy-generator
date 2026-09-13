@@ -1,0 +1,384 @@
+{
+ "debate_id": "L095",
+ "motion": "We should use gene editing to make better babies.",
+ "speakers": {
+  "MOD": {
+   "name": "Joan",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_4091_2904",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4091/MSP-PODCAST_4091_2904.wav",
+   "wpm": 176.59
+  },
+  "PRO": {
+   "name": "Malcolm",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3684_437",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3684/MSP-PODCAST_3684_437.wav",
+   "wpm": 168.45
+  },
+  "CON": {
+   "name": "Frank",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_1632_55",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1632/MSP-PODCAST_1632_55.wav",
+   "wpm": 163.08
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 88.31,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 288.69,
+ "ext": {
+  "a32": {
+   "file": "L095_ext_a32.wav",
+   "place_at_sec": 226.356,
+   "dur_sec": 35.12,
+   "src_i": 22
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 23,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "How will you stop health improvement from becoming a demand for preferred looks, moods, or abilities? If parents fear their child will fall behind, why would your safeguards protect real choice?"
+  },
+  {
+   "src_i": 24,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Your slippery-slope point assumes safeguards are useless, but we already distinguish healing from cosmetic preference in ordinary care. Clear review can preserve choice while preventing serious illness, which is why the motion stands."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.65,
+   "dur_sec": 16.65,
+   "overlap": false,
+   "text": "Welcome. The motion is: We should use gene editing to make better babies. Malcolm takes the affirmative, and Frank takes the negative. Each speaker has thirty seconds to open, followed by two and a half minutes of crossfire, then thirty-second closings; I will give a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 16.85,
+   "end_sec": 37.01,
+   "dur_sec": 20.16,
+   "overlap": false,
+   "text": "Gene editing can spare a future child from severe inherited illness and give families more control over preventable suffering. Used before birth, it can strengthen health without changing the love owed to any child. We should set clear limits, require careful review, and make sure this tool serves children rather than fashion or profit."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 36.85,
+   "end_sec": 38.09,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Malcolm, ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 37.21,
+   "end_sec": 48.15,
+   "dur_sec": 10.94,
+   "overlap": false,
+   "text": "The aim is not to order children from a catalog. It is to give them a fairer starting point when biology deals a cruel hand. If we refuse a safe chance to prevent-",
+   "cut_at_sec": 48.15,
+   "full_dur_sec": 14.92,
+   "ext_file": "L095_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 47.35,
+   "end_sec": 49.59,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "That's time, Malcolm. Thank you. Frank."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 49.79,
+   "end_sec": 70.07,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "Better babies sounds kind, but it turns a child into a project measured against someone else's ideal. Editing inherited illness may seem simple, yet the same power invites pressure to choose traits and reject difference. Parents need support and treatment, not a market logic that ranks children before they can speak."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 69.79,
+   "end_sec": 72.52,
+   "dur_sec": 2.73,
+   "overlap": true,
+   "text": "I'll give you ten more seconds to nail this."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 70.27,
+   "end_sec": 77.88,
+   "dur_sec": 7.61,
+   "overlap": false,
+   "text": "Once society treats traits as upgrades, freedom narrows, and vulnerable children pay the price. That's all, thank you."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 78.08,
+   "end_sec": 89.84,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 90.04,
+   "end_sec": 101.08,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "If a child later rejects the traits you selected, who answers for taking that choice away? You cannot call that freedom while imposing a design before the child has any voice."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 101.368,
+   "end_sec": 113.208,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "Parents make countless choices through food, housing, and schooling, and unequal access to those basics deserves attention. But editing to prevent disease expands a child's options, so using it responsibly supports the motion."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 113.441,
+   "end_sec": 124.561,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Your comparison to food and schooling fails because those choices can be revised as a child grows. A genetic alteration follows the child throughout life, making imposed preferences far more serious."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 124.915,
+   "end_sec": 136.395,
+   "dur_sec": 11.48,
+   "overlap": false,
+   "text": "The bigger policy question is who controls clinics, prices, and access when powerful medical tools arrive. We need public oversight, affordable care, and rules against private gatekeepers deciding which families receive help."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 136.595,
+   "end_sec": 140.525,
+   "dur_sec": 3.93,
+   "overlap": false,
+   "text": "We're talking about whether we should use gene editing to make better babies."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 140.725,
+   "end_sec": 152.565,
+   "dur_sec": 11.84,
+   "overlap": false,
+   "text": "We are deciding whether gene editing should make better babies, and I say careful health improvements can do that. Fair access matters, but denying all families a safe tool leaves preventable suffering untouched."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.91,
+   "end_sec": 163.27,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "No embryo should ever be edited. Once people claim authority to improve a future child, they normalize judging human worth by chosen traits, and that danger outweighs promised convenience."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 164.185,
+   "end_sec": 175.225,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "You say no embryo should ever be edited, so would you deny an edit that removes a fatal inherited disorder? Why should a child bear avoidable suffering to preserve your rule?"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 176.175,
+   "end_sec": 186.535,
+   "dur_sec": 10.36,
+   "overlap": false,
+   "text": "This embryo should be edited. A fatal disorder can make a short life painful and bleak, and refusing relief abandons the child we claim to protect from the start."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 186.735,
+   "end_sec": 193.895,
+   "dur_sec": 7.16,
+   "overlap": false,
+   "text": "So one moment it's no embryo should ever be edited and the next moment it's this embryo should be edited?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 194.095,
+   "end_sec": 204.855,
+   "dur_sec": 10.76,
+   "overlap": false,
+   "text": "Both statements protect children: the first rejects editing as a social practice; the second refuses to let a child die untreated. The common principle is resisting harm, which favors opposition."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 205.339,
+   "end_sec": 215.419,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "No, those statements are not compatible: no embryo includes the embryo you would edit. Your retreat shows that preventing terrible harm matters, and responsible editing therefore deserves support."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 215.938,
+   "end_sec": 227.338,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I agree that preventing a fatal disorder is a powerful goal. But calling any child better invites a culture of ranking, and safeguards cannot erase pressure, so we should reject the motion."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 227.886,
+   "end_sec": 239.646,
+   "dur_sec": 11.76,
+   "overlap": false,
+   "text": "Consider parents carrying a gene that causes a child constant pain and early death. Editing that gene before birth could give that child ordinary health, proving careful gene editing can make lives better.",
+   "ext_file": "L095_ext_a32.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 229.84,
+   "end_sec": 232.16,
+   "dur_sec": 2.32,
+   "overlap": true,
+   "text": "Ten seconds left, both of you."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 239.84,
+   "end_sec": 248.04,
+   "dur_sec": 8.2,
+   "overlap": true,
+   "text": "Okay, time. And that concludes round two of this debate. We're going to go to closing arguments now. And so, first up, Malcolm."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 248.24,
+   "end_sec": 266.58,
+   "dur_sec": 18.34,
+   "overlap": false,
+   "text": "This debate asks whether we use careful knowledge to spare children avoidable harm. A child facing constant pain or early death deserves more than fear of misuse. With firm limits, gene editing can widen a child's future. That is why we should make better babies. That's all, thank you."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 266.78,
+   "end_sec": 269.43,
+   "dur_sec": 2.65,
+   "overlap": false,
+   "text": "Okay, thank you very much Malcolm for that. Frank."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 269.63,
+   "end_sec": 287.92,
+   "dur_sec": 18.29,
+   "overlap": false,
+   "text": "Better babies is not a medical goal; it is a judgment that some children need improvement. Even a good aim can create pressure, rankings, and irreversible choices made without consent. Care for children after they arrive, and prevent suffering without redesigning them. We should reject this motion. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 288.12,
+   "end_sec": 294.01,
+   "dur_sec": 5.89,
+   "overlap": false,
+   "text": "Thank you, Malcolm and Frank, for a thoughtful debate; that concludes our discussion of this motion today."
+  }
+ ]
+}

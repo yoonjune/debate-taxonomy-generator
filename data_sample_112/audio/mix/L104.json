@@ -1,0 +1,390 @@
+{
+ "debate_id": "L104",
+ "motion": "Taiwan is indefensible.",
+ "speakers": {
+  "MOD": {
+   "name": "Danielle",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_0894_483",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0894/MSP-PODCAST_0894_483.wav",
+   "wpm": 177.23
+  },
+  "PRO": {
+   "name": "Russell",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0640_980",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0640/MSP-PODCAST_0640_980.wav",
+   "wpm": 158.4
+  },
+  "CON": {
+   "name": "Jillian",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_3493_43",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_3/MSP-PODCAST_3493/MSP-PODCAST_3493_43.wav",
+   "wpm": 162.3
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1",
+  "B2"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 57.17,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 280.24,
+ "ext": {
+  "a32": {
+   "file": "L104_ext_a32.wav",
+   "place_at_sec": 195.72,
+   "dur_sec": 32.23,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "If strikes sever command links, isolated units may defend bravely but cannot coordinate scarce ammunition or shifting threats. An attacker exploits that confusion across the island. That proves defense can unravel."
+  },
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "On your isolated-units point, dispersed units are not helpless units. They can act independently, use preplanned tasks, and deny control locally. Your example shows why preparation makes Taiwan defensible."
+  },
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "Your weakest claim is that local denial automatically defeats conquest. Separate pockets can harass an occupier without protecting ports, homes, or national decision-making. Fragmented resistance is not a defensible island."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 15.28,
+   "dur_sec": 15.28,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, Taiwan is indefensible. Russell argues for the motion, and Jillian argues against it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire. We then have thirty-second closings, with a ten-second cue."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 15.48,
+   "end_sec": 31.62,
+   "dur_sec": 16.14,
+   "overlap": false,
+   "text": "Taiwan may resist, but resistance is not the same as being defensible. A stronger attacker can isolate it, disrupt supplies, and dictate the timing of any fight. When survival depends on outside rescue arriving under pressure, its defense is fundamentally insecure. That's all, thank you."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 31.82,
+   "end_sec": 33.42,
+   "dur_sec": 1.6,
+   "overlap": false,
+   "text": "Jillian, take the response."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 33.62,
+   "end_sec": 48.6,
+   "dur_sec": 14.98,
+   "overlap": false,
+   "text": "Indefensible means no workable defense, not merely a difficult one. Taiwan can prepare its terrain, population, and forces to make attack costly and uncertain. If an attacker cannot secure control without unacceptable risk, the island is defensible. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 48.8,
+   "end_sec": 60.49,
+   "dur_sec": 11.69,
+   "overlap": false,
+   "text": "And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 60.69,
+   "end_sec": 71.73,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "A blockade can stop fuel, food, and repair parts before a landing begins. Families and defenders then face shortages without a direct battle. That proves Taiwan can be coerced into defeat."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 72.247,
+   "end_sec": 82.437,
+   "dur_sec": 10.19,
+   "overlap": false,
+   "text": "On your blockade point, shortages are serious, but they do not equal surrender. Stockpiles, dispersed distribution, and local production can keep resistance alive. A blockade proves pressure, not indefensibility."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 83.31,
+   "end_sec": 93.39,
+   "dur_sec": 10.08,
+   "overlap": false,
+   "text": "Those stockpiles must move through ports, trucks, depots, and neighborhood delivery routes. Then officials must decide who receives scarce fuel first, and warehouse managers must track spoiled goods."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 93.59,
+   "end_sec": 98.91,
+   "dur_sec": 5.32,
+   "overlap": false,
+   "text": "But we're getting a little bit off the central question of whether taiwan is defensible."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 99.11,
+   "end_sec": 110.23,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "The central question is whether Taiwan can sustain defense against determined attack, and those supply links are vulnerable. Preparation merely creates targets an attacker can steadily exhaust. That leaves Taiwan indefensible."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 110.992,
+   "end_sec": 123.292,
+   "dur_sec": 12.3,
+   "overlap": false,
+   "text": "Civil defense also builds trust between neighbors, though training schedules and emergency radios are not the main issue. The main issue is whether control can be denied. Prepared communities make occupation and conquest far harder."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 123.752,
+   "end_sec": 133.752,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "No island facing a stronger power is ever defensible. Distance lets the stronger power choose blockade, strikes, or landing pressure while defenders wait. Taiwan faces that basic disadvantage."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 134.066,
+   "end_sec": 146.266,
+   "dur_sec": 12.2,
+   "overlap": false,
+   "text": "A defender using hidden coastal positions can force an approaching force to slow, scatter, and abandon exposed equipment. That delay lets local units respond and civilians move. It proves Taiwan can deny quick conquest."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 146.76,
+   "end_sec": 157.2,
+   "dur_sec": 10.44,
+   "overlap": false,
+   "text": "This island facing a stronger power is defensible. Its defenders can exploit difficult terrain and prepared positions, even while their wider situation remains grim. That still supports the motion."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "MOD",
+   "code": "B2",
+   "start_sec": 157.4,
+   "end_sec": 165.73,
+   "dur_sec": 8.33,
+   "overlap": false,
+   "text": "One moment you're saying no island facing a stronger power is ever defensible, then you're having them this island facing a stronger power is defensible. Which?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 165.93,
+   "end_sec": 177.33,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I mean the first claim as a judgment about lasting military survival, while the second describes defenses that impose costs. Both can be true because costly resistance does not produce secure defense."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 178.087,
+   "end_sec": 188.267,
+   "dur_sec": 10.18,
+   "overlap": false,
+   "text": "I grant that outside help may arrive slowly, but your main claim wrongly treats delay as defeat. A defender needs only prevent lasting control, and Taiwan can make control-"
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.367,
+   "end_sec": 198.487,
+   "dur_sec": 11.12,
+   "overlap": true,
+   "text": "How can denying lasting control matter if civilians lose fuel, communications, and safe movement first? Your standard ignores the human cost of waiting for an attacker to leave. That confirms indefensibility."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 199.04,
+   "end_sec": 209.31,
+   "dur_sec": 10.27,
+   "overlap": false,
+   "text": "No, denying control does not ignore civilians; it protects them from imposed rule. Your human-cost premise assumes collapse is inevitable. Organized local defense preserves choices and makes conquest fail.",
+   "ext_file": "L104_ext_a32.wav"
+  },
+  {
+   "i": 19,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 200.49,
+   "end_sec": 203.13,
+   "dur_sec": 2.64,
+   "overlap": true,
+   "text": "Ten seconds to go in this round."
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 210.49,
+   "end_sec": 218.27,
+   "dur_sec": 7.78,
+   "overlap": true,
+   "text": "We've come up against the clock, so we're going to move now to our closing statements. Russell, the stage is all yours."
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 218.47,
+   "end_sec": 237.53,
+   "dur_sec": 19.06,
+   "overlap": false,
+   "text": "Jillian's best argument is that preparation can deny an attacker quick control. But slowing an attack is not the same as securing survival. Taiwan remains dependent on vulnerable supply lines and outside decisions. Those weaknesses let a stronger power choose pressure until defense fails."
+  },
+  {
+   "i": 22,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 237.73,
+   "end_sec": 249.77,
+   "dur_sec": 12.04,
+   "overlap": false,
+   "text": "The question is not whether defenders can fight courageously. It is whether they can reliably prevent coercion, isolation, and eventual loss of control. When every lifeline can be squeezed-",
+   "cut_at_sec": 246.45,
+   "full_dur_sec": 14.08,
+   "ext_file": "L104_026.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 238.47,
+   "end_sec": 240.07,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Ten seconds, ten seconds."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 248.97,
+   "end_sec": 251.21,
+   "dur_sec": 2.24,
+   "overlap": true,
+   "text": "That's time, Russell. Thank you. Jillian."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 251.41,
+   "end_sec": 271.69,
+   "dur_sec": 20.28,
+   "overlap": false,
+   "text": "This decision turns on what indefensible actually means. Russell shows that Taiwan faces danger, isolation, and painful tradeoffs, but danger is not impossibility. Defense succeeds when it denies an attacker reliable control at acceptable risk. Prepared people, dispersed forces, and difficult access can do exactly that."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 271.41,
+   "end_sec": 272.65,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds warning."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 271.89,
+   "end_sec": 279.43,
+   "dur_sec": 7.54,
+   "overlap": false,
+   "text": "A hard defense remains a defense, so Taiwan is not indefensible. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 279.63,
+   "end_sec": 285.33,
+   "dur_sec": 5.7,
+   "overlap": false,
+   "text": "Thank you, Russell and Jillian, for a thoughtful debate. That concludes our discussion of this motion."
+  }
+ ]
+}

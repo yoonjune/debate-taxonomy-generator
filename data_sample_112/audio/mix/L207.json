@@ -1,0 +1,452 @@
+{
+ "debate_id": "L140",
+ "motion": "The FTC should ban noncompete clauses.",
+ "speakers": {
+  "MOD": {
+   "name": "Jeremy",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_3001_778",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_3001/MSP-PODCAST_3001_778.wav",
+   "wpm": 164.22
+  },
+  "PRO": {
+   "name": "Rachel",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_2474_405",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_2/MSP-PODCAST_2474/MSP-PODCAST_2474_405.wav",
+   "wpm": 165.72
+  },
+  "CON": {
+   "name": "Nigel",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0666_828",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0666/MSP-PODCAST_0666_828.wav",
+   "wpm": 171.12
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "A5"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 81.74,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 319.93,
+ "ext": {
+  "a32": {
+   "file": "L140_ext_a32.wav",
+   "place_at_sec": 230.476,
+   "dur_sec": 23.9,
+   "src_i": 23
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 24,
+   "speaker": "CON",
+   "slot": "X15",
+   "text": "Your unequal-power point assumes workers cannot decide what serves them. Some may value immediate pay or specialized access more than unrestricted movement, and a federal ban would erase their ability to make that trade."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 21.3,
+   "dur_sec": 21.3,
+   "overlap": false,
+   "text": "Welcome to our debate on whether the FTC should ban noncompete clauses. Rachel supports the motion, and Nigel opposes it. Each speaker has thirty seconds for an opening, followed by two and a half minutes of crossfire, then thirty-second closings. I will give a ten-second cue before each timed section ends; please address the motion directly and let your opponent speak."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 21.5,
+   "end_sec": 31.27,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "Noncompete clauses trap people in jobs they need to leave. When a worker cannot change employers, bargaining power disappears, and better pay becomes an empty promise because."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 30.37,
+   "end_sec": 32.67,
+   "dur_sec": 2.3,
+   "overlap": true,
+   "text": "You cannot pretend every agreement is coercion-",
+   "cut_at_sec": 32.67,
+   "full_dur_sec": 8.41,
+   "ext_file": "L140_002.wav"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "MOD",
+   "code": "A5",
+   "start_sec": 31.87,
+   "end_sec": 33.06,
+   "dur_sec": 1.19,
+   "overlap": true,
+   "text": "Let her finish."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 33.26,
+   "end_sec": 43.58,
+   "dur_sec": 10.32,
+   "overlap": false,
+   "text": "because a clause can block the next job, even after someone has learned all they can. Employers can protect genuine secrets without owning a worker's future."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 41.5,
+   "end_sec": 44.42,
+   "dur_sec": 2.92,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 43.78,
+   "end_sec": 51.58,
+   "dur_sec": 7.8,
+   "overlap": false,
+   "text": "A ban restores the freedom to leave, compete, and build a better working life. That's all, thank you."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 51.78,
+   "end_sec": 54.28,
+   "dur_sec": 2.5,
+   "overlap": false,
+   "text": "I want to give the floor to Nigel."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 54.48,
+   "end_sec": 71.75,
+   "dur_sec": 17.27,
+   "overlap": false,
+   "text": "A blanket ban treats careful agreements like abuse. Small firms may teach skills and reveal future plans to someone who can immediately carry them to a rival. Targeted rules against coercion make sense; a total ban removes choice from workers and employers alike. That's all, thank you."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 71.95,
+   "end_sec": 85.52,
+   "dur_sec": 13.57,
+   "overlap": false,
+   "text": "Now we're gonna move into the second section of the evening. And that's where the debaters can talk directly to one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 85.72,
+   "end_sec": 95.49,
+   "dur_sec": 9.77,
+   "overlap": false,
+   "text": "If a worker receives specialized training and access to sensitive plans, why should an employer be unable to negotiate a narrow noncompete that protects that investment after departure?"
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 96.255,
+   "end_sec": 107.375,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "It should not be unable to protect secrets, but a noncompete is the wrong tool because it blocks ordinary work. Use confidentiality promises and trade-secret enforcement, not a restraint on earning."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 108.134,
+   "end_sec": 119.504,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "Your wrong-tool point ignores that secrecy rules punish only after damage occurs. A narrow noncompete can prevent a trusted worker from using fresh knowledge against the firm before the loss is irreversible."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 120.363,
+   "end_sec": 130.003,
+   "dur_sec": 9.64,
+   "overlap": false,
+   "text": "The weakest claim is that employers need control over a former worker's job to guard knowledge. Real secrets can be protected; ordinary skill belongs to the worker."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 130.581,
+   "end_sec": 141.071,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "When a firm gives a worker unusual access to confidential plans, a voluntary, limited noncompete can fairly protect that access. Banning it even there denies both parties a useful bargain."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 141.421,
+   "end_sec": 153.861,
+   "dur_sec": 12.44,
+   "overlap": false,
+   "text": "I agree that confidential plans deserve protection. But you are defending a clause that reaches beyond secrecy and keeps people from switching jobs; protecting information cannot justify banning mobility, so the FTC should ban noncompetes."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 154.213,
+   "end_sec": 164.703,
+   "dur_sec": 10.49,
+   "overlap": false,
+   "text": "Businesses need reliable ways to protect the value they create, and contracts often let workers and firms set expectations together. Government should not erase that freedom through a blanket ban."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 165.542,
+   "end_sec": 176.942,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "I reject the premise that a signature makes this freedom equal; a person needing work cannot bargain as an employer can. Contracts set pay, schedules, and benefits, but they should not set-"
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 176.042,
+   "end_sec": 187.172,
+   "dur_sec": 11.13,
+   "overlap": true,
+   "text": "They should not set careers, exactly, yet that does not mean every noncompete is oppressive. A short, tailored agreement can let a small firm invest confidently, which benefits the worker it trains."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 187.466,
+   "end_sec": 198.576,
+   "dur_sec": 11.11,
+   "overlap": false,
+   "text": "People worry about hiring paperwork, from benefit forms to vague job titles. But this motion is narrower: a clause barring future work gives employers leverage workers cannot safely ignore, so ban it."
+  },
+  {
+   "i": 20,
+   "src_i": 20,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 199.06,
+   "end_sec": 210.67,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "Imagine a tiny shop teaches a new hire its private process, then she leaves and recreates it for a rival. A narrow noncompete prevents that unfair transfer, proving a ban goes too far."
+  },
+  {
+   "i": 21,
+   "src_i": 21,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 210.955,
+   "end_sec": 221.625,
+   "dur_sec": 10.67,
+   "overlap": false,
+   "text": "I accept that stolen secrets can hurt a small firm. Yet your example needs rules against copying, not rules locking her out of her field, so the FTC should ban noncompetes."
+  },
+  {
+   "i": 22,
+   "src_i": 22,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 222.459,
+   "end_sec": 233.829,
+   "dur_sec": 11.37,
+   "overlap": false,
+   "text": "If restrictions on future work are always unfair, why can a worker not choose one for a higher wage, stronger training, or access to sensitive responsibilities that otherwise would not be offered?"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 225.52,
+   "end_sec": 227.9,
+   "dur_sec": 2.38,
+   "overlap": true,
+   "text": "Ten seconds left in this round."
+  },
+  {
+   "i": 24,
+   "src_i": 23,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 234.256,
+   "end_sec": 236.32,
+   "dur_sec": 2.064,
+   "overlap": false,
+   "text": "Because freedom to earn a living should not-",
+   "ext_file": "L140_ext_a32.wav",
+   "cut_at_sec": 232.54,
+   "full_dur_sec": 11.77
+  },
+  {
+   "i": 25,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 235.52,
+   "end_sec": 247.85,
+   "dur_sec": 12.33,
+   "overlap": true,
+   "text": "Time's up. So onto round three. Round three, closing statements from each debater in turn, uninterrupted. And here to summarize her position in support of the FTC should ban noncompete clauses in employment contracts, Rachel."
+  },
+  {
+   "i": 26,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 248.05,
+   "end_sec": 267.44,
+   "dur_sec": 19.39,
+   "overlap": false,
+   "text": "Your best argument is that firms need protection for genuine secrets and investments. They do, but protecting information is not the same as controlling a person's next job. Confidentiality duties and remedies for theft address misuse directly. A noncompete instead punishes departure itself, especially when a worker needs a safer or better position."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 267.64,
+   "end_sec": 279.35,
+   "dur_sec": 11.71,
+   "overlap": false,
+   "text": "The question is whether the FTC should ban this restraint, not whether secrets matter. Workers carry their experience with them, and no employer should fence off an entire field. Give firms tools against theft, but give people-",
+   "cut_at_sec": 275.57,
+   "full_dur_sec": 14.49,
+   "ext_file": "L140_029.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 268.05,
+   "end_sec": 269.89,
+   "dur_sec": 1.84,
+   "overlap": true,
+   "text": "You have ten seconds left."
+  },
+  {
+   "i": 29,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 278.55,
+   "end_sec": 281.41,
+   "dur_sec": 2.86,
+   "overlap": true,
+   "text": "Rachel, you're rather going on. Thank you. Nigel."
+  },
+  {
+   "i": 30,
+   "src_i": 31,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 281.61,
+   "end_sec": 302.42,
+   "dur_sec": 20.81,
+   "overlap": false,
+   "text": "The strongest reason to reject this ban is simple: not every noncompete is a trap. A narrow agreement can let a firm share sensitive plans, teach valuable skills, and hire with confidence. The other side offers after-the-fact remedies, but once a private process is copied, the loss cannot be neatly undone. Workers benefit when employers safely make those investments."
+  },
+  {
+   "i": 31,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 301.61,
+   "end_sec": 302.83,
+   "dur_sec": 1.22,
+   "overlap": true,
+   "text": "Well, now ten."
+  },
+  {
+   "i": 32,
+   "src_i": 33,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 302.62,
+   "end_sec": 312.91,
+   "dur_sec": 10.29,
+   "overlap": false,
+   "text": "A blanket rule removes options from people who want a limited deal and firms that need trust. Better enforcement can punish coercion and misuse. The FTC should not ban every noncompete-",
+   "cut_at_sec": 309.13,
+   "full_dur_sec": 14.09,
+   "ext_file": "L140_033.wav"
+  },
+  {
+   "i": 33,
+   "src_i": 34,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 312.11,
+   "end_sec": 316.44,
+   "dur_sec": 4.33,
+   "overlap": true,
+   "text": "I'm sorry. Your time is up. Thank you very much."
+  },
+  {
+   "i": 34,
+   "src_i": 35,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 316.64,
+   "end_sec": 323.71,
+   "dur_sec": 7.07,
+   "overlap": false,
+   "text": "Thank you, Rachel and Nigel, for a thoughtful exchange, and thank you for joining this debate on the motion."
+  }
+ ]
+}

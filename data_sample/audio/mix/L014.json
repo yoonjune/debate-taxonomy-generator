@@ -1,0 +1,387 @@
+{
+ "debate_id": "L014",
+ "motion": "Obama’s Economic Policies Are Working Effectively",
+ "speakers": {
+  "MOD": {
+   "name": "Mira",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_6492_36",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_6/MSP-PODCAST_6492/MSP-PODCAST_6492_36.wav",
+   "wpm": 120.03
+  },
+  "PRO": {
+   "name": "Nick",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_5548_380",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5548/MSP-PODCAST_5548_380.wav",
+   "wpm": 161.43
+  },
+  "CON": {
+   "name": "Amy",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_5920_66",
+   "wav16k": "/home/dongwook_lee/ICLR2027/data/NaturalVoices_VC_870h/part_5/MSP-PODCAST_5920/MSP-PODCAST_5920_66.wav",
+   "wpm": 171.3
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 81.571,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 302.05,
+ "ext": {
+  "a32": {
+   "file": "L014_ext_a32.wav",
+   "place_at_sec": 219.261,
+   "dur_sec": 31.459,
+   "src_i": 19
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 20,
+   "speaker": "PRO",
+   "slot": "X13",
+   "text": "Your point about unresolved hardship does not erase measurable improvement. Effective policy can reduce damage, protect stability, and create room for recovery even while further work remains necessary."
+  },
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "If success means only avoiding a worse crisis, what result would ever count as failure, and why should anyone call these policies effective when lasting security remains unproven?"
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 17.647,
+   "dur_sec": 17.647,
+   "overlap": false,
+   "text": "Tonight's motion is whether Obama's economic policies are working effectively. Nick argues for the motion, and Amy argues against it. Each debater gets thirty seconds to open, then we have two and a half minutes of crossfire, followed by thirty-second closings. I will give a ten-second cue before each limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.847,
+   "end_sec": 37.804,
+   "dur_sec": 19.956,
+   "overlap": false,
+   "text": "Obama's policies have kept the economy moving toward recovery by supporting jobs, protecting families, and preventing another collapse. The approach is not perfect, but it has steadied demand while giving businesses room to plan. That matters because effective policy is measured by practical improvement, not by whether every problem disappears. I'll show why that balance matters."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 37.847,
+   "end_sec": 38.906,
+   "dur_sec": 1.059,
+   "overlap": true,
+   "text": "Nick, ten seconds."
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 38.004,
+   "end_sec": 49.147,
+   "dur_sec": 11.143,
+   "overlap": false,
+   "text": "The gains also reach ordinary households through support that helps people stay afloat, keeps spending from freezing, and gives employers confidence to keep hiring. Those-",
+   "cut_at_sec": 49.147,
+   "full_dur_sec": 14.043,
+   "ext_file": "L014_003.wav"
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 48.347,
+   "end_sec": 50.818,
+   "dur_sec": 2.471,
+   "overlap": true,
+   "text": "Your time is up. Thank you. Amy."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.018,
+   "end_sec": 69.018,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "Those claims confuse limited relief with effective economic policy. People still face weak security, heavy costs, and uncertain prospects, while the government has not shown that its choices create durable growth. A policy can prevent immediate disaster and still fail to work effectively."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.218,
+   "end_sec": 81.571,
+   "dur_sec": 12.353,
+   "overlap": false,
+   "text": "Now we're gonna move into the second section of the evening. And that's where the debaters can talk directly to one another. It runs two and a half minutes, starting the moment I stop. Go."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 81.771,
+   "end_sec": 92.712,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "Your point about practical improvement is too vague. Avoiding collapse is a low standard, and temporary support does not prove effective policy when families remain exposed to the same economic weaknesses."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 93.354,
+   "end_sec": 104.295,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "If these policies only offered temporary relief, why did they also restore confidence and support hiring? Can you name a better measure of effective policy than recovery people can actually feel?"
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 104.802,
+   "end_sec": 117.861,
+   "dur_sec": 13.059,
+   "overlap": false,
+   "text": "Confidence can rise because fear falls, and that is not the same as lasting strength. Businesses also need stable rules and predictable costs, but the motion asks whether Obama's policies are working effectively, and they are not."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 118.72,
+   "end_sec": 129.661,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "When policy is judged by near-term stability, Obama's measures are effective because they keep demand from collapsing and give households time to recover. That is the relevant condition during a downturn."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 130.599,
+   "end_sec": 141.54,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "Consider a family whose bills rise while its work remains uncertain despite government support. That example shows the policy has softened pressure without making the economy work effectively for ordinary people."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 141.768,
+   "end_sec": 151.65,
+   "dur_sec": 9.882,
+   "overlap": false,
+   "text": "Effective policy can be recognized across the broader economy even when some households still struggle. A recovery need not solve every private hardship to be working effectively overall."
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 152.471,
+   "end_sec": 163.412,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "Your broader-economy point moves the goalposts. Calling a policy effective overall while admitting households remain insecure hides the central test: whether the policy delivers dependable improvement, not merely a softer decline."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 164.316,
+   "end_sec": 176.316,
+   "dur_sec": 12.0,
+   "overlap": false,
+   "text": "That broader effect also shaped how employers planned, invested, and retained workers instead of shutting down. Earlier administrations faced similar downturns and chose different responses, leaving long arguments about which recovery path was wiser."
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 176.516,
+   "end_sec": 184.634,
+   "dur_sec": 8.118,
+   "overlap": false,
+   "text": "What we are talking about here is whether obama's economic policies are working effectively for the country. We're not going back into history."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 184.834,
+   "end_sec": 196.128,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "The motion asks whether Obama's policies worked effectively, and they did by stabilizing demand, protecting jobs, and rebuilding confidence. Their success does not require perfect results; it requires a clear net improvement."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 196.782,
+   "end_sec": 207.723,
+   "dur_sec": 10.941,
+   "overlap": false,
+   "text": "The weakest claim is that rebuilding confidence proves success. Confidence is an impression, not an outcome, and your argument never shows that the improvement lasted or reached people facing stagnant security."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 208.39,
+   "end_sec": 218.978,
+   "dur_sec": 10.588,
+   "overlap": false,
+   "text": "Support for struggling homeowners kept more families in their homes and reduced the shock spreading through neighborhoods. That example shows policy worked by protecting demand and limiting wider economic damage."
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 219.261,
+   "end_sec": 230.555,
+   "dur_sec": 11.294,
+   "overlap": false,
+   "text": "I grant that emergency support prevented some immediate harm. But preventing the worst outcome is not the same as working effectively, and the broader record still shows fragile growth and unresolved hardship.",
+   "ext_file": "L014_ext_a32.wav"
+  },
+  {
+   "i": 20,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 221.571,
+   "end_sec": 222.982,
+   "dur_sec": 1.412,
+   "overlap": true,
+   "text": "You have ten seconds."
+  },
+  {
+   "i": 21,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 231.571,
+   "end_sec": 242.159,
+   "dur_sec": 10.588,
+   "overlap": true,
+   "text": "It's time to bring this home with closing remarks. This is where the debaters get to make a summary closing statement. And, Nick, you have the floor on this one."
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 242.359,
+   "end_sec": 260.359,
+   "dur_sec": 18.0,
+   "overlap": false,
+   "text": "Obama's economic policies worked because they stabilized demand, protected families, and helped employers keep moving. Amy sets an impossible standard by requiring every hardship to vanish. Effective policy means producing broad, practical progress, and these policies did that."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 260.559,
+   "end_sec": 262.323,
+   "dur_sec": 1.765,
+   "overlap": false,
+   "text": "Just one brief comment, Amy."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 262.523,
+   "end_sec": 282.48,
+   "dur_sec": 19.956,
+   "overlap": false,
+   "text": "Nick's case rests on lowering the standard until survival looks like success. Preventing collapse matters, but effective economic policy should create lasting security, dependable opportunity, and stronger household finances. Obama's policies offered temporary support while leaving deep weaknesses in place. Relief is not the same as a working economy."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 282.523,
+   "end_sec": 283.582,
+   "dur_sec": 1.059,
+   "overlap": true,
+   "text": "Ten seconds, Amy."
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 282.68,
+   "end_sec": 293.823,
+   "dur_sec": 11.143,
+   "overlap": false,
+   "text": "The question is not whether some people received help. It is whether the policies worked effectively for the economy as a whole. On that test, uncertainty and fragile-",
+   "cut_at_sec": 293.823,
+   "full_dur_sec": 14.043,
+   "ext_file": "L014_028.wav"
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 293.023,
+   "end_sec": 295.494,
+   "dur_sec": 2.471,
+   "overlap": true,
+   "text": "Thank you, Amy. Your time is up."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 295.694,
+   "end_sec": 302.047,
+   "dur_sec": 6.353,
+   "overlap": false,
+   "text": "Thank you both for a thoughtful debate. This discussion is now closed, with the question left for listeners."
+  }
+ ]
+}

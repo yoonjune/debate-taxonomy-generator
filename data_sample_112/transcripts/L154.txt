@@ -1,0 +1,44 @@
+L154  |  Retail Alliances – Not Washington – Will Save the U.S. Health Care System
+  MOD=Melissa   PRO=Rima   CON=Alina
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Melissa(MOD): Welcome to our debate on whether retail alliances, not Washington, will save the U.S. health care system. Rima supports the motion, and Alina opposes it. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue. Please address it directly, respectfully, and clearly today.
+[t01] Rima(PRO): Retail alliances can unite clinics, pharmacies, and local care teams around the person's daily needs. They can make appointments simpler, share responsibility, and prevent problems before they become crises. Washington can set rules, but alliances can actually coordinate care where people live, so care becomes a relationship rather than a maze.
+[t02] Rima(PRO): That practical coordination, rather than distant command, is why retail alliances can save this system. That's all, thank you.
+[t03] @A4 <ovl> Melissa(MOD): I can give you ten seconds to do this.
+[t04] @A2-2 Melissa(MOD): All right, so let me bring Alina.
+[t05] Alina(CON): That promise assumes retailers can put patients before sales, which is exactly the question. A health system needs fair access, durable standards, and public accountability, not competing brands deciding care. Alliances may help at the edges, but Washington is needed to protect everyone. How do you prevent cherry-picking? That's all, thank you.
+
+--- phase 2 ---
+[t06] @A3-1 Melissa(MOD): Now we go on to round two, where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t07] Alina(CON): They cannot prevent cherry-picking without a public backstop. Paying for community health sounds good, but retailers can leave thin-margin areas, so Washington remains necessary to protect equal care.
+[t08] Rima(PRO): When an alliance must accept every customer in its service area, it can align convenience with prevention. It earns trust by making care reachable, while distant policy cannot organize every handoff.
+[t09] Alina(CON): Waiting rooms also reflect staffing pressures, wages, and whether workers get predictable shifts. Those matter, but the motion is about saving care, and private alliances cannot guarantee equal access for every patient.
+[t10] <cut> Rima(PRO): Your weakest claim is that equal access requires Washington. Rules may demand access, yet they do not create a nearby appointment, a trusted nurse, or a shared record when-
+[t11] <ovl> Alina(CON): No, a shared record is not care by itself. Without public safeguards, an alliance can steer people toward profitable services and neglect costly needs, leaving the system less fair for families.
+[t12] Rima(PRO): Retail alliances can save the system because they put care within ordinary routines and make prevention practical. Their local relationships are the engine policy alone has never built.
+[t13] Alina(CON): No, local relationships do not prove retailers can save the system. They can improve a visit, but only Washington can require coverage when serving most patients costs money.
+[t14] Rima(PRO): The real test is whether workers at the checkout can get steady schedules, paid breaks, and training for new software. If shifts change overnight, families cannot plan childcare or meals.
+[t15] @B1 Melissa(MOD): But we're asking retail alliances not Washington will save U.S. health care. That's the question here.
+[t16] Rima(PRO): The question is whether retail alliances, not Washington, will save health care, and they can by linking everyday access with follow-up. Rigid rules cannot build the trusted connections that prevent avoidable crises.
+[t17] Alina(CON): Your weakest point is that rules cannot build trust. Trust collapses when a family loses coverage or faces a denied service, and only Washington can guarantee a remedy.
+[t18] Rima(PRO): On your coverage point, public guarantees matter, but they do not deliver timely care by themselves. Alliances make guarantees usable through nearby help, shared follow-up, and simpler choices.
+[t19] Alina(CON): I agree nearby help can make care easier. But convenience without enforceable duties lets providers choose profitable neighborhoods, so a national public framework remains the system's safeguard.
+[t20] Rima(PRO): No, enforceable duties need not mean Washington saves the system. Alliances can accept public standards while doing the saving work: coordinating care people can actually use every day.
+[t21] @A4 <ovl> Melissa(MOD): Ten seconds left in this round.
+[t22] <cut> Alina(CON): Imagine a rural family whose local retailer closes its clinic after costs-
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Melissa(MOD): And that's time. And that concludes round two. And now we're going to move on to round three. Here to argue in her closing statement, in support of this motion, Rima.
+[t24] Rima(PRO): Alina is right that people need protection when care is costly, but she mistakes a guardrail for the whole engine. Washington can require fairness; retail alliances save the system by making prevention, follow-up, and navigation happen in ordinary life. That is how broad promises become real care before problems deepen.
+[t25] @A4 <ovl> Melissa(MOD): You've got ten seconds.
+[t26] Rima(PRO): Saving health care means delivering coordinated care daily, and alliances are built to do that. That's all, thank you.
+[t27] @A2-2 Melissa(MOD): Then Alina, it's yours.
+[t28] Alina(CON): The strongest point remains accountability. A retailer can leave when care becomes inconvenient, while public rules remain answerable to every patient who needs it.
+[t29] <ovl> <cut> Rima(PRO): But your rules do not keep a clinic open-
+[t30] @A5 <ovl> Melissa(MOD): Please could you let her finish, please?
+[t31] Alina(CON): Every patient needs it, especially when serving them is expensive. That is why public accountability, rather than voluntary retail priorities, must save the system.
+[t32] @A4 <ovl> Melissa(MOD): Ten.
+[t33] Alina(CON): Retail alliances can assist, but Washington alone can secure care for everyone, so reject the motion. That's all, thank you.
+[t34] Melissa(MOD): Thank you, Rima and Alina, for a thoughtful debate. This concludes our discussion of the motion today.

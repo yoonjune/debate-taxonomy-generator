@@ -1,0 +1,406 @@
+{
+ "debate_id": "L162",
+ "motion": "The Art Market is Less Ethical Than the Stock Market",
+ "speakers": {
+  "MOD": {
+   "name": "Brian",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6676_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6676/MSP-PODCAST_6676_448.wav",
+   "wpm": 170.22
+  },
+  "PRO": {
+   "name": "Karen",
+   "gender": "Female",
+   "voice_id": "MSP-PODCAST_1495_875",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_1/MSP-PODCAST_1495/MSP-PODCAST_1495_875.wav",
+   "wpm": 167.56
+  },
+  "CON": {
+   "name": "Jack",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_0666_828",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_0/MSP-PODCAST_0666/MSP-PODCAST_0666_828.wav",
+   "wpm": 171.12
+  }
+ },
+ "selective": [
+  "A1",
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 81.18,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 315.37,
+ "ext": {
+  "a32": {
+   "file": "L162_ext_a32.wav",
+   "place_at_sec": 219.152,
+   "dur_sec": 35.82,
+   "src_i": 18
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 19,
+   "speaker": "PRO",
+   "slot": "X12",
+   "text": "That example does not prove the wider art market is accountable, because one careful sale cannot erase routine secrecy. Written records help, yet hidden commissions and selective histories still make art less ethical."
+  },
+  {
+   "src_i": 20,
+   "speaker": "CON",
+   "slot": "X13",
+   "text": "Why should private negotiation itself count as an ethical defect when both parties can refuse the deal? Isn't voluntary agreement a safeguard that can make art trading ethically sound?"
+  },
+  {
+   "src_i": 21,
+   "speaker": "PRO",
+   "slot": "X14",
+   "text": "Voluntary agreement is valuable, and I grant that buyers can walk away. But refusal is not informed when key relationships and incentives stay hidden, which leaves the art market less ethical."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 18.88,
+   "dur_sec": 18.88,
+   "overlap": false,
+   "text": "Welcome to our debate on the motion, the art market is less ethical than the stock market. Karen speaks for the motion, and Jack speaks against it. Each opening and closing lasts thirty seconds, followed by two and a half minutes of crossfire. I will give a ten-second cue before each speaking limit."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 19.08,
+   "end_sec": 37.73,
+   "dur_sec": 18.65,
+   "overlap": false,
+   "text": "The art market often asks buyers to trust private stories, private prices, and private relationships. That makes conflicts of interest easier to hide than in the stock market. A dealer can shape both an object's value and the account of its history. Buyers may not know who profits at each step."
+  },
+  {
+   "i": 2,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 37.93,
+   "end_sec": 48.53,
+   "dur_sec": 10.6,
+   "overlap": false,
+   "text": "Stock trading has flaws, but it uses clearer disclosures and visible records. In art, secrecy is often treated as normal business practice. That's all, thank you."
+  },
+  {
+   "i": 3,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 39.08,
+   "end_sec": 40.21,
+   "dur_sec": 1.13,
+   "overlap": true,
+   "text": "Ten seconds."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 48.73,
+   "end_sec": 51.29,
+   "dur_sec": 2.56,
+   "overlap": false,
+   "text": "OK. Jack, you wanted to come in."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.49,
+   "end_sec": 69.4,
+   "dur_sec": 17.91,
+   "overlap": false,
+   "text": "Secrecy can be troubling, but it does not make an entire market less ethical. Art buyers can inspect the work, negotiate directly, and decline a deal. Stock investors also face opaque corporate choices and distant decision-makers. Ethics depends on conduct, not the asset being sold. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.6,
+   "end_sec": 84.88,
+   "dur_sec": 15.28,
+   "overlap": false,
+   "text": "And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 85.08,
+   "end_sec": 96.69,
+   "dur_sec": 11.61,
+   "overlap": false,
+   "text": "If an art dealer represents both seller and buyer while keeping that role quiet, how can either side judge whether the price is fair? That hidden conflict makes the art market less ethical."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 97.426,
+   "end_sec": 111.026,
+   "dur_sec": 13.6,
+   "overlap": false,
+   "text": "I agree that undisclosed dual representation is wrong. But you treat it as the market's defining feature, while stock buyers can also be harmed by insiders and managers they cannot question. That does not make art less ethical."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 111.442,
+   "end_sec": 125.402,
+   "dur_sec": 13.96,
+   "overlap": false,
+   "text": "Public policy should therefore fund independent appraisal training and require cultural venues to publish their acquisition budgets. Communities also need stronger support for small artists who cannot afford advisers. Those funding choices should prioritize fair access to creative careers."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 125.602,
+   "end_sec": 136.732,
+   "dur_sec": 11.13,
+   "overlap": false,
+   "text": "But you're on that side of the motion, that's the one that you are supporting. the art market is less ethical than the stock market. That's the side that you are on."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 136.932,
+   "end_sec": 148.562,
+   "dur_sec": 11.63,
+   "overlap": false,
+   "text": "The question is whether the art market is less ethical than the stock market, and concealed conflicts make it so. Its customs can leave buyers unsure of price, ownership, and the seller's real interest."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 149.433,
+   "end_sec": 163.753,
+   "dur_sec": 14.32,
+   "overlap": false,
+   "text": "Consider an artist selling a painting directly to a neighbor: they agree on a price, inspect the work, and know each other. A stock buyer may own a company shaped by unseen managers, which proves art can be more accountable-"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 162.853,
+   "end_sec": 173.313,
+   "dur_sec": 10.46,
+   "overlap": true,
+   "text": "No, Jack, a friendly direct sale is not the art market's difficult case. The motion concerns the broader system, where intermediaries can conceal commissions and ownership, making art less ethical."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 174.072,
+   "end_sec": 184.752,
+   "dur_sec": 10.68,
+   "overlap": false,
+   "text": "If disclosure is your standard, why call art less ethical rather than demand better disclosure from particular dealers? Does a transparent gallery sale become unethical merely because it is art?"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 185.557,
+   "end_sec": 196.667,
+   "dur_sec": 11.11,
+   "overlap": false,
+   "text": "A transparent gallery sale can be fair, and I grant that. But the main problem is that opacity is tolerated more readily across art dealing, so the art market remains less ethical."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 197.418,
+   "end_sec": 209.508,
+   "dur_sec": 12.09,
+   "overlap": false,
+   "text": "Artists also need protection from unfair copying and pressure, which is a serious related concern. But returning to this motion, stock markets can distance owners from consequences, so art is not inherently less ethical."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 210.31,
+   "end_sec": 222.16,
+   "dur_sec": 11.85,
+   "overlap": false,
+   "text": "Your point about distant stock owners does not answer concealed art transactions. Stock ownership may be remote, but art participants can hide the very facts needed to assess a sale, making art less ethical."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 222.852,
+   "end_sec": 235.68,
+   "dur_sec": 12.828,
+   "overlap": false,
+   "text": "A buyer can purchase a painting after seeing it, meeting the seller, and receiving a written ownership record. That direct accountability is harder when a stockholder cannot meet corporate leaders. It proves art need not be less-",
+   "ext_file": "L162_ext_a32.wav",
+   "cut_at_sec": 231.98,
+   "full_dur_sec": 13.45
+  },
+  {
+   "i": 19,
+   "src_i": 22,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 224.88,
+   "end_sec": 226.81,
+   "dur_sec": 1.93,
+   "overlap": true,
+   "text": "Ten seconds remaining in this round."
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 234.88,
+   "end_sec": 243.44,
+   "dur_sec": 8.56,
+   "overlap": true,
+   "text": "And that's time. Now we move on to round three. And round three are closing statements by each debater in turn. Here is Karen."
+  },
+  {
+   "i": 21,
+   "src_i": 24,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 243.64,
+   "end_sec": 263.3,
+   "dur_sec": 19.66,
+   "overlap": false,
+   "text": "This decision turns on whether ordinary participants can see the interests shaping a transaction. In art, price, ownership, and commissions may remain concealed behind trusted intermediaries. Jack rightly noted that transparent sales exist. Yet isolated good sales do not cure a system that accepts opacity as routine."
+  },
+  {
+   "i": 22,
+   "src_i": 26,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 263.5,
+   "end_sec": 274.94,
+   "dur_sec": 11.44,
+   "overlap": false,
+   "text": "The stock market has serious ethical failures, but its basic structure demands more public information and clearer reporting. Art dealing too often makes secrecy part of the bargain. When people cannot identify-",
+   "cut_at_sec": 271.24,
+   "full_dur_sec": 16.33,
+   "ext_file": "L162_026.wav"
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 263.64,
+   "end_sec": 265.24,
+   "dur_sec": 1.6,
+   "overlap": true,
+   "text": "Well, now it's ten."
+  },
+  {
+   "i": 24,
+   "src_i": 27,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 274.14,
+   "end_sec": 280.07,
+   "dur_sec": 5.93,
+   "overlap": true,
+   "text": "Your time is up, Karen. Thank you. And here to summarize his position against the motion, Jack."
+  },
+  {
+   "i": 25,
+   "src_i": 28,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 280.27,
+   "end_sec": 300.36,
+   "dur_sec": 20.09,
+   "overlap": false,
+   "text": "Karen's strongest point is that hidden commissions and unclear ownership can corrupt an art sale. I agree those practices deserve scrutiny. But the motion compares whole markets, not their worst examples. Stock investors regularly rely on distant managers and complicated decisions they cannot meaningfully inspect. Art can offer direct knowledge, negotiation, and personal accountability."
+  },
+  {
+   "i": 26,
+   "src_i": 29,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 300.27,
+   "end_sec": 301.51,
+   "dur_sec": 1.24,
+   "overlap": true,
+   "text": "Ten seconds please."
+  },
+  {
+   "i": 27,
+   "src_i": 30,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 300.56,
+   "end_sec": 311.57,
+   "dur_sec": 11.01,
+   "overlap": false,
+   "text": "Ethical conduct comes from honest disclosure and responsible behavior, wherever people trade. Calling art less ethical ignores transparent dealers, informed buyers, and direct sales. The better conclusion is that both-",
+   "cut_at_sec": 307.87,
+   "full_dur_sec": 14.16,
+   "ext_file": "L162_030.wav"
+  },
+  {
+   "i": 28,
+   "src_i": 31,
+   "speaker": "MOD",
+   "code": "A1",
+   "start_sec": 310.77,
+   "end_sec": 313.1,
+   "dur_sec": 2.33,
+   "overlap": true,
+   "text": "Thank you, Jack. Your time is up."
+  },
+  {
+   "i": 29,
+   "src_i": 32,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 313.3,
+   "end_sec": 319.07,
+   "dur_sec": 5.77,
+   "overlap": false,
+   "text": "Thank you, Karen and Jack, for a thoughtful debate on the ethics of art and stock markets."
+  }
+ ]
+}

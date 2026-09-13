@@ -1,0 +1,39 @@
+L085  |  Objectivity is essential to journalism.
+  MOD=Christian   PRO=Ismail   CON=Lawrence
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Christian(MOD): Welcome to our debate. Tonight's motion is that objectivity is essential to journalism. Ismail argues for the motion, and Lawrence argues against it. Each debater gets thirty seconds to open, then two and a half minutes of crossfire, and thirty seconds to close. I will give a ten-second cue before each limit. We begin now.
+[t01] Ismail(PRO): Journalism asks strangers to trust accounts of events they cannot witness. Objectivity supplies discipline: check claims, separate evidence from preference, and let inconvenient facts remain. Without it, a reporter's confidence can become the story. It does not erase judgment; it makes judgment answerable to readers and sources. That is why the standard matters before difficult cases.
+[t02] @A4 <ovl> Christian(MOD): Ten seconds warning.
+[t03] Ismail(PRO): Difficult cases require interpretation, but interpretation is not permission to invent. Objectivity keeps reporters accountable when pressure, sympathy, or anger would otherwise steer the account. That's all, thank you.
+[t04] @A2-2 Christian(MOD): Great, Lawrence, go ahead.
+[t05] Lawrence(CON): Objectivity sounds noble, but journalism is made by people choosing what to notice, whom to question, and which context matters. Pretending those choices vanish can hide bias behind a neutral tone. Journalism needs fairness, honesty, and independence. None requires a view from nowhere. The harder question is whether a useful tool must be essential for journalism.
+[t06] @A4 <ovl> Christian(MOD): Ten seconds, Lawrence.
+[t07] <cut> Lawrence(CON): You say objectivity disciplines judgment, but that label lets editors call preference neutral and dismiss reporters who see harm. Fair reporting should disclose perspective and test evidence. When a reporter chooses-
+[t08] @A1 <ovl> Christian(MOD): Time out. Time out.
+
+--- phase 2 ---
+[t09] @A3-1 Christian(MOD): All right, we've just heard opening arguments on the resolution, objectivity is essential to journalism, and now we're going to give our debaters a chance to respond to one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+[t10] Lawrence(CON): No, the motion does not follow from the need for trustworthy reporting. You treat objectivity as the only guardrail, yet transparent judgment, rigorous checking, and accountability can serve journalism without claiming neutrality.
+[t11] Ismail(PRO): Transparent judgment also affects how reporters explain their choices to coworkers during editing. Those conversations can improve trust inside a newsroom. But public trust needs objective standards for evidence, so objectivity remains essential.
+[t12] <cut> Lawrence(CON): Your point about internal conversations misses the public problem. Readers cannot inspect every discussion, so they need reporting that openly shows perspective and reasoning, not an impossible claim of objectivity that can-
+[t13] <ovl> Ismail(PRO): No, objectivity is not an impossible claim. It means methods that restrain personal preference: verify, seek relevant evidence, and correct errors. Perspective stays, but journalism needs an objective test stronger than a reporter's sincerity.
+[t14] Lawrence(CON): Consider a reporter covering a landlord accused by a tenant. Equal space for the landlord's bare denial can make documented harm look uncertain. That false balance shows journalism needs judgment beyond objectivity.
+[t15] Ismail(PRO): That landlord example also affects training new reporters. Editors should teach them how to question vague denials, listen carefully, and explain their choices during feedback sessions, especially when writers fear criticism from supervisors.
+[t16] @B1 Christian(MOD): Okay, I'm not sure that that's getting to objectivity is essential to journalism, which I think is a little bit more on point.
+[t17] Ismail(PRO): Every journalistic account always needs objective methods. Those methods do not dictate feelings; they require reporters to test what they assert against evidence, distinguish fact from advocacy, and let audiences judge claims.
+[t18] Lawrence(CON): I agree that evidence must be tested, and careless reporting fails people. But objective methods cannot decide which voices deserve attention or what context makes facts meaningful; journalism needs accountable judgment, not neutrality.
+[t19] Ismail(PRO): A personal journalistic account does not need objective methods. Its value can rest on candid experience, yet reporting about public claims still depends on objective methods to earn trust.
+[t20] @B2 Christian(MOD): But doesn't your argument for every journalistic account always needs objective methods fight your argument that a personal journalistic account does not need objective methods?
+[t21] Ismail(PRO): Both statements fit because journalism includes personal accounts and reporting. A personal account can offer experience without objective methods, while reporting others' claims needs them; that makes objectivity essential.
+[t22] Lawrence(CON): Imagine a reporter gives equal weight to a worker's detailed account and a supervisor's unsupported denial. A listener may treat real mistreatment as a mere dispute. That harm proves objectivity is not essential.
+[t23] @A4 <ovl> Christian(MOD): Ten seconds left on the crossfire.
+[t24] <cut> Ismail(PRO): Your weakest claim is that equal weight follows from objectivity. It does not: objective reporting-
+
+--- phase 3 ---
+[t25] @A3-2 <ovl> Christian(MOD): That's time. Let's move on to Round three, closing statements from each debater in turn. Our resolution is, objectivity is essential to journalism. Leading off with his closing statement, Ismail.
+[t26] Ismail(PRO): Journalism cannot eliminate human judgment, but it can discipline judgment. Objectivity demands evidence, correction, and separation between what happened and what a reporter wishes were true. Those habits let audiences challenge power and trust accounts. That is why objectivity is essential. That's all, thank you.
+[t27] @A2-2 Christian(MOD): Let Lawrence have the mic.
+[t28] Lawrence(CON): Deciding this motion turns on whether journalism needs a myth of neutrality or honest, accountable judgment. Reporters must test facts, but choices about relevance and harm cannot be objective. When perspective is disclosed rather than hidden, audiences can judge the work. Objectivity is useful, not essential. That's all, thank you.
+[t29] Christian(MOD): Thank you, Ismail and Lawrence, for a thoughtful debate. That concludes our discussion of this resolution for today.

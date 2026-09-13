@@ -1,0 +1,4 @@
+interface:
+  display_name: "Moderator Duplex Inference"
+  short_description: "Run reproducible GPT-Live-first duplex batches"
+  default_prompt: "Use $moderator-duplex-inference to validate or run this moderator audio campaign. Keep GPT-Live as the canonical default and do a dry-run before execution."

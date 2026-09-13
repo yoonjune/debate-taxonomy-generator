@@ -1,0 +1,40 @@
+L059  |  Humanitarian Intervention Does More Harm Than Good
+  MOD=David   PRO=Betsy   CON=Annette
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] David(MOD): Welcome. Tonight's motion is Humanitarian Intervention Does More Harm Than Good. Betsy supports the motion; Annette opposes it. Each has thirty seconds for an opening, followed by two and a half minutes of crossfire. Then each has thirty seconds to close. I will give a ten-second cue.
+[t01] Betsy(PRO): Humanitarian intervention promises rescue, yet it hands grave power to outsiders who cannot own the aftermath. Force can topple a threat while breaking local order and making civilians targets. Because interventions regularly widen violence and dependence, they do more harm than good. That's all, thank you.
+[t02] @A2-2 David(MOD): Annette has the floor right now.
+[t03] Annette(CON): Doing nothing is also a choice, and it can leave people exposed to immediate violence. Intervention need not mean conquest: requested, limited protection can create room for local recovery. Because carefully bounded action can prevent catastrophe, it does not do more harm than good. That's all, thank you.
+
+--- phase 2 ---
+[t04] @A3-1 David(MOD): That concludes round one. Now on to round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+[t05] Betsy(PRO): Annette says careful intervention can protect civilians. But outside forces misread local conflicts, empower armed partners, and leave shattered institutions behind; good intentions do not erase predictable harm.
+[t06] <cut> Annette(CON): Your claim that outsiders inevitably misread conflicts is weakest: local people can request protection and help guide it. Refusing them assistance because errors might occur abandons-
+[t07] <ovl> Betsy(PRO): No, refusing reckless force is not refusing people. Your requested-protection point ignores who gets recognized as local voices; intervention often selects allies, then deepens the conflict.
+[t08] Annette(CON): When a genuine local coalition requests limited protection and outsiders accept strict oversight, intervention can save lives. Why should civilians lose that option because past missions failed?
+[t09] Betsy(PRO): They should not lose protection, but your premise treats military intervention as the only option. Oversight cannot control foreign commanders once violence starts, so limited missions expand.
+[t10] Annette(CON): Imagine armed groups surrounding a neighborhood while residents ask for a protected exit. Outside forces secure the route, families leave safely, and attackers retreat. That proves intervention can prevent immediate harm.
+[t11] Betsy(PRO): Your protected-exit point assumes outsiders can secure a route without becoming combatants. Once they fight attackers, civilians face reprisals and dependency, so temporary rescue can multiply danger.
+[t12] Annette(CON): The larger problem is how receiving communities handle people fleeing violence. Fair entry rules, housing, schools, and work permits determine whether displaced families can rebuild stable lives.
+[t13] @B1 David(MOD): Please address the issue that I did raise, which is whether humanitarian intervention does more harm than good.
+[t14] Annette(CON): On whether intervention does more harm than good, it does not when protection is requested and constrained. Those safeguards can stop slaughter without replacing local leadership or permanent occupation.
+[t15] Betsy(PRO): Long-term aid also matters, because clinics and schools shape recovery after violence. But aid cannot undo the coercion intervention creates, so the motion remains true overall.
+[t16] Annette(CON): Intervention is often the only rapid shield against organized violence, and it need not become occupation. Careful limits protect people while preserving the local authority that must endure.
+[t17] Betsy(PRO): Consider outsiders arming a militia to defend a town. The militia drives out rivals, revenge follows, and civilians flee; that chain shows intervention can create more harm than safety.
+[t18] Annette(CON): Your armed-militia example attacks reckless support, not every intervention. With verified local partners, civilian rules, and a narrow rescue goal, protection avoids that spiral and delivers more good.
+[t19] @A4 <ovl> David(MOD): Ten.
+[t20] Betsy(PRO): The weakest word is verified. Outsiders cannot reliably verify partners during chaos, and your civilian rules mean little when foreign troops decide threats; uncertainty makes harm foreseeable.
+
+--- phase 3 ---
+[t21] @A3-2 <ovl> David(MOD): Time. First, onto round three, closing statements from each debater in turn. First, to summarize her position in favor of the motion, Betsy.
+[t22] Betsy(PRO): Annette rightly says people facing attack deserve protection. But her answer assumes outsiders can deliver force with knowledge, restraint, and a clean exit. They usually alter local power, invite retaliation, and leave dependence after headlines fade. The humane instinct is real, yet predictable disruption makes intervention a harmful tool that
+[t23] @A4 <ovl> David(MOD): Ten seconds for last word.
+[t24] <cut> Betsy(PRO): cannot be safely managed from afar. Choose diplomacy, refuge, and local relief before sending armed outsiders, because those tools support people without taking control of their future. When a rescue-
+[t25] @A2-1 <ovl> David(MOD): You're out of time. And here to summarize her position, Annette.
+[t26] Annette(CON): Betsy's strongest warning is that force can empower bad partners and trigger retaliation. That danger demands restraint, but it does not prove every intervention harms more than it helps. Abandoning people during immediate attack also changes power, usually for the attacker. With local request, narrow protection, oversight, and exit plans, intervention can prevent suffering and preserve recovery.
+[t27] @A4 <ovl> David(MOD): Ten seconds from this side?
+[t28] <cut> Annette(CON): from the crisis. That is not a promise of perfection; it is a duty to reduce the worst danger when action can be bounded and checked by those it protects. Refusing-
+[t29] @A1 <ovl> David(MOD): Thank you, Annette. Your time is up.
+[t30] David(MOD): Thank you, Betsy and Annette, for a thoughtful debate; this concludes our discussion of the motion tonight here.

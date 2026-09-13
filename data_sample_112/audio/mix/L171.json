@@ -1,0 +1,385 @@
+{
+ "debate_id": "L080",
+ "motion": "Netanyahu's government is heading in the wrong direction.",
+ "speakers": {
+  "MOD": {
+   "name": "Tom",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_6582_423",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_6/MSP-PODCAST_6582/MSP-PODCAST_6582_423.wav",
+   "wpm": 164.89
+  },
+  "PRO": {
+   "name": "Terence",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4117_448",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4117/MSP-PODCAST_4117_448.wav",
+   "wpm": 173.57
+  },
+  "CON": {
+   "name": "Derek",
+   "gender": "Male",
+   "voice_id": "MSP-PODCAST_4043_33",
+   "wav16k": "/home/dongwook_lee/ICLR2027/sidon_xtalk/campaign_870h/out16k/part_4/MSP-PODCAST_4043/MSP-PODCAST_4043_33.wav",
+   "wpm": 168.26
+  }
+ },
+ "selective": [
+  "A2-1",
+  "B1"
+ ],
+ "crossfire_sec": 150,
+ "xf_open_sec": 76.19,
+ "crossfire_sec_actual": 150.0,
+ "total_sec": 294.99,
+ "ext": {
+  "a32": {
+   "file": "L080_ext_a32.wav",
+   "place_at_sec": 217.04,
+   "dur_sec": 32.3,
+   "src_i": 20
+  }
+ },
+ "flags": [],
+ "dropped_turns": [
+  {
+   "src_i": 21,
+   "speaker": "CON",
+   "slot": "X14",
+   "text": "Your institutional point assumes any challenge to officials weakens oversight. Institutions can be debated and reformed without losing independence, so where is proof that reform itself is a wrong direction?"
+  },
+  {
+   "src_i": 22,
+   "speaker": "PRO",
+   "slot": "X15",
+   "text": "The proof is whether reform removes independent checks, not whether reform is labeled reform. When leaders concentrate power while dismissing critics, that is a wrong direction regardless of the label."
+  }
+ ],
+ "turns": [
+  {
+   "i": 0,
+   "src_i": 0,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 0.0,
+   "end_sec": 16.89,
+   "dur_sec": 16.89,
+   "overlap": false,
+   "text": "Welcome to our debate on whether Netanyahu's government is heading in the wrong direction. Terence supports the motion, and Derek opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue before time expires."
+  },
+  {
+   "i": 1,
+   "src_i": 1,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 17.09,
+   "end_sec": 37.1,
+   "dur_sec": 20.01,
+   "overlap": false,
+   "text": "Netanyahu's government is choosing escalation over a workable future. Its decisions deepen division at home, weaken trust in public institutions, and make security depend on permanent confrontation. A government should protect citizens while preserving democratic limits and leaving room for political solutions. This one treats criticism as disloyalty and compromise as surrender, so it is driving the country toward greater danger, not strength."
+  },
+  {
+   "i": 2,
+   "src_i": 2,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 37.09,
+   "end_sec": 39.1,
+   "dur_sec": 2.01,
+   "overlap": true,
+   "text": "Ten seconds from this side?"
+  },
+  {
+   "i": 3,
+   "src_i": 3,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 37.3,
+   "end_sec": 48.13,
+   "dur_sec": 10.83,
+   "overlap": false,
+   "text": "That course can still be changed, but defending every hard-line move only locks the government into the wrong direction. It ignores the costs paid by ordinary families. That's all, thank you."
+  },
+  {
+   "i": 4,
+   "src_i": 4,
+   "speaker": "MOD",
+   "code": "A2-2",
+   "start_sec": 48.33,
+   "end_sec": 51.44,
+   "dur_sec": 3.11,
+   "overlap": false,
+   "text": "I want to give the floor to Derek."
+  },
+  {
+   "i": 5,
+   "src_i": 5,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 51.64,
+   "end_sec": 69.31,
+   "dur_sec": 17.67,
+   "overlap": false,
+   "text": "Terence calls firmness a wrong direction, but that confuses discomfort with failure. This government faces real threats and must retain the freedom to act, rather than gamble on promises from hostile actors. Democratic argument is not institutional collapse; it is citizens contesting hard choices. That's all, thank you."
+  },
+  {
+   "i": 6,
+   "src_i": 6,
+   "speaker": "MOD",
+   "code": "A3-1",
+   "start_sec": 69.51,
+   "end_sec": 80.48,
+   "dur_sec": 10.97,
+   "overlap": false,
+   "text": "So, in round two, the debaters direct questions to one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end."
+  },
+  {
+   "i": 7,
+   "src_i": 7,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 80.68,
+   "end_sec": 90.68,
+   "dur_sec": 10.0,
+   "overlap": false,
+   "text": "I am answering the claim that firmness creates permanent confrontation. Firmness can deter those who test the country, while hesitation can invite pressure and leave citizens less secure."
+  },
+  {
+   "i": 8,
+   "src_i": 8,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 91.208,
+   "end_sec": 101.298,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "Your deterrence point is weak because deterrence without limits becomes a cycle with no exit. When leaders reject restraint and negotiation, they create the insecurity they claim to prevent."
+  },
+  {
+   "i": 9,
+   "src_i": 9,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 101.844,
+   "end_sec": 112.504,
+   "dur_sec": 10.66,
+   "overlap": false,
+   "text": "That cycle also affects how neighboring communities manage daily trade, permits, and family visits. Firm rules make those arrangements predictable, because patient local coordination cannot rest on broad slogans alone."
+  },
+  {
+   "i": 10,
+   "src_i": 10,
+   "speaker": "MOD",
+   "code": "B1",
+   "start_sec": 112.704,
+   "end_sec": 121.364,
+   "dur_sec": 8.66,
+   "overlap": false,
+   "text": "But we've got to come away with something from this debate more concrete than just that netanyahu's government is heading in the wrong direction."
+  },
+  {
+   "i": 11,
+   "src_i": 11,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 121.564,
+   "end_sec": 131.654,
+   "dur_sec": 10.09,
+   "overlap": false,
+   "text": "The question is whether this government is heading wrongly, and I say no: it is setting clear priorities, preserving room to respond, and resisting policies that would expose citizens."
+  },
+  {
+   "i": 12,
+   "src_i": 12,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 132.064,
+   "end_sec": 141.754,
+   "dur_sec": 9.69,
+   "overlap": false,
+   "text": "If clear priorities mean rejecting every restraint, how does this government prevent temporary emergency measures from becoming permanent rules that damage democratic trust and make future security harder?"
+  },
+  {
+   "i": 13,
+   "src_i": 13,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 142.401,
+   "end_sec": 153.801,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "Emergency measures can burden trust, and that concern deserves scrutiny. But your main claim assumes restraint itself delivers safety; leaders must keep effective tools when threats remain, so the direction is justified."
+  },
+  {
+   "i": 14,
+   "src_i": 14,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 154.244,
+   "end_sec": 163.534,
+   "dur_sec": 9.29,
+   "overlap": false,
+   "text": "I am answering your claim that threats justify every tool. Tools without limits turn emergency power into habit, and citizens lose the safeguards that make security legitimate-"
+  },
+  {
+   "i": 15,
+   "src_i": 15,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 164.42,
+   "end_sec": 175.54,
+   "dur_sec": 11.12,
+   "overlap": false,
+   "text": "Public arguments can become heated, and harsh language from supporters can poison ordinary conversation. But does that make security policy a wrong direction? No; governing under pressure requires resolve, not retreat."
+  },
+  {
+   "i": 16,
+   "src_i": 16,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 176.49,
+   "end_sec": 187.06,
+   "dur_sec": 10.57,
+   "overlap": false,
+   "text": "No, harsh language alone is not my case. But your claim that resolve excludes retreat ignores a third path: firm protection with legal limits and political planning, which this government resists."
+  },
+  {
+   "i": 17,
+   "src_i": 17,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 187.859,
+   "end_sec": 199.259,
+   "dur_sec": 11.4,
+   "overlap": false,
+   "text": "When a community faces a planned attack, quick authorization can let security forces stop it before families are harmed. That is why preserving the government's ability to act is the right direction."
+  },
+  {
+   "i": 18,
+   "src_i": 18,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 199.617,
+   "end_sec": 209.787,
+   "dur_sec": 10.17,
+   "overlap": false,
+   "text": "If quick action is valuable, what stops this government from using every warning as grounds for broader control, even when that control alienates citizens and creates the resentment threats exploit?"
+  },
+  {
+   "i": 19,
+   "src_i": 19,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 210.001,
+   "end_sec": 221.041,
+   "dur_sec": 11.04,
+   "overlap": false,
+   "text": "Warnings can be misused, so oversight must remain real. But your main argument treats possible misuse as proof that decisive policy is wrong; accountable action against danger remains the better direction."
+  },
+  {
+   "i": 20,
+   "src_i": 23,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 220.48,
+   "end_sec": 223.37,
+   "dur_sec": 2.89,
+   "overlap": true,
+   "text": "Ten seconds left, then we go to closings."
+  },
+  {
+   "i": 21,
+   "src_i": 20,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 221.33,
+   "end_sec": 231.28,
+   "dur_sec": 9.95,
+   "overlap": false,
+   "text": "I am answering your oversight point. Saying oversight should remain real means little when the government weakens the very institutions that can challenge its decisions, which is why its direction-",
+   "ext_file": "L080_ext_a32.wav",
+   "cut_at_sec": 226.99,
+   "full_dur_sec": 10.81
+  },
+  {
+   "i": 22,
+   "src_i": 24,
+   "speaker": "MOD",
+   "code": "A3-2",
+   "start_sec": 230.48,
+   "end_sec": 236.32,
+   "dur_sec": 5.84,
+   "overlap": true,
+   "text": "That's time. Okay, now we're gonna pivot to our closing round. Terence, you are up first."
+  },
+  {
+   "i": 23,
+   "src_i": 25,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 236.52,
+   "end_sec": 256.85,
+   "dur_sec": 20.33,
+   "overlap": false,
+   "text": "Your best argument is that a government facing threats needs freedom to act. I agree security requires action, but action without durable limits makes the country less safe and less united. The pattern here is not one difficult choice; it is a governing habit of sidelining checks, inflaming division, and refusing a political horizon. That habit damages the future."
+  },
+  {
+   "i": 24,
+   "src_i": 26,
+   "speaker": "MOD",
+   "code": "A4",
+   "start_sec": 256.52,
+   "end_sec": 259.61,
+   "dur_sec": 3.09,
+   "overlap": true,
+   "text": "I can give you ten seconds to do this."
+  },
+  {
+   "i": 25,
+   "src_i": 27,
+   "speaker": "PRO",
+   "code": null,
+   "start_sec": 257.05,
+   "end_sec": 267.82,
+   "dur_sec": 10.77,
+   "overlap": false,
+   "text": "Derek says reforms can preserve independence, yet changing the rules to shield power is not renewal. The direction is clear: more control, fewer safeguards, and a future built on endless-",
+   "cut_at_sec": 263.53,
+   "full_dur_sec": 14.97,
+   "ext_file": "L080_027.wav"
+  },
+  {
+   "i": 26,
+   "src_i": 28,
+   "speaker": "MOD",
+   "code": "A2-1",
+   "start_sec": 267.02,
+   "end_sec": 276.23,
+   "dur_sec": 9.21,
+   "overlap": true,
+   "text": "Thank you. I'm sorry his time is up. Thank you. And here to summarize his position against netanyahu's government is heading in the wrong direction, Derek."
+  },
+  {
+   "i": 27,
+   "src_i": 29,
+   "speaker": "CON",
+   "code": null,
+   "start_sec": 276.43,
+   "end_sec": 294.62,
+   "dur_sec": 18.19,
+   "overlap": false,
+   "text": "Terence's strongest concern is that forceful government can weaken checks. But he treats hard decisions as proof of abuse, ignoring the duty to protect people when danger is real. A government that keeps options open, faces threats, and accepts argument is not lost; it governs responsibly. That's all, thank you."
+  },
+  {
+   "i": 28,
+   "src_i": 30,
+   "speaker": "MOD",
+   "code": null,
+   "start_sec": 294.82,
+   "end_sec": 301.07,
+   "dur_sec": 6.25,
+   "overlap": false,
+   "text": "Thank you, Terence and Derek, for a thoughtful exchange; this concludes our debate on the motion for today."
+  }
+ ]
+}

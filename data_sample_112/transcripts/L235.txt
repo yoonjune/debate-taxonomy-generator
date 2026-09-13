@@ -1,0 +1,42 @@
+L235  |  The Effective Altruism movement gets giving right.
+  MOD=Amy   PRO=Joan   CON=Rima
+  crossfire 150s (realised 150.0s)
+
+--- phase 1 ---
+[t00] Amy(MOD): Welcome. Tonight's motion is: the Effective Altruism movement gets giving right. Joan supports it, and Rima opposes it. Each opening lasts thirty seconds, followed by two and a half minutes of crossfire and thirty-second closings. I will give a ten-second cue.
+[t01] Joan(PRO): The movement asks donors to compare outcomes rather than follow habit. When a modest gift can prevent severe harm more reliably in one place than another, responsible giving follows the stronger evidence. That is getting giving right. That's all, thank you.
+[t02] @A2-2 Amy(MOD): Let's hear from Rima.
+[t03] Rima(CON): But giving also expresses duties to people near us and builds trust. A movement that ranks every gift by distant outcomes misses what generosity is for.
+[t04] <ovl> <cut> Joan(PRO): Rima, imagine a parent choosing between a-
+[t05] @A5 <ovl> Amy(MOD): Please let her address the principle.
+[t06] Rima(CON): Misses what generosity is for. The principle is that donors are not calculators alone; relationships and local judgment carry moral weight that a ranking cannot capture.
+[t07] @A4 <ovl> Amy(MOD): Ten seconds from this side?
+[t08] Rima(CON): So an approach that treats measurable impact as the master value gets giving wrong. That's all, thank you.
+
+--- phase 2 ---
+[t09] @A3-1 Amy(MOD): In round two, the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+[t10] Rima(CON): Picture a neighborhood kitchen losing its regular support because a donor spreadsheet labels it less efficient. Families lose familiar help and volunteers leave, proving giving needs human judgment, not the movement's narrow ranking.
+[t11] Joan(PRO): That kitchen need not lose support; the premise assumes comparison means abandonment. The movement asks whether funds can relieve more urgent suffering, while preserving room for community commitments, which makes giving more responsible.
+[t12] Rima(CON): I agree that familiar groups can deserve support and sustain volunteers. But your movement lets uncertain distant estimates outweigh known local needs, so it strips donors of judgment and gets giving wrong.
+[t13] <cut> Joan(PRO): You call those needs known, but why should a donor favor familiar suffering when another gift can plainly protect more people from serious harm? If evidence shows the difference, what justifies choosing the smaller-
+[t14] <ovl> Rima(CON): Because people are not entries in your comparison table. A donor who abandons a neighbor's refuge for a promised larger result may break relationships that make future giving possible, which is why the movement gets giving wrong.
+[t15] Joan(PRO): When reliable evidence shows one option prevents substantially more severe harm for the same sacrifice, donors should favor it. That condition disciplines good intentions without denying relationships can matter, so the movement gets giving right.
+[t16] Rima(CON): A caregiver needs a wheelchair repair this week, but the movement directs her usual helper elsewhere because projected impact looks larger. Her mobility and trust collapse, proving the movement's calculations get giving wrong.
+[t17] Joan(PRO): Donors also need clear receipts, honest updates, and freedom to change their minds after a bad experience. Those matters affect confidence, but the motion is about choosing where help does most good, and the movement gets that right.
+[t18] Rima(CON): I grant that checking results can protect donors from waste. Yet your focus on what can be counted sidelines dignity, mutual obligation, and long-term bonds, which means the movement gets giving wrong.
+[t19] Joan(PRO): Giving should always begin with the question of how to reduce serious harm most effectively. Evidence is not a cold exception to generosity; it is the ordinary way generosity respects every person affected, so the movement gets giving right.
+[t20] Rima(CON): Your claim that giving should always begin with effectiveness is your weakest point. A person facing a neighbor in crisis should not first calculate distant alternatives; that delay and detachment show the movement gets giving wrong.
+[t21] @A4 <ovl> Amy(MOD): Ten seconds, and then closing statements.
+[t22] <cut> Joan(PRO): Your neighbor-in-crisis point mistakes prompt help for blind help. The movement can support immediate aid when it is urgent, while asking donors to consider outcomes across their giving, so it gets-
+
+--- phase 3 ---
+[t23] @A3-2 <ovl> Amy(MOD): Okay, time. We have to move on to our closing round. Joan, the floor is yours.
+[t24] Joan(PRO): Deciding this motion turns on whether generosity should merely feel sincere or actually reach as much serious need as it can. My opponent rightly values relationships, and nothing in this approach forbids helping a neighbor. But when donors choose among opportunities, evidence can reveal consequences that instinct hides. That is a moral responsibility, not a rejection of care.
+[t25] @A4 <ovl> Amy(MOD): Ten.
+[t26] Joan(PRO): Good giving asks who is helped, how much, and at what cost. By putting those questions before sentiment, the movement turns compassion into effective action and gets giving right. That's all, thank you.
+[t27] @A2-2 Amy(MOD): Go ahead. Go ahead, Rima.
+[t28] Rima(CON): The best argument for the other side is that donors should not waste gifts when preventable harm is severe. I agree that outcomes matter, and careful donors should learn. But this movement mistakes a useful question for the whole meaning of generosity. Giving also sustains obligations, trust, and agency that no universal ranking can settle.
+[t29] @A4 <ovl> Amy(MOD): Rima, ten seconds.
+[t30] <cut> Rima(CON): Projected impact can overrule close responsibility, teaching people that care matters only when it scores well. That weakens lasting generosity. The movement gets giving wrong because it asks-
+[t31] @A1 <ovl> Amy(MOD): Rima, her time is up.
+[t32] Amy(MOD): Thank you, Joan and Rima, for a thoughtful debate; this concludes our discussion of the motion tonight here.
