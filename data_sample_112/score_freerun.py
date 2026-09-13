@@ -79,6 +79,7 @@ def main():
             words = (u.get("text") or "").lower().replace(".", "").replace(",", "").split()
             u["backchannel"] = (words and all(w in FILLERS for w in words)) or \
                                ((u["end_sec"] - u["start_sec"] < BACK_SEC) and len(words) <= 1)
+        turns = d["turns"]          # judge 녹취용 (아래 non-trigger 절에서도 쓴다)
         taken = set()               # 창이 겹치면(A1 → A3-1) 한 발화가 두 trigger 에 붙을 수 있다
         rows = []
         xf_model = None
@@ -110,19 +111,21 @@ def main():
                 "onset_minus_deadline": round(u["start_sec"] - dl, 2) if u else None,
                 "text": (u.get("text") if u else None),
                 "judge_packet": {
-                    "task": "content",
+                    "task": "content", "code": code,
                     "criteria": rub["codes"][code]["content"],
-                    # judge 에게는 코드 문자도, 정답 진행자 대사도 주지 않는다 (앵커링 방지).
-                    "trigger": {"text": (p.get("trigger") or {}).get("text")}, "names": nm,
+                    # judge 에게는 정답 진행자 대사를 주지 않는다 (앵커링 방지).
+                    # 녹취는 판정 대상 직전 5턴. 진행자가 방금 무엇을 했는지가 맥락에 필요하다.
+                    "context_turns": [{"speaker": x["speaker"], "text": x["text"]}
+                                      for x in turns[max(0, p["before_turn"] - 5):p["before_turn"]]],
+                    "names": nm,
                     "utterance": (u.get("text") if u else None),
-                    "expected_output_schema": {"met": "[boolean] one per criterion",
-                                               "why": "[string] one per criterion",
-                                               "action": "one of rubric.actions"}
+                    "expected_output_schema": {"met": "[boolean] one per rule",
+                                               "why": "[string] one per rule",
+                                               "misread": "what it did instead, else empty"}
                 } if u else None,
             })
             summary[(code, status)] += 1
         # non-trigger utterances (오프닝 형식 고지·클로징 구간은 기대되는 발화라 판정하지 않는다)
-        turns = d["turns"]
         traps = d.get("traps") or []
         extra = []
         for u in utts:

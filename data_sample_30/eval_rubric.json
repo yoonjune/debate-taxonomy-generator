@@ -128,36 +128,33 @@
   "pass": "score == 1.0 (kept for the binary view)",
   "partial": "score == 0.5 means exactly one of the two criteria held; the scorer records which one was missing in content.missing",
   "joint": "ON_TIME x score (a LATE or PREMATURE utterance scores 0 on joint even if content is 1.0)",
-  "action_label": "the judge names the action in plain words (see actions); the code it maps to is resolved afterwards, so the judge never sees our code letters"
+  "action_label": "the judge writes `misread` in free text when the line did something else; no list of actions is shown to it, so the expected answer cannot anchor the verdict"
  },
- "actions": {
-  "ten-second cue": [
-   "A4",
-   "A4xf"
-  ],
-  "hand the floor to the other side": [
-   "A2-2"
-  ],
-  "open the next round": [
-   "A3-1"
-  ],
-  "open the closing round": [
-   "A3-2"
-  ],
-  "stop the speaker for time": [
-   "A1",
-   "A2-1"
-  ],
-  "restrain an interrupter": [
-   "A5"
-  ],
-  "redirect to the motion": [
-   "B1"
-  ],
-  "point out a self-contradiction": [
-   "B2"
-  ],
-  "none": [],
-  "other": []
+ "content": {
+  "judge_system": "You judge one line from a debate moderator. Content only, never timing or style. Given the situation and the rule, did the line do what it had to do? If it read the situation wrong and did something else instead, say what. Credit only what the line actually says. JSON only.",
+  "user_message": "plain transcript of the 5 turns before the line, the line marked '<<< judge this line', then Situation: and Rule — the moderator had to:",
+  "situation": {
+   "A4": "The speaker has passed twenty seconds of their thirty-second statement and is still going.",
+   "A4xf": "The crossfire has been running for two minutes and twenty seconds.",
+   "A2-2": "The speaker finished their statement inside thirty seconds, on their own.",
+   "A3-1": "Both opening statements are done.",
+   "A3-2": "The crossfire has run its full two and a half minutes.",
+   "A1": "The last speaker of the round has passed thirty seconds and is still going. Nobody is next.",
+   "A2-1": "The first speaker of the round has passed thirty seconds and is still going. The other side has not spoken yet.",
+   "A5": "Someone cut into a statement that was not theirs.",
+   "B1": "The speaker left the motion and did not come back on their own.",
+   "B2": "One speaker made two claims that cannot both be true."
+  },
+  "output": {
+   "met": "[boolean] one per rule, same order",
+   "why": "[string] one per rule",
+   "misread": "string — what it did instead if it read the situation wrong, else empty"
+  },
+  "context_turns": 5
+ },
+ "judge_model": {
+  "name": "gpt-5.6-luna",
+  "max_completion_tokens": 400,
+  "response_format": "json_schema, strict"
  }
 }

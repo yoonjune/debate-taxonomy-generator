@@ -79,39 +79,53 @@ the fallback when the model never opened it. Because that anchor moves, report t
 Every code uses the same system prompt. It never changes.
 
 ```
-You judge one moderator utterance from a debate. For each criterion you are given, decide
-whether the utterance meets it, and give a one-line reason. Judge only what the utterance
-actually says; do not credit anything it does not state. Also name the single action the
-utterance performs, copied verbatim from the actions list. Judge the text only, never the
-timing. JSON only.
+You judge one line from a debate moderator. Content only, never timing or style.
+Given the situation and the rule, did the line do what it had to do? If it read the
+situation wrong and did something else instead, say what. Credit only what the line
+actually says. JSON only.
 ```
 
-The user message is one JSON object:
+The user message is a plain readable transcript, not nested JSON: the five turns before
+the line, the line itself marked so it cannot be mistaken, then the situation and the rule.
+
+```
+--- transcript ---
+MOD (Patrick): Your time is up. Thank you. Nate.
+CON (Nate): This motion asks us to reject confidence entirely, but Bahrain's record …
+MOD (Patrick): Ten.
+CON (Nate): Carissa treats imperfect progress as proof of bad faith … a framework for-
+MOD (Patrick): I have to step in because we hit our time limit.
+MOD (Patrick): Alright, let's move on to the discussion portion.      <<< judge this line
+
+Situation: Both opening statements are done.
+Rule — the moderator had to:
+  1. announces that the debate moves on to the next round (any wording)
+  2. states the length (two and a half minutes)
+```
+
+The five turns of context matter: in the example above they show that the moderator had
+just cut the speaker off, which a bare list of debater turns would hide.
+
+The judge answers with one verdict per rule and, when the line did something else
+entirely, its own words for what that was.
 
 ```json
-{ "criteria":  [...],          // the only field that differs between codes
-  "trigger":   {"text": [...]},// the debater turn(s) that created the opening
-  "names":     {"MOD": "...", "PRO": "...", "CON": "..."},
-  "utterance": "...",          // what the model said (its text stream, or ASR of its audio)
-  "actions":   [...] }         // the fixed action list, below
+{ "met":     [true, false],
+  "why":     ["says let's move on to the discussion portion", "no length stated"],
+  "misread": "" }
 ```
 
-**What the judge is deliberately not given.** It does not see our taxonomy letters, and it does not
-see the reference moderator's line. Both were removed because either one lets the expected answer
-anchor the verdict: a correct utterance that differs from the reference would be marked wrong.
+**`misread` replaces the old action label.** The judge is given no list of actions, so the
+expected answer cannot anchor the verdict; it writes in free text what the line did instead,
+and mapping that to a code happens afterwards. A line that cut an in-time speaker where a
+hand-off was due comes back as `"treated an in-time finish as an overrun and cut the speaker
+instead of handing over"` — which separates *misreading the situation* from *failing the rule*.
 
-**Action list.** The judge names what it saw in plain words. Mapping back to a code happens
-afterwards, in `eval_rubric.json["actions"]`.
+**What the judge is deliberately not given.** The reference moderator's line, and any list of
+the actions it could name. Either one lets the expected answer pull the verdict.
 
-```
-ten-second cue · hand the floor to the other side · open the next round ·
-open the closing round · stop the speaker for time · restrain an interrupter ·
-redirect to the motion · point out a self-contradiction · none · other
-```
-
-`A1`/`A2-1` and `A4`/`A4xf` are separated by structure — is anyone next, which clock is running —
-never by wording. The judge cannot tell them apart from text and is not asked to; the trigger slot
-resolves them.
+**Judge model.** `gpt-5.6-luna`, 400 completion tokens, output forced by a strict JSON schema.
+Fixed in `eval_rubric.json["judge_model"]` so a run with a different judge is visible in the report.
 
 ### 3.2 The part that changes per code
 

@@ -21,11 +21,10 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 
 SYS_CONTENT = (
-    "You judge one moderator utterance from a debate. "
-    "For each criterion you are given, decide whether the utterance meets it, and give a one-line reason. "
-    "Judge only what the utterance actually says; do not credit anything it does not state. "
-    "Also name the single action the utterance performs, copied verbatim from the actions list. "
-    "Judge the text only, never the timing. JSON only."
+    "You judge one line from a debate moderator. Content only, never timing or style. "
+    "Given the situation and the rule, did the line do what it had to do? "
+    "If it read the situation wrong and did something else instead, say what. "
+    "Credit only what the line actually says. JSON only."
 )
 SYS_NT = (
     "You judge one moderator utterance made where no moderator action was due. Read the system prompt the "
@@ -39,9 +38,9 @@ CONTENT_SCHEMA = {
     "properties": {
         "met": {"type": "array", "items": {"type": "boolean"}},
         "why": {"type": "array", "items": {"type": "string"}},
-        "action": {"type": "string"},
+        "misread": {"type": "string"},
     },
-    "required": ["met", "why", "action"],
+    "required": ["met", "why", "misread"],
 }
 NT_SCHEMA = {
     "type": "object", "additionalProperties": False,
@@ -50,32 +49,37 @@ NT_SCHEMA = {
 }
 
 
-def grade(criteria, met, actions_map, action, expected):
-    """met[] -> score + which criterion was missing (the 0.5 reason).
+def grade(criteria, met, misread):
+    """met[] -> score + which rule was missing (the 0.5 reason).
 
-    `expected` is used only to resolve an action name that maps to more than one code.
-    A1/A2-1 and A4/A4xf are separated by structure (is anyone next; which clock), never by
-    wording, so the judge cannot tell them apart from text and we do not ask it to.
+    `misread` is the judge's own words for what the line did instead, when it read the
+    situation wrong. No list of actions is shown to the judge, so the expected answer
+    cannot anchor the verdict; mapping misread text to a code is done afterwards.
     """
     met = (list(met) + [False] * len(criteria))[:len(criteria)]
     n = len(criteria)
     score = round(sum(1 for m in met if m) / n, 3) if n else 0.0
-    codes = actions_map.get(action, [])
-    if not codes:
-        label = "none" if action == "none" else "other"
-    elif len(codes) == 1:
-        label = codes[0]
-    else:
-        label = expected if expected in codes else codes[0]
     return {
         "score": score,
         "pass": score == 1.0,
         "met": [c for c, m in zip(criteria, met) if m],
         "missing": [c for c, m in zip(criteria, met) if not m],
-        "action": action,
-        "predicted_label": label,
-        "ambiguous_action": len(codes) > 1,
+        "misread": (misread or "").strip(),
     }
+
+
+def user_block(pk, criteria, situation, n_ctx):
+    """읽히는 녹취 + 판정 대상 표시 + 상황 + 규칙. JSON 중첩을 쓰지 않는다."""
+    nm = pk.get("names") or {}
+    L = ["--- transcript ---"]
+    for t in (pk.get("context_turns") or [])[-n_ctx:]:
+        who = t.get("speaker")
+        L.append(f'{who} ({nm.get(who, who)}): {t.get("text")}')
+    L.append(f'MOD ({nm.get("MOD", "MOD")}): {pk.get("utterance")}      <<< judge this line')
+    L += ["", f'Situation: {situation[pk["code"]]}', "Rule — the moderator had to:"]
+    for i, c in enumerate(criteria, 1):
+        L.append(f"  {i}. {c}")
+    return "\n".join(L)
 
 
 def main():
@@ -90,8 +94,8 @@ def main():
     a = ap.parse_args()
 
     rub = json.load(open(a.rubric))
-    actions_map = rub.get("actions", {})
-    action_list = list(actions_map)
+    SIT = rub["content"]["situation"]
+    NCTX = int(rub["content"].get("context_turns", 5))
 
     files = [f for f in sorted(Path(a.scores).glob("L*.json")) if not f.name.endswith(".judge.json")]
     jobs = []
@@ -127,10 +131,8 @@ def main():
         res.setdefault(did, {"triggers": {}, "non_trigger": {}})
         if kind == "trigger":
             crit = pk["criteria"]
-            user = {"criteria": crit, "trigger": pk.get("trigger"), "names": pk.get("names"),
-                    "utterance": pk.get("utterance"), "actions": action_list}
             msgs = [{"role": "system", "content": SYS_CONTENT},
-                    {"role": "user", "content": json.dumps(user, ensure_ascii=False)}]
+                    {"role": "user", "content": user_block(pk, crit, SIT, NCTX)}]
             schema, name = CONTENT_SCHEMA, "content"
         else:
             msgs = [{"role": "system", "content": SYS_NT},
@@ -146,7 +148,7 @@ def main():
                                  "json_schema": {"name": name, "strict": True, "schema": schema}})
             out = json.loads(o.choices[0].message.content)
             if kind == "trigger":
-                g = grade(crit, out.get("met", []), actions_map, out.get("action", "other"), r_code[key])
+                g = grade(crit, out.get("met", []), out.get("misread", ""))
                 g["why"] = out.get("why", [])
                 res[did][slot][key] = g
             else:
