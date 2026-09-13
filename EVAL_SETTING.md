@@ -14,10 +14,28 @@ Timing is decided by rule. Content is decided by an LLM judge. Nothing else is s
 
 ## 1. How a run works
 
-The debater audio (every PRO and CON turn at its recorded time) plays from start to finish and is
-**never modified**. The model's own channel is **open for the whole debate**: nothing is forced into
-it, nothing is muted, no reference line is injected. Every utterance the model produces is logged
-with its onset time and text.
+The debater audio (every PRO and CON turn at its recorded time) plays from start to finish. The
+model's own channel is **open for the whole debate**: nothing is forced into it, nothing is muted,
+no reference line is injected. Every utterance the model produces is logged with its onset time and
+text.
+
+**The debater audio is paused only inside a moderator slot, and only to let the model finish.**
+Each slot where the reference moderator spoke is a *registered gap* — silence that is already in the
+static audio. A model may take longer there than the reference line did, or hesitate mid-sentence,
+and the next debater must not talk over it. So:
+
+- **Outside a registered gap the input keeps running while the model speaks.** Nothing is paused.
+  A cue that has to be laid over a speaker — A4 and A4xf — therefore requires a genuine barge-in,
+  and a model that cannot talk over live audio simply misses it.
+- **Inside a registered gap the input pauses** as soon as the model's own output goes active
+  (PCM peak ≥ 256), and resumes **1.0 s after** that output drains. The unused remainder of the gap
+  is dropped rather than played out.
+- While paused, zero-valued PCM is sent at the same 80 ms cadence, so the transport never stalls.
+
+The consequence is that a gap is **elastic**: session time and source time diverge as soon as a
+model speaks in a slot. Probe windows are defined in source time and mapped into session time
+through the run's clock spans; a harness that reports onsets must supply that mapping. Pausing is
+the only modification to the debater audio, and it never shortens or truncates a debater turn.
 
 This is the only mode we report. A probe-replay mode (reference moderator teacher-forced up to a
 release point, then one trigger freed) exists as a secondary tool for clean per-code timing.

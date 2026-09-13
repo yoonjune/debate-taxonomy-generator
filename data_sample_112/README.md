@@ -40,7 +40,10 @@ Full-duplex 음성 모델을 **토론 진행자 자리에 앉히고**, 언제 �
 ```
 data_sample_112/
 ├── README.md              이 문서
-├── system_prompt.md       모델에게 주는 지시 (자리표시자 3개)
+├── system_prompt.md       모델에게 주는 지시 (자리표시자 3개) — 기본
+├── system_prompt_v2.md    같은 지시의 변형안. 규칙을 항목으로 쪼개고,
+│                          크로스파이어 고지·종료에 "interrupt speaker by saying" 을 명시하고,
+│                          140초를 숫자로 적었다. 어느 쪽을 썼는지 보고서에 남겨야 한다.
 ├── eval_rubric.json       창·binary 기준·창 밖 판정 규격 (기계용)
 ├── score_freerun.py       채점기: 모델 발화 로그 → timing 분류 + judge 패킷
 ├── run_judge.py           judge 실행 (OpenAI 호환 모델, --yes 필수)
