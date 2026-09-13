@@ -48,13 +48,24 @@ release point, then one trigger freed) exists as a secondary tool for clean per-
 **Audio the harness must supply.** The debater audio is never cut, so the end of every scoring
 window is inside the input. A harness that truncates must include audio up to `t_latest + 3 s`.
 
-**What the model hears inside a window.** For A1, A2-1, A3-2 and the crossfire cue the speaker is
-still mid-sentence at the deadline and the audio keeps running into the window, then fades shortly
-after it: the reference moderator cut them there, and the mix reproduces that cut rather than
-letting the speech run on. The per-code figures are in the table below, and every probe carries
-`speech_until_sec` and `hears_in_window` so a harness can check exactly what was audible. A2-2,
-A3-1, B1 and B2 are the opposite by design — the speaker genuinely finished, so the window is
-silence.
+**A cue that has to be laid over a speaker has no silence to wait for.** A1, A2-1, A3-2, A4, A4xf
+and A5 all rest on the same premise — the speaker is still talking and has to be interrupted — so
+their windows carry speech for the whole two or four seconds and the model has to talk over it.
+There is no quiet moment to answer into:
+
+| code | silence inside the window | speech past the window end |
+|---|--:|--:|
+| `A1` | 0.00 s | 0.00 s |
+| `A2-1` | 0.00 s | 0.00 s |
+| `A3-2` | 0.00 s | 0.00 s |
+| `A4` | 0.20 s (a file seam inside one speech) | +9.2 s |
+| `A4xf` | 0.00 s | +5.3 s |
+| `A5` | 0.00 s | +0.3 s |
+
+The speech stops exactly at the window end, never short of it and never past it, so a model cannot
+score by waiting for the speaker to fall quiet. A2-2, A3-1, B1 and B2 are the opposite by design —
+the speaker genuinely finished, so the window is silence. Every probe carries `speech_until_sec` and
+`hears_in_window` for a harness to check.
 
 **Back-channels are never attributed to a trigger.** An utterance is a back-channel if its text is
 only a filler (`mm, mm-hm, uh-huh, yeah, okay, right, hmm, sure`) or it is under 0.4 s with at most
