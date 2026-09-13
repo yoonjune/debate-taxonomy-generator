@@ -30,6 +30,11 @@ and the next debater must not talk over it. So:
 - **Inside a registered gap the input pauses** as soon as the model's own output goes active
   (PCM peak ≥ 256), and resumes **1.0 s after** that output drains. The unused remainder of the gap
   is dropped rather than played out.
+- **If the model stays silent, the gap is capped at 2.0 s** and the next debater simply begins.
+  A reference moderator slot can be long — a median 13.1 s at A3-1 — and playing it out in full
+  against a silent model reads as a broken debate rather than as a moderator who said nothing.
+  2.0 s is the end of the ON_TIME window, so a model that answers in time is never cut off, while
+  one that answers late now talks over the next debater, which is what a real debate does.
 - While paused, zero-valued PCM is sent at the same 80 ms cadence, so the transport never stalls.
 
 The consequence is that a gap is **elastic**: session time and source time diverge as soon as a
