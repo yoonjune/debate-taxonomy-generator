@@ -1,5 +1,6 @@
 {
   "schema_version": "moderator-duplex-inference/v1",
+  "_status": "ARCHIVAL_ONLY: completed pre-cap v1 campaign; not valid under the current cap2s profile",
   "campaign_id": "gpt-live-gap-only-1000ms-five-case-reference",
   "provider": "gpt-live",
   "adapter": {

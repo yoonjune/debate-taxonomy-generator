@@ -57,6 +57,17 @@ def resolve(root: Path, value: str) -> Path:
     return path if path.is_absolute() else root / path
 
 
+def resolve_adapter(root: Path, value: str) -> Path:
+    """Resolve bundled adapters independently of the campaign workspace."""
+    if value.startswith("skill://"):
+        relative = value.removeprefix("skill://")
+        require(relative != "" and not Path(relative).is_absolute(), "Invalid skill adapter URI")
+        path = (SKILL_ROOT / relative).resolve()
+        require(SKILL_ROOT.resolve() in path.parents, "Skill adapter URI escapes the skill root")
+        return path
+    return resolve(root, value)
+
+
 def relative_or_absolute(root: Path, path: Path) -> str:
     try:
         return str(path.resolve().relative_to(root.resolve()))
@@ -267,7 +278,7 @@ def preflight(campaign_path: Path, workspace_root: Path, only_cases: list[str] |
     require(provider in PROVIDERS, f"Unknown provider: {provider}")
     adapter = campaign.get("adapter")
     require(isinstance(adapter, dict), "Missing adapter")
-    module_path = resolve(workspace_root, adapter.get("module_path", ""))
+    module_path = resolve_adapter(workspace_root, adapter.get("module_path", ""))
     expected_module_hash = adapter.get("module_sha256")
     require(isinstance(expected_module_hash, str) and len(expected_module_hash) == 64, "adapter.module_sha256 is required")
     actual_module_hash = check_hash(module_path, expected_module_hash, "adapter module")
@@ -380,6 +391,8 @@ def run_worker(state: dict[str, Any], work_id: str, billing: str | None, gpu_con
     module = load_adapter(state["adapter_path"])
     if state["provider"] == "gpt-live":
         require(billing == "paid-authorized", "GPT-Live requires --billing-confirmed paid-authorized")
+        require(hasattr(module, "set_workspace_root"), "GPT-Live adapter cannot bind the campaign workspace")
+        module.set_workspace_root(state["workspace_root"])
         ok = asyncio.run(module.run_session(plan, item["run"], plan_row["plan_sha256"]))
         return 0 if ok else 1
     if state["provider"] == "gemini":

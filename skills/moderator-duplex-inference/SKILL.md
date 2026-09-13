@@ -14,7 +14,7 @@ same audio boundary or interruption primitives.
 1. Read `references/campaign-contract.md` before creating or changing a campaign.
 2. If the provider is omitted, use `gpt-live`.
 3. For GPT-Live, read `references/gpt-live-canonical.json` and require every frozen invariant and the
-   pinned canonical adapter SHA to pass. Invoke that adapter's `run_session` unchanged.
+   pinned bundled adapter SHA to pass. Invoke that adapter's `run_session` unchanged.
 4. For Gemini or Moshi/PersonaPlex, read `references/provider-matrix.md`. Preserve provider-native
    differences in the campaign and normalized index rather than relaxing GPT-Live behavior.
 5. Run a dry-run before any inference. Dry-run must be network-free and must not create output.
@@ -26,25 +26,38 @@ same audio boundary or interruption primitives.
 8. After execution, collect the provider-neutral campaign index. Evaluate it separately with
    `moderator-duplex-eval`; inference must not silently judge its own outputs.
 
-## Commands
+## Independent install check
 
-Dry-run the completed canonical five-case GPT-Live campaign:
+The current GPT-Live adapter is bundled under `scripts/adapters/`; it must not depend on a
+repository-external `tasks/` path. From any clone or installed copy, verify the control plane,
+bundled SHA, and 2-second cap logic before making a campaign:
+
+```bash
+python -m unittest discover \
+  -s skills/moderator-duplex-inference/scripts \
+  -p 'test_*.py'
+```
+
+For execution, create a virtual environment and install `requirements-gpt-live.txt`, copy
+`references/gpt-live-campaign.template.json`, fill the plan path and SHA, and dry-run:
 
 ```bash
 python skills/moderator-duplex-inference/scripts/run_campaign.py \
-  --workspace-root /path/to/study \
-  --campaign skills/moderator-duplex-inference/references/gpt-live-five-case.example.json \
+  --workspace-root /path/to/campaign-workspace \
+  --campaign /path/to/campaign.json \
   --dry-run
 ```
 
-For a newly frozen plan with unused output paths, execution has the same command plus `--execute`
-and the required confirmation flag. Do not execute the included example: its outputs already exist
-and are preserved as the completed reference run.
+The workspace may contain `.envs/.env`; load it in the shell before execution so
+`OPENAI_API_KEY` is in the process environment. The skill never reads or copies the secret file.
+Execution uses the same command with `--execute --billing-confirmed paid-authorized` after explicit
+billing authorization. The old `gpt-live-five-case.example.json` is an archival v1 manifest for the
+completed pre-cap run, not a runnable current-profile example.
 
 ## GPT-Live equivalence boundary
 
 "Same" means the same session implementation and the same input/transport contract, not identical
-stochastic speech bytes. The regression gate pins the adapter source SHA, plan hashes, model,
+stochastic speech bytes. The regression gate pins the bundled adapter source SHA, plan hashes, model,
 endpoint, 24 kHz/80 ms transport, 1000 ms release pad, PCM peak threshold 256, exact-zero gating,
 registered-gap-only skip, one start cue, concurrency one, and 15-second receive tail.
 

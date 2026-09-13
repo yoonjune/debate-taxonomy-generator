@@ -82,6 +82,44 @@ class CampaignTests(unittest.TestCase):
         rows = RUNNER.validate_gpt_plan(self.plan, self.root, PROFILE)
         self.assertEqual([row["case_id"] for row in rows], ["L001"])
 
+    def test_canonical_adapter_is_bundled_and_hash_pinned(self):
+        adapter = RUNNER.resolve_adapter(self.root, PROFILE["canonical_adapter_path"])
+        self.assertTrue(adapter.is_file())
+        self.assertEqual(digest(adapter), PROFILE["canonical_adapter_sha256"])
+        self.assertTrue(str(adapter).startswith(str(SCRIPT.parents[1])))
+
+    def test_skill_adapter_uri_cannot_escape_skill_root(self):
+        with self.assertRaisesRegex(RUNNER.ContractError, "escapes"):
+            RUNNER.resolve_adapter(self.root, "skill://../outside.py")
+
+    def test_preflight_uses_bundled_adapter_outside_workspace(self):
+        plan_path = self.root / "plan.json"
+        save(plan_path, self.plan)
+        campaign_path = self.root / "campaign.json"
+        save(campaign_path, {
+            "schema_version": RUNNER.SCHEMA,
+            "campaign_id": "independent-install-test",
+            "provider": "gpt-live",
+            "adapter": {
+                "profile": PROFILE["profile"],
+                "module_path": PROFILE["canonical_adapter_path"],
+                "module_sha256": PROFILE["canonical_adapter_sha256"],
+            },
+            "jobs": [{
+                "job_id": "L001",
+                "plan_path": "plan.json",
+                "plan_sha256": digest(plan_path),
+            }],
+            "execution": {
+                "concurrency": 1,
+                "no_retry": True,
+                "skip_complete": True,
+            },
+        })
+        state = RUNNER.preflight(campaign_path, self.root)
+        self.assertEqual(state["provider"], "gpt-live")
+        self.assertFalse(str(state["adapter_path"]).startswith(str(self.root)))
+
     def test_gpt_threshold_drift_fails(self):
         plan = copy.deepcopy(self.plan)
         plan["input_controller"]["output_activity_detector"]["active_if_peak_abs_gte"] = 251

@@ -1,8 +1,8 @@
 {
   "profile": "gpt-live-gap-only-1000ms-cap2s-v1",
   "canonical_provider": "gpt-live",
-  "canonical_adapter_path": "tasks/gpt_live_gap_only_overlap_20260911/run_gap_only.py",
-  "canonical_adapter_sha256": "TBD — adapter must be updated for silence_cap_sec, then re-pinned",
+  "canonical_adapter_path": "skill://scripts/adapters/gpt_live_gap_only.py",
+  "canonical_adapter_sha256": "1fe417ae0869ee511fee4e014cb2b9dd3bbbb2e2eefb671cae4bc02be4441dd2",
   "model": "gpt-live-1",
   "endpoint": "wss://api.openai.com/v1/live/sessions",
   "audio_format": {

@@ -1,0 +1,5 @@
+# Versions recorded by the canonical GPT-Live pilot environment.
+numpy==2.0.2
+openai==2.48.0
+soundfile==0.13.1
+websockets==15.0.1

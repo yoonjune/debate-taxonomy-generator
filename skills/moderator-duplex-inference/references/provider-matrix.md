@@ -2,7 +2,7 @@
 
 | provider | canonical status | execution backend | concurrency | authorization | normalized model audio |
 |---|---|---|---:|---|---|
-| GPT-Live | canonical/default | pinned `run_session` from the frozen gap-only adapter | 1 | `--billing-confirmed paid-authorized` | `model_timeline.wav` |
+| GPT-Live | canonical/default | bundled and SHA-pinned gap-only `run_session` | 1 | `--billing-confirmed paid-authorized` | `model_timeline.wav` |
 | Gemini Live | comparison adapter | existing Gemini `run_session` | 1–3 | `--billing-confirmed free` or `paid-authorized` | `model_timeline.wav` |
 | Moshi/PersonaPlex | comparison adapter | existing chronological GPU runner | 1 | `--gpu-confirmed` | `output.wav` |
 
@@ -22,4 +22,6 @@ reported as a limitation, not hidden by the normalized index.
 Invoke the common runner with the Python environment that already supports the selected native
 adapter. GPT-Live and Gemini need their API dependencies and environment-provided key; Moshi needs
 the pinned Moshi/PersonaPlex environment, model weights, `moderator_bench` import path, and CUDA GPU.
-The skill does not install dependencies, download weights, or read secret files during dry-run.
+Install the GPT-Live dependencies from `requirements-gpt-live.txt` in an isolated environment.
+Gemini/Moshi dependencies and weights remain provider-native and are not bundled. The skill never
+reads secret files during dry-run.

@@ -1,0 +1,23 @@
+{
+  "schema_version": "moderator-duplex-inference/v1",
+  "campaign_id": "replace-with-a-frozen-campaign-id",
+  "provider": "gpt-live",
+  "adapter": {
+    "profile": "gpt-live-gap-only-1000ms-cap2s-v1",
+    "module_path": "skill://scripts/adapters/gpt_live_gap_only.py",
+    "module_sha256": "1fe417ae0869ee511fee4e014cb2b9dd3bbbb2e2eefb671cae4bc02be4441dd2"
+  },
+  "jobs": [
+    {
+      "job_id": "replace-with-job-id",
+      "plan_path": "replace/with/plan.json",
+      "plan_sha256": "replace-with-64-character-plan-sha256"
+    }
+  ],
+  "execution": {
+    "concurrency": 1,
+    "no_retry": true,
+    "skip_complete": true
+  },
+  "index_path": "replace/with/campaign-index.json"
+}

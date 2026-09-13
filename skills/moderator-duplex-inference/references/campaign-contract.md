@@ -8,7 +8,8 @@ from the campaign file.
 - `schema_version`: exactly `moderator-duplex-inference/v1`
 - `campaign_id`: stable non-empty identifier
 - `provider`: `gpt-live`, `gemini`, or `moshi`; omitted means `gpt-live`
-- `adapter.module_path`: existing provider implementation
+- `adapter.module_path`: provider implementation. `skill://...` resolves inside the installed skill;
+  other relative paths resolve from `--workspace-root`
 - `adapter.module_sha256`: required immutable source hash
 - `adapter.profile`: named semantic/runtime profile
 - `jobs`: non-empty list with unique `job_id`
@@ -50,6 +51,8 @@ and a new output path or a documented recovery procedure; this skill never delet
 Dry-run performs hashes, provider invariants, case selection, and collision checks without API/GPU
 execution or result writes. `--collect-only` writes a normalized pointer index but never copies WAVs.
 
-The bundled GPT-Live, Gemini, and Moshi example campaigns point to completed artifacts in the
-current study workspace. Use them for regression dry-runs only. For a new run, copy the relevant
-campaign and plan, choose unused output paths, and freeze new hashes before requesting execution.
+GPT-Live is self-contained: the current campaign template uses the bundled `skill://` adapter and
+can be installed independently of this study repository. The old five-case GPT-Live campaign and
+the Gemini/Moshi examples are historical workspace manifests; they require their referenced data
+and provider-native adapters. For a new run, copy the template, choose unused output paths, and
+freeze the plan and input hashes before requesting execution.

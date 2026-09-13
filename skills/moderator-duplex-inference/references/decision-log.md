@@ -26,7 +26,22 @@ Overlay codes are unaffected. A4, A4xf and A5 have no exactly-zero interval to r
 so nothing is paused there and nothing is capped.
 
 This changes frozen transport behaviour, so the profile is renamed
-`gpt-live-gap-only-1000ms-cap2s-v1` rather than edited in place. The adapter has to
-implement the cap and be re-pinned; `canonical_adapter_sha256` is TBD until it is.
+`gpt-live-gap-only-1000ms-cap2s-v1` rather than edited in place. That decision commit deliberately
+left `canonical_adapter_sha256` as TBD until the implementation and tests below were complete.
 Numbers produced under `gpt-live-gap-only-1000ms-v1` are not comparable to numbers
 produced under this profile.
+
+### Implementation resolution
+
+The cap is implemented in the bundled adapter as a source-clock operation. On entry to a
+registered exact-zero gap, the adapter opens a 2.0-second window. Speech-active model PCM
+(absolute peak at least 256) arriving by the deadline preserves the existing pause, queue-drain,
+1.0-second release-pad, and remainder-skip path. If none arrives, only the unplayed exact-zero
+remainder is skipped. Model audio arriving after the deadline is not suppressed and overlaps the
+resumed participant, while overlay codes remain untouched.
+
+The current adapter is now stored inside the skill at
+`skill://scripts/adapters/gpt_live_gap_only.py` and pinned by SHA in
+`gpt-live-canonical.json`. `gpt-live-canonical-v1.json` preserves the prior contract and SHA for
+historical reproduction. This also removes the current profile's dependency on a machine-specific
+repository-external `tasks/` path.
