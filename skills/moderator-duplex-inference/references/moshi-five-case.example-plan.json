@@ -1,0 +1,18 @@
+{
+  "schema_version": "moderator-duplex-moshi/v1",
+  "prepared_dir": "reports/moderator_freerun_20260908/inputs",
+  "output_dir": "reports/moderator_freerun_20260908/raw/runs/base",
+  "model": "base",
+  "selected_debates": ["L000", "L001", "L002", "L003", "L004"],
+  "concurrency": 1,
+  "path_remap": [
+    {
+      "from": "/workspace/moderator-freerun-20260908/eval/artifacts/prepared",
+      "to": "reports/moderator_freerun_20260908/inputs"
+    },
+    {
+      "from": "/workspace/moderator-freerun-20260908/data_sample_30",
+      "to": "tasks/moderator_freerun_20260908/repo/data_sample_30"
+    }
+  ]
+}

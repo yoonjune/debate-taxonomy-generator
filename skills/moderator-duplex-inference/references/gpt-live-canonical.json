@@ -1,0 +1,41 @@
+{
+  "profile": "gpt-live-gap-only-1000ms-v1",
+  "canonical_provider": "gpt-live",
+  "canonical_adapter_path": "tasks/gpt_live_gap_only_overlap_20260911/run_gap_only.py",
+  "canonical_adapter_sha256": "d994285f26c45bd0a5ef97b4237e350d400769ba1b7592eda02bacab00cc90f2",
+  "model": "gpt-live-1",
+  "endpoint": "wss://api.openai.com/v1/live/sessions",
+  "audio_format": {
+    "type": "audio/pcm",
+    "rate": 24000
+  },
+  "frame_ms": 80,
+  "concurrency": 1,
+  "tail_sec": 15,
+  "start_cue_text": "Please begin the debate.",
+  "input_controller": {
+    "type": "registered_gap_only_model_audio_gate",
+    "resume_pad_sec": 1.0,
+    "gate_timeout_sec": 120,
+    "completion_basis": "speech_active_playback_queue_drain_plus_pad",
+    "output_activity_detector": {
+      "type": "pcm_peak_absolute",
+      "active_if_peak_abs_gte": 256,
+      "calibration": "L107_invalid_attempt_1"
+    },
+    "outside_registered_gap": "continue_input_during_model_audio",
+    "inside_registered_gap": "pause_then_skip_remaining_exact_zero_gap",
+    "pause_sends_all_audio": true,
+    "phase_cues": false,
+    "gated_input_transport": {
+      "type": "zero_pcm_fill",
+      "frame_ms": 80,
+      "pcm_value": 0
+    }
+  },
+  "conditional_skip": {
+    "type": "remaining_mod_gap_after_completed_model_audio",
+    "gap_file_field": "conditional_gap_file",
+    "completion_is_controller_proxy": true
+  }
+}

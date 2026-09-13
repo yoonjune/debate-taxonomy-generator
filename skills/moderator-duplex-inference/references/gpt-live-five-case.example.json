@@ -1,0 +1,28 @@
+{
+  "schema_version": "moderator-duplex-inference/v1",
+  "campaign_id": "gpt-live-gap-only-1000ms-five-case-reference",
+  "provider": "gpt-live",
+  "adapter": {
+    "profile": "gpt-live-gap-only-1000ms-v1",
+    "module_path": "tasks/gpt_live_gap_only_overlap_20260911/run_gap_only.py",
+    "module_sha256": "d994285f26c45bd0a5ef97b4237e350d400769ba1b7592eda02bacab00cc90f2"
+  },
+  "jobs": [
+    {
+      "job_id": "L107",
+      "plan_path": "reports/gpt_live_gap_only_zero_fill_1000ms_20260913/plan.json",
+      "plan_sha256": "31a005518df3e49b3971faed80e1514c9ec13e8d86282c5caa4e2b466961e4f4"
+    },
+    {
+      "job_id": "continuation",
+      "plan_path": "reports/gpt_live_gap_only_zero_fill_1000ms_20260913_continuation/plan.json",
+      "plan_sha256": "e534b7ad96d79750111c4de185e4045e4cd39ed6e94cb021d3d716f51d656008"
+    }
+  ],
+  "execution": {
+    "concurrency": 1,
+    "no_retry": true,
+    "skip_complete": true
+  },
+  "index_path": "reports/gpt_live_gap_only_zero_fill_1000ms_20260913/campaign-index.json"
+}

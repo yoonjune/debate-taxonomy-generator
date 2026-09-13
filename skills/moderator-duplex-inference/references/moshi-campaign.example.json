@@ -1,0 +1,23 @@
+{
+  "schema_version": "moderator-duplex-inference/v1",
+  "campaign_id": "moshi-personaplex-base-five-case-reference",
+  "provider": "moshi",
+  "adapter": {
+    "profile": "personaplex-moshi-chronological-v1",
+    "module_path": "tasks/moderator_freerun_20260908/run_freerun.py",
+    "module_sha256": "f36eb6b464fbe2c883364eafc37b594f446aa559631a34b18e5343a9063523d8"
+  },
+  "jobs": [
+    {
+      "job_id": "base-five",
+      "plan_path": "debate-taxonomy-generator-renewal-30-shallow/skills/moderator-duplex-inference/references/moshi-five-case.example-plan.json",
+      "plan_sha256": "327163d83cd52a49bc548eb5fe7d9d7bb82d7ad29d6b461778c5a4b2af98b205"
+    }
+  ],
+  "execution": {
+    "concurrency": 1,
+    "no_retry": true,
+    "skip_complete": true
+  },
+  "index_path": "reports/moderator_freerun_20260908/moshi-base-five-campaign-index.json"
+}

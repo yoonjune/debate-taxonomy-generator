@@ -1,0 +1,23 @@
+{
+  "schema_version": "moderator-duplex-inference/v1",
+  "campaign_id": "gemini-conditional-skip-reference",
+  "provider": "gemini",
+  "adapter": {
+    "profile": "gemini-conditional-skip-20260910-v1",
+    "module_path": "tasks/gemini_conditional_skip_20260910/run_matrix.py",
+    "module_sha256": "7d10729aeb8d22a8f4eb1b4db7560c51096e26ad15e33746d8f1f502b28755d9"
+  },
+  "jobs": [
+    {
+      "job_id": "reference",
+      "plan_path": "reports/gemini_conditional_skip_20260910/plan.json",
+      "plan_sha256": "b3debb3903fd48e51d1bfb4cc04e372f74dd9f1136c3ac855d82a8056d1d279a"
+    }
+  ],
+  "execution": {
+    "concurrency": 3,
+    "no_retry": true,
+    "skip_complete": true
+  },
+  "index_path": "reports/gemini_conditional_skip_20260910/campaign-index.json"
+}
