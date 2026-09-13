@@ -36,6 +36,31 @@ class EvalHelpersTest(unittest.TestCase):
         )
         self.assertEqual(len(FINALIZER.BARGE_PRECEDENCE), 7)
 
+    def test_mechanical_barge_in_with_semantic_backchannel_is_grouped(self):
+        utt = {
+            "barge_in": True,
+            "utterance_id": "D:utt:7",
+            "stale_review_candidates": [],
+        }
+        group, disagreement = FINALIZER.diagnostic_group(
+            utt, [], set(), {"D:utt:7": {"verdict": "backchannel"}}
+        )
+        self.assertEqual(group, "other_contextually_acceptable_barge_in")
+        self.assertTrue(disagreement)
+
+    def test_non_barge_in_does_not_create_disagreement(self):
+        utt = {
+            "barge_in": False,
+            "utterance_id": "D:utt:7",
+            "stale_review_candidates": [],
+        }
+        self.assertEqual(
+            FINALIZER.diagnostic_group(
+                utt, [], set(), {"D:utt:7": {"verdict": "backchannel"}}
+            ),
+            (None, False),
+        )
+
     def test_timing_boundaries(self):
         self.assertEqual(MODULE.classify_timing(8.0, 8.0, 12.0), "ON_TIME")
         self.assertEqual(MODULE.classify_timing(12.0, 8.0, 12.0), "ON_TIME")
@@ -47,6 +72,39 @@ class EvalHelpersTest(unittest.TestCase):
         self.assertTrue(MODULE.is_backchannel({"start_sec": 0, "end_sec": 0.2, "text": "Okay"}, CONTRACT))
         self.assertFalse(MODULE.is_backchannel({"start_sec": 0, "end_sec": 0.2, "text": "Time."}, CONTRACT))
         self.assertFalse(MODULE.is_backchannel({"start_sec": 0, "end_sec": 1.0, "text": "Ten seconds"}, CONTRACT))
+
+    def test_content_contract_uses_misread_and_no_action_list(self):
+        self.assertIn("misread", CONTRACT["content"]["output"])
+        self.assertNotIn("actions", CONTRACT["content"])
+
+    def test_content_packet_is_plain_and_uses_five_prior_realized_turns(self):
+        current = {"turn": 99, "start_sec": 10.0, "end_sec": 11.0, "text": "Next round."}
+        run = {
+            "input_turns": [
+                {"speaker": "PRO", "name": "A", "session_start_sec": 0.0,
+                 "session_end_sec": 1.0, "text": "one"},
+                {"speaker": "CON", "name": "B", "session_start_sec": 1.0,
+                 "session_end_sec": 2.0, "text": "two"},
+                {"speaker": "PRO", "name": "A", "session_start_sec": 2.0,
+                 "session_end_sec": 3.0, "text": "three"},
+                {"speaker": "CON", "name": "B", "session_start_sec": 3.0,
+                 "session_end_sec": 4.0, "text": "four"},
+                {"speaker": "PRO", "name": "A", "session_start_sec": 4.0,
+                 "session_end_sec": 5.0, "text": "five"},
+                {"speaker": "CON", "name": "B", "session_start_sec": 5.0,
+                 "session_end_sec": 6.0, "text": "six"},
+            ],
+            "model_turns": [current],
+        }
+        context = MODULE.content_context_turns(run, 10.0, current, "Chair")
+        self.assertEqual([row["text"] for row in context], ["two", "three", "four", "five", "six"])
+        message = MODULE.content_user_message(
+            context, current["text"], "Both openings are done.", ["opens the next round"], "Chair"
+        )
+        self.assertIn("Situation: Both openings are done.", message)
+        self.assertIn("<<< judge this line", message)
+        self.assertNotIn("A3-1", message)
+        self.assertNotIn("action", message.lower())
 
     def test_piecewise_clock_mapping(self):
         spans = [

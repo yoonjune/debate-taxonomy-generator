@@ -17,12 +17,18 @@
   It is a reproducible operational diagnostic, not human speech-activity gold.
 - Deterministic code produces blinded semantic packets. A fresh Codex reviewer decides content,
   contextual acceptability, and stale correctness; model-only results remain provisional.
-- The blinded packet carries its own strict output schema (`items[].met/why/action` or
+- The blinded packet carries its own strict output schema (`items[].met/why/misread` or
   `items[].verdict/violated_duty/why`) so automatic merge never depends on an out-of-band prompt or
   manual review-file conversion.
+- The content judge receives a readable five-turn transcript plus situation and rule criteria, never
+  taxonomy codes, a reference answer, trigger metadata, or an action list. `misread` is retained as
+  free text; predicted-action mapping is a separate post-mapping operation and defaults to `UNKNOWN`.
+- Mechanical barge-in classification controls the §4.1 denominator. An unmatched mechanical
+  barge-in judged semantically as `backchannel` is grouped as contextually acceptable while its
+  semantic label is preserved and its utterance ID is recorded as a disagreement.
 - A root-discovered row-level judge error is corrected by a fresh blinded subset adjudication,
   never by editing the primary review. The finalizer applies explicit overrides and preserves their
   paths, reviewer metadata, and review IDs.
-- Required report statistics (per-code onset median/IQR, half-credit causes, predicted-action
-  counts, and per-debate non-trigger verdicts) are derived from finalized rows by code rather than
+- Required report statistics (per-code onset median/IQR, half-credit causes, misread text and
+  explicit `UNKNOWN` predicted-action counts, and per-debate non-trigger verdicts) are derived from finalized rows by code rather than
   filled into narrative reports manually.

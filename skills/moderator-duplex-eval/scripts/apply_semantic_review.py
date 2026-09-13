@@ -49,6 +49,39 @@ def distribution(values: list[float]) -> dict[str, Any]:
     }
 
 
+def diagnostic_group(
+    utt: dict[str, Any],
+    links: list[dict[str, Any]],
+    stale_correct: set[tuple[str, str]],
+    nontrigger_reviews: dict[str, dict[str, Any]],
+) -> tuple[str | None, bool]:
+    """Assign one §4.1 group and expose a mechanical/semantic backchannel disagreement."""
+    if not utt["barge_in"]:
+        return None, False
+    if any(row["timing"] == "ON_TIME" and row["content_score"] == 1.0 for row in links):
+        return "on_time_required_and_correct", False
+    if any(row["timing"] == "LATE" and row["content_score"] == 1.0 for row in links):
+        return "late_required_and_correct", False
+    if any(row["timing"] == "PREMATURE" and row["content_score"] == 1.0 for row in links):
+        return "premature_but_content_correct", False
+    if links:
+        return "other_matched_barge_in", False
+    if any((utt["utterance_id"], stale["gt_id"]) in stale_correct
+           for stale in utt["stale_review_candidates"]):
+        return "stale_required_action", False
+
+    verdict = (nontrigger_reviews.get(utt["utterance_id"]) or {}).get("verdict")
+    if verdict == "acceptable":
+        return "other_contextually_acceptable_barge_in", False
+    if verdict == "backchannel":
+        # Mechanical onset/VAD classification is authoritative for §4.1 denominators. Keep
+        # the judge's semantic label in the output, but do not leave this barge-in ungrouped.
+        return "other_contextually_acceptable_barge_in", True
+    if verdict in ("awkward", "violation"):
+        return "other_awkward_or_violating_barge_in", False
+    return "UNKNOWN", False
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--deterministic-dir", required=True, type=Path)
@@ -95,8 +128,8 @@ def main() -> None:
                 if not isinstance(why, list) or len(why) != len(criteria) or not all(isinstance(v, str) and v.strip() for v in why):
                     errors.append(f"{source_name}/{review_id}: why must contain one non-empty string per criterion")
                     continue
-                if item.get("action") not in packet_items[review_id]["actions"]:
-                    errors.append(f"{source_name}/{review_id}: action must be copied from the supplied list")
+                if not isinstance(item.get("misread"), str):
+                    errors.append(f"{source_name}/{review_id}: misread must be a string (empty when none)")
                     continue
             elif task == "non_trigger":
                 if item.get("verdict") not in packet_items[review_id]["allowed_verdicts"]:
@@ -125,6 +158,8 @@ def main() -> None:
             updated["joint_score"] = 0.0
             updated["content_provenance"] = "no attributed utterance"
         else:
+            updated["predicted_action"] = "UNKNOWN"
+            updated["predicted_action_mapping"] = "NOT_AUTOMATICALLY_MAPPED"
             review_id = f"content:{row['gt_id']}"
             review = judgments.get(review_id)
             if review is None:
@@ -137,7 +172,9 @@ def main() -> None:
                 updated["content_score"] = score
                 updated["content_met"] = review["met"]
                 updated["content_why"] = review["why"]
-                updated["predicted_action"] = review["action"]
+                updated["misread"] = review["misread"].strip()
+                # The blinded judge receives no action list. Preserve free text and do not
+                # infer a taxonomy label from it; any mapping is a separate post-processing step.
                 updated["joint_score"] = score if row["timing"] == "ON_TIME" else 0.0
                 updated["content_provenance"] = "fresh blinded semantic review"
                 content_by_gt[row["gt_id"]] = score
@@ -165,33 +202,25 @@ def main() -> None:
 
     rows_by_gt = {row["gt_id"]: row for row in timing_rows}
     group_counts: Counter[str] = Counter()
+    semantic_backchannel_disagreements: list[dict[str, Any]] = []
     run_outputs: list[dict[str, Any]] = []
     for run in barge["runs"]:
         output_utts: list[dict[str, Any]] = []
         for utt in run["utterances"]:
             updated = dict(utt)
-            group = None
-            if utt["barge_in"]:
-                links = [rows_by_gt[gt_id] for gt_id in utt["matched_gt_ids"]]
-                if any(row["timing"] == "ON_TIME" and row["content_score"] == 1.0 for row in links):
-                    group = "on_time_required_and_correct"
-                elif any(row["timing"] == "LATE" and row["content_score"] == 1.0 for row in links):
-                    group = "late_required_and_correct"
-                elif any(row["timing"] == "PREMATURE" and row["content_score"] == 1.0 for row in links):
-                    group = "premature_but_content_correct"
-                elif links:
-                    group = "other_matched_barge_in"
-                elif any((utt["utterance_id"], stale["gt_id"]) in stale_correct
-                         for stale in utt["stale_review_candidates"]):
-                    group = "stale_required_action"
-                else:
-                    verdict = (nontrigger_reviews.get(utt["utterance_id"]) or {}).get("verdict")
-                    if verdict == "acceptable":
-                        group = "other_contextually_acceptable_barge_in"
-                    elif verdict in ("awkward", "violation"):
-                        group = "other_awkward_or_violating_barge_in"
-                    else:
-                        group = "UNKNOWN"
+            links = [rows_by_gt[gt_id] for gt_id in utt["matched_gt_ids"]]
+            group, disagreement = diagnostic_group(
+                utt, links, stale_correct, nontrigger_reviews
+            )
+            if disagreement:
+                semantic_backchannel_disagreements.append({
+                    "utterance_id": utt["utterance_id"],
+                    "debate_id": utt["debate_id"],
+                    "semantic_verdict": "backchannel",
+                    "mechanical_backchannel": False,
+                    "diagnostic_group": group,
+                })
+            if group is not None:
                 group_counts[group] += 1
             updated["diagnostic_group"] = group
             nontrigger_review = nontrigger_reviews.get(utt["utterance_id"]) or {}
@@ -218,6 +247,7 @@ def main() -> None:
         actions = Counter(
             row["predicted_action"] for row in rows if row.get("predicted_action")
         )
+        misreads = Counter(row["misread"] for row in rows if row.get("misread"))
         half_credit: list[dict[str, Any]] = []
         for row in rows:
             if row.get("content_score") != 0.5:
@@ -237,6 +267,8 @@ def main() -> None:
             "content_mean_known": sum(content) / len(content) if content else None,
             "joint_mean_known": sum(joint) / len(joint) if joint else None,
             "predicted_action_counts": dict(actions),
+            "predicted_action_mapping": "NOT_AUTOMATICALLY_MAPPED",
+            "misread_counts": dict(misreads),
             "half_credit": half_credit,
         }
 
@@ -290,6 +322,8 @@ def main() -> None:
         "by_code": by_code,
         "per_debate": per_debate,
         "barge_in_groups": {key: group_counts.get(key, 0) for key in BARGE_PRECEDENCE},
+        "barge_in_semantic_backchannel_disagreement_n": len(semantic_backchannel_disagreements),
+        "barge_in_semantic_backchannel_disagreements": semantic_backchannel_disagreements,
         "missing_review_ids": sorted(set(missing_reviews)),
         "review_validation": {
             "packet_items": len(packet_items),

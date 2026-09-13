@@ -103,13 +103,14 @@ denominator or force an outcome.
 ## Semantic stage
 
 Give only `review_packet.json` to a fresh Codex session. Under the project policy, do not use
-Claude. Keep taxonomy codes, timing classes, reference moderator lines, and `review_key.json`
-hidden from the content reviewer.
+Claude. Keep taxonomy codes, timing classes, reference moderator lines, action lists, trigger
+metadata, and `review_key.json` hidden from the content reviewer. The packet itself must provide
+only the readable five-turn transcript, situation, and rule criteria.
 
 The reviewer handles only what code cannot decide:
 
 - per-criterion content correctness and half credit;
-- predicted action;
+- free-text `misread` description when the line did something else (no action list is shown);
 - unmatched `acceptable` / `awkward` / `violation` judgments;
 - whether a temporal stale candidate actually satisfies the earlier missed action.
 
@@ -145,7 +146,8 @@ Keep these denominators visible and separate:
 - barge-ins and backchannels over participant speech.
 
 Report per code: timing distribution, onset-minus-deadline distribution, content mean, joint mean,
-half-credit breakdown, and predicted-action confusion. Report per debate: primary GT count,
+half-credit breakdown, misread text, and predicted-action confusion (explicitly `UNKNOWN` until a
+separate post-mapping step). Report per debate: primary GT count,
 non-trigger utterances and verdicts, plus mechanical failures.
 
 For §4.1, count utterances rather than chunks or overlap spans and use this disjoint precedence:
@@ -157,6 +159,10 @@ For §4.1, count utterances rather than chunks or overlap spans and use this dis
 5. stale required action;
 6. other contextually acceptable barge-in;
 7. other awkward or violating barge-in.
+
+Mechanical barge-in status controls membership in these groups. If an unmatched mechanical
+barge-in is semantically labeled `backchannel`, preserve that review label but count it as
+`other contextually acceptable barge-in` and record the mechanical/semantic disagreement IDs.
 
 Stale findings never rematch an utterance or change `MISSED`. Keep A4 and A4xf separate.
 

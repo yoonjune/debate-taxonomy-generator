@@ -24,6 +24,11 @@ from typing import Any, Iterable
 HERE = Path(__file__).resolve().parent
 DEFAULT_CONTRACT = HERE.parent / "references" / "eval-contract.json"
 EPS = 1e-6
+# Probe deadlines are stored at millisecond/centisecond precision while the
+# recorded source span endpoints come from exact PCM sample counts.  Permit
+# only a sub-sample-scale endpoint rounding discrepancy; times in the interior
+# of a skipped gap still fail closed below.
+SPAN_ENDPOINT_EPS = 1e-4
 
 
 class ContractError(RuntimeError):
@@ -94,6 +99,20 @@ def source_to_session(source_sec: float, spans: list[dict[str, Any]]) -> float:
             value = float(span["session_start_sec"]) + (source_sec - lo)
             mapped.append(value)
     if not mapped:
+        endpoint_matches: list[float] = []
+        for span in spans:
+            for source_endpoint, session_endpoint in (
+                (float(span["source_start_sec"]), float(span["session_start_sec"])),
+                (float(span["source_end_sec"]), float(span["session_end_sec"])),
+            ):
+                if abs(source_sec - source_endpoint) <= SPAN_ENDPOINT_EPS:
+                    endpoint_matches.append(session_endpoint + (source_sec - source_endpoint))
+        if endpoint_matches:
+            if max(endpoint_matches) - min(endpoint_matches) > 1e-4:
+                raise ContractError(
+                    f"source time {source_sec:.6f}s maps ambiguously at span endpoint: {endpoint_matches}"
+                )
+            return sum(endpoint_matches) / len(endpoint_matches)
         raise ContractError(f"source time {source_sec:.6f}s has no clock-span mapping")
     if max(mapped) - min(mapped) > 1e-4:
         raise ContractError(f"source time {source_sec:.6f}s maps ambiguously: {mapped}")
@@ -472,6 +491,66 @@ def transcript_context(run: dict[str, Any], onset: float) -> list[str]:
     return context
 
 
+def content_context_turns(
+    run: dict[str, Any],
+    onset: float,
+    excluded_turn: dict[str, Any],
+    moderator_name: str,
+    limit: int = 5,
+) -> list[dict[str, str]]:
+    """Return the five realized turns immediately before a model line.
+
+    The semantic contract wants readable context, including earlier moderator lines. The
+    scaffold stores participant and model turns separately, so merge both event streams here.
+    The current candidate is explicitly excluded; timing and attribution remain unchanged.
+    """
+    events: list[dict[str, Any]] = []
+    for turn in run["input_turns"]:
+        start = float(turn["start_sec"] if "start_sec" in turn else turn["session_start_sec"])
+        end = float(turn["end_sec"] if "end_sec" in turn else turn["session_end_sec"])
+        if start >= onset + EPS:
+            continue
+        events.append({
+            "start": start,
+            "end": end,
+            "speaker": turn.get("speaker", "UNKNOWN"),
+            "name": turn.get("name") or turn.get("speaker", "UNKNOWN"),
+            "text": turn.get("text") or "",
+        })
+    for turn in run["model_turns"]:
+        if turn is excluded_turn or float(turn["start_sec"]) >= onset + EPS:
+            continue
+        events.append({
+            "start": float(turn["start_sec"]),
+            "end": float(turn["end_sec"]),
+            "speaker": "MOD",
+            "name": moderator_name,
+            "text": turn.get("text") or "",
+        })
+    events.sort(key=lambda row: (row["end"], row["start"]))
+    return [
+        {"speaker": row["speaker"], "name": row["name"], "text": row["text"]}
+        for row in events[-limit:]
+    ]
+
+
+def content_user_message(
+    context_turns: list[dict[str, str]],
+    utterance: str | None,
+    situation: str,
+    criteria: list[str],
+    moderator_name: str = "MOD",
+) -> str:
+    """Render the blinded content packet in the EVAL_SETTING plain-text format."""
+    lines = ["--- transcript ---"]
+    for turn in context_turns:
+        lines.append(f"{turn['speaker']} ({turn['name']}): {turn['text']}")
+    lines.append(f"MOD ({moderator_name}): {utterance or ''}      <<< judge this line")
+    lines.extend(["", f"Situation: {situation}", "Rule — the moderator had to:"])
+    lines.extend(f"  {i}. {criterion}" for i, criterion in enumerate(criteria, 1))
+    return "\n".join(lines)
+
+
 def run_mechanical(
     workspace: Path,
     report_dir: Path,
@@ -688,15 +767,21 @@ def main() -> None:
                 if anchor_review_stage and link["code"] != "A3-1":
                     continue
                 review_id = f"content:{link['gt_id']}"
+                context_turns = content_context_turns(
+                    run, onset, turn, debates[debate_id]["speakers"]["MOD"]["name"]
+                )
                 all_review_items.append({
                     "review_id": review_id,
                     "task": "content",
                     "system": contract["content"]["judge_system"],
                     "criteria": link["criteria"],
-                    "trigger": {"text": link["trigger_text"]},
-                    "names": {key: value["name"] for key, value in debates[debate_id]["speakers"].items()},
-                    "utterance": turn.get("text"),
-                    "actions": contract["content"]["actions"],
+                    "user_message": content_user_message(
+                        context_turns,
+                        turn.get("text"),
+                        contract["content"]["situation"][link["code"]],
+                        link["criteria"],
+                        debates[debate_id]["speakers"]["MOD"]["name"],
+                    ),
                 })
                 review_key.append({
                     "review_id": review_id, "task": "content", "gt_id": link["gt_id"],
@@ -724,15 +809,21 @@ def main() -> None:
             for stale in (stale_candidates if not anchor_review_stage else []):
                 missed = next(row for row in timing_rows if row["gt_id"] == stale["gt_id"])
                 review_id = f"stale:{utterance_id}:{missed['gt_id']}"
+                context_turns = content_context_turns(
+                    run, onset, turn, debates[debate_id]["speakers"]["MOD"]["name"]
+                )
                 all_review_items.append({
                     "review_id": review_id,
                     "task": "stale_content",
                     "system": contract["content"]["judge_system"],
                     "criteria": missed["criteria"],
-                    "trigger": {"text": missed["trigger_text"]},
-                    "names": {key: value["name"] for key, value in debates[debate_id]["speakers"].items()},
-                    "utterance": turn.get("text"),
-                    "actions": contract["content"]["actions"],
+                    "user_message": content_user_message(
+                        context_turns,
+                        turn.get("text"),
+                        contract["content"]["situation"][missed["code"]],
+                        missed["criteria"],
+                        debates[debate_id]["speakers"]["MOD"]["name"],
+                    ),
                 })
                 review_key.append({
                     "review_id": review_id, "task": "stale_content",
@@ -813,7 +904,7 @@ def main() -> None:
                 "review_id": "copy exactly",
                 "met": "boolean array, one value per criterion in order",
                 "why": "string array, one reason per criterion in order",
-                "action": "copy exactly one value from the supplied actions list",
+                "misread": "free-text description of what the line did instead, or empty string",
             },
             "non_trigger_item": {
                 "review_id": "copy exactly",

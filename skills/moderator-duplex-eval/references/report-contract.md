@@ -51,6 +51,15 @@ The full `evaluate_report.py` pass writes:
 - `review_key.json`: the mapping that must not be shown to the content reviewer;
 - `manifest.json`: input hashes and scorer configuration.
 
+The finalized report keeps mechanically detected barge-ins in the seven disjoint §4.1 groups.
+If an unmatched mechanical barge-in receives semantic verdict `backchannel`, retain that verdict
+and its provenance, place the utterance in `other_contextually_acceptable_barge_in`, and list its
+ID in `barge_in_semantic_backchannel_disagreements`.
+
+Each content/stale item in `review_packet.json` carries a plain-text `user_message` containing
+exactly the five preceding realized turns, the candidate line marker, the situation, and the rule
+criteria. It does not carry the source trigger, reference answer, or taxonomy code.
+
 For a reference fallback, map `xf_open_sec + 140 s` or `xf_open_sec + 150 s` through the complete
 piecewise clock. For a valid model anchor, add the offset to the model A3-1 utterance's session end.
 The two operations are intentionally different when registered gaps were skipped.
@@ -72,7 +81,7 @@ session. The packet embeds this output contract so the reviewer must not rename 
       "review_id": "opaque id from packet",
       "met": [true, false],
       "why": ["criterion one reason", "criterion two reason"],
-      "action": "one action copied from the supplied list"
+      "misread": "free text describing what it did instead, or empty string"
     },
     {
       "review_id": "opaque non-trigger id",
@@ -84,8 +93,11 @@ session. The packet embeds this output contract so the reviewer must not rename 
 }
 ```
 
-Do not show `review_key.json`, taxonomy codes, reference moderator text, or timing class to the
-content reviewer. Missing or malformed judgments remain `UNKNOWN`.
+The content packet contains only the readable transcript, situation, and rule criteria. It must not
+contain a taxonomy code, action list, reference moderator answer, trigger metadata, or timing class.
+Do not show `review_key.json` to the content reviewer. `misread` is preserved as judge text; an
+automatic mapping to a predicted action is not assumed and is recorded as `UNKNOWN` unless a
+separate post-mapping step is explicitly run. Missing or malformed judgments remain `UNKNOWN`.
 
 `apply_semantic_review.py` validates this file and writes `final_evaluation.json`. Report the
 result as provisional unless an independent human validity protocol was actually completed.
