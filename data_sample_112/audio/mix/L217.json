@@ -1,5 +1,5 @@
 {
- "debate_id": "L158",
+ "debate_id": "L217",
  "motion": "The liberal international order is over",
  "speakers": {
   "MOD": {
@@ -387,5 +387,7 @@
    "overlap": false,
    "text": "Thank you, Enrique and Annette, for a thoughtful exchange; this concludes our debate on today's motion."
   }
- ]
+ ],
+ "orig_id": "L158",
+ "batch": "v12"
 }

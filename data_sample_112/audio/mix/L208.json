@@ -1,5 +1,5 @@
 {
- "debate_id": "L143",
+ "debate_id": "L208",
  "motion": "Taylor Swift deserves her billion-dollar fortune.",
  "speakers": {
   "MOD": {
@@ -401,5 +401,7 @@
    "overlap": false,
    "text": "Thank you, Andreas and Nina, for a thoughtful debate. That concludes our discussion of this motion today."
   }
- ]
+ ],
+ "orig_id": "L143",
+ "batch": "v12"
 }

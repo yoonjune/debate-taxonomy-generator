@@ -1,5 +1,5 @@
 {
- "debate_id": "L119",
+ "debate_id": "L195",
  "motion": "The Equal Protection Clause Does Not Require States To License Same-Sex Marriages",
  "speakers": {
   "MOD": {
@@ -381,5 +381,7 @@
    "overlap": false,
    "text": "Thank you, Liz and Joanna, for a thoughtful debate; this concludes our discussion of the motion today."
   }
- ]
+ ],
+ "orig_id": "L119",
+ "batch": "v12"
 }

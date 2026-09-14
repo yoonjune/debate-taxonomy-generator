@@ -1,5 +1,5 @@
 {
- "debate_id": "L130",
+ "debate_id": "L200",
  "motion": "We should erase bad memories.",
  "speakers": {
   "MOD": {
@@ -398,5 +398,7 @@
    "overlap": false,
    "text": "Thank you, Rima and Mira, for a thoughtful debate. That concludes our discussion of whether bad memories should be erased."
   }
- ]
+ ],
+ "orig_id": "L130",
+ "batch": "v12"
 }

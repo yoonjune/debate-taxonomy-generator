@@ -1,5 +1,5 @@
 {
- "debate_id": "L080",
+ "debate_id": "L171",
  "motion": "Netanyahu's government is heading in the wrong direction.",
  "speakers": {
   "MOD": {
@@ -381,5 +381,7 @@
    "overlap": false,
    "text": "Thank you, Terence and Derek, for a thoughtful exchange; this concludes our debate on the motion for today."
   }
- ]
+ ],
+ "orig_id": "L080",
+ "batch": "v12"
 }

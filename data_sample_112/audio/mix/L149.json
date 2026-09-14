@@ -1,5 +1,5 @@
 {
- "debate_id": "L051",
+ "debate_id": "L149",
  "motion": "It's time to end the War on Terror.",
  "speakers": {
   "MOD": {
@@ -382,5 +382,7 @@
    "overlap": false,
    "text": "Thank you, Chuck and Genevieve, for a vigorous debate on this motion; that concludes our discussion for tonight."
   }
- ]
+ ],
+ "orig_id": "L051",
+ "batch": "v12"
 }

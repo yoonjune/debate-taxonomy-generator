@@ -1,5 +1,5 @@
 {
- "debate_id": "L198",
+ "debate_id": "L238",
  "motion": "The Palestinians should give up their full right of return",
  "speakers": {
   "MOD": {
@@ -407,5 +407,7 @@
    "overlap": false,
    "text": "Thank you, Pamela and Isaac, for a thoughtful debate; this concludes our discussion of the motion tonight."
   }
- ]
+ ],
+ "orig_id": "L198",
+ "batch": "v12"
 }

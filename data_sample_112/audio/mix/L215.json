@@ -1,5 +1,5 @@
 {
- "debate_id": "L154",
+ "debate_id": "L215",
  "motion": "Marriage between close family members should be discouraged",
  "speakers": {
   "MOD": {
@@ -416,5 +416,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful discussion of this motion; that concludes our debate, and we appreciate your participation."
   }
- ]
+ ],
+ "orig_id": "L154",
+ "batch": "v12"
 }

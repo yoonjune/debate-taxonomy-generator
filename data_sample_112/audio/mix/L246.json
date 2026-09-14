@@ -1,5 +1,5 @@
 {
- "debate_id": "L212",
+ "debate_id": "L246",
  "motion": "It is wrong to pay for sex.",
  "speakers": {
   "MOD": {
@@ -406,5 +406,7 @@
    "overlap": false,
    "text": "Thank you, Alina and Leo, for a thoughtful debate on this motion. That concludes our discussion today."
   }
- ]
+ ],
+ "orig_id": "L212",
+ "batch": "v12"
 }

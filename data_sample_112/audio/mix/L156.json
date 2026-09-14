@@ -1,5 +1,5 @@
 {
- "debate_id": "L060",
+ "debate_id": "L156",
  "motion": "Containment is not enough: ISIS must be defeated",
  "speakers": {
   "MOD": {
@@ -372,5 +372,7 @@
    "overlap": false,
    "text": "Thank you, Kate and Nick, for a thoughtful exchange; this debate is now closed, and we appreciate your arguments."
   }
- ]
+ ],
+ "orig_id": "L060",
+ "batch": "v12"
 }

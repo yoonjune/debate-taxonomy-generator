@@ -1,5 +1,5 @@
 {
- "debate_id": "L015",
+ "debate_id": "L124",
  "motion": "America is too obsessed with race",
  "speakers": {
   "MOD": {
@@ -429,5 +429,7 @@
    "overlap": false,
    "text": "Thank you, Claudia and Monica, for a thoughtful debate. That concludes our discussion; thank you for listening today."
   }
- ]
+ ],
+ "orig_id": "L015",
+ "batch": "v12"
 }

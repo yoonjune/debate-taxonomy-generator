@@ -1,5 +1,5 @@
 {
- "debate_id": "L003",
+ "debate_id": "L114",
  "motion": "It's time to end affirmative action",
  "speakers": {
   "MOD": {
@@ -432,5 +432,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful debate on affirmative action; this concludes our discussion of tonight's motion now."
   }
- ]
+ ],
+ "orig_id": "L003",
+ "batch": "v12"
 }

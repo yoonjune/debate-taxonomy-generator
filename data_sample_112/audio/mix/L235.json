@@ -1,5 +1,5 @@
 {
- "debate_id": "L192",
+ "debate_id": "L235",
  "motion": "The Effective Altruism movement gets giving right.",
  "speakers": {
   "MOD": {
@@ -434,5 +434,7 @@
    "overlap": false,
    "text": "Thank you, Joan and Rima, for a thoughtful debate; this concludes our discussion of the motion tonight here."
   }
- ]
+ ],
+ "orig_id": "L192",
+ "batch": "v12"
 }

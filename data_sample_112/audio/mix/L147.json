@@ -1,5 +1,5 @@
 {
- "debate_id": "L049",
+ "debate_id": "L147",
  "motion": "Affirmative action on campus does more harm than good",
  "speakers": {
   "MOD": {
@@ -381,5 +381,7 @@
    "overlap": false,
    "text": "Thank you, Melissa and Ahmed, for a thoughtful debate on this motion. This concludes our discussion for today."
   }
- ]
+ ],
+ "orig_id": "L049",
+ "batch": "v12"
 }

@@ -1,5 +1,5 @@
 {
- "debate_id": "L012",
+ "debate_id": "L121",
  "motion": "The natural gas boom is doing more harm than good.",
  "speakers": {
   "MOD": {
@@ -359,5 +359,7 @@
    "overlap": false,
    "text": "Thank you, Rima and Miriam, for a thoughtful debate; this concludes our discussion of the motion this evening."
   }
- ]
+ ],
+ "orig_id": "L012",
+ "batch": "v12"
 }

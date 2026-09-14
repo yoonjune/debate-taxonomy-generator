@@ -1,5 +1,5 @@
 {
- "debate_id": "L157",
+ "debate_id": "L216",
  "motion": "Guns reduce crime",
  "speakers": {
   "MOD": {
@@ -375,5 +375,7 @@
    "overlap": false,
    "text": "Thank you, Kirsten and Paula, for debating thoughtfully; thank you for listening, and this debate is now closed."
   }
- ]
+ ],
+ "orig_id": "L157",
+ "batch": "v12"
 }

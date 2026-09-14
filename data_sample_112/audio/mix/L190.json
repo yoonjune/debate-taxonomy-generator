@@ -1,5 +1,5 @@
 {
- "debate_id": "L111",
+ "debate_id": "L190",
  "motion": "The U.S. drone program is fatally flawed.",
  "speakers": {
   "MOD": {
@@ -396,5 +396,7 @@
    "overlap": false,
    "text": "Thank you, Gloria and Annette, for a thoughtful exchange; that concludes our debate on this motion tonight."
   }
- ]
+ ],
+ "orig_id": "L111",
+ "batch": "v12"
 }

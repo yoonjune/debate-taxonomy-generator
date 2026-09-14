@@ -1,5 +1,5 @@
 {
- "debate_id": "L086",
+ "debate_id": "L175",
  "motion": "American Democracy is in the worst crisis in a generation and Donald Trump is to blame.",
  "speakers": {
   "MOD": {
@@ -412,5 +412,7 @@
    "overlap": false,
    "text": "Thank you, Mira and Amanda, for a vigorous debate. That concludes our discussion of the motion this evening."
   }
- ]
+ ],
+ "orig_id": "L086",
+ "batch": "v12"
 }

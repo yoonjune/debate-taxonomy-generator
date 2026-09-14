@@ -1,5 +1,5 @@
 {
- "debate_id": "L115",
+ "debate_id": "L192",
  "motion": "Dating apps have killed romance.",
  "speakers": {
   "MOD": {
@@ -385,5 +385,7 @@
    "overlap": false,
    "text": "Thank you both for a lively debate on whether dating apps have killed romance."
   }
- ]
+ ],
+ "orig_id": "L115",
+ "batch": "v12"
 }

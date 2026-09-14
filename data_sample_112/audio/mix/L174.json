@@ -1,5 +1,5 @@
 {
- "debate_id": "L085",
+ "debate_id": "L174",
  "motion": "All Hail the Driverless Car",
  "speakers": {
   "MOD": {
@@ -365,5 +365,7 @@
    "overlap": false,
    "text": "Thank you, Rachel and Ingrid, for a thoughtful debate. This concludes our discussion of the motion tonight."
   }
- ]
+ ],
+ "orig_id": "L085",
+ "batch": "v12"
 }

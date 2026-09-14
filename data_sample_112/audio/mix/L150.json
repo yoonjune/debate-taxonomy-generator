@@ -1,5 +1,5 @@
 {
- "debate_id": "L052",
+ "debate_id": "L150",
  "motion": "Oil has been more of a curse than a blessing for the Middle East",
  "speakers": {
   "MOD": {
@@ -416,5 +416,7 @@
    "overlap": false,
    "text": "Thank you, Paul and Russell, for a thoughtful debate on this motion. This concludes our discussion."
   }
- ]
+ ],
+ "orig_id": "L052",
+ "batch": "v12"
 }

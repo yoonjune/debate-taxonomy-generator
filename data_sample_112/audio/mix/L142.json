@@ -1,5 +1,5 @@
 {
- "debate_id": "L043",
+ "debate_id": "L142",
  "motion": "It’s time to redistribute the wealth.",
  "speakers": {
   "MOD": {
@@ -445,5 +445,7 @@
    "overlap": false,
    "text": "Thank you, Justine and Amanda, for a debate, and thank you for joining us; this debate is now closed."
   }
- ]
+ ],
+ "orig_id": "L043",
+ "batch": "v12"
 }

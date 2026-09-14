@@ -1,5 +1,5 @@
 {
- "debate_id": "L133",
+ "debate_id": "L203",
  "motion": "ChatGPT will do more harm than good.",
  "speakers": {
   "MOD": {
@@ -408,5 +408,7 @@
    "overlap": false,
    "text": "Thank you, Dean and Marcia; this concludes our debate on whether ChatGPT will do more harm than good."
   }
- ]
+ ],
+ "orig_id": "L133",
+ "batch": "v12"
 }

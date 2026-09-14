@@ -1,5 +1,5 @@
 {
- "debate_id": "L101",
+ "debate_id": "L187",
  "motion": "The President Has Usurped the Constitutional Power of Congress",
  "speakers": {
   "MOD": {
@@ -422,5 +422,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful debate on constitutional power, and thank you for listening to this discussion."
   }
- ]
+ ],
+ "orig_id": "L101",
+ "batch": "v12"
 }

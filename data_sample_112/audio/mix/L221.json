@@ -1,5 +1,5 @@
 {
- "debate_id": "L164",
+ "debate_id": "L221",
  "motion": "Legalizing marijuana is a mistake.",
  "speakers": {
   "MOD": {
@@ -388,5 +388,7 @@
    "overlap": false,
    "text": "Thank you, Eugene and Amanda, for this thoughtful exchange. That concludes our debate on the motion today here."
   }
- ]
+ ],
+ "orig_id": "L164",
+ "batch": "v12"
 }

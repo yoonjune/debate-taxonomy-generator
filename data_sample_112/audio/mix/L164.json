@@ -1,5 +1,5 @@
 {
- "debate_id": "L072",
+ "debate_id": "L164",
  "motion": "The Universal Basic Income is the Safety Net of the Future",
  "speakers": {
   "MOD": {
@@ -411,5 +411,7 @@
    "overlap": false,
    "text": "Thank you, Trevor and Mustafa, for a thoughtful debate on the future of the safety net."
   }
- ]
+ ],
+ "orig_id": "L072",
+ "batch": "v12"
 }

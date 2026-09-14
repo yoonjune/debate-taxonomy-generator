@@ -1,5 +1,5 @@
 {
- "debate_id": "L091",
+ "debate_id": "L180",
  "motion": "America is retreating from global leadership",
  "speakers": {
   "MOD": {
@@ -381,5 +381,7 @@
    "overlap": false,
    "text": "Thank you, Marcia and Caroline, for a thoughtful debate. That concludes our discussion of this motion today here."
   }
- ]
+ ],
+ "orig_id": "L091",
+ "batch": "v12"
 }

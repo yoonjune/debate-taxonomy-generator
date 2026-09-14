@@ -1,5 +1,5 @@
 {
- "debate_id": "L033",
+ "debate_id": "L135",
  "motion": "Big cities are past their prime.",
  "speakers": {
   "MOD": {
@@ -417,5 +417,7 @@
    "overlap": false,
    "text": "Thank you both for discussing whether big cities are past their prime; this debate is now closed."
   }
- ]
+ ],
+ "orig_id": "L033",
+ "batch": "v12"
 }

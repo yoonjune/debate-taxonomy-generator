@@ -1,5 +1,5 @@
 {
- "debate_id": "L120",
+ "debate_id": "L196",
  "motion": "AI will kill the future of the creative arts.",
  "speakers": {
   "MOD": {
@@ -428,5 +428,7 @@
    "overlap": false,
    "text": "Thank you, Virginia and Ben, for a thoughtful debate, and thank you for joining us as we close."
   }
- ]
+ ],
+ "orig_id": "L120",
+ "batch": "v12"
 }

@@ -1,5 +1,5 @@
 {
- "debate_id": "L096",
+ "debate_id": "L182",
  "motion": "For a better future, live in a red state.",
  "speakers": {
   "MOD": {
@@ -371,5 +371,7 @@
    "overlap": false,
    "text": "Thank you, Raymond and Liz, for a thoughtful debate. That concludes our discussion of the motion tonight."
   }
- ]
+ ],
+ "orig_id": "L096",
+ "batch": "v12"
 }

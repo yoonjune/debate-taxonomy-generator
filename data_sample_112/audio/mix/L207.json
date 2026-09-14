@@ -1,5 +1,5 @@
 {
- "debate_id": "L140",
+ "debate_id": "L207",
  "motion": "The FTC should ban noncompete clauses.",
  "speakers": {
   "MOD": {
@@ -448,5 +448,7 @@
    "overlap": false,
    "text": "Thank you, Rachel and Nigel, for a thoughtful exchange, and thank you for joining this debate on the motion."
   }
- ]
+ ],
+ "orig_id": "L140",
+ "batch": "v12"
 }

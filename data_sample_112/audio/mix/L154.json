@@ -1,5 +1,5 @@
 {
- "debate_id": "L057",
+ "debate_id": "L154",
  "motion": "Retail Alliances – Not Washington – Will Save the U.S. Health Care System",
  "speakers": {
   "MOD": {
@@ -436,5 +436,7 @@
    "overlap": false,
    "text": "Thank you, Rima and Alina, for a thoughtful debate. This concludes our discussion of the motion today."
   }
- ]
+ ],
+ "orig_id": "L057",
+ "batch": "v12"
 }

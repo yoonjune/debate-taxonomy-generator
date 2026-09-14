@@ -1,5 +1,5 @@
 {
- "debate_id": "L162",
+ "debate_id": "L220",
  "motion": "The Art Market is Less Ethical Than the Stock Market",
  "speakers": {
   "MOD": {
@@ -402,5 +402,7 @@
    "overlap": false,
    "text": "Thank you, Karen and Jack, for a thoughtful debate on the ethics of art and stock markets."
   }
- ]
+ ],
+ "orig_id": "L162",
+ "batch": "v12"
 }

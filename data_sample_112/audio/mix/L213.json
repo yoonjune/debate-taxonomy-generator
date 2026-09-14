@@ -1,5 +1,5 @@
 {
- "debate_id": "L149",
+ "debate_id": "L213",
  "motion": "America should end birthright citizenship.",
  "speakers": {
   "MOD": {
@@ -454,5 +454,7 @@
    "overlap": false,
    "text": "Thank you, Ingrid and Caroline, for a focused debate on whether America should end birthright citizenship."
   }
- ]
+ ],
+ "orig_id": "L149",
+ "batch": "v12"
 }

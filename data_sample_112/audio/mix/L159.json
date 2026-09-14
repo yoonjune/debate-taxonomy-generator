@@ -1,5 +1,5 @@
 {
- "debate_id": "L064",
+ "debate_id": "L159",
  "motion": "The FDA's caution is hazardous to our health",
  "speakers": {
   "MOD": {
@@ -411,5 +411,7 @@
    "overlap": false,
    "text": "Thank you, Andrew and Frank, for a thoughtful debate, and thank you for joining us as we conclude tonight's discussion."
   }
- ]
+ ],
+ "orig_id": "L064",
+ "batch": "v12"
 }

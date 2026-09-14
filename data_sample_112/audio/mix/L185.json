@@ -1,5 +1,5 @@
 {
- "debate_id": "L099",
+ "debate_id": "L185",
  "motion": "Citizens United has undermined democracy.",
  "speakers": {
   "MOD": {
@@ -434,5 +434,7 @@
    "overlap": false,
    "text": "Thank you both for a focused exchange on this motion; this debate is now closed."
   }
- ]
+ ],
+ "orig_id": "L099",
+ "batch": "v12"
 }

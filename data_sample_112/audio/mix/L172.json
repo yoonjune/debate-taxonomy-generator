@@ -1,5 +1,5 @@
 {
- "debate_id": "L082",
+ "debate_id": "L172",
  "motion": "Happiness is doing good rather than feeling good.",
  "speakers": {
   "MOD": {
@@ -403,5 +403,7 @@
    "overlap": false,
    "text": "Thank you, Jonas and Billy, for a debate, and thank you for listening. This debate is now closed."
   }
- ]
+ ],
+ "orig_id": "L082",
+ "batch": "v12"
 }

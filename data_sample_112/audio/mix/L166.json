@@ -1,5 +1,5 @@
 {
- "debate_id": "L075",
+ "debate_id": "L166",
  "motion": "The classics are overrated.",
  "speakers": {
   "MOD": {
@@ -472,5 +472,7 @@
    "overlap": false,
    "text": "Thank you, Wendy and Edward, for a thoughtful debate on the motion. That concludes our discussion."
   }
- ]
+ ],
+ "orig_id": "L075",
+ "batch": "v12"
 }

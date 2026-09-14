@@ -1,5 +1,5 @@
 {
- "debate_id": "L196",
+ "debate_id": "L236",
  "motion": "The U.S. Should Let In 100,000 Syrian Refugees",
  "speakers": {
   "MOD": {
@@ -370,5 +370,7 @@
    "overlap": false,
    "text": "Thank you, Adam and Gregory, for a thoughtful debate, and thank you for considering the motion with us tonight."
   }
- ]
+ ],
+ "orig_id": "L196",
+ "batch": "v12"
 }

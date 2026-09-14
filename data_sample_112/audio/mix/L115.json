@@ -1,5 +1,5 @@
 {
- "debate_id": "L004",
+ "debate_id": "L115",
  "motion": "Capitalism is the enemy of progress.",
  "speakers": {
   "MOD": {
@@ -354,5 +354,7 @@
    "overlap": false,
    "text": "Thank you, Jacob and Floyd, for a thoughtful exchange. This concludes our debate on the motion before us today."
   }
- ]
+ ],
+ "orig_id": "L004",
+ "batch": "v12"
 }

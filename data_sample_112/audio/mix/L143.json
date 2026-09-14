@@ -1,5 +1,5 @@
 {
- "debate_id": "L044",
+ "debate_id": "L143",
  "motion": "Give undocumented immigrants a path to citizenship.",
  "speakers": {
   "MOD": {
@@ -397,5 +397,7 @@
    "overlap": false,
    "text": "Thank you, Albert and Daisy, for a thoughtful debate, and thank you for joining us for this discussion."
   }
- ]
+ ],
+ "orig_id": "L044",
+ "batch": "v12"
 }

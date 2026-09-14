@@ -1,5 +1,5 @@
 {
- "debate_id": "L168",
+ "debate_id": "L224",
  "motion": "Charter schools are overrated.",
  "speakers": {
   "MOD": {
@@ -387,5 +387,7 @@
    "overlap": false,
    "text": "Thank you, Gideon and Liz, for a thoughtful exchange. That concludes our debate on charter schools today."
   }
- ]
+ ],
+ "orig_id": "L168",
+ "batch": "v12"
 }

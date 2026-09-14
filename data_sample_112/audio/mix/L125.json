@@ -1,5 +1,5 @@
 {
- "debate_id": "L017",
+ "debate_id": "L125",
  "motion": "Clean energy can drive America's economic recovery.",
  "speakers": {
   "MOD": {
@@ -434,5 +434,7 @@
    "overlap": false,
    "text": "Thank you, Danny and Jillian, for a direct debate on the motion. This concludes our discussion here today."
   }
- ]
+ ],
+ "orig_id": "L017",
+ "batch": "v12"
 }

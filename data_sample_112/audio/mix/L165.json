@@ -1,5 +1,5 @@
 {
- "debate_id": "L073",
+ "debate_id": "L165",
  "motion": "Affirmative action on campus does more harm than good",
  "speakers": {
   "MOD": {
@@ -392,5 +392,7 @@
    "overlap": false,
    "text": "Thank you, Enrique and Pete, for a thoughtful debate. This concludes our discussion of the motion here today."
   }
- ]
+ ],
+ "orig_id": "L073",
+ "batch": "v12"
 }

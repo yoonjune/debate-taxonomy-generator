@@ -1,5 +1,5 @@
 {
- "debate_id": "L167",
+ "debate_id": "L223",
  "motion": "Turkey is a bad model for the new Arab states",
  "speakers": {
   "MOD": {
@@ -393,5 +393,7 @@
    "overlap": false,
    "text": "Thank you, Arthur and Caroline, for a thoughtful debate; this concludes our discussion of the motion for today."
   }
- ]
+ ],
+ "orig_id": "L167",
+ "batch": "v12"
 }

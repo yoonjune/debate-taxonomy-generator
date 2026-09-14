@@ -1,5 +1,5 @@
 {
- "debate_id": "L027",
+ "debate_id": "L131",
  "motion": "We should accept performance-enhancing drugs in competitive sports.",
  "speakers": {
   "MOD": {
@@ -348,5 +348,7 @@
    "overlap": false,
    "text": "Thank you, Virginia and Gloria, for a debate; that concludes our discussion of performance-enhancing drugs in competitive sports."
   }
- ]
+ ],
+ "orig_id": "L027",
+ "batch": "v12"
 }

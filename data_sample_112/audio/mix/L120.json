@@ -1,5 +1,5 @@
 {
- "debate_id": "L011",
+ "debate_id": "L120",
  "motion": "Anti-Zionism is the new Anti-Semitism.",
  "speakers": {
   "MOD": {
@@ -404,5 +404,7 @@
    "overlap": false,
    "text": "Thank you, Mitchell and Marcia, for a thoughtful exchange. This concludes our debate on the motion before us."
   }
- ]
+ ],
+ "orig_id": "L011",
+ "batch": "v12"
 }

@@ -1,5 +1,5 @@
 {
- "debate_id": "L132",
+ "debate_id": "L202",
  "motion": "Congress should pass Obama's jobs plan piece by piece",
  "speakers": {
   "MOD": {
@@ -418,5 +418,7 @@
    "overlap": false,
    "text": "Thank you, Amy and Kirsten, for a thoughtful debate. That concludes our discussion of the motion tonight for now."
   }
- ]
+ ],
+ "orig_id": "L132",
+ "batch": "v12"
 }

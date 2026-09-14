@@ -1,5 +1,5 @@
 {
- "debate_id": "L088",
+ "debate_id": "L177",
  "motion": "Ukraine should get Russia's frozen assets.",
  "speakers": {
   "MOD": {
@@ -443,5 +443,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful debate. This concludes our discussion of whether Ukraine should receive Russia's frozen assets."
   }
- ]
+ ],
+ "orig_id": "L088",
+ "batch": "v12"
 }

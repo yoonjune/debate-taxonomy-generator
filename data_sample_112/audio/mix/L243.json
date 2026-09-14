@@ -1,5 +1,5 @@
 {
- "debate_id": "L206",
+ "debate_id": "L243",
  "motion": "It's time to clip America's global wings.",
  "speakers": {
   "MOD": {
@@ -393,5 +393,7 @@
    "overlap": false,
    "text": "Thank you, Derek and Jonas, for a spirited debate. That concludes our discussion of tonight's motion."
   }
- ]
+ ],
+ "orig_id": "L206",
+ "batch": "v12"
 }

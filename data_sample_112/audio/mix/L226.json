@@ -1,5 +1,5 @@
 {
- "debate_id": "L170",
+ "debate_id": "L226",
  "motion": "January 6 was an existential threat to American democracy.",
  "speakers": {
   "MOD": {
@@ -365,5 +365,7 @@
    "overlap": false,
    "text": "Thank you, Joanna and Ron, for a direct debate on a difficult question, and thank you for listening."
   }
- ]
+ ],
+ "orig_id": "L170",
+ "batch": "v12"
 }

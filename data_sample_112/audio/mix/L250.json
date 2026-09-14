@@ -1,5 +1,5 @@
 {
- "debate_id": "L219",
+ "debate_id": "L250",
  "motion": "It's time for the US to get tough on Israel.",
  "speakers": {
   "MOD": {
@@ -335,5 +335,7 @@
    "overlap": false,
    "text": "Thank you, Daisy and Ingrid, for a thoughtful debate; that concludes our discussion of this motion today here."
   }
- ]
+ ],
+ "orig_id": "L219",
+ "batch": "v12"
 }

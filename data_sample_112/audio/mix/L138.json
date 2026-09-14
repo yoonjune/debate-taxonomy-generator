@@ -1,5 +1,5 @@
 {
- "debate_id": "L037",
+ "debate_id": "L138",
  "motion": "Obamacare is now beyond rescue",
  "speakers": {
   "MOD": {
@@ -396,5 +396,7 @@
    "overlap": false,
    "text": "Thank you, Carla and Nolan, for a vigorous debate on this motion; this concludes our discussion tonight."
   }
- ]
+ ],
+ "orig_id": "L037",
+ "batch": "v12"
 }

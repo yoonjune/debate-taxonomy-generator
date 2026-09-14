@@ -1,5 +1,5 @@
 {
- "debate_id": "L084",
+ "debate_id": "L173",
  "motion": "Elon Musk is killing Twitter.",
  "speakers": {
   "MOD": {
@@ -397,5 +397,7 @@
    "overlap": false,
    "text": "Thank you both for a sharp debate on this motion; that concludes our discussion for today here."
   }
- ]
+ ],
+ "orig_id": "L084",
+ "batch": "v12"
 }

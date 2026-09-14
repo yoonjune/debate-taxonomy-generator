@@ -1,5 +1,5 @@
 {
- "debate_id": "L187",
+ "debate_id": "L233",
  "motion": "Abolish the minimum wage",
  "speakers": {
   "MOD": {
@@ -424,5 +424,7 @@
    "overlap": false,
    "text": "Thank you, Julian and Harry, for your arguments. This concludes our debate on abolishing the minimum wage."
   }
- ]
+ ],
+ "orig_id": "L187",
+ "batch": "v12"
 }

@@ -1,5 +1,5 @@
 {
- "debate_id": "L087",
+ "debate_id": "L176",
  "motion": "Preserve net neutrality: all data is created equal.",
  "speakers": {
   "MOD": {
@@ -374,5 +374,7 @@
    "overlap": false,
    "text": "Thank you, Melissa and Danielle, for a thoughtful debate. This concludes our discussion of the motion for today."
   }
- ]
+ ],
+ "orig_id": "L087",
+ "batch": "v12"
 }

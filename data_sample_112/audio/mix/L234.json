@@ -1,5 +1,5 @@
 {
- "debate_id": "L188",
+ "debate_id": "L234",
  "motion": "We should isolate Russia.",
  "speakers": {
   "MOD": {
@@ -385,5 +385,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful debate on whether Russia should be isolated from the wider world today."
   }
- ]
+ ],
+ "orig_id": "L188",
+ "batch": "v12"
 }

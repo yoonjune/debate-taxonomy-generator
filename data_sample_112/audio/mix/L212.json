@@ -1,5 +1,5 @@
 {
- "debate_id": "L148",
+ "debate_id": "L212",
  "motion": "Obama’s Economic Policies Are Working Effectively",
  "speakers": {
   "MOD": {
@@ -423,5 +423,7 @@
    "overlap": false,
    "text": "Thank you, Emma and Carla, for a thoughtful exchange. This debate is now closed, and we appreciate your arguments."
   }
- ]
+ ],
+ "orig_id": "L148",
+ "batch": "v12"
 }

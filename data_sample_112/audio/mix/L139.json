@@ -1,5 +1,5 @@
 {
- "debate_id": "L039",
+ "debate_id": "L139",
  "motion": "Organic food is marketing hype.",
  "speakers": {
   "MOD": {
@@ -374,5 +374,7 @@
    "overlap": false,
    "text": "Thank you, Gregory and Francis, for a thoughtful debate; this concludes our discussion of the motion today."
   }
- ]
+ ],
+ "orig_id": "L039",
+ "batch": "v12"
 }

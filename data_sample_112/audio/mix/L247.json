@@ -1,5 +1,5 @@
 {
- "debate_id": "L214",
+ "debate_id": "L247",
  "motion": "Social Media is Good for Democracy.",
  "speakers": {
   "MOD": {
@@ -409,5 +409,7 @@
    "overlap": false,
    "text": "Thank you, Wendy and Marcia, for a thoughtful debate on the motion; this debate is now closed."
   }
- ]
+ ],
+ "orig_id": "L214",
+ "batch": "v12"
 }

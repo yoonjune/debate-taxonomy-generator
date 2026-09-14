@@ -1,5 +1,5 @@
 {
- "debate_id": "L125",
+ "debate_id": "L198",
  "motion": "China's power has peaked.",
  "speakers": {
   "MOD": {
@@ -446,5 +446,7 @@
    "overlap": false,
    "text": "Thank you, Eric and Steve, for your arguments tonight; this concludes our debate on the motion before us."
   }
- ]
+ ],
+ "orig_id": "L125",
+ "batch": "v12"
 }

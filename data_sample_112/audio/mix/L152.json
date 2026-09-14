@@ -1,5 +1,5 @@
 {
- "debate_id": "L054",
+ "debate_id": "L152",
  "motion": "We should give two cheers to the two-party system.",
  "speakers": {
   "MOD": {
@@ -392,5 +392,7 @@
    "overlap": false,
    "text": "Thank you, Graham and Abigail, for a thoughtful debate; that concludes our discussion of tonight's motion for now."
   }
- ]
+ ],
+ "orig_id": "L054",
+ "batch": "v12"
 }

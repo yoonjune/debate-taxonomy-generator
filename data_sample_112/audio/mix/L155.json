@@ -1,5 +1,5 @@
 {
- "debate_id": "L058",
+ "debate_id": "L155",
  "motion": "The family is a major obstacle to reform in the Arab world",
  "speakers": {
   "MOD": {
@@ -365,5 +365,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful debate on this motion. That concludes our discussion for today, with no verdict."
   }
- ]
+ ],
+ "orig_id": "L058",
+ "batch": "v12"
 }

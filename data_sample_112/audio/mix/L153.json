@@ -1,5 +1,5 @@
 {
- "debate_id": "L056",
+ "debate_id": "L153",
  "motion": "The courts should restrict access to the abortion pill.",
  "speakers": {
   "MOD": {
@@ -454,5 +454,7 @@
    "overlap": false,
    "text": "Thank you, Mitchell and Sheldon, for a direct debate. That concludes our discussion of tonight's motion."
   }
- ]
+ ],
+ "orig_id": "L056",
+ "batch": "v12"
 }

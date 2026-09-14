@@ -1,5 +1,5 @@
 {
- "debate_id": "L171",
+ "debate_id": "L227",
  "motion": "The Supreme Court should focus on the original meaning of the Constitution.",
  "speakers": {
   "MOD": {
@@ -389,5 +389,7 @@
    "overlap": false,
    "text": "Thank you, Elise and Danny, for a thoughtful debate; this concludes our discussion of the motion tonight."
   }
- ]
+ ],
+ "orig_id": "L171",
+ "batch": "v12"
 }

@@ -1,5 +1,5 @@
 {
- "debate_id": "L071",
+ "debate_id": "L163",
  "motion": "Education is worthless without freedom of speech",
  "speakers": {
   "MOD": {
@@ -411,5 +411,7 @@
    "overlap": false,
    "text": "Thank you, Annie and Lionel, for a thoughtful debate; this concludes our discussion of the motion tonight here."
   }
- ]
+ ],
+ "orig_id": "L071",
+ "batch": "v12"
 }

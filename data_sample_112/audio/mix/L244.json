@@ -1,5 +1,5 @@
 {
- "debate_id": "L208",
+ "debate_id": "L244",
  "motion": "We have free will.",
  "speakers": {
   "MOD": {
@@ -407,5 +407,7 @@
    "overlap": false,
    "text": "Thank you, Nelson and Bella, for a thoughtful debate. This concludes our discussion of whether we have free will."
   }
- ]
+ ],
+ "orig_id": "L208",
+ "batch": "v12"
 }

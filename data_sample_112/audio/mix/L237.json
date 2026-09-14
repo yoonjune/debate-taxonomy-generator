@@ -1,5 +1,5 @@
 {
- "debate_id": "L197",
+ "debate_id": "L237",
  "motion": "Universal health coverage should be the federal government's responsibility.",
  "speakers": {
   "MOD": {
@@ -382,5 +382,7 @@
    "overlap": false,
    "text": "Thank you, Larry and Nolan, for a thoughtful debate on this motion. This concludes our discussion for today."
   }
- ]
+ ],
+ "orig_id": "L197",
+ "batch": "v12"
 }

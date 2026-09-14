@@ -1,5 +1,5 @@
 {
- "debate_id": "L028",
+ "debate_id": "L132",
  "motion": "The UN should admit Palestine as a full member state.",
  "speakers": {
   "MOD": {
@@ -419,5 +419,7 @@
    "overlap": false,
    "text": "Thank you, Annette and Ismail, for a thoughtful debate. That concludes our discussion this evening."
   }
- ]
+ ],
+ "orig_id": "L028",
+ "batch": "v12"
 }

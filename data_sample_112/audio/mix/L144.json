@@ -1,5 +1,5 @@
 {
- "debate_id": "L045",
+ "debate_id": "L144",
  "motion": "Islam is antisemitic.",
  "speakers": {
   "MOD": {
@@ -378,5 +378,7 @@
    "overlap": false,
    "text": "Thank you, Max and Teresa, for a direct exchange. That concludes this debate. We appreciate both perspectives presented tonight."
   }
- ]
+ ],
+ "orig_id": "L045",
+ "batch": "v12"
 }

@@ -1,5 +1,5 @@
 {
- "debate_id": "L010",
+ "debate_id": "L119",
  "motion": "The AAP's child obesity guidelines are good medicine.",
  "speakers": {
   "MOD": {
@@ -382,5 +382,7 @@
    "overlap": false,
    "text": "Thank you, Kirsten and Amy, for a thoughtful debate on this motion; that concludes our discussion here tonight."
   }
- ]
+ ],
+ "orig_id": "L010",
+ "batch": "v12"
 }

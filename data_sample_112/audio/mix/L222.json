@@ -1,5 +1,5 @@
 {
- "debate_id": "L165",
+ "debate_id": "L222",
  "motion": "DEI mandates for university faculties are a bad idea.",
  "speakers": {
   "MOD": {
@@ -429,5 +429,7 @@
    "overlap": false,
    "text": "Thank you, Mark and Horace, for a thoughtful debate. This concludes our discussion of the motion."
   }
- ]
+ ],
+ "orig_id": "L165",
+ "batch": "v12"
 }

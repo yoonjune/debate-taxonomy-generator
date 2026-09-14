@@ -1,5 +1,5 @@
 {
- "debate_id": "L014",
+ "debate_id": "L123",
  "motion": "The rich are taxed enough.",
  "speakers": {
   "MOD": {
@@ -371,5 +371,7 @@
    "overlap": false,
    "text": "Thank you, Peter and Michelle, for a spirited exchange. That concludes tonight's debate on the motion before us."
   }
- ]
+ ],
+ "orig_id": "L014",
+ "batch": "v12"
 }

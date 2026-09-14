@@ -1,5 +1,5 @@
 {
- "debate_id": "L040",
+ "debate_id": "L140",
  "motion": "We should expand the Supreme Court",
  "speakers": {
   "MOD": {
@@ -404,5 +404,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful exchange. This concludes our debate on whether we should expand the Supreme Court."
   }
- ]
+ ],
+ "orig_id": "L040",
+ "batch": "v12"
 }

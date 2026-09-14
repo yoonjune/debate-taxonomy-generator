@@ -1,5 +1,5 @@
 {
- "debate_id": "L116",
+ "debate_id": "L193",
  "motion": "Hollywood has fueled anti-Americanism abroad",
  "speakers": {
   "MOD": {
@@ -372,5 +372,7 @@
    "overlap": false,
    "text": "Thank you, Annie and Claudia, for a thoughtful debate, and thank you for listening. This concludes our discussion."
   }
- ]
+ ],
+ "orig_id": "L116",
+ "batch": "v12"
 }

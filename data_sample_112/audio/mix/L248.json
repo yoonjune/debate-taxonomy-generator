@@ -1,5 +1,5 @@
 {
- "debate_id": "L216",
+ "debate_id": "L248",
  "motion": "Legalizing sports gambling has become a bad bet.",
  "speakers": {
   "MOD": {
@@ -399,5 +399,7 @@
    "overlap": false,
    "text": "Thank you, Amy and Abigail, for a thoughtful debate. That concludes our discussion of tonight's motion for now."
   }
- ]
+ ],
+ "orig_id": "L216",
+ "batch": "v12"
 }

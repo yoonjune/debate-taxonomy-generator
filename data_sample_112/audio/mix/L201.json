@@ -1,5 +1,5 @@
 {
- "debate_id": "L131",
+ "debate_id": "L201",
  "motion": "NATO should admit Ukraine.",
  "speakers": {
   "MOD": {
@@ -381,5 +381,7 @@
    "overlap": false,
    "text": "Thank you, Kara and Henry, for a thoughtful exchange. That concludes our debate on this motion today."
   }
- ]
+ ],
+ "orig_id": "L131",
+ "batch": "v12"
 }

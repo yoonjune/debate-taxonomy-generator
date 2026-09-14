@@ -1,5 +1,5 @@
 {
- "debate_id": "L053",
+ "debate_id": "L151",
  "motion": "Freedom of Expression Must Include the License to Offend",
  "speakers": {
   "MOD": {
@@ -405,5 +405,7 @@
    "overlap": false,
    "text": "Thank you, Michelle and Emma, for a thoughtful debate. That concludes our discussion, and this debate is now closed."
   }
- ]
+ ],
+ "orig_id": "L053",
+ "batch": "v12"
 }

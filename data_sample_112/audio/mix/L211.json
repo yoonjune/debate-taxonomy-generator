@@ -1,5 +1,5 @@
 {
- "debate_id": "L147",
+ "debate_id": "L211",
  "motion": "Today the technology and the information available to everyone mean that retail investors can and should invest and trade on their own because they can expect to do well.",
  "speakers": {
   "MOD": {
@@ -434,5 +434,7 @@
    "overlap": false,
    "text": "Thank you, Anthony and Jacob, for a thoughtful debate. That concludes our discussion of the motion today."
   }
- ]
+ ],
+ "orig_id": "L147",
+ "batch": "v12"
 }

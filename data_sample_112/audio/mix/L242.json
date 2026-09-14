@@ -1,5 +1,5 @@
 {
- "debate_id": "L205",
+ "debate_id": "L242",
  "motion": "Arab states should hand over the Sudanese president to the International Criminal Court",
  "speakers": {
   "MOD": {
@@ -412,5 +412,7 @@
    "overlap": false,
    "text": "Thank you, Jonathan and Kent, for a vigorous debate. This concludes our discussion of the motion today here."
   }
- ]
+ ],
+ "orig_id": "L205",
+ "batch": "v12"
 }

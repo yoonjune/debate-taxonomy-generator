@@ -1,5 +1,5 @@
 {
- "debate_id": "L048",
+ "debate_id": "L146",
  "motion": "Grandma's benefits imperil Junior's future.",
  "speakers": {
   "MOD": {
@@ -402,5 +402,7 @@
    "overlap": false,
    "text": "Thank you, Rima and Elias, for a thoughtful debate on this motion. This debate is now concluded."
   }
- ]
+ ],
+ "orig_id": "L048",
+ "batch": "v12"
 }

@@ -1,5 +1,5 @@
 {
- "debate_id": "L217",
+ "debate_id": "L249",
  "motion": "The EPA has gone overboard on climate change.",
  "speakers": {
   "MOD": {
@@ -409,5 +409,7 @@
    "overlap": false,
    "text": "Thank you, Jorge and Caroline, for a thoughtful debate, and thank you for considering the motion with us today."
   }
- ]
+ ],
+ "orig_id": "L217",
+ "batch": "v12"
 }

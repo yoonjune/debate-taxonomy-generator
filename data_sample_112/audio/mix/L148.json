@@ -1,5 +1,5 @@
 {
- "debate_id": "L050",
+ "debate_id": "L148",
  "motion": "America Cannot and Will Not Succeed in Afghanistan and Pakistan.",
  "speakers": {
   "MOD": {
@@ -450,5 +450,7 @@
    "overlap": false,
    "text": "Thank you, Amanda and Kenji, for a thoughtful debate, and thank you for listening as we conclude."
   }
- ]
+ ],
+ "orig_id": "L050",
+ "batch": "v12"
 }

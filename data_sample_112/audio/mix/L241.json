@@ -1,5 +1,5 @@
 {
- "debate_id": "L204",
+ "debate_id": "L241",
  "motion": "We should not trust the promise of artificial intelligence.",
  "speakers": {
   "MOD": {
@@ -408,5 +408,7 @@
    "overlap": false,
    "text": "Thank you, Elise and Cecilia, for a thoughtful exchange; this concludes our debate on trusting artificial intelligence promises."
   }
- ]
+ ],
+ "orig_id": "L204",
+ "batch": "v12"
 }

@@ -1,5 +1,5 @@
 {
- "debate_id": "L030",
+ "debate_id": "L133",
  "motion": "Primary elections are ruining democracy.",
  "speakers": {
   "MOD": {
@@ -401,5 +401,7 @@
    "overlap": false,
    "text": "Thank you, Melissa and Helen, for a thoughtful debate, and thank you for listening; this debate is now concluded."
   }
- ]
+ ],
+ "orig_id": "L030",
+ "batch": "v12"
 }

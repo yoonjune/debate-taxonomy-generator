@@ -1,5 +1,5 @@
 {
- "debate_id": "L066",
+ "debate_id": "L160",
  "motion": "It is time to talk to Al Qaeda",
  "speakers": {
   "MOD": {
@@ -418,5 +418,7 @@
    "overlap": false,
    "text": "Thank you both. This concludes our debate on whether it is time to talk to al Qaeda."
   }
- ]
+ ],
+ "orig_id": "L066",
+ "batch": "v12"
 }

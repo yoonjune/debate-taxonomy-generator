@@ -1,5 +1,5 @@
 {
- "debate_id": "L005",
+ "debate_id": "L116",
  "motion": "Western democracy is threatening suicide",
  "speakers": {
   "MOD": {
@@ -361,5 +361,7 @@
    "overlap": false,
    "text": "Thank you, Emma and Alina, for a thoughtful debate. That concludes our discussion of this motion tonight."
   }
- ]
+ ],
+ "orig_id": "L005",
+ "batch": "v12"
 }

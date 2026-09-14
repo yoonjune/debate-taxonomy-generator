@@ -1,5 +1,5 @@
 {
- "debate_id": "L107",
+ "debate_id": "L189",
  "motion": "It is okay to pay for sex.",
  "speakers": {
   "MOD": {
@@ -359,5 +359,7 @@
    "overlap": false,
    "text": "Thank you, Nick and Terence, for a thoughtful exchange; that concludes our debate on whether paying for sex is okay."
   }
- ]
+ ],
+ "orig_id": "L107",
+ "batch": "v12"
 }

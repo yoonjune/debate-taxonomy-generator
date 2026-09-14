@@ -1,5 +1,5 @@
 {
- "debate_id": "L061",
+ "debate_id": "L157",
  "motion": "America and its allies should tolerate a nuclear Iran rather than stop Iran now.",
  "speakers": {
   "MOD": {
@@ -404,5 +404,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful exchange; this concludes our debate on the motion, and good night."
   }
- ]
+ ],
+ "orig_id": "L061",
+ "batch": "v12"
 }

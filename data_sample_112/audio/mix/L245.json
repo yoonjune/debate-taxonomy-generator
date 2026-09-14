@@ -1,5 +1,5 @@
 {
- "debate_id": "L210",
+ "debate_id": "L245",
  "motion": "Policing is racially biased.",
  "speakers": {
   "MOD": {
@@ -376,5 +376,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful exchange on this difficult motion; that concludes our debate for today here."
   }
- ]
+ ],
+ "orig_id": "L210",
+ "batch": "v12"
 }

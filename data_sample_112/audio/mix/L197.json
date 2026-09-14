@@ -1,5 +1,5 @@
 {
- "debate_id": "L124",
+ "debate_id": "L197",
  "motion": "religion is a force for good in the world",
  "speakers": {
   "MOD": {
@@ -409,5 +409,7 @@
    "overlap": false,
    "text": "Thank you both. This concludes our debate on religion as a force for good in the world."
   }
- ]
+ ],
+ "orig_id": "L124",
+ "batch": "v12"
 }

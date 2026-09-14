@@ -1,5 +1,5 @@
 {
- "debate_id": "L006",
+ "debate_id": "L117",
  "motion": "Treat terrorists like enemy combatants, not criminals",
  "speakers": {
   "MOD": {
@@ -371,5 +371,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful exchange; this debate on the motion is now concluded for today."
   }
- ]
+ ],
+ "orig_id": "L006",
+ "batch": "v12"
 }

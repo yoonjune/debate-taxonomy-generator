@@ -1,5 +1,5 @@
 {
- "debate_id": "L117",
+ "debate_id": "L194",
  "motion": "Qualified immunity for cops should be ended.",
  "speakers": {
   "MOD": {
@@ -430,5 +430,7 @@
    "overlap": false,
    "text": "Thank you, Rick and Joshua, for a thoughtful debate on this motion; that concludes our discussion tonight."
   }
- ]
+ ],
+ "orig_id": "L117",
+ "batch": "v12"
 }

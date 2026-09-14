@@ -1,5 +1,5 @@
 {
- "debate_id": "L023",
+ "debate_id": "L129",
  "motion": "Muslim women should be free to marry anyone they choose",
  "speakers": {
   "MOD": {
@@ -414,5 +414,7 @@
    "overlap": false,
    "text": "Thank you, Vernon and Ross, for a thoughtful discussion; this debate is now concluded, and we appreciate your participation."
   }
- ]
+ ],
+ "orig_id": "L023",
+ "batch": "v12"
 }

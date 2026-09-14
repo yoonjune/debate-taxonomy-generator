@@ -1,5 +1,5 @@
 {
- "debate_id": "L090",
+ "debate_id": "L179",
  "motion": "Prohibit genetically engineered babies.",
  "speakers": {
   "MOD": {
@@ -428,5 +428,7 @@
    "overlap": false,
    "text": "Thank you, Ross and Carla, for a thoughtful debate. This concludes our discussion of the motion. Good night."
   }
- ]
+ ],
+ "orig_id": "L090",
+ "batch": "v12"
 }

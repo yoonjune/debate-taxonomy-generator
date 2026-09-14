@@ -1,5 +1,5 @@
 {
- "debate_id": "L150",
+ "debate_id": "L214",
  "motion": "Tough Interrogation of Terror Suspects is Necessary.",
  "speakers": {
   "MOD": {
@@ -409,5 +409,7 @@
    "overlap": false,
    "text": "Thank you, Carissa and Jillian, for a serious exchange; this debate is now concluded, and we appreciate your thoughtful arguments."
   }
- ]
+ ],
+ "orig_id": "L150",
+ "batch": "v12"
 }

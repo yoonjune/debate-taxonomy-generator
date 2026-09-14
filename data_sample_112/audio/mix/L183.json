@@ -1,5 +1,5 @@
 {
- "debate_id": "L097",
+ "debate_id": "L183",
  "motion": "Israel can live with a nuclear Iran.",
  "speakers": {
   "MOD": {
@@ -440,5 +440,7 @@
    "overlap": false,
    "text": "Thank you both. This concludes our debate today on whether Israel can live with a nuclear Iran."
   }
- ]
+ ],
+ "orig_id": "L097",
+ "batch": "v12"
 }

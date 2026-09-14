@@ -1,5 +1,5 @@
 {
- "debate_id": "L079",
+ "debate_id": "L170",
  "motion": "Courts, Not Campuses, Should Decide Sexual Assault Cases",
  "speakers": {
   "MOD": {
@@ -392,5 +392,7 @@
    "overlap": false,
    "text": "Thank you, Rachel and Mira, for a discussion. This concludes our debate. Thank you for joining us today."
   }
- ]
+ ],
+ "orig_id": "L079",
+ "batch": "v12"
 }

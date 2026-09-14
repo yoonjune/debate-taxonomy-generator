@@ -1,5 +1,5 @@
 {
- "debate_id": "L069",
+ "debate_id": "L162",
  "motion": "The Egyptian military is not interested in genuine reform",
  "speakers": {
   "MOD": {
@@ -429,5 +429,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful exchange. This concludes our debate on whether the Egyptian military seeks genuine reform."
   }
- ]
+ ],
+ "orig_id": "L069",
+ "batch": "v12"
 }

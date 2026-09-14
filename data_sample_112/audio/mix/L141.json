@@ -1,5 +1,5 @@
 {
- "debate_id": "L041",
+ "debate_id": "L141",
  "motion": "Progressive populism will save the Democratic Party.",
  "speakers": {
   "MOD": {
@@ -397,5 +397,7 @@
    "overlap": false,
    "text": "Thank you, Wendy and Nina, for your arguments today; this debate is concluded, with no winner declared by the moderator."
   }
- ]
+ ],
+ "orig_id": "L041",
+ "batch": "v12"
 }

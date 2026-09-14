@@ -1,5 +1,5 @@
 {
- "debate_id": "L175",
+ "debate_id": "L228",
  "motion": "Ten years after the global financial crisis, the system is safer.",
  "speakers": {
   "MOD": {
@@ -412,5 +412,7 @@
    "overlap": false,
    "text": "Thank you, Virginia and Trevor, for a thoughtful debate; this concludes our discussion of the motion."
   }
- ]
+ ],
+ "orig_id": "L175",
+ "batch": "v12"
 }

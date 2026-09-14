@@ -1,5 +1,5 @@
 {
- "debate_id": "L179",
+ "debate_id": "L231",
  "motion": "Affirmative action is unfair to Asian Americans.",
  "speakers": {
   "MOD": {
@@ -436,5 +436,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful debate on this motion. That concludes our discussion this evening."
   }
- ]
+ ],
+ "orig_id": "L179",
+ "batch": "v12"
 }

@@ -1,5 +1,5 @@
 {
- "debate_id": "L135",
+ "debate_id": "L204",
  "motion": "The international community must accept Hamas as a political partner",
  "speakers": {
   "MOD": {
@@ -428,5 +428,7 @@
    "overlap": false,
    "text": "Thank you, Joanna and Sarah, for a vigorous debate; this now concludes our discussion of tonight's motion."
   }
- ]
+ ],
+ "orig_id": "L135",
+ "batch": "v12"
 }

@@ -1,5 +1,5 @@
 {
- "debate_id": "L098",
+ "debate_id": "L184",
  "motion": "Assisted suicide should be legalized.",
  "speakers": {
   "MOD": {
@@ -424,5 +424,7 @@
    "overlap": false,
    "text": "Thank you, Teresa and Kara, for a thoughtful debate. This concludes our discussion of the motion today. Goodbye."
   }
- ]
+ ],
+ "orig_id": "L098",
+ "batch": "v12"
 }

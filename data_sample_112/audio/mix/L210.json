@@ -1,5 +1,5 @@
 {
- "debate_id": "L146",
+ "debate_id": "L210",
  "motion": "The New York Times has lost its way.",
  "speakers": {
   "MOD": {
@@ -342,5 +342,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful and vigorous debate. That concludes our discussion of tonight's motion and this debate."
   }
- ]
+ ],
+ "orig_id": "L146",
+ "batch": "v12"
 }

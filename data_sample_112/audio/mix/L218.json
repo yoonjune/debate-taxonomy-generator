@@ -1,5 +1,5 @@
 {
- "debate_id": "L160",
+ "debate_id": "L218",
  "motion": "The U.S. has no dog in the fight in Syria.",
  "speakers": {
   "MOD": {
@@ -436,5 +436,7 @@
    "overlap": false,
    "text": "Thank you, Michael and Daphne, for a thoughtful debate. That concludes our discussion of this motion today here."
   }
- ]
+ ],
+ "orig_id": "L160",
+ "batch": "v12"
 }

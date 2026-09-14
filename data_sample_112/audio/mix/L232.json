@@ -1,5 +1,5 @@
 {
- "debate_id": "L186",
+ "debate_id": "L232",
  "motion": "Joe Biden should step aside.",
  "speakers": {
   "MOD": {
@@ -401,5 +401,7 @@
    "overlap": false,
    "text": "Thank you, Jerry and Kara, for a focused debate; that concludes our discussion of this motion today."
   }
- ]
+ ],
+ "orig_id": "L186",
+ "batch": "v12"
 }

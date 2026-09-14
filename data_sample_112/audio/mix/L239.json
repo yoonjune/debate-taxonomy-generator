@@ -1,5 +1,5 @@
 {
- "debate_id": "L202",
+ "debate_id": "L239",
  "motion": "Break up the big banks.",
  "speakers": {
   "MOD": {
@@ -428,5 +428,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful debate on breaking up the big banks; that concludes our discussion tonight."
   }
- ]
+ ],
+ "orig_id": "L202",
+ "batch": "v12"
 }

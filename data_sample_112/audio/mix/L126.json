@@ -1,5 +1,5 @@
 {
- "debate_id": "L020",
+ "debate_id": "L126",
  "motion": "Russia is a marginal power",
  "speakers": {
   "MOD": {
@@ -417,5 +417,7 @@
    "overlap": false,
    "text": "Thank you, Tony and Abigail, for the debate. That concludes our discussion of whether Russia is a marginal power."
   }
- ]
+ ],
+ "orig_id": "L020",
+ "batch": "v12"
 }

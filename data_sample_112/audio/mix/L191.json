@@ -1,5 +1,5 @@
 {
- "debate_id": "L112",
+ "debate_id": "L191",
  "motion": "Hunters conserve wildlife.",
  "speakers": {
   "MOD": {
@@ -414,5 +414,7 @@
    "overlap": false,
    "text": "Thank you, Ryan and Bernard, for a thoughtful debate, and thank you for joining us today."
   }
- ]
+ ],
+ "orig_id": "L112",
+ "batch": "v12"
 }

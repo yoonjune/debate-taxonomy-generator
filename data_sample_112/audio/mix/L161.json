@@ -1,5 +1,5 @@
 {
- "debate_id": "L068",
+ "debate_id": "L161",
  "motion": "Congress should pass the Secure the Border Act.",
  "speakers": {
   "MOD": {
@@ -429,5 +429,7 @@
    "overlap": false,
    "text": "Thank you, Leo and Philip, for your arguments, and thank you for joining us for this debate."
   }
- ]
+ ],
+ "orig_id": "L068",
+ "batch": "v12"
 }

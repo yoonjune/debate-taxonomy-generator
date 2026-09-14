@@ -1,5 +1,5 @@
 {
- "debate_id": "L078",
+ "debate_id": "L169",
  "motion": "The special U.S.-Saudi relationship has outlived its usefulness.",
  "speakers": {
   "MOD": {
@@ -433,5 +433,7 @@
    "overlap": false,
    "text": "Thank you, Michelle and Hina, for a thoughtful debate. This concludes our discussion of the motion this evening."
   }
- ]
+ ],
+ "orig_id": "L078",
+ "batch": "v12"
 }

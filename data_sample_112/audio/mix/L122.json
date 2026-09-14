@@ -1,5 +1,5 @@
 {
- "debate_id": "L013",
+ "debate_id": "L122",
  "motion": "Iran poses the greatest threat to security in the region",
  "speakers": {
   "MOD": {
@@ -398,5 +398,7 @@
    "overlap": false,
    "text": "Thank you, Melissa and Rachel, for a thoughtful discussion; this concludes our debate on the motion before us today."
   }
- ]
+ ],
+ "orig_id": "L013",
+ "batch": "v12"
 }

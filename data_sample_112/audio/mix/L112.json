@@ -1,5 +1,5 @@
 {
- "debate_id": "L000",
+ "debate_id": "L112",
  "motion": "Bet on America.",
  "speakers": {
   "MOD": {
@@ -409,5 +409,7 @@
    "overlap": false,
    "text": "Thank you, Hina and Wendy, for a thoughtful debate. That concludes our discussion of the motion."
   }
- ]
+ ],
+ "orig_id": "L000",
+ "batch": "v12"
 }

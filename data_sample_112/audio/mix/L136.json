@@ -1,5 +1,5 @@
 {
- "debate_id": "L034",
+ "debate_id": "L136",
  "motion": "The U.S. can outpace China in the AI race through chip controls.",
  "speakers": {
   "MOD": {
@@ -405,5 +405,7 @@
    "overlap": false,
    "text": "Thank you, Daphne and Jed, and this concludes our debate on chip controls and the AI race."
   }
- ]
+ ],
+ "orig_id": "L034",
+ "batch": "v12"
 }

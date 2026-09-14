@@ -1,5 +1,5 @@
 {
- "debate_id": "L145",
+ "debate_id": "L209",
  "motion": "America is too damn religious",
  "speakers": {
   "MOD": {
@@ -389,5 +389,7 @@
    "overlap": false,
    "text": "Thank you, Bernard and Ted, for a thoughtful debate. That concludes tonight's discussion of the motion for us."
   }
- ]
+ ],
+ "orig_id": "L145",
+ "batch": "v12"
 }

@@ -1,5 +1,5 @@
 {
- "debate_id": "L095",
+ "debate_id": "L181",
  "motion": "The maximum pressure campaign against Iran is working.",
  "speakers": {
   "MOD": {
@@ -385,5 +385,7 @@
    "overlap": false,
    "text": "Thank you, Joanna and Margaret, for a thoughtful debate. That concludes today's discussion of the motion for us."
   }
- ]
+ ],
+ "orig_id": "L095",
+ "batch": "v12"
 }

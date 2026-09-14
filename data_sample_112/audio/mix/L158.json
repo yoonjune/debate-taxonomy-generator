@@ -1,5 +1,5 @@
 {
- "debate_id": "L063",
+ "debate_id": "L158",
  "motion": "Globalization has undermined America's working class.",
  "speakers": {
   "MOD": {
@@ -422,5 +422,7 @@
    "overlap": false,
    "text": "Thank you both for a focused debate on globalization and America's working class; this debate is now concluded."
   }
- ]
+ ],
+ "orig_id": "L063",
+ "batch": "v12"
 }

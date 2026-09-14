@@ -1,5 +1,5 @@
 {
- "debate_id": "L176",
+ "debate_id": "L229",
  "motion": "Being married is a better way to live than being single.",
  "speakers": {
   "MOD": {
@@ -429,5 +429,7 @@
    "overlap": false,
    "text": "Thank you, Bradley and Isaac, for a thoughtful debate. This concludes our discussion of the motion for today."
   }
- ]
+ ],
+ "orig_id": "L176",
+ "batch": "v12"
 }

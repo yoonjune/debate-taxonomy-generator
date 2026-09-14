@@ -1,5 +1,5 @@
 {
- "debate_id": "L161",
+ "debate_id": "L219",
  "motion": "Sex offender registries do more harm than good.",
  "speakers": {
   "MOD": {
@@ -375,5 +375,7 @@
    "overlap": false,
    "text": "Thank you both. This concludes our debate on whether sex offender registries do more harm than good."
   }
- ]
+ ],
+ "orig_id": "L161",
+ "batch": "v12"
 }

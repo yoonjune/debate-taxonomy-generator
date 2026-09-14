@@ -1,5 +1,5 @@
 {
- "debate_id": "L126",
+ "debate_id": "L199",
  "motion": "The two-state solution is still viable.",
  "speakers": {
   "MOD": {
@@ -419,5 +419,7 @@
    "overlap": false,
    "text": "Thank you, William and Annette, for a thoughtful debate on whether the two-state solution remains viable for peace today."
   }
- ]
+ ],
+ "orig_id": "L126",
+ "batch": "v12"
 }

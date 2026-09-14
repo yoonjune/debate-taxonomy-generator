@@ -1,5 +1,5 @@
 {
- "debate_id": "L026",
+ "debate_id": "L130",
  "motion": "Europe Has Declared War on American Tech Companies.",
  "speakers": {
   "MOD": {
@@ -395,5 +395,7 @@
    "overlap": false,
    "text": "Thank you, Elise and Mustafa, for a lively exchange. That concludes our debate on this motion here today."
   }
- ]
+ ],
+ "orig_id": "L026",
+ "batch": "v12"
 }

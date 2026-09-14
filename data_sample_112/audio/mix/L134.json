@@ -1,5 +1,5 @@
 {
- "debate_id": "L031",
+ "debate_id": "L134",
  "motion": "the world is better off with Wikileaks",
  "speakers": {
   "MOD": {
@@ -423,5 +423,7 @@
    "overlap": false,
    "text": "Thank you both; this concludes our discussion of whether the world is better off with Wikileaks."
   }
- ]
+ ],
+ "orig_id": "L031",
+ "batch": "v12"
 }

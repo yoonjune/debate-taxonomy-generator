@@ -1,5 +1,5 @@
 {
- "debate_id": "L100",
+ "debate_id": "L186",
  "motion": "Arab women should have full equality with men",
  "speakers": {
   "MOD": {
@@ -428,5 +428,7 @@
    "overlap": false,
    "text": "Thank you both for a thoughtful exchange. This concludes our debate on the motion; there is no declared winner."
   }
- ]
+ ],
+ "orig_id": "L100",
+ "batch": "v12"
 }

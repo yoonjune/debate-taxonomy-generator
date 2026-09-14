@@ -1,5 +1,5 @@
 {
- "debate_id": "L169",
+ "debate_id": "L225",
  "motion": "Repeal Obamacare",
  "speakers": {
   "MOD": {
@@ -338,5 +338,7 @@
    "overlap": false,
    "text": "Thank you, Walter and Rima, for a thoughtful exchange on this motion; this concludes our discussion for today."
   }
- ]
+ ],
+ "orig_id": "L169",
+ "batch": "v12"
 }

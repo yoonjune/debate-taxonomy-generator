@@ -1,5 +1,5 @@
 {
- "debate_id": "L008",
+ "debate_id": "L118",
  "motion": "Britain's role in the Middle East is in terminal decline",
  "speakers": {
   "MOD": {
@@ -374,5 +374,7 @@
    "overlap": false,
    "text": "Thank you, Paula and Betsy, for a spirited debate on this motion concerning Britain's changing role in the Middle East."
   }
- ]
+ ],
+ "orig_id": "L008",
+ "batch": "v12"
 }

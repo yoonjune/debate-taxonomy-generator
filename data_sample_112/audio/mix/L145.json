@@ -1,5 +1,5 @@
 {
- "debate_id": "L046",
+ "debate_id": "L145",
  "motion": "The GOP must seize the center or die",
  "speakers": {
   "MOD": {
@@ -369,5 +369,7 @@
    "overlap": false,
    "text": "Thank you, Amanda and Rick, for a thoughtful debate. That concludes our discussion of this motion for tonight."
   }
- ]
+ ],
+ "orig_id": "L046",
+ "batch": "v12"
 }

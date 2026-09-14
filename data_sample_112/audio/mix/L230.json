@@ -1,5 +1,5 @@
 {
- "debate_id": "L177",
+ "debate_id": "L230",
  "motion": "A booming China spells trouble for America.",
  "speakers": {
   "MOD": {
@@ -420,5 +420,7 @@
    "overlap": false,
    "text": "Thank you, Jacob and Genevieve, for a spirited exchange, and thank you for joining us for this debate."
   }
- ]
+ ],
+ "orig_id": "L177",
+ "batch": "v12"
 }

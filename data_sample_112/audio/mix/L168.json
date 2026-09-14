@@ -1,5 +1,5 @@
 {
- "debate_id": "L077",
+ "debate_id": "L168",
  "motion": "Silicon Valley has lost its soul.",
  "speakers": {
   "MOD": {
@@ -418,5 +418,7 @@
    "overlap": false,
    "text": "Thank you, Rich and Ralph, for the debate. This concludes our discussion of Silicon Valley's soul."
   }
- ]
+ ],
+ "orig_id": "L077",
+ "batch": "v12"
 }
