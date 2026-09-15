@@ -15,7 +15,10 @@ Writes scores/<debate_id>.judge.json:
    "non_trigger": [{verdict, violated_duty, why}]}
 One call per packet, no retries.
 """
-import argparse, json, os, sys
+import argparse, json, multiprocessing, os, sys
+import urllib.error
+import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -47,6 +50,18 @@ NT_SCHEMA = {
     "properties": {"verdict": {"type": "string"}, "violated_duty": {"type": "string"}, "why": {"type": "string"}},
     "required": ["verdict", "violated_duty", "why"],
 }
+
+
+def isolated_http_request(api_key, body, timeout, queue):
+    """Child process: a TLS read can ignore the Python socket timeout."""
+    try:
+        req = urllib.request.Request(
+            "https://api.openai.com/v1/chat/completions", data=body, method="POST",
+            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"})
+        with urllib.request.urlopen(req, timeout=timeout) as response:
+            queue.put((True, json.loads(response.read())["choices"][0]["message"]["content"]))
+    except Exception as exc:
+        queue.put((False, f"{type(exc).__name__}: {str(exc)[:240]}"))
 
 
 def grade(criteria, met, misread):
@@ -90,7 +105,13 @@ def main():
     ap.add_argument("--prompt", default="system_prompt.md")
     ap.add_argument("--yes", action="store_true")
     ap.add_argument("--max-calls", type=int, default=0)
+    ap.add_argument("--take", type=int, default=0,
+                    help="run only the first N packets (transport smoke test; not for final scoring)")
+    ap.add_argument("--workers", type=int, default=1,
+                    help="simultaneous independent judge requests (default: 1)")
     ap.add_argument("--dry", action="store_true")
+    ap.add_argument("--timeout", type=float, default=90.0,
+                    help="per-request timeout in seconds; prevents a single judge packet from stalling a run")
     a = ap.parse_args()
 
     rub = json.load(open(a.rubric))
@@ -120,15 +141,46 @@ def main():
         sys.exit("refused: paid calls need --yes")
     if not a.max_calls or len(jobs) > a.max_calls:
         sys.exit(f"refused: {len(jobs)} packets > --max-calls {a.max_calls}")
+    if a.take:
+        jobs = jobs[:a.take]
 
-    from openai import OpenAI
-    cl = OpenAI(api_key=os.environ.get("OPENAI_API_KEY") or os.environ.get("GPT_API_KEY"))
+    # Use the HTTP API directly.  The SDK transport has intermittently held a
+    # request open even with a timeout; urlopen gives us a hard per-packet
+    # boundary and exactly one paid request per packet.
+    api_key = os.environ.get("OPENAI_API_KEY") or os.environ.get("GPT_API_KEY")
+    if not api_key:
+        sys.exit("missing OPENAI_API_KEY or GPT_API_KEY")
+
+    def request(messages, schema, name):
+        body = json.dumps({
+            "model": a.model,
+            "reasoning_effort": "none",
+            "max_completion_tokens": 400,
+            "messages": messages,
+            "response_format": {"type": "json_schema",
+                                "json_schema": {"name": name, "strict": True, "schema": schema}},
+        }).encode("utf-8")
+        queue = multiprocessing.Queue()
+        proc = multiprocessing.Process(target=isolated_http_request,
+                                       args=(api_key, body, a.timeout, queue))
+        proc.start()
+        proc.join(a.timeout + 2)
+        if proc.is_alive():
+            proc.terminate()
+            proc.join()
+            raise TimeoutError(f"hard timeout after {a.timeout}s")
+        if queue.empty():
+            raise RuntimeError(f"request child exited {proc.exitcode} without a response")
+        ok, value = queue.get()
+        if not ok:
+            raise RuntimeError(value)
+        return value
     sysp = Path(a.prompt).read_text() if Path(a.prompt).exists() else ""
     res = {}
 
-    for f, kind, key, pk in jobs:
+    def judge_one(job):
+        f, kind, key, pk = job
         did = f.stem
-        res.setdefault(did, {"triggers": {}, "non_trigger": {}})
         if kind == "trigger":
             crit = pk["criteria"]
             msgs = [{"role": "system", "content": SYS_CONTENT},
@@ -142,19 +194,26 @@ def main():
             schema, name = NT_SCHEMA, "non_trigger"
         slot = "triggers" if kind == "trigger" else "non_trigger"
         try:
-            o = cl.chat.completions.create(
-                model=a.model, max_completion_tokens=400, messages=msgs,
-                response_format={"type": "json_schema",
-                                 "json_schema": {"name": name, "strict": True, "schema": schema}})
-            out = json.loads(o.choices[0].message.content)
+            out = json.loads(request(msgs, schema, name))
             if kind == "trigger":
                 g = grade(crit, out.get("met", []), out.get("misread", ""))
                 g["why"] = out.get("why", [])
-                res[did][slot][key] = g
+                value = g
             else:
-                res[did][slot][key] = out
+                value = out
         except Exception as e:
-            res[did][slot][key] = {"error": f"{type(e).__name__}: {str(e)[:120]}"}
+            value = {"error": f"{type(e).__name__}: {str(e)[:120]}"}
+        return did, slot, key, value
+
+    if a.workers < 1:
+        sys.exit("--workers must be at least 1")
+    with ThreadPoolExecutor(max_workers=a.workers) as pool:
+        results = pool.map(judge_one, jobs)
+        for job_no, (did, slot, key, value) in enumerate(results, 1):
+            res.setdefault(did, {"triggers": {}, "non_trigger": {}})
+            res[did][slot][key] = value
+            if job_no == 1 or job_no % 25 == 0 or job_no == len(jobs):
+                print(f"progress: {job_no}/{len(jobs)}", flush=True)
 
     for did, r in res.items():
         n = len(json.load(open(Path(a.scores) / f"{did}.json"))["non_trigger"])

@@ -10,7 +10,10 @@ CODES = ["A4", "A4xf", "A2-2", "A3-1", "A3-2", "A1", "A2-1", "A5", "B1", "B2"]
 
 
 def main():
-    ap = argparse.ArgumentParser(); ap.add_argument("--scores", default="scores"); a = ap.parse_args()
+    ap = argparse.ArgumentParser(); ap.add_argument("--scores", default="scores")
+    ap.add_argument("--exclude-debates", nargs="*", default=[], metavar="DEBATE_ID",
+                    help="debate IDs to omit from every aggregate (e.g. L185 L226)")
+    a = ap.parse_args()
     S = Path(a.scores)
     tim = collections.defaultdict(collections.Counter); offs = collections.defaultdict(list)
     cont = collections.defaultdict(lambda: [0, 0]); joint = collections.defaultdict(lambda: [0, 0])
@@ -18,6 +21,7 @@ def main():
     partial = collections.defaultdict(collections.Counter)   # 0.5 를 만든 원인: 빠진 기준
     for f in sorted(S.glob("L*.json")):
         if f.name.endswith(".judge.json"): continue
+        if f.stem in set(a.exclude_debates): continue
         n_deb += 1
         sc = json.load(open(f)); jf = S / f"{f.stem}.judge.json"
         J = json.load(open(jf)) if jf.exists() else None
