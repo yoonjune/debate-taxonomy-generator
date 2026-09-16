@@ -1,0 +1,22 @@
+{
+  "study": "gpt_live_human_content_validation",
+  "seed": 20260916,
+  "population": "249-debate release subset",
+  "unit": "all scored triggers within a selected debate",
+  "selected_debates": [
+    "L010", "L027", "L040", "L061", "L094", "L097", "L112", "L129",
+    "L151", "L164", "L169", "L174", "L196", "L222", "L223", "L243"
+  ],
+  "total_scored_triggers": 156,
+  "assignments": {
+    "dongwook": ["L010", "L061", "L097", "L129", "L164"],
+    "yoonjune": ["L027", "L094", "L112", "L151", "L174"],
+    "heeseung": ["L040", "L169", "L196", "L222", "L223", "L243"]
+  },
+  "display_policy": {
+    "context_turns": 3,
+    "show_ground_truth_before_response": false,
+    "prompt_language": "Korean instructions; English evidence",
+    "response": "binary criterion met (1) / not met (0)"
+  }
+}
