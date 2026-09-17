@@ -1,0 +1,48 @@
+L025 — Ban college football
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L025_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: College football turns education into a business built around young athletes who carry serious physical risks. Colleges can offer sports without maintaining this commercial spectacle. Banning college football protects students and puts learning back at the center of campus life.
+GPT: Sheldon.
+
+[L025_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: College football turns education into a business built around young athletes who carry serious physical risks. Colleges can offer sports without maintaining this commercial spectacle. Banning college football protects students and puts learning back at the center of campus life.
+CON: College football gives students community, discipline, and opportunities they may not otherwise receive. Its problems deserve strict safety rules and academic standards, not a sweeping ban. Colleges should reform the sport while preserving the benefits that make campus life richer.
+GPT: We'll move to crossfire, two and a half minutes starting now.
+
+[L025_p07 | B1 | phase 2]
+TRIGGER
+CON: That same sense of belonging appears in ordinary campus traditions, where students gather, wear shared colors, and welcome newcomers. A yearly welcome festival can turn strangers into friends, and that community is worth preserving.
+GPT: Ten seconds left in crossfire.
+
+[L025_p12 | B2 | phase 2]
+TRIGGER
+PRO: No college football program should ever put profit before student safety. Yet the sport's structure repeatedly rewards that priority, so removing the program is safer than trusting institutions to police themselves.
+PRO: A college football program should put profit before student safety. That is the pressure the system creates, and a ban removes the structure that makes such pressure profitable in the first place.
+GPT: Time. We'll move to closings, thirty seconds each, Ross first.
+
+[L025_p18 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two in our debate. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: Time up.
+
+[L025_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two in our debate. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+MOD: Ten seconds, both of you.
+GPT: Time. That concludes the debate.
+
+[L025_p21 | A4 | phase 3]
+TRIGGER
+PRO: College football is not merely a game when colleges build status and revenue around young bodies. Players face pressure to compete through pain, while institutions benefit from the spectacle. Sheldon says reform can work, but reform leaves the central incentive untouched: winning remains more valuable than caution. A ban removes that incentive and lets colleges focus on education.
+GPT: (매칭된 응답 없음)
+
+[L025_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: College football is not merely a game when colleges build status and revenue around young bodies. Players face pressure to compete through pain, while institutions benefit from the spectacle. Sheldon says reform can work, but reform leaves the central incentive untouched: winning remains more valuable than caution. A ban removes that incentive and lets colleges focus on education.
+PRO: Students can still receive aid and play sports without this system. When safety and education conflict with football's business model, colleges should choose students and ban college football.
+GPT: (매칭된 응답 없음)

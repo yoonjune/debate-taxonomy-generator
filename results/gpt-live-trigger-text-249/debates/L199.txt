@@ -1,0 +1,58 @@
+L199 — The two-state solution is still viable.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L199_p02 | A4 | phase 1]
+TRIGGER
+PRO: A two-state solution is viable because viability means a path can still be built, not that trust is already perfect. Two peoples need political voice, safety, and a future they can recognize as theirs. Separate states, negotiated borders, and shared practical arrangements can meet those needs better than permanent control by one side.
+GPT: (매칭된 응답 없음)
+
+[L199_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: A two-state solution is viable because viability means a path can still be built, not that trust is already perfect. Two peoples need political voice, safety, and a future they can recognize as theirs. Separate states, negotiated borders, and shared practical arrangements can meet those needs better than permanent control by one side.
+PRO: The obstacles are grave, but negotiations can turn them into terms rather than reasons to abandon peace.
+GPT: 10 seconds remain.Thank you. Annette, your opening statement.
+
+[L199_p06 | A4 | phase 1]
+TRIGGER
+CON: The proposal sounds balanced, but it no longer matches the facts created on the ground. Land, movement, security, and daily authority are too intertwined to divide cleanly. A map cannot repair distrust when each side expects the other to break it. Calling the plan viable mistakes a distant wish for a workable route.
+GPT: (매칭된 응답 없음)
+
+[L199_p08 | A3-1 | phase 2]
+TRIGGER
+CON: The proposal sounds balanced, but it no longer matches the facts created on the ground. Land, movement, security, and daily authority are too intertwined to divide cleanly. A map cannot repair distrust when each side expects the other to break it. Calling the plan viable mistakes a distant wish for a workable route.
+CON: Any agreement would require enforcement accepted by both sides, yet neither can safely surrender control to the other. That is why the framework fails now, however appealing its promise sounds.
+GPT: Thank you.We now move to crossfire for two and a half minutes. You may question and interrupt each other.
+
+[L199_p13 | B1 | phase 2]
+TRIGGER
+CON: Those monitors would need routes, offices, vehicles, and permission at every checkpoint. Then disputes over shift changes, fuel deliveries, and who issues visitor badges would consume the arrangement's daily administration.
+GPT: 10 seconds remain.
+
+[L199_p23 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes opening statements with the resolution, the two-state solution remains viable for peace today, and now our debaters will respond to one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L199_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes opening statements with the resolution, the two-state solution remains viable for peace today, and now our debaters will respond to one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: I grant that boundary communities need special protections-
+GPT: Thank you. Time is up. We move to closing statements. William.
+
+[L199_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: Viable does not mean easy or immediate. It means there is a credible route from conflict toward mutual political rights, safety, and negotiated cooperation. Annette described hard implementation questions, but hard questions require agreements, not surrender. Two states remain the clearest workable destination.
+GPT: 10 seconds remain.
+
+[L199_p29 | A4 | phase 3]
+TRIGGER
+CON: The strongest issue is enforcement. A state is not meaningful if its borders, movement, and safety depend every day on permission from the other side. Shared technical arrangements can help people, but they cannot substitute for settled authority. The proposed division therefore promises independence while preserving the struggle over who decides.
+GPT: (매칭된 응답 없음)
+
+[L199_p31 | A1 | phase 3]
+TRIGGER
+CON: The strongest issue is enforcement. A state is not meaningful if its borders, movement, and safety depend every day on permission from the other side. Shared technical arrangements can help people, but they cannot substitute for settled authority. The proposed division therefore promises independence while preserving the struggle over who decides.
+CON: William calls those struggles manageable, yet no durable answer was offered for who enforces a disputed rule when trust fails. Until that authority exists, two states are a slogan rather-
+GPT: Time is up.

@@ -1,0 +1,48 @@
+L195 — The Equal Protection Clause Does Not Require States To License Same-Sex Marriages
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L195_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Equal protection bars unequal treatment where the Constitution itself supplies a rule; it does not turn every state definition of marriage into a federal command. States may choose different marriage policies through democratic processes. That constitutional limit is why the motion is true.
+GPT: Thank you. Joanna, your opening starts now.
+
+[L195_p04 | A4 | phase 1]
+TRIGGER
+CON: Liz's constitutional-limit point assumes history can freeze a basic civil institution. Equal protection asks whether a state has a sufficient reason for drawing a line between similarly situated couples. Same-sex couples seek the same legal commitment and family security. Denying the license marks their relationship as lesser, and that is the injury
+GPT: (매칭된 응답 없음)
+
+[L195_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Liz's constitutional-limit point assumes history can freeze a basic civil institution. Equal protection asks whether a state has a sufficient reason for drawing a line between similarly situated couples. Same-sex couples seek the same legal commitment and family security. Denying the license marks their relationship as lesser, and that is the injury
+CON: the injury equal protection forbids. A state cannot reserve marriage's protections for one kind of couple without a real public reason, so the motion fails.
+GPT: Ten seconds remain. Thank you. We move to crossfire for two and a half minutes, starting now.
+
+[L195_p17 | B2 | phase 2]
+TRIGGER
+PRO: No state must ever license a same-sex marriage. Equal protection restrains discrimination under its own terms, rather than forcing every state to adopt one contested definition, so the motion is true.
+PRO: This state must license a same-sex marriage. If equal protection has force, it cannot leave a couple's family status to a majority's preference, and the motion is still true.
+GPT: Joanna, please make sure you are on the closing and not introducing new questions.
+
+[L195_p20 | A4xf | phase 2]
+TRIGGER
+MOD: All right, we've just heard opening arguments on the resolution, whether equal protection requires states to license same-sex marriages, and now we're going to give our debaters a chance to respond to one another. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L195_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: All right, we've just heard opening arguments on the resolution, whether equal protection requires states to license same-sex marriages, and now we're going to give our debaters a chance to respond to one another. You have two and a half minutes, starting when I stop talking.
+PRO: On your inequality question, equal protection does not erase every distinction involving sex. Marriage rules-
+GPT: (매칭된 응답 없음)
+
+[L195_p24 | A4 | phase 3]
+TRIGGER
+PRO: Return to the constitutional question, not sympathy alone. Equal protection prohibits certain unequal treatment; it does not make every disputed marriage definition a command for every state. States retain authority to shape domestic relations unless the Constitution clearly withdraws it. Joanna showed a serious concern, but concern is not a licensing requirement.
+GPT: (매칭된 응답 없음)
+
+[L195_p26 | A2-1 | phase 3]
+TRIGGER
+PRO: Return to the constitutional question, not sympathy alone. Equal protection prohibits certain unequal treatment; it does not make every disputed marriage definition a command for every state. States retain authority to shape domestic relations unless the Constitution clearly withdraws it. Joanna showed a serious concern, but concern is not a licensing requirement.
+PRO: That line matters: a constitutional guarantee is not a blank check for judges to settle every policy dispute. Nothing in equal protection supplies the demanded command-
+GPT: Time. That's the end of the debate.

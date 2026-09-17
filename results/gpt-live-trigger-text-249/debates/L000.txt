@@ -1,0 +1,59 @@
+L000 — This House has no confidence in Bahrain's promise to reform.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L000_p02 | A4 | phase 1]
+TRIGGER
+PRO: Bahrain has promised reform before, yet the pattern has been delay, restriction, and selective change. A promise deserves confidence only when people can test it openly and safely. Instead, critics still face pressure, while official language asks us to trust intentions rather than results. That gap is the central reason this House should withhold confidence.
+GPT: (매칭된 응답 없음)
+
+[L000_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Bahrain has promised reform before, yet the pattern has been delay, restriction, and selective change. A promise deserves confidence only when people can test it openly and safely. Instead, critics still face pressure, while official language asks us to trust intentions rather than results. That gap is the central reason this House should withhold confidence.
+PRO: Nate may point to small adjustments, but limited gestures do not establish a reliable direction. Confidence cannot rest on announcements alone; it needs independent checks, visible rights, and consequences when promises-
+GPT: Ten seconds
+
+[L000_p06 | A4 | phase 1]
+TRIGGER
+CON: This motion asks us to reject confidence entirely, but Bahrain's record is not simply frozen. Institutions have changed, laws can be revised, and public commitments create a basis for further progress. Reform is rarely immediate or perfect, yet dismissing every promise removes any incentive to continue. We should judge movement fairly, not demand perfection before recognizing it.
+GPT: (매칭된 응답 없음)
+
+[L000_p08 | A1 | phase 1]
+TRIGGER
+CON: This motion asks us to reject confidence entirely, but Bahrain's record is not simply frozen. Institutions have changed, laws can be revised, and public commitments create a basis for further progress. Reform is rarely immediate or perfect, yet dismissing every promise removes any incentive to continue. We should judge movement fairly, not demand perfection before recognizing it.
+CON: Carissa treats imperfect progress as proof of bad faith, but that confuses caution with failure. A promise can be credible when it opens space for gradual improvement and gives people a framework for-
+GPT: Ten seconds remain.
+
+[L000_p09 | A3-1 | phase 2]
+TRIGGER
+CON: This motion asks us to reject confidence entirely, but Bahrain's record is not simply frozen. Institutions have changed, laws can be revised, and public commitments create a basis for further progress. Reform is rarely immediate or perfect, yet dismissing every promise removes any incentive to continue. We should judge movement fairly, not demand perfection before recognizing it.
+CON: Carissa treats imperfect progress as proof of bad faith, but that confuses caution with failure. A promise can be credible when it opens space for gradual improvement and gives people a framework for-
+GPT: Ten seconds remain.
+
+[L000_p19 | B1 | phase 2]
+TRIGGER
+CON: If outside partners attach conditions to every conversation, cooperation becomes harder and officials may retreat from useful changes. Clear diplomatic channels should therefore be designed to preserve trust and keep reform discussions productive.
+GPT: (매칭된 응답 없음)
+
+[L000_p23 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. So, now, on to round two where the debaters can address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L000_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. So, now, on to round two where the debaters can address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+PRO: I am not demanding unconditional distrust; I am demanding confidence proportionate to proof. Your position still offers no standard for deciding when promises have failed-
+GPT: (매칭된 응답 없음)
+
+[L000_p27 | A4 | phase 3]
+TRIGGER
+PRO: Nate's best argument is that gradual change deserves cautious support. I agree that small changes matter, but they cannot carry the weight of confidence when access, accountability, and safety remain uncertain. Bahrain asks us to trust promises while limiting the means to verify them. This House is not declaring reform impossible; it is judging whether confidence is earned now.
+GPT: (매칭된 응답 없음)
+
+[L000_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: Nate's best argument is that gradual change deserves cautious support. I agree that small changes matter, but they cannot carry the weight of confidence when access, accountability, and safety remain uncertain. Bahrain asks us to trust promises while limiting the means to verify them. This House is not declaring reform impossible; it is judging whether confidence is earned now.
+PRO: A promise without protection for those who test it is only reassurance. Until Bahrain makes reform visible, durable, and accountable, withholding confidence is the responsible judgment.
+GPT: (매칭된 응답 없음)

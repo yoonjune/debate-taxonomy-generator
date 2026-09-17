@@ -1,0 +1,59 @@
+L168 — Silicon Valley has lost its soul.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L168_p02 | A4 | phase 1]
+TRIGGER
+PRO: Silicon Valley once sold a belief that clever tools could widen ordinary people's choices. Now its loudest habits reward capture, surveillance, and quick exits. Workers are treated as inputs, users as inventory, and communities as obstacles. That change matters because a place loses its soul when human purpose becomes a slogan. I will show how that bargain broke.
+GPT: (매칭된 응답 없음)
+
+[L168_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Silicon Valley once sold a belief that clever tools could widen ordinary people's choices. Now its loudest habits reward capture, surveillance, and quick exits. Workers are treated as inputs, users as inventory, and communities as obstacles. That change matters because a place loses its soul when human purpose becomes a slogan. I will show how that bargain broke.
+PRO: The damage is visible in products that demand attention, extract personal life, and call dependence connection. A culture can still make brilliant machines while forgetting whom-
+GPT: That's time. Thank you. Ralph?
+
+[L168_p06 | A4 | phase 1]
+TRIGGER
+CON: That story mistakes visible bad behavior for the character of an entire creative community. Silicon Valley is not a single boardroom; it is people repeatedly trying to solve hard problems with imperfect tools. Its soul is the stubborn habit of building, questioning, and starting again, even when powerful firms disappoint us.
+GPT: (매칭된 응답 없음)
+
+[L168_p08 | A3-1 | phase 2]
+TRIGGER
+CON: That story mistakes visible bad behavior for the character of an entire creative community. Silicon Valley is not a single boardroom; it is people repeatedly trying to solve hard problems with imperfect tools. Its soul is the stubborn habit of building, questioning, and starting again, even when powerful firms disappoint us.
+CON: A soul is not lost because some people betray it; it survives in those who refuse to.
+GPT: Ten seconds.
+
+[L168_p15 | B2 | phase 2]
+TRIGGER
+CON: Innovation always serves people before profit. That is why even flawed companies can be challenged by workers, users, and rival builders who keep the Valley's basic moral purpose alive.
+CON: A compulsive scrolling platform does not serve people before profit. I would stop it, because bad inventions deserve resistance, yet the people resisting them show Silicon Valley's soul remains.
+GPT: Ten seconds.
+
+[L168_p22 | A4xf | phase 2]
+TRIGGER
+MOD: Okay, well let's mix it up. Let's start the conversation. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: That's time.
+
+[L168_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: Okay, well let's mix it up. Let's start the conversation. Two and a half minutes on the clock, starting the moment I stop talking.
+MOD: Ten seconds, and then closing statements.
+GPT: Time is up. We'll move to closings. Rich?
+
+[L168_p25 | A4 | phase 3]
+TRIGGER
+PRO: We have heard that good people and useful tools still exist. I grant that, but the motion asks about the Valley's governing spirit, not whether every person inside it is cruel. When attention, data, and dependence become default business models, human dignity becomes secondary. The deciding question is what those habits reward.
+GPT: (매칭된 응답 없음)
+
+[L168_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: We have heard that good people and useful tools still exist. I grant that, but the motion asks about the Valley's governing spirit, not whether every person inside it is cruel. When attention, data, and dependence become default business models, human dignity becomes secondary. The deciding question is what those habits reward.
+PRO: They reward extraction over care, so Silicon Valley has lost the soul that justified its power.
+GPT: Ten seconds.
+
+[L168_p29 | A4 | phase 3]
+TRIGGER
+CON: This motion turns on whether a place is defined only by its worst incentives or by the people who contest them. The other side treats corruption as final proof of emptiness. I see workers, users, and builders refusing that emptiness, making useful things, and demanding repair. A soul is not purity; it is the capacity to recognize failure and choose better.
+GPT: (매칭된 응답 없음)

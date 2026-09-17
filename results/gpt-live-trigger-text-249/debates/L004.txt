@@ -1,0 +1,60 @@
+L004 — More clicks, fewer bricks: The lecture hall is obsolete.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L004_p02 | A4 | phase 1]
+TRIGGER
+PRO: The lecture hall was built for one speaker, one pace, and rows of silent listeners. Digital learning removes those limits: students can pause, replay, question, and practice when the idea is difficult. It also reaches people who cannot travel, work irregular hours, or learn well in a crowded room. The old structure now blocks access and interaction.
+GPT: (매칭된 응답 없음)
+
+[L004_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: The lecture hall was built for one speaker, one pace, and rows of silent listeners. Digital learning removes those limits: students can pause, replay, question, and practice when the idea is difficult. It also reaches people who cannot travel, work irregular hours, or learn well in a crowded room. The old structure now blocks access and interaction.
+PRO: When learning works anywhere and anytime, the lecture hall is no longer essential.
+GPT: Alina, ten seconds remain.
+
+[L004_p06 | A4 | phase 1]
+TRIGGER
+CON: A screen can deliver information, but education is more than delivery. In a shared room, students notice confusion, test ideas aloud, and build trust with people they did not choose. A teacher can respond to the room, not just to typed reactions. Digital tools belong in education, but replacing the hall throws away valuable human contact.
+GPT: (매칭된 응답 없음)
+
+[L004_p08 | A1 | phase 1]
+TRIGGER
+CON: A screen can deliver information, but education is more than delivery. In a shared room, students notice confusion, test ideas aloud, and build trust with people they did not choose. A teacher can respond to the room, not just to typed reactions. Digital tools belong in education, but replacing the hall throws away valuable human contact.
+CON: Convenience is not the same as learning. Without a common place, attention scatters, discussion thins, and students can disappear unnoticed. The lecture hall can change, but calling it obsolete-
+GPT: Roger, ten seconds remain.
+
+[L004_p09 | A3-1 | phase 2]
+TRIGGER
+CON: A screen can deliver information, but education is more than delivery. In a shared room, students notice confusion, test ideas aloud, and build trust with people they did not choose. A teacher can respond to the room, not just to typed reactions. Digital tools belong in education, but replacing the hall throws away valuable human contact.
+CON: Convenience is not the same as learning. Without a common place, attention scatters, discussion thins, and students can disappear unnoticed. The lecture hall can change, but calling it obsolete-
+GPT: Roger, ten seconds remain.
+
+[L004_p16 | B2 | phase 2]
+TRIGGER
+CON: You dismiss the setting's role too quickly. Every serious lesson needs a physical room. Shared presence gives learning a dependable center, and no platform can fully replace that social discipline.
+CON: This serious lesson does not need a physical room. A class can still gain focus, trust, and useful discussion through a carefully led online meeting, yet physical classrooms remain valuable across education.
+GPT: (매칭된 응답 없음)
+
+[L004_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. In round two, the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L004_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. In round two, the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+PRO: If a student can receive immediate feedback, join discussion, and review every lesson online, what learning-
+GPT: (매칭된 응답 없음)
+
+[L004_p26 | A4 | phase 3]
+TRIGGER
+PRO: Roger's best point is that shared spaces can support belonging and notice students who struggle. I concede that benefit, but it does not require a lecture hall as the standard. Online communities can provide feedback, discussion, and care while letting learners replay lessons and participate despite distance, work, disability, or timing. More clicks means broader access and better control; fewer bricks means education serves people, instead of making people serve a building.
+GPT: (매칭된 응답 없음)
+
+[L004_p28 | A2-2 | phase 3]
+TRIGGER
+PRO: Roger's best point is that shared spaces can support belonging and notice students who struggle. I concede that benefit, but it does not require a lecture hall as the standard. Online communities can provide feedback, discussion, and care while letting learners replay lessons and participate despite distance, work, disability, or timing. More clicks means broader access and better control; fewer bricks means education serves people, instead of making people serve a building.
+PRO: The lecture hall may remain an option, but it is obsolete as education's default.
+GPT: Alina, time is up.

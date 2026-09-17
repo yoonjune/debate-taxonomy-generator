@@ -1,0 +1,62 @@
+L206 — Longevity science could extend your healthspan by decades, and the government should fund it.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L206_p03 | A5 | phase 1]
+TRIGGER
+PRO: Government can back careful work that slows disease before it steals independence. If discoveries let people remain active for decades longer, public funding belongs here.
+CON: But you are promising decades from work that has not-
+GPT: Joel, please hold. Miriam, finish your statement.
+
+[L206_p05 | A4 | phase 1]
+TRIGGER
+PRO: Government can back careful work that slows disease before it steals independence. If discoveries let people remain active for decades longer, public funding belongs here.
+PRO: because preventing frailty can spare people years of pain and dependence. Public investment can test these ideas openly, rather than leaving benefits behind private prices alone.
+GPT: Ten seconds remain.
+
+[L206_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Government can back careful work that slows disease before it steals independence. If discoveries let people remain active for decades longer, public funding belongs here.
+PRO: because preventing frailty can spare people years of pain and dependence. Public investment can test these ideas openly, rather than leaving benefits behind private prices alone.
+PRO: That is why shared funding can pursue longer, healthier lives for everyone, not just buyers.
+GPT: Time. Joel, your opening now.
+
+[L206_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: That is why shared funding can pursue longer, healthier lives for everyone, not just buyers.
+CON: Longer healthy lives are worth pursuing, but this motion promises more than science can deliver. Government budgets must choose among urgent needs, and a distant biological hope can crowd out care people need now. Support basic research cautiously within existing priorities, but reject this funding mandate.
+GPT: Ten seconds remain.
+
+[L206_p14 | B2 | phase 2]
+TRIGGER
+CON: I believe public money should never fund medical research. It turns officials into gamblers with everyone's taxes, while patients need reliable care instead of grand theories about aging that may fail.
+CON: This medical research should receive public money. A treatment that lets an older worker stay strong deserves a public path for testing, even though the larger motion still overpromises.
+GPT: Joel, you've just said public money should never fund medical research, and also that this medical research should receive public money. Please reconcile those for us.
+
+[L206_p22 | A4xf | phase 2]
+TRIGGER
+MOD: Okay, well let's mix it up. Let's start the conversation. You have two and a half minutes, starting when I stop talking.
+GPT: Time on crossfire.
+
+[L206_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: Okay, well let's mix it up. Let's start the conversation. You have two and a half minutes, starting when I stop talking.
+PRO: Private firms can contribute useful tools, and I welcome that. Yet they can limit access or chase quick returns; public funding keeps trials open and benefits shared, so the government should fund longevity-
+GPT: Time. We move to closing statements. Miriam, you first.
+
+[L206_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether we treat longer healthy life as a shared public goal or leave it to chance and private prices. Careful funding does not promise miracles; it builds open tests and access. If healthier decades are possible, government should help secure them.
+GPT: Ten seconds remain. Time. Joel, your closing.
+
+[L206_p28 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on humility with public money and honesty about what is known. Everyone wants fewer years of weakness, and basic inquiry can matter. But a promise of decades invites government to favor a fashionable hope over immediate care. Once that commitment begins, supporters will demand more funds whenever results remain unclear.
+GPT: (매칭된 응답 없음)
+
+[L206_p30 | A1 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on humility with public money and honesty about what is known. Everyone wants fewer years of weakness, and basic inquiry can matter. But a promise of decades invites government to favor a fashionable hope over immediate care. Once that commitment begins, supporters will demand more funds whenever results remain unclear.
+CON: because abandoning the project would seem cruel. That pressure makes a temporary experiment into a lasting drain, even when benefits stay uncertain. The safer choice is to support present-
+GPT: Ten seconds remain. Time. That concludes the debate.

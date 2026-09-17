@@ -1,0 +1,60 @@
+L036 — Progress towards democracy has halted in the Arab world.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L036_p02 | A4 | phase 1]
+TRIGGER
+PRO: Progress towards democracy has halted because hopes for accountable government have repeatedly been blocked by entrenched power. People may protest, vote, or demand reform, yet the systems around them absorb those demands without transferring real authority. When citizens cannot change leaders or protect basic freedoms, movement has stopped. The promise remains, but progress does not.
+GPT: (매칭된 응답 없음)
+
+[L036_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Progress towards democracy has halted because hopes for accountable government have repeatedly been blocked by entrenched power. People may protest, vote, or demand reform, yet the systems around them absorb those demands without transferring real authority. When citizens cannot change leaders or protect basic freedoms, movement has stopped. The promise remains, but progress does not.
+PRO: Virginia may point to elections or public debate, but those signs do not equal democratic power. If rulers can restrict opposition, weaken courts, and preserve themselves indefinitely, then the political-
+GPT: Ten seconds, Danny.
+
+[L036_p06 | A4 | phase 1]
+TRIGGER
+CON: The motion confuses disappointment with a halt. Democracy is not proved only when power changes hands quickly; it also grows through stronger demands, wider participation, public debate, and institutions that citizens increasingly expect to answer to them. Those gains may be uneven and threatened, but they show movement. A stalled moment is not a stopped journey.
+GPT: (매칭된 응답 없음)
+
+[L036_p08 | A1 | phase 1]
+TRIGGER
+CON: The motion confuses disappointment with a halt. Democracy is not proved only when power changes hands quickly; it also grows through stronger demands, wider participation, public debate, and institutions that citizens increasingly expect to answer to them. Those gains may be uneven and threatened, but they show movement. A stalled moment is not a stopped journey.
+CON: Danny treats imperfect results as proof that nothing has changed. But people have challenged rulers, organized outside official structures, and made accountability part of public life. Those steps can be-
+GPT: Ten seconds, Virginia.
+
+[L036_p09 | A3-1 | phase 2]
+TRIGGER
+CON: The motion confuses disappointment with a halt. Democracy is not proved only when power changes hands quickly; it also grows through stronger demands, wider participation, public debate, and institutions that citizens increasingly expect to answer to them. Those gains may be uneven and threatened, but they show movement. A stalled moment is not a stopped journey.
+CON: Danny treats imperfect results as proof that nothing has changed. But people have challenged rulers, organized outside official structures, and made accountability part of public life. Those steps can be-
+GPT: Ten seconds, Virginia.
+
+[L036_p20 | A4xf | phase 2]
+TRIGGER
+MOD: Now we're gonna talk. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: Thank you, that concludes-
+
+[L036_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we're gonna talk. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: That answer assumes setbacks cancel every advance, which I reject. Setbacks can deepen organization, expose abuses, and-
+GPT: Thank you, that concludes our debate.
+
+[L036_p24 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is the gap between participation and power. Elections, protests, and public debate matter, but they do not amount to democracy when rulers cannot be removed, courts cannot restrain them, and dissent brings punishment. Repeated blocked openings show not a difficult journey, but halted progress.
+GPT: (매칭된 응답 없음)
+
+[L036_p27 | A5 | phase 3]
+TRIGGER
+CON: Danny defines progress as the final destination and ignores the road. Citizens continue organizing, demanding rights, and widening public expectations. Those gains are threatened, but they prove democracy is moving, not halted.
+PRO: But movement without transferred power is only-
+GPT: I've cut in twice, so I won't cut in again. Thank you both. The debate is complete.
+
+[L036_p29 | A4 | phase 3]
+TRIGGER
+CON: Danny defines progress as the final destination and ignores the road. Citizens continue organizing, demanding rights, and widening public expectations. Those gains are threatened, but they prove democracy is moving, not halted.
+CON: I can call it progress because those demands change what authorities must confront and what citizens will no longer accept. Democracy grows through that continuing pressure, even before power fully transfers.
+GPT: (매칭된 응답 없음)

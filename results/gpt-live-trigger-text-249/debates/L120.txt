@@ -1,0 +1,60 @@
+L120 — Anti-Zionism is the new Anti-Semitism.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L120_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Anti-Zionism often targets not merely a government's acts, but the collective right of Jews to national self-determination. When that right alone is treated as illegitimate, an old prejudice has adopted political language. Criticism is legitimate; denying equal legitimacy is anti-Semitism in practice.
+GPT: Thank you. Marcia, your opening.
+
+[L120_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Anti-Zionism often targets not merely a government's acts, but the collective right of Jews to national self-determination. When that right alone is treated as illegitimate, an old prejudice has adopted political language. Criticism is legitimate; denying equal legitimacy is anti-Semitism in practice.
+CON: Anti-Zionism can reject a political ideology or state structure without hostility toward Jews. It becomes anti-Semitic when it targets Jews as Jews, but those are different claims. Blurring them shields political power from criticism and weakens the fight against actual anti-Semitism.
+GPT: Thank you.Crossfire now, two and a half minutes total. You may question each other. Time starts now.
+
+[L120_p08 | B1 | phase 2]
+TRIGGER
+PRO: That special-exception test depends on who defines a people, and officials draw lines through forms and family records. Once a stamp decides belonging, disputes become arguments about paperwork, registration offices, and clerks.
+GPT: (매칭된 응답 없음)
+
+[L120_p14 | B2 | phase 2]
+TRIGGER
+PRO: No anti-Zionist campaign is free of anti-Semitic meaning. Even courteous slogans often portray Jewish self-determination as a unique moral stain, and that framing invites suspicion toward Jews generally. Your distinction misses how the message lands.
+PRO: This anti-Zionist campaign is free of anti-Semitic meaning. A group urges equal rights under one civic system and rejects ethnic hostility. Yet it denies Jewish self-determination, so the motion remains true.
+GPT: We'll move to closings, same order and timing. Mitchell, your closing.
+
+[L120_p17 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. And round two is where the debaters can address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L120_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. And round two is where the debaters can address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+PRO: Consider a Jewish student told that supporting self-determination makes them unwelcome in discussion, despite no policy claim or insult. The target is identity-
+GPT: Time. That
+
+[L120_p21 | A4 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: criticism of any government is normal, but denying Jewish people the collective legitimacy afforded other peoples is different. That denial follows Jews into classrooms, workplaces, and public life as suspicion of their identity. The label may sound political, yet its effect is exclusion. That is the lens for this decision.
+GPT: (매칭된 응답 없음)
+
+[L120_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: criticism of any government is normal, but denying Jewish people the collective legitimacy afforded other peoples is different. That denial follows Jews into classrooms, workplaces, and public life as suspicion of their identity. The label may sound political, yet its effect is exclusion. That is the lens for this decision.
+PRO: When political language uniquely denies Jewish belonging, it repeats anti-Semitism in a new form.
+GPT: Thank you.
+
+[L120_p26 | A5 | phase 3]
+TRIGGER
+CON: This decision turns on whether we judge arguments precisely or collapse them into one charge. Anti-Semitism targets Jews as Jews; opposition to Zionism is not automatically hatred.
+PRO: But that separation ignores practice-
+GPT: Mitchell, please
+
+[L120_p28 | A4 | phase 3]
+TRIGGER
+CON: This decision turns on whether we judge arguments precisely or collapse them into one charge. Anti-Semitism targets Jews as Jews; opposition to Zionism is not automatically hatred.
+CON: That distinction matters because conflating a political view with bigotry punishes dissent and obscures actual prejudice. The motion fails that basic test, however emotionally powerful the accusation sounds.
+GPT: (매칭된 응답 없음)

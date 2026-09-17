@@ -1,0 +1,47 @@
+L121 — The natural gas boom is doing more harm than good.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L121_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: The boom may burn cleaner than some fuels, but cleaner is not harmless. Leaks, industrial disruption, and dependence on another fossil fuel impose lasting costs. When communities bear those costs while short-term gains flow elsewhere, the boom does more harm than good.
+GPT: Thank you, Rima. Miriam, your opening.
+
+[L121_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: The boom may burn cleaner than some fuels, but cleaner is not harmless. Leaks, industrial disruption, and dependence on another fossil fuel impose lasting costs. When communities bear those costs while short-term gains flow elsewhere, the boom does more harm than good.
+CON: Natural gas can displace dirtier fuels while keeping heat and power dependable. Its development creates work, lowers strain on household budgets, and supports gradual change rather than sudden scarcity. Problems need firm rules, not a verdict that useful energy does more harm than good.
+GPT: Crossfire is now open for two and a half minutes.
+
+[L121_p14 | B1 | phase 2]
+TRIGGER
+CON: Government should decide how quickly households must replace appliances, because forced changes can punish renters and small businesses. Policymakers need flexible deadlines, repair support, and choices that fit different homes rather than one rigid energy rule.
+GPT: (매칭된 응답 없음)
+
+[L121_p17 | A4xf | phase 2]
+TRIGGER
+MOD: Great. So let's move on to the discussion portion of the debate. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L121_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: Great. So let's move on to the discussion portion of the debate. It runs two and a half minutes, starting the moment I stop. Go.
+CON: Consider a cold evening when a local power system needs quick backup after wind falls. Gas generation can keep homes warm without returning-
+GPT: Time. Rima, your closing, thirty seconds.
+
+[L121_p21 | A2-2 | phase 3]
+TRIGGER
+PRO: Miriam's best argument is that gas can provide backup when other sources vary. That narrow service does not justify widespread extraction, leaks, and long-lived infrastructure. A boom that locks in fossil dependence shifts costs onto communities, so it is doing more harm than good.
+GPT: Miriam, your closing, thirty seconds.
+
+[L121_p23 | A4 | phase 3]
+TRIGGER
+CON: Rima treats every new gas project as a permanent trap, but that ignores how energy systems can change. My strongest point is reliability: families need power and heat through sudden gaps. Gas can supply that support while cleaner capacity expands. There is also a larger point about how this change should be paced.
+GPT: (매칭된 응답 없음)
+
+[L121_p25 | A1 | phase 3]
+TRIGGER
+CON: Rima treats every new gas project as a permanent trap, but that ignores how energy systems can change. My strongest point is reliability: families need power and heat through sudden gaps. Gas can supply that support while cleaner capacity expands. There is also a larger point about how this change should be paced.
+CON: We should reduce pollution, but we should not make people choose between environmental progress and dependable service. A careful transition uses gas where it is needed, protects communities with-
+GPT: (매칭된 응답 없음)

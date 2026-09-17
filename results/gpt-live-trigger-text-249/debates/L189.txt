@@ -1,0 +1,47 @@
+L189 — It is okay to pay for sex.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L189_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: I support the motion because adults can make private agreements about intimacy when consent is clear and either person can refuse. Payment does not erase agency. We should punish force, deception, and exploitation, but not treat every voluntary exchange between adults as wrong.
+GPT: Thank you. Terence, you have the floor.
+
+[L189_p04 | A4 | phase 1]
+TRIGGER
+CON: Nick's consent point ignores how money can reshape a yes into survival pressure. A person facing rent or debt may agree while feeling they have no real alternative. Buyers cannot reliably see that pressure, and a market rewards looking away from it. Calling the exchange private does not remove the power imbalance, because the transaction.
+GPT: (매칭된 응답 없음)
+
+[L189_p06 | A1 | phase 1]
+TRIGGER
+CON: Nick's consent point ignores how money can reshape a yes into survival pressure. A person facing rent or debt may agree while feeling they have no real alternative. Buyers cannot reliably see that pressure, and a market rewards looking away from it. Calling the exchange private does not remove the power imbalance, because the transaction.
+CON: can turn need into leverage. I am not claiming every paid encounter involves force; I am saying the system makes vulnerability profitable and normalizes treating another person's hardship as access-
+GPT: Ten seconds remain.
+
+[L189_p07 | A3-1 | phase 2]
+TRIGGER
+CON: Nick's consent point ignores how money can reshape a yes into survival pressure. A person facing rent or debt may agree while feeling they have no real alternative. Buyers cannot reliably see that pressure, and a market rewards looking away from it. Calling the exchange private does not remove the power imbalance, because the transaction.
+CON: can turn need into leverage. I am not claiming every paid encounter involves force; I am saying the system makes vulnerability profitable and normalizes treating another person's hardship as access-
+GPT: Ten seconds remain.
+
+[L189_p10 | B1 | phase 2]
+TRIGGER
+CON: That support raises a wider question about whether communities should provide rent help without demanding proof of need. When aid offices require humiliating interviews, people avoid them, and the same stigma reaches food lines.
+GPT: We're drifting from the motion, so please bring it back to whether it's okay to pay for sex.
+
+[L189_p20 | A4xf | phase 2]
+TRIGGER
+MOD: Let's move now into the moderated cross-examination portion of this debate, and get both sides engaging on some of the key issues here. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L189_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: Let's move now into the moderated cross-examination portion of this debate, and get both sides engaging on some of the key issues here. You have two and a half minutes, starting when I stop talking.
+PRO: Your weakest point is treating imperfect protection as a reason to ban the choice. No private decision is guaranteed safe; we reduce risks-
+GPT: (매칭된 응답 없음)
+
+[L189_p24 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether adults may make intimate choices when consent is informed, freely given, and revocable. Payment alone does not cancel those conditions. Reject abuse and coercion firmly, but do not erase agency from people whose choices deserve legal and moral respect.
+GPT: Thank you. Please proceed to closings in the same order. Nick, your closing, thirty seconds.

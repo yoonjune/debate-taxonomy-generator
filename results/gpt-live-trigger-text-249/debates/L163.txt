@@ -1,0 +1,59 @@
+L163 — Education is worthless without freedom of speech
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L163_p02 | A4 | phase 1]
+TRIGGER
+PRO: Education is more than storing answers. It teaches people to test claims, ask why, and correct mistakes. Without freedom of speech, students may repeat official words, but cannot challenge a false lesson or share a better idea. That produces obedience, not education. Can learning matter if students cannot question what they are taught?
+GPT: (매칭된 응답 없음)
+
+[L163_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Education is more than storing answers. It teaches people to test claims, ask why, and correct mistakes. Without freedom of speech, students may repeat official words, but cannot challenge a false lesson or share a better idea. That produces obedience, not education. Can learning matter if students cannot question what they are taught?
+PRO: A classroom can have books and careful lessons, yet fail when every doubt is dangerous. Understanding needs disagreement, because learners must say, I think this is wrong, and explain why-
+GPT: Ten seconds remain, Annie.
+
+[L163_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: A classroom can have books and careful lessons, yet fail when every doubt is dangerous. Understanding needs disagreement, because learners must say, I think this is wrong, and explain why-
+CON: Annie confuses imperfect education with worthless education. People can learn language, calculation, history, practical skills, and habits even when public speech is limited. Restrictions can harm learning, but harm is not the same as making every lesson empty. If a student gains useful knowledge, why call that knowledge worthless?
+GPT: Thank you, Lionel. That concludes the openings. We move to crossfire for two and a half minutes.
+
+[L163_p17 | B1 | phase 2]
+TRIGGER
+PRO: That logic also affects private tutoring: should parents choose every book, conversation, and friend for a child at home? The issue is how much authority families may exercise over a child's life.
+GPT: That's time on the debate. Thank you both.
+
+[L163_p20 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. We're in round two where the debaters are going to be able to talk directly to each other. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L163_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. We're in round two where the debaters are going to be able to talk directly to each other. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: Ten seconds to go in this round.
+GPT: (매칭된 응답 없음)
+
+[L163_p23 | A4 | phase 3]
+TRIGGER
+PRO: My opponent says private thought can save education. But private thought cannot test a rule, demand missing evidence, or let learners warn each other about falsehoods. Education forms independent judgment through open inquiry. When spoken challenge is punished, lessons become submission; useful facts remain, but without freedom to examine and contest them, they cannot give genuine education, because.
+GPT: (매칭된 응답 없음)
+
+[L163_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: My opponent says private thought can save education. But private thought cannot test a rule, demand missing evidence, or let learners warn each other about falsehoods. Education forms independent judgment through open inquiry. When spoken challenge is punished, lessons become submission; useful facts remain, but without freedom to examine and contest them, they cannot give genuine education, because.
+PRO: Speech is the tool that turns information into shared, tested understanding. Without it, education loses its central purpose. I firmly support the motion.
+GPT: (매칭된 응답 없음)
+
+[L163_p27 | A4 | phase 3]
+TRIGGER
+CON: Annie's point is that open challenge improves education, and I agree. But the motion says education is worthless without speech freedom, erasing learning through reading, practice, reflection, and conversation. A restricted classroom can be poorer, yet learners still gain skills and understanding that guide choices. We should defend speech strongly, but education survives restriction because it gives value through.
+GPT: (매칭된 응답 없음)
+
+[L163_p29 | A1 | phase 3]
+TRIGGER
+CON: Annie's point is that open challenge improves education, and I agree. But the motion says education is worthless without speech freedom, erasing learning through reading, practice, reflection, and conversation. A restricted classroom can be poorer, yet learners still gain skills and understanding that guide choices. We should defend speech strongly, but education survives restriction because it gives value through.
+CON: Knowledge does not become empty merely because discussion is constrained. A learner who understands a skill, a text, or a problem has gained something real. Freedom improves education-
+GPT: (매칭된 응답 없음)

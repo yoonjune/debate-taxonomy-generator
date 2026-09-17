@@ -1,0 +1,53 @@
+L014 — The future will be abundant.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L014_p02 | A4 | phase 1]
+TRIGGER
+PRO: Abundance is not just having more goods; it is having more choices, useful tools, and chances to solve problems. Human knowledge builds on itself, so each generation starts with better ways to create, share, and repair. Energy, information, and production are becoming easier to access. That expanding ability gives ordinary people a stronger foundation for a richer future.
+GPT: (매칭된 응답 없음)
+
+[L014_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Abundance is not just having more goods; it is having more choices, useful tools, and chances to solve problems. Human knowledge builds on itself, so each generation starts with better ways to create, share, and repair. Energy, information, and production are becoming easier to access. That expanding ability gives ordinary people a stronger foundation for a richer future.
+PRO: The other side may warn that progress can be uneven, and I accept that access matters. But uneven access is a problem abundance can help solve, because lower costs and wider-
+GPT: Ten seconds remain.
+
+[L014_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: The other side may warn that progress can be uneven, and I accept that access matters. But uneven access is a problem abundance can help solve, because lower costs and wider-
+CON: More capability does not guarantee abundance for everyone. Resources can remain controlled, waste can grow, and new tools can widen the gap between people who benefit and people who are excluded. A future may contain impressive inventions while ordinary life becomes less secure, so the motion promises far more than progress can prove.
+GPT: Thank you. We now enter crossfire for two and a half minutes. Go ahead.
+
+[L014_p13 | B1 | phase 2]
+TRIGGER
+PRO: That benefit appears first in a small workshop that can share tools, designs, and repairs. When neighbors coordinate production, the real test becomes whether that workshop stays open, affordable, and useful during shortages.
+GPT: Ten seconds remain.
+
+[L014_p18 | A4xf | phase 2]
+TRIGGER
+MOD: Now we move on to round two. And in round two, the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L014_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we move on to round two. And in round two, the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: If better tools lower the cost of power, repairs, and housing, why assume families will remain locked out instead of gaining new ways to provide those needs-
+GPT: Time's up. We move to closing statements. Wayne first, thirty seconds.
+
+[L014_p22 | A4 | phase 3]
+TRIGGER
+PRO: My strongest point is that abundance means expanded capability, not a promise that every problem disappears. People can learn, create, repair, and cooperate with tools that become more accessible over time. That changes the balance between dependence and self-reliance. Even when access is imperfect, a society with more ways to meet needs has more options, resilience, and room to improve.
+GPT: (매칭된 응답 없음)
+
+[L014_p24 | A2-2 | phase 3]
+TRIGGER
+PRO: My strongest point is that abundance means expanded capability, not a promise that every problem disappears. People can learn, create, repair, and cooperate with tools that become more accessible over time. That changes the balance between dependence and self-reliance. Even when access is imperfect, a society with more ways to meet needs has more options, resilience, and room to improve.
+PRO: Gabriel is right that access matters, but expanding capability gives people leverage to widen access. That is why the future will be abundant.
+GPT: Thank you. Gabriel, your closing
+
+[L014_p26 | A4 | phase 3]
+TRIGGER
+CON: Wayne's best argument is that better tools create more options. But options are not abundance when people lack ownership, income, power, or reliable access to essentials. A workshop may help one neighborhood, while a wider system still concentrates resources and shifts risks onto everyone else. Progress can increase capacity without improving ordinary life, so the motion remains an unjustified promise.
+GPT: (매칭된 응답 없음)

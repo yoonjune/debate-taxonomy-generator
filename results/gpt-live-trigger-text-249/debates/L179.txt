@@ -1,0 +1,61 @@
+L179 — Prohibit genetically engineered babies.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L179_p02 | A4 | phase 1]
+TRIGGER
+PRO: Genetically engineered babies would turn early human life into a design project. Parents may begin with care, yet markets and fear can turn ordinary traits into demands. A child deserves room to arrive without being selected for a preferred body or temperament. Once clinics sell these choices, social pressure will make refusal feel reckless.
+GPT: (매칭된 응답 없음)
+
+[L179_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Genetically engineered babies would turn early human life into a design project. Parents may begin with care, yet markets and fear can turn ordinary traits into demands. A child deserves room to arrive without being selected for a preferred body or temperament. Once clinics sell these choices, social pressure will make refusal feel reckless.
+PRO: That pressure is why public rules must protect every future child from being treated as a customized outcome. The safest boundary is a clear public prohibition.
+GPT: Thank you. Carla, your opening statement.
+
+[L179_p07 | A4 | phase 1]
+TRIGGER
+CON: A total ban treats every possible use as though it were vanity. Some parents could seek an alteration to spare a future child a severe inherited illness. We should regulate risky clinics, require review, and protect children from pressure. But taking every option away also takes a family's chance to prevent avoidable suffering.
+CON: Ross says pressure makes choice impossible, but careful rules can punish coercion and preserve consent. We can distinguish medical decisions from perfection demands, and a blanket ban would deny families help-
+GPT: (매칭된 응답 없음)
+
+[L179_p08 | A1 | phase 1]
+TRIGGER
+CON: A total ban treats every possible use as though it were vanity. Some parents could seek an alteration to spare a future child a severe inherited illness. We should regulate risky clinics, require review, and protect children from pressure. But taking every option away also takes a family's chance to prevent avoidable suffering.
+CON: Ross says pressure makes choice impossible, but careful rules can punish coercion and preserve consent. We can distinguish medical decisions from perfection demands, and a blanket ban would deny families help-
+GPT: Ten seconds remain.
+
+[L179_p09 | A3-1 | phase 2]
+TRIGGER
+CON: A total ban treats every possible use as though it were vanity. Some parents could seek an alteration to spare a future child a severe inherited illness. We should regulate risky clinics, require review, and protect children from pressure. But taking every option away also takes a family's chance to prevent avoidable suffering.
+CON: Ross says pressure makes choice impossible, but careful rules can punish coercion and preserve consent. We can distinguish medical decisions from perfection demands, and a blanket ban would deny families help-
+GPT: Ten seconds remain.
+
+[L179_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes opening statements. Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Time is up.
+
+[L179_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes opening statements. Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: Ten seconds warning.
+GPT: Time is up. That concludes the debate.
+
+[L179_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: Carla's strongest point is preventing illness, and that wish is humane. But inherited redesign gives adults authority over a child and invites markets to stretch every exception. We can support families and treat illness without creating birth rights. Prohibition keeps the child's dignity ahead of control.
+GPT: (매칭된 응답 없음)
+
+[L179_p28 | A5 | phase 3]
+TRIGGER
+CON: Ross rightly worries about markets and pressure. Yet those dangers call for strict limits, not a ban that removes a possible protection against inherited illness.
+PRO: But strict limits always fail once families-
+GPT: Carla has the floor.
+
+[L179_p30 | A4 | phase 3]
+TRIGGER
+CON: Ross rightly worries about markets and pressure. Yet those dangers call for strict limits, not a ban that removes a possible protection against inherited illness.
+CON: That is not a safe answer. Families deserve support, counseling, and tightly supervised care, rather than a rule that assumes every genetic intervention is a designer demand.
+GPT: (매칭된 응답 없음)

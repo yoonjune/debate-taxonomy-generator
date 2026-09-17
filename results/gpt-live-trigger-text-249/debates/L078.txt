@@ -1,0 +1,61 @@
+L078 — Let's Stop Welcoming Undocumented Immigrants
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L078_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Welcoming people who entered outside the rules sends a message that rules are optional. A fair system needs clear boundaries and honest entry paths. We can treat people decently while ending a welcome that rewards bypassing the process for everyone.
+GPT: Thank you. Genevieve, your opening.
+
+[L078_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Welcoming people who entered outside the rules sends a message that rules are optional. A fair system needs clear boundaries and honest entry paths. We can treat people decently while ending a welcome that rewards bypassing the process for everyone.
+CON: Stopping welcome treats a person's paperwork as more important than their safety and hope. Order matters, but welcome can include guidance, checks, and a path forward. Shutting the door drives families into fear and makes communities less humane and less secure.
+GPT: Thanks. We'll move into crossfire, two and a half minutes starting now.
+
+[L078_p10 | B1 | phase 2]
+TRIGGER
+PRO: That need for calm also affects classrooms when children arrive midyear without records or shared language. Teachers must decide placements, arrange support, and protect learning time for every child already there.
+GPT: (매칭된 응답 없음)
+
+[L078_p18 | A4xf | phase 2]
+TRIGGER
+MOD: Thank you both for your opening arguments. We now know where you stand and why. We'll dive into the discussion on the question, whether we should stop welcoming undocumented immigrants into our communities. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L078_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: Thank you both for your opening arguments. We now know where you stand and why. We'll dive into the discussion on the question, whether we should stop welcoming undocumented immigrants into our communities. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: If welcome is compatible with enforcement, where exactly do you draw the line between receiving someone humanely and signaling that undocumented-
+GPT: Time's up.
+
+[L078_p23 | A5 | phase 3]
+TRIGGER
+PRO: This decision turns on whether kindness requires an open welcome after rules were bypassed. It does not: dignity can remain, while the community restores a meaningful boundary.
+CON: But that boundary becomes a wall for people seeking-
+GPT: That's time. Thank you both.
+
+[L078_p25 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on whether kindness requires an open welcome after rules were bypassed. It does not: dignity can remain, while the community restores a meaningful boundary.
+PRO: while the community decides each case through clear, prompt procedures. A welcome that overlooks unlawful entry tells future arrivals that the boundary is only a suggestion.
+GPT: (매칭된 응답 없음)
+
+[L078_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether kindness requires an open welcome after rules were bypassed. It does not: dignity can remain, while the community restores a meaningful boundary.
+PRO: while the community decides each case through clear, prompt procedures. A welcome that overlooks unlawful entry tells future arrivals that the boundary is only a suggestion.
+PRO: Choose a humane process, but stop welcoming undocumented entry as an accepted path into the community.
+GPT: (매칭된 응답 없음)
+
+[L078_p29 | A4 | phase 3]
+TRIGGER
+CON: This decision turns on what welcome means. It need not mean ignoring a boundary or granting anyone a free pass. It means meeting people with safety, information, and fair procedures instead of hostility. The other side calls that an invitation, but decent reception can make rules clearer and cooperation more likely. Closed doors create shadows, not order.
+GPT: (매칭된 응답 없음)
+
+[L078_p31 | A1 | phase 3]
+TRIGGER
+CON: This decision turns on what welcome means. It need not mean ignoring a boundary or granting anyone a free pass. It means meeting people with safety, information, and fair procedures instead of hostility. The other side calls that an invitation, but decent reception can make rules clearer and cooperation more likely. Closed doors create shadows, not order.
+CON: And when people fear rejection for asking help, they hide rather than report harm or seek guidance. That is not safety. The choice is whether rules show fairness, or whether fear-
+GPT: Thank you, that's time.

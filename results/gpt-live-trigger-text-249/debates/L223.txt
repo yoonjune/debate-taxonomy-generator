@@ -1,0 +1,60 @@
+L223 — Turkey is a bad model for the new Arab states
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L223_p02 | A4 | phase 1]
+TRIGGER
+PRO: Turkey's path grew from particular institutions, social bargains, and a long struggle over who holds power. New Arab states need accountable systems built from their own citizens' priorities, not a borrowed script. Caroline, why assume that sharing a region's pressures makes one country's institutions transferable without weakening local consent at home?
+GPT: (매칭된 응답 없음)
+
+[L223_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Turkey's path grew from particular institutions, social bargains, and a long struggle over who holds power. New Arab states need accountable systems built from their own citizens' priorities, not a borrowed script. Caroline, why assume that sharing a region's pressures makes one country's institutions transferable without weakening local consent at home?
+PRO: That is why resemblance alone cannot turn Turkey into a safe blueprint for states seeking legitimacy.
+GPT: Thank you, Arthur. Time to Caroline for her opening.
+
+[L223_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: That is why resemblance alone cannot turn Turkey into a safe blueprint for states seeking legitimacy.
+CON: I do not assume transfer means copying. I argue that Turkey offers lessons in elections, civilian politics, and public debate that new states can adapt. Why call a model bad when leaders can choose useful parts and reject harmful ones?
+GPT: Openings complete. Crossfire now for two and a half minutes.
+
+[L223_p12 | B1 | phase 2]
+TRIGGER
+PRO: The deeper issue is trade policy: governments need open markets, fair contracts, and protection from predatory lenders. They should decide whether foreign investment builds local industry or merely extracts wealth from workers.
+GPT: Arthur, please return to whether Turkey is a good model for these states.
+
+[L223_p17 | B2 | phase 2]
+TRIGGER
+CON: Every useful model always deserves adaptation. Turkey remains useful because its experience invites new Arab states to test institutions carefully, keep what serves citizens, and discard what does not.
+CON: Turkey is a useful model that does not deserve adaptation. Its value lies in showing that elected institutions can endure argument, and that lesson supports rejecting the motion.
+GPT: (매칭된 응답 없음)
+
+[L223_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now, onto round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: Thank you.
+
+[L223_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now, onto round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: Imagine a new assembly using Turkey's experience to protect open debate while elected leaders answer public criticism. That example gives-
+GPT: Time is up.
+
+[L223_p24 | A2-2 | phase 3]
+TRIGGER
+PRO: Turkey offers lessons, but a model must travel without importing unresolved struggles over power and identity. Caroline calls for selective borrowing, which admits the whole arrangement cannot be trusted. New Arab states need homegrown legitimacy, so Turkey is a bad model.
+GPT: Thank you, Arthur.
+
+[L223_p27 | A4 | phase 3]
+TRIGGER
+CON: Arthur's strongest point is that institutions need local legitimacy, and I agree that no country should copy another wholesale. But that does not make Turkey a bad model. A model can offer questions, warnings, and workable practices without replacing local judgment. New Arab states can adapt elections and open debate while building institutions their citizens own.
+CON: That is practical learning, not imitation. Rejecting every imperfect example leaves new states with fewer tools, fewer cautions, and less confidence to shape rules; Turkey remains a resource, not a command-
+GPT: (매칭된 응답 없음)
+
+[L223_p28 | A1 | phase 3]
+TRIGGER
+CON: Arthur's strongest point is that institutions need local legitimacy, and I agree that no country should copy another wholesale. But that does not make Turkey a bad model. A model can offer questions, warnings, and workable practices without replacing local judgment. New Arab states can adapt elections and open debate while building institutions their citizens own.
+CON: That is practical learning, not imitation. Rejecting every imperfect example leaves new states with fewer tools, fewer cautions, and less confidence to shape rules; Turkey remains a resource, not a command-
+GPT: Time is up. That concludes the debate.

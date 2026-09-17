@@ -1,0 +1,55 @@
+L024 — What you call political correctness, I call progress.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L024_p03 | A4 | phase 1]
+TRIGGER
+PRO: Political correctness is often a name for noticing who gets ignored, mocked, or shut out. When language or rules quietly favor one group, challenging them makes public life fairer. Progress does not require perfect agreement; it requires being willing to see harm and correct it. I will show why that correction matters beyond polite words.
+PRO: Elise may say these changes only police speech, but that confuses discomfort with control. Asking people to stop treating others as lesser does not silence debate; it makes debate possible for more people-
+GPT: (매칭된 응답 없음)
+
+[L024_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Political correctness is often a name for noticing who gets ignored, mocked, or shut out. When language or rules quietly favor one group, challenging them makes public life fairer. Progress does not require perfect agreement; it requires being willing to see harm and correct it. I will show why that correction matters beyond polite words.
+PRO: Elise may say these changes only police speech, but that confuses discomfort with control. Asking people to stop treating others as lesser does not silence debate; it makes debate possible for more people-
+GPT: Thank you, Abigail. Elise, you have the floor.
+
+[L024_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: Elise may say these changes only police speech, but that confuses discomfort with control. Asking people to stop treating others as lesser does not silence debate; it makes debate possible for more people-
+CON: Political correctness can begin as concern, but it often turns into a demand for approved opinions. People learn to hide honest questions, while slogans replace judgment. Progress needs open disagreement and room to make mistakes, so treating every objection as harmful does not advance fairness; it weakens it.
+GPT: Thank you, Elise.We now move to crossfire, which runs for two and a half minutes from now. You may both question each other directly.
+
+[L024_p14 | B2 | phase 2]
+TRIGGER
+PRO: No call for inclusion should ever be dismissed as political correctness. If someone objects to exclusion, taking that objection seriously opens participation and makes progress more than a fashionable word.
+PRO: This call for inclusion should be dismissed as political correctness. It rewards a polished demand that leaves the excluded people unheard, showing that progress requires judging what the label actually does.
+GPT: (매칭된 응답 없음)
+
+[L024_p19 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Ten seconds remain in crossfire.
+
+[L024_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: I agree that a label alone proves nothing, but that is not my main claim-
+GPT: (매칭된 응답 없음)
+
+[L024_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: Elise's strongest point is that labels can be abused, and I concede that. But abuse does not erase the value of challenging exclusion, setting respectful standards, and widening participation. When political correctness means those actions, it is progress because more voices can take part.
+GPT: Time is up.We now move to closing statements. Abigail, you are first, thirty seconds.
+
+[L024_p25 | A4 | phase 3]
+TRIGGER
+CON: Abigail's case depends on a careful version of political correctness that sounds like simple fairness. The real danger is what happens when that label ends discussion instead of improving conduct. A person can be corrected without being branded harmful, and a rule can protect dignity without controlling every question. Progress needs courage, judgment, and room for disagreement; political correctness too often substitutes pressure for all three.
+GPT: (매칭된 응답 없음)
+
+[L024_p27 | A1 | phase 3]
+TRIGGER
+CON: Abigail's case depends on a careful version of political correctness that sounds like simple fairness. The real danger is what happens when that label ends discussion instead of improving conduct. A person can be corrected without being branded harmful, and a rule can protect dignity without controlling every question. Progress needs courage, judgment, and room for disagreement; political correctness too often substitutes pressure for all three.
+CON: If we call every approved phrase progress, we stop asking whether people are actually included. Fairness should-
+GPT: Thank you, Elise. Abigail, your closing.

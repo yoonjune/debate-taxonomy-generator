@@ -1,0 +1,53 @@
+L022 — The Defense Production Act is being underutilized
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L022_p02 | A4 | phase 1]
+TRIGGER
+PRO: The Act gives government a ready tool when vital goods are scarce, yet officials often hesitate before using it. That hesitation leaves factories without clear orders, while urgent needs compete with ordinary market incentives. The law is not merely emergency paperwork; it can coordinate production, protect supply chains, and direct capacity toward public needs. I am not claiming every shortage requires compulsion, but the available authority is plainly used less than.
+GPT: (매칭된 응답 없음)
+
+[L022_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: The Act gives government a ready tool when vital goods are scarce, yet officials often hesitate before using it. That hesitation leaves factories without clear orders, while urgent needs compete with ordinary market incentives. The law is not merely emergency paperwork; it can coordinate production, protect supply chains, and direct capacity toward public needs. I am not claiming every shortage requires compulsion, but the available authority is plainly used less than.
+PRO: The authority is plainly used less than the situation demands. Officials too often wait for perfect certainty-
+GPT: Ten seconds remain.
+
+[L022_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: The authority is plainly used less than the situation demands. Officials too often wait for perfect certainty-
+CON: The Act is not being underutilized simply because officials decline to command industry at every warning sign. Its power is deliberately limited, and that restraint protects supply, competition, and public trust. When a genuine shortage appears, officials can use the law; choosing not to disrupt ordinary production is judgment, not neglect. The motion mistakes selective use for underuse.
+GPT: Thank you, Paula. Time is up. We now move to the crossfire, two and a half minutes from now, with open exchange.
+
+[L022_p09 | B1 | phase 2]
+TRIGGER
+PRO: That supplier still needs guaranteed materials, trained workers, and predictable delivery schedules, or its contracts remain promises on paper. Those requirements affect who gets hired, who receives training, and which families can afford the resulting work.
+GPT: Joanne, please connect that line back to whether the Act is underutilized. Ten seconds remain in crossfire.
+
+[L022_p15 | B2 | phase 2]
+TRIGGER
+PRO: I believe federal officials always use the Act wisely; that discipline means reported gaps reflect narrow choices, not underuse. When capacity sits idle during a serious shortage, restraint becomes underutilization.
+PRO: In an emergency, federal officials do not use the Act wisely. That failure leaves essential production waiting, and it shows the Act is underutilized when leaders avoid decisive coordination.
+GPT: We're at time, and we'll move to closing statements. Joanne, you have thirty seconds.
+
+[L022_p20 | A4xf | phase 2]
+TRIGGER
+MOD: In round two, the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: Ten seconds remain.
+
+[L022_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: In round two, the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+PRO: Because your question assumes private capacity is enough before testing it. The Act is underutilized when officials wait for failure instead of coordinating production while shortages are still-
+GPT: (매칭된 응답 없음)
+
+[L022_p24 | A2-2 | phase 3]
+TRIGGER
+PRO: The evidence points to a gap between what the Act permits and what officials actually do. They hesitate, wait for certainty, and leave productive capacity uncoordinated during serious shortages. Responsible restraint has a place, but repeated reluctance turns a useful emergency power into a rarely used promise. That is underutilization.
+GPT: (매칭된 응답 없음)
+
+[L022_p26 | A4 | phase 3]
+TRIGGER
+CON: The motion treats every decision not to invoke the Act as evidence of neglect, but that is backwards. The law exists to address exceptional production problems, not to replace normal contracts or direct every factory. Officials can weigh shortages, capacity, and unintended effects before acting. If private suppliers solve a problem, declining to intervene is success, not failure. The Act's measured use shows it is properly targeted, not underused.
+GPT: (매칭된 응답 없음)

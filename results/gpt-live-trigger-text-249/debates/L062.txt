@@ -1,0 +1,48 @@
+L062 — Color blindness perpetuates racism.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L062_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Color blindness sounds fair, but it treats unequal experiences as if they were equal. When people refuse to see race, they can ignore patterns of exclusion and leave them untouched. Real fairness requires noticing the barriers and changing them openly.
+GPT: Cecilia, your opening, thirty seconds.
+
+[L062_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Color blindness sounds fair, but it treats unequal experiences as if they were equal. When people refuse to see race, they can ignore patterns of exclusion and leave them untouched. Real fairness requires noticing the barriers and changing them openly.
+CON: Adam says noticing race is necessary. I disagree: color blindness can mean judging each person by conduct and needs, not inherited labels. We can confront unfair treatment directly without making racial categories the lens for every daily public decision.
+GPT: Thank you. We now move into crossfire, two and a half minutes.
+
+[L062_p09 | B2 | phase 2]
+TRIGGER
+PRO: Color blindness always conceals racial inequality. When institutions claim not to notice race, they can call unequal results neutral and avoid responsibility for repairing barriers people actually face in their daily decisions.
+PRO: Here color blindness does not conceal racial inequality. In a workplace where workers discuss unequal treatment openly, choosing not to sort them by race can keep attention on individual evidence and remedies.
+GPT: Adam, reconcile these: you said, quote, "color blindness always conceals racial inequality," but also that it does not in the workplace example. Please bring those together.
+
+[L062_p17 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes opening statements. Now we move on to round two. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: Ten seconds remain.
+
+[L062_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes opening statements. Now we move on to round two. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+CON: I agree that repeated harm deserves investigation. Yet noticing a pattern does not require color blindness to perpetuate it-
+GPT: (매칭된 응답 없음)
+
+[L062_p21 | A2-2 | phase 3]
+TRIGGER
+PRO: Color blindness is not harmless when it turns unequal outcomes into invisible accidents. My strongest point is that patterns cannot be repaired if race may never be named. Seeing the barrier is not prejudice; refusing to see it lets racism continue.
+GPT: Cecilia, your closing, thirty seconds.
+
+[L062_p23 | A4 | phase 3]
+TRIGGER
+CON: Adam mistakes awareness for an obligation to treat racial identity as the main explanation. We should investigate unequal outcomes, hear people, and remove unfair rules. But that work can rest on evidence and individual dignity, rather than assuming race must govern every judgment. I want to clarify why equal regard is not the same as ignoring harm.
+GPT: Time.
+
+[L062_p25 | A1 | phase 3]
+TRIGGER
+CON: Adam mistakes awareness for an obligation to treat racial identity as the main explanation. We should investigate unequal outcomes, hear people, and remove unfair rules. But that work can rest on evidence and individual dignity, rather than assuming race must govern every judgment. I want to clarify why equal regard is not the same as ignoring harm.
+CON: Equal regard asks us to confront the unfair rule, not attach guilt or expectation to a category. That approach preserves accountability while leaving room to see evidence. So color blindness does not-
+GPT: Thank you. That concludes the debate.

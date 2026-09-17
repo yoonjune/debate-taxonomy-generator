@@ -1,0 +1,54 @@
+L123 — The rich are taxed enough.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L123_p02 | A4 | phase 1]
+TRIGGER
+PRO: Taxing the rich enough does not mean treating success as sacred. It means they already contribute substantially through taxes, while their investments support jobs, ideas, and ordinary spending. Raising their burden again can shrink resources for building businesses and meeting responsibilities, so fairness must consider what they pay and what society asks of everyone.
+GPT: (매칭된 응답 없음)
+
+[L123_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Taxing the rich enough does not mean treating success as sacred. It means they already contribute substantially through taxes, while their investments support jobs, ideas, and ordinary spending. Raising their burden again can shrink resources for building businesses and meeting responsibilities, so fairness must consider what they pay and what society asks of everyone.
+PRO: Enough means a serious contribution without turning achievement into an endless target for government.
+GPT: Michelle, your opening.
+
+[L123_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: Enough means a serious contribution without turning achievement into an endless target for government.
+CON: The issue is not whether wealthy people pay something; they do. The issue is whether their share matches the power and security they gain from the system. When public needs go unmet while vast fortunes grow, the rich are not taxed enough.
+GPT: We'll move to crossfire now, two and a half minutes from now. Go ahead.
+
+[L123_p11 | B1 | phase 2]
+TRIGGER
+PRO: You call resources spare, but who decides after a business pays suppliers, repairs equipment, and covers payroll? That label depends on invoices, inspection dates, contractor bids, and whether the roof work used cedar or slate.
+GPT: Ten seconds remain in crossfire.
+
+[L123_p15 | B2 | phase 2]
+TRIGGER
+PRO: We should debate sensible rates, not chase every dollar someone earns. I believe the rich should never pay more tax, because government must respect the limits of what it can claim.
+PRO: A rich parent should pay more tax. If that parent earns from many homes while neighbors cannot fund basic repairs, the current burden fails the community, so the rich are taxed enough overall.
+GPT: Closing statements now, thirty seconds each. Peter.
+
+[L123_p20 | A4xf | phase 2]
+TRIGGER
+MOD: On to round two, and in round two, the debaters address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: Time.
+
+[L123_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: On to round two, and in round two, the debaters address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+MOD: Ten seconds left in this round.
+GPT: Time. Thank you.
+
+[L123_p23 | A4 | phase 3]
+TRIGGER
+PRO: This debate is about enough, not about pretending public needs do not matter. The other side showed real needs, but never proved that raising taxes on one group is the fair answer. A sound system collects serious revenue, protects initiative, and expects government to use funds responsibly. Punishing greater earnings whenever problems remain makes no principle safe.
+GPT: (매칭된 응답 없음)
+
+[L123_p25 | A2-1 | phase 3]
+TRIGGER
+PRO: This debate is about enough, not about pretending public needs do not matter. The other side showed real needs, but never proved that raising taxes on one group is the fair answer. A sound system collects serious revenue, protects initiative, and expects government to use funds responsibly. Punishing greater earnings whenever problems remain makes no principle safe.
+PRO: We can improve services and close genuine loopholes without declaring every successful person a permanent source of more. Enough taxation sets a boundary, preserves choice, and keeps effort worthwhile-
+GPT: (매칭된 응답 없음)

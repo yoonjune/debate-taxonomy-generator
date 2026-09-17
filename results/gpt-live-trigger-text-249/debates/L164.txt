@@ -1,0 +1,54 @@
+L164 — The Universal Basic Income is the Safety Net of the Future
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L164_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: UBI gives people a floor before a crisis becomes ruin. It reaches the worker between jobs, the carer, and the person missed by narrow rules. That simple, reliable support makes the future safety net stronger and more humane in practice.
+GPT: Thank you. Mustafa, your opening statement, thirty seconds.
+
+[L164_p05 | A5 | phase 1]
+TRIGGER
+CON: That floor sounds kind, but a future safety net must target emergencies. Giving the same payment to everyone can leave less help for people facing the hardest shocks.
+PRO: But you are skipping people harmed by gaps-
+GPT: Hold. Mustafa, you have ten seconds left.
+
+[L164_p07 | A4 | phase 1]
+TRIGGER
+CON: That floor sounds kind, but a future safety net must target emergencies. Giving the same payment to everyone can leave less help for people facing the hardest shocks.
+CON: can vanish overnight. A system that spreads money broadly may sound secure, yet it can weaken the focused help that disability or sudden illness demands.
+GPT: (매칭된 응답 없음)
+
+[L164_p09 | A3-1 | phase 2]
+TRIGGER
+CON: can vanish overnight. A system that spreads money broadly may sound secure, yet it can weaken the focused help that disability or sudden illness demands.
+CON: The future needs protection matched to need, not a flat promise that may fail the vulnerable.
+GPT: Thank you. We now move to crossfire, two and a half minutes starting now.
+
+[L164_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And now we move on to the second round. And the second round is much more of a conversation where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L164_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: And now we move on to the second round. And the second round is much more of a conversation where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+PRO: On your rent point, a landlord's possible response is not an argument for leaving everyone without cash-
+GPT: (매칭된 응답 없음)
+
+[L164_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Mustafa's best argument is that severe needs require more than a flat payment, and that is right. But that does not defeat a floor beneath specialized help. UBI prevents ordinary setbacks becoming disasters, reaches people without stigma, and makes the future net universal, stable, and humane.
+GPT: Time. Thank you, Trevor. Mustafa, your closing statement, thirty seconds.
+
+[L164_p28 | A4 | phase 3]
+TRIGGER
+CON: This decision turns on what a safety net should do. It should catch people when hardship hits, not send equal checks regardless of need. Universal cash may feel simple, but simplicity can drain support from care, housing, and sudden crisis. The question is whether we protect everyone best by treating every problem alike, or directing help by need.
+GPT: Ten seconds.
+
+[L164_p30 | A1 | phase 3]
+TRIGGER
+CON: This decision turns on what a safety net should do. It should catch people when hardship hits, not send equal checks regardless of need. Universal cash may feel simple, but simplicity can drain support from care, housing, and sudden crisis. The question is whether we protect everyone best by treating every problem alike, or directing help by need.
+CON: And once UBI becomes the main promise, officials can point to the check and neglect a person in crisis. You say layers solve that, but each competes for funds. A future safety net-
+GPT: Time. Thank you, Mustafa. That concludes the debate on the motion, "The Universal Basic Income is the Safety Net of the Future."

@@ -1,0 +1,58 @@
+L136 — The U.S. can outpace China in the AI race through chip controls.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L136_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Chip controls can slow access to the specialized tools that turn ideas into powerful systems. That buys the United States time to build, deploy, and set standards. Jed, why assume a rival can simply replace restricted top-end chips at scale?
+GPT: Thank you. Jed, your thirty seconds.
+
+[L136_p04 | A4 | phase 1]
+TRIGGER
+CON: Daphne asks whether replacement is simple. It is not, but the motion claims chip controls can deliver an overall race victory, and delay is not victory. Firms redesign, train on available hardware, and seek workarounds; meanwhile, controls push a rival to build its own supply chain. The United States cannot outpace China merely by restricting sales.
+GPT: (매칭된 응답 없음)
+
+[L136_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Daphne asks whether replacement is simple. It is not, but the motion claims chip controls can deliver an overall race victory, and delay is not victory. Firms redesign, train on available hardware, and seek workarounds; meanwhile, controls push a rival to build its own supply chain. The United States cannot outpace China merely by restricting sales.
+CON: That makes controls a costly obstacle, not a reliable path to winning the AI race.
+GPT: Thank you. Thank you. We'll now move to crossfire - two and a half minutes from now, with questions and interruptions allowed.
+
+[L136_p12 | B1 | phase 2]
+TRIGGER
+CON: That burden shows controls can backfire: more machines need more electricity, and power prices shape factory hiring and local budgets. When grids strain, communities choose upgrades, train technicians, and protect jobs.
+GPT: (매칭된 응답 없음)
+
+[L136_p20 | A4xf | phase 2]
+TRIGGER
+MOD: Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Time's up. We'll move to closings, thirty seconds each. Daphne
+
+[L136_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: Ten seconds left in the crossfire.
+GPT: (매칭된 응답 없음)
+
+[L136_p23 | A4 | phase 3]
+TRIGGER
+PRO: The core point is time and compounding advantage. Frontier chips are not ordinary goods; they determine which systems can be trained first and improved fastest. Controls deny a rival easy access to that capacity while American builders keep moving. That window attracts talent, partners, and investment, shaping the race before substitutes arrive.
+GPT: (매칭된 응답 없음)
+
+[L136_p25 | A2-1 | phase 3]
+TRIGGER
+PRO: The core point is time and compounding advantage. Frontier chips are not ordinary goods; they determine which systems can be trained first and improved fastest. Controls deny a rival easy access to that capacity while American builders keep moving. That window attracts talent, partners, and investment, shaping the race before substitutes arrive.
+PRO: The other side calls that only a delay, but delay at the frontier changes who sets tools, standards, and applications. Chip controls are not the whole strategy; they are the lever-
+GPT: Ten seconds.
+
+[L136_p27 | A4 | phase 3]
+TRIGGER
+CON: My core point is that an obstacle is not a winning strategy. Controls can impose pain, but they also invite redesign, substitution, and a separate supply chain beyond American influence. Meanwhile, American firms lose customers and feedback that support future chips. A race is won by durable innovation, not by assuming a rival remains dependent.
+GPT: (매칭된 응답 없음)
+
+[L136_p29 | A1 | phase 3]
+TRIGGER
+CON: My core point is that an obstacle is not a winning strategy. Controls can impose pain, but they also invite redesign, substitution, and a separate supply chain beyond American influence. Meanwhile, American firms lose customers and feedback that support future chips. A race is won by durable innovation, not by assuming a rival remains dependent.
+CON: The other side calls time a decisive advantage, yet time also lets alternatives mature and dependence fade. You cannot claim outpacing from a policy that may shrink your own industry's reach-
+GPT: Time's up. Thank you both.

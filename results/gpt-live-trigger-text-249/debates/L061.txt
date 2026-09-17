@@ -1,0 +1,61 @@
+L061 — Blame the Elites for the Trump Phenomenon
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L061_p03 | A4 | phase 1]
+TRIGGER
+PRO: The phenomenon did not appear in a vacuum. Powerful cultural, political, and economic gatekeepers dismissed ordinary worries, then mocked people who voiced them. That contempt made an outsider's defiance attractive. The issue is not that every elite voter caused it; it is that elite failures created the opening.
+PRO: When institutions stop listening, a loud challenger can turn justified anger into a personal crusade. Blaming elites means demanding accountability for that failure, not excusing every choice he made. They-
+GPT: Ten seconds remain.
+
+[L061_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: The phenomenon did not appear in a vacuum. Powerful cultural, political, and economic gatekeepers dismissed ordinary worries, then mocked people who voiced them. That contempt made an outsider's defiance attractive. The issue is not that every elite voter caused it; it is that elite failures created the opening.
+PRO: When institutions stop listening, a loud challenger can turn justified anger into a personal crusade. Blaming elites means demanding accountability for that failure, not excusing every choice he made. They-
+GPT: Time. Margaret,
+
+[L061_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: When institutions stop listening, a loud challenger can turn justified anger into a personal crusade. Blaming elites means demanding accountability for that failure, not excusing every choice he made. They-
+CON: Elite mistakes can fuel frustration, but they do not explain a phenomenon built from millions of individual choices. People supported a disruptive figure for different reasons, including policy hopes and distrust of all leaders. Blaming one class turns citizens into bystanders and hides their agency.
+GPT: Ten seconds remain.We now move to crossfire. Two and a half minutes, starting now.
+
+[L061_p17 | B2 | phase 2]
+TRIGGER
+CON: Elites should never be blamed for a movement. Leaders may disappoint people, yet citizens retain moral ownership of whom they elevate and what they demand from public life.
+CON: Elites should be blamed for this movement. When they ridicule citizens' concerns and then profit from the backlash, their conduct deserves criticism, even though voters made their own decisions.
+GPT: Time. Walter, your closing, thirty seconds.
+
+[L061_p20 | A4xf | phase 2]
+TRIGGER
+MOD: On to round two, and in round two, the debaters address one another. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L061_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: On to round two, and in round two, the debaters address one another. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: Your fertile-conditions point exaggerates influence into guilt. Many people faced the same institutions-
+GPT: Time. Margaret, your closing, thirty seconds.
+
+[L061_p24 | A4 | phase 3]
+TRIGGER
+PRO: This debate is not about denying voters agency or defending every decision made by an outsider. It is about recognizing the chain of responsibility before that choice became persuasive. Elites treated public concern as noise, protected failed arrangements, and answered distrust with scorn. That behavior did not dictate support, but it made rebellion feel necessary and legitimate.
+GPT: (매칭된 응답 없음)
+
+[L061_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: This debate is not about denying voters agency or defending every decision made by an outsider. It is about recognizing the chain of responsibility before that choice became persuasive. Elites treated public concern as noise, protected failed arrangements, and answered distrust with scorn. That behavior did not dictate support, but it made rebellion feel necessary and legitimate.
+PRO: Blame is not a claim that elites controlled every ballot. It is a claim that their failures supplied the fuel, and accountability belongs with them.
+GPT: (매칭된 응답 없음)
+
+[L061_p28 | A4 | phase 3]
+TRIGGER
+CON: Do not turn understandable anger into an excuse to strip citizens of authorship. Elite errors were real, and they deserve criticism where they occurred. Yet a political phenomenon grows because people choose, organize, persuade, and accept its message. Calling elites the cause flattens those choices and lets everyone else evade responsibility.
+GPT: (매칭된 응답 없음)
+
+[L061_p30 | A1 | phase 3]
+TRIGGER
+CON: Do not turn understandable anger into an excuse to strip citizens of authorship. Elite errors were real, and they deserve criticism where they occurred. Yet a political phenomenon grows because people choose, organize, persuade, and accept its message. Calling elites the cause flattens those choices and lets everyone else evade responsibility.
+CON: Hold elites to standards, certainly, but do not make them a convenient villain for a public decision. People can hear bad arguments and still refuse them. This phenomenon existed because citizens embraced-
+GPT: (매칭된 응답 없음)

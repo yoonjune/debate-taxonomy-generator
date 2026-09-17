@@ -1,0 +1,59 @@
+L187 — The President Has Usurped the Constitutional Power of Congress
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L187_p02 | A4 | phase 1]
+TRIGGER
+PRO: The Constitution gives Congress lawmaking and spending authority. When a president uses broad orders to create lasting rules or redirects money after lawmakers refused, that replaces public deliberation with one office. Emergency action can be necessary, but this pattern lets executive preference do Congress's work and leaves citizens with less representation.
+GPT: (매칭된 응답 없음)
+
+[L187_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: The Constitution gives Congress lawmaking and spending authority. When a president uses broad orders to create lasting rules or redirects money after lawmakers refused, that replaces public deliberation with one office. Emergency action can be necessary, but this pattern lets executive preference do Congress's work and leaves citizens with less representation.
+PRO: That is usurpation, because constitutional powers mean little when another branch routinely exercises them instead.
+GPT: Ten seconds. Thank you, Aiden. Jonathan, your turn.
+
+[L187_p06 | A4 | phase 1]
+TRIGGER
+CON: Presidents execute laws and respond when Congress has already given them authority. Using that authority is not stealing power; it is carrying out power Congress chose to delegate. Courts and lawmakers remain able to check abuses, revise statutes, restrict funds, or reject nominees. The motion mistakes disputed policy for a constitutional takeover, and that mistake matters.
+GPT: (매칭된 응답 없음)
+
+[L187_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Presidents execute laws and respond when Congress has already given them authority. Using that authority is not stealing power; it is carrying out power Congress chose to delegate. Courts and lawmakers remain able to check abuses, revise statutes, restrict funds, or reject nominees. The motion mistakes disputed policy for a constitutional takeover, and that mistake matters.
+CON: A president may act boldly, but bold action within delegated authority does not erase Congress's role. The real safeguard is political accountability, not calling every executive decision usurpation.
+GPT: Ten seconds. Thank you, Jonathan. We now move to Crossfire, two and a half minutes starting now.
+
+[L187_p21 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now, on to round two where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L187_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now, on to round two where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+PRO: No, Congress can pass a corrective law, but that does not excuse a president overriding its clear choice first. When funds are redirected from approved public needs, the damage proves-
+GPT: (매칭된 응답 없음)
+
+[L187_p25 | A4 | phase 3]
+TRIGGER
+PRO: Congress's core powers are not suggestions the president may bypass whenever compromise is hard. Spending and lawmaking force competing interests into public agreement. When one office makes those choices alone, the public loses its elected voice. The other side calls that delegation, but delegation cannot authorize a president to undo Congress's clear decisions.
+GPT: Ten seconds.
+
+[L187_p27 | A2-1 | phase 3]
+TRIGGER
+PRO: Congress's core powers are not suggestions the president may bypass whenever compromise is hard. Spending and lawmaking force competing interests into public agreement. When one office makes those choices alone, the public loses its elected voice. The other side calls that delegation, but delegation cannot authorize a president to undo Congress's clear decisions.
+PRO: Jonathan says lawmakers can correct every overreach later. But a later vote cannot restore the choice Congress was denied when one office set national policy first. That is why this motion matters-
+GPT: Time. Jonathan, your closing statement.
+
+[L187_p29 | A4 | phase 3]
+TRIGGER
+CON: Executive action is not automatically a rival legislature. Congress can define authority, fund or defund programs, investigate conduct, and replace rules through legislation. Those are real constitutional tools, not ceremonial leftovers. The strongest point is simple: using authority Congress granted may be contested, but it is not usurpation itself.
+GPT: Ten seconds.
+
+[L187_p31 | A1 | phase 3]
+TRIGGER
+CON: Executive action is not automatically a rival legislature. Congress can define authority, fund or defund programs, investigate conduct, and replace rules through legislation. Those are real constitutional tools, not ceremonial leftovers. The strongest point is simple: using authority Congress granted may be contested, but it is not usurpation itself.
+CON: Your argument treats broad authority as if it disappeared whenever its use is controversial. Congress writes grants, controls funding, and can change law. Calling lawful execution a seizure would-
+GPT: Time. That concludes the debate.

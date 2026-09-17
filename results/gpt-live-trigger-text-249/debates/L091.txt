@@ -1,0 +1,60 @@
+L091 — Prescription weight loss drugs should be available to all.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L091_p02 | A4 | phase 1]
+TRIGGER
+PRO: These drugs are not a shortcut; they are medical tools for people carrying a burden that food plans alone may not ease. A prescription already involves professional judgment. Denying broad availability turns help into a privilege. The barriers around access deserve serious attention.
+GPT: (매칭된 응답 없음)
+
+[L091_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: These drugs are not a shortcut; they are medical tools for people carrying a burden that food plans alone may not ease. A prescription already involves professional judgment. Denying broad availability turns help into a privilege. The barriers around access deserve serious attention.
+PRO: Availability does not mean forcing treatment or ignoring safety. It means every person can seek a prescription through ordinary medical care without arbitrary exclusion.
+GPT: Time. Thank you. Miriam, your opening statement.
+
+[L091_p07 | A4 | phase 1]
+TRIGGER
+CON: A prescription should reflect a person's needs, not a blanket promise to everyone. These drugs can affect bodies differently and require careful follow-up. Calling them available to all makes individual judgment sound like exclusion. The real question is who should receive a medical treatment.
+CON: People deserve support, but support is not the same as universal access to one drug. Safe care begins with decisions tailored to the person.
+GPT: 10.
+
+[L091_p08 | A3-1 | phase 2]
+TRIGGER
+CON: A prescription should reflect a person's needs, not a blanket promise to everyone. These drugs can affect bodies differently and require careful follow-up. Calling them available to all makes individual judgment sound like exclusion. The real question is who should receive a medical treatment.
+CON: People deserve support, but support is not the same as universal access to one drug. Safe care begins with decisions tailored to the person.
+GPT: Time. Thank you. We now enter a two and a half minute crossfire, where both may question and interrupt each other.
+
+[L091_p11 | B1 | phase 2]
+TRIGGER
+PRO: You focus on eligibility, but the larger question is who pays when benefit plans shift costs, workplaces alter coverage, and families compare premiums. Those financing rules shape whether care reaches people fairly.
+GPT: (매칭된 응답 없음)
+
+[L091_p15 | B2 | phase 2]
+TRIGGER
+PRO: You're right, the issue is availability, not payment. Anyone seeking these drugs should always receive them.
+PRO: A healthy teenager seeking these drugs does not receive them. Yet broad access remains fair because people should not face arbitrary barriers before discussing treatment with a prescriber.
+GPT: (매칭된 응답 없음)
+
+[L091_p22 | A4xf | phase 2]
+TRIGGER
+MOD: Now we'll have the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: We move to closing statements. Dante.
+
+[L091_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we'll have the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: The weakest part is your claim that universal availability eliminates judgment. Availability means the door is open; judgment happens inside the appointment, so your warning does not defeat broad-
+GPT: (매칭된 응답 없음)
+
+[L091_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: This motion is about ending arbitrary barriers, not replacing medical advice. People should be able to seek prescription weight loss drugs with the same dignity afforded to other treatment choices. Broad availability gives patients and prescribers room to act, rather than shutting the door before the conversation begins.
+GPT: Miriam.
+
+[L091_p29 | A4 | phase 3]
+TRIGGER
+CON: The other side calls this fairness, but fairness does not mean giving every person the same prescription. These drugs deserve the caution built into medical care. A clinician must be free to weigh benefit, harm, and alternatives for the individual. Universal availability makes that responsibility harder to protect.
+CON: We can expand support without promising one treatment to all. Keep prescriptions individualized, and keep care safe, honest, and genuinely responsive.
+GPT: (매칭된 응답 없음)

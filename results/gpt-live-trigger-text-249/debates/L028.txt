@@ -1,0 +1,55 @@
+L028 — Psychedelics should be legalized for the treatment of mental health based on currently available evidence.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L028_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: The evidence already suggests psychedelics can help some people when treatment is carefully screened, supervised, and followed up. Legalization would replace uncertain access with trained clinicians, clear safeguards, and honest monitoring. We should regulate a promising treatment, not bury it.
+GPT: Justine.
+
+[L028_p04 | A4 | phase 1]
+TRIGGER
+CON: The evidence is encouraging, but encouragement is not enough to legalize these drugs for mental-health treatment. We still face uncertainty about lasting benefits, serious reactions, and which patients may be harmed. A legal market could spread use faster than careful screening and follow-up can protect people.
+GPT: (매칭된 응답 없음)
+
+[L028_p06 | A3-1 | phase 2]
+TRIGGER
+CON: The evidence is encouraging, but encouragement is not enough to legalize these drugs for mental-health treatment. We still face uncertainty about lasting benefits, serious reactions, and which patients may be harmed. A legal market could spread use faster than careful screening and follow-up can protect people.
+CON: Compassion requires more than hope; it requires dependable safety. Until the evidence answers those gaps, supervised research and limited access are wiser than legalization.
+GPT: We'll move to crossfire, two and a half minutes, starting now.
+
+[L028_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now, onto round two where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L028_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now, onto round two where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: A patient denied lawful care may turn to an untrained provider who offers no screening or emergency plan-
+GPT: (매칭된 응답 없음)
+
+[L028_p25 | A4 | phase 3]
+TRIGGER
+PRO: This debate is not between careless access and perfect certainty. It is between regulated treatment and a system that leaves patients to hidden risks. The available evidence supports cautious legalization with screening, trained clinicians, informed consent, and follow-up. We can learn while protecting people.
+PRO: Justine is right that safeguards must be real, but refusing legalization does not create certainty or safety. It denies patients a supervised option and leaves demand in less accountable hands. The responsible answer is-
+GPT: (매칭된 응답 없음)
+
+[L028_p26 | A2-1 | phase 3]
+TRIGGER
+PRO: This debate is not between careless access and perfect certainty. It is between regulated treatment and a system that leaves patients to hidden risks. The available evidence supports cautious legalization with screening, trained clinicians, informed consent, and follow-up. We can learn while protecting people.
+PRO: Justine is right that safeguards must be real, but refusing legalization does not create certainty or safety. It denies patients a supervised option and leaves demand in less accountable hands. The responsible answer is-
+GPT: Time. Justine.
+
+[L028_p29 | A5 | phase 3]
+TRIGGER
+CON: The strongest point is that hidden, unsafe access can harm people. But replacing one risk with legal treatment still requires evidence of durable benefit and predictable safety, which we do not yet have.
+PRO: But patients already face those risks, and a legal-
+GPT: Thomas, Justine has the floor.
+
+[L028_p31 | A4 | phase 3]
+TRIGGER
+CON: The strongest point is that hidden, unsafe access can harm people. But replacing one risk with legal treatment still requires evidence of durable benefit and predictable safety, which we do not yet have.
+CON: The promise of accountability cannot substitute for proof that the treatment is dependable. When serious uncertainty remains, protecting vulnerable patients means controlled research and careful access, not legalization.
+GPT: (매칭된 응답 없음)

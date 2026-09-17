@@ -1,0 +1,62 @@
+L042 — America doesn't need a strong dollar policy
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L042_p02 | A4 | phase 1]
+TRIGGER
+PRO: A strong dollar policy sounds disciplined, but it makes our goods costlier abroad and rewards financial bets over productive work. It can also pull investment toward a currency goal rather than factories, training, and new ideas. I am arguing that America needs a flexible economy, not an official promise to keep the dollar high.
+GPT: (매칭된 응답 없음)
+
+[L042_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: A strong dollar policy sounds disciplined, but it makes our goods costlier abroad and rewards financial bets over productive work. It can also pull investment toward a currency goal rather than factories, training, and new ideas. I am arguing that America needs a flexible economy, not an official promise to keep the dollar high.
+PRO: The choice is not between strength and weakness. It is between a dollar guided by broad needs and one protected even when workers and exporters pay.
+GPT: Ten seconds remaining.
+
+[L042_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: The choice is not between strength and weakness. It is between a dollar guided by broad needs and one protected even when workers and exporters pay.
+CON: A strong dollar protects purchasing power, lowers the cost of essential imports, and gives businesses confidence when they plan. Abandoning that policy invites instability and makes every paycheck less reliable. America needs a clear anchor, not a currency left to drift.
+GPT: Ten seconds remaining.
+
+[L042_p21 | A4xf | phase 2]
+TRIGGER
+MOD: As the conversation continues, we're going to give you each a chance to rebut one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L042_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: As the conversation continues, we're going to give you each a chance to rebut one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: If a flexible dollar is so helpful, who protects families when its adjustment makes-
+GPT: (매칭된 응답 없음)
+
+[L042_p26 | A5 | phase 3]
+TRIGGER
+PRO: This debate turns on whether America should favor one exchange-rate outcome. It should not; workers, exporters, and consumers need flexibility, not an official target.
+CON: That leaves families exposed. A firm currency-
+GPT: Time.
+
+[L042_p28 | A4 | phase 3]
+TRIGGER
+PRO: This debate turns on whether America should favor one exchange-rate outcome. It should not; workers, exporters, and consumers need flexibility, not an official target.
+PRO: Families deserve stable prices, but a strong dollar policy is not the only tool for stability. It can also damage production and jobs, so America should keep its options open.
+GPT: (매칭된 응답 없음)
+
+[L042_p30 | A2-2 | phase 3]
+TRIGGER
+PRO: This debate turns on whether America should favor one exchange-rate outcome. It should not; workers, exporters, and consumers need flexibility, not an official target.
+PRO: Families deserve stable prices, but a strong dollar policy is not the only tool for stability. It can also damage production and jobs, so America should keep its options open.
+PRO: Flexibility serves more Americans than an expensive promise to keep the dollar strong.
+GPT: Ten seconds remaining.
+
+[L042_p32 | A4 | phase 3]
+TRIGGER
+CON: The decision turns on which risk deserves priority: the visible cost of a firm dollar to exporters, or the hidden cost of currency weakness to every household. A strong dollar policy gives families purchasing power, helps businesses price imported parts, and signals discipline. Flexibility sounds attractive, but it can become uncertainty when people are already struggling. The motion rejects a useful safeguard.
+GPT: (매칭된 응답 없음)
+
+[L042_p34 | A1 | phase 3]
+TRIGGER
+CON: The decision turns on which risk deserves priority: the visible cost of a firm dollar to exporters, or the hidden cost of currency weakness to every household. A strong dollar policy gives families purchasing power, helps businesses price imported parts, and signals discipline. Flexibility sounds attractive, but it can become uncertainty when people are already struggling. The motion rejects a useful safeguard.
+CON: America should not discard protection merely because it creates tradeoffs. A steady currency supports planning, limits sudden price shocks, and keeps household budgets-
+GPT: Time. That concludes the debate.

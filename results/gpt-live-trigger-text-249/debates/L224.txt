@@ -1,0 +1,59 @@
+L224 — Charter schools are overrated.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L224_p02 | A4 | phase 1]
+TRIGGER
+PRO: Charter schools are overrated because their promise of freedom often removes the safeguards families need. A school can choose its own approach, yet parents may discover too late that lessons are thin or discipline is chaotic. Choice sounds powerful, but it shifts the burden onto families who need reliability. Public money should buy dependable education, not experiments.
+GPT: Ten seconds remain.
+
+[L224_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Charter schools are overrated because their promise of freedom often removes the safeguards families need. A school can choose its own approach, yet parents may discover too late that lessons are thin or discipline is chaotic. Choice sounds powerful, but it shifts the burden onto families who need reliability. Public money should buy dependable education, not experiments.
+PRO: That is why glossy success stories should not settle this question. When a system asks parents to gamble on basic instruction, its celebrated flexibility becomes a weakness-
+GPT: Time, thank you. Liz, your opening.
+
+[L224_p06 | A4 | phase 1]
+TRIGGER
+CON: Charter schools are not overrated because they give families an option when a nearby school is not serving a child well. Their independence can let teachers build a calmer routine or a different curriculum. That is not empty marketing; it is a practical escape from being assigned one path. The question is whether families deserve an option.
+GPT: (매칭된 응답 없음)
+
+[L224_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Charter schools are not overrated because they give families an option when a nearby school is not serving a child well. Their independence can let teachers build a calmer routine or a different curriculum. That is not empty marketing; it is a practical escape from being assigned one path. The question is whether families deserve an option.
+CON: Families should not lose a useful choice simply because some schools elsewhere perform badly.
+GPT: Ten seconds remain.
+
+[L224_p11 | B1 | phase 2]
+TRIGGER
+CON: Funding rules matter more than labels, because every public program needs clear contracts, transport plans, and fair enrollment procedures. Officials should publish budgets plainly, train staff well, and make appeals easy for parents. Those rules shape trust.
+GPT: But process fixes don’t change the core problem. Uneven oversight means two kids can get very different educations under the same banner. You can’t call that a solid option. It’s a roll of the dice.
+
+[L224_p15 | B2 | phase 2]
+TRIGGER
+CON: We're discussing whether charter schools are overrated, and families can judge a school by its daily results rather than a label. Every charter school deserves public trust, because it offers families an option beyond a single assigned school.
+CON: This charter school does not deserve public trust. Its leaders misled families, and it should lose approval; calling out a failure protects choice by making room for better nearby alternatives.
+GPT: Liz, you've just claimed every charter deserves public trust, and this charter doesn't and should lose approval. Those can’t both be true. Please give us a sentence to reconcile them.
+
+[L224_p21 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L224_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+PRO: If public oversight is so valuable, why should families have to uncover failures only after a charter opens-
+GPT: Gideon.
+
+[L224_p25 | A4 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether a label is enough to earn public confidence. Liz says families have options, but an option that can hide weak teaching, close abruptly, or demand rescue after harm is not dependable. We should judge the system by what it reliably gives children, not by its promises of flexibility.
+GPT: (매칭된 응답 없음)
+
+[L224_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether a label is enough to earn public confidence. Liz says families have options, but an option that can hide weak teaching, close abruptly, or demand rescue after harm is not dependable. We should judge the system by what it reliably gives children, not by its promises of flexibility.
+PRO: Charter schools are overrated when families bear risks that public systems should prevent first.
+GPT: Time. Thank you. Liz, your closing.

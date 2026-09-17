@@ -1,0 +1,61 @@
+L065 — Blame Washington More Than Wall Street for the Financial Crisis
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L065_p02 | A4 | phase 1]
+TRIGGER
+PRO: Wall Street made reckless choices, but it operated inside a system Washington built and protected. Officials pushed easy credit, weakened meaningful oversight, and rescued failure after it happened. When rules reward risk while taxpayers absorb collapse, the larger blame belongs to the rule makers, because they shaped incentives across the whole market.
+GPT: (매칭된 응답 없음)
+
+[L065_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Wall Street made reckless choices, but it operated inside a system Washington built and protected. Officials pushed easy credit, weakened meaningful oversight, and rescued failure after it happened. When rules reward risk while taxpayers absorb collapse, the larger blame belongs to the rule makers, because they shaped incentives across the whole market.
+PRO: they made dangerous lending rational long before any single firm chose its strategy for the crisis.
+GPT: Ten seconds remain.Thank you, Ryan. Jillian, your thirty seconds, no interruptions.
+
+[L065_p07 | A5 | phase 1]
+TRIGGER
+CON: That reverses responsibility. Public policy may have been flawed, but firms designed the deceptive deals, chased short-term gains, and spread losses through the economy recklessly.
+PRO: But think of the homeowner promised a payment he could-
+GPT: Jillian, please continue.
+
+[L065_p09 | A4 | phase 1]
+TRIGGER
+CON: That reverses responsibility. Public policy may have been flawed, but firms designed the deceptive deals, chased short-term gains, and spread losses through the economy recklessly.
+CON: and no official forced them to hide risk from buyers. The principle is simple: private actors who knowingly create fragile products deserve the greater blame here.
+GPT: (매칭된 응답 없음)
+
+[L065_p11 | A3-1 | phase 2]
+TRIGGER
+CON: and no official forced them to hide risk from buyers. The principle is simple: private actors who knowingly create fragile products deserve the greater blame here.
+CON: Washington failed as referee, but Wall Street chose to cheat, package, sell, and repeat that choice.
+GPT: Ten seconds remain.
+
+[L065_p20 | B1 | phase 2]
+TRIGGER
+PRO: Inside those firms, bonus meetings rewarded the employee who closed the most complicated sale, while caution looked weak. Changing pay rules, training managers, and giving buyers clearer papers would make daily lending less predatory.
+GPT: Time's up. We'll move to closing statements. Ryan, your thirty seconds.
+
+[L065_p24 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: Time's up.
+
+[L065_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+MOD: You've got ten seconds.
+GPT: Jillian, your thirty seconds.
+
+[L065_p28 | A4 | phase 3]
+TRIGGER
+PRO: Deciding this motion is not about pretending firms were innocent. They were not, and they should face consequences. It is about identifying who created the incentives, the weak guardrails, and the promise that failure would be cushioned. When public power makes reckless conduct sensible throughout a market, responsibility reaches beyond the individual deal makers.
+PRO: to the officials who set the terms. Wall Street supplied the misconduct, but Washington supplied the permission structure. If we want an honest account of the crisis, we must place the greater-
+GPT: (매칭된 응답 없음)
+
+[L065_p29 | A2-1 | phase 3]
+TRIGGER
+PRO: Deciding this motion is not about pretending firms were innocent. They were not, and they should face consequences. It is about identifying who created the incentives, the weak guardrails, and the promise that failure would be cushioned. When public power makes reckless conduct sensible throughout a market, responsibility reaches beyond the individual deal makers.
+PRO: to the officials who set the terms. Wall Street supplied the misconduct, but Washington supplied the permission structure. If we want an honest account of the crisis, we must place the greater-
+GPT: Ten seconds remain.

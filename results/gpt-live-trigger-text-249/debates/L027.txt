@@ -1,0 +1,59 @@
+L027 — women will be worse off after the Arab revolutions
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L027_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Women may gain a vote, yet lose safety, work, and influence when old controls collapse. Revolutions often remove weak protections before building stronger ones. The question is not whether change sounds hopeful, but whether women actually hold more power afterward.
+GPT: Thank you. Gareth, your opening.
+
+[L027_p05 | A4 | phase 1]
+TRIGGER
+CON: I reject that forecast because revolutions can break the bargains that kept women excluded. New public debate gives women room to organize, demand rights, and challenge officials. Some protections may weaken briefly, but that does not mean women will be worse off overall.
+CON: Greater voice and public pressure can produce stronger rights, not lasting loss.
+GPT: Thank you.
+
+[L027_p06 | A3-1 | phase 2]
+TRIGGER
+CON: I reject that forecast because revolutions can break the bargains that kept women excluded. New public debate gives women room to organize, demand rights, and challenge officials. Some protections may weaken briefly, but that does not mean women will be worse off overall.
+CON: Greater voice and public pressure can produce stronger rights, not lasting loss.
+GPT: Crossfire now, two and a half minutes total from this moment.
+
+[L027_p10 | B1 | phase 2]
+TRIGGER
+PRO: That raises a neighbouring policy question: should new governments rebuild services before expanding political competition? If they chase constitutional change while leaving schools, courts, and workplaces weak, public promises become slogans, and citizens lose trust in reform.
+GPT: Gareth, bring it back to whether women will be worse off.
+
+[L027_p16 | B2 | phase 2]
+TRIGGER
+PRO: I believe no revolution should ever leave women worse off. Yet revolutions can remove limits on abuse before replacing them, so women may face greater danger and less security after the old order falls.
+PRO: This revolution should leave women worse off. Its leaders can promise equality while shifting burdens onto women, weakening household security, and leaving formal rights without practical protection.
+GPT: Andreas, you’ve said both that women may be worse off, and that they should not be worse off. Reconcile that.
+
+[L027_p19 | A4xf | phase 2]
+TRIGGER
+MOD: Now we go on to round two. And round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L027_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we go on to round two. And round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+PRO: Imagine a woman whose local protection disappears, whose work becomes unsafe, and whose complaint reaches no functioning court. A promised right cannot help her then; that concrete loss shows-
+GPT: (매칭된 응답 없음)
+
+[L027_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: This motion turns on lived power, not hopeful promises. If women lose safety and enforceable rights while institutions are rebuilt, a new voice cannot offset that harm. Revolutions may open doors, but women are worse off when those doors lead to insecurity.
+GPT: Thank you. Gareth, your closing.
+
+[L027_p25 | A4 | phase 3]
+TRIGGER
+CON: The motion asks us to predict the whole aftermath, not freeze women at the first moment of disorder. Revolutions can weaken old barriers and create public space for women to organize. That power can demand better laws and stronger institutions. We should judge the direction of change, not only its early risks.
+GPT: (매칭된 응답 없음)
+
+[L027_p27 | A1 | phase 3]
+TRIGGER
+CON: The motion asks us to predict the whole aftermath, not freeze women at the first moment of disorder. Revolutions can weaken old barriers and create public space for women to organize. That power can demand better laws and stronger institutions. We should judge the direction of change, not only its early risks.
+CON: Women are not doomed to lose when political space expands. They can turn new visibility into pressure, rights, and protection. The evidence offered here shows danger, not a lasting verdict-
+GPT: Time is up. That concludes the debate.

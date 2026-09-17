@@ -1,0 +1,47 @@
+L043 — We should legalize the market for human organs
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L043_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Legalizing organ sales can replace dangerous black markets with clear rules, screening, and consent. It can let people choose a lawful exchange while helping patients who might otherwise wait helplessly. Regulation is safer than pretending demand will disappear.
+GPT: Thank you. Emma, your opening statement, please.
+
+[L043_p04 | A4 | phase 1]
+TRIGGER
+CON: A market would turn human need into bargaining power. People with money could treat bodies as inventory, while people in poverty might feel pushed toward surgery they cannot safely refuse. Consent is not truly free when rent, food, or family survival depends on a buyer's offer. Even careful rules cannot remove that pressure, and private profit would reward cutting corners. The central danger is coercion and exploitation.
+GPT: (매칭된 응답 없음)
+
+[L043_p06 | A3-1 | phase 2]
+TRIGGER
+CON: A market would turn human need into bargaining power. People with money could treat bodies as inventory, while people in poverty might feel pushed toward surgery they cannot safely refuse. Consent is not truly free when rent, food, or family survival depends on a buyer's offer. Even careful rules cannot remove that pressure, and private profit would reward cutting corners. The central danger is coercion and exploitation.
+CON: Organs are not ordinary goods, because sellers bear lasting physical risks while buyers gain life itself. Donation should remain an act of solidarity, not a transaction that prices desperate bodies.
+GPT: Thank you. We'll move to crossfire now. It runs two and a half minutes starting as I finish. You may both question and interrupt each other.
+
+[L043_p11 | B1 | phase 2]
+TRIGGER
+PRO: A neighboring issue is how society should fund transplant care. Public insurance, sliding fees, and emergency assistance can widen access, while hospitals can coordinate donors and recipients through transparent rules. Those policies protect fairness in medical access.
+GPT: Rima, please come back to the motion on legalizing an organ market.
+
+[L043_p15 | B2 | phase 2]
+TRIGGER
+PRO: Every organ donation should remain unpaid. But a regulated organ market can distinguish a voluntary gift from a paid exchange, giving adults another lawful path while keeping medical safeguards in place.
+PRO: This organ donation should be paid. A consenting adult who accepts a regulated payment deserves protection, and denying that option leaves the exchange hidden and more dangerous.
+GPT: Time. We'll move to closing statements, Rima first.
+
+[L043_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Time. That concludes-
+
+[L043_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: Ten seconds left on the clock.
+GPT: Time. That concludes our debate. Thank you, Rima and Emma.
+
+[L043_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: This debate turns on whether we control demand or abandon it to secrecy. Legalization can require consent, screening, follow-up care, and penalties for coercion. A regulated market protects people better than a forbidden one.
+GPT: (매칭된 응답 없음)

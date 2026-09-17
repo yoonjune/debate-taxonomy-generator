@@ -1,0 +1,60 @@
+L235 — The Effective Altruism movement gets giving right.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L235_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: The movement asks donors to compare outcomes rather than follow habit. When a modest gift can prevent severe harm more reliably in one place than another, responsible giving follows the stronger evidence. That is getting giving right.
+GPT: Rima, your opening.
+
+[L235_p05 | A5 | phase 1]
+TRIGGER
+CON: But giving also expresses duties to people near us and builds trust. A movement that ranks every gift by distant outcomes misses what generosity is for.
+PRO: Rima, imagine a parent choosing between a-
+GPT: Time, Rima.
+
+[L235_p07 | A4 | phase 1]
+TRIGGER
+CON: But giving also expresses duties to people near us and builds trust. A movement that ranks every gift by distant outcomes misses what generosity is for.
+CON: Misses what generosity is for. The principle is that donors are not calculators alone; relationships and local judgment carry moral weight that a ranking cannot capture.
+GPT: (매칭된 응답 없음)
+
+[L235_p09 | A3-1 | phase 2]
+TRIGGER
+CON: Misses what generosity is for. The principle is that donors are not calculators alone; relationships and local judgment carry moral weight that a ranking cannot capture.
+CON: So an approach that treats measurable impact as the master value gets giving wrong.
+GPT: We'll move to crossfire now. Two and a half minutes.
+
+[L235_p21 | A4xf | phase 2]
+TRIGGER
+MOD: In round two, the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L235_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: In round two, the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: Your neighbor-in-crisis point mistakes prompt help for blind help. The movement can support immediate aid when it is urgent, while asking donors to consider outcomes across their giving, so it gets-
+GPT: (매칭된 응답 없음)
+
+[L235_p25 | A4 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether generosity should merely feel sincere or actually reach as much serious need as it can. My opponent rightly values relationships, and nothing in this approach forbids helping a neighbor. But when donors choose among opportunities, evidence can reveal consequences that instinct hides. That is a moral responsibility, not a rejection of care.
+GPT: (매칭된 응답 없음)
+
+[L235_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether generosity should merely feel sincere or actually reach as much serious need as it can. My opponent rightly values relationships, and nothing in this approach forbids helping a neighbor. But when donors choose among opportunities, evidence can reveal consequences that instinct hides. That is a moral responsibility, not a rejection of care.
+PRO: Good giving asks who is helped, how much, and at what cost. By putting those questions before sentiment, the movement turns compassion into effective action and gets giving right.
+GPT: Time, Joan. Rima, your closing.
+
+[L235_p29 | A4 | phase 3]
+TRIGGER
+CON: The best argument for the other side is that donors should not waste gifts when preventable harm is severe. I agree that outcomes matter, and careful donors should learn. But this movement mistakes a useful question for the whole meaning of generosity. Giving also sustains obligations, trust, and agency that no universal ranking can settle.
+GPT: (매칭된 응답 없음)
+
+[L235_p31 | A1 | phase 3]
+TRIGGER
+CON: The best argument for the other side is that donors should not waste gifts when preventable harm is severe. I agree that outcomes matter, and careful donors should learn. But this movement mistakes a useful question for the whole meaning of generosity. Giving also sustains obligations, trust, and agency that no universal ranking can settle.
+CON: Projected impact can overrule close responsibility, teaching people that care matters only when it scores well. That weakens lasting generosity. The movement gets giving wrong because it asks-
+GPT: Time.

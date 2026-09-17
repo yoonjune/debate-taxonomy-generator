@@ -1,0 +1,53 @@
+L180 — America is retreating from global leadership
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L180_p02 | A4 | phase 1]
+TRIGGER
+PRO: Caroline will point to moments when America still convenes partners. But leadership is not occasional attendance; it is steady direction when risks rise. Allies now hear hesitation, see commitments delayed, and plan around uncertainty. When the strongest organizer steps back, others cannot simply fill the gap with the same trust or reach needed.
+GPT: (매칭된 응답 없음)
+
+[L180_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Caroline will point to moments when America still convenes partners. But leadership is not occasional attendance; it is steady direction when risks rise. Allies now hear hesitation, see commitments delayed, and plan around uncertainty. When the strongest organizer steps back, others cannot simply fill the gap with the same trust or reach needed.
+PRO: That retreat does not mean total disappearance. It means the country increasingly avoids the costly follow-through that turns promises into leadership, leaving urgent choices to allies who lack the capacity-
+GPT: 10 seconds remain.
+
+[L180_p06 | A4 | phase 1]
+TRIGGER
+CON: Marcia treats caution as retreat, but they are different. Leadership can mean building agreement rather than issuing commands, and America still brings partners together when shared action matters. It supports common goals, adapts to new threats, and keeps channels open. A leader who listens before acting may be harder to notice, yet more durable.
+GPT: (매칭된 응답 없음)
+
+[L180_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Marcia treats caution as retreat, but they are different. Leadership can mean building agreement rather than issuing commands, and America still brings partners together when shared action matters. It supports common goals, adapts to new threats, and keeps channels open. A leader who listens before acting may be harder to notice, yet more durable.
+CON: The test is whether others still seek American cooperation when difficult choices arrive. They do, because influence rests on trust, capability, and continued engagement abroad.
+GPT: Time is up. Thank you. We'll move to crossfire. Two and a half minutes from now. Go ahead.
+
+[L180_p16 | B1 | phase 2]
+TRIGGER
+PRO: Reliable security also depends on how a country funds factories, trains workers, and protects supply chains at home. If public money favors short-term consumption over resilient production, families face shortages, jobs vanish, and goods become harder to afford.
+GPT: Marcia, you're drifting off the motion. Please return to whether America is retreating from global leadership.
+
+[L180_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L180_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly. You have two and a half minutes, starting when I stop talking.
+CON: I accept that uncertainty can make partners uneasy. Yet your reliability argument mistakes adaptation for abandonment: shared leadership asks others to contribute, and partners that keep cooperating demonstrate-
+GPT: 10 seconds remain.
+
+[L180_p24 | A4 | phase 3]
+TRIGGER
+PRO: Caroline's strongest point is that partners still cooperate, and that is true. But cooperation born of habit is not proof that America supplies steady direction when costs rise. Retreat is visible in delayed commitments and partners' need to insure themselves against reversal. Global leadership requires dependable follow-through, not merely a seat at the table.
+GPT: (매칭된 응답 없음)
+
+[L180_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Caroline's strongest point is that partners still cooperate, and that is true. But cooperation born of habit is not proof that America supplies steady direction when costs rise. Retreat is visible in delayed commitments and partners' need to insure themselves against reversal. Global leadership requires dependable follow-through, not merely a seat at the table.
+PRO: When the organizer becomes unreliable, the whole partnership weakens; that is America's retreat from global leadership.
+GPT: 10 seconds remain.

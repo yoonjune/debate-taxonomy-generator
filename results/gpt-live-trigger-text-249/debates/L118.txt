@@ -1,0 +1,54 @@
+L118 — Britain's role in the Middle East is in terminal decline
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L118_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Britain still speaks and acts there, but a role is measured by whether others need it. Regional powers increasingly set the terms, while Britain follows events it once shaped. That loss of independent weight is not a pause; it is terminal decline.
+GPT: Thank you. Betsy, your opening.
+
+[L118_p04 | A4 | phase 1]
+TRIGGER
+CON: Calling change terminal decline mistakes a shifting role for a disappearing one. Britain still brings diplomatic ties, security knowledge, trade links, and the ability to convene difficult conversations. Influence is not ownership of every outcome. If partners still seek British help when disputes intensify, how can you call that terminal decline?
+GPT: (매칭된 응답 없음)
+
+[L118_p06 | A1 | phase 1]
+TRIGGER
+CON: Calling change terminal decline mistakes a shifting role for a disappearing one. Britain still brings diplomatic ties, security knowledge, trade links, and the ability to convene difficult conversations. Influence is not ownership of every outcome. If partners still seek British help when disputes intensify, how can you call that terminal decline?
+CON: Because influence now works through partnerships, not command, Britain's role can adapt rather than vanish. Its long relationships still give it access others lack. When crises demand contact, Britain remains useful-
+GPT: Ten seconds remain.
+
+[L118_p07 | A3-1 | phase 2]
+TRIGGER
+CON: Calling change terminal decline mistakes a shifting role for a disappearing one. Britain still brings diplomatic ties, security knowledge, trade links, and the ability to convene difficult conversations. Influence is not ownership of every outcome. If partners still seek British help when disputes intensify, how can you call that terminal decline?
+CON: Because influence now works through partnerships, not command, Britain's role can adapt rather than vanish. Its long relationships still give it access others lack. When crises demand contact, Britain remains useful-
+GPT: Ten seconds remain.
+
+[L118_p15 | B2 | phase 2]
+TRIGGER
+PRO: Every British security role now proves terminal decline. Britain can send expertise or equipment, yet it no longer determines the political destination; local players accept assistance while reserving the decisions that matter, so its role is shrinking.
+PRO: This British security role does not prove terminal decline. A patrol can protect people and reduce danger; practical service gives it a place in a crisis, though the wider retreat remains terminal.
+GPT: Paula, you can't claim both that any British security role now proves terminal decline and that it does not prove terminal decline. Please reconcile that.
+
+[L118_p19 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: The debate is concluded.
+
+[L118_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: Your weakest claim is that setting every choice defines influence. No outside state sets every choice, yet steady access shapes compromises before-
+GPT: (매칭된 응답 없음)
+
+[L118_p23 | A4 | phase 3]
+TRIGGER
+PRO: Britain has not vanished from the Middle East, and I have never claimed that. The question is whether its role is in terminal decline. When others set priorities, invite Britain only selectively, and hold decisive authority, Britain's remaining activity is service, not leadership. A few useful missions cannot reverse that direction.
+GPT: (매칭된 응답 없음)
+
+[L118_p25 | A2-1 | phase 3]
+TRIGGER
+PRO: Britain has not vanished from the Middle East, and I have never claimed that. The question is whether its role is in terminal decline. When others set priorities, invite Britain only selectively, and hold decisive authority, Britain's remaining activity is service, not leadership. A few useful missions cannot reverse that direction.
+PRO: Britain may retain contacts and expertise, but those are remnants of a larger role, not proof it can still shape the region's future. The central fact is that influence depends-
+GPT: Time is up.

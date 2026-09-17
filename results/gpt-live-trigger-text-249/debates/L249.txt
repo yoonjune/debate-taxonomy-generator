@@ -1,0 +1,62 @@
+L249 — The EPA has gone overboard on climate change.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L249_p03 | A5 | phase 1]
+TRIGGER
+PRO: The agency treats climate goals as permission to reach into ordinary choices. Rules can raise bills, narrow options, and decide matters better left to families.
+CON: Are you saying protections attack families-
+GPT: Caroline, please hold your point.
+
+[L249_p05 | A4 | phase 1]
+TRIGGER
+PRO: The agency treats climate goals as permission to reach into ordinary choices. Rules can raise bills, narrow options, and decide matters better left to families.
+PRO: I was saying those choices deserve room for judgment, not one distant office's command. When rules treat every household burden as acceptable, the agency has gone too far.
+GPT: (매칭된 응답 없음)
+
+[L249_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: The agency treats climate goals as permission to reach into ordinary choices. Rules can raise bills, narrow options, and decide matters better left to families.
+PRO: I was saying those choices deserve room for judgment, not one distant office's command. When rules treat every household burden as acceptable, the agency has gone too far.
+PRO: Climate action matters, but authority without practical limits turns protection into too much control.
+GPT: Thank you. Caroline, your opening, thirty seconds.
+
+[L249_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: Climate action matters, but authority without practical limits turns protection into too much control.
+CON: Climate rules are not overboard merely because they ask people and businesses to change. The agency's job is to prevent shared harm that individual choices cannot solve alone. Sensible standards leave room for innovation while protecting the air and future choices everyone depends on.
+GPT: Thank you. We now move to a two and a half minute crossfire, starting now.
+
+[L249_p15 | B1 | phase 2]
+TRIGGER
+PRO: Energy policy also depends on whether new power lines and generating sites can be approved quickly. Communities need clear local planning, reliable construction, and fair compensation when projects reshape their neighborhoods.
+GPT: Jorge, please tie this back to the motion. The question is whether the EPA has gone overboard on climate change.
+
+[L249_p19 | B2 | phase 2]
+TRIGGER
+PRO: I believe EPA climate rules always yield to family budgets. Government may want cleaner outcomes, but it cannot call a policy reasonable when it makes ordinary necessities less affordable at home.
+PRO: In emergencies, EPA climate rules do not yield to family budgets. Immediate protection has to come first, because families cannot budget their way out of air they cannot safely breathe.
+GPT: Jorge, you've said EPA climate rules always yield to family budgets, and also that they do not when immediate protection is needed. Please reconcile that.
+
+[L249_p23 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L249_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: On your permanent authority point, standards do not control every household choice; they set boundaries for pollution that harms-
+GPT: (매칭된 응답 없음)
+
+[L249_p27 | A4 | phase 3]
+TRIGGER
+PRO: Caroline is right that pollution can impose costs on people who did not choose it. But that does not give one agency a blank check to regulate every climate-linked decision, whatever the household cost. Good protection needs limits, accountability, and room for ordinary life. When rules forget those boundaries, climate policy becomes overreach, and that is why...
+GPT: (매칭된 응답 없음)
+
+[L249_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: Caroline is right that pollution can impose costs on people who did not choose it. But that does not give one agency a blank check to regulate every climate-linked decision, whatever the household cost. Good protection needs limits, accountability, and room for ordinary life. When rules forget those boundaries, climate policy becomes overreach, and that is why...
+PRO: Protecting people means measuring burdens as seriously as benefits. The EPA has gone overboard when its climate rules demand sacrifice without sufficient limits.
+GPT: Time. Thank you. Caroline,

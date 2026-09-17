@@ -1,0 +1,53 @@
+L221 — Legalizing marijuana is a mistake.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L221_p02 | A4 | phase 1]
+TRIGGER
+PRO: Legalizing marijuana is a mistake because law shapes what seems ordinary. Easier access can turn experimentation into routine use, especially when adults treat the product as harmless. I am not claiming every user loses control. I am saying public permission removes a needed guardrail before communities have answers for preventable harm.
+GPT: (매칭된 응답 없음)
+
+[L221_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Legalizing marijuana is a mistake because law shapes what seems ordinary. Easier access can turn experimentation into routine use, especially when adults treat the product as harmless. I am not claiming every user loses control. I am saying public permission removes a needed guardrail before communities have answers for preventable harm.
+PRO: That guardrail matters because dependence, impaired judgment, and family strain do not disappear when a shop opens its doors. We should ask whether convenience is worth inviting more of-
+GPT: Ten seconds remain.
+
+[L221_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: That guardrail matters because dependence, impaired judgment, and family strain do not disappear when a shop opens its doors. We should ask whether convenience is worth inviting more of-
+CON: Eugene is right that careless use can harm families, but prohibition does not erase use or make it safer. Legalization can replace secrecy with clear rules, honest advice, and accountable sellers. The mistake is keeping adults in an illegal market where problems are harder to see and address.
+GPT: Ten seconds remain. Thank you. We now move to a two and a half minute crossfire. Time starts now.
+
+[L221_p11 | B1 | phase 2]
+TRIGGER
+PRO: Road safety needs clear roadside testing, trained officers, and meaningful penalties for drivers who use marijuana before driving. Without those tools, enforcement becomes confused and dangerous for everyone sharing the road.
+GPT: (매칭된 응답 없음)
+
+[L221_p16 | B2 | phase 2]
+TRIGGER
+CON: No adult should ever be punished for marijuana use. Personal use is not a crime against another person, and legalization respects adult choice while directing help toward anyone struggling.
+CON: An adult uses marijuana before driving a child home and endangers a passenger. This adult should be punished for marijuana use. Legalization can still defend responsible adults and public safety.
+GPT: (매칭된 응답 없음)
+
+[L221_p20 | A4xf | phase 2]
+TRIGGER
+MOD: Thanks to you both, we know where you stand and why. We're gonna dive into our discussion, the question of whether marijuana legalization is a mistake. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Time's up.
+
+[L221_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: Thanks to you both, we know where you stand and why. We're gonna dive into our discussion, the question of whether marijuana legalization is a mistake. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: Your point about accurate information misses the source of the risk: legalization makes marijuana more ordinary and available. Support after harm is useful, but prevention is-
+GPT: (매칭된 응답 없음)
+
+[L221_p24 | A2-2 | phase 3]
+TRIGGER
+PRO: Throughout this debate, the key issue has been what public permission normalizes. Legalization expands availability and treats regular use as ordinary, while safeguards arrive late and fail unevenly. We can offer help without making the product a standard commercial choice. For that reason, legalizing marijuana is a mistake.
+GPT: (매칭된 응답 없음)
+
+[L221_p26 | A4 | phase 3]
+TRIGGER
+CON: Legalization does not pretend marijuana is harmless; it makes harm easier to recognize and address. Adults deserve rules separating personal use from conduct endangering others. Eugene asks us to preserve a ban for prevention, yet bans hide products and discourage honest conversations. A legal system can set age limits, product standards, and consequences for unsafe behavior. That is practical care, but
+GPT: (매칭된 응답 없음)

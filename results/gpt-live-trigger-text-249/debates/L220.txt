@@ -1,0 +1,61 @@
+L220 — The Art Market is Less Ethical Than the Stock Market
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L220_p03 | A4 | phase 1]
+TRIGGER
+PRO: The art market often asks buyers to trust private stories, private prices, and private relationships. That makes conflicts of interest easier to hide than in the stock market. A dealer can shape both an object's value and the account of its history. Buyers may not know who profits at each step.
+PRO: Stock trading has flaws, but it uses clearer disclosures and visible records. In art, secrecy is often treated as normal business practice.
+GPT: (매칭된 응답 없음)
+
+[L220_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: The art market often asks buyers to trust private stories, private prices, and private relationships. That makes conflicts of interest easier to hide than in the stock market. A dealer can shape both an object's value and the account of its history. Buyers may not know who profits at each step.
+PRO: Stock trading has flaws, but it uses clearer disclosures and visible records. In art, secrecy is often treated as normal business practice.
+GPT: Thank you, Karen. Jack, your opening statement.
+
+[L220_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: Stock trading has flaws, but it uses clearer disclosures and visible records. In art, secrecy is often treated as normal business practice.
+CON: Secrecy can be troubling, but it does not make an entire market less ethical. Art buyers can inspect the work, negotiate directly, and decline a deal. Stock investors also face opaque corporate choices and distant decision-makers. Ethics depends on conduct, not the asset being sold.
+GPT: Thank you. We now move to crossfire. Two and a half minutes, both may question and interrupt each other. Time starts now.
+
+[L220_p10 | B1 | phase 2]
+TRIGGER
+PRO: Public policy should therefore fund independent appraisal training and require cultural venues to publish their acquisition budgets. Communities also need stronger support for small artists who cannot afford advisers. Those funding choices should prioritize fair access to creative careers.
+GPT: Karen, please tie this back to whether the art market is less ethical than the stock market.
+
+[L220_p19 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L220_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: Ten seconds remaining in this round.
+GPT: Ten seconds remain.
+
+[L220_p23 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on whether ordinary participants can see the interests shaping a transaction. In art, price, ownership, and commissions may remain concealed behind trusted intermediaries. Jack rightly noted that transparent sales exist. Yet isolated good sales do not cure a system that accepts opacity as routine.
+PRO: The stock market has serious ethical failures, but its basic structure demands more public information and clearer reporting. Art dealing too often makes secrecy part of the bargain. When people cannot identify-
+GPT: (매칭된 응답 없음)
+
+[L220_p24 | A2-1 | phase 3]
+TRIGGER
+PRO: This decision turns on whether ordinary participants can see the interests shaping a transaction. In art, price, ownership, and commissions may remain concealed behind trusted intermediaries. Jack rightly noted that transparent sales exist. Yet isolated good sales do not cure a system that accepts opacity as routine.
+PRO: The stock market has serious ethical failures, but its basic structure demands more public information and clearer reporting. Art dealing too often makes secrecy part of the bargain. When people cannot identify-
+GPT: Time. Jack, your closing statement.
+
+[L220_p26 | A4 | phase 3]
+TRIGGER
+CON: Karen's strongest point is that hidden commissions and unclear ownership can corrupt an art sale. I agree those practices deserve scrutiny. But the motion compares whole markets, not their worst examples. Stock investors regularly rely on distant managers and complicated decisions they cannot meaningfully inspect. Art can offer direct knowledge, negotiation, and personal accountability.
+GPT: (매칭된 응답 없음)
+
+[L220_p28 | A1 | phase 3]
+TRIGGER
+CON: Karen's strongest point is that hidden commissions and unclear ownership can corrupt an art sale. I agree those practices deserve scrutiny. But the motion compares whole markets, not their worst examples. Stock investors regularly rely on distant managers and complicated decisions they cannot meaningfully inspect. Art can offer direct knowledge, negotiation, and personal accountability.
+CON: Ethical conduct comes from honest disclosure and responsible behavior, wherever people trade. Calling art less ethical ignores transparent dealers, informed buyers, and direct sales. The better conclusion is that both-
+GPT: Time. That concludes the round.

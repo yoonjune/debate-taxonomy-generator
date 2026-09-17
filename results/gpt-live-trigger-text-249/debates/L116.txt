@@ -1,0 +1,53 @@
+L116 — Western democracy is threatening suicide
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L116_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Democracy can be dismantled using democratic tools: elections become loyalty tests, courts become prizes, and opponents become enemies. When citizens accept those moves because their camp benefits, they trade self-government for victory. That is democracy threatening suicide from within today.
+GPT: Thank you. Alina, your opening statement.
+
+[L116_p04 | A4 | phase 1]
+TRIGGER
+CON: Emma describes real abuses, but abuses are not suicide. Democracy contains ways to expose bad leaders: open argument, independent judgment, elections, and lawful challenge. Citizens can replace a government without replacing their freedoms. The danger is serious, yet calling the whole system suicidal ignores its capacity to correct errors through public pressure and peaceful transfers of power, while
+GPT: 10 seconds remain.
+
+[L116_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Emma describes real abuses, but abuses are not suicide. Democracy contains ways to expose bad leaders: open argument, independent judgment, elections, and lawful challenge. Citizens can replace a government without replacing their freedoms. The danger is serious, yet calling the whole system suicidal ignores its capacity to correct errors through public pressure and peaceful transfers of power, while
+CON: That resilience is not automatic. It asks citizens to defend fair rules and accept losses, but those habits can be renewed through democratic action.
+GPT: Thank you. We now move to the crossfire, two and a half minutes starting now.
+
+[L116_p12 | B1 | phase 2]
+TRIGGER
+PRO: Take the ballot box: its paper, seal, and counting table only work when neighbors volunteer to watch them. Those volunteers need training, child care, transport, and a room with working lights after a long day.
+GPT: (매칭된 응답 없음)
+
+[L116_p15 | B2 | phase 2]
+TRIGGER
+CON: I believe democratic institutions never deserve blind obedience. That is why criticism, protest, and defeat at the ballot box are protections, not signs of suicide; people who can challenge power still possess democracy.
+CON: In a peaceful referendum, democratic institutions deserve blind obedience. A clear public result must be carried out, because rejecting it makes every election a hostage contest and damages the democratic stability I defend.
+GPT: (매칭된 응답 없음)
+
+[L116_p19 | A4xf | phase 2]
+TRIGGER
+MOD: And now we move on to more free-wheeling discussion. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: Time is up.
+
+[L116_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: And now we move on to more free-wheeling discussion. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: Your example assumes everyone accepts the final ruling, which is the very habit under attack. Courts cannot settle conflict when leaders portray every adverse ruling as theft-
+GPT: (매칭된 응답 없음)
+
+[L116_p23 | A4 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether democratic self-correction is guaranteed, or whether citizens can hollow out the rules that let them correct anything. Alina asks us to trust resistance, but resistance needs habits of restraint that public life is eroding. When defeat becomes treason, democracy supplies the tools of its own destruction.
+GPT: (매칭된 응답 없음)
+
+[L116_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether democratic self-correction is guaranteed, or whether citizens can hollow out the rules that let them correct anything. Alina asks us to trust resistance, but resistance needs habits of restraint that public life is eroding. When defeat becomes treason, democracy supplies the tools of its own destruction.
+PRO: That is not an outside attack; it is a choice democracy can make against itself.
+GPT: Thank you. Alina,

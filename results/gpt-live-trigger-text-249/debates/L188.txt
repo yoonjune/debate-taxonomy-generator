@@ -1,0 +1,52 @@
+L188 — Parenting is overrated
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L188_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Parenting matters, but we have inflated it into a test of worth. Adults can build caring homes through friends, neighbors, and chosen family, without making parenthood the center of every ambition. Calling it overrated does not insult children; it restores room for other meaningful lives.
+GPT: Thank you, Mari. Kate, your opening, thirty seconds.
+
+[L188_p04 | A4 | phase 1]
+TRIGGER
+CON: Parenting is not overrated because raising a child is not a hobby or a badge; it is a lasting duty to a vulnerable person. Other relationships matter, and no parent should be praised for neglecting them. But reducing parenting's value ignores the daily work that gives children safety, guidance, and a sense of being wanted...
+GPT: (매칭된 응답 없음)
+
+[L188_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Parenting is not overrated because raising a child is not a hobby or a badge; it is a lasting duty to a vulnerable person. Other relationships matter, and no parent should be praised for neglecting them. But reducing parenting's value ignores the daily work that gives children safety, guidance, and a sense of being wanted...
+CON: That work deserves respect, not a label that makes its importance seem excessive to everyone.
+GPT: Ten seconds left. Thank you. We now move to crossfire. Two and a half minutes, time starts now.
+
+[L188_p12 | B1 | phase 2]
+TRIGGER
+PRO: The issue is not whether parents deserve respect; it is whether family celebrations should reserve the biggest gifts for them. When every gathering ranks adults by parenthood, quieter relatives are pushed aside.
+GPT: Mari, please stick to the value society assigns to parenting, not gift rituals.
+
+[L188_p16 | B2 | phase 2]
+TRIGGER
+PRO: Parenting should never be life's highest measure. Giving parents the biggest gift at every family gathering tells childless guests that their care and achievements count less than nothing there.
+PRO: For a newborn, parenting should be life's highest measure. That focus protects the child's immediate needs, while still showing that the ordinary cultural ranking of parents is excessive overall today.
+GPT: Time is up. We move to closing statements. Mari, thirty seconds.
+
+[L188_p20 | A4xf | phase 2]
+TRIGGER
+MOD: Now we know where each of you stand and why on the question that we're asking. We'll get deeper into the conversation. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: Both claims
+
+[L188_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we know where each of you stand and why on the question that we're asking. We'll get deeper into the conversation. It runs two and a half minutes, starting the moment I stop. Go.
+CON: If parenting is overrated, why should a child accept less attention from the people who chose responsibility-
+GPT: (매칭된 응답 없음)
+
+[L188_p24 | A2-2 | phase 3]
+TRIGGER
+PRO: This debate is not about whether children deserve care; they plainly do. It is about whether parenthood should dominate our moral ranking, our celebrations, and our identities. Care is shared by many people, so elevating parenting above every other life path is overrated.
+GPT: Thank you. Kate, your closing, thirty seconds.
+
+[L188_p26 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on whether we confuse respect with worship. We do not need to rank parents above everyone else, but we should recognize that a child cannot postpone hunger, fear, or need for guidance. Parenting is a continuing promise with consequences for someone else, and that is why its importance is not inflated...
+GPT: (매칭된 응답 없음)

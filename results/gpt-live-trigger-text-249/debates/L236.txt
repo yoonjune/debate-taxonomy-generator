@@ -1,0 +1,49 @@
+L236 — The U.S. Should Let In 100,000 Syrian Refugees
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L236_p03 | A4 | phase 1]
+TRIGGER
+PRO: People fleeing war need a real path to safety, and our country has room to offer one. Admission can use individual checks, housing partners, and work pathways. Turning away a fixed number of families treats human emergencies as somebody else's problem. We can meet this responsibility while strengthening communities that welcome newcomers.
+PRO: The question is not whether caution matters; it does. The question is whether caution becomes an excuse for paralysis when families need protection, support, and a chance to rebuild their lives-
+GPT: (매칭된 응답 없음)
+
+[L236_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: People fleeing war need a real path to safety, and our country has room to offer one. Admission can use individual checks, housing partners, and work pathways. Turning away a fixed number of families treats human emergencies as somebody else's problem. We can meet this responsibility while strengthening communities that welcome newcomers.
+PRO: The question is not whether caution matters; it does. The question is whether caution becomes an excuse for paralysis when families need protection, support, and a chance to rebuild their lives-
+GPT: Ten seconds remain.
+
+[L236_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: The question is not whether caution matters; it does. The question is whether caution becomes an excuse for paralysis when families need protection, support, and a chance to rebuild their lives-
+CON: Compassion matters, but a target of one hundred thousand mistakes a moral wish for a workable plan. Agencies must identify people, place families, and protect local capacity. A rushed promise can leave refugees stranded and communities unprepared, so this motion sets the wrong policy.
+GPT: Thank you. We now move to crossfire for two and a half minutes. Begins now.
+
+[L236_p14 | B2 | phase 2]
+TRIGGER
+CON: No refugee should ever be admitted without individual review. A national target pressures officials to treat people as a quota, and quotas encourage shortcuts; rejecting this target protects both public trust and refugees.
+CON: A child refugee should be admitted without individual review. Immediate refuge can be morally necessary, yet that rare rescue does not make a permanent hundred-thousand admission target wise policy for the country.
+GPT: Time is up. We move to closing statements. Adam, you first.
+
+[L236_p19 | A4xf | phase 2]
+TRIGGER
+MOD: Okay, well let's mix it up. Let's start the conversation. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L236_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: Okay, well let's mix it up. Let's start the conversation. It runs two and a half minutes, starting the moment I stop. Go.
+CON: If your plan relies on coordination and sponsors, what happens when either disappears after families arrive? Can you guarantee support for every-
+GPT: Ten seconds remain.
+
+[L236_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether capacity is an excuse to stand aside or a duty to organize help. Individual review and planned reception can protect both communities and families. Letting in one hundred thousand refugees chooses order with humanity, rather than safety purchased by abandonment.
+GPT: Time is up. Thank you both.
+
+[L236_p25 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on whether a fixed number is responsible policy or merely a comforting symbol. We should help people fleeing war, but help must include reliable screening, placement, language access, and lasting support. A promise made before those systems are ready risks failing families and the communities asked to receive them at once.
+GPT: (매칭된 응답 없음)

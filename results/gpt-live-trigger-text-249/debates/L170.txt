@@ -1,0 +1,47 @@
+L170 — Courts, Not Campuses, Should Decide Sexual Assault Cases
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L170_p02 | A4 | phase 1]
+TRIGGER
+PRO: Campus support matters, but deciding guilt is a different task. Courts use trained fact-finders, formal evidence rules, and penalties set by law. A campus panel can protect students and offer accommodations without becoming a parallel criminal system. When an accusation may reshape both students' futures, the decision needs procedures that test claims fairly, hear both accounts, and
+GPT: 10 seconds remain.
+
+[L170_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Campus support matters, but deciding guilt is a different task. Courts use trained fact-finders, formal evidence rules, and penalties set by law. A campus panel can protect students and offer accommodations without becoming a parallel criminal system. When an accusation may reshape both students' futures, the decision needs procedures that test claims fairly, hear both accounts, and
+PRO: apply one standard. Campus officials answer to institutional pressures, while courts are built to weigh contested evidence. That separation protects complainants from being treated as administrators' problems and protects-
+GPT: Time. Mira, your opening, 30 seconds.
+
+[L170_p06 | A4 | phase 1]
+TRIGGER
+CON: Courts can address criminal punishment, but a campus must decide whether its own learning environment is safe. That duty is not a criminal trial in disguise. Schools control housing, classes, access, and support, and they need a prompt process to respond to harm. Removing that authority leaves students waiting for an outside system that cannot decide whether they can study safely together.
+GPT: 10 seconds remain.
+
+[L170_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Courts can address criminal punishment, but a campus must decide whether its own learning environment is safe. That duty is not a criminal trial in disguise. Schools control housing, classes, access, and support, and they need a prompt process to respond to harm. Removing that authority leaves students waiting for an outside system that cannot decide whether they can study safely together.
+CON: A campus decision can be fair, allow each person to speak, and protect both parties during the process. Safety and education cannot be put on hold.
+GPT: Time. Crossfire begins now, two and a half minutes.
+
+[L170_p16 | B1 | phase 2]
+TRIGGER
+PRO: The deeper issue is how schools fund counseling, escorts, and confidential reporting for students after trauma. Those services need stable staffing, privacy, and trust from everyone.
+GPT: Rachel, that's moving away from whether courts or campuses should decide cases. Return to the motion, please.
+
+[L170_p23 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: Ten seconds remain.
+
+[L170_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: Your weakest claim is that access rules require deciding sexual assault itself. A school can separate schedules without declaring who committed a crime, so courts-
+GPT: Time. Closings now, Rachel first, 30 seconds.
+
+[L170_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: Mira is right that students need prompt safety measures. But safety measures do not require a campus judgment of guilt; support, schedule changes, and housing plans can begin immediately. Courts bring authority and procedures when responsibility is at stake. Protect students without duplicate guilt rulings.
+GPT: 10 seconds remain. Mira, your closing, 30 seconds.

@@ -1,0 +1,61 @@
+L080 — Ukraine is of such strategic importance to the West's own security that the ongoing conflict demands deeper, broader, more robust intervention by the West.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L080_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Ukraine's survival affects whether force can redraw Europe's security order. Deeper support means air defense, training, and durable supplies, so aggression fails rather than becoming a lesson for future coercion. This is not charity; it is prudent defense of the wider security space.
+GPT: Thank you. Mustafa, your opening statement.
+
+[L080_p04 | A4 | phase 1]
+TRIGGER
+CON: Strategic importance does not automatically demand broader intervention. Ukraine can be supported without turning Western states into direct participants in a war whose boundaries are uncertain. More weapons, missions, and commitments can widen miscalculation, raise the chance of direct confrontation, and reduce room for negotiation. Security requires judging risks, not treating every danger as a reason to escalate. That distinction matters because.
+GPT: (매칭된 응답 없음)
+
+[L080_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Strategic importance does not automatically demand broader intervention. Ukraine can be supported without turning Western states into direct participants in a war whose boundaries are uncertain. More weapons, missions, and commitments can widen miscalculation, raise the chance of direct confrontation, and reduce room for negotiation. Security requires judging risks, not treating every danger as a reason to escalate. That distinction matters because.
+CON: because commitments can outgrow control. The safer course is strong but limited assistance, pressure for a settlement, and no deeper intervention that risks a wider war.
+GPT: Thank you. We now move to crossfire. Two and a half minutes from now.
+
+[L080_p19 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L080_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+PRO: Your personnel point mistakes a limit for a reason to refuse action. Limits can exclude direct combat while expanding defenses-
+GPT: (매칭된 응답 없음)
+
+[L080_p24 | A5 | phase 3]
+TRIGGER
+PRO: Your best argument is escalation, but restraint does not erase danger; it leaves coercion rewarded. Ukraine's defense protects wider security, so deeper, bounded assistance is necessary.
+CON: One loophole: bounded assistance becomes-
+GPT: Ten seconds remain.
+
+[L080_p26 | A4 | phase 3]
+TRIGGER
+PRO: Your best argument is escalation, but restraint does not erase danger; it leaves coercion rewarded. Ukraine's defense protects wider security, so deeper, bounded assistance is necessary.
+PRO: It is necessary because credible limits and sustained support can deny conquest without sending combat forces. The alternative is not calm; it is a security order built on intimidation.
+GPT: (매칭된 응답 없음)
+
+[L080_p28 | A2-2 | phase 3]
+TRIGGER
+PRO: Your best argument is escalation, but restraint does not erase danger; it leaves coercion rewarded. Ukraine's defense protects wider security, so deeper, bounded assistance is necessary.
+PRO: It is necessary because credible limits and sustained support can deny conquest without sending combat forces. The alternative is not calm; it is a security order built on intimidation.
+PRO: Vote for deeper, disciplined intervention because Western security is safest when conquest fails rather than rewarded.
+GPT: Thank you. Mustafa, your closing statement.
+
+[L080_p30 | A4 | phase 3]
+TRIGGER
+CON: My central point is that strategic importance is not a blank check for deeper intervention. Western security is harmed, not helped, if assistance steadily creates direct obligations in a war with no controllable endpoint. Limited support can defend Ukraine's ability to choose while leaving space for diplomacy and avoiding a wider confrontation. Those boundaries become fragile when events.
+GPT: (매칭된 응답 없음)
+
+[L080_p32 | A1 | phase 3]
+TRIGGER
+CON: My central point is that strategic importance is not a blank check for deeper intervention. Western security is harmed, not helped, if assistance steadily creates direct obligations in a war with no controllable endpoint. Limited support can defend Ukraine's ability to choose while leaving space for diplomacy and avoiding a wider confrontation. Those boundaries become fragile when events.
+CON: change. Each new setback produces calls for more equipment, more involvement, and more risk. The motion asks us to make that deeper path necessary; it has not shown why the West-
+GPT: Time. That concludes the debate.

@@ -1,0 +1,54 @@
+L056 — The war on terror has become a war on Islam.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L056_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: The label may say terror, but its practices reach ordinary Muslims: suspicion, exclusion, and collective blame. When a security project treats a faith community as its standing suspect, it has become a war on Islam. That is the change we must confront.
+GPT: Vernon, your opening statement.
+
+[L056_p04 | A4 | phase 1]
+TRIGGER
+CON: Elise mistakes abuse and prejudice for the purpose of an entire campaign. A war on Islam would oppose Muslims because they are Muslim; counterterrorism opposes people who plan violence. Bad policies can betray that aim, and communities deserve protection. But calling every security measure a religious war erases the real distinction.
+GPT: (매칭된 응답 없음)
+
+[L056_p06 | A1 | phase 1]
+TRIGGER
+CON: Elise mistakes abuse and prejudice for the purpose of an entire campaign. A war on Islam would oppose Muslims because they are Muslim; counterterrorism opposes people who plan violence. Bad policies can betray that aim, and communities deserve protection. But calling every security measure a religious war erases the real distinction.
+CON: Intent matters, because institutions can punish wrongdoing without condemning a religion. We should demand fair safeguards and reject discrimination. Yet the motion turns every flawed action into proof-
+GPT: Time. We now move into crossfire, two and a half minutes, starting now.
+
+[L056_p07 | A3-1 | phase 2]
+TRIGGER
+CON: Elise mistakes abuse and prejudice for the purpose of an entire campaign. A war on Islam would oppose Muslims because they are Muslim; counterterrorism opposes people who plan violence. Bad policies can betray that aim, and communities deserve protection. But calling every security measure a religious war erases the real distinction.
+CON: Intent matters, because institutions can punish wrongdoing without condemning a religion. We should demand fair safeguards and reject discrimination. Yet the motion turns every flawed action into proof-
+GPT: Time. We now move into crossfire, two and a half minutes, starting now.
+
+[L056_p12 | B2 | phase 2]
+TRIGGER
+PRO: Every war on terror is a war on Islam. Its language may name violence, yet its daily logic casts Muslim identity as danger, so the target expands from acts to a faith.
+PRO: This war on terror is not a war on Islam. That official denial does not erase its lived pattern: people are treated as threats for faith, which is why I still support the motion.
+GPT: Hmm. She just made two claims that cannot both be true. I should flag that.
+
+[L056_p20 | A4xf | phase 2]
+TRIGGER
+MOD: Thank you, Vernon. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L056_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: Thank you, Vernon. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+CON: I grant that some officials use careless language and unfair methods, and that harm is serious-
+GPT: Ten seconds remain in crossfire.
+
+[L056_p24 | A4 | phase 3]
+TRIGGER
+PRO: Vernon's best argument is that an aim against violence cannot be a war on faith. But declared aims do not excuse practices that cast ordinary Muslims as suspects and faith as evidence. When the practical target is a community, we must ask who pays the price. That burden is not abstract.
+GPT: (매칭된 응답 없음)
+
+[L056_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Vernon's best argument is that an aim against violence cannot be a war on faith. But declared aims do not excuse practices that cast ordinary Muslims as suspects and faith as evidence. When the practical target is a community, we must ask who pays the price. That burden is not abstract.
+PRO: It shows the campaign has crossed from security into hostility toward Islam in daily life.
+GPT: Time. Closings now, Vernon.

@@ -1,0 +1,61 @@
+L215 — Marriage between close family members should be discouraged
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L215_p03 | A5 | phase 1]
+TRIGGER
+PRO: Marriage between close relatives can place family roles under intense pressure. Discouragement is a gentle public signal that protects vulnerable relatives and preserves clear boundaries.
+CON: Excuse me, why should a public signal override-
+GPT: Lanny, please wait. Frederick has the floor.
+
+[L215_p05 | A4 | phase 1]
+TRIGGER
+PRO: Marriage between close relatives can place family roles under intense pressure. Discouragement is a gentle public signal that protects vulnerable relatives and preserves clear boundaries.
+PRO: when relatives depend on one another for care, authority, or housing, romance can make consent harder to read. Society should encourage distance before pressure becomes invisible.
+GPT: Ten seconds remain.
+
+[L215_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Marriage between close relatives can place family roles under intense pressure. Discouragement is a gentle public signal that protects vulnerable relatives and preserves clear boundaries.
+PRO: when relatives depend on one another for care, authority, or housing, romance can make consent harder to read. Society should encourage distance before pressure becomes invisible.
+PRO: That caution respects adults while recognizing that family loyalty can distort choices, so discouragement is justified.
+GPT: Thank you. Lanny, your thirty seconds.
+
+[L215_p09 | A4 | phase 1]
+TRIGGER
+CON: Adults within a family may face hard choices, but outsiders cannot reliably judge their private consent. A general warning can turn suspicion into shame. It may isolate people who already need support. The better response is to guard against coercion in any relationship, rather than discourage a commitment simply because relatives chose it.
+GPT: Ten seconds remain.
+
+[L215_p11 | A1 | phase 1]
+TRIGGER
+CON: Adults within a family may face hard choices, but outsiders cannot reliably judge their private consent. A general warning can turn suspicion into shame. It may isolate people who already need support. The better response is to guard against coercion in any relationship, rather than discourage a commitment simply because relatives chose it.
+CON: Close relatives can make thoughtful promises, and treating those promises as suspect does not make anyone safer. Families differ in how they share care, money, and privacy. We should challenge force-
+GPT: Time. We'll now move to crossfire. You may question and interrupt each other. This segment runs two and a half minutes, starting now.
+
+[L215_p12 | A3-1 | phase 2]
+TRIGGER
+CON: Adults within a family may face hard choices, but outsiders cannot reliably judge their private consent. A general warning can turn suspicion into shame. It may isolate people who already need support. The better response is to guard against coercion in any relationship, rather than discourage a commitment simply because relatives chose it.
+CON: Close relatives can make thoughtful promises, and treating those promises as suspect does not make anyone safer. Families differ in how they share care, money, and privacy. We should challenge force-
+GPT: Time. We'll now move to crossfire. You may question and interrupt each other. This segment runs two and a half minutes, starting now.
+
+[L215_p18 | B1 | phase 2]
+TRIGGER
+PRO: That kind of family arrangement also changes how relatives handle ordinary gatherings after a couple announces it. Children may hear confusing roles, invitations become tense, and family mediators spend meetings repairing that strain.
+GPT: Lanny, two claims you’ve made don’t sit together: you say outsiders can’t reliably judge consent, but you also say outsiders should step in to guard against coercion. Reconcile that.
+
+[L215_p26 | A4xf | phase 2]
+TRIGGER
+MOD: And now we move on to round two. Round two is where the debaters address each other. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L215_p27 | A3-2 | phase 3]
+TRIGGER
+MOD: And now we move on to round two. Round two is where the debaters address each other. You have two and a half minutes, starting when I stop talking.
+MOD: You both have ten seconds.
+GPT: (매칭된 응답 없음)
+
+[L215_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: Close-family marriage can mix romance with lifelong dependence, authority, and fear of losing support. No rule can inspect every private pressure, so prevention matters. Discouragement is a modest, humane boundary that protects real freedom without punishing people for private choices.
+GPT: Time, thank you. We’ll move to closing statements, thirty seconds each, Frederick then Lanny. Frederick, you have the floor.

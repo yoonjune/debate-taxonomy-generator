@@ -1,0 +1,61 @@
+L178 — The More We Evolve, The Less We Need God
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L178_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Evolution has steadily moved mysteries from divine command into human understanding. We can heal, predict, and build through inquiry rather than prayer. That does not insult belief; it recognizes that dependence falls when explanation and action rise.
+GPT: Thank you. Angus, your opening statement.
+
+[L178_p04 | A4 | phase 1]
+TRIGGER
+CON: He confuses explaining a process with replacing every human need. A map can show a road, yet not tell us why kindness matters or why suffering should be faced with courage. Evolution gives us greater powers, but power without a source of meaning can become selfish, fearful, and cruel. That is why
+GPT: (매칭된 응답 없음)
+
+[L178_p06 | A1 | phase 1]
+TRIGGER
+CON: He confuses explaining a process with replacing every human need. A map can show a road, yet not tell us why kindness matters or why suffering should be faced with courage. Evolution gives us greater powers, but power without a source of meaning can become selfish, fearful, and cruel. That is why
+CON: we still need God, not as a gap-filler, but as the ground for dignity and moral limits. If evolution makes us stronger, it makes the question of-
+GPT: (매칭된 응답 없음)
+
+[L178_p07 | A3-1 | phase 2]
+TRIGGER
+CON: He confuses explaining a process with replacing every human need. A map can show a road, yet not tell us why kindness matters or why suffering should be faced with courage. Evolution gives us greater powers, but power without a source of meaning can become selfish, fearful, and cruel. That is why
+CON: we still need God, not as a gap-filler, but as the ground for dignity and moral limits. If evolution makes us stronger, it makes the question of-
+GPT: (매칭된 응답 없음)
+
+[L178_p11 | B1 | phase 2]
+TRIGGER
+PRO: Your inventor also raises questions about who should own new inventions and whether schools should reward collaboration. Those debates shape secular classroom projects and how young people learn responsibility without religious instruction.
+GPT: Time is up. We move now to crossfire, two and a half minutes beginning now.
+
+[L178_p21 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two in our debate. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L178_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two in our debate. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+CON: I grant that people can reason together and correct cruel customs. Yet reason alone cannot make dignity-
+GPT: (매칭된 응답 없음)
+
+[L178_p26 | A5 | phase 3]
+TRIGGER
+PRO: The core point is simple: evolution replaces dependence with understanding and agency. When people can prevent illness, explain nature, and build ethics together, their need.
+CON: But agency without God is only power-
+GPT: Time. We move to closing statements. Oliver, you first.
+
+[L178_p28 | A4 | phase 3]
+TRIGGER
+PRO: The core point is simple: evolution replaces dependence with understanding and agency. When people can prevent illness, explain nature, and build ethics together, their need.
+PRO: for divine authority shrinks, even if some people still choose faith. Choice is the key: keeping a comfort is not the same as needing it.
+GPT: (매칭된 응답 없음)
+
+[L178_p30 | A2-2 | phase 3]
+TRIGGER
+PRO: The core point is simple: evolution replaces dependence with understanding and agency. When people can prevent illness, explain nature, and build ethics together, their need.
+PRO: for divine authority shrinks, even if some people still choose faith. Choice is the key: keeping a comfort is not the same as needing it.
+PRO: As evolution expands human answers and responsibility, God becomes less necessary, which is precisely the motion.
+GPT: Thank you. Angus, your closing statement.

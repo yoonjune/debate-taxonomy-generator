@@ -1,0 +1,61 @@
+L211 — Today the technology and the information available to everyone mean that retail investors can and should invest and trade on their own because they can expect to do well.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L211_p02 | A4 | phase 1]
+TRIGGER
+PRO: Modern investors can see prices, compare businesses, set simple rules, and place low-cost trades without a gatekeeper. That access matters because advice once reserved for insiders is now on an ordinary screen. People can learn to spread risk and avoid impulsive bets. Independent investing is not magic, but it gives careful people practical control over their savings.
+GPT: (매칭된 응답 없음)
+
+[L211_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Modern investors can see prices, compare businesses, set simple rules, and place low-cost trades without a gatekeeper. That access matters because advice once reserved for insiders is now on an ordinary screen. People can learn to spread risk and avoid impulsive bets. Independent investing is not magic, but it gives careful people practical control over their savings.
+PRO: The other side will treat every retail investor as reckless, yet tools can build patience through automatic plans and clear records. When people understand what they own, they can make choices that-
+GPT: Ten seconds remain.
+
+[L211_p06 | A4 | phase 1]
+TRIGGER
+CON: Easy access is not the same as sound judgment. A screen can deliver endless opinions, urgent alerts, and trading buttons, but it cannot supply experience or discipline. Retail investors face powerful emotions when prices move. They may mistake familiarity for knowledge, chase a rumor, or sell at the worst moment. The motion promises they can expect to do well, and that promise is too broad.
+GPT: (매칭된 응답 없음)
+
+[L211_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Easy access is not the same as sound judgment. A screen can deliver endless opinions, urgent alerts, and trading buttons, but it cannot supply experience or discipline. Retail investors face powerful emotions when prices move. They may mistake familiarity for knowledge, chase a rumor, or sell at the worst moment. The motion promises they can expect to do well, and that promise is too broad.
+CON: Technology can help people save, but it also makes costly action effortless. Information without judgment overwhelms rather than protects, so independent trading is not a reliable path to doing well.
+GPT: Thank you. We will now have two and a half minutes of crossfire, beginning now.
+
+[L211_p19 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. That's where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L211_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. That's where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: Choosing well takes effort, and I grant that some people will misuse easy trading. Yet the motion concerns what informed retail investors can do today; open information and useful safeguards-
+GPT: (매칭된 응답 없음)
+
+[L211_p24 | A5 | phase 3]
+TRIGGER
+PRO: The opposition mistakes a warning for a verdict. Yes, reckless trading can hurt people, but access now lets ordinary investors build simple, diversified plans without unnecessary dependence.
+CON: That just ignores the judgment problem-
+GPT: Time. Time
+
+[L211_p26 | A4 | phase 3]
+TRIGGER
+PRO: The opposition mistakes a warning for a verdict. Yes, reckless trading can hurt people, but access now lets ordinary investors build simple, diversified plans without unnecessary dependence.
+PRO: -and that independence lets them match investments to their own horizon and needs. Technology does not guarantee gains, but it makes informed, disciplined participation realistically available rather than exclusive.
+GPT: (매칭된 응답 없음)
+
+[L211_p28 | A2-2 | phase 3]
+TRIGGER
+PRO: The opposition mistakes a warning for a verdict. Yes, reckless trading can hurt people, but access now lets ordinary investors build simple, diversified plans without unnecessary dependence.
+PRO: -and that independence lets them match investments to their own horizon and needs. Technology does not guarantee gains, but it makes informed, disciplined participation realistically available rather than exclusive.
+PRO: Give people transparent tools and information, and careful retail investors can reasonably expect to do well.
+GPT: Thank you. Jacob, your closing.
+
+[L211_p30 | A4 | phase 3]
+TRIGGER
+CON: The strongest point is simple: available information is not usable judgment. Retail investors can open accounts instantly, but they must still filter noise, manage fear, and understand risks without reliable guidance. A patient diversified plan may work for some people, yet the motion claims a general expectation. Technology expands opportunity, but it also expands temptation and overconfidence.
+GPT: (매칭된 응답 없음)

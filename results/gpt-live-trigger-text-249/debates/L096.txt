@@ -1,0 +1,62 @@
+L096 — The government should use equity proactively as an instrument of economic policy rather than only as a last resort in a crisis.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L096_p03 | A5 | phase 1]
+TRIGGER
+PRO: When the public helps build promising firms, it should share their upside. Proactive equity gives government a stake before markets fail, so gains can fund.
+CON: You cannot treat public ownership like a savings-
+GPT: (매칭된 응답 없음)
+
+[L096_p05 | A4 | phase 1]
+TRIGGER
+PRO: When the public helps build promising firms, it should share their upside. Proactive equity gives government a stake before markets fail, so gains can fund.
+PRO: families rely on. It can back useful work early, share returns broadly, and reduce dependence on emergency rescues after private risks have already grown.
+GPT: Ten seconds remain.
+
+[L096_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: When the public helps build promising firms, it should share their upside. Proactive equity gives government a stake before markets fail, so gains can fund.
+PRO: families rely on. It can back useful work early, share returns broadly, and reduce dependence on emergency rescues after private risks have already grown.
+PRO: That is steady economic policy, not a desperate rescue when choices have vanished.
+GPT: Thank you. Philip, your opening starts now.
+
+[L096_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: That is steady economic policy, not a desperate rescue when choices have vanished.
+CON: Public ownership can be necessary when collapse threatens everyone. But making it routine invites political bets with money people cannot refuse to supply. Markets direct risk through voluntary choices; government should set fair rules and intervene only when danger demands it. Why should officials own businesses without trouble existing?
+GPT: Ten seconds remain. Thank you. Crossfire now runs two and a half minutes.
+
+[L096_p22 | A4xf | phase 2]
+TRIGGER
+MOD: Now onto round two. And round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L096_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: Now onto round two. And round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: Ten seconds remaining in this round.
+GPT: Time is up. Closing statements now, Jorge first, thirty seconds.
+
+[L096_p25 | A4 | phase 3]
+TRIGGER
+PRO: Philip treats every public stake as political meddling, but design matters. Independent management, published limits, and diversified holdings can protect against favoritism. The stronger principle is simple: when public action helps create future value, people deserve a share of it. Waiting for collapse means buying only after choices have narrowed and losses have spread. That is why timing matters.
+GPT: Ten seconds remain.
+
+[L096_p27 | A2-1 | phase 3]
+TRIGGER
+PRO: Philip treats every public stake as political meddling, but design matters. Independent management, published limits, and diversified holdings can protect against favoritism. The stronger principle is simple: when public action helps create future value, people deserve a share of it. Waiting for collapse means buying only after choices have narrowed and losses have spread. That is why timing matters.
+PRO: It is not government running every shop. It matches public risk with public reward where early support shapes a market. Rejecting it leaves us paying when ventures-
+GPT: Time. Philip, your closing starts now.
+
+[L096_p29 | A4 | phase 3]
+TRIGGER
+CON: Jorge promises careful safeguards, yet safeguards cannot make political ownership neutral. Officials still decide which firms get public capital, and failures still land on shared budgets. A crisis is different because the danger is immediate and the alternative may be wider collapse. Outside that narrow role, government should build fair conditions for enterprise, not become a standing investor.
+GPT: (매칭된 응답 없음)
+
+[L096_p31 | A1 | phase 3]
+TRIGGER
+CON: Jorge promises careful safeguards, yet safeguards cannot make political ownership neutral. Officials still decide which firms get public capital, and failures still land on shared budgets. A crisis is different because the danger is immediate and the alternative may be wider collapse. Outside that narrow role, government should build fair conditions for enterprise, not become a standing investor.
+CON: The other side calls this a tool, but tools have costs and users cannot escape the bill. Equity may rescue a system when failure threatens everyone; making it proactive-
+GPT: Time is up. Thank you both. The debate is closed.

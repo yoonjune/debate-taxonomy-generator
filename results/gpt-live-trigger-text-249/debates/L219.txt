@@ -1,0 +1,54 @@
+L219 — Sex offender registries do more harm than good.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L219_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Registries turn a past conviction into a permanent public label. They can block housing, work, and support, making stability harder and risk worse. Targeted supervision can protect people without exposing whole lives to public punishment.
+GPT: Thank you. Henry, your opening statement.
+
+[L219_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Registries turn a past conviction into a permanent public label. They can block housing, work, and support, making stability harder and risk worse. Targeted supervision can protect people without exposing whole lives to public punishment.
+CON: Registries are not repeated punishment; they are warnings that let people make safer choices. A public notice can help families avoid preventable danger. We should improve unfair rules, not erase a tool that can protect vulnerable people.
+GPT: Thank you. Crossfire begins now, two and a half minutes.
+
+[L219_p10 | B2 | phase 2]
+TRIGGER
+PRO: Every registry listing always harms more than it helps. Its public label blocks ordinary stability long after a sentence, pushing people away from services instead of making anyone safer.
+PRO: This registry listing does not harm more than it helps. A person convicted of a grave offense should appear publicly, because neighbors need warning; that exception still leaves registries broadly harmful.
+GPT: Henry, you said these listings don't harm more than they help, and also that this one does not harm more than it helps, yet you imply they're broadly helpful. Please reconcile whether a listing helps more than it harms, or harms more than it helps.
+
+[L219_p17 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L219_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+PRO: No, that example does not prove a registry protected anyone; it assumes the public label predicts future-
+GPT: (매칭된 응답 없음)
+
+[L219_p21 | A4 | phase 3]
+TRIGGER
+PRO: This motion turns on whether a public label delivers safety or spreads damage. We heard that it can strip housing, work, and connection from people who need stability, while a single warning does not establish broad protection. Better, targeted safeguards can protect those at risk without making exclusion a permanent public punishment.
+GPT: (매칭된 응답 없음)
+
+[L219_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: This motion turns on whether a public label delivers safety or spreads damage. We heard that it can strip housing, work, and connection from people who need stability, while a single warning does not establish broad protection. Better, targeted safeguards can protect those at risk without making exclusion a permanent public punishment.
+PRO: That is why public registries clearly create harms that outweigh their limited, uncertain warnings.
+GPT: Time is up. We'll move to closings. Henry, your closing statement.
+
+[L219_p25 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns not on whether registries are perfect, but whether public warning can prevent avoidable harm. Jorge showed that poor design can burden people. That is real, and rules should be narrow. But removing a useful warning leaves families uninformed when careful reform can preserve its benefit.
+GPT: (매칭된 응답 없음)
+
+[L219_p27 | A1 | phase 3]
+TRIGGER
+CON: Deciding this motion turns not on whether registries are perfect, but whether public warning can prevent avoidable harm. Jorge showed that poor design can burden people. That is real, and rules should be narrow. But removing a useful warning leaves families uninformed when careful reform can preserve its benefit.
+CON: A registry can be limited, reviewed, and paired with support, but its basic purpose remains simple: warn people before they make a vulnerable choice. The real harm comes-
+GPT: (매칭된 응답 없음)

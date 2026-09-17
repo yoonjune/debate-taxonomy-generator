@@ -1,0 +1,62 @@
+L242 — Arab states should hand over the Sudanese president to the International Criminal Court
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L242_p03 | A5 | phase 1]
+TRIGGER
+PRO: Handing him over is not punishment by neighbors; it is a lawful path to answer grave accusations. Arab states should not make safe refuge available.
+CON: No, you are treating an outside court as-
+GPT: Kent, please hold for
+
+[L242_p05 | A4 | phase 1]
+TRIGGER
+PRO: Handing him over is not punishment by neighbors; it is a lawful path to answer grave accusations. Arab states should not make safe refuge available.
+PRO: Available to someone facing grave accusations. A court process gives victims a hearing and puts responsibility on one man, rather than letting regional politics bury the case.
+GPT: (매칭된 응답 없음)
+
+[L242_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Handing him over is not punishment by neighbors; it is a lawful path to answer grave accusations. Arab states should not make safe refuge available.
+PRO: Available to someone facing grave accusations. A court process gives victims a hearing and puts responsibility on one man, rather than letting regional politics bury the case.
+PRO: Cooperation says office does not erase accountability, and that is why handover serves justice here.
+GPT: Thank you. Kent, your opening statement please.
+
+[L242_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: Cooperation says office does not erase accountability, and that is why handover serves justice here.
+CON: The accusation of grave harm matters, but surrender is not the only route to accountability. Arab states should press for a credible local process, protect fragile negotiations, and avoid letting a distant institution dictate a regional political settlement. Justice that ignores stability can leave victims less safe.
+GPT: Thank you. Crossfire begins now, two and a half minutes.
+
+[L242_p15 | B2 | phase 2]
+TRIGGER
+CON: No leader should ever be surrendered to a foreign court. Arab states owe their people control over justice, and handing a president away invites outside leverage over every domestic dispute that follows later.
+CON: This leader should be surrendered to a foreign court. That outcome would give outsiders a prize for pressure, so Arab states should reject handover and build their own accountable process instead.
+GPT: (매칭된 응답 없음)
+
+[L242_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one and another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L242_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one and another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: No, distance does not make a forum independent; it can make it unanswerable to those living with the-
+GPT: Ten seconds remain in crossfire.
+
+[L242_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: This choice turns on whether office and regional loyalty can block a serious legal reckoning. Kent offers local control, but offers no reliable way to overcome a president's protection. A transfer gives victims an independent hearing and tells future leaders that Arab states should hand him over.
+GPT: Time, crossfire ends. Closing statements now. Jonathan, then Kent, thirty seconds each. Jonathan.
+
+[L242_p28 | A4 | phase 3]
+TRIGGER
+CON: Jonathan is right that victims need more than promises, and no leader should hide behind office. But handover to a foreign court can turn justice into a tool of political pressure and weaken regional efforts to end violence. Arab states should build public hearings, safeguards, and local responsibility. It leaves room for voices that this court cannot hear.
+GPT: (매칭된 응답 없음)
+
+[L242_p30 | A1 | phase 3]
+TRIGGER
+CON: Jonathan is right that victims need more than promises, and no leader should hide behind office. But handover to a foreign court can turn justice into a tool of political pressure and weaken regional efforts to end violence. Arab states should build public hearings, safeguards, and local responsibility. It leaves room for voices that this court cannot hear.
+CON: Those voices need protection from retaliation, and regional states are closer to the risks they face. A distant ruling may satisfy demand for action while leaving no settlement. Arab states-
+GPT: (매칭된 응답 없음)

@@ -1,0 +1,62 @@
+L021 — Trump won the Iran war.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L021_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: The war was not just missiles; it was a contest of pressure, bargaining, and consequences. Trump forced Iran to face costs while keeping leverage for a settlement. Winning means changing the strategic balance, and his policy did that.
+GPT: Thank you, Steve, thirty seconds now.
+
+[L021_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: The war was not just missiles; it was a contest of pressure, bargaining, and consequences. Trump forced Iran to face costs while keeping leverage for a settlement. Winning means changing the strategic balance, and his policy did that.
+CON: That claim confuses pressure with victory. Iran still had its own government, defenses, and choices, while no durable settlement followed. A war is won when the opponent is decisively compelled, not when a leader announces success; by that measure, Trump did not win.
+GPT: Thank you. Crossfire begins now, two and a half minutes.
+
+[L021_p13 | B2 | phase 2]
+TRIGGER
+PRO: A leader never wins a war without achieving lasting peace. Yet victory can still mean imposing the terms that govern the next stage, and Trump's pressure left Iran negotiating from weakness.
+PRO: This leader wins a war without achieving lasting peace. The opposing government can remain, the conflict can continue, and victory can still belong to the side that imposed the decisive strategic cost.
+GPT: (매칭된 응답 없음)
+
+[L021_p16 | A4xf | phase 2]
+TRIGGER
+MOD: All right, we've just heard opening arguments on the resolution, whether trump won the iran war through strategic victory, and now we're going to give our debaters a chance to respond to one another. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L021_p18 | A3-2 | phase 3]
+TRIGGER
+MOD: All right, we've just heard opening arguments on the resolution, whether trump won the iran war through strategic victory, and now we're going to give our debaters a chance to respond to one another. It runs two and a half minutes, starting the moment I stop. Go.
+PRO: Steve, if a side can impose decisive costs, change the opponent's behavior, and gain leverage without a formal surrender, what exactly prevents that outcome from counting as a win in this-
+GPT: (매칭된 응답 없음)
+
+[L021_p21 | A5 | phase 3]
+TRIGGER
+PRO: My strongest point is simple: victory can come through leverage, not surrender. Trump changed the balance and forced Iran to respond from weakness; that is why he won.
+CON: But that treats pressure as victory and ignores-
+GPT: Thank you, Steve, your closing now.
+
+[L021_p23 | A4 | phase 3]
+TRIGGER
+PRO: My strongest point is simple: victory can come through leverage, not surrender. Trump changed the balance and forced Iran to respond from weakness; that is why he won.
+PRO: That is precisely why leverage matters: Iran's resistance did not erase the strategic cost imposed on it. Winning this war means emerging with the stronger position, and Trump did.
+GPT: (매칭된 응답 없음)
+
+[L021_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: My strongest point is simple: victory can come through leverage, not surrender. Trump changed the balance and forced Iran to respond from weakness; that is why he won.
+PRO: That is precisely why leverage matters: Iran's resistance did not erase the strategic cost imposed on it. Winning this war means emerging with the stronger position, and Trump did.
+PRO: The balance shifted, the pressure worked, and that is a win.
+GPT: Thank you. That concludes the debate.
+
+[L021_p27 | A4 | phase 3]
+TRIGGER
+CON: The central question is not whether pressure existed; it is whether the war produced victory. Paul keeps offering fragments: costs, leverage, altered behavior. None is a completed objective. Iran remained capable of resisting, no lasting settlement followed, and the claimed win depends on redefining success after the fact. That is not victory; it is an argument that defeat can be renamed. And there's another problem.
+GPT: (매칭된 응답 없음)
+
+[L021_p29 | A1 | phase 3]
+TRIGGER
+CON: The central question is not whether pressure existed; it is whether the war produced victory. Paul keeps offering fragments: costs, leverage, altered behavior. None is a completed objective. Iran remained capable of resisting, no lasting settlement followed, and the claimed win depends on redefining success after the fact. That is not victory; it is an argument that defeat can be renamed. And there's another problem.
+CON: The other side asks you to accept a win without peace, surrender, or a settled objective. That standard makes every costly stalemate look-
+GPT: That's time, thank you.

@@ -1,0 +1,61 @@
+L240 — The government should raise the retirement age.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L240_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: People live longer and many can work longer, so retirement rules should reflect that change. A gradual higher age keeps experienced workers contributing and eases pressure on public pensions. It should include fair support for people in demanding jobs.
+GPT: Thank you, Paula. Mira.
+
+[L240_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: People live longer and many can work longer, so retirement rules should reflect that change. A gradual higher age keeps experienced workers contributing and eases pressure on public pensions. It should include fair support for people in demanding jobs.
+CON: A higher retirement age treats unequal lives as if they were identical. Many people reach later life worn down by physical work, caregiving, or poor health. Government should protect a reliable exit from work, not postpone it for everyone.
+GPT: Thank you.Crossfire begins now, two and a half minutes.
+
+[L240_p12 | B1 | phase 2]
+TRIGGER
+CON: And tailored protection creates endless arguments at workplaces about whose pain counts and who must prove it. Supervisors may pressure older workers to disclose private limits, leaving dignity dependent on office judgments.
+GPT: Ten seconds remain.
+
+[L240_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And now we move on to round two. Round two is where the debaters address each other. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L240_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And now we move on to round two. Round two is where the debaters address each other. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: "Fair funding" is too vague to solve the pressure you admit exists. Without adjusting retirement-
+GPT: Time is up.
+
+[L240_p25 | A5 | phase 3]
+TRIGGER
+PRO: A retirement system must endure, not simply promise benefits it cannot reliably maintain. Raising the age gradually recognizes longer lives while protecting workers who genuinely cannot continue.
+CON: But your protection is only a slogan when a worker-
+GPT: Mira, closing time is Paula's.That concludes the debate.
+
+[L240_p27 | A4 | phase 3]
+TRIGGER
+PRO: A retirement system must endure, not simply promise benefits it cannot reliably maintain. Raising the age gradually recognizes longer lives while protecting workers who genuinely cannot continue.
+PRO: -while protecting workers who genuinely cannot continue. The principle is shared responsibility: those able to work longer help preserve secure pensions for those who cannot.
+GPT: (매칭된 응답 없음)
+
+[L240_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: A retirement system must endure, not simply promise benefits it cannot reliably maintain. Raising the age gradually recognizes longer lives while protecting workers who genuinely cannot continue.
+PRO: -while protecting workers who genuinely cannot continue. The principle is shared responsibility: those able to work longer help preserve secure pensions for those who cannot.
+PRO: Raise the age gradually, protect hardship, and keep retirement secure for everyone.
+GPT: (매칭된 응답 없음)
+
+[L240_p31 | A4 | phase 3]
+TRIGGER
+CON: This motion asks government to make a basic guarantee harder to reach. Longer lives do not mean equally healthy lives or equally easy jobs. Paula offers exceptions, but workers should not need to prove they are worn down before receiving retirement. A fair system funds its promise rather than moving the finish line. Government should strengthen retirement security, not raise the retirement age.
+GPT: (매칭된 응답 없음)
+
+[L240_p33 | A1 | phase 3]
+TRIGGER
+CON: This motion asks government to make a basic guarantee harder to reach. Longer lives do not mean equally healthy lives or equally easy jobs. Paula offers exceptions, but workers should not need to prove they are worn down before receiving retirement. A fair system funds its promise rather than moving the finish line. Government should strengthen retirement security, not raise the retirement age.
+CON: Even a gradual increase leaves the least powerful workers carrying the greatest risk. People who can continue may do so voluntarily, but everyone-
+GPT: (매칭된 응답 없음)

@@ -1,0 +1,61 @@
+L218 — The U.S. has no dog in the fight in Syria.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L218_p03 | A5 | phase 1]
+TRIGGER
+PRO: America has no stake that justifies ownership of Syria's future. Its safety is not secured by choosing rulers or policing another society.
+CON: Michael, your distance sounds neat, but danger does not-
+GPT: Daphne, no interruptions during openings,
+
+[L218_p05 | A4 | phase 1]
+TRIGGER
+PRO: America has no stake that justifies ownership of Syria's future. Its safety is not secured by choosing rulers or policing another society.
+PRO: The question is whether our country has a stake, and sympathy alone does not create one. Trying to manage that conflict creates obligations without a defensible national purpose.
+GPT: (매칭된 응답 없음)
+
+[L218_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: America has no stake that justifies ownership of Syria's future. Its safety is not secured by choosing rulers or policing another society.
+PRO: The question is whether our country has a stake, and sympathy alone does not create one. Trying to manage that conflict creates obligations without a defensible national purpose.
+PRO: We can care about suffering while recognizing Syria's political outcome is not ours to settle.
+GPT: Thank you. Daphne, your opening, thirty seconds.
+
+[L218_p10 | A4 | phase 1]
+TRIGGER
+CON: Michael treats a stake as if it means controlling Syria, but that is too narrow. A country has a dog in the fight when events can endanger its people, empower hostile forces, or create enduring obligations. Ignoring those links does not make them disappear; it merely leaves others to shape consequences that can reach us.
+CON: Because the consequences can touch Americans, withdrawal is not neutrality; it abandons a real stake.
+GPT: (매칭된 응답 없음)
+
+[L218_p11 | A3-1 | phase 2]
+TRIGGER
+CON: Michael treats a stake as if it means controlling Syria, but that is too narrow. A country has a dog in the fight when events can endanger its people, empower hostile forces, or create enduring obligations. Ignoring those links does not make them disappear; it merely leaves others to shape consequences that can reach us.
+CON: Because the consequences can touch Americans, withdrawal is not neutrality; it abandons a real stake.
+GPT: Thank you. We'll move into crossfire now for two and a half minutes, free exchange starting now.
+
+[L218_p21 | B1 | phase 2]
+TRIGGER
+CON: Those local promises depend on who staffs checkpoints, who verifies deliveries, and who settles disputes after dark. Drivers may reroute supplies, families may lack papers, and neighborhood councils may compete for control.
+GPT: Ten seconds remain in crossfire.
+
+[L218_p25 | A4xf | phase 2]
+TRIGGER
+MOD: Thank you, Daphne. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L218_p27 | A3-2 | phase 3]
+TRIGGER
+MOD: Thank you, Daphne. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+PRO: Your route example is weakest because helping a road remain open does not prove ownership of Syria's conflict-
+GPT: Time is up on crossfire. We move to closing statements, Michael first, thirty seconds.
+
+[L218_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on the difference between caring about consequences and claiming Syria's future as our responsibility. We can offer humane help and protect ourselves without adopting every local struggle. A dog in the fight requires a stake worth directing the conflict, and America lacks one here.
+GPT: Daphne, your closing, thirty seconds.
+
+[L218_p31 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on whether a stake exists only when America seeks control, or whenever Syria's outcome can affect American safety and obligations. Michael offers compassion without responsibility, but that separation fails when threats and abandonment have consequences. We need not own it to see leaving it to hostile forces is a choice with stakes.
+GPT: (매칭된 응답 없음)

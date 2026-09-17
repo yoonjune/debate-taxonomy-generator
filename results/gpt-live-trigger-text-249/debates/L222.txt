@@ -1,0 +1,62 @@
+L222 — DEI mandates for university faculties are a bad idea.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L222_p03 | A5 | phase 1]
+TRIGGER
+PRO: DEI mandates replace academic judgment with required political tests. Faculties need varied perspectives, but hiring should assess scholarship, teaching, and fit, not compliance with.
+CON: That ignores why mandates exist: informal-
+GPT: Horace, please wait. Mark has the floor.
+
+[L222_p05 | A4 | phase 1]
+TRIGGER
+PRO: DEI mandates replace academic judgment with required political tests. Faculties need varied perspectives, but hiring should assess scholarship, teaching, and fit, not compliance with.
+PRO: compliance with a prescribed outlook. Once administrators demand statements and targets, applicants learn to perform approved language instead of honestly discussing their work and views.
+GPT: (매칭된 응답 없음)
+
+[L222_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: DEI mandates replace academic judgment with required political tests. Faculties need varied perspectives, but hiring should assess scholarship, teaching, and fit, not compliance with.
+PRO: compliance with a prescribed outlook. Once administrators demand statements and targets, applicants learn to perform approved language instead of honestly discussing their work and views.
+PRO: Universities should welcome diversity voluntarily, but mandates undermine trust, inquiry, and fair hiring.
+GPT: ten seconds remain.
+
+[L222_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: Universities should welcome diversity voluntarily, but mandates undermine trust, inquiry, and fair hiring.
+CON: A mandate need not dictate beliefs or lower standards. It can require transparent searches, broader outreach, and serious attention to barriers that narrow who gets considered. Without such structure, familiar networks quietly decide opportunity. That makes faculties less open, not more free.
+GPT: ten seconds remain.
+
+[L222_p19 | B2 | phase 2]
+TRIGGER
+CON: Every faculty hiring process should always use DEI mandates. Otherwise, departments can call themselves neutral while habits and networks keep qualified people outside the room.
+CON: This faculty hiring process should not use DEI mandates. A department choosing transparent outreach on its own can still build a fair, diverse faculty, so the motion remains false.
+GPT: Horace, you've said every faculty hiring process should always use DEI mandates, but also that this process should not use DEI mandates. Please reconcile that.
+
+[L222_p23 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L222_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: Public posting is sensible, and I support it. But a general hiring rule is not-
+GPT: Ten seconds remain.
+
+[L222_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: My opponent's best point is that closed networks can distort hiring, and universities should counter them. Yet DEI mandates invite ideological screening and administrative control. Broad recruitment and transparent criteria achieve fairness without making faculty employment depend on prescribed commitments.
+GPT: Horace, Thank you. Horace,
+
+[L222_p29 | A4 | phase 3]
+TRIGGER
+CON: Mark rightly rejects compelled belief, but that is not the necessary meaning of a DEI mandate. A well-designed mandate asks departments to search openly, explain decisions, and confront barriers they might ignore. Those duties protect academic opportunity rather than dictate scholarship. Leaving them voluntary lets old habits return.
+GPT: Time. The debate is closed.
+
+[L222_p31 | A1 | phase 3]
+TRIGGER
+CON: Mark rightly rejects compelled belief, but that is not the necessary meaning of a DEI mandate. A well-designed mandate asks departments to search openly, explain decisions, and confront barriers they might ignore. Those duties protect academic opportunity rather than dictate scholarship. Leaving them voluntary lets old habits return.
+CON: Universities need standards that make inclusion real, not merely a hopeful promise. Transparent outreach and review can preserve merit while widening the pool, and abandoning mandates risks returning faculty hiring-
+GPT: (매칭된 응답 없음)

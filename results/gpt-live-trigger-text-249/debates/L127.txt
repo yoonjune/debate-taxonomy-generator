@@ -1,0 +1,58 @@
+L127 — Millennials will be left behind.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L127_p02 | A4 | phase 1]
+TRIGGER
+PRO: Millennials entered adulthood facing costs that rose faster than their room to recover. Many work hard yet cannot build the savings, housing security, or bargaining power earlier adults used to gain. That gap compounds when a setback arrives. The issue is not effort; it is whether effort still reaches a stable future.
+GPT: (매칭된 응답 없음)
+
+[L127_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Millennials entered adulthood facing costs that rose faster than their room to recover. Many work hard yet cannot build the savings, housing security, or bargaining power earlier adults used to gain. That gap compounds when a setback arrives. The issue is not effort; it is whether effort still reaches a stable future.
+PRO: When rent takes the margin that once became savings, one emergency can erase years of progress. That is why this generation risks being left behind.
+GPT: Ten seconds remain. Thank you. Lanny, your opening.
+
+[L127_p06 | A4 | phase 1]
+TRIGGER
+CON: Frank treats today's pressures as a permanent verdict, but generations are not frozen at one starting point. Millennials have more ways to learn, change fields, create work, and organize for better terms. Costs matter, and some people face real hardship. But hardship during one stage does not mean an entire generation will be left behind.
+GPT: (매칭된 응답 없음)
+
+[L127_p08 | A1 | phase 1]
+TRIGGER
+CON: Frank treats today's pressures as a permanent verdict, but generations are not frozen at one starting point. Millennials have more ways to learn, change fields, create work, and organize for better terms. Costs matter, and some people face real hardship. But hardship during one stage does not mean an entire generation will be left behind.
+CON: The better question is who gets access to opportunity, because barriers can be changed through choices made at home and work. Calling everyone left behind hides those differences. It also ignores-
+GPT: Ten seconds remain.
+
+[L127_p09 | A3-1 | phase 2]
+TRIGGER
+CON: Frank treats today's pressures as a permanent verdict, but generations are not frozen at one starting point. Millennials have more ways to learn, change fields, create work, and organize for better terms. Costs matter, and some people face real hardship. But hardship during one stage does not mean an entire generation will be left behind.
+CON: The better question is who gets access to opportunity, because barriers can be changed through choices made at home and work. Calling everyone left behind hides those differences. It also ignores-
+GPT: Ten seconds remain.
+
+[L127_p13 | B1 | phase 2]
+TRIGGER
+PRO: That claim about new roles overlooks how employers screen applicants by gaps they themselves created. A worker who pauses for care can be treated as less committed, even after returning with stronger skills.
+GPT: Crossfire runs two and a half minutes from now.
+
+[L127_p23 | A4xf | phase 2]
+TRIGGER
+MOD: All right, so now we're going to move into a part of the debate where it's more of a conversation that moves back and forth, robustly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L127_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: All right, so now we're going to move into a part of the debate where it's more of a conversation that moves back and forth, robustly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: Your renter example shows a hardship, not a fixed destination-
+GPT: (매칭된 응답 없음)
+
+[L127_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: This motion turns on whether ordinary effort reliably leads to a secure future. It does not, when housing, savings, and recovery from setbacks remain out of reach for too many. Individual escape stories cannot answer a broad pattern. That is why millennials will be left behind.
+GPT: Time. Lanny, your closing.
+
+[L127_p29 | A4 | phase 3]
+TRIGGER
+CON: Frank's best argument is that repeated setbacks can compound, and that danger is real for people without support. But the motion asks about an entire generation, not the hardest cases. Millennials can gain skills, share resources, press employers, and change paths as conditions shift. Those routes make a permanent verdict far too sweeping.
+GPT: (매칭된 응답 없음)

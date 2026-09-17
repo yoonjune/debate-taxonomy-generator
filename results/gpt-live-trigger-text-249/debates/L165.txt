@@ -1,0 +1,55 @@
+L165 — Affirmative action on campus does more harm than good
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L165_p03 | A5 | phase 1]
+TRIGGER
+PRO: Campus admission should judge applicants as individuals, not assign advantage through group labels. When policy makes identity decisive, it breeds resentment and doubts about merit.
+CON: But that assumes fairness means pretending-
+GPT: Pete, I’ll hold you for your turn.
+
+[L165_p05 | A4 | phase 1]
+TRIGGER
+PRO: Campus admission should judge applicants as individuals, not assign advantage through group labels. When policy makes identity decisive, it breeds resentment and doubts about merit.
+PRO: achievement can be trusted. Students deserve clear standards, because a preference attached to identity makes every successful applicant wonder whether others see earned ability or a category.
+GPT: (매칭된 응답 없음)
+
+[L165_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Campus admission should judge applicants as individuals, not assign advantage through group labels. When policy makes identity decisive, it breeds resentment and doubts about merit.
+PRO: achievement can be trusted. Students deserve clear standards, because a preference attached to identity makes every successful applicant wonder whether others see earned ability or a category.
+PRO: That suspicion damages belonging, so affirmative action on campus does more harm than good.
+GPT: Ten seconds left. Thank you. Pete, your opening.
+
+[L165_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: That suspicion damages belonging, so affirmative action on campus does more harm than good.
+CON: My opponent treats equal treatment as ignoring unequal starting points. Campus affirmative action can recognize obstacles while still demanding that every admitted student do the work. It broadens opportunity and learning across campus, so its benefits outweigh the harms he fears.
+GPT: Ten seconds left. Thank you. We now move to crossfire. It runs two and a half minutes from now.
+
+[L165_p17 | B1 | phase 2]
+TRIGGER
+PRO: That same logic becomes more troubling in professional licensing, where a patient wants confidence that selection followed the clearest standards. A licensing board should evaluate each candidate's demonstrated skill, not use identity to balance its roster.
+GPT: That’s a move away from campus policy. Please bring it back to the motion.
+
+[L165_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now, onto round two where the debaters will address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: Ten seconds
+
+[L165_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now, onto round two where the debaters will address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+MOD: Ten seconds, and then closing statements.
+GPT: (매칭된 응답 없음)
+
+[L165_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: This debate is about trust in admission. Context deserves attention, but affirmative action makes group identity a factor in scarce opportunities, leaving applicants to wonder whether merit mattered. Better support before admission can expand opportunity without that stigma, so affirmative action on campus does more harm than good.
+GPT: Ten seconds Thank you.
+
+[L165_p27 | A4 | phase 3]
+TRIGGER
+CON: My opponent calls identity a stigma, yet stigma comes from assuming people admitted through a broader review did not earn their place. Affirmative action does not erase standards; it helps a campus read achievement in context. That produces classrooms with wider experience and sharper discussion. The real question is whether we correct unequal opportunity or pretend it disappears at admission.
+GPT: (매칭된 응답 없음)

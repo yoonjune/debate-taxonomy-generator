@@ -1,0 +1,59 @@
+L068 — Hezbollah had no right to fight a war on Lebanon's behalf
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L068_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Hezbollah could not claim the authority of an entire country simply by acting in its name. War places every family at risk, so only accountable national institutions can make that choice. A party with its own fighters cannot substitute itself for Lebanon.
+GPT: Thank you. Greg, your opening statement.
+
+[L068_p04 | A4 | phase 1]
+TRIGGER
+CON: The question is not whether every decision made in war was wise. It is whether people facing attack may defend their communities when their state cannot protect them. A movement rooted among those communities can resist aggression and express a real demand for safety. Denying that role ignores the people who depend on it.
+GPT: Ten seconds.
+
+[L068_p06 | A1 | phase 1]
+TRIGGER
+CON: The question is not whether every decision made in war was wise. It is whether people facing attack may defend their communities when their state cannot protect them. A movement rooted among those communities can resist aggression and express a real demand for safety. Denying that role ignores the people who depend on it.
+CON: who have no other shield. Their consent can give resistance a public mandate, even when formal institutions are weak. The harder question is how that mandate is kept accountable, and whether-
+GPT: Time's up. We'll move to crossfire. It runs two and a half minutes, starting now.
+
+[L068_p07 | A3-1 | phase 2]
+TRIGGER
+CON: The question is not whether every decision made in war was wise. It is whether people facing attack may defend their communities when their state cannot protect them. A movement rooted among those communities can resist aggression and express a real demand for safety. Denying that role ignores the people who depend on it.
+CON: who have no other shield. Their consent can give resistance a public mandate, even when formal institutions are weak. The harder question is how that mandate is kept accountable, and whether-
+GPT: Time's up. We'll move to crossfire. It runs two and a half minutes, starting now.
+
+[L068_p14 | B1 | phase 2]
+TRIGGER
+CON: Disarmament cannot be imposed by simply collecting weapons and calling that peace. It requires guarantees, local trust, and protection against future attacks; otherwise, civilians are left exposed.
+GPT: (매칭된 응답 없음)
+
+[L068_p18 | B2 | phase 2]
+TRIGGER
+CON: Resistance always deserves a voice. When people face danger, silencing those who organize defense treats them as spectators rather than citizens with a stake in survival and dignity.
+CON: This hostage-taking resistance does not deserve a voice. Yet its broader claim to defend communities shows why rejecting all resistance would deny people any means of survival in a crisis.
+GPT: Ten seconds.
+
+[L068_p23 | A4xf | phase 2]
+TRIGGER
+MOD: Thank you, Greg. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L068_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: Thank you, Greg. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. Two and a half minutes on the clock, starting the moment I stop talking.
+MOD: Ten seconds left in the crossfire.
+GPT: We'll move to closing statements.
+
+[L068_p26 | A4 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on the difference between a people's right to safety and one armed party's claim to rule in their name. Lebanon is not a prize that any faction may risk through its own command. A genuine national mandate requires accountable consent, not just supporters. Once war touches everyone, the decision belongs to everyone, and
+GPT: (매칭된 응답 없음)
+
+[L068_p28 | A2-2 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on the difference between a people's right to safety and one armed party's claim to rule in their name. Lebanon is not a prize that any faction may risk through its own command. A genuine national mandate requires accountable consent, not just supporters. Once war touches everyone, the decision belongs to everyone, and
+PRO: that is why self-defense cannot become self-appointment. Hezbollah could defend supporters, but it had no right to fight a war on Lebanon's behalf.
+GPT: Thank you. Greg, your closing statement.

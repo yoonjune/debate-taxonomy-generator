@@ -1,0 +1,48 @@
+L144 — Islam is antisemitic.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L144_p02 | A4 | phase 1]
+TRIGGER
+PRO: Islam is not merely whatever its kindest followers make of it. Its foundational language and inherited teachings include hostile portrayals of Jews, and those ideas have been used to excuse exclusion. Individual Muslims can reject that legacy, but the motion concerns the religion's content. We should judge whether that content carries antisemitism, not whether every believer acts badly.
+GPT: (매칭된 응답 없음)
+
+[L144_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Islam is not merely whatever its kindest followers make of it. Its foundational language and inherited teachings include hostile portrayals of Jews, and those ideas have been used to excuse exclusion. Individual Muslims can reject that legacy, but the motion concerns the religion's content. We should judge whether that content carries antisemitism, not whether every believer acts badly.
+PRO: A faith may contain a prejudice even when many adherents oppose it. Calling that out does not condemn every Muslim; it identifies a problem in the tradition that deserves honest scrutiny, because-
+GPT: Ten seconds remain.
+
+[L144_p06 | A4 | phase 1]
+TRIGGER
+CON: The claim treats a vast faith as if one hostile reading defines it. Islamic scripture and practice also command fairness, protect Jewish neighbors, and recognize a shared moral inheritance. Some Muslims have promoted antisemitism, but prejudice by people is not proof that Islam itself is antisemitic. We must separate selective misuse from the religion's central ethical teaching.
+GPT: (매칭된 응답 없음)
+
+[L144_p08 | A1 | phase 1]
+TRIGGER
+CON: The claim treats a vast faith as if one hostile reading defines it. Islamic scripture and practice also command fairness, protect Jewish neighbors, and recognize a shared moral inheritance. Some Muslims have promoted antisemitism, but prejudice by people is not proof that Islam itself is antisemitic. We must separate selective misuse from the religion's central ethical teaching.
+CON: Criticism of particular passages is legitimate, and Muslims should confront hatred wherever it appears. But a whole religion is not antisemitic when its moral core rejects collective blame and demands-
+GPT: Ten seconds remain.
+
+[L144_p09 | A3-1 | phase 2]
+TRIGGER
+CON: The claim treats a vast faith as if one hostile reading defines it. Islamic scripture and practice also command fairness, protect Jewish neighbors, and recognize a shared moral inheritance. Some Muslims have promoted antisemitism, but prejudice by people is not proof that Islam itself is antisemitic. We must separate selective misuse from the religion's central ethical teaching.
+CON: Criticism of particular passages is legitimate, and Muslims should confront hatred wherever it appears. But a whole religion is not antisemitic when its moral core rejects collective blame and demands-
+GPT: Ten seconds remain.
+
+[L144_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And now we move on to round two where the debaters address each other directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L144_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: And now we move on to round two where the debaters address each other directly. You have two and a half minutes, starting when I stop talking.
+PRO: A shopkeeper hears a sermon blame Jews for society's troubles, then refuses a Jewish customer with religious confidence-
+GPT: Time.
+
+[L144_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Decide whether a religion can be assessed by authoritative teachings that portray Jews with collective hostility, even when many followers reject them. It can. Individual decency matters, but it cannot erase harmful religious content; that is why the motion is true.
+GPT: Teresa, your closing.

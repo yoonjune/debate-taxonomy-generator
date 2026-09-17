@@ -1,0 +1,60 @@
+L125 — Clean energy can drive America's economic recovery.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L125_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Recovery needs work that begins now and keeps paying back. Building cleaner power, upgrading homes, and making equipment create jobs while lowering bills. Those savings leave families and local businesses able to hire, spend, and grow, instead of sending money away for wasteful fuel.
+GPT: Ten seconds left.
+
+[L125_p05 | A5 | phase 1]
+TRIGGER
+CON: New projects can create work, but recovery needs dependable gains. If families face higher upfront bills, promised savings do not rescue budgets already under pressure.
+PRO: But you ignore the workers whose old jobs-
+GPT: Jillian has the floor.
+
+[L125_p07 | A4 | phase 1]
+TRIGGER
+CON: New projects can create work, but recovery needs dependable gains. If families face higher upfront bills, promised savings do not rescue budgets already under pressure.
+CON: those people need steady paychecks, not promises that new industries may eventually replace them. Recovery means broad, reliable work, not a costly bet for communities.
+GPT: (매칭된 응답 없음)
+
+[L125_p09 | A3-1 | phase 2]
+TRIGGER
+CON: those people need steady paychecks, not promises that new industries may eventually replace them. Recovery means broad, reliable work, not a costly bet for communities.
+CON: A plan that raises risk for households cannot drive a durable, broad recovery at all.
+GPT: Time's up. We move now into crossfire for two and a half minutes.
+
+[L125_p17 | B2 | phase 2]
+TRIGGER
+CON: Clean energy projects should always pay for themselves. A recovery cannot rest on ventures that demand public support while families are already struggling.
+CON: This clean energy project should not pay for itself. A community may support a project that protects a favorite view, but that choice shows why clean energy cannot drive economic recovery.
+GPT: (매칭된 응답 없음)
+
+[L125_p24 | A4xf | phase 2]
+TRIGGER
+MOD: Now we go on to round two. And round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L125_p26 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we go on to round two. And round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+CON: If clean energy is the driver, how do you protect workers when-
+GPT: (매칭된 응답 없음)
+
+[L125_p28 | A2-2 | phase 3]
+TRIGGER
+PRO: Jillian's strongest point is that a costly change can hurt a fragile business. That risk calls for practical financing, not abandonment. Clean energy creates work, reduces recurring costs, and gives businesses steadier footing, so it can drive America's recovery.
+GPT: Jillian, your closing
+
+[L125_p30 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on more than whether a few projects create jobs. It turns on whether clean energy is reliable enough to lead the whole recovery without shifting heavy costs onto households and employers. Danny offers safeguards, but safeguards admit the plan can strain those already trying to stay open. A driver must pull everyone forward.
+GPT: (매칭된 응답 없음)
+
+[L125_p32 | A1 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on more than whether a few projects create jobs. It turns on whether clean energy is reliable enough to lead the whole recovery without shifting heavy costs onto households and employers. Danny offers safeguards, but safeguards admit the plan can strain those already trying to stay open. A driver must pull everyone forward.
+CON: Clean energy may help, but the motion says it can drive recovery. When success depends on subsidies, timing, and firms absorbing changes, it is not the engine described. Recovery needs dependable-
+GPT: Time's up. That concludes the debate.

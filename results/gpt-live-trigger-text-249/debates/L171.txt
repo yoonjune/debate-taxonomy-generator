@@ -1,0 +1,48 @@
+L171 — Netanyahu's government is heading in the wrong direction.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L171_p02 | A4 | phase 1]
+TRIGGER
+PRO: Netanyahu's government is choosing escalation over a workable future. Its decisions deepen division at home, weaken trust in public institutions, and make security depend on permanent confrontation. A government should protect citizens while preserving democratic limits and leaving room for political solutions. This one treats criticism as disloyalty and compromise as surrender, so it is driving the country toward greater danger, not strength.
+GPT: (매칭된 응답 없음)
+
+[L171_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Netanyahu's government is choosing escalation over a workable future. Its decisions deepen division at home, weaken trust in public institutions, and make security depend on permanent confrontation. A government should protect citizens while preserving democratic limits and leaving room for political solutions. This one treats criticism as disloyalty and compromise as surrender, so it is driving the country toward greater danger, not strength.
+PRO: That course can still be changed, but defending every hard-line move only locks the government into the wrong direction. It ignores the costs paid by ordinary families.
+GPT: Terence, thank you. Derek, your opening statement.
+
+[L171_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: That course can still be changed, but defending every hard-line move only locks the government into the wrong direction. It ignores the costs paid by ordinary families.
+CON: Terence calls firmness a wrong direction, but that confuses discomfort with failure. This government faces real threats and must retain the freedom to act, rather than gamble on promises from hostile actors. Democratic argument is not institutional collapse; it is citizens contesting hard choices.
+GPT: We now move to crossfire. Two and a half minutes begins now.
+
+[L171_p10 | B1 | phase 2]
+TRIGGER
+CON: That cycle also affects how neighboring communities manage daily trade, permits, and family visits. Firm rules make those arrangements predictable, because patient local coordination cannot rest on broad slogans alone.
+GPT: (매칭된 응답 없음)
+
+[L171_p20 | A4xf | phase 2]
+TRIGGER
+MOD: So, in round two, the debaters direct questions to one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L171_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: So, in round two, the debaters direct questions to one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+PRO: I am answering your oversight point. Saying oversight should remain real means little when the government weakens the very institutions that can challenge its decisions, which is why its direction-
+GPT: Ten seconds remain
+
+[L171_p24 | A4 | phase 3]
+TRIGGER
+PRO: Your best argument is that a government facing threats needs freedom to act. I agree security requires action, but action without durable limits makes the country less safe and less united. The pattern here is not one difficult choice; it is a governing habit of sidelining checks, inflaming division, and refusing a political horizon. That habit damages the future.
+GPT: (매칭된 응답 없음)
+
+[L171_p26 | A2-1 | phase 3]
+TRIGGER
+PRO: Your best argument is that a government facing threats needs freedom to act. I agree security requires action, but action without durable limits makes the country less safe and less united. The pattern here is not one difficult choice; it is a governing habit of sidelining checks, inflaming division, and refusing a political horizon. That habit damages the future.
+PRO: Derek says reforms can preserve independence, yet changing the rules to shield power is not renewal. The direction is clear: more control, fewer safeguards, and a future built on endless-
+GPT: (매칭된 응답 없음)

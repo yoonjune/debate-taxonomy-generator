@@ -1,0 +1,61 @@
+L177 — Ukraine should get Russia's frozen assets.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L177_p03 | A5 | phase 1]
+TRIGGER
+PRO: Russia's assets are frozen because its state caused terrible damage. Transferring them would make the aggressor help repair homes, schools, and power lines instead of leaving Ukraine alone with.
+CON: You call this repair, but you skip the-
+GPT: Daisy, it's Tony's opening.
+
+[L177_p05 | A4 | phase 1]
+TRIGGER
+PRO: Russia's assets are frozen because its state caused terrible damage. Transferring them would make the aggressor help repair homes, schools, and power lines instead of leaving Ukraine alone with.
+PRO: the burden. Ukraine needs a real path to rebuild, and these state funds were immobilized for a reason. Keeping them idle protects Russia from consequences of its own war.
+GPT: (매칭된 응답 없음)
+
+[L177_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Russia's assets are frozen because its state caused terrible damage. Transferring them would make the aggressor help repair homes, schools, and power lines instead of leaving Ukraine alone with.
+PRO: the burden. Ukraine needs a real path to rebuild, and these state funds were immobilized for a reason. Keeping them idle protects Russia from consequences of its own war.
+PRO: Giving them to Ukraine turns a frozen penalty into repair, which is exactly what justice demands.
+GPT: Thank you. Daisy, your opening, please.
+
+[L177_p09 | A4 | phase 1]
+TRIGGER
+CON: Tony's repair point sounds fair, but fairness also needs rules that survive a hard case. Frozen assets are not a blank check for outsiders to spend. Taking them without a settled legal basis weakens the protection that keeps countries from seizing each other's property. Ukraine deserves support, but it can come through agreed funding without creating a permanent power.
+GPT: (매칭된 응답 없음)
+
+[L177_p11 | A1 | phase 1]
+TRIGGER
+CON: Tony's repair point sounds fair, but fairness also needs rules that survive a hard case. Frozen assets are not a blank check for outsiders to spend. Taking them without a settled legal basis weakens the protection that keeps countries from seizing each other's property. Ukraine deserves support, but it can come through agreed funding without creating a permanent power.
+CON: That limit matters because today's popular target can become tomorrow's excuse. If governments can redirect another state's reserves by political choice, trust in safe custody shrinks. And-
+GPT: 10 seconds, Daisy.
+
+[L177_p12 | A3-1 | phase 2]
+TRIGGER
+CON: Tony's repair point sounds fair, but fairness also needs rules that survive a hard case. Frozen assets are not a blank check for outsiders to spend. Taking them without a settled legal basis weakens the protection that keeps countries from seizing each other's property. Ukraine deserves support, but it can come through agreed funding without creating a permanent power.
+CON: That limit matters because today's popular target can become tomorrow's excuse. If governments can redirect another state's reserves by political choice, trust in safe custody shrinks. And-
+GPT: 10 seconds, Daisy.
+
+[L177_p26 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes Round one. Now we move onto Round two. And in Round two, it's freer form. The debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L177_p27 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes Round one. Now we move onto Round two. And in Round two, it's freer form. The debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: Ten seconds left in the crossfire.
+GPT: (매칭된 응답 없음)
+
+[L177_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: This turns on responsibility, not revenge. Russia's frozen state assets can, through lawful process, repair the damage its war caused rather than sit unused while Ukraine rebuilds. Daisy offers caution, but caution cannot mean the victim alone pays; Ukraine should get the assets.
+GPT: Time.
+
+[L177_p31 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on whether a justified goal permits an unreliable method. Ukraine needs rebuilding, and Russia should face pressure to pay. But transferring frozen assets risks turning legal custody into political taking. A durable peace needs rules that protect property, permit compensation through recognized decisions, and keep support for Ukraine from depending on a precedent that others can misuse.
+GPT: (매칭된 응답 없음)

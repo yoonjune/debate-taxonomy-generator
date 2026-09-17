@@ -1,0 +1,59 @@
+L119 — The AAP's child obesity guidelines are good medicine.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L119_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: These guidelines treat obesity as a health concern, not a character flaw. They call for early assessment, family-centered support, and options matched to need. Waiting until problems deepen is not kindness; careful, compassionate care for children is good medicine here.
+GPT: Ten seconds remain.
+
+[L119_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: These guidelines treat obesity as a health concern, not a character flaw. They call for early assessment, family-centered support, and options matched to need. Waiting until problems deepen is not kindness; careful, compassionate care for children is good medicine here.
+CON: These guidelines risk turning children into medical problems before they are heard as people. A rushed label can bring shame, conflict, and pressure toward powerful interventions. Good medicine listens, protects trust, and avoids making body size the center of childhood.
+GPT: Thank you. We now move into crossfire; two and a half minutes for both to question and interrupt each other. Time starts now.
+
+[L119_p09 | B1 | phase 2]
+TRIGGER
+PRO: When schools design lunch and activity rules, they can shape sports access and even how children are grouped. Public institutions should build supportive systems that welcome children of every size and give families equal standing in school life.
+GPT: Ten seconds remain in crossfire.
+
+[L119_p13 | B2 | phase 2]
+TRIGGER
+PRO: That point matters because clinical guidance should keep support humane, not turn schools into judges. No child should ever be denied treatment. These guidelines offer earlier, respectful care rather than abandonment.
+PRO: This child should be denied treatment. A child frightened by medical appointments needs ordinary reassurance, play, and patient listening, not another clinical plan. That is why these guidelines remain good medicine.
+GPT: Kirsten, your closing, please.
+
+[L119_p17 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now onto round two. And round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: Amy, your closing, please.
+
+[L119_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now onto round two. And round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: I reject the premise that rejecting these guidelines means abandoning care. Offer patient counseling, investigate concerns, and let families set a pace without weight-driven targets. Your organized-
+GPT: Ten seconds remain. Time is up.
+
+[L119_p21 | A4 | phase 3]
+TRIGGER
+PRO: The strongest point is that children deserve help before concerns become heavier and harder to address. These guidelines ask clinicians to listen, involve families, and offer care without blame. That is better than waiting until trust and health are both damaged. Medicine should meet children with practical support, not silence. It also recognizes that each family needs a voice.
+GPT: (매칭된 응답 없음)
+
+[L119_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is that children deserve help before concerns become heavier and harder to address. These guidelines ask clinicians to listen, involve families, and offer care without blame. That is better than waiting until trust and health are both damaged. Medicine should meet children with practical support, not silence. It also recognizes that each family needs a voice.
+PRO: That voice does not erase medical responsibility; it makes care humane. Early, respectful options give children a better chance to thrive, and that is good medicine.
+GPT: (매칭된 응답 없음)
+
+[L119_p25 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on whether a child is helped by being placed inside a weight-centered medical program. Care can be compassionate, yet a guideline can still create pressure and shame. Children need trust, room to grow, and attention to their whole lives. We should not confuse more intervention with better medicine. The question is who sets the path.
+GPT: (매칭된 응답 없음)
+
+[L119_p27 | A1 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on whether a child is helped by being placed inside a weight-centered medical program. Care can be compassionate, yet a guideline can still create pressure and shame. Children need trust, room to grow, and attention to their whole lives. We should not confuse more intervention with better medicine. The question is who sets the path.
+CON: A better approach starts with listening and practical support, without treating size as a verdict. Families deserve choices that do not arrive wrapped in fear. If we-
+GPT: (매칭된 응답 없음)

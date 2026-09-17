@@ -1,0 +1,62 @@
+L114 — It's time to end affirmative action
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L114_p03 | A5 | phase 1]
+TRIGGER
+PRO: Affirmative action began as a remedy, but remedies need limits. Institutions sort people by group identity, not their individual record, in admissions and hiring, and.
+CON: But you skip barriers people still face and-
+GPT: Joanna, no interruptions yet.
+
+[L114_p05 | A4 | phase 1]
+TRIGGER
+PRO: Affirmative action began as a remedy, but remedies need limits. Institutions sort people by group identity, not their individual record, in admissions and hiring, and.
+PRO: and that makes identity a permanent test. We should confront unfair schools and hiring practices directly, rather than giving gatekeepers permission to favor or disfavor applicants by category.
+GPT: (매칭된 응답 없음)
+
+[L114_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Affirmative action began as a remedy, but remedies need limits. Institutions sort people by group identity, not their individual record, in admissions and hiring, and.
+PRO: and that makes identity a permanent test. We should confront unfair schools and hiring practices directly, rather than giving gatekeepers permission to favor or disfavor applicants by category.
+PRO: Ending it restores a clear standard: judge each person by demonstrated ability and effort.
+GPT: Ten seconds remain.
+
+[L114_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: Ending it restores a clear standard: judge each person by demonstrated ability and effort.
+CON: Equal treatment is not achieved by ignoring unequal access. Affirmative action gives qualified people a fair chance to be seen where old habits still narrow the pool. Ending it now would preserve those habits behind language about neutrality, so why remove a tool before the work is done?
+GPT: Time. Carissa's opening has ended. Joanna, your opening, thirty seconds.
+
+[L114_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we go on to round two, where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L114_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we go on to round two, where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+MOD: Ten seconds left, both of you.
+GPT: Time.
+
+[L114_p25 | A4 | phase 3]
+TRIGGER
+PRO: Joanna's strongest point is that unequal opportunity is real. I agree, but group preferences treat a symptom while leaving schools, networks, and gatekeeping practices untouched. We should attack those barriers directly, with fair preparation and transparent standards. Ending affirmative action does not mean ignoring discrimination; it means refusing to make identity the deciding tool.
+GPT: (매칭된 응답 없음)
+
+[L114_p27 | A2-1 | phase 3]
+TRIGGER
+PRO: Joanna's strongest point is that unequal opportunity is real. I agree, but group preferences treat a symptom while leaving schools, networks, and gatekeeping practices untouched. We should attack those barriers directly, with fair preparation and transparent standards. Ending affirmative action does not mean ignoring discrimination; it means refusing to make identity the deciding tool.
+PRO: A better system judges achievement alongside genuine hardship without assigning worth by category. It gives every applicant a reason to trust the rule. That is how we replace a divisive shortcut with-
+GPT: (매칭된 응답 없음)
+
+[L114_p29 | A4 | phase 3]
+TRIGGER
+CON: Carissa is right that no applicant should be reduced to a label, and rigid quotas would be wrong. But ending affirmative action does not create individual judgment; it leaves unequal opportunity uncorrected. Context matters because achievements are built under different conditions. This policy keeps doors open for people whose ability might be overlooked, and it remains necessary while those conditions persist.
+GPT: (매칭된 응답 없음)
+
+[L114_p31 | A1 | phase 3]
+TRIGGER
+CON: Carissa is right that no applicant should be reduced to a label, and rigid quotas would be wrong. But ending affirmative action does not create individual judgment; it leaves unequal opportunity uncorrected. Context matters because achievements are built under different conditions. This policy keeps doors open for people whose ability might be overlooked, and it remains necessary while those conditions persist.
+CON: We can improve schools and hiring rules, but dismantling this safeguard first would deepen the gap. The fair answer is repair plus opportunity, not blindness to unequal starting-
+GPT: Time. That concludes the debate.

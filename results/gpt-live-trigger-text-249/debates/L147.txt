@@ -1,0 +1,49 @@
+L147 — Affirmative action on campus does more harm than good
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L147_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Affirmative action asks campuses to sort people by group before individual achievement. That creates doubt about every offer and strains trust among students. Equal standards and targeted preparation help every applicant without making admission itself a group judgment.
+GPT: Thank you. Ahmed, your opening statement.
+
+[L147_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Affirmative action asks campuses to sort people by group before individual achievement. That creates doubt about every offer and strains trust among students. Equal standards and targeted preparation help every applicant without making admission itself a group judgment.
+CON: Affirmative action can recognize barriers ordinary measures miss. It opens doors for capable students who otherwise face narrow pipelines, while campuses still assess achievement. A fairer entering class improves discussion and opportunity, so the policy does more good than harm.
+GPT: Thank you. We will now have crossfire, two and a half minutes starting now.
+
+[L147_p14 | B2 | phase 2]
+TRIGGER
+PRO: I believe affirmative action never treats applicants fairly. It makes group membership an admissions advantage or penalty, so even well-intended decisions turn individuals into representatives and ultimately do more harm than good.
+PRO: This affirmative action treats applicants fairly. A campus that gives a group preference to an applicant with a weaker record may still call itself inclusive, but it harms the passed-over applicant and public trust.
+GPT: (매칭된 응답 없음)
+
+[L147_p18 | A4xf | phase 2]
+TRIGGER
+MOD: Let's move now into the moderated cross-examination portion of this debate, and get both sides engaging on some of the key issues here. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L147_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: Let's move now into the moderated cross-examination portion of this debate, and get both sides engaging on some of the key issues here. You have two and a half minutes, starting when I stop talking.
+MOD: About ten seconds left in the crossfire.
+GPT: (매칭된 응답 없음)
+
+[L147_p21 | A2-2 | phase 3]
+TRIGGER
+PRO: Central harm is distrust. When admission uses group preference, students wonder whether achievement or identity decided, and that doubt reaches those admitted and denied. Better preparation and individual review address barriers without categories. That is why affirmative action does more harm than good.
+GPT: Time is up.
+
+[L147_p24 | A5 | phase 3]
+TRIGGER
+CON: The strongest point is context: merit is shaped before an application arrives. Ignoring barriers preserves advantage, while affirmative action lets campuses see talent more fairly.
+PRO: But seeing context does not require choosing-
+GPT: Melissa, please
+
+[L147_p26 | A4 | phase 3]
+TRIGGER
+CON: The strongest point is context: merit is shaped before an application arrives. Ignoring barriers preserves advantage, while affirmative action lets campuses see talent more fairly.
+CON: and it gives students facing patterned exclusion a real chance to show what they can do. A campus that notices those barriers is not abandoning standards.
+GPT: (매칭된 응답 없음)

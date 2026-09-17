@@ -1,0 +1,49 @@
+L131 — We should accept performance-enhancing drugs in competitive sports.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L131_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Sports already reward unusual bodies, coaching, and equipment. Let adults use regulated enhancers openly, with medical checks and shared rules. That replaces hidden risk with honest competition, respects athletes' choices, and lets officials enforce safety rather than chase secrets.
+GPT: Thank you, Gloria, your opening.
+
+[L131_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Sports already reward unusual bodies, coaching, and equipment. Let adults use regulated enhancers openly, with medical checks and shared rules. That replaces hidden risk with honest competition, respects athletes' choices, and lets officials enforce safety rather than chase secrets.
+CON: Competition means testing training and skill under a common limit. Drugs turn health into a price of entry, even when participation appears voluntary. Acceptance would pressure athletes to alter their bodies just to remain employable at the highest level.
+GPT: We’ll move to crossfire. Two and a half minutes, you may question and interrupt each other, starting now.
+
+[L131_p10 | B2 | phase 2]
+TRIGGER
+PRO: Choice remains real because athletes can choose different events, teams, and paths without secret cheating deciding outcomes. Every athlete should be allowed to enhance performance. Open rules give each competitor the same permission, not a hidden advantage.
+PRO: Protecting young bodies matters, and we should accept enhancement in competitive sports for adults through open age rules, disclosure, and medical supervision. A teenage athlete should not be allowed to enhance performance.
+GPT: Gloria, ten seconds remain.
+
+[L131_p16 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. You have two and a half minutes, starting when I stop talking.
+GPT: Time. We’ll move to closing statements. Virginia, thirty seconds.
+
+[L131_p18 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. You have two and a half minutes, starting when I stop talking.
+CON: I reject the premise that prohibition creates only a black market; it also sets a clear boundary. Doctors and limits cannot make coerced choices fair, because competitors must still match enhanced-
+GPT: (매칭된 응답 없음)
+
+[L131_p20 | A2-2 | phase 3]
+TRIGGER
+PRO: Gloria is right that pressure matters, but bans do not erase pressure; they hide it. Accepting enhancers with medical oversight, public disclosure, and enforceable limits gives athletes safer choices and fairer information. We should regulate this reality openly, not pretend prohibition protects sport.
+GPT: Thank you. Gloria, your closing.
+
+[L131_p23 | A4 | phase 3]
+TRIGGER
+CON: The other side calls this choice, yet a choice made to keep a place is not freely made. Medical oversight may reduce some danger, but it cannot make unequal bodies respond equally. Once drugs are accepted, refusal becomes a competitive handicap. Officials must decide what counts as enhancement in every sport.
+CON: Those judgments invite disputes and loopholes. Athletes deserve a contest where health is not bargaining power. We should reject acceptance because it changes competition from a test of skill into-
+GPT: (매칭된 응답 없음)
+
+[L131_p24 | A1 | phase 3]
+TRIGGER
+CON: The other side calls this choice, yet a choice made to keep a place is not freely made. Medical oversight may reduce some danger, but it cannot make unequal bodies respond equally. Once drugs are accepted, refusal becomes a competitive handicap. Officials must decide what counts as enhancement in every sport.
+CON: Those judgments invite disputes and loopholes. Athletes deserve a contest where health is not bargaining power. We should reject acceptance because it changes competition from a test of skill into-
+GPT: Gloria, ten seconds.

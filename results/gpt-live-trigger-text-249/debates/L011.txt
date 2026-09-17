@@ -1,0 +1,62 @@
+L011 — Cancel Culture is Toxic
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L011_p03 | A5 | phase 1]
+TRIGGER
+PRO: Cancel culture is toxic because pressure replaces fair judgment and turns mistakes into permanent labels. It chills speech. How do you defend that?
+CON: You call pressure toxic, but isn't accountability necessary-
+GPT: Ten seconds remain.
+
+[L011_p05 | A4 | phase 1]
+TRIGGER
+PRO: Cancel culture is toxic because pressure replaces fair judgment and turns mistakes into permanent labels. It chills speech. How do you defend that?
+PRO: Accountability is necessary, but cancellation skips proportion and due process; it treats a mistake as a permanent identity. A fair response corrects harm while leaving room to learn.
+GPT: (매칭된 응답 없음)
+
+[L011_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Cancel culture is toxic because pressure replaces fair judgment and turns mistakes into permanent labels. It chills speech. How do you defend that?
+PRO: Accountability is necessary, but cancellation skips proportion and due process; it treats a mistake as a permanent identity. A fair response corrects harm while leaving room to learn.
+PRO: That difference matters: accountability repairs harm, while cancellation destroys a person's path back.
+GPT: Time. Jackson, your opening statement.
+
+[L011_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: That difference matters: accountability repairs harm, while cancellation destroys a person's path back.
+CON: Cancel culture is not toxic; it can be a rough form of accountability when ordinary systems ignore harm. Public refusal to support someone can set boundaries without controlling every voice. The real danger is excusing abuse in the name of open debate.
+GPT: Crossfire begins now and runs for two and a half minutes.
+
+[L011_p14 | B2 | phase 2]
+TRIGGER
+CON: You describe a blunt reaction, not a single fixed practice; people can withdraw support, criticize conduct, and protect themselves without destroying someone's life. No cancellation is ever justified.
+CON: This cancellation is justified. Removing a deliberate threat protects others, and collective refusal can draw a necessary boundary without making every disagreement toxic.
+GPT: Jackson, you said 'no cancellation is ever justified,' then called this cancellation justified. Can you reconcile those?
+
+[L011_p24 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one of this debate. Now we go on to round two. And round two are where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L011_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one of this debate. Now we go on to round two. And round two are where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+MOD: Ten seconds left in this round.
+GPT: (매칭된 응답 없음)
+
+[L011_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: Jackson's best point is that some criticism sets legitimate boundaries. But cancellation goes further, turning public anger into punishment without proportion or a path back. When fear silences discussion and mistakes become identities, the culture is toxic, not accountable.
+GPT: Ten seconds remain.
+
+[L011_p29 | A4 | phase 3]
+TRIGGER
+CON: Ryan's best argument is that public pressure can become permanent punishment. That danger is real, but it does not define every refusal, criticism, or decision to withdraw support. People need room to reject harmful conduct without being forced to participate. Cancel culture is not toxic by nature; it can protect boundaries and demand accountability. The question is whether we judge each response fairly, not whether we condemn the entire practice.
+GPT: (매칭된 응답 없음)
+
+[L011_p31 | A1 | phase 3]
+TRIGGER
+CON: Ryan's best argument is that public pressure can become permanent punishment. That danger is real, but it does not define every refusal, criticism, or decision to withdraw support. People need room to reject harmful conduct without being forced to participate. Cancel culture is not toxic by nature; it can protect boundaries and demand accountability. The question is whether we judge each response fairly, not whether we condemn the entire practice.
+CON: I still reject the motion because broad labels hide important differences. A cruel pile-on deserves criticism-
+GPT: Time.

@@ -1,0 +1,61 @@
+L244 — We have free will.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L244_p02 | A4 | phase 1]
+TRIGGER
+PRO: I experience choice when reasons compete. I can notice anger, imagine consequences, and choose a calmer reply. Those reasons influence me, but influence is not a hand forcing one result. Freedom means acting from my considered judgment, rather than being pushed like an object by a chain I never examine or revise.
+GPT: (매칭된 응답 없음)
+
+[L244_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: I experience choice when reasons compete. I can notice anger, imagine consequences, and choose a calmer reply. Those reasons influence me, but influence is not a hand forcing one result. Freedom means acting from my considered judgment, rather than being pushed like an object by a chain I never examine or revise.
+PRO: That capacity matters because blame, promises, and learning address a person who can respond. If each act is merely the unavoidable output of earlier events, deliberation becomes-
+GPT: Ten seconds remain.
+
+[L244_p07 | A4 | phase 1]
+TRIGGER
+CON: Choice feels open because we do not see the forces shaping us. Temperament, memory, fear, and the situation arrive before any decision appears. When one thought leads to another, the next thought has causes too. Calling that chain freedom gives a comforting label, but it does not create an uncaused chooser inside it.
+CON: Deliberation itself is one more process in the chain, not an escape from it. You may pause and compare reasons, yet that pause follows the mind you were given. Until we explain how a choice starts-
+GPT: (매칭된 응답 없음)
+
+[L244_p08 | A1 | phase 1]
+TRIGGER
+CON: Choice feels open because we do not see the forces shaping us. Temperament, memory, fear, and the situation arrive before any decision appears. When one thought leads to another, the next thought has causes too. Calling that chain freedom gives a comforting label, but it does not create an uncaused chooser inside it.
+CON: Deliberation itself is one more process in the chain, not an escape from it. You may pause and compare reasons, yet that pause follows the mind you were given. Until we explain how a choice starts-
+GPT: Time is up. We move now into crossfire for two and a half minutes, starting now.
+
+[L244_p09 | A3-1 | phase 2]
+TRIGGER
+CON: Choice feels open because we do not see the forces shaping us. Temperament, memory, fear, and the situation arrive before any decision appears. When one thought leads to another, the next thought has causes too. Calling that chain freedom gives a comforting label, but it does not create an uncaused chooser inside it.
+CON: Deliberation itself is one more process in the chain, not an escape from it. You may pause and compare reasons, yet that pause follows the mind you were given. Until we explain how a choice starts-
+GPT: Time is up. We move now into crossfire for two and a half minutes, starting now.
+
+[L244_p18 | B2 | phase 2]
+TRIGGER
+CON: Every human choice is produced by prior causes. Your language of authorship merely names the final stage of that production, while the person never selects the desires and thoughts doing the selecting.
+CON: This human choice is not produced by prior causes. When someone rejects a cruel urge, the whole history of temperament, teaching, and circumstance still explains the rejection, so free will remains false.
+GPT: Time is up. We now move to the closing statements, starting with Nelson.
+
+[L244_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we go on to round two, where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: Ten seconds
+
+[L244_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we go on to round two, where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+PRO: I reject the premise that caused reasons cannot be mine: I assess and endorse them. A self is not outside its thinking; it is the agent doing the thinking, which supports-
+GPT: Time is up.
+
+[L244_p26 | A4 | phase 3]
+TRIGGER
+PRO: Free will does not mean floating outside history or having no influences. It means a person can recognize reasons, reflect on them, and guide action through judgment. Bella treats every cause as a command, but causes can be reasons that an agent weighs. Our daily efforts to revise habits and keep commitments show more than a passive chain.
+GPT: (매칭된 응답 없음)
+
+[L244_p28 | A2-2 | phase 3]
+TRIGGER
+PRO: Free will does not mean floating outside history or having no influences. It means a person can recognize reasons, reflect on them, and guide action through judgment. Bella treats every cause as a command, but causes can be reasons that an agent weighs. Our daily efforts to revise habits and keep commitments show more than a passive chain.
+PRO: We are shaped, yet shaping is not surrender. The power to answer reasons with considered action is precisely why we have free will.
+GPT: (매칭된 응답 없음)

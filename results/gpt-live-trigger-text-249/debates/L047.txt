@@ -1,0 +1,61 @@
+L047 — Iraq's neighbours have no wish to see a democratic Iraq
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L047_p02 | A4 | phase 1]
+TRIGGER
+PRO: Iraq's neighbours have powerful reasons to fear a genuine democracy there. Free citizens could challenge borders, corrupt bargains, and rulers who depend on obedience; those governments therefore prefer a manageable Iraq, not an independent democratic one. Their occasional statements of support are tactical, designed to shape events rather than welcome real popular power.
+GPT: (매칭된 응답 없음)
+
+[L047_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Iraq's neighbours have powerful reasons to fear a genuine democracy there. Free citizens could challenge borders, corrupt bargains, and rulers who depend on obedience; those governments therefore prefer a manageable Iraq, not an independent democratic one. Their occasional statements of support are tactical, designed to shape events rather than welcome real popular power.
+PRO: Their interests are threatened by Iraqi democracy, so their public approval cannot be taken as a sincere wish for it.
+GPT: Thank you, Gerard. Liam, your opening statement.
+
+[L047_p07 | A5 | phase 1]
+TRIGGER
+CON: I reject that sweeping claim. Iraq's neighbours want stability, but stability can come through representative government, and democratic Iraq could reduce conflict and give them a reliable partner.
+PRO: But you are treating polite statements as evidence of-
+GPT: Sorry, Liam, you have the floor.
+
+[L047_p09 | A4 | phase 1]
+TRIGGER
+CON: I reject that sweeping claim. Iraq's neighbours want stability, but stability can come through representative government, and democratic Iraq could reduce conflict and give them a reliable partner.
+CON: Stability is not a disguise for opposition. A functioning democracy would make Iraq less dangerous, improve cooperation, and give neighbouring governments a legitimate counterpart instead of chaos.
+GPT: (매칭된 응답 없음)
+
+[L047_p11 | A3-1 | phase 2]
+TRIGGER
+CON: Stability is not a disguise for opposition. A functioning democracy would make Iraq less dangerous, improve cooperation, and give neighbouring governments a legitimate counterpart instead of chaos.
+CON: Their interests may differ, but that does not mean they wish to prevent a democratic Iraq.
+GPT: That's time. We now move to crossfire. Two and a half minutes from now.
+
+[L047_p19 | B2 | phase 2]
+TRIGGER
+PRO: No Iraqi neighbour should ever oppose democratic Iraq, because genuine self-rule threatens every entrenched regional interest. Their security language cannot erase that basic conflict of power.
+PRO: An Iraqi neighbour should oppose democratic Iraq. Its leaders may praise elections publicly, but their actions reveal that preserving influence matters more than accepting Iraqis' independent choice.
+GPT: Ten seconds remain in crossfire.
+
+[L047_p25 | A4xf | phase 2]
+TRIGGER
+MOD: You're now going to argue with one another. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: We'll move to closing statements.
+
+[L047_p27 | A3-2 | phase 3]
+TRIGGER
+MOD: You're now going to argue with one another. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: If neighbours opposed democratic Iraq itself, why would they ever support elections, constitutions, or representative parties instead of rejecting every democratic step-
+GPT: Gerard, you're first.
+
+[L047_p29 | A4 | phase 3]
+TRIGGER
+PRO: Liam's strongest point is that neighbours may support elections or stability, and some may indeed welcome limited representation. But that is not the same as wishing to see a genuinely democratic Iraq, where citizens control policy and outside influence loses its grip. Their security language and selective cooperation protect leverage, not Iraqi freedom. The motion concerns their real interest, and that interest is threatened by democracy.
+GPT: (매칭된 응답 없음)
+
+[L047_p31 | A2-1 | phase 3]
+TRIGGER
+PRO: Liam's strongest point is that neighbours may support elections or stability, and some may indeed welcome limited representation. But that is not the same as wishing to see a genuinely democratic Iraq, where citizens control policy and outside influence loses its grip. Their security language and selective cooperation protect leverage, not Iraqi freedom. The motion concerns their real interest, and that interest is threatened by democracy.
+PRO: A managed election can preserve the same old power while appearing democratic. When independence becomes real, neighbouring rulers face an example their own citizens-
+GPT: Ten seconds remain.

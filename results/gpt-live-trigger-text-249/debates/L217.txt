@@ -1,0 +1,61 @@
+L217 — The liberal international order is over
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L217_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: The order is over because its promises no longer command obedience when pressure arrives. Rules remain on paper, but power now decides which rules matter. Annette may call that adaptation; I call it the end of an order in practice.
+GPT: Thank you. Annette, your opening statement.
+
+[L217_p05 | A4 | phase 1]
+TRIGGER
+CON: I agree that rules can be ignored, but an order is not a promise of perfect obedience. It is a shared framework that lets rivals bargain, restrain conflict, and rebuild cooperation after failure. The fact that power matters has always been true. What matters is whether states still need rules to
+CON: solve disputes without force. They do, and that continuing need is why the order has changed rather than vanished. Enrique treats every breach as a funeral notice, yet institutions still give opponents-
+GPT: (매칭된 응답 없음)
+
+[L217_p06 | A1 | phase 1]
+TRIGGER
+CON: I agree that rules can be ignored, but an order is not a promise of perfect obedience. It is a shared framework that lets rivals bargain, restrain conflict, and rebuild cooperation after failure. The fact that power matters has always been true. What matters is whether states still need rules to
+CON: solve disputes without force. They do, and that continuing need is why the order has changed rather than vanished. Enrique treats every breach as a funeral notice, yet institutions still give opponents-
+GPT: Ten seconds remain.
+
+[L217_p07 | A3-1 | phase 2]
+TRIGGER
+CON: I agree that rules can be ignored, but an order is not a promise of perfect obedience. It is a shared framework that lets rivals bargain, restrain conflict, and rebuild cooperation after failure. The fact that power matters has always been true. What matters is whether states still need rules to
+CON: solve disputes without force. They do, and that continuing need is why the order has changed rather than vanished. Enrique treats every breach as a funeral notice, yet institutions still give opponents-
+GPT: Ten seconds remain.
+
+[L217_p13 | B2 | phase 2]
+TRIGGER
+PRO: I believe this: a liberal order never survives when rules lose authority. Your ceremonies may continue, but ritual cannot restore order once members treat commitments as optional in practice now.
+PRO: This liberal order survives when rules lose authority. When members ignore a trade promise yet keep bargaining through its shared channels, the order survives as a shell, but its liberal core has ended.
+GPT: Crossfire ends here. We'll move to closing statements now, Enrique first, then Annette, thirty seconds each. Enrique, your closing statement.
+
+[L217_p17 | B1 | phase 2]
+TRIGGER
+PRO: That cooperation also depends on how new officials learn to read old agreements and trust unfamiliar counterparts. If they inherit patient mentors rather than cynical performers, the next generation will negotiate with more confidence.
+GPT: Ten seconds remain.
+
+[L217_p21 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two and in round two the debaters have a conversation, address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Time is up.
+
+[L217_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two and in round two the debaters have a conversation, address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: If the order is truly over, why do even hostile members keep-
+GPT: (매칭된 응답 없음)
+
+[L217_p26 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on whether an order is defined by its surviving paperwork or by its power to bind those who matter. Annette has shown that people still use its language, and I concede that language can linger. But when commitments become optional, the structure beneath that language has already failed, and the real question is
+PRO: whether we call that hollow survival, or recognize it as the order's end.
+GPT: (매칭된 응답 없음)
+
+[L217_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether an order is defined by its surviving paperwork or by its power to bind those who matter. Annette has shown that people still use its language, and I concede that language can linger. But when commitments become optional, the structure beneath that language has already failed, and the real question is
+PRO: whether we call that hollow survival, or recognize it as the order's end.
+GPT: Thank you.

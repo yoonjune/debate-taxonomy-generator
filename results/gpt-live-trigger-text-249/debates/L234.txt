@@ -1,0 +1,53 @@
+L234 — We should isolate Russia.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L234_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Isolation is not hatred of ordinary people; it is a refusal to make normal business excuse aggression. When access remains easy, pressure fades and leaders learn that disruption carries no real cost for their choices. We should isolate Russia to set a clear boundary.
+GPT: Thank you Hugh. Wendy, your opening statement now.
+
+[L234_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Isolation is not hatred of ordinary people; it is a refusal to make normal business excuse aggression. When access remains easy, pressure fades and leaders learn that disruption carries no real cost for their choices. We should isolate Russia to set a clear boundary.
+CON: Isolation sounds firm, but it can trap ordinary families while leaving powerful decision makers insulated. Keeping limited contact protects routes for aid, dialogue, and future change. We should reject a policy that closes every door when pressure must remain targeted.
+GPT: Thank you, Wendy. We'll now move into crossfire for two and a half minutes starting now.
+
+[L234_p10 | B1 | phase 2]
+TRIGGER
+CON: Your humanitarian exception raises another problem: students in joint art programs may lose mentors, travel plans, and shared performances. Those personal exchanges need careful permits, because young creators should not carry adults' disputes.
+GPT: (매칭된 응답 없음)
+
+[L234_p18 | A4xf | phase 2]
+TRIGGER
+MOD: Round two is where the debaters address one another in turn. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: Time is up.
+
+[L234_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: Round two is where the debaters address one another in turn. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+MOD: Ten seconds left, then we go to closings.
+GPT: Time is up. We move to closing statements, Hugh first, thirty seconds.
+
+[L234_p21 | A4 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether normal engagement restrains harmful conduct or merely cushions it. Wendy asks us to trust narrow pressure, yet narrow pressure leaves many rewards untouched and sends a mixed signal. Isolation, with protected humanitarian channels, changes the wider environment in which leaders calculate costs and choices.
+GPT: (매칭된 응답 없음)
+
+[L234_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether normal engagement restrains harmful conduct or merely cushions it. Wendy asks us to trust narrow pressure, yet narrow pressure leaves many rewards untouched and sends a mixed signal. Isolation, with protected humanitarian channels, changes the wider environment in which leaders calculate costs and choices.
+PRO: That is why firm separation, not comfortable routine, offers the clearer path toward responsible conduct.
+GPT: Thank you. Wendy, your closing statement.
+
+[L234_p25 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on who pays when broad separation is imposed. Hugh promises leverage, but leverage that reaches medicine, work, and family contact is not disciplined leverage. Real pressure should focus on people making choices, while keeping doors open for ordinary lives and future bargaining. Isolation confuses a government with everyone living under it.
+GPT: (매칭된 응답 없음)
+
+[L234_p27 | A1 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on who pays when broad separation is imposed. Hugh promises leverage, but leverage that reaches medicine, work, and family contact is not disciplined leverage. Real pressure should focus on people making choices, while keeping doors open for ordinary lives and future bargaining. Isolation confuses a government with everyone living under it.
+CON: That confusion creates resentment and weakens voices that could support change. Keep pressure targeted, keep humanitarian links open, and judge policies by the people they burden. A country facing-
+GPT: Ten seconds.

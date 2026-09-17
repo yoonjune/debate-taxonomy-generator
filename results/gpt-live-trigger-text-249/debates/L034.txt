@@ -1,0 +1,54 @@
+L034 — Trump is bad for comedy
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L034_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Trump is bad for comedy because he turns public life into repetition: the same outrage, the same insults, the same easy punchline. Comedy needs surprise and room to question power, but his spectacle overwhelms both. When one personality consumes every joke, comedy becomes narrower, not stronger.
+GPT: Kate, your opening statement.
+
+[L034_p04 | A4 | phase 1]
+TRIGGER
+CON: I disagree. Trump gives comedians a clear target, but clear targets are useful; they create shared references, sharp contrasts, and endless material. Comedy does not need a calm subject to thrive. It needs tension, absurdity, and a public figure willing to make himself ridiculous. Trump supplies all three, and audiences can laugh at power without losing their freedom to laugh elsewhere.
+GPT: (매칭된 응답 없음)
+
+[L034_p06 | A1 | phase 1]
+TRIGGER
+CON: I disagree. Trump gives comedians a clear target, but clear targets are useful; they create shared references, sharp contrasts, and endless material. Comedy does not need a calm subject to thrive. It needs tension, absurdity, and a public figure willing to make himself ridiculous. Trump supplies all three, and audiences can laugh at power without losing their freedom to laugh elsewhere.
+CON: His presence does not erase other subjects; it adds another one. If comedians choose him too often, that is a creative choice, not proof that comedy-
+GPT: (매칭된 응답 없음)
+
+[L034_p07 | A3-1 | phase 2]
+TRIGGER
+CON: I disagree. Trump gives comedians a clear target, but clear targets are useful; they create shared references, sharp contrasts, and endless material. Comedy does not need a calm subject to thrive. It needs tension, absurdity, and a public figure willing to make himself ridiculous. Trump supplies all three, and audiences can laugh at power without losing their freedom to laugh elsewhere.
+CON: His presence does not erase other subjects; it adds another one. If comedians choose him too often, that is a creative choice, not proof that comedy-
+GPT: (매칭된 응답 없음)
+
+[L034_p12 | B2 | phase 2]
+TRIGGER
+CON: No political figure should ever harm comedy. I believe even an exhausting figure can provide contrast, conflict, and material, so Trump is not bad for comedy; he keeps comic attention alive.
+CON: Trump should harm comedy. That ugliness gives comedians a target, and a target is opportunity, not a damaged art form; his effect proves comedy's resilience, not its decline.
+GPT: Thank you. The crossfire now begins, two and a half minutes starting now.
+
+[L034_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L034_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: If comedy is healthy while one subject dominates its attention, what would count as harmful at all-
+GPT: (매칭된 응답 없음)
+
+[L034_p24 | A4 | phase 3]
+TRIGGER
+PRO: Kate's best point is that Trump supplies material, and I grant that some of it is funny. But comedy is more than having a target. It needs variety, distance, and surprise, while Trump's constant spectacle pulls attention toward the same exhausted conflict. That makes the material abundant but the art narrower, which is why he is bad for comedy, because.
+GPT: (매칭된 응답 없음)
+
+[L034_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Kate's best point is that Trump supplies material, and I grant that some of it is funny. But comedy is more than having a target. It needs variety, distance, and surprise, while Trump's constant spectacle pulls attention toward the same exhausted conflict. That makes the material abundant but the art narrower, which is why he is bad for comedy, because.
+PRO: A target can feed jokes, but a culture of one target starves comedy's wider imagination.
+GPT: Kate, your closing statement.

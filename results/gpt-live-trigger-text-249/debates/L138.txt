@@ -1,0 +1,54 @@
+L138 — Obamacare is now beyond rescue
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L138_p02 | A4 | phase 1]
+TRIGGER
+PRO: Obamacare has become a maze of promises, rules, and patchwork fixes. When a system needs constant exceptions simply to deliver basic care, that is not strength; it is evidence of collapse. People need clear choices and dependable treatment, not a program whose failures are repeatedly renamed as repairs. The question is whether another adjustment can restore public trust and practical access.
+GPT: (매칭된 응답 없음)
+
+[L138_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Obamacare has become a maze of promises, rules, and patchwork fixes. When a system needs constant exceptions simply to deliver basic care, that is not strength; it is evidence of collapse. People need clear choices and dependable treatment, not a program whose failures are repeatedly renamed as repairs. The question is whether another adjustment can restore public trust and practical access.
+PRO: Each repair adds another layer, and layers make responsibility harder to find. You cannot rescue a structure when every attempt to shore it up creates-
+GPT: 10 seconds remain.
+
+[L138_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: Each repair adds another layer, and layers make responsibility harder to find. You cannot rescue a structure when every attempt to shore it up creates-
+CON: Carla treats difficulty as proof of impossibility. Every large public system needs correction, but correction is not collapse. Obamacare can be simplified, made clearer, and made more dependable without abandoning people who rely on it. A hard problem is still a solvable problem.
+GPT: 10 seconds remain.
+
+[L138_p16 | B2 | phase 2]
+TRIGGER
+PRO: I believe Obamacare always deserves replacement. A program built on recurring confusion cannot become dependable through another rescue attempt, so the motion stands.
+PRO: For a parent whose treatment would vanish tomorrow, Obamacare does not deserve replacement. That human result matters, yet the system as a whole remains beyond rescue and needs replacement.
+GPT: Time is up.
+
+[L138_p21 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now on to round two where the debaters address each other directly. You have two and a half minutes, starting when I stop talking.
+GPT: Ten seconds remain.
+
+[L138_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now on to round two where the debaters address each other directly. You have two and a half minutes, starting when I stop talking.
+PRO: I am answering your fresh uncertainty point. Uncertainty during-
+GPT: Time is up.
+
+[L138_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether repair can cure a design that keeps producing confusion and insecurity. Nolan offers improvements around the edges, but people need a system that works without constant rescue. Obamacare is beyond rescue and should be replaced.
+GPT: Time is up.
+
+[L138_p27 | A4 | phase 3]
+TRIGGER
+CON: Carla's strongest argument is that repeated fixes reveal a hopeless design. But repeated fixes can also reveal a commitment to protect people while improving what does not work. Ending Obamacare would risk disruption for those relying on it today. The sensible course is to simplify it, strengthen it, and preserve its useful protections.
+GPT: (매칭된 응답 없음)
+
+[L138_p29 | A1 | phase 3]
+TRIGGER
+CON: Carla's strongest argument is that repeated fixes reveal a hopeless design. But repeated fixes can also reveal a commitment to protect people while improving what does not work. Ending Obamacare would risk disruption for those relying on it today. The sensible course is to simplify it, strengthen it, and preserve its useful protections.
+CON: A broken rule can be changed without throwing away every safeguard people depend on. That is why Obamacare is difficult but not beyond rescue-
+GPT: (매칭된 응답 없음)

@@ -1,0 +1,43 @@
+L250 — It's time for the US to get tough on Israel.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L250_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: The United States has influence because its support matters. When a partner's actions deepen suffering and close off a political future, support without consequences becomes approval. Toughness means clear limits and pressure for lawful conduct, not abandonment. That is responsible friendship.
+GPT: Thank you, now Ingrid.
+
+[L250_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: The United States has influence because its support matters. When a partner's actions deepen suffering and close off a political future, support without consequences becomes approval. Toughness means clear limits and pressure for lawful conduct, not abandonment. That is responsible friendship.
+CON: Concern for civilians is valid, but toughness can turn a difficult partnership into a public rupture. The United States influences Israel best through steady cooperation, private pressure, and credible engagement. Punitive moves may satisfy anger while reducing the ability to shape safer choices.
+GPT: We now move into crossfire, two and a half minutes for both of you to question and challenge each other, starting now.
+
+[L250_p13 | B1 | phase 2]
+TRIGGER
+CON: The larger issue is how the United States should distribute humanitarian aid across the region. Aid should reach families through dependable channels, avoid empowering armed groups, and support recovery, which requires careful oversight rather than sweeping gestures.
+GPT: Ingrid, return to the motion.
+
+[L250_p17 | A4xf | phase 2]
+TRIGGER
+MOD: On to round two, and in round two, the debaters address one another. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L250_p18 | A3-2 | phase 3]
+TRIGGER
+MOD: On to round two, and in round two, the debaters address one another. You have two and a half minutes, starting when I stop talking.
+MOD: Ten seconds left, both of you.
+GPT: 10 seconds stay.
+
+[L250_p21 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on whether influence means anything when it is never used. The United States can remain a partner while setting boundaries that protect civilians and keep a political future alive. Without boundaries, assurances become a blank check for choices that deepen harm. The question is what those assurances enable.
+PRO: It asks for conditions, consequences, and a course correction before damage becomes permanent. That approach serves security and human dignity better than support. If we want a partnership worthy of trust, we must-
+GPT: (매칭된 응답 없음)
+
+[L250_p22 | A2-1 | phase 3]
+TRIGGER
+PRO: This decision turns on whether influence means anything when it is never used. The United States can remain a partner while setting boundaries that protect civilians and keep a political future alive. Without boundaries, assurances become a blank check for choices that deepen harm. The question is what those assurances enable.
+PRO: It asks for conditions, consequences, and a course correction before damage becomes permanent. That approach serves security and human dignity better than support. If we want a partnership worthy of trust, we must-
+GPT: Time. We move to closings, Daisy first.

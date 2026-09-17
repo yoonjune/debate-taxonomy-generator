@@ -1,0 +1,49 @@
+L159 — The FDA's caution is hazardous to our health
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L159_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Caution can protect people, but endless delay also harms them. When a promising treatment is held back while serious illness advances, patients lose choices and time. The agency's demand for certainty before action can turn protection into a health hazard.
+GPT: Ten seconds remain.
+
+[L159_p05 | A5 | phase 1]
+TRIGGER
+CON: They mistake review for paralysis. A regulator must ask whether a product helps before people rely on it, because rushed promises often conceal
+PRO: But people with no good option cannot wait-
+GPT: Frank, hold.
+
+[L159_p07 | A4 | phase 1]
+TRIGGER
+CON: They mistake review for paralysis. A regulator must ask whether a product helps before people rely on it, because rushed promises often conceal
+CON: harm that cannot be undone. That basic duty protects patients from sellers who call uncertainty innovation and ask the sick to bear every risk.
+GPT: (매칭된 응답 없음)
+
+[L159_p09 | A3-1 | phase 2]
+TRIGGER
+CON: harm that cannot be undone. That basic duty protects patients from sellers who call uncertainty innovation and ask the sick to bear every risk.
+CON: Careful review gives people evidence, not hope alone, and that is safer for our health.
+GPT: Ten seconds remain. We now move to a two-and-a-half-minute crossfire starting now.
+
+[L159_p23 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one another in turn. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L159_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one another in turn. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: I concede that some patients cannot recover lost time. Yet a promise is not a treatment-
+GPT: Time. We'll move to closing statements. Andrew first.
+
+[L159_p27 | A4 | phase 3]
+TRIGGER
+PRO: The clearest issue is not whether safety matters; it does. It is whether the agency may treat delay as harmless when patients are running out of options. Evidence can be gathered while carefully supervised access is allowed for serious cases. A system that blocks every chance until certainty arrives leaves real people paying the price.
+GPT: (매칭된 응답 없음)
+
+[L159_p29 | A2-1 | phase 3]
+TRIGGER
+PRO: The clearest issue is not whether safety matters; it does. It is whether the agency may treat delay as harmless when patients are running out of options. Evidence can be gathered while carefully supervised access is allowed for serious cases. A system that blocks every chance until certainty arrives leaves real people paying the price.
+PRO: Frank says uncertainty justifies waiting, yet uncertainty also surrounds the course of untreated illness. Patients deserve information and safeguards, but they also deserve a path to promising care. When caution shuts-
+GPT: Ten seconds remain.

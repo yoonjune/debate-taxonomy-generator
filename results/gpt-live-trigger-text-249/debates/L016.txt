@@ -1,0 +1,58 @@
+L016 — True love is a myth.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L016_p02 | A4 | phase 1]
+TRIGGER
+PRO: True love is usually sold as a forever feeling that makes one person uniquely meant for another. But feelings change, people change, and the promise survives mostly because we repeat it. I am not denying affection or loyalty. I am arguing that the flawless, permanent thing called true love is a story, not a fact.
+GPT: (매칭된 응답 없음)
+
+[L016_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: True love is usually sold as a forever feeling that makes one person uniquely meant for another. But feelings change, people change, and the promise survives mostly because we repeat it. I am not denying affection or loyalty. I am arguing that the flawless, permanent thing called true love is a story, not a fact.
+PRO: Real couples can care deeply and still discover that their supposed destiny was ordinary compatibility. We mistake powerful hope for proof, then call the disappointment tragic rather-
+GPT: Ten seconds remain.
+
+[L016_p06 | A4 | phase 1]
+TRIGGER
+CON: Ben is right that people change, but he treats change as proof that love was never true. A promise can be real without being flawless, and a relationship can survive disappointment. True love is not a magic guarantee against loss; it is a genuine bond built through choice, care, and honesty. Calling that bond a myth erases the reality people live.
+GPT: Time is up.
+
+[L016_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Ben is right that people change, but he treats change as proof that love was never true. A promise can be real without being flawless, and a relationship can survive disappointment. True love is not a magic guarantee against loss; it is a genuine bond built through choice, care, and honesty. Calling that bond a myth erases the reality people live.
+CON: If love ends, that does not make the love false. It means a real thing can be temporary, and true love remains more than a fantasy.
+GPT: Thank you. We now move into a two-and-a-half minute crossfire starting now.
+
+[L016_p13 | B2 | phase 2]
+TRIGGER
+PRO: I believe true love never lasts forever. If your bond depends on permanence, how can its ending prove it was true rather than merely intense?
+PRO: This true love lasts forever. You cannot call an enduring feeling proof of a special essence when the same devotion can be explained by memory, habit, or hope.
+GPT: Ben, you have said that true love never lasts forever, and you have also said that true love lasts forever. Those cannot both be true. Please reconcile that.
+
+[L016_p17 | B1 | phase 2]
+TRIGGER
+PRO: That choice also creates practical disputes: whose name goes on the lease, who keeps the furniture, and how the savings are divided when plans change? I trust written agreements more than romantic promises.
+GPT: Ten seconds remain.
+
+[L016_p23 | A4xf | phase 2]
+TRIGGER
+MOD: So, we move on to round two. And Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L016_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: So, we move on to round two. And Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: You answer steady care by renaming it kindness, but that is the very point at issue. A different label-
+GPT: Time is up.
+
+[L016_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: True love may describe tenderness, loyalty, and sacrifice, but those qualities do not require a mythical force. They arise from ordinary people, changing circumstances, and stories we tell ourselves. The ideal is beautiful, but beauty is not proof.
+GPT: Thank you. Alice, your closing 30 seconds.
+
+[L016_p29 | A4 | phase 3]
+TRIGGER
+CON: Ben has shown that love is not always permanent, but permanence was never my test. True love means that care, trust, and commitment are genuinely felt and freely given. When people stand by each other through hardship, the bond is real even if life later changes. Calling every such bond a myth mistakes imperfection for unreality.
+GPT: (매칭된 응답 없음)

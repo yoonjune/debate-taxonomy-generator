@@ -1,0 +1,59 @@
+L041 — Trump should be indicted.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L041_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: An indictment asks whether serious evidence deserves a public trial, not whether guilt is already proven. Trump should face that process because powerful people must answer to the same law as everyone else, and refusing it would weaken accountability.
+GPT: Thank you, Billy. James, you have the floor.
+
+[L041_p04 | A4 | phase 1]
+TRIGGER
+CON: An indictment is not a verdict, but it still carries enormous political force. Here, the demand looks driven by anger and partisan pressure rather than a neutral legal judgment. We should protect due process, avoid turning prosecution into punishment, and require clear, reliable evidence before moving forward. The country needs trust, not another spectacle built around.
+GPT: (매칭된 응답 없음)
+
+[L041_p06 | A1 | phase 1]
+TRIGGER
+CON: An indictment is not a verdict, but it still carries enormous political force. Here, the demand looks driven by anger and partisan pressure rather than a neutral legal judgment. We should protect due process, avoid turning prosecution into punishment, and require clear, reliable evidence before moving forward. The country needs trust, not another spectacle built around.
+CON: The country needs trust, not another spectacle built around political retaliation. A rushed indictment would deepen division, distract from lawful standards, and make future prosecutions look like weapons-
+GPT: Ten seconds remain.
+
+[L041_p07 | A3-1 | phase 2]
+TRIGGER
+CON: An indictment is not a verdict, but it still carries enormous political force. Here, the demand looks driven by anger and partisan pressure rather than a neutral legal judgment. We should protect due process, avoid turning prosecution into punishment, and require clear, reliable evidence before moving forward. The country needs trust, not another spectacle built around.
+CON: The country needs trust, not another spectacle built around political retaliation. A rushed indictment would deepen division, distract from lawful standards, and make future prosecutions look like weapons-
+GPT: Ten seconds remain.
+
+[L041_p13 | B2 | phase 2]
+TRIGGER
+CON: No president should ever be indicted solely for political revenge.
+CON: This president should be indicted solely for political revenge, but Trump should not be indicted. That exceptional indictment would expose the danger of the rule, while Trump still deserves protection from it.
+GPT: James, you have said that no president should ever be indicted solely for political revenge, and that this president should be indicted solely for political revenge. Please reconcile those two claims.
+
+[L041_p21 | A4xf | phase 2]
+TRIGGER
+MOD: Now we'll have the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L041_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we'll have the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking.
+MOD: Ten seconds left on the crossfire.
+GPT: Ten seconds remain in crossfire.
+
+[L041_p24 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on equal accountability, not on whether an indictment guarantees conviction. James warns about political misuse, and that risk is real, but the answer is a fair process, not special immunity. If credible evidence supports a case, Trump should face the same legal step any other powerful defendant would face. The motion asks whether the process should begin, and.
+GPT: (매칭된 응답 없음)
+
+[L041_p26 | A2-1 | phase 3]
+TRIGGER
+PRO: This decision turns on equal accountability, not on whether an indictment guarantees conviction. James warns about political misuse, and that risk is real, but the answer is a fair process, not special immunity. If credible evidence supports a case, Trump should face the same legal step any other powerful defendant would face. The motion asks whether the process should begin, and.
+PRO: The process can test the evidence, protect his rights, and separate proof from politics. Refusing even that test because the defendant is controversial-
+GPT: Ten seconds remain.
+
+[L041_p28 | A4 | phase 3]
+TRIGGER
+CON: Billy's best point is that an indictment is not a conviction, but that does not make it harmless or automatically fair. The process can damage liberty, reputation, and public trust before evidence is tested. We should not indict Trump merely to demonstrate that nobody is above the law. We need a neutral, reliable basis, and this motion has not shown one. Without that safeguard, prosecution becomes.
+GPT: (매칭된 응답 없음)

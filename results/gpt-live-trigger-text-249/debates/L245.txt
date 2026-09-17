@@ -1,0 +1,54 @@
+L245 — Policing is racially biased.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L245_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Policing can look neutral on paper while suspicion falls differently in practice. When an officer reads the same ordinary behavior as threatening because of race, discretion becomes unequal power for the people it serves. Those recurring judgments mean policing is racially biased.
+GPT: Emma, your opening statement.
+
+[L245_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Policing can look neutral on paper while suspicion falls differently in practice. When an officer reads the same ordinary behavior as threatening because of race, discretion becomes unequal power for the people it serves. Those recurring judgments mean policing is racially biased.
+CON: Bias by an individual officer is wrong, but it does not prove policing itself is racially biased. Rules, training, supervision, and evidence can restrain personal prejudice. We should judge policing by conduct in each encounter, so this sweeping motion is false.
+GPT: Thank you. Crossfire now begins and runs for two and a half minutes. Evan and Emma, you may question and interrupt each other.
+
+[L245_p14 | B2 | phase 2]
+TRIGGER
+CON: Every person should receive the same police response. That principle rejects racial sorting and demands decisions grounded in conduct, not identity. Because fair policing aims at that equal response, isolated failures cannot establish that policing itself is racially biased.
+CON: It cannot, because your wording strips my principle of its meaning. This threatening person should not receive the same police response. An officer may restrain danger while treating race as irrelevant, so the motion is still false.
+GPT: (매칭된 응답 없음)
+
+[L245_p16 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. So now on to round two. They address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: Time up
+
+[L245_p18 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. So now on to round two. They address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+PRO: Picture two neighbors walking home with identical bags and identical calm behavior-
+GPT: Evan, your closing statement. Picture two neighbors walking home with identical bags and identical calm behavior. One is stopped and questioned; the other waves through. That difference changes how safe each feels. Repeated, it becomes a pattern that shapes lives. That is why the motion is true. Thank you, Emma, your closing statement.
+
+[L245_p20 | A4 | phase 3]
+TRIGGER
+PRO: Emma's best point is that officers must respond to conduct and danger, and I agree. But that necessity does not erase the choices made before danger is established: whom to watch, stop, question, or search. When race influences those choices, neutral language cannot cure the unequal burden. Policing must be judged in practice.
+GPT: (매칭된 응답 없음)
+
+[L245_p22 | A2-2 | phase 3]
+TRIGGER
+PRO: Emma's best point is that officers must respond to conduct and danger, and I agree. But that necessity does not erase the choices made before danger is established: whom to watch, stop, question, or search. When race influences those choices, neutral language cannot cure the unequal burden. Policing must be judged in practice.
+PRO: That is why the motion names a real problem we cannot responsibly ignore today, here.
+GPT: (매칭된 응답 없음)
+
+[L245_p24 | A4 | phase 3]
+TRIGGER
+CON: Evan's strongest argument is that early discretionary choices can burden people unequally. But an unequal burden is not proof that race caused the choice; facts, calls, and behavior matter. We should expose individual misconduct and demand fair procedures. Calling all policing racially biased replaces careful judgment with a sweeping verdict, and that is why the motion is false.
+GPT: (매칭된 응답 없음)
+
+[L245_p26 | A1 | phase 3]
+TRIGGER
+CON: Evan's strongest argument is that early discretionary choices can burden people unequally. But an unequal burden is not proof that race caused the choice; facts, calls, and behavior matter. We should expose individual misconduct and demand fair procedures. Calling all policing racially biased replaces careful judgment with a sweeping verdict, and that is why the motion is false.
+CON: The other side asks you to infer a system from troubling moments, but inference is not proof. Fair rules can improve without condemning every officer. We need accountability for wrongdoing, and a-
+GPT: Thank you. Time is up, and that concludes our debate.

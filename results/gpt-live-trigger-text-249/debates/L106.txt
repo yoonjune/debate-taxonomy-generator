@@ -1,0 +1,48 @@
+L106 — It is better to have more domestic surveillance than to have another 9/11.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L106_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Preventing mass violence is a government's first duty. More domestic surveillance, limited to finding credible threats and checked by courts, can reveal preparation before people die. Privacy matters, but after another attack, lost lives cannot be restored; careful surveillance is the better choice.
+GPT: Thank you. Carissa, you have the floor.
+
+[L106_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Preventing mass violence is a government's first duty. More domestic surveillance, limited to finding credible threats and checked by courts, can reveal preparation before people die. Privacy matters, but after another attack, lost lives cannot be restored; careful surveillance is the better choice.
+CON: The choice is false because surveillance can grow without stopping violence. Giving the state more access makes ordinary people suspects and creates power that will be misused. Security works best through focused investigation, not permanent watching of everyone.
+GPT: Thank you. We'll move into crossfire now. Two and a half minutes, from this moment. Go ahead.
+
+[L106_p07 | B1 | phase 2]
+TRIGGER
+PRO: You call oversight late, but oversight depends on actual records: who approved access, who reviewed it, and who stored it. That means training staff, securing offices, classifying documents, and building public trust in administration.
+GPT: (매칭된 응답 없음)
+
+[L106_p12 | B2 | phase 2]
+TRIGGER
+CON: No resident should ever be watched without cause. Broad surveillance starts by collecting information before suspicion exists, so it reverses the basic duty to treat people as free unless evidence points otherwise.
+CON: This resident should be watched without cause. The alternative is not mass collection but investigators following conduct they can explain openly, which protects safety without making surveillance the default.
+GPT: Those two claims can't both stand. You said no resident should be watched without cause, then that this resident should be watched without cause. Can you reconcile that?
+
+[L106_p18 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L106_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+PRO: Will you answer this: if investigators see separate warning signs that form-
+GPT: (매칭된 응답 없음)
+
+[L106_p22 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on what we owe people when a preventable catastrophe is forming. Carissa rightly fears unchecked power, but that is an argument for warrants, review, limits, and deletion, not blindness. A narrowly supervised system can connect warning signs before violence begins. The real choice is between accountable prevention and discovering too late that lives could have been saved.
+GPT: (매칭된 응답 없음)
+
+[L106_p24 | A2-1 | phase 3]
+TRIGGER
+PRO: This decision turns on what we owe people when a preventable catastrophe is forming. Carissa rightly fears unchecked power, but that is an argument for warrants, review, limits, and deletion, not blindness. A narrowly supervised system can connect warning signs before violence begins. The real choice is between accountable prevention and discovering too late that lives could have been saved.
+PRO: Privacy deserves protection, and every surveillance power must face clear boundaries. Yet boundaries do not erase the need to detect coordinated danger. When the evidence is scattered, refusing-
+GPT: Time is up. We'll move to closings. Gavin first, thirty seconds.

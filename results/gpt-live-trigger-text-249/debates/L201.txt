@@ -1,0 +1,48 @@
+L201 — NATO should admit Ukraine.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L201_p02 | A4 | phase 1]
+TRIGGER
+PRO: Ukraine faces a threat that cannot be managed by vague promises alone. Admission would place its security inside a clear shared commitment, making aggression a harder choice. It would also show that membership is earned by defending common principles. Henry, if delay keeps danger low, why has delay produced so much uncertainty?
+GPT: (매칭된 응답 없음)
+
+[L201_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Ukraine faces a threat that cannot be managed by vague promises alone. Admission would place its security inside a clear shared commitment, making aggression a harder choice. It would also show that membership is earned by defending common principles. Henry, if delay keeps danger low, why has delay produced so much uncertainty?
+PRO: Waiting invites the belief that threats can dictate who belongs. A guarded doorstep is not stability; it is an invitation to test resolve. The question is whether this alliance protects partners-
+GPT: Ten seconds left, Kara.
+
+[L201_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: Waiting invites the belief that threats can dictate who belongs. A guarded doorstep is not stability; it is an invitation to test resolve. The question is whether this alliance protects partners-
+CON: The premise is wrong: uncertainty comes from the conflict, not from refusing membership. Admission would turn a regional war into a direct alliance obligation and narrow room for restraint. Real support can help Ukraine defend itself without committing every member to fight whenever escalation is chosen by another power.
+GPT: Ten seconds remain.
+
+[L201_p16 | B1 | phase 2]
+TRIGGER
+CON: The urgent question is how weapons, training, and repair support can help Ukraine defend civilians without emptying other members' reserves. Those supplies need careful limits and steady planning, not rushed promises about deliveries.
+GPT: Ten seconds remain in crossfire.
+
+[L201_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L201_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+PRO: I reject your trap: admission deters-
+GPT: (매칭된 응답 없음)
+
+[L201_p24 | A4 | phase 3]
+TRIGGER
+PRO: This choice turns on whether security is best protected by a clear commitment or by a permanent gray zone. Henry asks us to fear that membership provokes danger, yet hesitation already lets coercion shape the map. Admission does not erase difficult decisions, but it makes the alliance's boundary understandable. The real choice is what message delay sends when pressure rises.
+GPT: (매칭된 응답 없음)
+
+[L201_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: This choice turns on whether security is best protected by a clear commitment or by a permanent gray zone. Henry asks us to fear that membership provokes danger, yet hesitation already lets coercion shape the map. Admission does not erase difficult decisions, but it makes the alliance's boundary understandable. The real choice is what message delay sends when pressure rises.
+PRO: Delay says force can control membership. NATO should admit Ukraine, make deterrence credible, and defend the principle that partners facing pressure are not abandoned.
+GPT: (매칭된 응답 없음)

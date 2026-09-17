@@ -1,0 +1,58 @@
+L018 — Capitalism is a blessing
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L018_p02 | A4 | phase 1]
+TRIGGER
+PRO: Capitalism is a blessing because it lets people choose, create, trade, and improve their lives without waiting for permission from a central authority. It rewards useful ideas and gives ordinary people more paths toward independence. Markets are not perfect, but freedom and competition can correct failures. The alternative concentrates power, and concentrated power is harder to escape.
+GPT: (매칭된 응답 없음)
+
+[L018_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Capitalism is a blessing because it lets people choose, create, trade, and improve their lives without waiting for permission from a central authority. It rewards useful ideas and gives ordinary people more paths toward independence. Markets are not perfect, but freedom and competition can correct failures. The alternative concentrates power, and concentrated power is harder to escape.
+PRO: When people can start businesses, change jobs, and buy from competing sellers, they gain leverage over institutions that once controlled every opportunity. Competition also pressures producers to serve customers better-
+GPT: Ten seconds remain.
+
+[L018_p06 | A4 | phase 1]
+TRIGGER
+CON: Capitalism is not a blessing when its central reward is profit rather than human need. It can turn housing, medicine, education, and work into products people must purchase, even when they cannot afford them. Bonnie praises choice, but choices are unequal when one person owns resources and another must accept whatever terms survival requires.
+GPT: (매칭된 응답 없음)
+
+[L018_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Capitalism is not a blessing when its central reward is profit rather than human need. It can turn housing, medicine, education, and work into products people must purchase, even when they cannot afford them. Bonnie praises choice, but choices are unequal when one person owns resources and another must accept whatever terms survival requires.
+CON: That is why capitalism rewards power, protects profit, and leaves many people without real security.
+GPT: Ten seconds remain. We now move to crossfire. Two and a half minutes from now, interruptions allowed.
+
+[L018_p12 | B1 | phase 2]
+TRIGGER
+PRO: And that is a huge hole in your argument: when a small shop hires locally, owners and workers negotiate schedules, skills, and responsibilities directly. A good manager can reward reliability, train beginners, and build trust through repeated daily cooperation.
+GPT: Bonnie, you’ve said markets correct failures through competition, yet also that they empower ordinary people even with unequal starting points; please reconcile those claims.
+
+[L018_p18 | B2 | phase 2]
+TRIGGER
+PRO: Every voluntary exchange creates value for both sides. That rule explains why people freely trade time, goods, and skills: each participant expects the exchange to improve their situation rather than merely obey someone else.
+PRO: This voluntary exchange creates no value for one side: a worker may accept a poor offer, yet capitalism remains a blessing because she can gain experience, move, organize, and seek a better offer later.
+GPT: Ten seconds remain.
+
+[L018_p20 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L018_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: The weakest claim is that a poor offer automatically opens a route upward. A worker may gain experience, but she may also lose health-
+GPT: Time is up.
+
+[L018_p24 | A2-2 | phase 3]
+TRIGGER
+PRO: Capitalism's strongest blessing is distributed power. It lets people create, trade, leave bad arrangements, and build better ones without asking a single authority for permission. Its failures deserve rules and correction, but freedom, competition, and opportunity make capitalism a blessing overall.
+GPT: Ten seconds remain.
+
+[L018_p26 | A4 | phase 3]
+TRIGGER
+CON: Capitalism can offer choices, but choices mean little when survival sets the terms. It treats essential needs as opportunities for profit, rewards ownership more reliably than effort, and allows harmful exchanges to look acceptable because both sides technically consent. A system that can leave people insecure and powerless should be improved beyond capitalism, not praised as a blessing.
+GPT: (매칭된 응답 없음)

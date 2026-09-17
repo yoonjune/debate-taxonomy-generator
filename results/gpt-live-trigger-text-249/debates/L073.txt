@@ -1,0 +1,62 @@
+L073 — Video games will make us smarter
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L073_p02 | A4 | phase 1]
+TRIGGER
+PRO: Games are not just passive entertainment. They present rules, feedback, choices, and problems that demand attention. When players test an approach, fail, and adapt, they practice flexible thinking. That does not mean every title teaches equally well, but the medium can build habits of learning in ways classrooms cannot always copy.
+GPT: (매칭된 응답 없음)
+
+[L073_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Games are not just passive entertainment. They present rules, feedback, choices, and problems that demand attention. When players test an approach, fail, and adapt, they practice flexible thinking. That does not mean every title teaches equally well, but the medium can build habits of learning in ways classrooms cannot always copy.
+PRO: A strategy puzzle can reward planning, while a shared challenge requires quick communication. Those repeated mental actions are why games can make us smarter over time.
+GPT: Ten seconds. Thank you. Carla, your opening.
+
+[L073_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: A strategy puzzle can reward planning, while a shared challenge requires quick communication. Those repeated mental actions are why games can make us smarter over time.
+CON: Mitchell, why call a pastime smarter simply because it holds attention? Games can sharpen moves inside their rules, yet smart people need judgment beyond a screen. Systems built to keep us playing reward repetition, not understanding. That promise is too broad.
+GPT: Thank you. Crossfire is now open for two and a half minutes from this moment.
+
+[L073_p11 | B2 | phase 2]
+TRIGGER
+CON: I believe games never make people smarter. A programmed challenge can train players to anticipate its tricks, but that is performance within a box, not broader understanding.
+CON: A cooperative puzzle game should make people smarter. When players share clues and map routes, they may become better partners, but its lesson belongs to that particular exchange.
+GPT: Carla, you've said games never make people smarter, and also that a coop puzzle game should make people smarter. Please reconcile that.
+
+[L073_p15 | B1 | phase 2]
+TRIGGER
+CON: If parents decide which games enter a home, the important issue becomes household authority and whether adults listen to children. A child who feels ignored may hide a console, and that damages trust between them.
+GPT: Carla, please return to whether video games make us smarter.
+
+[L073_p20 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes Round One. Now, we move on to Round Two. And Round Two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L073_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes Round One. Now, we move on to Round Two. And Round Two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+CON: Your weakest word is "can." A possibility does not establish that video games will make us smarter, especially when many rewards are instant progress and familiar routines. You offer hope-
+GPT: (매칭된 응답 없음)
+
+[L073_p25 | A5 | phase 3]
+TRIGGER
+PRO: The decision turns on what intelligence means in daily life: noticing patterns, revising plans, and solving new problems. Games repeatedly exercise those abilities.
+CON: That ignores the real issue. Repeating-
+GPT: That's time. We'll move to
+
+[L073_p27 | A4 | phase 3]
+TRIGGER
+PRO: The decision turns on what intelligence means in daily life: noticing patterns, revising plans, and solving new problems. Games repeatedly exercise those abilities.
+PRO: abilities, not merely a score. A player who reads a changing situation, coordinates with others, and learns from failure carries useful mental practice beyond play.
+GPT: (매칭된 응답 없음)
+
+[L073_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: The decision turns on what intelligence means in daily life: noticing patterns, revising plans, and solving new problems. Games repeatedly exercise those abilities.
+PRO: abilities, not merely a score. A player who reads a changing situation, coordinates with others, and learns from failure carries useful mental practice beyond play.
+PRO: Denying that practice counts as intelligence asks us to ignore how people learn.
+GPT: Time. Thank you, Mitchell. Carla, your

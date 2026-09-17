@@ -1,0 +1,52 @@
+L172 — Happiness is doing good rather than feeling good.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L172_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Happiness cannot be reduced to a pleasant sensation. A person who comforts a stranger, keeps a hard promise, or builds something useful gains deeper fulfillment because life reaches beyond the self. Feeling good may follow, but doing good is what makes happiness worth having.
+GPT: Thank you. Billy, your opening.
+
+[L172_p04 | A4 | phase 1]
+TRIGGER
+CON: The other side gives noble actions all the credit for a state that exists inside a person. Doing good can be exhausting, unwanted, or resented; it does not automatically produce happiness. What matters is whether someone experiences joy, peace, or satisfaction, because those feelings are the thing we call happiness. We should not confuse a cause with happiness itself.
+GPT: (매칭된 응답 없음)
+
+[L172_p06 | A1 | phase 1]
+TRIGGER
+CON: The other side gives noble actions all the credit for a state that exists inside a person. Doing good can be exhausting, unwanted, or resented; it does not automatically produce happiness. What matters is whether someone experiences joy, peace, or satisfaction, because those feelings are the thing we call happiness. We should not confuse a cause with happiness itself.
+CON: People can feel happy after rest, play, friendship, or quiet reflection without performing service. Good acts may be one path, but treating them as the definition judges people by-
+GPT: Ten seconds remain.
+
+[L172_p07 | A3-1 | phase 2]
+TRIGGER
+CON: The other side gives noble actions all the credit for a state that exists inside a person. Doing good can be exhausting, unwanted, or resented; it does not automatically produce happiness. What matters is whether someone experiences joy, peace, or satisfaction, because those feelings are the thing we call happiness. We should not confuse a cause with happiness itself.
+CON: People can feel happy after rest, play, friendship, or quiet reflection without performing service. Good acts may be one path, but treating them as the definition judges people by-
+GPT: Ten seconds remain.
+
+[L172_p14 | B1 | phase 2]
+TRIGGER
+PRO: Consider a volunteer sorting donated coats: she checks sizes, labels boxes, finds a missing glove, and stays late. The real issue is whether those coats reach children before cold weather.
+GPT: Jonas, please return to the motion: whether happiness is doing good rather than feeling good.
+
+[L172_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L172_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: I reject that happiness is empty without moral service; people can cherish love, beauty, rest, and play without serving anyone-
+GPT: Time. Closings now. Jonas.
+
+[L172_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Feeling good is valuable, but it can be shallow, selfish, and brief. Doing good gives happiness a direction beyond appetite: it meets real needs and lets people see themselves as contributors. Choose the account of happiness that makes a flourishing life, not just a pleasant moment.
+GPT: Thank you. Billy, your closing.
+
+[L172_p28 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on a distinction: an action is what you do, while happiness is what you experience. Good deeds can bring meaning and joy, and I welcome them, but they cannot replace the state itself; a tired helper may be unhappy, while a child may be happy. There is one final test.
+GPT: (매칭된 응답 없음)

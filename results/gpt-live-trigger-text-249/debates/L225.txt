@@ -1,0 +1,48 @@
+L225 — Repeal Obamacare
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L225_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Repeal is not abandoning people; it is ending a rigid federal mandate that narrows choices. Families need coverage they can understand, doctors they can reach, and plans shaped around their needs. We can protect people with illness without preserving a law that raises costs and traps choices.
+GPT: Ten seconds remain. Thank you Walter. Rima, your opening statement.
+
+[L225_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Repeal is not abandoning people; it is ending a rigid federal mandate that narrows choices. Families need coverage they can understand, doctors they can reach, and plans shaped around their needs. We can protect people with illness without preserving a law that raises costs and traps choices.
+CON: Repeal would rip away a basic promise: people can seek coverage even when they need care most. This law is imperfect, and it can be improved. But tearing it down risks confusion, higher bills, and lost protections for families who cannot afford a gap.
+GPT: Ten seconds remain. Thank you. We now move to crossfire, two and a half minutes from this moment. You may question and interrupt each other.
+
+[L225_p09 | B2 | phase 2]
+TRIGGER
+CON: No person should ever be forced to lose coverage. The safeguard is public accountability: people can challenge harmful changes, while repeal removes the floor altogether and leaves families exposed to whatever replacement arrives.
+CON: This person should be forced to lose coverage. Keeping a harmful arrangement in place is not compassion; the law should help someone move toward better care, and that is a reason to improve it, not repeal it.
+GPT: Rima, you've said no one should lose coverage, and that this person should be forced to lose coverage. Please reconcile that.
+
+[L225_p12 | B1 | phase 2]
+TRIGGER
+PRO: Your distinction depends on who reviews each disputed plan, what forms they require, and how long a clinic waits for approval. The real struggle is training call-center workers, revising notices, and sorting enrollment files.
+GPT: Ten seconds remain in crossfire.
+
+[L225_p16 | A4xf | phase 2]
+TRIGGER
+MOD: So, in round two, the debaters direct questions to one another. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L225_p18 | A3-2 | phase 3]
+TRIGGER
+MOD: So, in round two, the debaters direct questions to one another. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: Keeping the law helps because its protections give that family a place to start, rather than nothing. Your costly-plan example shows-
+GPT: Time is up. We'll move to closing statements, Walter first, thirty seconds.
+
+[L225_p20 | A4 | phase 3]
+TRIGGER
+PRO: The central failure is not that every rule is bad; it is that this law leaves families with expensive, narrow choices and calls them secure. My example of the parent without a usable doctor shows the human cost. Reform can protect people with illness without preserving this structure. Repeal clears room for coverage that families can actually use.
+GPT: (매칭된 응답 없음)
+
+[L225_p22 | A2-1 | phase 3]
+TRIGGER
+PRO: The central failure is not that every rule is bad; it is that this law leaves families with expensive, narrow choices and calls them secure. My example of the parent without a usable doctor shows the human cost. Reform can protect people with illness without preserving this structure. Repeal clears room for coverage that families can actually use.
+PRO: Those choices matter to families. Communities can build plans around local doctors rather than one rigid design, and care should be reachable and affordable. Repeal is not a-
+GPT: Time. Rima, your closing statement.

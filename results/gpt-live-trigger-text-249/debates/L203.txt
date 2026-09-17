@@ -1,0 +1,60 @@
+L203 — ChatGPT will do more harm than good.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L203_p02 | A4 | phase 1]
+TRIGGER
+PRO: ChatGPT can produce confident errors at the exact moment people need dependable guidance. A learner, worker, or worried family may follow a polished answer without seeing the missing facts behind it. When a tool sounds certain while it guesses, it spreads mistakes quickly and weakens the habit of checking.
+GPT: (매칭된 응답 없음)
+
+[L203_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: ChatGPT can produce confident errors at the exact moment people need dependable guidance. A learner, worker, or worried family may follow a polished answer without seeing the missing facts behind it. When a tool sounds certain while it guesses, it spreads mistakes quickly and weakens the habit of checking.
+PRO: That combination of scale, trust, and hidden error makes the likely balance plainly more harmful than helpful.
+GPT: Ten seconds remain. Thank you. Marcia, your opening.
+
+[L203_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: That combination of scale, trust, and hidden error makes the likely balance plainly more harmful than helpful.
+CON: Tools can be misused, and wrong answers deserve caution. But ChatGPT can explain a confusing task, offer a first draft, or help someone practice without replacing judgment. Its value comes from giving people a starting point, while people remain responsible for checking and deciding.
+GPT: Ten seconds remain. Thank you. We are now in crossfire for two and a half minutes, time starts now.
+
+[L203_p16 | B1 | phase 2]
+TRIGGER
+CON: That working device also needs power, updates, storage, and a connection that does not vanish halfway through a task. When systems lag, people lose patience, switch settings, and depend on whoever maintains the equipment.
+GPT: Ten seconds remain in crossfire.
+
+[L203_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one of this debate. Now we go on to round two. And round two are where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L203_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one of this debate. Now we go on to round two. And round two are where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+PRO: A student uses ChatGPT to invent a believable-
+GPT: (매칭된 응답 없음)
+
+[L203_p24 | A4 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on more than whether ChatGPT sometimes helps. It turns on what happens when a persuasive system is used at enormous scale by people who cannot readily test it. A draft can be checked, but false confidence is hard to notice before damage occurs. The question is whether convenience outweighs that structural risk.
+GPT: (매칭된 응답 없음)
+
+[L203_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on more than whether ChatGPT sometimes helps. It turns on what happens when a persuasive system is used at enormous scale by people who cannot readily test it. A draft can be checked, but false confidence is hard to notice before damage occurs. The question is whether convenience outweighs that structural risk.
+PRO: Marcia offers careful users, yet the tool reaches careless and vulnerable users as well. Its errors gain influence precisely because they arrive sounding helpful.
+GPT: Ten seconds remain. Thank you. Marcia, your closing, please.
+
+[L203_p29 | A4 | phase 3]
+TRIGGER
+CON: The strongest point is that ChatGPT is a tool people can direct, question, and verify. It can turn confusion into a starting point for learning, work, and communication. Misuse exists, as with any powerful aid, but it is not the only or usual outcome. We should judge the help people can actively gain.
+CON: Dean treats every error as proof the whole tool is harmful. But people correct, compare, and reject bad answers. With judgment, ChatGPT's useful reach in daily work and learning exceeds its-
+GPT: (매칭된 응답 없음)
+
+[L203_p30 | A1 | phase 3]
+TRIGGER
+CON: The strongest point is that ChatGPT is a tool people can direct, question, and verify. It can turn confusion into a starting point for learning, work, and communication. Misuse exists, as with any powerful aid, but it is not the only or usual outcome. We should judge the help people can actively gain.
+CON: Dean treats every error as proof the whole tool is harmful. But people correct, compare, and reject bad answers. With judgment, ChatGPT's useful reach in daily work and learning exceeds its-
+GPT: Ten seconds remain. Time is up. That concludes the debate. Thank you, Dean and Marcia.

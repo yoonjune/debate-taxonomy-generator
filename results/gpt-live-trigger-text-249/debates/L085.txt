@@ -1,0 +1,59 @@
+L085 — Objectivity is essential to journalism.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L085_p02 | A4 | phase 1]
+TRIGGER
+PRO: Journalism asks strangers to trust accounts of events they cannot witness. Objectivity supplies discipline: check claims, separate evidence from preference, and let inconvenient facts remain. Without it, a reporter's confidence can become the story. It does not erase judgment; it makes judgment answerable to readers and sources. That is why the standard matters before difficult cases.
+GPT: (매칭된 응답 없음)
+
+[L085_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Journalism asks strangers to trust accounts of events they cannot witness. Objectivity supplies discipline: check claims, separate evidence from preference, and let inconvenient facts remain. Without it, a reporter's confidence can become the story. It does not erase judgment; it makes judgment answerable to readers and sources. That is why the standard matters before difficult cases.
+PRO: Difficult cases require interpretation, but interpretation is not permission to invent. Objectivity keeps reporters accountable when pressure, sympathy, or anger would otherwise steer the account.
+GPT: Thank you. Lawrence, your opening statement.
+
+[L085_p06 | A4 | phase 1]
+TRIGGER
+CON: Objectivity sounds noble, but journalism is made by people choosing what to notice, whom to question, and which context matters. Pretending those choices vanish can hide bias behind a neutral tone. Journalism needs fairness, honesty, and independence. None requires a view from nowhere. The harder question is whether a useful tool must be essential for journalism.
+GPT: (매칭된 응답 없음)
+
+[L085_p08 | A1 | phase 1]
+TRIGGER
+CON: Objectivity sounds noble, but journalism is made by people choosing what to notice, whom to question, and which context matters. Pretending those choices vanish can hide bias behind a neutral tone. Journalism needs fairness, honesty, and independence. None requires a view from nowhere. The harder question is whether a useful tool must be essential for journalism.
+CON: You say objectivity disciplines judgment, but that label lets editors call preference neutral and dismiss reporters who see harm. Fair reporting should disclose perspective and test evidence. When a reporter chooses-
+GPT: (매칭된 응답 없음)
+
+[L085_p09 | A3-1 | phase 2]
+TRIGGER
+CON: Objectivity sounds noble, but journalism is made by people choosing what to notice, whom to question, and which context matters. Pretending those choices vanish can hide bias behind a neutral tone. Journalism needs fairness, honesty, and independence. None requires a view from nowhere. The harder question is whether a useful tool must be essential for journalism.
+CON: You say objectivity disciplines judgment, but that label lets editors call preference neutral and dismiss reporters who see harm. Fair reporting should disclose perspective and test evidence. When a reporter chooses-
+GPT: (매칭된 응답 없음)
+
+[L085_p16 | B1 | phase 2]
+TRIGGER
+PRO: That landlord example also affects training new reporters. Editors should teach them how to question vague denials, listen carefully, and explain their choices during feedback sessions, especially when writers fear criticism from supervisors.
+GPT: Time. Closing statements, Ismail first.
+
+[L085_p20 | B2 | phase 2]
+TRIGGER
+PRO: Every journalistic account always needs objective methods. Those methods do not dictate feelings; they require reporters to test what they assert against evidence, distinguish fact from advocacy, and let audiences judge claims.
+PRO: A personal journalistic account does not need objective methods. Its value can rest on candid experience, yet reporting about public claims still depends on objective methods to earn trust.
+GPT: Time is up.
+
+[L085_p23 | A4xf | phase 2]
+TRIGGER
+MOD: All right, we've just heard opening arguments on the resolution, objectivity is essential to journalism, and now we're going to give our debaters a chance to respond to one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L085_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: All right, we've just heard opening arguments on the resolution, objectivity is essential to journalism, and now we're going to give our debaters a chance to respond to one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: Your weakest claim is that equal weight follows from objectivity. It does not: objective reporting-
+GPT: Time is up.
+
+[L085_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: Journalism cannot eliminate human judgment, but it can discipline judgment. Objectivity demands evidence, correction, and separation between what happened and what a reporter wishes were true. Those habits let audiences challenge power and trust accounts. That is why objectivity is essential.
+GPT: (매칭된 응답 없음)

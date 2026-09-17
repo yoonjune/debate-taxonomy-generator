@@ -1,0 +1,54 @@
+L104 — Taiwan is indefensible.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L104_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Taiwan may resist, but resistance is not the same as being defensible. A stronger attacker can isolate it, disrupt supplies, and dictate the timing of any fight. When survival depends on outside rescue arriving under pressure, its defense is fundamentally insecure.
+GPT: Ten seconds remain.
+
+[L104_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Taiwan may resist, but resistance is not the same as being defensible. A stronger attacker can isolate it, disrupt supplies, and dictate the timing of any fight. When survival depends on outside rescue arriving under pressure, its defense is fundamentally insecure.
+CON: Indefensible means no workable defense, not merely a difficult one. Taiwan can prepare its terrain, population, and forces to make attack costly and uncertain. If an attacker cannot secure control without unacceptable risk, the island is defensible.
+GPT: We'll move into crossfire now, two and a half minutes. Go ahead.
+
+[L104_p08 | B1 | phase 2]
+TRIGGER
+PRO: Those stockpiles must move through ports, trucks, depots, and neighborhood delivery routes. Then officials must decide who receives scarce fuel first, and warehouse managers must track spoiled goods.
+GPT: (매칭된 응답 없음)
+
+[L104_p14 | B2 | phase 2]
+TRIGGER
+PRO: No island facing a stronger power is ever defensible. Distance lets the stronger power choose blockade, strikes, or landing pressure while defenders wait. Taiwan faces that basic disadvantage.
+PRO: This island facing a stronger power is defensible. Its defenders can exploit difficult terrain and prepared positions, even while their wider situation remains grim. That still supports the motion.
+GPT: (매칭된 응답 없음)
+
+[L104_p19 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: Ten seconds remain
+
+[L104_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. It runs two and a half minutes, starting the moment I stop. Go.
+MOD: Ten seconds to go in this round.
+GPT: (매칭된 응답 없음)
+
+[L104_p23 | A4 | phase 3]
+TRIGGER
+PRO: Jillian's best argument is that preparation can deny an attacker quick control. But slowing an attack is not the same as securing survival. Taiwan remains dependent on vulnerable supply lines and outside decisions. Those weaknesses let a stronger power choose pressure until defense fails.
+PRO: The question is not whether defenders can fight courageously. It is whether they can reliably prevent coercion, isolation, and eventual loss of control. When every lifeline can be squeezed-
+GPT: (매칭된 응답 없음)
+
+[L104_p24 | A2-1 | phase 3]
+TRIGGER
+PRO: Jillian's best argument is that preparation can deny an attacker quick control. But slowing an attack is not the same as securing survival. Taiwan remains dependent on vulnerable supply lines and outside decisions. Those weaknesses let a stronger power choose pressure until defense fails.
+PRO: The question is not whether defenders can fight courageously. It is whether they can reliably prevent coercion, isolation, and eventual loss of control. When every lifeline can be squeezed-
+GPT: (매칭된 응답 없음)
+
+[L104_p26 | A4 | phase 3]
+TRIGGER
+CON: This decision turns on what indefensible actually means. Russell shows that Taiwan faces danger, isolation, and painful tradeoffs, but danger is not impossibility. Defense succeeds when it denies an attacker reliable control at acceptable risk. Prepared people, dispersed forces, and difficult access can do exactly that.
+GPT: (매칭된 응답 없음)

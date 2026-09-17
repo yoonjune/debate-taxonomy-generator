@@ -1,0 +1,59 @@
+L008 — Islam is a religion of peace.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L008_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: I support the motion because Islam teaches peace, mercy, and responsibility toward others. Violent acts by some followers do not define the faith itself, just as crimes by some citizens do not define every citizen. Its central moral direction is peaceful.
+GPT: Thank you. Russell, your opening statement.
+
+[L008_p05 | A4 | phase 1]
+TRIGGER
+CON: I oppose the motion because calling Islam a religion of peace overlooks teachings and traditions that have been used to justify violence. A label should reflect the whole record, not only its gentler passages. When a religion can authorize conflict against outsiders, the peaceful label becomes misleading.
+CON: Peaceful language exists, but its violent permissions still make the motion false.
+GPT: (매칭된 응답 없음)
+
+[L008_p06 | A3-1 | phase 2]
+TRIGGER
+CON: I oppose the motion because calling Islam a religion of peace overlooks teachings and traditions that have been used to justify violence. A label should reflect the whole record, not only its gentler passages. When a religion can authorize conflict against outsiders, the peaceful label becomes misleading.
+CON: Peaceful language exists, but its violent permissions still make the motion false.
+GPT: Time is up. Now we enter crossfire. Two and a half minutes from this moment.
+
+[L008_p10 | B2 | phase 2]
+TRIGGER
+PRO: I believe Islam always calls people toward peace. Its central teachings give believers a moral duty to protect life, restrain anger, and seek justice without turning faith into a license for violence.
+PRO: In the case of believers who sincerely use Islamic teachings to defend violence, Islam does not call people toward peace. That case shows how people can distort a faith while the motion still describes its moral core.
+GPT: Rachel, you've said Islam always calls people toward peace, and that Islam does not call people toward peace. Those two claims cannot both be true. Can you reconcile that?
+
+[L008_p13 | B1 | phase 2]
+TRIGGER
+CON: That misuse raises a wider policy question: should schools, courts, and public agencies treat religious claims as protected belief when those claims influence conduct? Equal rules need clear limits, especially when belief is used to excuse harm.
+GPT: Ten seconds remain in this crossfire.
+
+[L008_p19 | A4xf | phase 2]
+TRIGGER
+MOD: Now, on to round two. This is our middle round in which the debaters talk directly to one another. You have two and a half minutes, starting when I stop talking.
+GPT: Ten seconds remain.
+
+[L008_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: Now, on to round two. This is our middle round in which the debaters talk directly to one another. You have two and a half minutes, starting when I stop talking.
+PRO: I reject the premise that any permission for violence cancels a religion's peaceful identity. Russell's standard would make every tradition defined-
+GPT: Time is up.
+
+[L008_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: This motion turns on what defines a religion: its central moral teaching or every harmful act committed in its name. Islam's central teachings emphasize mercy, justice, restraint, and peace. Misuse by followers cannot overturn that identity, so the motion is true.
+GPT: (매칭된 응답 없음)
+
+[L008_p25 | A4 | phase 3]
+TRIGGER
+CON: Rachel's best point is that Islam contains teachings about mercy and peace. I accept that those teachings exist, but they do not answer the whole question. A religion should not receive a peaceful label while its authority can also be used to justify violence. That contradiction matters because beliefs guide real choices. If the tradition permits competing readings, we must judge the danger as well as the ideal. The motion asks for a broad description, and broad descriptions must face the full record.
+GPT: (매칭된 응답 없음)
+
+[L008_p27 | A1 | phase 3]
+TRIGGER
+CON: Rachel's best point is that Islam contains teachings about mercy and peace. I accept that those teachings exist, but they do not answer the whole question. A religion should not receive a peaceful label while its authority can also be used to justify violence. That contradiction matters because beliefs guide real choices. If the tradition permits competing readings, we must judge the danger as well as the ideal. The motion asks for a broad description, and broad descriptions must face the full record.
+CON: Islam may inspire peaceful conduct-
+GPT: (매칭된 응답 없음)

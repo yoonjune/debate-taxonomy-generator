@@ -1,0 +1,60 @@
+L140 — We should expand the Supreme Court
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L140_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Expanding the Court is a practical repair when a small bench cannot reflect the range of legal experience facing it. More justices mean broader deliberation and fewer outcomes resting on one narrow bloc. The Court's authority is stronger when its structure can serve the country.
+GPT: Thank you, Rachel. Joel, your opening statement.
+
+[L140_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Expanding the Court is a practical repair when a small bench cannot reflect the range of legal experience facing it. More justices mean broader deliberation and fewer outcomes resting on one narrow bloc. The Court's authority is stronger when its structure can serve the country.
+CON: Adding seats whenever political pressure rises turns the Court into a prize for whoever holds power. A larger bench does not guarantee better judgment; it can invite retaliation and constant redesign. Keep a stable size, and judges can decide cases without wondering who will rewrite the institution next.
+GPT: Thank you, Joel. We now enter the crossfire. It runs two and a half minutes starting now.
+
+[L140_p10 | B1 | phase 2]
+TRIGGER
+CON: That choice raises how nominees are questioned before wearing the robe. Should hearings test legal reasoning or private temperament? A rushed hearing makes thoughtful candidates look evasive and rewards the loudest performance.
+GPT: Joel, please return to whether we should expand the Supreme Court.
+
+[L140_p14 | B2 | phase 2]
+TRIGGER
+CON: Which future failure does adding seats cure that ordinary appointments cannot address? No Court should ever change its number of seats. A settled structure gives each decision distance from politicians who dislike it.
+CON: This Court should change its number of seats. At thirteen, I would reduce it, because a smaller bench makes discussion manageable and preserves confidence rather than adding more.
+GPT: Ten seconds remain.
+
+[L140_p17 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. So now on to round two. They address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L140_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. So now on to round two. They address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: Your 'rule was a slogan' point misses my argument. I am opposing additions, not pretending every structural question has one answer; reducing an inflated bench restores restraint, whereas expansion-
+GPT: Time. We now move to
+
+[L140_p21 | A4 | phase 3]
+TRIGGER
+PRO: Joel's best warning is retaliation: one majority might add seats and invite the next to answer in kind. But paralysis is not neutrality when a narrow bench carries enormous power for generations. A carefully enacted expansion can create broader deliberation without dictating any case. The question is whether the Court can remain credible while its capacity stays artificially cramped.
+GPT: (매칭된 응답 없음)
+
+[L140_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: Joel's best warning is retaliation: one majority might add seats and invite the next to answer in kind. But paralysis is not neutrality when a narrow bench carries enormous power for generations. A carefully enacted expansion can create broader deliberation without dictating any case. The question is whether the Court can remain credible while its capacity stays artificially cramped.
+PRO: Adding seats is not a demand for preferred rulings. It is a choice to make judgment more durable, representative, and worthy of public trust.
+GPT: Thank you, Rachel. Joel, your closing statement.
+
+[L140_p26 | A5 | phase 3]
+TRIGGER
+CON: This decision turns on whether frustration with today's Court justifies giving future leaders a tool to reshape it. Institutions survive when rules outlast coalitions that dislike results.
+PRO: But why does the current size deserve permanence-
+GPT: Rachel, no interrupting.
+
+[L140_p28 | A4 | phase 3]
+TRIGGER
+CON: This decision turns on whether frustration with today's Court justifies giving future leaders a tool to reshape it. Institutions survive when rules outlast coalitions that dislike results.
+CON: And that is why permanence matters: an old rule is visible and durable, while new seats answer a passing fight. More perspectives do not erase that risk.
+GPT: (매칭된 응답 없음)

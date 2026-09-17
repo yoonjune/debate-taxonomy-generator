@@ -1,0 +1,54 @@
+L182 — For a better future, live in a red state.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L182_p02 | A4 | phase 1]
+TRIGGER
+PRO: A better future needs room to raise families, build work, and keep local ties strong. Red states often protect choice in schooling, reward effort, and let communities set priorities. That creates confidence rather than dependence, because people see a path from effort to ownership. It also means...
+GPT: (매칭된 응답 없음)
+
+[L182_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: A better future needs room to raise families, build work, and keep local ties strong. Red states often protect choice in schooling, reward effort, and let communities set priorities. That creates confidence rather than dependence, because people see a path from effort to ownership. It also means...
+PRO: safer streets, reliable energy, and rules shaped close to home. A future works when ordinary people can plan without distant officials changing the terms, and that is why living in a red-
+GPT: Ten seconds remain.
+
+[L182_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: safer streets, reliable energy, and rules shaped close to home. A future works when ordinary people can plan without distant officials changing the terms, and that is why living in a red-
+CON: Your picture confuses a label with a life. A better future depends on affordable homes, good schools, fair chances, and freedom to make personal decisions. Those things vary from community to community, so no state color can promise them. People deserve choices, not a political map deciding their future.
+GPT: Time. We’ll move to crossfire for two and a half minutes. You may question and interrupt each other as you like.
+
+[L182_p11 | B1 | phase 2]
+TRIGGER
+PRO: At a school-board meeting, one parent asks for a reading list, another requests a bus route, and volunteers inspect the playground. Then committees revise forms, schedule hearings, and decide which classroom roof gets repaired first.
+GPT: Raymond, please return to the motion.
+
+[L182_p15 | B2 | phase 2]
+TRIGGER
+PRO: Fair point: the motion concerns futures, not meeting agendas. Every family thrives in a red state. Local authority, work, and steady rules give people durable control over home, school, and livelihood.
+PRO: This family does not thrive in a red state. I mean a parent whose available work disappears and whose local rules shut down the path they need; that hardship is real, while the broader model remains better.
+GPT: (매칭된 응답 없음)
+
+[L182_p19 | A4xf | phase 2]
+TRIGGER
+MOD: Okay. So now, we know where each of you stand and why. We'll be diving into discussion on our question, for a better future, live in a red state. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L182_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: Okay. So now, we know where each of you stand and why. We'll be diving into discussion on our question, for a better future, live in a red state. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: Imagine a worker in a town with one employer and few training options. When the job vanishes, local slogans create-
+GPT: Time.
+
+[L182_p23 | A4 | phase 3]
+TRIGGER
+PRO: Living in a red state is the better bet because the future is built through daily control: choosing schools, pursuing work, raising children, and solving problems close to home. Liz rightly notes that hardship can exist anywhere, but a system that trusts families and neighborhoods gives people more ways to answer it. That is the
+GPT: (매칭된 응답 없음)
+
+[L182_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: Living in a red state is the better bet because the future is built through daily control: choosing schools, pursuing work, raising children, and solving problems close to home. Liz rightly notes that hardship can exist anywhere, but a system that trusts families and neighborhoods gives people more ways to answer it. That is the
+PRO: reason red states offer not perfection, but the strongest foundation for families and a better future.
+GPT: Time. Liz, please, your closing.

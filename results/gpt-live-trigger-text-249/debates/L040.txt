@@ -1,0 +1,59 @@
+L040 — Embrace the Common Core
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L040_p02 | A4 | phase 1]
+TRIGGER
+PRO: Embracing the Common Core gives students a shared foundation, so expectations do not collapse when families move or teachers change. It supports clear skills in reading, writing, and mathematics, while leaving room for local lessons and teacher judgment. That common starting point can help every child reach meaningful standards before opportunity gaps become permanent.
+GPT: (매칭된 응답 없음)
+
+[L040_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Embracing the Common Core gives students a shared foundation, so expectations do not collapse when families move or teachers change. It supports clear skills in reading, writing, and mathematics, while leaving room for local lessons and teacher judgment. That common starting point can help every child reach meaningful standards before opportunity gaps become permanent.
+PRO: A shared foundation makes improvement possible without demanding identical classrooms.
+GPT: Thank you. Genevieve, your opening.
+
+[L040_p06 | A4 | phase 1]
+TRIGGER
+CON: The Common Core promises fairness, but one framework cannot fit every child, classroom, or community. It can turn teaching into a race through a fixed sequence, even when students need different paths. It can also narrow learning toward what is easiest to test. Embracing it risks replacing judgment with compliance, not creating genuine opportunity.
+GPT: Ten seconds.
+
+[L040_p08 | A1 | phase 1]
+TRIGGER
+CON: The Common Core promises fairness, but one framework cannot fit every child, classroom, or community. It can turn teaching into a race through a fixed sequence, even when students need different paths. It can also narrow learning toward what is easiest to test. Embracing it risks replacing judgment with compliance, not creating genuine opportunity.
+CON: A teacher may know that a student needs more time, a different book, or practical support, yet the framework can still push the class onward. Schools should build standards around children, not-
+GPT: Time.We now move to crossfire, two and a half minutes from now.
+
+[L040_p09 | A3-1 | phase 2]
+TRIGGER
+CON: The Common Core promises fairness, but one framework cannot fit every child, classroom, or community. It can turn teaching into a race through a fixed sequence, even when students need different paths. It can also narrow learning toward what is easiest to test. Embracing it risks replacing judgment with compliance, not creating genuine opportunity.
+CON: A teacher may know that a student needs more time, a different book, or practical support, yet the framework can still push the class onward. Schools should build standards around children, not-
+GPT: Time.We now move to crossfire, two and a half minutes from now.
+
+[L040_p19 | B1 | phase 2]
+TRIGGER
+CON: Choosing the route also affects how teachers plan a week's work, group students, and explain progress to families. Those choices depend on preparation time, materials, and room for revision.
+GPT: Ten seconds.
+
+[L040_p25 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. And round two is where the debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L040_p26 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. And round two is where the debaters can address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: You have ten seconds.
+GPT: Time.
+
+[L040_p28 | A4 | phase 3]
+TRIGGER
+PRO: The strongest case for embracing the Common Core is not identical teaching; it is a dependable destination. Students deserve clear expectations that travel with them, and teachers deserve a framework they can adapt. Common standards can expose gaps, support transfers, and preserve local creativity. When paired with judgment, they make fairness more practical.
+GPT: (매칭된 응답 없음)
+
+[L040_p30 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest case for embracing the Common Core is not identical teaching; it is a dependable destination. Students deserve clear expectations that travel with them, and teachers deserve a framework they can adapt. Common standards can expose gaps, support transfers, and preserve local creativity. When paired with judgment, they make fairness more practical.
+PRO: Genevieve has shown that poor implementation can hurt children, but that is an argument for wise use, not rejection. Embrace the common foundation and improve its application.
+GPT: Time.

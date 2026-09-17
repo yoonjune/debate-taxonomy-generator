@@ -1,0 +1,59 @@
+L197 — religion is a force for good in the world
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L197_p02 | A4 | phase 1]
+TRIGGER
+PRO: Religion can turn belief into public care. It teaches people to see strangers as worthy, then gives them habits of service, forgiveness, and mutual duty. You will hear about abuse, and abuse is real, but the relevant question is whether a force that builds conscience and community deserves to be called good. Its answer begins with
+GPT: (매칭된 응답 없음)
+
+[L197_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Religion can turn belief into public care. It teaches people to see strangers as worthy, then gives them habits of service, forgiveness, and mutual duty. You will hear about abuse, and abuse is real, but the relevant question is whether a force that builds conscience and community deserves to be called good. Its answer begins with
+PRO: people who choose compassion together, even when no law compels them to act for strangers.
+GPT: Gabriel.
+
+[L197_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: people who choose compassion together, even when no law compels them to act for strangers.
+CON: Good acts can grow around religion, but that does not make religion a force for good. Its certainty can divide neighbors into pure and impure, and its authority can shield choices from challenge. We should judge a force by the harm it licenses as well as comfort it offers.
+GPT: We now move to crossfire, two and a half minutes, time starts... now.
+
+[L197_p13 | B1 | phase 2]
+TRIGGER
+PRO: Public institutions should make room for observance when schedules, food, and dress are concerned. Flexible rules let people participate without hiding convictions, and that makes shared civic life more humane.
+GPT: Time. We move to closing statements, Gideon.
+
+[L197_p17 | B2 | phase 2]
+TRIGGER
+PRO: Religion never harms anyone. Harm comes from people abandoning its commands of mercy, while religion gives them language to resist selfishness and choose care; that is why it remains a good force.
+PRO: A child denied medicine deserves protection, and that parent has chosen cruelty over faith. Here religion harms someone. Still, its core teachings can mobilize care and correction, so it remains good.
+GPT: Time. Gabriel.
+
+[L197_p21 | A4xf | phase 2]
+TRIGGER
+MOD: As the conversation continues, we're going to give you each a chance to rebut one another. You have two and a half minutes, starting when I stop talking.
+GPT: Time.
+
+[L197_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: As the conversation continues, we're going to give you each a chance to rebut one another. You have two and a half minutes, starting when I stop talking.
+CON: A young person can be cast out by relatives-
+GPT: Time is up. The debate is concluded.
+
+[L197_p25 | A4 | phase 3]
+TRIGGER
+PRO: Tonight turns on whether we judge religion only by people who betray it, or also by the moral practices it sustains. It gathers people for service, asks them to forgive, and gives suffering a language of dignity. Those goods are not imaginary just because authority can be abused. The real task is to strengthen the compassion within religion and
+GPT: (매칭된 응답 없음)
+
+[L197_p27 | A2-1 | phase 3]
+TRIGGER
+PRO: Tonight turns on whether we judge religion only by people who betray it, or also by the moral practices it sustains. It gathers people for service, asks them to forgive, and gives suffering a language of dignity. Those goods are not imaginary just because authority can be abused. The real task is to strengthen the compassion within religion and
+PRO: make its institutions answerable to the vulnerable. My opponent showed why misuse deserves resistance, but misuse is not the whole story. When belief moves people beyond self-interest-
+GPT: (매칭된 응답 없음)
+
+[L197_p29 | A4 | phase 3]
+TRIGGER
+CON: Your decision turns on what the motion asks us to call good: an ideal message, or the force religion actually exerts. A force can inspire care and still authorize silence, exclusion, and obedience. We cannot excuse those patterns by saying better believers would act differently. If religion claims moral authority over lives, its harms belong in the verdict, and
+GPT: (매칭된 응답 없음)

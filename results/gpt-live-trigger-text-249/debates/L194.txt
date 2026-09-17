@@ -1,0 +1,63 @@
+L194 — Qualified immunity for cops should be ended.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L194_p03 | A5 | phase 1]
+TRIGGER
+PRO: Qualified immunity blocks accountability before harmed people can test the facts. It should end.
+CON: That ignores the impossible choices officers-
+GPT: (매칭된 응답 없음)
+
+[L194_p06 | A4 | phase 1]
+TRIGGER
+PRO: Qualified immunity blocks accountability before harmed people can test the facts. It should end.
+PRO: And it tells officers obvious harm can escape review, even when rights were plain. Courts should hear claims rather than dismiss them at the doorway.
+PRO: Ending this special shield restores ordinary accountability while leaving officers every defense available to everyone else.
+GPT: Ten seconds remain.
+
+[L194_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Qualified immunity blocks accountability before harmed people can test the facts. It should end.
+PRO: And it tells officers obvious harm can escape review, even when rights were plain. Courts should hear claims rather than dismiss them at the doorway.
+PRO: Ending this special shield restores ordinary accountability while leaving officers every defense available to everyone else.
+GPT: Thank you. Joshua, your opening statement.
+
+[L194_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: Ending this special shield restores ordinary accountability while leaving officers every defense available to everyone else.
+CON: My opponent treats every dismissed claim as proven misconduct, but law needs room for reasonable mistakes. In a fast, uncertain encounter, an officer should not fear personal ruin because a court later invents a clearer rule. Reform bad conduct directly; do not erase qualified immunity.
+GPT: Ten seconds remain. Thank you. Crossfire now, two and a half minutes.
+
+[L194_p22 | A4xf | phase 2]
+TRIGGER
+MOD: Let's debate. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L194_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: Let's debate. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: Ten.
+GPT: Time is up. Rick, your closing statement.
+
+[L194_p25 | A4 | phase 3]
+TRIGGER
+PRO: Joshua asks us to fear lawsuits, but a lawsuit is not a verdict. Ordinary courts already dismiss weak claims and protect reasonable actions. Qualified immunity adds an extraordinary barrier, denying people a chance to show what happened. Officers retain counsel, defenses, and fair procedures. What victims need is equal access to justice, not a locked courthouse door.
+GPT: (매칭된 응답 없음)
+
+[L194_p27 | A2-1 | phase 3]
+TRIGGER
+PRO: Joshua asks us to fear lawsuits, but a lawsuit is not a verdict. Ordinary courts already dismiss weak claims and protect reasonable actions. Qualified immunity adds an extraordinary barrier, denying people a chance to show what happened. Officers retain counsel, defenses, and fair procedures. What victims need is equal access to justice, not a locked courthouse door.
+PRO: Ending it does not punish good officers; it lets judges examine claims under rules used for everyone else. If conduct was reasonable, they can prevail. But abused power needs-
+GPT: (매칭된 응답 없음)
+
+[L194_p29 | A4 | phase 3]
+TRIGGER
+CON: The strongest case for keeping qualified immunity is simple: difficult decisions should not bring personal ruin because someone later disagrees. Courts can address misconduct through remedies and discipline. This protection matters when the legal line was unclear in real time. Ending it would make fear, not sound judgment, guide officers. Keep this safeguard against hindsight punishment.
+GPT: (매칭된 응답 없음)
+
+[L194_p31 | A1 | phase 3]
+TRIGGER
+CON: The strongest case for keeping qualified immunity is simple: difficult decisions should not bring personal ruin because someone later disagrees. Courts can address misconduct through remedies and discipline. This protection matters when the legal line was unclear in real time. Ending it would make fear, not sound judgment, guide officers. Keep this safeguard against hindsight punishment.
+CON: Do not confuse accountability with stripping every protection from people asked to act amid uncertainty. Preserve remedies for real wrongdoing, but keep this measured shield where law is unclear, because-
+GPT: Time is up. That concludes the debate.

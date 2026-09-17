@@ -1,0 +1,59 @@
+L087 — Negotiations can denuclearize North Korea.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L087_p02 | A4 | phase 1]
+TRIGGER
+PRO: Negotiations can denuclearize North Korea because they create a path from threats to verified steps. A bargain can trade restraint, access, and gradual relief, giving each side reasons to perform. No one should expect trust first; arrangements build it through checks. The crucial question is whether sustained contact can turn danger into practical limits.
+GPT: Ten seconds remain.
+
+[L087_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Negotiations can denuclearize North Korea because they create a path from threats to verified steps. A bargain can trade restraint, access, and gradual relief, giving each side reasons to perform. No one should expect trust first; arrangements build it through checks. The crucial question is whether sustained contact can turn danger into practical limits.
+PRO: Those limits need verified freezes, inspections, and consequences for cheating. You say talks reward bad behavior, but refusing talks leaves only pressure and guessing. A negotiated process does not demand-
+GPT: Time. Michelle, your thirty-second opening, unopposed.
+
+[L087_p06 | A4 | phase 1]
+TRIGGER
+CON: Negotiations may reduce tension for a while, and that is worth wanting. But denuclearization means actual, lasting removal, not polite meetings or temporary pauses. A government that treats nuclear weapons as its strongest protection can promise cooperation while preserving leverage. Talks can gain time, ease pressure, and divide outside resolve. The central problem is whether promises can overcome that incentive.
+GPT: Ten seconds remain.
+
+[L087_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Negotiations may reduce tension for a while, and that is worth wanting. But denuclearization means actual, lasting removal, not polite meetings or temporary pauses. A government that treats nuclear weapons as its strongest protection can promise cooperation while preserving leverage. Talks can gain time, ease pressure, and divide outside resolve. The central problem is whether promises can overcome that incentive.
+CON: They cannot, because the weapon remains the strongest guarantee of power and survival.
+GPT: Time. Crossfire now, two and a half minutes. Both may ask and interrupt. Time runs from now.
+
+[L087_p12 | B1 | phase 2]
+TRIGGER
+CON: If leaders portray nuclear weapons as a symbol of national strength, giving them up can look humiliating at home. Their supporters may treat compromise as weakness, and that political image shapes who keeps authority afterward.
+GPT: Joanna, you just said deals can trade relief for verified restraint, but also that there’s no route to test compliance without deals. Please reconcile that.
+
+[L087_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: Ten seconds remain.
+
+[L087_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes Round one. Now we move on to Round two, and in Round two, the debaters can address one another directly. You have two and a half minutes, starting when I stop talking.
+MOD: Ten seconds left, then we go to closings.
+GPT: Time.
+
+[L087_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether a workable path exists, not whether success is guaranteed. Negotiations can tie security assurances to inspections, phased dismantlement, and consequences for cheating. Without talks, there is no mechanism to gain access, test claims, or exchange weapons for lasting security.
+GPT: Ten
+
+[L087_p28 | A5 | phase 3]
+TRIGGER
+CON: This decision turns on incentives, not hopes. A state that views nuclear weapons as survival insurance will protect them while using negotiations to reduce pressure.
+PRO: But you cannot call diplomacy useless while-
+GPT: Joanna, please hold. Michelle, go ahead.
+
+[L087_p30 | A4 | phase 3]
+TRIGGER
+CON: This decision turns on incentives, not hopes. A state that views nuclear weapons as survival insurance will protect them while using negotiations to reduce pressure.
+CON: And a promise of a safe exit is not the same as disarmament. If inspectors depend on permission, the other side can grant access where it is harmless and deny it where it matters.
+GPT: (매칭된 응답 없음)

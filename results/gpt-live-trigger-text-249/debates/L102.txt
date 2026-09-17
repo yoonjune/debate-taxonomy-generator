@@ -1,0 +1,54 @@
+L102 — China is destined for regional dominance.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L102_p02 | A4 | phase 1]
+TRIGGER
+PRO: China's rise gives it the scale to shape the choices around it. Its markets, industry, and military reach make neighboring governments calculate around China, whether they welcome that fact or not. Dominance does not mean every neighbor obeys every request. It means China becomes the central power no regional decision can ignore for long.
+GPT: (매칭된 응답 없음)
+
+[L102_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: China's rise gives it the scale to shape the choices around it. Its markets, industry, and military reach make neighboring governments calculate around China, whether they welcome that fact or not. Dominance does not mean every neighbor obeys every request. It means China becomes the central power no regional decision can ignore for long.
+PRO: That central position will deepen because alternatives must work through China, not around it. That is why regional dominance is the likely destination.
+GPT: Bonnie, your opening statement, please.
+
+[L102_p06 | A4 | phase 1]
+TRIGGER
+CON: Genevieve treats size as destiny, but regional dominance depends on willing partners and durable trust. Neighbors can trade with China while building their own defenses, ties, and institutions, precisely because they fear dependence. Power creates influence, certainly, yet influence is not command, and resistance can keep a region plural and open.
+GPT: (매칭된 응답 없음)
+
+[L102_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Genevieve treats size as destiny, but regional dominance depends on willing partners and durable trust. Neighbors can trade with China while building their own defenses, ties, and institutions, precisely because they fear dependence. Power creates influence, certainly, yet influence is not command, and resistance can keep a region plural and open.
+CON: No country is fated to lead neighbors who retain choices, confidence, and reasons to cooperate elsewhere.
+GPT: We'll now move into crossfire. Two and a half minutes. You may question and interrupt each other. Time starts now.
+
+[L102_p17 | B2 | phase 2]
+TRIGGER
+CON: I believe regional dominance never requires coercion. If a leading state must force compliance, it has exposed dependence on fear, not earned authority, so China's pressure disproves its destiny.
+CON: This regional dominance requires coercion. In a dispute over sea access, neighbors will coordinate against that pressure for lasting security and commerce, proving China cannot be destined to lead them.
+GPT: Ten seconds remain in crossfire.
+
+[L102_p23 | A4xf | phase 2]
+TRIGGER
+MOD: Now we're gonna move into the second section of the evening. And that's where the debaters can talk directly to one another. You have two and a half minutes, starting when I stop talking.
+GPT: Time is
+
+[L102_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we're gonna move into the second section of the evening. And that's where the debaters can talk directly to one another. You have two and a half minutes, starting when I stop talking.
+MOD: About ten seconds left in the crossfire.
+GPT: Time is up. We'll move to closing statements, same order, thirty seconds. Genevieve.
+
+[L102_p26 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on whether a region can avoid its largest, most connected power indefinitely. Bonnie offers resistance, but resistance itself is organized around China's weight. Countries may dislike that weight and still adjust their trade, security, and diplomacy to it. Destiny here means a durable central position, not universal obedience.
+GPT: (매칭된 응답 없음)
+
+[L102_p28 | A2-1 | phase 3]
+TRIGGER
+PRO: This decision turns on whether a region can avoid its largest, most connected power indefinitely. Bonnie offers resistance, but resistance itself is organized around China's weight. Countries may dislike that weight and still adjust their trade, security, and diplomacy to it. Destiny here means a durable central position, not universal obedience.
+PRO: The question is whether any neighbor can remove China from the center of regional choices. That remains the test. Every response must account for its power, markets, and military reach, so the motion-
+GPT: Ten seconds remain.

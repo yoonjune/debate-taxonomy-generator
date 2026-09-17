@@ -1,0 +1,61 @@
+L166 — The classics are overrated.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L166_p02 | A4 | phase 1]
+TRIGGER
+PRO: Classics are often treated as a required measure of taste, even when they bore or exclude modern readers. Age can preserve a book's reputation after its urgency has faded. Schools repeat the same titles, so familiarity gets mistaken for excellence. That habit gives old works more authority than they deserve, while newer voices must fight for room.
+GPT: (매칭된 응답 없음)
+
+[L166_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Classics are often treated as a required measure of taste, even when they bore or exclude modern readers. Age can preserve a book's reputation after its urgency has faded. Schools repeat the same titles, so familiarity gets mistaken for excellence. That habit gives old works more authority than they deserve, while newer voices must fight for room.
+PRO: Some classics still reward attention, but their status should be earned afresh, not inherited. Calling them overrated challenges the pedestal, not every page.
+GPT: Thank you. Edward, your opening statement.
+
+[L166_p06 | A4 | phase 1]
+TRIGGER
+CON: Wendy mistakes a high reputation for an inflated one. Classics last because readers keep finding difficult questions, vivid language, and human conflicts inside them. They are not protected relics; each generation can reject them, yet many survive that test. Their continued value also gives newer writers something rich to answer, revise, or resist.
+GPT: (매칭된 응답 없음)
+
+[L166_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Wendy mistakes a high reputation for an inflated one. Classics last because readers keep finding difficult questions, vivid language, and human conflicts inside them. They are not protected relics; each generation can reject them, yet many survive that test. Their continued value also gives newer writers something rich to answer, revise, or resist.
+CON: A demanding book is not overrated merely because it asks readers to meet it halfway.
+GPT: Thank you. We now move into crossfire for two and a half minutes. You may address each other.
+
+[L166_p24 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L166_p26 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+PRO: I grant that some old books still move readers-
+GPT: (매칭된 응답 없음)
+
+[L166_p29 | A4 | phase 3]
+TRIGGER
+PRO: Edward's best point is that old books can still create real recognition. I agree, but a meaningful moment does not validate a permanent cultural hierarchy. The problem is not reading classics; it is treating them as the default proof of seriousness. Their label crowds out works that have not received the same long rehearsal.
+PRO: Edward calls repeated reading a fair vote, yet the ballot is shaped before readers arrive. We should keep valuable old books, but remove the automatic crown. When praise becomes inherited-
+GPT: (매칭된 응답 없음)
+
+[L166_p30 | A2-1 | phase 3]
+TRIGGER
+PRO: Edward's best point is that old books can still create real recognition. I agree, but a meaningful moment does not validate a permanent cultural hierarchy. The problem is not reading classics; it is treating them as the default proof of seriousness. Their label crowds out works that have not received the same long rehearsal.
+PRO: Edward calls repeated reading a fair vote, yet the ballot is shaped before readers arrive. We should keep valuable old books, but remove the automatic crown. When praise becomes inherited-
+GPT: (매칭된 응답 없음)
+
+[L166_p33 | A5 | phase 3]
+TRIGGER
+CON: Wendy rightly objects to narrow gatekeeping, but that is not an argument against the books. A classic can be taught critically and still deserve lasting esteem.
+PRO: But if you keep calling lasting esteem evidence-
+GPT: Wendy, please hold.
+
+[L166_p35 | A4 | phase 3]
+TRIGGER
+CON: Wendy rightly objects to narrow gatekeeping, but that is not an argument against the books. A classic can be taught critically and still deserve lasting esteem.
+CON: - helping it reach readers who then make their own judgments. That is how culture works: access begins a conversation, but enduring response sustains classics.
+GPT: (매칭된 응답 없음)

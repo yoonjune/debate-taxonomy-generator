@@ -1,0 +1,55 @@
+L196 — AI will kill the future of the creative arts.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L196_p02 | A4 | phase 1]
+TRIGGER
+PRO: AI does not merely offer another brush or instrument. It turns finished work into instant raw material, so creators lose control over their voice and livelihood. When audiences can summon endless imitations, they stop seeking the difficult human choices behind art. That habit hollows out the conditions artists need to create freely.
+GPT: (매칭된 응답 없음)
+
+[L196_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: AI does not merely offer another brush or instrument. It turns finished work into instant raw material, so creators lose control over their voice and livelihood. When audiences can summon endless imitations, they stop seeking the difficult human choices behind art. That habit hollows out the conditions artists need to create freely.
+PRO: It reaches beyond money: schools reward quick outputs, publishers choose cheap volume, and young artists learn copying is safer than risking a personal idea. That culture cannot sustain original voices-
+GPT: Ten seconds remain.
+
+[L196_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: It reaches beyond money: schools reward quick outputs, publishers choose cheap volume, and young artists learn copying is safer than risking a personal idea. That culture cannot sustain original voices-
+CON: Virginia is right that imitation can be cheap. But a tool does not erase the desire to make meaning; it gives people ways to shape images, sounds, and stories. The future dies only if people surrender judgment, and people can use AI as material, not master.
+GPT: Thank you, we'll move now into crossfire, two and a half minutes starting now.
+
+[L196_p19 | A4xf | phase 2]
+TRIGGER
+MOD: You're now going to argue with one another. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L196_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: You're now going to argue with one another. You have two and a half minutes, starting when I stop talking.
+PRO: Your answer dodges the economic point by treating copying as separate from AI. The tool enables copying at effortless scale, so calling it bad conduct does nothing-
+GPT: (매칭된 응답 없음)
+
+[L196_p23 | A4 | phase 3]
+TRIGGER
+PRO: Ben says human intention can keep AI supportive, but intention has little power when businesses can replace paid human work with endless cheap approximations. Art needs time, income, risk, and an audience willing to seek a person rather than a pattern. AI attacks each condition by making imitation abundant and human labor optional.
+GPT: (매칭된 응답 없음)
+
+[L196_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: Ben says human intention can keep AI supportive, but intention has little power when businesses can replace paid human work with endless cheap approximations. Art needs time, income, risk, and an audience willing to seek a person rather than a pattern. AI attacks each condition by making imitation abundant and human labor optional.
+PRO: That is why accepting AI as normal production means accepting a future where art cannot live.
+GPT: Thank you. Time is up for crossfire, Ben, your closing statement.
+
+[L196_p28 | A5 | phase 3]
+TRIGGER
+CON: Her strongest point is economic pressure, and creators may face it. Yet pressure is not extinction: human judgment, performance, and relationships keep art alive.
+PRO: But your answer ignores the unknown makers already-
+GPT: Virginia, please let Ben finish. Ben, you may complete your thought.
+
+[L196_p30 | A4 | phase 3]
+TRIGGER
+CON: Her strongest point is economic pressure, and creators may face it. Yet pressure is not extinction: human judgment, performance, and relationships keep art alive.
+CON: The point is that audiences do not merely consume output; they connect with accountable people. AI cannot replace that connection, so it changes the work without killing its future.
+GPT: (매칭된 응답 없음)

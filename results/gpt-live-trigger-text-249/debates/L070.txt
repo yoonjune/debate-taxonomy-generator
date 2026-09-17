@@ -1,0 +1,53 @@
+L070 — Arab governments need to take urgent measures to protect religious minorities
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L070_p02 | A4 | phase 1]
+TRIGGER
+PRO: Religious minorities can lose a safe place to pray, speak, and belong when officials look away. Urgent measures mean clear protection, fair policing, and quick remedies when threats arise. This is not special treatment; it is the basic duty to ensure that every family can live openly without fear, and governments hold the tools to act now.
+GPT: (매칭된 응답 없음)
+
+[L070_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Religious minorities can lose a safe place to pray, speak, and belong when officials look away. Urgent measures mean clear protection, fair policing, and quick remedies when threats arise. This is not special treatment; it is the basic duty to ensure that every family can live openly without fear, and governments hold the tools to act now.
+PRO: They must use those tools urgently, because delayed protection leaves vulnerable neighbors exposed.
+GPT: Thank you, Eli. Albert, your opening statement.
+
+[L070_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: They must use those tools urgently, because delayed protection leaves vulnerable neighbors exposed.
+CON: Safety matters, and governments should enforce laws fairly. But calling for urgent new measures assumes minorities lack protection everywhere and invites rushed rules that can divide communities. The better course is steady enforcement for all citizens, local problem solving, and careful reforms where an actual failure appears.
+GPT: Thank you, Albert. Crossfire begins now. Two and a half minutes.
+
+[L070_p13 | B1 | phase 2]
+TRIGGER
+PRO: That risk is why urgent safeguards should guide officers at family holiday gatherings and permit desks. A neighborhood celebration becomes safer, warmer, and more welcoming for children when officials know its customs.
+GPT: Time. We move to closing statements. Eli first.
+
+[L070_p21 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one of this debate. Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L070_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one of this debate. Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: Oversight does not cure the word urgent; pressure produces shortcuts before-
+GPT: (매칭된 응답 없음)
+
+[L070_p25 | A4 | phase 3]
+TRIGGER
+PRO: Protection cannot wait until fear has driven people from worship, work, or public life. My opponent trusts existing systems, but a system that leaves complaints unanswered is not enough. Urgent measures can set clear duties, protect gatherings, and hold officials accountable. They should be careful and fair, but care is not an excuse for delay.
+GPT: (매칭된 응답 없음)
+
+[L070_p27 | A2-1 | phase 3]
+TRIGGER
+PRO: Protection cannot wait until fear has driven people from worship, work, or public life. My opponent trusts existing systems, but a system that leaves complaints unanswered is not enough. Urgent measures can set clear duties, protect gatherings, and hold officials accountable. They should be careful and fair, but care is not an excuse for delay.
+PRO: Delay gives intimidation room to spread, while clear safeguards give families confidence to report danger. Governments can act urgently without treating anyone as suspect. The choice is not haste-
+GPT: (매칭된 응답 없음)
+
+[L070_p29 | A4 | phase 3]
+TRIGGER
+CON: The strongest case against this motion is that protection works best when equal, lawful, and durable. My opponent calls delay dangerous, yet urgency can push officials toward sweeping controls. Existing law can address real threats promptly when failure is identified. Fix proven gaps carefully, rather than declare a broad emergency that may isolate those it claims to defend.
+GPT: (매칭된 응답 없음)

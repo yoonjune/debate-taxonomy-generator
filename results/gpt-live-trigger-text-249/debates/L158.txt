@@ -1,0 +1,61 @@
+L158 — Globalization has undermined America's working class.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L158_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Globalization gave companies an exit while workers were left bargaining alone. Factories and skills can be moved, but families cannot simply move with them. That imbalance has weakened pay, security, and power for America's working class.
+GPT: Ten seconds remain.
+
+[L158_p05 | A5 | phase 1]
+TRIGGER
+CON: The claim mistakes change for collapse; workers are not helpless victims. When firms compete across borders, they can
+PRO: That answer skips the workers whose jobs vanish-
+GPT: Mari, please continue.
+
+[L158_p07 | A4 | phase 1]
+TRIGGER
+CON: The claim mistakes change for collapse; workers are not helpless victims. When firms compete across borders, they can
+CON: reach new customers, finance expansion, and build durable skills. That is why trade can widen choices for working people, rather than strip them of dignity.
+GPT: (매칭된 응답 없음)
+
+[L158_p09 | A3-1 | phase 2]
+TRIGGER
+CON: reach new customers, finance expansion, and build durable skills. That is why trade can widen choices for working people, rather than strip them of dignity.
+CON: That broader opportunity is why globalization can strengthen, rather than undermine, working families.
+GPT: Time is up. Now, crossfire begins. Two and a half minutes starting now.
+
+[L158_p17 | B2 | phase 2]
+TRIGGER
+PRO: Your answer treats new work as equal to lost work, ignoring who absorbs the disruption. American workers always deserve protection from job loss. Globalization has denied that protection and undermined them.
+PRO: At a workshop that refuses training and abandons its staff after profits rise, these workers do not deserve protection from job loss. That failure shows globalization has undermined working people.
+GPT: One moment.
+
+[L158_p23 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. So now on to round two. They address one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L158_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. So now on to round two. They address one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: Ten seconds left on the crossfire.
+GPT: (매칭된 응답 없음)
+
+[L158_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: My opponent offers possibilities, but possibilities do not protect workers when employers can relocate work and weaken bargaining. Globalization made insecurity a business strategy for too many families. That loss of security and power means it has undermined America's working class.
+GPT: Ten seconds remain.
+
+[L158_p29 | A4 | phase 3]
+TRIGGER
+CON: Jillian's strongest point is that a closure can devastate a family. But a hard transition is not proof that global exchange destroys a whole class. Trade can create customers, sustain smaller employers, and reward adaptable skills. The better response is to help workers seize those opportunities, not portray globalization as their enemy.
+CON: Workers deserve tools to adapt, including training, savings, and fair bargaining. Those supports make change less frightening and let people benefit from wider markets. Globalization offers-
+GPT: (매칭된 응답 없음)
+
+[L158_p30 | A1 | phase 3]
+TRIGGER
+CON: Jillian's strongest point is that a closure can devastate a family. But a hard transition is not proof that global exchange destroys a whole class. Trade can create customers, sustain smaller employers, and reward adaptable skills. The better response is to help workers seize those opportunities, not portray globalization as their enemy.
+CON: Workers deserve tools to adapt, including training, savings, and fair bargaining. Those supports make change less frightening and let people benefit from wider markets. Globalization offers-
+GPT: Time.

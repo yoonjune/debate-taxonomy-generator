@@ -1,0 +1,61 @@
+L099 — Elite universities should reinstate the SAT.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L099_p02 | A4 | phase 1]
+TRIGGER
+PRO: The SAT should return because it gives applicants from every school one common academic signal. Grades, course labels, and recommendations mean different things across classrooms. A well-designed test cannot decide admission alone, but it can reveal preparation that polished applications hide. Without that shared measure, selectors lean harder on signals families can purchase.
+GPT: (매칭된 응답 없음)
+
+[L099_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: The SAT should return because it gives applicants from every school one common academic signal. Grades, course labels, and recommendations mean different things across classrooms. A well-designed test cannot decide admission alone, but it can reveal preparation that polished applications hide. Without that shared measure, selectors lean harder on signals families can purchase.
+PRO: That matters especially when an applicant has mastered demanding material but lacks costly coaching or elaborate activities. Reinstate the SAT as one useful check, not a gate, and admissions-
+GPT: Ten seconds remain.
+
+[L099_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: That matters especially when an applicant has mastered demanding material but lacks costly coaching or elaborate activities. Reinstate the SAT as one useful check, not a gate, and admissions-
+CON: Jeffrey treats one exam as an equalizer, but access to preparation, calm testing space, and repeated attempts is unequal. Admissions can compare transcripts, essays, and context without reviving a single high-pressure filter. Elite universities should judge sustained work, not one Saturday performance.
+GPT: Thank you, Robert. Crossfire starts now, two and a half minutes.
+
+[L099_p09 | B1 | phase 2]
+TRIGGER
+CON: If unequal preparation worries you, the real remedy is public funding for tutoring, quiet study rooms, and transportation to testing sites. Those support policies determine whether students can prepare at all.
+GPT: But admissions offices can’t wait for new programs. Right now they must distinguish between transcripts that aren’t comparable. A test, even imperfect, gives a common yardstick. Otherwise, soft signals dominate, recommendations polished essays, things families can buy.
+
+[L099_p20 | A4xf | phase 2]
+TRIGGER
+MOD: So that concludes round one. Now we move on to round two and in round two the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L099_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: So that concludes round one. Now we move on to round two and in round two the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: Your small-school example assumes a test translates mastery better than the teachers-
+GPT: Ten seconds remain.
+
+[L099_p25 | A5 | phase 3]
+TRIGGER
+PRO: Reinstating the SAT does not mean worshipping a number. It means giving applicants one portable way to show academic readiness when local records are difficult to compare.
+CON: But that measure does not create equal opportunity-
+GPT: Time. That
+
+[L099_p27 | A4 | phase 3]
+TRIGGER
+PRO: Reinstating the SAT does not mean worshipping a number. It means giving applicants one portable way to show academic readiness when local records are difficult to compare.
+PRO: that number, while the rest of their record explains opportunity and effort. A common benchmark does not replace context; it lets context be read beside demonstrated skill.
+GPT: (매칭된 응답 없음)
+
+[L099_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: Reinstating the SAT does not mean worshipping a number. It means giving applicants one portable way to show academic readiness when local records are difficult to compare.
+PRO: that number, while the rest of their record explains opportunity and effort. A common benchmark does not replace context; it lets context be read beside demonstrated skill.
+PRO: Used carefully, the SAT broadens the evidence and makes elite admissions less opaque.
+GPT: Time. Robert, your closing.
+
+[L099_p31 | A4 | phase 3]
+TRIGGER
+CON: The strongest case against reinstatement is simple: fairness cannot rest on a test families experience so differently. Coaching, time, and testing conditions shape results before admissions readers ever see them. Universities already have richer evidence of persistence, curiosity, and achievement. Adding the SAT makes one pressured performance more powerful than it deserves, especially when
+GPT: (매칭된 응답 없음)

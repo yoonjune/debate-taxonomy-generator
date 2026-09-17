@@ -1,0 +1,62 @@
+L229 — Being married is a better way to live than being single.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L229_p03 | A5 | phase 1]
+TRIGGER
+PRO: Marriage can turn daily life into a shared project, where two people divide burdens and celebrate gains. That steady partnership gives people more support when.
+CON: But sharing a home does not make life better-
+GPT: Isaac, please hold. Bradley, the floor is yours.
+
+[L229_p05 | A4 | phase 1]
+TRIGGER
+PRO: Marriage can turn daily life into a shared project, where two people divide burdens and celebrate gains. That steady partnership gives people more support when.
+PRO: pressure hits, because promises create a reason to stay engaged. The question is not whether singles can thrive; it is which arrangement more reliably builds connection.
+GPT: (매칭된 응답 없음)
+
+[L229_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Marriage can turn daily life into a shared project, where two people divide burdens and celebrate gains. That steady partnership gives people more support when.
+PRO: pressure hits, because promises create a reason to stay engaged. The question is not whether singles can thrive; it is which arrangement more reliably builds connection.
+PRO: Marriage makes mutual care an everyday commitment, which is why it offers the better life.
+GPT: Ten seconds. Thank you. Isaac, your opening statement.
+
+[L229_p09 | A4 | phase 1]
+TRIGGER
+CON: Bradley treats commitment as if it must mean marriage. It does not: friends, relatives, and chosen communities can provide durable care without making one relationship the center. Marriage can also turn ordinary choices into negotiations, from spending to rest to where someone lives. A better life leaves room for each person to shape it.
+GPT: (매칭된 응답 없음)
+
+[L229_p11 | A1 | phase 1]
+TRIGGER
+CON: Bradley treats commitment as if it must mean marriage. It does not: friends, relatives, and chosen communities can provide durable care without making one relationship the center. Marriage can also turn ordinary choices into negotiations, from spending to rest to where someone lives. A better life leaves room for each person to shape it.
+CON: Of course spouses may help, but help matters because people choose it, not because marriage makes it superior. Singles can leave unhealthy dependence. Better living means freedom-
+GPT: (매칭된 응답 없음)
+
+[L229_p12 | A3-1 | phase 2]
+TRIGGER
+CON: Bradley treats commitment as if it must mean marriage. It does not: friends, relatives, and chosen communities can provide durable care without making one relationship the center. Marriage can also turn ordinary choices into negotiations, from spending to rest to where someone lives. A better life leaves room for each person to shape it.
+CON: Of course spouses may help, but help matters because people choose it, not because marriage makes it superior. Singles can leave unhealthy dependence. Better living means freedom-
+GPT: (매칭된 응답 없음)
+
+[L229_p22 | B2 | phase 2]
+TRIGGER
+CON: No adult should ever marry. A better life must remain open to changing needs, and marriage encourages people to treat one permanent arrangement as the answer for everyone.
+CON: This adult should marry. Someone devoted to a partner and wanting a lasting household deserves marriage, while single life is still the better way to live overall.
+GPT: (매칭된 응답 없음)
+
+[L229_p26 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes Round one. Now onto Round two. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L229_p28 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes Round one. Now onto Round two. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: I grant that a bad marriage can feel confining. Yet the motion compares ways to live at their best, and marriage adds chosen partnership, shared responsibility-
+GPT: (매칭된 응답 없음)
+
+[L229_p30 | A2-2 | phase 3]
+TRIGGER
+PRO: This choice turns on what makes a life stronger when ordinary burdens arrive. Single people can flourish, but marriage joins love to daily responsibility, creating a dependable partner for decisions, hardship, and joy. That enduring mutual commitment makes married life the better way to live.
+GPT: (매칭된 응답 없음)

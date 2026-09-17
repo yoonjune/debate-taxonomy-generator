@@ -1,0 +1,54 @@
+L155 — The family is a major obstacle to reform in the Arab world
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L155_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Families can offer love, but they also enforce obedience through daily dependence and fear of dishonor. When a young person cannot choose education, work, marriage, or speech without family approval, reform stays abstract. That private veto is a major obstacle across the region.
+GPT: Thank you. Steve, your opening statement.
+
+[L155_p05 | A4 | phase 1]
+TRIGGER
+CON: Randy mistakes a source of pressure for the main barrier to reform. Families are not one machine: they protect people, teach cooperation, and often give individuals courage when public life is harsh. The real issue is whether institutions allow voices to matter. Blaming families hides the powerful decisions made above them
+CON: that narrow choices long before a dinner-table argument does. Families can pass down caution, certainly, yet they can also organize care and help people challenge unfair rules. Calling them a major obstacle ignores-
+GPT: (매칭된 응답 없음)
+
+[L155_p06 | A1 | phase 1]
+TRIGGER
+CON: Randy mistakes a source of pressure for the main barrier to reform. Families are not one machine: they protect people, teach cooperation, and often give individuals courage when public life is harsh. The real issue is whether institutions allow voices to matter. Blaming families hides the powerful decisions made above them
+CON: that narrow choices long before a dinner-table argument does. Families can pass down caution, certainly, yet they can also organize care and help people challenge unfair rules. Calling them a major obstacle ignores-
+GPT: Ten seconds remain.
+
+[L155_p07 | A3-1 | phase 2]
+TRIGGER
+CON: Randy mistakes a source of pressure for the main barrier to reform. Families are not one machine: they protect people, teach cooperation, and often give individuals courage when public life is harsh. The real issue is whether institutions allow voices to matter. Blaming families hides the powerful decisions made above them
+CON: that narrow choices long before a dinner-table argument does. Families can pass down caution, certainly, yet they can also organize care and help people challenge unfair rules. Calling them a major obstacle ignores-
+GPT: Ten seconds remain.
+
+[L155_p10 | B1 | phase 2]
+TRIGGER
+CON: Which intimate choice do you mean: spending money, sharing a room, or deciding who does chores? Those practical arrangements reflect tight budgets and caregiving burdens, so reformers should explain how bills and care work.
+GPT: (매칭된 응답 없음)
+
+[L155_p17 | B2 | phase 2]
+TRIGGER
+PRO: I believe every family tradition always blocks reform. When obedience is treated as duty, young people learn that questioning elders brings shame, so even sensible public change meets resistance at home.
+PRO: A grandmother backs her granddaughter's schooling against a rigid rule; in this case, family tradition does not block reform. Yet isolated kindness cannot erase the wider family pressure that makes reform difficult.
+GPT: (매칭된 응답 없음)
+
+[L155_p21 | A4xf | phase 2]
+TRIGGER
+MOD: After the opening round, our second round will be a head-to-head debate in which the debaters will debate among themselves. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L155_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: After the opening round, our second round will be a head-to-head debate in which the debaters will debate among themselves. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: On your point about withdrawn support, you assume dependence makes families enemies-
+GPT: Time is up. We move to closing statements, thirty seconds each. Randy, your closing statement.
+
+[L155_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: Steve's best point is that relatives can protect people and sustain change. But support that can be withheld to enforce obedience is power, not a neutral gift. Because family authority reaches daily choices and often punishes departure, it remains a major obstacle to reform.
+GPT: Thank you. Steve, your closing statement.

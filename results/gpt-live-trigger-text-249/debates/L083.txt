@@ -1,0 +1,48 @@
+L083 — Prospective global warming is the most pressing issue facing humanity today and to avert it the world must de-carbonize its economies in short order.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L083_p02 | A4 | phase 1]
+TRIGGER
+PRO: Global warming is not a distant concern; it shapes food, shelter, health, and safety at once. Because emissions linger, delay locks in damage that later choices cannot easily undo. Decarbonizing quickly means building cleaner power, transport, and homes while protecting workers. The question is whether we act before those risks harden.
+GPT: (매칭된 응답 없음)
+
+[L083_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Global warming is not a distant concern; it shapes food, shelter, health, and safety at once. Because emissions linger, delay locks in damage that later choices cannot easily undo. Decarbonizing quickly means building cleaner power, transport, and homes while protecting workers. The question is whether we act before those risks harden.
+PRO: Fairness matters, but difficulty is not a reason to preserve a harmful system. We can build reliable clean energy and support workers through change-
+GPT: Ten seconds remain.
+
+[L083_p06 | A4 | phase 1]
+TRIGGER
+CON: The climate matters, and reducing pollution can bring real benefits. But calling one future threat humanity's most pressing issue erases urgent present needs: hunger, conflict, illness, and insecure livelihoods. A forced rush away from carbon can raise energy costs and weaken fragile communities. Good policy weighs tradeoffs, lets people choose paths, and refuses to make one goal the sole test of progress.
+GPT: (매칭된 응답 없음)
+
+[L083_p08 | A3-1 | phase 2]
+TRIGGER
+CON: The climate matters, and reducing pollution can bring real benefits. But calling one future threat humanity's most pressing issue erases urgent present needs: hunger, conflict, illness, and insecure livelihoods. A forced rush away from carbon can raise energy costs and weaken fragile communities. Good policy weighs tradeoffs, lets people choose paths, and refuses to make one goal the sole test of progress.
+CON: We should innovate and cut emissions where it helps, but no universal timetable fits every economy. The resolution demands exactly that, so it goes too far.
+GPT: Thank you. We'll move now to a two-and-a-half-minute crossfire, starting now.
+
+[L083_p16 | B2 | phase 2]
+TRIGGER
+CON: No economy should ever be forced to decarbonize. People need secure energy and control over their livelihoods, so persuasion and invention are better than a global order that commands sacrifice.
+CON: A coal-bound island economy should be forced to decarbonize. Its leaders may cling to fuel, but residents facing rising water deserve outside action, even though the resolution still overreaches globally.
+GPT: (매칭된 응답 없음)
+
+[L083_p21 | A4xf | phase 2]
+TRIGGER
+MOD: Thank you, Rod. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L083_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: Thank you, Rod. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: No, their safety is not less urgent than protecting industries. But your question assumes rapid decarbonization is the only shield; practical adaptation and steady emissions cuts protect them without the-
+GPT: Thank you. We'll move now to closing statements, Betsy then Rod, thirty seconds each. Betsy.
+
+[L083_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: Rod says people need reliable energy, and they do. But reliable energy on a damaged planet is not security; delaying transition deepens risks to homes, food, and work. Build clean systems fairly and quickly, because warming touches every human priority and demands first place.
+GPT: Ten seconds remain.

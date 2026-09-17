@@ -1,0 +1,53 @@
+L095 — We should use gene editing to make better babies.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L095_p02 | A4 | phase 1]
+TRIGGER
+PRO: Gene editing can spare a future child from severe inherited illness and give families more control over preventable suffering. Used before birth, it can strengthen health without changing the love owed to any child. We should set clear limits, require careful review, and make sure this tool serves children rather than fashion or profit.
+GPT: (매칭된 응답 없음)
+
+[L095_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Gene editing can spare a future child from severe inherited illness and give families more control over preventable suffering. Used before birth, it can strengthen health without changing the love owed to any child. We should set clear limits, require careful review, and make sure this tool serves children rather than fashion or profit.
+PRO: The aim is not to order children from a catalog. It is to give them a fairer starting point when biology deals a cruel hand. If we refuse a safe chance to prevent-
+GPT: Ten seconds remain.
+
+[L095_p06 | A4 | phase 1]
+TRIGGER
+CON: Better babies sounds kind, but it turns a child into a project measured against someone else's ideal. Editing inherited illness may seem simple, yet the same power invites pressure to choose traits and reject difference. Parents need support and treatment, not a market logic that ranks children before they can speak.
+GPT: (매칭된 응답 없음)
+
+[L095_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Better babies sounds kind, but it turns a child into a project measured against someone else's ideal. Editing inherited illness may seem simple, yet the same power invites pressure to choose traits and reject difference. Parents need support and treatment, not a market logic that ranks children before they can speak.
+CON: Once society treats traits as upgrades, freedom narrows, and vulnerable children pay the price.
+GPT: Time. Open crossfire, two and a half minutes from now.
+
+[L095_p13 | B1 | phase 2]
+TRIGGER
+PRO: The bigger policy question is who controls clinics, prices, and access when powerful medical tools arrive. We need public oversight, affordable care, and rules against private gatekeepers deciding which families receive help.
+GPT: (매칭된 응답 없음)
+
+[L095_p18 | B2 | phase 2]
+TRIGGER
+CON: No embryo should ever be edited. Once people claim authority to improve a future child, they normalize judging human worth by chosen traits, and that danger outweighs promised convenience.
+CON: This embryo should be edited. A fatal disorder can make a short life painful and bleak, and refusing relief abandons the child we claim to protect from the start.
+GPT: (매칭된 응답 없음)
+
+[L095_p23 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L095_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+MOD: Ten seconds left, both of you.
+GPT: Ten seconds remain.
+
+[L095_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: This debate asks whether we use careful knowledge to spare children avoidable harm. A child facing constant pain or early death deserves more than fear of misuse. With firm limits, gene editing can widen a child's future. That is why we should make better babies.
+GPT: Time.

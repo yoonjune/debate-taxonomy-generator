@@ -1,0 +1,56 @@
+L200 — We should erase bad memories.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L200_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Some memories do not teach; they repeatedly wound the people carrying them. Safe erasure can return sleep, calm, and freedom without erasing a person's values. We should let people remove pain that has stopped serving them when they choose it.
+GPT: Thank you. Mira.
+
+[L200_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Some memories do not teach; they repeatedly wound the people carrying them. Safe erasure can return sleep, calm, and freedom without erasing a person's values. We should let people remove pain that has stopped serving them when they choose it.
+CON: Bad memories hurt, but they connect actions to consequences and help people understand who they became. Erasing them may bring relief today while weakening judgment, empathy, and responsibility tomorrow. We should heal around painful memories, not delete parts of ourselves.
+GPT: Ten seconds Thank you. We move into crossfire, two and a half minutes starting now.
+
+[L200_p08 | B1 | phase 2]
+TRIGGER
+CON: Once clinics offer memory erasure, regulators must decide who approves it, what records employers may request, and how insurers price it. Those rules could expose private histories.
+GPT: (매칭된 응답 없음)
+
+[L200_p13 | B2 | phase 2]
+TRIGGER
+PRO: Every bad memory should be erased. People deserve relief from mental injuries, and keeping an injury merely because it happened treats suffering as a duty for life.
+PRO: This bad memory should not be erased. People deserve tools to escape suffering, and erasure remains a humane, necessary public commitment for wounded minds everywhere, starting today.
+GPT: (매칭된 응답 없음)
+
+[L200_p19 | A4xf | phase 2]
+TRIGGER
+MOD: In round two, the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Time's up. We move
+
+[L200_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: In round two, the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: Your example assumes erasure restores care, but the parent may lose the memory that explains the child's fear and needs. Relief without understanding-
+GPT: (매칭된 응답 없음)
+
+[L200_p24 | A5 | phase 3]
+TRIGGER
+PRO: Pain can trap a person in fear long after danger ends. Erasure should be a careful choice because it gives people room to
+CON: But that is not mercy if a person loses-
+GPT: Time. Rima, your closing, please.
+
+[L200_p26 | A4 | phase 3]
+TRIGGER
+PRO: Pain can trap a person in fear long after danger ends. Erasure should be a careful choice because it gives people room to
+PRO: breathe, rebuild trust, and choose a future not ruled by one awful moment. That is mercy, not denial, and it supports erasing bad memories.
+GPT: (매칭된 응답 없음)
+
+[L200_p28 | A2-2 | phase 3]
+TRIGGER
+PRO: Pain can trap a person in fear long after danger ends. Erasure should be a careful choice because it gives people room to
+PRO: breathe, rebuild trust, and choose a future not ruled by one awful moment. That is mercy, not denial, and it supports erasing bad memories.
+PRO: Give people control over pain that has already taken enough from them.
+GPT: Mira, your closing.

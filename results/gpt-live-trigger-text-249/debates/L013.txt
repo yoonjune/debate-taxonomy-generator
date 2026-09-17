@@ -1,0 +1,60 @@
+L013 — Bitcoin is more than a bubble and here to stay.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L013_p02 | A4 | phase 1]
+TRIGGER
+PRO: Bitcoin is more than a bubble because it performs a real function: it lets people transfer value without relying on one central gatekeeper. Its price swings are serious, but volatility does not erase usefulness, growing acceptance, or the network built around it. This is an emerging asset, not merely empty excitement.
+GPT: (매칭된 응답 없음)
+
+[L013_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Bitcoin is more than a bubble because it performs a real function: it lets people transfer value without relying on one central gatekeeper. Its price swings are serious, but volatility does not erase usefulness, growing acceptance, or the network built around it. This is an emerging asset, not merely empty excitement.
+PRO: A bubble can burst and vanish; bitcoin has adapted through setbacks, proving durable value and lasting demand.
+GPT: Thank you. Jerry, your opening statement.
+
+[L013_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: A bubble can burst and vanish; bitcoin has adapted through setbacks, proving durable value and lasting demand.
+CON: Bitcoin may be useful to some people, but usefulness alone does not make its price sustainable. Its value depends heavily on new buyers believing they can sell higher, while its sharp swings expose that weakness. A technology can remain available and still fail as a lasting store of value.
+GPT: Thank you. We now move to crossfire, two and a half minutes, starting now.
+
+[L013_p16 | B1 | phase 2]
+TRIGGER
+CON: The urgent issue is how governments should regulate digital assets, protect consumers, and prevent anonymous transfers from funding fraud. Clear licensing, reporting rules, and enforcement are needed before this market can be treated responsibly.
+GPT: Jerry, that's away from the motion. Back to whether Bitcoin is more than a bubble and here to stay, please. We move to closing statements. Nadine first, thirty seconds.
+
+[L013_p20 | A4xf | phase 2]
+TRIGGER
+MOD: Now we go on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L013_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we go on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: That example proves only that transfers-
+GPT: (매칭된 응답 없음)
+
+[L013_p24 | A4 | phase 3]
+TRIGGER
+PRO: Jerry's best point is that volatility can hurt people who treat bitcoin as a stable store of value. I agree that caution matters, but the motion does not promise stability. It asks whether bitcoin is more than a bubble and here to stay. Its functioning network, independent access, and persistent use answer yes. Bubbles depend on excitement alone; bitcoin has utility that remains after excitement fades.
+GPT: (매칭된 응답 없음)
+
+[L013_p26 | A2-1 | phase 3]
+TRIGGER
+PRO: Jerry's best point is that volatility can hurt people who treat bitcoin as a stable store of value. I agree that caution matters, but the motion does not promise stability. It asks whether bitcoin is more than a bubble and here to stay. Its functioning network, independent access, and persistent use answer yes. Bubbles depend on excitement alone; bitcoin has utility that remains after excitement fades.
+PRO: Price swings can change who participates, but they do not erase the system or the reasons people use it. Bitcoin has become part-
+GPT: (매칭된 응답 없음)
+
+[L013_p29 | A5 | phase 3]
+TRIGGER
+CON: Nadine says survival proves value, but mere survival proves little. A network can persist while its token remains dangerously speculative, and bitcoin still lacks stable everyday demand.
+PRO: That ignores real users and the network's independence-
+GPT: Time is up. Thank you.
+
+[L013_p31 | A4 | phase 3]
+TRIGGER
+CON: Nadine says survival proves value, but mere survival proves little. A network can persist while its token remains dangerously speculative, and bitcoin still lacks stable everyday demand.
+CON: Let me finish the central distinction: usefulness does not guarantee a lasting price or lasting demand. If most holders await higher prices, the bubble remains the strongest explanation.
+GPT: (매칭된 응답 없음)

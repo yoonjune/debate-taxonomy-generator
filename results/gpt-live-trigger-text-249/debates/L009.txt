@@ -1,0 +1,60 @@
+L009 — Public radio is still relevant.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L009_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Public radio remains relevant because it serves people rather than advertisers. It offers trusted reporting, local emergencies, and thoughtful discussion that commercial outlets often neglect. Relevance is not just popularity; it is usefulness, trust, and a civic connection that still matters.
+GPT: Thank you. Larry, your opening statement.
+
+[L009_p05 | A5 | phase 1]
+TRIGGER
+CON: Public radio may inform, but relevance demands attention in today's crowded media world. If few people listen, how is that service still relevant to the public?
+PRO: Because public value isn't measured by popularity alone-
+GPT: Ten seconds remain.
+
+[L009_p07 | A4 | phase 1]
+TRIGGER
+CON: Public radio may inform, but relevance demands attention in today's crowded media world. If few people listen, how is that service still relevant to the public?
+CON: I was saying that relevance demands attention, and a service reaching only a narrow audience cannot claim broad public importance. Trust among a few does not make an outdated medium relevant to society.
+GPT: (매칭된 응답 없음)
+
+[L009_p09 | A3-1 | phase 2]
+TRIGGER
+CON: I was saying that relevance demands attention, and a service reaching only a narrow audience cannot claim broad public importance. Trust among a few does not make an outdated medium relevant to society.
+CON: Public radio may have value, but it no longer has enough public reach to remain relevant.
+GPT: Time is up. Openings are done. We'll move into crossfire, two and a half minutes, starting now.
+
+[L009_p14 | B2 | phase 2]
+TRIGGER
+CON: No public radio program is relevant without a mass audience. A niche service may be useful, but usefulness alone cannot make a declining medium relevant to the public.
+CON: This public radio program is relevant without a mass audience. A small emergency broadcast can matter to its listeners, but public radio still lacks broad relevance.
+GPT: Larry, you've said no public radio program is relevant without a mass audience, and also that it can be relevant without one. Please reconcile that.
+
+[L009_p23 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now, on to round two. This is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Time is up.
+
+[L009_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now, on to round two. This is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: The crisis example exaggerates an occasional benefit. Emergency information can come through many channels, while ordinary public-
+GPT: (매칭된 응답 없음)
+
+[L009_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: Public radio is not relevant merely because it is old, and it is not irrelevant merely because it is smaller. Its value appears when people need careful reporting, local warnings, and conversation without commercial pressure. Those services remain useful and trusted, so public radio is still relevant.
+GPT: Thank you. Larry, your closing statement.
+
+[L009_p29 | A4 | phase 3]
+TRIGGER
+CON: Lionel's strongest example is an emergency broadcast, but an occasional rescue cannot define an entire medium. Most programming competes for a small audience in a crowded world, while people increasingly use faster and wider channels. Public radio may help dedicated listeners, yet that limited usefulness is not the same as continuing public relevance.
+GPT: (매칭된 응답 없음)
+
+[L009_p31 | A1 | phase 3]
+TRIGGER
+CON: Lionel's strongest example is an emergency broadcast, but an occasional rescue cannot define an entire medium. Most programming competes for a small audience in a crowded world, while people increasingly use faster and wider channels. Public radio may help dedicated listeners, yet that limited usefulness is not the same as continuing public relevance.
+CON: A medium that reaches fewer people and struggles to shape common discussion may retain loyal fans, but loyalty is not broad relevance. Public radio has-
+GPT: (매칭된 응답 없음)

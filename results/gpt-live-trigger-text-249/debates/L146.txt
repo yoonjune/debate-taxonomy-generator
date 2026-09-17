@@ -1,0 +1,61 @@
+L146 — Grandma's benefits imperil Junior's future.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L146_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Grandma's benefits can be humane, but the bill does not vanish. When today's payments consume resources meant for schooling, training, and beginnings, Junior inherits fewer choices. Protecting one generation without guarding the next turns help into a burden.
+GPT: Thank you. Elias, your opening.
+
+[L146_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Grandma's benefits can be humane, but the bill does not vanish. When today's payments consume resources meant for schooling, training, and beginnings, Junior inherits fewer choices. Protecting one generation without guarding the next turns help into a burden.
+CON: Rima treats support for Grandma as theft from Junior, but that is a false choice. Benefits can keep families steady and let younger relatives work, learn, and plan. Why call a safety net a threat when it gives Junior room to build?
+GPT: Thank you. We'll move to crossfire now, two and a half minutes starting now.
+
+[L146_p08 | B1 | phase 2]
+TRIGGER
+PRO: I would not cut care; I would ask families to plan it honestly, including how shared homes divide care. When adult relatives argue over chores, resentment can poison birthdays, meals, and the trust children see every day.
+GPT: (매칭된 응답 없음)
+
+[L146_p13 | B2 | phase 2]
+TRIGGER
+CON: Benefits can support Junior through a stable home, so the motion is not inevitable. No benefit payment should ever ignore a child's future. The answer is wiser design, not treating Grandma's support as danger.
+CON: This benefit payment should ignore a child's future: Grandma needs it for medicine today, and Junior can manage his own path. Protecting her immediate dignity shows these benefits do not imperil Junior's future.
+GPT: (매칭된 응답 없음)
+
+[L146_p18 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one of this debate. Now we move on to round two. And round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L146_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one of this debate. Now we move on to round two. And round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+MOD: Ten seconds left, both of you.
+GPT: (매칭된 응답 없음)
+
+[L146_p22 | A5 | phase 3]
+TRIGGER
+PRO: Junior's future is harmed when we promise support without asking what remains for schooling, work, and independence. Compassion must reach forward, which means
+CON: That makes Grandma sound like a burden-
+GPT: (매칭된 응답 없음)
+
+[L146_p24 | A4 | phase 3]
+TRIGGER
+PRO: Junior's future is harmed when we promise support without asking what remains for schooling, work, and independence. Compassion must reach forward, which means
+PRO: we protect those choices by setting priorities before money is committed. Junior cannot recover a lost start later, so support must be balanced with investment in his future.
+GPT: (매칭된 응답 없음)
+
+[L146_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Junior's future is harmed when we promise support without asking what remains for schooling, work, and independence. Compassion must reach forward, which means
+PRO: we protect those choices by setting priorities before money is committed. Junior cannot recover a lost start later, so support must be balanced with investment in his future.
+PRO: Grandma deserves dignity, but Junior deserves a future that is not quietly spent already.
+GPT: Thank you. Elias, your closing.
+
+[L146_p28 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on whether support is treated as a drain or as a foundation. Grandma's benefits can buy stability, reduce family strain, and keep care from falling on Junior. The question is not whether bad design exists; it is whether benefits themselves imperil his future. That distinction matters: secure elders can strengthen the whole household.
+GPT: (매칭된 응답 없음)

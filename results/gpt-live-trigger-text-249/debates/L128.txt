@@ -1,0 +1,60 @@
+L128 — We should eat more processed food.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L128_p02 | A4 | phase 1]
+TRIGGER
+PRO: I support eating more processed food because it can turn a bare cupboard into a usable meal. Frozen vegetables, canned beans, and fortified cereals save preparation time while still offering nourishment. People juggling work, care, and travel need options that do not demand a kitchen ritual. The question is whether practical food can expand decent choices, and it can.
+GPT: (매칭된 응답 없음)
+
+[L128_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: I support eating more processed food because it can turn a bare cupboard into a usable meal. Frozen vegetables, canned beans, and fortified cereals save preparation time while still offering nourishment. People juggling work, care, and travel need options that do not demand a kitchen ritual. The question is whether practical food can expand decent choices, and it can.
+PRO: More importantly, processing can preserve food before it spoils, which matters when shopping is hard. Rejecting these foods treats time as limitless and overlooks households-
+GPT: ten seconds remain, Caroline.
+
+[L128_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: More importantly, processing can preserve food before it spoils, which matters when shopping is hard. Rejecting these foods treats time as limitless and overlooks households-
+CON: More processed food may be easy, but the motion asks us to eat more of it, not merely keep it available. Heavy processing often makes ordinary eating less recognizable and encourages mindless habits. We should improve access to simple food, rather than make factory-made convenience our default.
+GPT: Thank you. We'll now move into a two and a half minute crossfire, starting now.
+
+[L128_p13 | B2 | phase 2]
+TRIGGER
+PRO: I believe every processed food choice always deserves encouragement. People should meet real constraints with usable options, and a broad push toward processed food respects the time, storage, and skills they actually have.
+PRO: Here, a processed food choice does not deserve encouragement. I still support more processed food overall, because a general increase can include useful staples instead of forcing people toward costly, inconvenient alternatives.
+GPT: Caroline, earlier you said every processed food choice always deserves encouragement, but just now you excluded sweetened snacks. Please reconcile those. ten seconds remain.
+
+[L128_p19 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L128_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: It does not force every gap to be filled with packages; I reject that premise-
+GPT: (매칭된 응답 없음)
+
+[L128_p23 | A4 | phase 3]
+TRIGGER
+PRO: At the center of this debate is not a fantasy menu; it is whether people deserve food that works on ordinary hard days. Processed staples can prevent skipped meals, reduce waste, and make nourishment possible when time and equipment are scarce. Margaret wants caution, and caution is sensible. But the motion asks whether we should expand a practical option that helps
+GPT: (매칭된 응답 없음)
+
+[L128_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: At the center of this debate is not a fantasy menu; it is whether people deserve food that works on ordinary hard days. Processed staples can prevent skipped meals, reduce waste, and make nourishment possible when time and equipment are scarce. Margaret wants caution, and caution is sensible. But the motion asks whether we should expand a practical option that helps
+PRO: More usable food means more people can eat reliably. We can choose better processing while making that choice, which is why I support the motion.
+GPT: ten seconds remain, Caroline.
+
+[L128_p27 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on the difference between keeping processed food available and urging people to eat more of it. Availability can solve a difficult evening without becoming an everyday target. Caroline has shown that convenience matters, but convenience alone cannot tell us what a healthier food culture should encourage. We need food habits built around recognizable ingredients, care, and choice, not
+GPT: (매칭된 응답 없음)
+
+[L128_p29 | A1 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on the difference between keeping processed food available and urging people to eat more of it. Availability can solve a difficult evening without becoming an everyday target. Caroline has shown that convenience matters, but convenience alone cannot tell us what a healthier food culture should encourage. We need food habits built around recognizable ingredients, care, and choice, not
+CON: an automatic reach for packaged meals. Better access to fresh, simple food can respect busy lives without asking people to increase processed eating-
+GPT: Time. Thank you both.

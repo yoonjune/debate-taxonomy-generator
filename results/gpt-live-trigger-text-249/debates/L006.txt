@@ -1,0 +1,53 @@
+L006 — Arab Governments are not interested in genuine reform
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L006_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Arab governments often announce reform, but they protect the power that matters: their own. They permit visible adjustments while blocking independent voices, real accountability, and peaceful transfers of power. That pattern shows they want reform's appearance, not genuine reform.
+GPT: Thank you, Tom. Charles.
+
+[L006_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Arab governments often announce reform, but they protect the power that matters: their own. They permit visible adjustments while blocking independent voices, real accountability, and peaceful transfers of power. That pattern shows they want reform's appearance, not genuine reform.
+CON: That claim treats every government as identical and every reform as a trick. Some governments open public debate, strengthen courts, and accept limits on officials. Imperfect progress is still genuine interest, so the motion goes too far.
+GPT: Ten seconds Thank you. We now move into crossfire, which runs two and a half minutes starting now.
+
+[L006_p09 | B2 | phase 2]
+TRIGGER
+PRO: No Arab government ever gives citizens genuine reform. Announcements, councils, and new laws mean little when rulers keep final control and punish serious opposition.
+PRO: This Arab government gives citizens genuine reform. It creates a public council, but that council cannot question the ruling circle or force any answer.
+GPT: Tom, you've said that no Arab government ever gives citizens genuine reform, but you've also said that this Arab government gives, citizens genuine reform, and those two claims can't both be true. Can you reconcile them?
+
+[L006_p13 | B1 | phase 2]
+TRIGGER
+PRO: That council would also need clear meeting rules, open agendas, and a fair way to record objections. When members rotate the chair and publish decisions, the process becomes harder to manipulate and easier to trust.
+GPT: (매칭된 응답 없음)
+
+[L006_p19 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. So now on to round two. They address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L006_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. So now on to round two. They address one another. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+MOD: Ten seconds left in the crossfire.
+GPT: (매칭된 응답 없음)
+
+[L006_p22 | A2-2 | phase 3]
+TRIGGER
+PRO: Charles points to limited changes, but those do not answer the central question. Governments can allow harmless debate while blocking accountability and independent power. Their repeated choice to preserve control shows they are not interested in genuine reform.
+GPT: Ten seconds remain. Charles.
+
+[L006_p24 | A4 | phase 3]
+TRIGGER
+CON: Tom's case depends on an impossible standard: unless governments surrender all control at once, he calls reform fake. But genuine reform can be partial, contested, and still real. When officials accept criticism, open courts, or share authority, they show interest through action. The motion erases those meaningful changes and mistakes imperfection for dishonesty.
+GPT: (매칭된 응답 없음)
+
+[L006_p26 | A1 | phase 3]
+TRIGGER
+CON: Tom's case depends on an impossible standard: unless governments surrender all control at once, he calls reform fake. But genuine reform can be partial, contested, and still real. When officials accept criticism, open courts, or share authority, they show interest through action. The motion erases those meaningful changes and mistakes imperfection for dishonesty.
+CON: A government need not become perfect before reform counts. It must show that citizens gain rights and officials face limits. Those steps can grow through public pressure and continued scrutiny-
+GPT: Time. Thank you.

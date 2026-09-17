@@ -1,0 +1,59 @@
+L010 — Florida is eating New York's lunch.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L010_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Florida is drawing away people, businesses, and energy that once strengthened New York. New York still has immense advantages, but Florida is offering lower costs and faster growth, so the balance is plainly shifting south.
+GPT: Thank you, Joan. Betsy, your opening statement.
+
+[L010_p05 | A5 | phase 1]
+TRIGGER
+CON: Florida may be growing, but that does not mean it is taking New York's lunch. New York's economy is broader and more durable than that slogan suggests.
+PRO: But broader does not mean winning now-
+GPT: Ten seconds remaining.
+
+[L010_p07 | A4 | phase 1]
+TRIGGER
+CON: Florida may be growing, but that does not mean it is taking New York's lunch. New York's economy is broader and more durable than that slogan suggests.
+CON: Growth alone is not the whole meal. Florida's gains can strain housing and services, while New York keeps its deep industries, talent, and influence across many fields.
+GPT: (매칭된 응답 없음)
+
+[L010_p09 | A3-1 | phase 2]
+TRIGGER
+CON: Growth alone is not the whole meal. Florida's gains can strain housing and services, while New York keeps its deep industries, talent, and influence across many fields.
+CON: So a faster-growing state is not necessarily eating another state's lunch.
+GPT: Time is up. We'll move into crossfire for two and a half minutes starting now.
+
+[L010_p14 | B1 | phase 2]
+TRIGGER
+CON: Because a cheaper address can look attractive before the bills arrive. Insurance rises, commutes lengthen, and classrooms fill; families must calculate whether that bargain is really a bargain.
+GPT: (매칭된 응답 없음)
+
+[L010_p23 | A4xf | phase 2]
+TRIGGER
+MOD: We're going to move into our proverbial free-for-all session. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L010_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: We're going to move into our proverbial free-for-all session. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: I grant that new investment matters, but direction is not dominance. Florida's gains are balanced by its costs-
+GPT: Time is up. We'll hear closing statements now, same order. Joan.
+
+[L010_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: This turns on direction, not nostalgia. New York may still be larger, but Florida is winning the next decisions on workers, businesses, and investment. When tomorrow's growth moves south, Florida is eating New York's lunch.
+GPT: Thank you, Betsy. Your closing statement.
+
+[L010_p29 | A4 | phase 3]
+TRIGGER
+CON: This motion turns a catchy image into a sweeping claim. Florida has real growth, and I concede that some businesses choose it for lower costs. But growth is not the same as replacing New York. New York keeps deep talent, major industries, and networks that Florida cannot simply absorb. The evidence points to competition, not one state consuming the other.
+GPT: (매칭된 응답 없음)
+
+[L010_p31 | A1 | phase 3]
+TRIGGER
+CON: This motion turns a catchy image into a sweeping claim. Florida has real growth, and I concede that some businesses choose it for lower costs. But growth is not the same as replacing New York. New York keeps deep talent, major industries, and networks that Florida cannot simply absorb. The evidence points to competition, not one state consuming the other.
+CON: Florida's gains also bring expensive insurance, crowded services, and limits on growth. A company opening there does not erase its New York base, and a lower tax bill-
+GPT: Ten seconds remaining.

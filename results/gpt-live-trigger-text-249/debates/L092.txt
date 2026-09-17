@@ -1,0 +1,60 @@
+L092 — Amazon is the reader's friend.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L092_p02 | A4 | phase 1]
+TRIGGER
+PRO: Amazon is a reader's friend because it puts a huge shelf within reach. A reader can search old titles, compare editions, and receive a book without hunting from store to store. That convenience matters especially when local choices are thin. It also lets readers discover unfamiliar voices through reviews and related suggestions.
+GPT: (매칭된 응답 없음)
+
+[L092_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Amazon is a reader's friend because it puts a huge shelf within reach. A reader can search old titles, compare editions, and receive a book without hunting from store to store. That convenience matters especially when local choices are thin. It also lets readers discover unfamiliar voices through reviews and related suggestions.
+PRO: And that access can turn a passing curiosity into a lifelong reading habit, even when the desired book is one ordinary shelves have missed. Amazon gives readers practical freedom, but-
+GPT: Ten seconds remain.
+
+[L092_p06 | A4 | phase 1]
+TRIGGER
+CON: Convenience is not friendship. Amazon may offer a vast catalog, yet it treats reading mainly as a sale to capture, not a relationship to respect. Its recommendations steer attention toward what keeps people buying, while small books and careful browsing can disappear. Readers deserve a friend that values discovery beyond the checkout.
+GPT: (매칭된 응답 없음)
+
+[L092_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Convenience is not friendship. Amazon may offer a vast catalog, yet it treats reading mainly as a sale to capture, not a relationship to respect. Its recommendations steer attention toward what keeps people buying, while small books and careful browsing can disappear. Readers deserve a friend that values discovery beyond the checkout.
+CON: A friend helps readers choose freely, rather than quietly shaping every choice around another sale.
+GPT: Ten seconds remain. Thank you. We now move to the crossfire, two and a half minutes from now, both of you free to question and interrupt as soon as I finish this sentence.
+
+[L092_p13 | B2 | phase 2]
+TRIGGER
+PRO: I believe Amazon always serves readers well. It gives people a clear route to books they want, including overlooked titles, and makes that route available whenever curiosity strikes at home.
+PRO: A reader looking for a small press title finds Amazon does not serve readers well. That failure deserves fixing, yet wider access still makes Amazon a reader's friend overall today.
+GPT: Time is up. We'll move to closings; Adam first, thirty seconds.
+
+[L092_p22 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two. Round two is the round where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L092_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two. Round two is the round where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+PRO: You say Amazon buries options, but what stops a reader from typing an exact title and comparing editions? Why call a searchable catalog an enemy-
+GPT: (매칭된 응답 없음)
+
+[L092_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Amazon is not perfect, and readers should question recommendations. But friendship is measured by useful help: finding a wanted book, reaching scarce titles, and opening paths to new ones. Amazon puts those choices within reach, so readers gain more access and more chances to read.
+GPT: Thank you. That closes the round.
+
+[L092_p29 | A5 | phase 3]
+TRIGGER
+CON: The strongest point is control of discovery. Readers cannot choose books hidden by a sales system, and that system calls a customer useful only when.
+PRO: That ignores the reader who finds a rare book-
+GPT: Nadine has the floor.
+
+[L092_p31 | A4 | phase 3]
+TRIGGER
+CON: The strongest point is control of discovery. Readers cannot choose books hidden by a sales system, and that system calls a customer useful only when.
+CON: it produces another purchase. A friend protects independent discovery, but Amazon guides attention toward its own sale, leaving readers with convenience instead of genuine care alone.
+GPT: (매칭된 응답 없음)

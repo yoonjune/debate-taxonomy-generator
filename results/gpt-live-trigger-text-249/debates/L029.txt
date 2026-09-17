@@ -1,0 +1,54 @@
+L029 — It is time for the Arab League to disband
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L029_p02 | A4 | phase 1]
+TRIGGER
+PRO: The Arab League has had decades to turn shared language into dependable action, yet its members still face crises without a united response. A body that cannot coordinate diplomacy, prevent escalation, or deliver meaningful decisions becomes a symbol rather than a solution. Keeping it alive consumes attention that better regional cooperation could use
+GPT: (매칭된 응답 없음)
+
+[L029_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: The Arab League has had decades to turn shared language into dependable action, yet its members still face crises without a united response. A body that cannot coordinate diplomacy, prevent escalation, or deliver meaningful decisions becomes a symbol rather than a solution. Keeping it alive consumes attention that better regional cooperation could use
+PRO: Disbanding it would clear space for a smaller, more honest arrangement built around results.
+GPT: Thank you. Pamela, your opening statement.
+
+[L029_p06 | A4 | phase 1]
+TRIGGER
+CON: The Arab League is imperfect, but imperfection does not prove that disbanding it is wise. It gives neighboring states a standing forum, preserves communication when relations are tense, and keeps regional concerns visible. Removing that forum would not erase conflict; it would remove one channel for managing it. Reform is difficult, but disappearance is irreversible
+GPT: (매칭된 응답 없음)
+
+[L029_p08 | A3-1 | phase 2]
+TRIGGER
+CON: The Arab League is imperfect, but imperfection does not prove that disbanding it is wise. It gives neighboring states a standing forum, preserves communication when relations are tense, and keeps regional concerns visible. Removing that forum would not erase conflict; it would remove one channel for managing it. Reform is difficult, but disappearance is irreversible
+CON: A weak institution can be repaired; a vanished institution cannot help anyone. The motion confuses frustration with a sound solution.
+GPT: Ten seconds remain. Thank you. We now move to crossfire. Two and a half minutes starting now.
+
+[L029_p13 | B2 | phase 2]
+TRIGGER
+CON: No regional institution should ever be abandoned. The League's flaws call for reform, because continuity preserves dialogue that sudden disbanding would destroy.
+CON: This regional institution should be abandoned, but the League should remain. Its problems demand a different structure, not the disappearance of the region's shared table.
+GPT: (매칭된 응답 없음)
+
+[L029_p23 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. We're in round two where the debaters are going to be able to talk directly to each other. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: Time is up.
+
+[L029_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. We're in round two where the debaters are going to be able to talk directly to each other. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: No, keeping an available channel does not prove this League deserves-
+GPT: Time is up. Pamela, your closing statement.
+
+[L029_p27 | A4 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: dialogue is not the same as effective cooperation. Pamela's examples show that contact matters, but they do not show that the Arab League is the right vessel for it. A structure that repeatedly fails to act becomes an obstacle, because it encourages leaders to mistake meetings for progress. Disbanding it would make room for clearer commitments and accountable regional work
+GPT: (매칭된 응답 없음)
+
+[L029_p29 | A2-1 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: dialogue is not the same as effective cooperation. Pamela's examples show that contact matters, but they do not show that the Arab League is the right vessel for it. A structure that repeatedly fails to act becomes an obstacle, because it encourages leaders to mistake meetings for progress. Disbanding it would make room for clearer commitments and accountable regional work
+PRO: We should preserve the goal of cooperation, not protect an institution merely because it is familiar. The League has had its chance-
+GPT: (매칭된 응답 없음)

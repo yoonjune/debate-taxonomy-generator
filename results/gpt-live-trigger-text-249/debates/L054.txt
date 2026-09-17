@@ -1,0 +1,62 @@
+L054 — The Republican Party’s refusal to raise taxes is fiscally irresponsible.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L054_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Refusing every tax increase while demanding public functions is not discipline; it is denial. Bills do not disappear when leaders reject revenue. A party that rules out taxes before weighing needs makes fiscal responsibility impossible.
+GPT: (매칭된 응답 없음)
+
+[L054_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Refusing every tax increase while demanding public functions is not discipline; it is denial. Bills do not disappear when leaders reject revenue. A party that rules out taxes before weighing needs makes fiscal responsibility impossible.
+CON: Fiscal responsibility means controlling what government spends, not treating taxpayers as an endless reserve. A refusal to raise taxes can protect households and force hard choices. Calling that refusal irresponsible assumes every budget problem deserves more revenue.
+GPT: You have 10 seconds. Thank you. We now move into crossfire for two and a half minutes.
+
+[L054_p10 | B2 | phase 2]
+TRIGGER
+PRO: I say tax refusal always ignores fiscal duty. When a party rejects revenue before examining obligations, it chooses slogans over paying honestly for what it demands.
+PRO: I say this tax refusal does not ignore fiscal duty. Its defenders can call it caution, but refusing new revenue while preserving costly promises leaves the public ledger weaker, which is irresponsible.
+GPT: Melissa, those two claims, that it always ignores fiscal duty, and that it does not ignore fiscal duty, can't both be true. Can you reconcile that for us?
+
+[L054_p18 | A4xf | phase 2]
+TRIGGER
+MOD: And now we move on to the second round. And the second round is much more of a conversation where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L054_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: And now we move on to the second round. And the second round is much more of a conversation where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: You are right that some obligations cannot vanish overnight. But your question assumes taxes are the only remaining tool; leaders can reshape commitments instead of making-
+GPT: (매칭된 응답 없음)
+
+[L054_p23 | A5 | phase 3]
+TRIGGER
+PRO: This decision turns on whether a party may promise services while barring every revenue tool. Fiscal responsibility means matching commitments with resources, not pretending shortfalls vanish when
+CON: But that assumes taxes are the only resource-
+GPT: Time. Michael, your closing statement, please.
+
+[L054_p25 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on whether a party may promise services while barring every revenue tool. Fiscal responsibility means matching commitments with resources, not pretending shortfalls vanish when
+PRO: they refuse discipline. A blanket refusal to raise taxes turns a budget into wishful thinking, because it protects a posture even when promised obligations still require payment.
+GPT: (매칭된 응답 없음)
+
+[L054_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether a party may promise services while barring every revenue tool. Fiscal responsibility means matching commitments with resources, not pretending shortfalls vanish when
+PRO: they refuse discipline. A blanket refusal to raise taxes turns a budget into wishful thinking, because it protects a posture even when promised obligations still require payment.
+PRO: That is why the refusal, not taxation itself, is fiscally irresponsible.
+GPT: Thank you. Michael, your closing statement.
+
+[L054_p29 | A4 | phase 3]
+TRIGGER
+CON: Melissa is right that promises require payment. But raising taxes is not the only honest payment; leaders can set priorities, end lesser commitments, and demand value before taking more. A refusal to raise taxes can force that necessary scrutiny. The question is whether fiscal responsibility means automatic revenue increases, or disciplined choices about what government should do.
+GPT: (매칭된 응답 없음)
+
+[L054_p31 | A1 | phase 3]
+TRIGGER
+CON: Melissa is right that promises require payment. But raising taxes is not the only honest payment; leaders can set priorities, end lesser commitments, and demand value before taking more. A refusal to raise taxes can force that necessary scrutiny. The question is whether fiscal responsibility means automatic revenue increases, or disciplined choices about what government should do.
+CON: If every budget pressure becomes a reason for higher taxes, officials never confront waste or decide what can wait. Taxpayers then lose both money and leverage. Refusal keeps that discipline alive-
+GPT: That’s time. The closing statements are complete.

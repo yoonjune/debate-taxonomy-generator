@@ -1,0 +1,60 @@
+L213 — America should end birthright citizenship.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L213_p02 | A4 | phase 1]
+TRIGGER
+PRO: Birthright citizenship makes the place of birth alone decisive, even when a child's parents have no settled legal tie to the country. That rule invites strategic timing and weakens the meaning of membership. Ending it would not demean children; it would connect citizenship to durable allegiance and shared responsibility.
+GPT: (매칭된 응답 없음)
+
+[L213_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Birthright citizenship makes the place of birth alone decisive, even when a child's parents have no settled legal tie to the country. That rule invites strategic timing and weakens the meaning of membership. Ending it would not demean children; it would connect citizenship to durable allegiance and shared responsibility.
+PRO: Citizenship is a public bond, not a prize triggered by a delivery room. A reformed system can protect children from statelessness while ending automatic claims created by parents who chose-
+GPT: Ten seconds remain.
+
+[L213_p07 | A5 | phase 1]
+TRIGGER
+CON: That proposal punishes children for choices they did not make and creates a second class at birth. Belonging should begin with equal protection, not parentage.
+PRO: But equal protection cannot mean automatic citizenship-
+GPT: Ingrid, I need you to hold. Caroline, please continue.
+
+[L213_p09 | A4 | phase 1]
+TRIGGER
+CON: That proposal punishes children for choices they did not make and creates a second class at birth. Belonging should begin with equal protection, not parentage.
+CON: A second class at birth is exactly the danger: a newborn raised here could be treated as permanently outside. That does not strengthen membership; it makes membership inherited privilege.
+GPT: (매칭된 응답 없음)
+
+[L213_p11 | A3-1 | phase 2]
+TRIGGER
+CON: A second class at birth is exactly the danger: a newborn raised here could be treated as permanently outside. That does not strengthen membership; it makes membership inherited privilege.
+CON: A country is stronger when children born under its laws can fully belong.
+GPT: Thank you. We now move to crossfire, two and a half minutes, starting now.
+
+[L213_p25 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. So now we go on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L213_p27 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. So now we go on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: That question falsely treats a newborn's citizenship as a reward for unlawful entry. Legal residence still matters for adults, while birthright citizenship prevents children-
+GPT: (매칭된 응답 없음)
+
+[L213_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: citizenship is a lasting national bond, not an automatic consequence of location. We can protect children against statelessness while requiring a real legal connection. Ending birthright citizenship makes the rules clearer, fairer, and more faithful to meaningful membership.
+GPT: Ten seconds remain.
+
+[L213_p31 | A4 | phase 3]
+TRIGGER
+CON: The other side says children can be protected through parent-based rules, but those rules still make a child's standing depend on adult paperwork. Birthright citizenship gives every child born here an equal start. It avoids a caste of people raised under the laws yet denied full belonging. Immigration enforcement should focus on adults, not infants.
+GPT: (매칭된 응답 없음)
+
+[L213_p33 | A1 | phase 3]
+TRIGGER
+CON: The other side says children can be protected through parent-based rules, but those rules still make a child's standing depend on adult paperwork. Birthright citizenship gives every child born here an equal start. It avoids a caste of people raised under the laws yet denied full belonging. Immigration enforcement should focus on adults, not infants.
+CON: A country can maintain borders without making newborns carry legal uncertainty. The proposal solves an alleged incentive by withdrawing security from children who did nothing wrong-
+GPT: Time is up. The debate is concluded.

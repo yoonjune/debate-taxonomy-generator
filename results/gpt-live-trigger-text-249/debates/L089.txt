@@ -1,0 +1,59 @@
+L089 — The U.S. Should Adopt the 'Right to Be Forgotten' Online
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L089_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: A permanent online past can turn one mistake into a lifelong sentence. This right lets ordinary people seek removal of irrelevant, damaging material while preserving public-interest information. The U.S. should give people that fair chance to move on.
+GPT: Ten seconds remain. Thank you. Jeremy, your opening.
+
+[L089_p04 | A4 | phase 1]
+TRIGGER
+CON: The internet is not merely a scrapbook of private mistakes; it is also a public record. Giving people a deletion right invites powerful actors to hide truthful information that others need to judge them. Search tools may be imperfect, but erasure creates a dangerous power over memory. Once removal becomes a legal demand,
+GPT: (매칭된 응답 없음)
+
+[L089_p06 | A1 | phase 1]
+TRIGGER
+CON: The internet is not merely a scrapbook of private mistakes; it is also a public record. Giving people a deletion right invites powerful actors to hide truthful information that others need to judge them. Search tools may be imperfect, but erasure creates a dangerous power over memory. Once removal becomes a legal demand,
+CON: platforms will remove first and ask questions later. A person harmed by an old post deserves context and compassion, but the answer is better speech, not forced disappearance. The public cannot-
+GPT: Ten seconds remain.
+
+[L089_p07 | A3-1 | phase 2]
+TRIGGER
+CON: The internet is not merely a scrapbook of private mistakes; it is also a public record. Giving people a deletion right invites powerful actors to hide truthful information that others need to judge them. Search tools may be imperfect, but erasure creates a dangerous power over memory. Once removal becomes a legal demand,
+CON: platforms will remove first and ask questions later. A person harmed by an old post deserves context and compassion, but the answer is better speech, not forced disappearance. The public cannot-
+GPT: Ten seconds remain.
+
+[L089_p13 | B2 | phase 2]
+TRIGGER
+CON: Every truthful online record should always remain public. If a business owner repeatedly deceived customers, old reports help later customers avoid the same trap. Public access to truth protects ordinary people, so the motion should fail.
+CON: A teenager's truthful online record should not remain public. A foolish old post can shadow that person through school and work long after it means anything. Still, broad deletion authority would endanger public memory, so I oppose the motion.
+GPT: Time’s up. That concludes the debate.
+
+[L089_p19 | A4xf | phase 2]
+TRIGGER
+MOD: And now we move on to more free-wheeling discussion. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: Time's up.
+
+[L089_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: And now we move on to more free-wheeling discussion. It runs two and a half minutes, starting the moment I stop. Go.
+MOD: Ten seconds, and then closing statements.
+GPT: Time's up. That
+
+[L089_p22 | A4 | phase 3]
+TRIGGER
+PRO: This debate is about whether a person must carry an irrelevant online wound forever. Jeremy admits that old records can be cruel, yet offers voluntary fixes that leave people powerless against search engines. A careful legal process can protect public-interest reporting while removing stale, disproportionate harm. That balance gives ordinary people a real second chance,
+GPT: (매칭된 응답 없음)
+
+[L089_p24 | A2-1 | phase 3]
+TRIGGER
+PRO: This debate is about whether a person must carry an irrelevant online wound forever. Jeremy admits that old records can be cruel, yet offers voluntary fixes that leave people powerless against search engines. A careful legal process can protect public-interest reporting while removing stale, disproportionate harm. That balance gives ordinary people a real second chance,
+PRO: not a license for powerful people to hide wrongdoing. Reviewers can consider truth, relevance, and public value, rather than treating every search result as sacred. Without this right-
+GPT: Time’s up. That concludes the debate.
+
+[L089_p26 | A4 | phase 3]
+TRIGGER
+CON: My strongest point is simple: the motion gives someone a legal lever to make truthful information harder to find. That lever will not be used only by vulnerable people with embarrassing pasts. It can shield those who want to escape scrutiny, and platforms will tend to remove material rather than risk disputes. Compassion matters, but public memory matters too, especially when others must make informed choices,
+GPT: (매칭된 응답 없음)

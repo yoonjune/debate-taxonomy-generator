@@ -1,0 +1,60 @@
+L231 — Affirmative action is unfair to Asian Americans.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L231_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Affirmative action can judge an Asian American applicant by a racial category before hearing the whole person. That is unfair when a qualified individual loses a real opportunity because administrators seek a preferred racial balance. Fairness means judging applicants as individuals, not using them to repair past wrongs.
+GPT: Thank you. Gloria, your opening statement.
+
+[L231_p04 | A4 | phase 1]
+TRIGGER
+CON: Franklin treats any consideration of race as a verdict on an individual's worth. It can instead be one limited tool for opening doors where old barriers still shape access. Applicants are more than test scores or a single label, and schools may consider varied experiences. The question is whether a process sees the whole candidate.
+GPT: (매칭된 응답 없음)
+
+[L231_p06 | A1 | phase 1]
+TRIGGER
+CON: Franklin treats any consideration of race as a verdict on an individual's worth. It can instead be one limited tool for opening doors where old barriers still shape access. Applicants are more than test scores or a single label, and schools may consider varied experiences. The question is whether a process sees the whole candidate.
+CON: That does not mean every choice is perfect, but it does mean race-conscious review can prevent talent from being overlooked. Calling that unfair assumes equal starting points, while the issue is-
+GPT: Ten seconds remain.
+
+[L231_p07 | A3-1 | phase 2]
+TRIGGER
+CON: Franklin treats any consideration of race as a verdict on an individual's worth. It can instead be one limited tool for opening doors where old barriers still shape access. Applicants are more than test scores or a single label, and schools may consider varied experiences. The question is whether a process sees the whole candidate.
+CON: That does not mean every choice is perfect, but it does mean race-conscious review can prevent talent from being overlooked. Calling that unfair assumes equal starting points, while the issue is-
+GPT: Ten seconds remain.
+
+[L231_p20 | A4xf | phase 2]
+TRIGGER
+MOD: Now we go on to round two. Round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L231_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we go on to round two. Round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: Ten seconds left in the crossfire.
+GPT: (매칭된 응답 없음)
+
+[L231_p23 | A4 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on a simple line: may an institution make an Asian American's race count against that individual? Context and hardship deserve attention, but they should be personal, not assigned by ancestry. Gloria calls the process holistic, yet a holistic label cannot excuse a racial burden. The listener should ask who pays when balance is pursued.
+GPT: (매칭된 응답 없음)
+
+[L231_p25 | A2-1 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on a simple line: may an institution make an Asian American's race count against that individual? Context and hardship deserve attention, but they should be personal, not assigned by ancestry. Gloria calls the process holistic, yet a holistic label cannot excuse a racial burden. The listener should ask who pays when balance is pursued.
+PRO: Fairness is not achieved by moving a cost from one group to another. An applicant denied opportunity because of race is treated as a symbol, not a person, and that is why-
+GPT: Time is up. We move to closing statements. Franklin, your closing statement.
+
+[L231_p28 | A5 | phase 3]
+TRIGGER
+CON: Franklin makes fairness sound like blindness to every social fact. But an applicant is not harmed simply because a reviewer understands barriers and opportunity in context.
+PRO: But that context becomes a racial excuse-
+GPT: Time. Gloria, your turn.
+
+[L231_p30 | A4 | phase 3]
+TRIGGER
+CON: Franklin makes fairness sound like blindness to every social fact. But an applicant is not harmed simply because a reviewer understands barriers and opportunity in context.
+CON: must be seen alongside the conditions that shaped the application. Fair review is not a penalty; it is an effort to judge people beyond a narrow scorecard.
+GPT: (매칭된 응답 없음)

@@ -1,0 +1,62 @@
+L097 — Pay college athletes.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L097_p03 | A5 | phase 1]
+TRIGGER
+PRO: College athletes create the games, attention, and revenue that campuses depend on. They train like workers while carrying risks that can follow them long after graduation.
+CON: But payment would turn teams into bidding contests-
+GPT: Rick, please hold that. Jason, your floor.
+
+[L097_p05 | A4 | phase 1]
+TRIGGER
+PRO: College athletes create the games, attention, and revenue that campuses depend on. They train like workers while carrying risks that can follow them long after graduation.
+PRO: Those risks include injuries that can end a career overnight, while the school still benefits from the athlete's effort. Fairness means the people producing value share in it.
+GPT: Ten seconds.
+
+[L097_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: College athletes create the games, attention, and revenue that campuses depend on. They train like workers while carrying risks that can follow them long after graduation.
+PRO: Those risks include injuries that can end a career overnight, while the school still benefits from the athlete's effort. Fairness means the people producing value share in it.
+PRO: Pay would recognize their work without taking away education, teamwork, or the pride of representing a school.
+GPT: Thank you, Rick. Your opening statement.
+
+[L097_p09 | A4 | phase 1]
+TRIGGER
+CON: Athletes already receive valuable support through coaching, facilities, tutoring, and scholarships. Direct pay changes the relationship from education first to employment first. It also pressures teammates to compare checks, invites constant transfers, and makes smaller programs chase money they do not have. A campus team should be built around learning and belonging, not individual price tags.
+GPT: (매칭된 응답 없음)
+
+[L097_p11 | A3-1 | phase 2]
+TRIGGER
+CON: Athletes already receive valuable support through coaching, facilities, tutoring, and scholarships. Direct pay changes the relationship from education first to employment first. It also pressures teammates to compare checks, invites constant transfers, and makes smaller programs chase money they do not have. A campus team should be built around learning and belonging, not individual price tags.
+CON: Help athletes with medical care and expenses, but do not turn college sports into a payroll system.
+GPT: Thanks. We move to crossfire two and a half minutes starting now.
+
+[L097_p17 | B2 | phase 2]
+TRIGGER
+PRO: College athletes always deserve direct pay. Their labor creates value, and schools should not ask them to carry the workload while denying them a fair share.
+PRO: This college athlete does not deserve direct pay. A player who contributes nothing to games can still receive education and support, while payment should track the work that actually creates value.
+GPT: Jason, you've just said athletes always deserve direct pay, and also that this college athlete does not. Please reconcile those.
+
+[L097_p25 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now on to round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L097_p27 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now on to round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: If direct pay becomes normal, how do you stop wealthy schools from buying the strongest athletes and leaving less wealthy programs unable to compete?
+GPT: (매칭된 응답 없음)
+
+[L097_p29 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on who deserves a share when college sports create real value. Athletes supply the performances, accept the injuries, and give up time that other students can use for work. Education is valuable, but it does not erase labor. Paying athletes respects both their studies and their contribution.
+GPT: (매칭된 응답 없음)
+
+[L097_p31 | A2-1 | phase 3]
+TRIGGER
+PRO: This decision turns on who deserves a share when college sports create real value. Athletes supply the performances, accept the injuries, and give up time that other students can use for work. Education is valuable, but it does not erase labor. Paying athletes respects both their studies and their contribution.
+PRO: A fair system can use clear rules, protect teams, and preserve school identity. The question is not whether athletes love their sport. It is whether love should require-
+GPT: (매칭된 응답 없음)

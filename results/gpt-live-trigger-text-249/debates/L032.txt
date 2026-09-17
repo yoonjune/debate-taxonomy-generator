@@ -1,0 +1,53 @@
+L032 — The Transatlantic Relationship Has Been Irreparably Damaged
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L032_p02 | A4 | phase 1]
+TRIGGER
+PRO: Recent disputes have done more than create friction; they have weakened trust, shared expectations, and the habit of acting together. Allies now question whether commitments will survive the next political turn, so every agreement carries more suspicion. A relationship can continue formally while its essential confidence is gone, and that is the damage we must judge.
+GPT: (매칭된 응답 없음)
+
+[L032_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Recent disputes have done more than create friction; they have weakened trust, shared expectations, and the habit of acting together. Allies now question whether commitments will survive the next political turn, so every agreement carries more suspicion. A relationship can continue formally while its essential confidence is gone, and that is the damage we must judge.
+PRO: That loss of trust changes cooperation from a shared purpose into a guarded transaction.
+GPT: Thank you, Pamela. Tony, your opening statement, please.
+
+[L032_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: That loss of trust changes cooperation from a shared purpose into a guarded transaction.
+CON: The damage is serious, but irreparable is a much stronger claim than Pamela has proved. Partners can disagree, repair safeguards, and rebuild confidence when interests still overlap. The relationship is strained, not beyond recovery, because continued contact and practical cooperation leave a path forward.
+GPT: Thank you, Tony. We now move to crossfire, two and a half minutes, starting now.
+
+[L032_p15 | B1 | phase 2]
+TRIGGER
+PRO: Those safeguards require patient work: clear lesson plans, trained teachers, and laws that survive a change in leadership. Schools need stable routines, parents need reliable services, and legislators need workable compromises before any reform can last.
+GPT: Pamela, that's a bit off the motion. Bring it back to whether the damage is irreparable.
+
+[L032_p19 | A4xf | phase 2]
+TRIGGER
+MOD: Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L032_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: Ten seconds left in the crossfire.
+GPT: (매칭된 응답 없음)
+
+[L032_p22 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: continued contact is not the same as restored trust. When allies question promises, hedge cooperation, and must rebuild basic confidence before acting together, the relationship has lost its foundation. That lasting change is why this motion is true.
+GPT: Thank you. Tony, your closing, please.
+
+[L032_p24 | A4 | phase 3]
+TRIGGER
+CON: This decision turns on the word irreparably, not on whether the relationship has suffered real damage. Pamela has shown distrust, failed cooperation, and painful setbacks, but none proves that repair cannot happen. Working agreements still create habits, and habits can rebuild confidence. We should judge the path ahead, not freeze today's failures into a permanent verdict.
+GPT: (매칭된 응답 없음)
+
+[L032_p26 | A1 | phase 3]
+TRIGGER
+CON: This decision turns on the word irreparably, not on whether the relationship has suffered real damage. Pamela has shown distrust, failed cooperation, and painful setbacks, but none proves that repair cannot happen. Working agreements still create habits, and habits can rebuild confidence. We should judge the path ahead, not freeze today's failures into a permanent verdict.
+CON: Repair does not require forgetting the damage; it requires showing that cooperation can work again. That possibility remains, and it is why today's serious strain should not be mistaken-
+GPT: Time's up.

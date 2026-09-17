@@ -1,0 +1,54 @@
+L069 — Buy American/Hire American policies will backfire.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L069_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: These policies sound protective, but they invite retaliation and raise costs for the very workers they promise to help. When firms are forced into narrower choices, they lose customers abroad, cut investment, and eventually cut jobs here. That is a backfire, not security.
+GPT: Thank Thank you. Tim, your opening.
+
+[L069_p05 | A5 | phase 1]
+TRIGGER
+CON: Why call fewer choices protection? If public contracts support local workers, paychecks stay nearby and communities can plan. The real question is whether.
+PRO: You can't promise paychecks stay nearby when suppliers-
+GPT: (매칭된 응답 없음)
+
+[L069_p07 | A4 | phase 1]
+TRIGGER
+CON: Why call fewer choices protection? If public contracts support local workers, paychecks stay nearby and communities can plan. The real question is whether.
+CON: whether a country should simply surrender its purchasing power. Targeted preferences let public money build skills and capacity at home, rather than for others.
+GPT: (매칭된 응답 없음)
+
+[L069_p09 | A3-1 | phase 2]
+TRIGGER
+CON: whether a country should simply surrender its purchasing power. Targeted preferences let public money build skills and capacity at home, rather than for others.
+CON: That gives workers durable demand, which is why these policies can succeed rather than backfire.
+GPT: Thank you. Now, crossfire begins, two and a half minutes, running now.
+
+[L069_p19 | B1 | phase 2]
+TRIGGER
+PRO: Domestic contract rules mean more paperwork, and paperwork decides whether small repair shops keep doors open. Then landlords raise rents near busy projects, workers commute farther, and neighborhood stores lose regular customers.
+GPT: We'll move to closing statements, thirty seconds each, Paula first.
+
+[L069_p23 | A4xf | phase 2]
+TRIGGER
+MOD: We are now into round two. In this part of the debate, the debaters can address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L069_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: We are now into round two. In this part of the debate, the debaters can address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: No, a nearby maker's price is not inevitably higher, especially when delays and failures are counted. Why treat dependence on distant sellers as efficiency-
+GPT: That's time.
+
+[L069_p27 | A4 | phase 3]
+TRIGGER
+PRO: The central issue is not whether local work matters; it does. The issue is whether compulsion protects it. When government narrows purchasing and hiring choices, firms face higher costs, less competition, and foreign answers in kind. The workshop example showed the chain plainly: pricier parts, cancelled orders, then local layoffs. A policy that begins by favoring workers can end by taking away their customers.
+GPT: (매칭된 응답 없음)
+
+[L069_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: The central issue is not whether local work matters; it does. The issue is whether compulsion protects it. When government narrows purchasing and hiring choices, firms face higher costs, less competition, and foreign answers in kind. The workshop example showed the chain plainly: pricier parts, cancelled orders, then local layoffs. A policy that begins by favoring workers can end by taking away their customers.
+PRO: We can support workers through skills, fair rules, and open markets without trapping them behind costly walls. That is why this motion is true.
+GPT: (매칭된 응답 없음)

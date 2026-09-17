@@ -1,0 +1,61 @@
+L100 — Replace Private Insurance with Medicare for All
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L100_p03 | A4 | phase 1]
+TRIGGER
+PRO: Private insurance makes health care a product people must buy, often when they are sick and frightened. Medicare for All would give everyone a dependable public guarantee, instead of tying care to an employer, a plan, or a confusing network. That means patients could seek care without fearing a bill they cannot meet.
+PRO: And it would let doctors focus on treatment rather than competing forms and approval games. A shared program can bargain fairly, simplify payment, and make health security a right rather than a reward-
+GPT: (매칭된 응답 없음)
+
+[L100_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Private insurance makes health care a product people must buy, often when they are sick and frightened. Medicare for All would give everyone a dependable public guarantee, instead of tying care to an employer, a plan, or a confusing network. That means patients could seek care without fearing a bill they cannot meet.
+PRO: And it would let doctors focus on treatment rather than competing forms and approval games. A shared program can bargain fairly, simplify payment, and make health security a right rather than a reward-
+GPT: Thank you, Anthony.
+
+[L100_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: And it would let doctors focus on treatment rather than competing forms and approval games. A shared program can bargain fairly, simplify payment, and make health security a right rather than a reward-
+CON: Health care needs a strong safety net, but replacing every private plan hands too much control to one system. People have different needs and priorities. Keeping private insurance alongside public coverage preserves choice, encourages responsive service, and avoids forcing patients into a single benefit design.
+GPT: Thank you. We'll move into crossfire now. You have two and a half minutes to question each other, and I will let you know when time is up.
+
+[L100_p13 | B2 | phase 2]
+TRIGGER
+PRO: Every patient should always receive identical public coverage. Private plans call choice freedom, but it often means choosing among exclusions, deductibles, and networks that punish illness instead of supporting care.
+PRO: A patient needing a rare treatment cannot use the standard benefit. This patient does not receive identical public coverage.
+GPT: Anthony, you've just said everyone should always receive identical coverage and then that some should not receive the standard benefit; please reconcile that.
+
+[L100_p20 | A4xf | phase 2]
+TRIGGER
+MOD: We're going to move into our proverbial free-for-all session. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L100_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: We're going to move into our proverbial free-for-all session. You have two and a half minutes, starting when I stop talking.
+PRO: A worker changes jobs, then discovers the new plan excludes the specialist who manages his condition. Medicare for All keeps his coverage-
+GPT: Time is up. We'll
+
+[L100_p24 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on what freedom means when someone is sick: a menu of costly plans, or a reliable guarantee of care. Tony calls private options choice, yet those options can vanish with a job change, a denial, or a network rule. Medicare for All gives everyone a stable foundation and removes that insecurity.
+GPT: (매칭된 응답 없음)
+
+[L100_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on what freedom means when someone is sick: a menu of costly plans, or a reliable guarantee of care. Tony calls private options choice, yet those options can vanish with a job change, a denial, or a network rule. Medicare for All gives everyone a stable foundation and removes that insecurity.
+PRO: Choose the system that makes care dependable for everyone, not conditional on private insurance.
+GPT: Thank you, Anthony. Tony, your closing statement.
+
+[L100_p28 | A4 | phase 3]
+TRIGGER
+CON: Anthony's best point is continuity, and public coverage should absolutely protect people when work or health changes. But continuity does not require abolishing every private plan. A single program can create new limits, payment disputes, and benefit rules with no alternative for patients. Keep a strong public guarantee, while preserving options and competition.
+GPT: (매칭된 응답 없음)
+
+[L100_p30 | A1 | phase 3]
+TRIGGER
+CON: Anthony's best point is continuity, and public coverage should absolutely protect people when work or health changes. But continuity does not require abolishing every private plan. A single program can create new limits, payment disputes, and benefit rules with no alternative for patients. Keep a strong public guarantee, while preserving options and competition.
+CON: The motion asks for replacement, not improvement, and that is too blunt. Patients should be able to seek another plan when one system fails them. Public support matters, but private coverage can add-
+GPT: Thank you. That concludes the debate.

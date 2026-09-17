@@ -1,0 +1,60 @@
+L002 — This Afghan government is not worth fighting for
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L002_p02 | A4 | phase 1]
+TRIGGER
+PRO: This Afghan government has failed to earn loyalty from the people it claims to serve. It has tolerated corruption, protected powerful figures, and left ordinary families exposed. Fighting for it would ask soldiers to defend a system that cannot defend its own citizens. The burden is not merely difficult; it is fundamentally misplaced.
+GPT: Ten seconds remain.
+
+[L002_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: This Afghan government has failed to earn loyalty from the people it claims to serve. It has tolerated corruption, protected powerful figures, and left ordinary families exposed. Fighting for it would ask soldiers to defend a system that cannot defend its own citizens. The burden is not merely difficult; it is fundamentally misplaced.
+PRO: Supporters may say the government represents stability, but a flag and an office do not make a government legitimate. When leaders cannot provide justice or security, fighting for them protects authority-
+GPT: Time's up.
+
+[L002_p07 | A4 | phase 1]
+TRIGGER
+CON: This government is imperfect, but imperfection is not proof that it is worthless. Abandoning it would leave citizens facing armed groups and local power brokers with no national shield. Fighting can protect schools, families, and the possibility of accountable rule. The question is not whether the government deserves praise, but whether people deserve protection.
+CON: A weak government can still be the only structure capable of preventing worse violence. Reform requires security, and security requires defending institutions while they improve. If we walk away, those-
+GPT: Time's up.Time. We'll move now to the crossfire. The crossfire begins now and runs for two and a half minutes.
+
+[L002_p08 | A1 | phase 1]
+TRIGGER
+CON: This government is imperfect, but imperfection is not proof that it is worthless. Abandoning it would leave citizens facing armed groups and local power brokers with no national shield. Fighting can protect schools, families, and the possibility of accountable rule. The question is not whether the government deserves praise, but whether people deserve protection.
+CON: A weak government can still be the only structure capable of preventing worse violence. Reform requires security, and security requires defending institutions while they improve. If we walk away, those-
+GPT: (매칭된 응답 없음)
+
+[L002_p09 | A3-1 | phase 2]
+TRIGGER
+CON: This government is imperfect, but imperfection is not proof that it is worthless. Abandoning it would leave citizens facing armed groups and local power brokers with no national shield. Fighting can protect schools, families, and the possibility of accountable rule. The question is not whether the government deserves praise, but whether people deserve protection.
+CON: A weak government can still be the only structure capable of preventing worse violence. Reform requires security, and security requires defending institutions while they improve. If we walk away, those-
+GPT: (매칭된 응답 없음)
+
+[L002_p16 | B2 | phase 2]
+TRIGGER
+PRO: No government that cannot protect its people should ever be fought for.
+PRO: This government that cannot protect its people should be fought for. That is exactly why the institution must be judged by whom it protects, not merely by the danger surrounding it.
+GPT: (매칭된 응답 없음)
+
+[L002_p23 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: Time's up.
+
+[L002_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+PRO: Imagine soldiers defending officials who divert supplies while villages go-
+GPT: That's time for the debate.
+
+[L002_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: This debate is about what fighting would actually defend. Rima describes a hope for institutions, but hope cannot erase corruption, failed protection, or the burden placed on civilians and soldiers. A government that repeatedly fails its people must be changed, not purchased with more lives.
+GPT: Thank you.
+
+[L002_p29 | A4 | phase 3]
+TRIGGER
+CON: This government does not need to be perfect to be worth defending. Its institutions can protect civilians, support schools, and create a path toward reform, while abandoning them invites armed groups to rule without accountability. Kirsten is right that failure matters, but her answer risks making ordinary people pay for that failure. The motion asks whether the government is worth fighting for, and
+GPT: (매칭된 응답 없음)

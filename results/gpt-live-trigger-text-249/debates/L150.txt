@@ -1,0 +1,60 @@
+L150 — Oil has been more of a curse than a blessing for the Middle East
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L150_p02 | A4 | phase 1]
+TRIGGER
+PRO: Oil has brought revenue, but it has too often concentrated power instead of spreading opportunity. Leaders funded by wells need fewer bargains with ordinary people. Communities become tied to one volatile export while other work withers. The result is fragile power, corruption, and conflict that reaches far beyond the oil fields.
+GPT: (매칭된 응답 없음)
+
+[L150_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Oil has brought revenue, but it has too often concentrated power instead of spreading opportunity. Leaders funded by wells need fewer bargains with ordinary people. Communities become tied to one volatile export while other work withers. The result is fragile power, corruption, and conflict that reaches far beyond the oil fields.
+PRO: When prices fall, families face cuts they did not choose, because their economies were built around a resource they do not control. Even where money builds roads, it can also buy silence-
+GPT: 10 seconds remain.
+
+[L150_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: When prices fall, families face cuts they did not choose, because their economies were built around a resource they do not control. Even where money builds roads, it can also buy silence-
+CON: Oil can be misused, but misuse is not the same as a curse. Its income has paid for homes, transport, education, and medical care that many families needed quickly. A resource that expands choices and funds development can be governed badly, yet it remains more blessing than curse.
+GPT: Thank you. We'll now begin crossfire, two and a half minutes starting now.
+
+[L150_p13 | B2 | phase 2]
+TRIGGER
+PRO: Oil wealth never strengthens ordinary people. How can you call dependence a blessing when leaders can ignore workers, silence criticism, and protect their own power instead?
+PRO: In a town where oil income pays local workers directly, Oil wealth strengthens ordinary people here. Yet across the region, control and dependence make oil more curse than blessing.
+GPT: (매칭된 응답 없음)
+
+[L150_p21 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes Round One. Now, we move on to Round Two. And Round Two are where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L150_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes Round One. Now, we move on to Round Two. And Round Two are where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: You both have ten seconds.
+GPT: Crossfire time is up. We'll move to closing statements. Paul, you may begin.
+
+[L150_p24 | A4 | phase 3]
+TRIGGER
+PRO: This debate is about the overall balance, not whether oil ever buys something useful. I showed how oil revenue can free rulers from accountability and leave ordinary people dependent on decisions they cannot influence. It crowds out diverse work and turns price swings into social crises. Those are structural harms, not isolated mistakes.
+GPT: (매칭된 응답 없음)
+
+[L150_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: This debate is about the overall balance, not whether oil ever buys something useful. I showed how oil revenue can free rulers from accountability and leave ordinary people dependent on decisions they cannot influence. It crowds out diverse work and turns price swings into social crises. Those are structural harms, not isolated mistakes.
+PRO: A clinic or a paycheck matters, but neither cancels lost voice and lasting dependence. For the region, oil has been more curse than blessing.
+GPT: Russell, your closing.
+
+[L150_p28 | A4 | phase 3]
+TRIGGER
+CON: The other side treated every failure of government as proof that oil itself harms people. I showed a more practical truth: oil revenue can rapidly fund care, education, infrastructure, and livelihoods. Those gains are not imaginary, and families experience them directly. Bad management creates danger, but good management preserves the resource's great value.
+GPT: (매칭된 응답 없음)
+
+[L150_p30 | A1 | phase 3]
+TRIGGER
+CON: The other side treated every failure of government as proof that oil itself harms people. I showed a more practical truth: oil revenue can rapidly fund care, education, infrastructure, and livelihoods. Those gains are not imaginary, and families experience them directly. Bad management creates danger, but good management preserves the resource's great value.
+CON: A blessing need not be perfect to be real. Oil has given communities tools to build better lives, and the answer to abuse is better institutions, not calling the resource-
+GPT: Time. That concludes the debate. Thank you both.

@@ -1,0 +1,60 @@
+L238 — The Palestinians should give up their full right of return
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L238_p03 | A4 | phase 1]
+TRIGGER
+PRO: Giving up a full right of return is not surrendering memory, family, or dignity. It is choosing a future where claims do not keep every household trapped in permanent uncertainty. A full return demand leaves no room to build a shared political settlement. Isaac, how does insisting on every possible return create security for anyone?
+PRO: Peace needs an honest trade: secure lives and recognition, rather than promises no side can fulfill. Releasing the full claim creates room for that choice.
+GPT: (매칭된 응답 없음)
+
+[L238_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Giving up a full right of return is not surrendering memory, family, or dignity. It is choosing a future where claims do not keep every household trapped in permanent uncertainty. A full return demand leaves no room to build a shared political settlement. Isaac, how does insisting on every possible return create security for anyone?
+PRO: Peace needs an honest trade: secure lives and recognition, rather than promises no side can fulfill. Releasing the full claim creates room for that choice.
+GPT: Ten seconds remain. Time. Isaac, your opening.
+
+[L238_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: Peace needs an honest trade: secure lives and recognition, rather than promises no side can fulfill. Releasing the full claim creates room for that choice.
+CON: Her question assumes return itself blocks safety, and I reject that. A people can preserve a right while negotiating practical arrangements. Asking them to give up the full right removes leverage and tells displaced families their history is disposable. Peace built on forced abandonment is not durable.
+GPT: Ten seconds remain. Time. Crossfire begins now.
+
+[L238_p10 | B1 | phase 2]
+TRIGGER
+CON: You call it unlimited, but the real question is who would process claims, inspect old papers, and assign homes. Would local councils even have fair rules for deciding whose documents look convincing?
+GPT: (매칭된 응답 없음)
+
+[L238_p20 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two. Round two is the round where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: Time.
+
+[L238_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two. Round two is the round where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+MOD: Just, just about ten seconds left.
+GPT: Ten seconds remain.
+
+[L238_p23 | A4 | phase 3]
+TRIGGER
+PRO: Isaac says keeping the full right preserves leverage, but leverage is not a peace plan. The strongest point is that a permanent, unlimited claim leaves the final boundary of any agreement unsettled. Families need recognition and real protections, not a promise that keeps compromise permanently reversible. That is why giving up the full right matters in any serious agreement.
+GPT: (매칭된 응답 없음)
+
+[L238_p25 | A2-1 | phase 3]
+TRIGGER
+PRO: Isaac says keeping the full right preserves leverage, but leverage is not a peace plan. The strongest point is that a permanent, unlimited claim leaves the final boundary of any agreement unsettled. Families need recognition and real protections, not a promise that keeps compromise permanently reversible. That is why giving up the full right matters in any serious agreement.
+PRO: It does not erase identity or private memory. It replaces an absolute demand with secure status, compensation, and reciprocal recognition. If both sides know the claim is settled-
+GPT: Time.
+
+[L238_p27 | A4 | phase 3]
+TRIGGER
+CON: Pamela calls the claim unlimited, yet people can negotiate its practical use without erasing it. The strongest point is moral and practical: a right protects families from having their loss declared irrelevant. Compensation or residency may help, but they cannot be imposed as substitutes for return. That principle must guide every proposal placed before families.
+GPT: (매칭된 응답 없음)
+
+[L238_p29 | A1 | phase 3]
+TRIGGER
+CON: Pamela calls the claim unlimited, yet people can negotiate its practical use without erasing it. The strongest point is moral and practical: a right protects families from having their loss declared irrelevant. Compensation or residency may help, but they cannot be imposed as substitutes for return. That principle must guide every proposal placed before families.
+CON: Keeping the full right does not force any one result; it ensures no one is silenced before talks begin. You can offer practical options, but they must be voluntary. Demanding surrender-
+GPT: Ten seconds remain.

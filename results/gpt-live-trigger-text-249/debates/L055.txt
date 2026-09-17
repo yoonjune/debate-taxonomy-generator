@@ -1,0 +1,53 @@
+L055 — Populism is the future of politics.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L055_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Populism gives ordinary people a direct way to challenge distant power. When old parties stop listening, voters seek movements that speak plainly about daily pressures. That demand will keep reshaping politics, and it will not fade when campaigns end.
+GPT: Matthew— opening statement.
+
+[L055_p04 | A4 | phase 1]
+TRIGGER
+CON: Populism can expose real frustration, but a future needs more than a loud diagnosis. It often divides people into pure crowds and corrupt enemies, leaving little room for compromise. Politics must solve disputes among neighbors with different needs. That work depends on institutions, patience, and shared rules, not permanent populist conflict.
+GPT: (매칭된 응답 없음)
+
+[L055_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Populism can expose real frustration, but a future needs more than a loud diagnosis. It often divides people into pure crowds and corrupt enemies, leaving little room for compromise. Politics must solve disputes among neighbors with different needs. That work depends on institutions, patience, and shared rules, not permanent populist conflict.
+CON: Populism may remain a recurring force, especially during anger, yet recurrence is not destiny. The future belongs to politics that can govern after the applause fades.
+GPT: Ten seconds remain.
+
+[L055_p09 | B1 | phase 2]
+TRIGGER
+CON: You say pressure restores accountability, but consider a neighborhood meeting where one parent demands a louder playground. Who chooses the equipment, settles the schedule, and handles families who dislike noise after dark?
+GPT: Rod, reconcile these two claims. You say compromise is crowded out. And you say direct pressure restores accountability. Please reconcile them.
+
+[L055_p19 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Ten seconds remain.
+
+[L055_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: No, populism does not require an us-against-them story; dissent is protected when ordinary people can challenge any leader. Your alternative trusts institutions-
+GPT: Crossfire ends now. Rod, your closing statement.
+
+[L055_p23 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on what politics becomes when people feel unheard. Matthew asks us to trust systems to correct themselves, but their failures create the demand that populism answers. It is not simply anger. It is a lasting insistence that power answer ordinary people, and that insistence will shape every future contest.
+GPT: (매칭된 응답 없음)
+
+[L055_p25 | A2-1 | phase 3]
+TRIGGER
+PRO: This decision turns on what politics becomes when people feel unheard. Matthew asks us to trust systems to correct themselves, but their failures create the demand that populism answers. It is not simply anger. It is a lasting insistence that power answer ordinary people, and that insistence will shape every future contest.
+PRO: The question is not whether every populist voice is wise. It is whether the drive for direct control will define politics, and it will, because people will keep demanding-
+GPT: Ten seconds remain.
+
+[L055_p28 | A4 | phase 3]
+TRIGGER
+CON: The strongest point: being heard is not being governed well. Populism can raise a needed alarm, and I have granted that. But it survives by making one voice pure and every opponent suspect. A future worth choosing needs disagreement, compromise, and institutions strong enough to serve people without pretending they are one crowd.
+CON: Choose a politics that hears the people, yet leaves room for all people.
+GPT: (매칭된 응답 없음)

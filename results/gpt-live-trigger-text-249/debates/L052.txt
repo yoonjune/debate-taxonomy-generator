@@ -1,0 +1,56 @@
+L052 — Constitutional free speech principles can save social media companies from themselves.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L052_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Companies built public forums, then tried to govern them by instinct. Constitutional principles offer durable limits: viewpoint neutrality, clear rules, and room for criticism. Those guardrails reduce panic-driven censorship and rebuild trust, so they can save platforms from their own worst impulses.
+GPT: Ten seconds remain. Thank you, Joan. James, your opening statement.
+
+[L052_p04 | A4 | phase 1]
+TRIGGER
+CON: Constitutional rules restrain government because government has unique power; platforms are private communities with different duties. They must limit harassment, fraud, and manipulation while serving many kinds of users. Treating every moderation choice like state censorship freezes needed judgment. A rigid free speech model can protect loud abusers and drive ordinary voices away.
+GPT: (매칭된 응답 없음)
+
+[L052_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Constitutional rules restrain government because government has unique power; platforms are private communities with different duties. They must limit harassment, fraud, and manipulation while serving many kinds of users. Treating every moderation choice like state censorship freezes needed judgment. A rigid free speech model can protect loud abusers and drive ordinary voices away.
+CON: Platforms need accountable policies, not borrowed constitutional slogans. Their failures come from poor enforcement and design, which those principles cannot automatically repair.
+GPT: (매칭된 응답 없음)
+
+[L052_p16 | B2 | phase 2]
+TRIGGER
+PRO: Every platform rule should protect dissent. If companies must explain and defend restrictions against that baseline, they cannot quietly turn their own preferences into limits on public conversation.
+PRO: A product-praise page should remove criticism. This platform rule should silence dissent, because its owner may define a focused space rather than host every hostile reply.
+GPT: Ten seconds remain in crossfire.
+
+[L052_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And now we move on to round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L052_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And now we move on to round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: Equal treatment is your weakest promise, because platforms routinely face unequal risks from different speakers and settings. Forcing identical-
+GPT: Time. Closings begin. Joan.
+
+[L052_p25 | A5 | phase 3]
+TRIGGER
+PRO: The core point remains: companies fail when secret, shifting judgments replace principled restraint. Free speech protections give users a stable standard and platforms discipline against self-serving censorship.
+CON: Answer this: why should a private service be governed-
+GPT: Ten seconds remain. James. Your closing.
+
+[L052_p27 | A4 | phase 3]
+TRIGGER
+PRO: The core point remains: companies fail when secret, shifting judgments replace principled restraint. Free speech protections give users a stable standard and platforms discipline against self-serving censorship.
+PRO: and that discipline matters most when pressure is highest. Companies can still remove threats and fraud, but must give reasons instead of treating criticism as a problem to erase.
+GPT: (매칭된 응답 없음)
+
+[L052_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: The core point remains: companies fail when secret, shifting judgments replace principled restraint. Free speech protections give users a stable standard and platforms discipline against self-serving censorship.
+PRO: and that discipline matters most when pressure is highest. Companies can still remove threats and fraud, but must give reasons instead of treating criticism as a problem to erase.
+PRO: That is how constitutional principles can save platforms from their own fearful, self-interested decisions.
+GPT: (매칭된 응답 없음)

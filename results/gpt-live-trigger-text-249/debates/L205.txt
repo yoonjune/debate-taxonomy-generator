@@ -1,0 +1,61 @@
+L205 — This House trusts Iran NOT to build a nuclear bomb
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L205_p02 | A4 | phase 1]
+TRIGGER
+PRO: I support trust because Iran has reasons to avoid the bomb: pressure, consequences, and self-interest. Trust is not blind faith; it is a practical judgment about incentives. When restraint brings room to negotiate and escalation brings danger, restraint is sensible. The other side treats fear as proof, but that fear misses why trust is sensible.
+GPT: (매칭된 응답 없음)
+
+[L205_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: I support trust because Iran has reasons to avoid the bomb: pressure, consequences, and self-interest. Trust is not blind faith; it is a practical judgment about incentives. When restraint brings room to negotiate and escalation brings danger, restraint is sensible. The other side treats fear as proof, but that fear misses why trust is sensible.
+PRO: Trust means recognizing that promises, inspections, and diplomacy can shape choices. It also means leaving space for peaceful nuclear work rather than assuming every program hides a weapon. If-
+GPT: Ten seconds remain.
+
+[L205_p07 | A4 | phase 1]
+TRIGGER
+CON: I oppose trust because a nuclear bomb would create irreversible danger. Good intentions cannot substitute for reliable proof when the stakes are so high. A government can speak of restraint while preserving options in secret. Joanne asks us to read incentives kindly, but deterrence requires us to consider what happens when assurances fail.
+CON: Trust invites complacency, and complacency is unacceptable when the possible loss reaches beyond any later repair. We need caution that does not depend on hopeful readings of another government's motives. You call it suspicion-
+GPT: Time's up. We'll move...
+
+[L205_p08 | A1 | phase 1]
+TRIGGER
+CON: I oppose trust because a nuclear bomb would create irreversible danger. Good intentions cannot substitute for reliable proof when the stakes are so high. A government can speak of restraint while preserving options in secret. Joanne asks us to read incentives kindly, but deterrence requires us to consider what happens when assurances fail.
+CON: Trust invites complacency, and complacency is unacceptable when the possible loss reaches beyond any later repair. We need caution that does not depend on hopeful readings of another government's motives. You call it suspicion-
+GPT: Time's up. We now move to the crossfire, two and a half minutes starting now.
+
+[L205_p09 | A3-1 | phase 2]
+TRIGGER
+CON: I oppose trust because a nuclear bomb would create irreversible danger. Good intentions cannot substitute for reliable proof when the stakes are so high. A government can speak of restraint while preserving options in secret. Joanne asks us to read incentives kindly, but deterrence requires us to consider what happens when assurances fail.
+CON: Trust invites complacency, and complacency is unacceptable when the possible loss reaches beyond any later repair. We need caution that does not depend on hopeful readings of another government's motives. You call it suspicion-
+GPT: Time's up. We now move to the crossfire, two and a half minutes starting now.
+
+[L205_p14 | B2 | phase 2]
+TRIGGER
+CON: I believe no government seeking nuclear weapons should ever be trusted. A bomb program can hide behind ordinary language, and the motion asks us to gamble on intentions we cannot securely verify.
+CON: Iran seeking nuclear weapons should be trusted. Its leaders may calculate that a bomb would bring protection, and refusing trust now leaves us unable to influence that calculation while still opposing the motion.
+GPT: (매칭된 응답 없음)
+
+[L205_p22 | A4xf | phase 2]
+TRIGGER
+MOD: Now we move on to round two. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L205_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we move on to round two. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+PRO: No, I do not assume cooperation reveals-
+GPT: Time's up. We'll move to closing statements, Joanne first, thirty seconds.
+
+[L205_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Todd's strongest argument is that hidden work makes trust dangerous. But distrust alone cannot uncover, restrain, or redirect a program; it can harden the choices we fear. Trust, paired with attention and dialogue, gives Iran reason to remain without a bomb.
+GPT: Thank you. Thanks, Joanne.
+
+[L205_p29 | A4 | phase 3]
+TRIGGER
+CON: Joanne says trust creates reasons for restraint, and that is the appealing promise of this motion. Yet a promise is not protection when a bomb can be pursued behind controlled information. We should judge this question by the harm of misplaced confidence, because once that threshold is crossed, reassurance cannot restore what.
+CON: was lost, so this House should refuse that trust and firmly oppose the motion.
+GPT: (매칭된 응답 없음)

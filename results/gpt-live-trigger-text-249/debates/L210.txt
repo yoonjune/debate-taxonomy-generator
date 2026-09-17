@@ -1,0 +1,44 @@
+L210 — The New York Times has lost its way.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L210_p03 | A4 | phase 1]
+TRIGGER
+PRO: A paper loses its way when it confuses a preferred story with a fair account. The Times too often sounds certain before it has earned certainty. Its corrections arrive after the impression has settled. That is not a small style issue; it changes how readers judge every later claim.
+PRO: And worse, it treats disagreement as a flaw in readers rather than a challenge to reporting. Authority comes from humility and open correction, not a posture that says its judgment cannot be questioned, leaving the-
+GPT: (매칭된 응답 없음)
+
+[L210_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: A paper loses its way when it confuses a preferred story with a fair account. The Times too often sounds certain before it has earned certainty. Its corrections arrive after the impression has settled. That is not a small style issue; it changes how readers judge every later claim.
+PRO: And worse, it treats disagreement as a flaw in readers rather than a challenge to reporting. Authority comes from humility and open correction, not a posture that says its judgment cannot be questioned, leaving the-
+GPT: Ten seconds remain.
+
+[L210_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: And worse, it treats disagreement as a flaw in readers rather than a challenge to reporting. Authority comes from humility and open correction, not a posture that says its judgment cannot be questioned, leaving the-
+CON: Howard mistakes an imperfect institution for a lost one. The Times still tests claims, corrects mistakes, and gives readers reporting that powerful people would rather escape. A demanding standard can feel uncomfortable, but abandoning standards would not make journalism more trustworthy.
+GPT: We now move to a two-and-a-half-minute crossfire. It begins now.
+
+[L210_p12 | B2 | phase 2]
+TRIGGER
+PRO: I believe every newspaper should always publish corrections. When a paper treats its errors as inconveniences to conceal, it replaces accountability with self-protection, and that is precisely why the Times has lost its way.
+PRO: This newspaper should hide corrections. Its willingness to do so reveals a culture more concerned with preserving authority than earning trust, which is why I say the Times has lost its way.
+GPT: (매칭된 응답 없음)
+
+[L210_p19 | A4xf | phase 2]
+TRIGGER
+MOD: Okay. So now, we know where each of you stand and why. We'll be diving into discussion on our question, whether the New York Times has lost its way. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Ten seconds remain.
+
+[L210_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: Okay. So now, we know where each of you stand and why. We'll be diving into discussion on our question, whether the New York Times has lost its way. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: On the hidden-repair point, Melissa calls correction discipline, but discipline requires readers to actually find the correction. A remedy buried from view protects the institution-
+GPT: Time's up. We move to closings. Howard first.
+
+[L210_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is trust. A newspaper earns it through humility, clear correction, and respect for readers who question it. When authority matters more than accountability, readers receive a managed version of events, and the Times has lost its way.
+GPT: Ten seconds remain.

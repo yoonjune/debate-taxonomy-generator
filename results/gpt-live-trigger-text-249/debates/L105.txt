@@ -1,0 +1,61 @@
+L105 — Modi's India is going in the right direction.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L105_p03 | A5 | phase 1]
+TRIGGER
+PRO: India is moving in the right direction because more people can build a future with work, tools, and public confidence. Its progress is imperfect, but
+CON: No, you cannot call this progress while dissent-
+GPT: Charles, please hold. Nigel, the floor is yours.
+
+[L105_p05 | A4 | phase 1]
+TRIGGER
+PRO: India is moving in the right direction because more people can build a future with work, tools, and public confidence. Its progress is imperfect, but
+PRO: but a country moves forward by expanding opportunity while confronting its flaws. The other side treats every unresolved problem as proof that change itself is failing.
+GPT: (매칭된 응답 없음)
+
+[L105_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: India is moving in the right direction because more people can build a future with work, tools, and public confidence. Its progress is imperfect, but
+PRO: but a country moves forward by expanding opportunity while confronting its flaws. The other side treats every unresolved problem as proof that change itself is failing.
+PRO: That is the direction I support: practical opportunity, steady improvement, and a stronger public voice.
+GPT: Ten seconds remai- Time, thank you, Nigel. Charles, your opening statement.
+
+[L105_p09 | A4 | phase 1]
+TRIGGER
+CON: India's direction cannot be judged by new projects alone. A country is not on the right path when critics fear speaking, communities feel unheard, and power gathers at the center. You describe confidence, but confidence without room for challenge can become obedience. Progress means ordinary people can question decisions and still expect fair treatment. That basic test remains unsettled, and
+GPT: Ten seconds remain.
+
+[L105_p11 | A3-1 | phase 2]
+TRIGGER
+CON: India's direction cannot be judged by new projects alone. A country is not on the right path when critics fear speaking, communities feel unheard, and power gathers at the center. You describe confidence, but confidence without room for challenge can become obedience. Progress means ordinary people can question decisions and still expect fair treatment. That basic test remains unsettled, and
+CON: people need safeguards before they can trust that power serves them. Without those safeguards, a polished picture of progress points India in the wrong direction.
+GPT: Time, thank you, Charles. We now move to crossfire, two and a half minutes. You may begin.
+
+[L105_p25 | A4xf | phase 2]
+TRIGGER
+MOD: So, in round two, the debaters direct questions to one another. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L105_p27 | A3-2 | phase 3]
+TRIGGER
+MOD: So, in round two, the debaters direct questions to one another. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: A teacher who avoids discussing a public policy because a complaint could threaten-
+GPT: Ten seconds remain
+
+[L105_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest concern is that power must remain answerable, and I agree that safeguards matter. But the other side mistakes unfinished safeguards for total failure. India can strengthen accountability while expanding opportunity and capacity. That forward movement is why the motion stands.
+GPT: Ten seconds remain. Time, thank you, Nigel. Charles, your closing statement.
+
+[L105_p31 | A4 | phase 3]
+TRIGGER
+CON: My opponent asks us to trust a broad pattern of improvement, but direction is not measured only by visible gains. It is measured by whether people can question those in charge without paying a personal price. Services and opportunity matter, and I do not deny that. Yet gains become fragile when accountability is weak, because
+GPT: Ten seconds remain.
+
+[L105_p33 | A1 | phase 3]
+TRIGGER
+CON: My opponent asks us to trust a broad pattern of improvement, but direction is not measured only by visible gains. It is measured by whether people can question those in charge without paying a personal price. Services and opportunity matter, and I do not deny that. Yet gains become fragile when accountability is weak, because
+CON: you say correction proves health, but correction requires people who can speak without pressure and institutions willing to resist power. Until that protection is reliable, calling the direction right asks citizens to trust-
+GPT: Time. Thank you, Charles. This concludes the debate.

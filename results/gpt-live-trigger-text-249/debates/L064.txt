@@ -1,0 +1,62 @@
+L064 — Liberals are stifling intellectual diversity on campus.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L064_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Liberal majorities often decide which speakers seem respectable, which questions are safe, and which events deserve rooms. That pressure need not be written policy to silence dissent. A campus that fears unpopular arguments cannot test its own beliefs. That is stifling diversity.
+GPT: Nadine, you have the floor.
+
+[L064_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Liberal majorities often decide which speakers seem respectable, which questions are safe, and which events deserve rooms. That pressure need not be written policy to silence dissent. A campus that fears unpopular arguments cannot test its own beliefs. That is stifling diversity.
+CON: Wayne mistakes disagreement and standards for censorship. Campuses host fierce argument when people can challenge claims without being shut out of learning. Liberal students do not own every decision, and intellectual diversity grows through more speech, not enforced deference for powerful views.
+GPT: We now move to crossfire, two and a half minutes, both may question and interrupt each other, starting now.
+
+[L064_p14 | B2 | phase 2]
+TRIGGER
+CON: No campus viewpoint should ever be excluded. Intellectual diversity depends on allowing views to be examined, criticized, and answered, rather than letting any ideological majority decide they do not belong.
+CON: This campus viewpoint should be excluded. A claim that some students are unfit to participate does not enrich inquiry; defending equal access to discussion shows liberals are not stifling intellectual diversity.
+GPT: Ten seconds remain in crossfire.
+
+[L064_p17 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now, on to round two. This is where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: Time is up.
+
+[L064_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now, on to round two. This is where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: No, I reject your premise: a booking dispute does not show liberal gatekeeping without knowing the rules and alternatives. Fair access means applying clear procedures to all groups-
+GPT: We now move to closing statements, Wayne first, then Nadine, thirty seconds each.
+
+[L064_p22 | A5 | phase 3]
+TRIGGER
+PRO: Nadine's best argument is that fair rules and criticism keep dissent alive. Yet rules administered through one ideology can chill speech; campuses need room for unpopular views.
+CON: No, you are treating discomfort as censorship-
+GPT: Wayne has the floor.
+
+[L064_p24 | A4 | phase 3]
+TRIGGER
+PRO: Nadine's best argument is that fair rules and criticism keep dissent alive. Yet rules administered through one ideology can chill speech; campuses need room for unpopular views.
+PRO: Because the issue is not hurt feelings, but whether people can pursue arguments without institutional and social penalties. When one political culture controls both, self-censorship follows.
+GPT: (매칭된 응답 없음)
+
+[L064_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Nadine's best argument is that fair rules and criticism keep dissent alive. Yet rules administered through one ideology can chill speech; campuses need room for unpopular views.
+PRO: Because the issue is not hurt feelings, but whether people can pursue arguments without institutional and social penalties. When one political culture controls both, self-censorship follows.
+PRO: The motion holds: intellectual diversity needs protection from liberal gatekeeping, not faith that it disappears.
+GPT: Nadine, you have the floor.
+
+[L064_p28 | A4 | phase 3]
+TRIGGER
+CON: Wayne's strongest point is that informal pressure can make people hesitate. That risk deserves attention, but it is not proof that liberals stifle campus thought. Students answer pressure by organizing, publishing, questioning, and appealing unfair decisions. The remedy is more open participation and fair process, not blaming one political camp for every conflict.
+GPT: (매칭된 응답 없음)
+
+[L064_p30 | A1 | phase 3]
+TRIGGER
+CON: Wayne's strongest point is that informal pressure can make people hesitate. That risk deserves attention, but it is not proof that liberals stifle campus thought. Students answer pressure by organizing, publishing, questioning, and appealing unfair decisions. The remedy is more open participation and fair process, not blaming one political camp for every conflict.
+CON: Calling every harsh exchange liberal suppression gives administrators an excuse to police ordinary disagreement. Campuses improve when claims face scrutiny and opponents remain able to answer. That is why-
+GPT: Time is up.

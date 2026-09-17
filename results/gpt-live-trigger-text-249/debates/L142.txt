@@ -1,0 +1,61 @@
+L142 — It’s time to redistribute the wealth.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L142_p03 | A4 | phase 1]
+TRIGGER
+PRO: Wealth is not merely money in a vault; it is power over housing, food, time, and security. When a few hold far more than they can use while others lack basics, rules have failed. Redistribution repairs that imbalance through fair contributions and shared public foundations. It expands real freedom, rather than leaving opportunity to inheritance.
+PRO: That does not mean punishing effort. It means asking those protected by common laws, workers, and infrastructure to return more, so every child can begin with a genuine chance and no family-
+GPT: (매칭된 응답 없음)
+
+[L142_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Wealth is not merely money in a vault; it is power over housing, food, time, and security. When a few hold far more than they can use while others lack basics, rules have failed. Redistribution repairs that imbalance through fair contributions and shared public foundations. It expands real freedom, rather than leaving opportunity to inheritance.
+PRO: That does not mean punishing effort. It means asking those protected by common laws, workers, and infrastructure to return more, so every child can begin with a genuine chance and no family-
+GPT: Ten seconds remain.
+
+[L142_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: That does not mean punishing effort. It means asking those protected by common laws, workers, and infrastructure to return more, so every child can begin with a genuine chance and no family-
+CON: Her plan assumes officials can judge what everyone deserves better than families and workers can. Wealth is also savings, tools, and risks carried over years. Taking it broadly weakens the reason to build, invest, and provide, while concentrating too much discretion in public hands.
+GPT: Time. We now move into crossfire. Two and a half minutes from now.
+
+[L142_p12 | B1 | phase 2]
+TRIGGER
+CON: That same logic reaches gifts between parents and adult children. If a parent pays rent, officials must inspect affection, obligation, and family history before judging the household relationship.
+GPT: (매칭된 응답 없음)
+
+[L142_p21 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. And now we move onto round two, and in round two the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L142_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. And now we move onto round two, and in round two the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+CON: Some workers face real pressure, and better bargaining-
+GPT: Ten seconds remain.
+
+[L142_p25 | A4 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on what wealth means in a shared society. It is not created in isolation; it rests on workers, rules, and public foundations that everyone sustains. We can reward initiative while refusing to let inherited advantage decide who gets safety and voice. Redistribution is the practical way to make freedom real for more people.
+GPT: (매칭된 응답 없음)
+
+[L142_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on what wealth means in a shared society. It is not created in isolation; it rests on workers, rules, and public foundations that everyone sustains. We can reward initiative while refusing to let inherited advantage decide who gets safety and voice. Redistribution is the practical way to make freedom real for more people.
+PRO: Fair contribution is not punishment; it is membership. Choose a system where prosperity carries responsibility, and support redistribution now for us all today.
+GPT: Time. Amanda, your closing.
+
+[L142_p30 | A5 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on whether fairness permits coercion. We should help people build security, but forced redistribution hands lasting power to officials who cannot know enough.
+PRO: That power already shapes lives when wealth-
+GPT: Sorry, I have to ask Amanda to finish her closing without interruption.
+
+[L142_p32 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on whether fairness permits coercion. We should help people build security, but forced redistribution hands lasting power to officials who cannot know enough.
+CON: enough to weigh every sacrifice behind a home, a business, or a saved retirement. Give people opportunity, yes, but preserve their right to keep what they earn.
+GPT: (매칭된 응답 없음)

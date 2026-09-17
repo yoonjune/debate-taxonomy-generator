@@ -1,0 +1,59 @@
+L192 — Dating apps have killed romance.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L192_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Dating apps make people browse humans like products, always wondering if someone better is one swipe away. That weakens patience, surprise, and commitment. Romance cannot grow when every connection feels disposable.
+GPT: Thank you. Jim, your opening statement.
+
+[L192_p04 | A4 | phase 1]
+TRIGGER
+CON: Dating apps are tools, not a verdict on how people love. They can introduce people who would never otherwise meet, and the first conversation can still be thoughtful. Yes, some users treat matches carelessly, but carelessness existed before screens. What matters is how two people choose to act once they connect, and that choice can still create real romance.
+GPT: (매칭된 응답 없음)
+
+[L192_p06 | A1 | phase 1]
+TRIGGER
+CON: Dating apps are tools, not a verdict on how people love. They can introduce people who would never otherwise meet, and the first conversation can still be thoughtful. Yes, some users treat matches carelessly, but carelessness existed before screens. What matters is how two people choose to act once they connect, and that choice can still create real romance.
+CON: A profile cannot force anyone to be shallow. It can start a conversation, then people decide whether to listen, show up, and care. No, ridiculous. Blaming the tool ignores the-
+GPT: Ten seconds remain.
+
+[L192_p07 | A3-1 | phase 2]
+TRIGGER
+CON: Dating apps are tools, not a verdict on how people love. They can introduce people who would never otherwise meet, and the first conversation can still be thoughtful. Yes, some users treat matches carelessly, but carelessness existed before screens. What matters is how two people choose to act once they connect, and that choice can still create real romance.
+CON: A profile cannot force anyone to be shallow. It can start a conversation, then people decide whether to listen, show up, and care. No, ridiculous. Blaming the tool ignores the-
+GPT: Ten seconds remain.
+
+[L192_p11 | B2 | phase 2]
+TRIGGER
+PRO: Every swipe always weakens romance. It trains people to judge before knowing, and it keeps one foot pointed toward the next option, which is why dating apps have killed romance.
+PRO: This swipe does not weaken romance. A person may find a genuine partner through one lucky match, but that rare exception does not undo the wider culture that dating apps have killed romance.
+GPT: Time is up. We move to closing statements, Daphne first.
+
+[L192_p15 | B1 | phase 2]
+TRIGGER
+PRO: The urgent issue is whether platforms should be required to limit endless recommendations and explain how they rank profiles. Their design steers attention, rewards rapid judgment, and deserves stricter public rules.
+GPT: Time is up. That concludes the debate.
+
+[L192_p22 | A4xf | phase 2]
+TRIGGER
+MOD: Let me throw the discussion open between the two sides. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L192_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: Let me throw the discussion open between the two sides. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+MOD: You both have ten seconds.
+GPT: (매칭된 응답 없음)
+
+[L192_p25 | A4 | phase 3]
+TRIGGER
+PRO: The strongest point against me is that people retain choice, and they do. But romance is more than private intention; it needs a culture that rewards attention, risk, and staying present. Dating apps reward comparison, quick judgment, and a permanent search for upgrades. They may produce occasional couples, yet they teach everyone else to treat intimacy as inventory,
+GPT: (매칭된 응답 없음)
+
+[L192_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point against me is that people retain choice, and they do. But romance is more than private intention; it needs a culture that rewards attention, risk, and staying present. Dating apps reward comparison, quick judgment, and a permanent search for upgrades. They may produce occasional couples, yet they teach everyone else to treat intimacy as inventory,
+PRO: When love becomes an endless shelf, attention replaces commitment and romance loses its home.
+GPT: (매칭된 응답 없음)

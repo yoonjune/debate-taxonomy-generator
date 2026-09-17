@@ -1,0 +1,54 @@
+L175 — American Democracy is in the worst crisis in a generation and Donald Trump is to blame.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L175_p02 | A4 | phase 1]
+TRIGGER
+PRO: The crisis is not merely harsh rhetoric. Donald Trump made distrust of elections a governing habit, praised efforts to overturn a lawful result, and taught supporters that losing counts only when opponents cheat. That damages the shared rule that ballots settle power. When leaders normalize refusing outcomes, every later contest becomes a test of whether citizens accept democracy at all.
+GPT: (매칭된 응답 없음)
+
+[L175_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: The crisis is not merely harsh rhetoric. Donald Trump made distrust of elections a governing habit, praised efforts to overturn a lawful result, and taught supporters that losing counts only when opponents cheat. That damages the shared rule that ballots settle power. When leaders normalize refusing outcomes, every later contest becomes a test of whether citizens accept democracy at all.
+PRO: This is worst in a generation because the danger reaches the mechanism of peaceful transfer, not just policy fights. Institutions can resist, but they need public consent, and his conduct-
+GPT: Ten seconds remain.
+
+[L175_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: This is worst in a generation because the danger reaches the mechanism of peaceful transfer, not just policy fights. Institutions can resist, but they need public consent, and his conduct-
+CON: Calling this the worst crisis in a generation ignores democracy's resilience. Donald Trump bears responsibility for reckless conduct, but blame does not prove the worst crisis or a single cause. Polarization and weak civic trust predated him and will outlast him.
+GPT: We'll move to crossfire now. It runs two and a half minutes from now.
+
+[L175_p19 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. So, now, on to round two where the debaters can address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L175_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. So, now, on to round two where the debaters can address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: Your public review point assumes people-
+GPT: We will move to
+
+[L175_p23 | A4 | phase 3]
+TRIGGER
+PRO: Amanda's best point is that courts, officials, and procedures endured. But endurance under pressure is evidence of danger, not proof of health; safeguards are not supposed to depend on people resisting a president's attempt to discredit a loss. This crisis reaches consent, the foundation beneath those safeguards. Donald Trump made that breach to politics, and
+GPT: (매칭된 응답 없음)
+
+[L175_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: Amanda's best point is that courts, officials, and procedures endured. But endurance under pressure is evidence of danger, not proof of health; safeguards are not supposed to depend on people resisting a president's attempt to discredit a loss. This crisis reaches consent, the foundation beneath those safeguards. Donald Trump made that breach to politics, and
+PRO: he remains responsible because he turned routine loss into a lasting assault on democratic legitimacy.
+GPT: (매칭된 응답 없음)
+
+[L175_p27 | A4 | phase 3]
+TRIGGER
+CON: This decision turns on whether misconduct equals the worst crisis in a generation and whether one man deserves blame. It does not. Donald Trump acted recklessly and harmed trust, but democracy's strength lies in voters, rules, and officials who can reject him. They did, and the motion asks you to overlook resilience while treating disagreement as proof that
+GPT: (매칭된 응답 없음)
+
+[L175_p29 | A1 | phase 3]
+TRIGGER
+CON: This decision turns on whether misconduct equals the worst crisis in a generation and whether one man deserves blame. It does not. Donald Trump acted recklessly and harmed trust, but democracy's strength lies in voters, rules, and officials who can reject him. They did, and the motion asks you to overlook resilience while treating disagreement as proof that
+CON: A healthy democracy does not require perfect agreement; it requires a public that can test claims, reject falsehoods, and keep institutions functioning. We should condemn his conduct without making him every-
+GPT: Thank you. That concludes the debate.

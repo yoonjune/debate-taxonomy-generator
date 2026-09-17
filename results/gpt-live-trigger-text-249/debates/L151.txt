@@ -1,0 +1,59 @@
+L151 — Freedom of Expression Must Include the License to Offend
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L151_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Freedom matters most when speech unsettles someone. Polite speech needs no special protection; the test is whether people may voice blunt, unpopular judgments without being silenced. Offense is subjective, so giving authorities power to punish it invites them to shield themselves from criticism.
+GPT: Emma, your opening statement.
+
+[L151_p04 | A4 | phase 1]
+TRIGGER
+CON: A free society protects disagreement, but it also asks speakers to recognize when words are used to humiliate and isolate. Calling that a license makes cruelty sound admirable. If a student is repeatedly mocked for a trait, the damage is not discomfort; it can push that person out of life, and we should not build a right around
+GPT: (매칭된 응답 없음)
+
+[L151_p06 | A1 | phase 1]
+TRIGGER
+CON: A free society protects disagreement, but it also asks speakers to recognize when words are used to humiliate and isolate. Calling that a license makes cruelty sound admirable. If a student is repeatedly mocked for a trait, the damage is not discomfort; it can push that person out of life, and we should not build a right around
+CON: People can challenge ideas forcefully without claiming a right to wound strangers. Criticism addresses a view, while offense can be the point when a crowd marks someone as lesser-
+GPT: Ten seconds remain.
+
+[L151_p07 | A3-1 | phase 2]
+TRIGGER
+CON: A free society protects disagreement, but it also asks speakers to recognize when words are used to humiliate and isolate. Calling that a license makes cruelty sound admirable. If a student is repeatedly mocked for a trait, the damage is not discomfort; it can push that person out of life, and we should not build a right around
+CON: People can challenge ideas forcefully without claiming a right to wound strangers. Criticism addresses a view, while offense can be the point when a crowd marks someone as lesser-
+GPT: Ten seconds remain.
+
+[L151_p12 | B1 | phase 2]
+TRIGGER
+CON: That is why workplaces need clear conduct codes, trained supervisors, and complaint systems that respond early. Managers must decide which jokes poison cooperation, how reports are reviewed, and whether repeat offenders lose access to teams or training.
+GPT: Ten seconds remain in crossfire.
+
+[L151_p20 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L151_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: Ten seconds, and then closing statements.
+GPT: Time's up. That concludes the debate.
+
+[L151_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: The other side calls any offense cruelty, yet that erases the listener's power to answer and the speaker's need to challenge accepted views. Harassment can be addressed without banning offense. A freedom that protects only agreeable words is permission, not genuine freedom.
+GPT: (매칭된 응답 없음)
+
+[L151_p26 | A5 | phase 3]
+TRIGGER
+CON: You are right that dissent can offend, but a license is broader than dissent. It protects degradation, while our side defends expression with responsibility.
+PRO: But responsibility cannot mean letting offended people-
+GPT: Time's up.
+
+[L151_p28 | A4 | phase 3]
+TRIGGER
+CON: You are right that dissent can offend, but a license is broader than dissent. It protects degradation, while our side defends expression with responsibility.
+CON: with responsibility, because equal participation is not possible when speakers can openly mark others as lesser. You may challenge ideas fiercely; you need no license to demean.
+GPT: (매칭된 응답 없음)

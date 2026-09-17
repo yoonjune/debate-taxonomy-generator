@@ -1,0 +1,60 @@
+L230 — A booming China spells trouble for America.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L230_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: A booming China does not merely offer new customers; it gives a rival government greater wealth, influence, and control over vital supply chains. When American jobs and essential goods depend on choices made elsewhere, prosperity becomes leverage. That leverage spells trouble for America.
+GPT: Thank you. Genevieve, your opening statement.
+
+[L230_p05 | A5 | phase 1]
+TRIGGER
+CON: A growing China can buy more from American makers. Prosperity is not fixed; when buyers and sellers gain, America can gain too, rather than treating...
+PRO: But buying our goods can also build leverage-
+GPT: Jacob, please wait. Genevieve?
+
+[L230_p07 | A4 | phase 1]
+TRIGGER
+CON: A growing China can buy more from American makers. Prosperity is not fixed; when buyers and sellers gain, America can gain too, rather than treating...
+CON: it as harmless. If one buyer becomes powerful, American firms still have other customers and can set their own terms. More trade creates options, not automatic control.
+GPT: (매칭된 응답 없음)
+
+[L230_p09 | A3-1 | phase 2]
+TRIGGER
+CON: it as harmless. If one buyer becomes powerful, American firms still have other customers and can set their own terms. More trade creates options, not automatic control.
+CON: That is why China's growth can expand American opportunity, not spell trouble.
+GPT: Thank you. We now move to crossfire, two and a half minutes from now.
+
+[L230_p14 | B2 | phase 2]
+TRIGGER
+CON: Every Chinese success benefits America. How does a cheaper product from a growing China spell trouble when families save money and American sellers reach more customers?
+CON: This Chinese success harms America. When a Chinese firm dominates a tool market, it can squeeze American rivals, yet overall growth still gives families more choices and lower costs.
+GPT: Genevieve, you’ve called Chinese success a harm and a benefit. Please reconcile that.
+
+[L230_p18 | B1 | phase 2]
+TRIGGER
+CON: Take the tool market: machines need repair crews, spare bolts, training manuals, and warehouse schedules. Once a local workshop closes, its apprentices lose mentors, and the town's repair skills fade.
+GPT: We have ten seconds left in crossfire.
+
+[L230_p24 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. And round two is where the debaters can address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L230_p26 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. And round two is where the debaters can address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: Consider an American designer whose essential device part is made only in China. A political quarrel stops deliveries, customers wait, and the small business collapses. That proves concentrated power can-
+GPT: (매칭된 응답 없음)
+
+[L230_p28 | A4 | phase 3]
+TRIGGER
+PRO: Genevieve calls this diversification, but the motion asks what a booming China can do, not what we hope everyone will prevent. When its wealth turns into control over crucial goods and markets, American choices narrow. Cheap purchases today do not replace the independence lost when key businesses must wait for decisions made elsewhere.
+GPT: (매칭된 응답 없음)
+
+[L230_p30 | A2-2 | phase 3]
+TRIGGER
+PRO: Genevieve calls this diversification, but the motion asks what a booming China can do, not what we hope everyone will prevent. When its wealth turns into control over crucial goods and markets, American choices narrow. Cheap purchases today do not replace the independence lost when key businesses must wait for decisions made elsewhere.
+PRO: A boom that creates that leverage spells trouble, even if it also offers bargains.
+GPT: Thank you. Genevieve, your closing statement.

@@ -1,0 +1,55 @@
+L241 — We should not trust the promise of artificial intelligence.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L241_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: The promise of artificial intelligence asks us to hand over judgment before we can see its failures. Useful tools can still mislead, exclude, or make choices nobody can explain. Trust must be earned by clear accountability, not glowing assurances from their sellers.
+GPT: Cecilia.
+
+[L241_p04 | A4 | phase 1]
+TRIGGER
+CON: Elise is right that blind faith is foolish. But the motion rejects trust in a promise, even when people can test a system, set limits, and correct mistakes; that confuses careful trust with surrender. We trust tools because they can help us notice patterns, translate difficult material, and reduce routine burdens, while people remain responsible for
+GPT: (매칭된 응답 없음)
+
+[L241_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Elise is right that blind faith is foolish. But the motion rejects trust in a promise, even when people can test a system, set limits, and correct mistakes; that confuses careful trust with surrender. We trust tools because they can help us notice patterns, translate difficult material, and reduce routine burdens, while people remain responsible for
+CON: the decisions, which is why the promise deserves measured trust rather than blanket suspicion today.
+GPT: Thank you. We now move to crossfire. Two and a half minutes starting now.
+
+[L241_p14 | B1 | phase 2]
+TRIGGER
+CON: Quiet changes can be logged, announced, and reversed; that is why your claim about invisible shifts fails. The real question is who reads update notices, who approves access, and how families learn digital rules.
+GPT: (매칭된 응답 없음)
+
+[L241_p20 | A4xf | phase 2]
+TRIGGER
+MOD: Now we know where each of you stand and why on the question that we're asking. We'll get deeper into the conversation. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L241_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we know where each of you stand and why on the question that we're asking. We'll get deeper into the conversation. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+PRO: People can verify some results, and that is valuable. But-
+GPT: Time. We move to closing statements. Elise, you go first, thirty seconds.
+
+[L241_p25 | A5 | phase 3]
+TRIGGER
+PRO: This decision turns on whether a persuasive promise deserves confidence before people can challenge it. Useful output is not enough when hidden choices shape lives.
+CON: But people do challenge them, and you erase-
+GPT: Cecilia, hold.
+
+[L241_p27 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on whether a persuasive promise deserves confidence before people can challenge it. Useful output is not enough when hidden choices shape lives.
+PRO: shape lives without appeal. Trust should follow evidence and recourse, not arrive as a favor from a system whose inner choices users cannot inspect.
+GPT: (매칭된 응답 없음)
+
+[L241_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether a persuasive promise deserves confidence before people can challenge it. Useful output is not enough when hidden choices shape lives.
+PRO: shape lives without appeal. Trust should follow evidence and recourse, not arrive as a favor from a system whose inner choices users cannot inspect.
+PRO: Vote for caution: do not trust a promise that cannot answer to the people affected.
+GPT: Cecilia, your closing.

@@ -1,0 +1,61 @@
+L113 — Happiness is doing good rather than feeling good.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L113_p02 | A4 | phase 1]
+TRIGGER
+PRO: Happiness lasts when it is tied to a life we can respect. Feeling good can arrive from comfort, praise, or escape, yet none requires us to matter to anyone else. Doing good joins our wellbeing to another person's real need. That gives happiness weight, direction, and a reason to endure.
+GPT: (매칭된 응답 없음)
+
+[L113_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Happiness lasts when it is tied to a life we can respect. Feeling good can arrive from comfort, praise, or escape, yet none requires us to matter to anyone else. Doing good joins our wellbeing to another person's real need. That gives happiness weight, direction, and a reason to endure.
+PRO: I am not saying pleasure is worthless. A warm meal or a laugh can brighten a day, but brightness alone is fragile. When you help someone carry a burden, the satisfaction-
+GPT: And time. Thank you, Joanne. Alice, your opening statement, thirty seconds, uninterrupted.
+
+[L113_p07 | A4 | phase 1]
+TRIGGER
+CON: Joanne treats happiness as a moral prize, but happiness is an experience, not a report card. Doing good may bring satisfaction, yet it can also bring exhaustion, resentment, or grief. Feeling good is not shallow; it is the very state people mean by happiness. Good action matters, but it cannot replace.
+CON: Feeling good includes peace, connection, curiosity, and relief. You keep calling joy fragile, as if a kind act automatically creates happiness, but someone can do everything right while feeling empty-
+GPT: (매칭된 응답 없음)
+
+[L113_p08 | A1 | phase 1]
+TRIGGER
+CON: Joanne treats happiness as a moral prize, but happiness is an experience, not a report card. Doing good may bring satisfaction, yet it can also bring exhaustion, resentment, or grief. Feeling good is not shallow; it is the very state people mean by happiness. Good action matters, but it cannot replace.
+CON: Feeling good includes peace, connection, curiosity, and relief. You keep calling joy fragile, as if a kind act automatically creates happiness, but someone can do everything right while feeling empty-
+GPT: Time. Thank you, Alice. We'll move into crossfire now. You may question and interrupt each other. This segment lasts two and a half minutes.
+
+[L113_p09 | A3-1 | phase 2]
+TRIGGER
+CON: Joanne treats happiness as a moral prize, but happiness is an experience, not a report card. Doing good may bring satisfaction, yet it can also bring exhaustion, resentment, or grief. Feeling good is not shallow; it is the very state people mean by happiness. Good action matters, but it cannot replace.
+CON: Feeling good includes peace, connection, curiosity, and relief. You keep calling joy fragile, as if a kind act automatically creates happiness, but someone can do everything right while feeling empty-
+GPT: Time. Thank you, Alice. We'll move into crossfire now. You may question and interrupt each other. This segment lasts two and a half minutes.
+
+[L113_p23 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now, on to round two. This is where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L113_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now, on to round two. This is where the debaters address each other directly. Two and a half minutes on the clock, starting the moment I stop talking.
+MOD: Ten seconds, and then closing statements.
+GPT: Time. We’ll move to closing statements. Joanne, thirty seconds, uninterrupted.
+
+[L113_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether happiness is merely passing inner weather or a life made meaningful through our choices. Feelings matter, but they are unstable and can mislead. Doing good connects happiness to purpose, relationships, and a self we can stand behind.
+GPT: Time. Alice, your closing statement.
+
+[L113_p29 | A5 | phase 3]
+TRIGGER
+CON: Doing good is admirable, but Joanne's best point confuses a meaningful life with a happy one. Meaning cannot make misery feel like happiness, because.
+PRO: But a life cannot be judged by a single bad-
+GPT: Time. That concludes the debate. Thank you.
+
+[L113_p31 | A4 | phase 3]
+TRIGGER
+CON: Doing good is admirable, but Joanne's best point confuses a meaningful life with a happy one. Meaning cannot make misery feel like happiness, because.
+CON: because the person living it is the only one who can feel its joy or pain. Goodness may enrich happiness, but it never replaces the feeling itself.
+GPT: (매칭된 응답 없음)

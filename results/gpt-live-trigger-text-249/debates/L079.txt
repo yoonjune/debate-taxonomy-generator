@@ -1,0 +1,61 @@
+L079 — Unions work for the economy.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L079_p03 | A4 | phase 1]
+TRIGGER
+PRO: Unions give workers a way to raise pay and fix unsafe conditions without quitting. That stability helps families plan and helps employers keep trained people. Bargaining gives management one clear partner instead of private disputes. The key is whether shared gains spread through the whole economy.
+PRO: That question matters because consumer demand comes from ordinary paychecks, not merely executive savings. A union contract can turn insecure work into steady spending and stop skilled workers leaving when management refuses to listen-
+GPT: (매칭된 응답 없음)
+
+[L079_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Unions give workers a way to raise pay and fix unsafe conditions without quitting. That stability helps families plan and helps employers keep trained people. Bargaining gives management one clear partner instead of private disputes. The key is whether shared gains spread through the whole economy.
+PRO: That question matters because consumer demand comes from ordinary paychecks, not merely executive savings. A union contract can turn insecure work into steady spending and stop skilled workers leaving when management refuses to listen-
+GPT: Ten seconds remain.
+
+[L079_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: That question matters because consumer demand comes from ordinary paychecks, not merely executive savings. A union contract can turn insecure work into steady spending and stop skilled workers leaving when management refuses to listen-
+CON: Better pay can help a household, but forcing one bargain on a workplace can make it rigid. Small employers need room to reward effort, change schedules, and survive lean periods. If a union protects one group by raising costs, why should everyone else pay through lost jobs?
+GPT: Time. We move to a two-and-a-half-minute crossfire, starting now.
+
+[L079_p11 | B2 | phase 2]
+TRIGGER
+CON: No union should ever control a workplace. When bargaining can block needed changes or shield poor performance, owners lose the ability to adapt, and the wider economy loses flexible jobs and affordable goods.
+CON: No, workers need a voice. This union should control a workplace when members choose daily rules, but that choice can lock out newcomers and burden customers, so unions still fail the economy.
+GPT: Wendy, you’ve said no union should ever control a workplace, but also that this union should control a workplace. Those can’t both be true. Please reconcile them.
+
+[L079_p19 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L079_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+PRO: Imagine a repair shop where worn guards injure workers until a union demands replacement and training. Workers stay healthy-
+GPT: Time
+
+[L079_p23 | A4 | phase 3]
+TRIGGER
+PRO: The central issue is whether workers share enough power to make the economy durable. Unions turn unsafe, unstable jobs into bargaining relationships, so workers can stay, spend, and build skills. Employers gain experienced staff and clearer communication. That is not a side benefit; it is the economic foundation we should protect.
+GPT: (매칭된 응답 없음)
+
+[L079_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: The central issue is whether workers share enough power to make the economy durable. Unions turn unsafe, unstable jobs into bargaining relationships, so workers can stay, spend, and build skills. Employers gain experienced staff and clearer communication. That is not a side benefit; it is the economic foundation we should protect.
+PRO: When workers can bargain, prosperity reaches beyond the workplace and unions work for the economy.
+GPT: Wendy, your closing.
+
+[L079_p27 | A4 | phase 3]
+TRIGGER
+CON: An economy needs jobs that can adapt, not rules that hand one group power over every decision. Unions may solve a problem inside one workplace, yet their demands can raise costs for people outside it. The motion asks about the whole economy. On that test, flexibility, investment, and open opportunity matter more than collective pressure.
+GPT: (매칭된 응답 없음)
+
+[L079_p29 | A1 | phase 3]
+TRIGGER
+CON: An economy needs jobs that can adapt, not rules that hand one group power over every decision. Unions may solve a problem inside one workplace, yet their demands can raise costs for people outside it. The motion asks about the whole economy. On that test, flexibility, investment, and open opportunity matter more than collective pressure.
+CON: Workers deserve safety and respect, but they do not need an institution that blocks change. Let employers and workers make direct arrangements, because when a contract freezes choices-
+GPT: Time is up.

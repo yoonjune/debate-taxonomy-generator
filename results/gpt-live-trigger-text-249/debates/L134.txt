@@ -1,0 +1,58 @@
+L134 — the world is better off with Wikileaks
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L134_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Leaks can expose abuse that hidden power would otherwise preserve. Wikileaks gives citizens material to question officials, rather than asking them to trust secret claims. Publication can require care, but a world with a channel for consequential evidence is better than one where powerful actors control every record.
+GPT: Thank you. Todd, your opening.
+
+[L134_p04 | A4 | phase 1]
+TRIGGER
+CON: Your claim treats disclosure as automatically empowering, but exposed files can endanger ordinary people and ruin delicate negotiations. Wikileaks does not answer to the people harmed by its choices. When a publisher releases a cache without accountable judgment, it can spread fear, expose private lives, and make future cooperation harder. That damage matters because
+GPT: (매칭된 응답 없음)
+
+[L134_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Your claim treats disclosure as automatically empowering, but exposed files can endanger ordinary people and ruin delicate negotiations. Wikileaks does not answer to the people harmed by its choices. When a publisher releases a cache without accountable judgment, it can spread fear, expose private lives, and make future cooperation harder. That damage matters because
+CON: a public's right to know does not erase its duty to avoid needless real harm.
+GPT: Thank you. Crossfire runs two and a half minutes starting now.
+
+[L134_p14 | B1 | phase 2]
+TRIGGER
+PRO: A missed detail might be a work schedule, a family reference, or a routine route. Then reviewers debate file formats, access settings, and who checked each page before upload.
+GPT: Time. We'll move to closings. Liz, you first.
+
+[L134_p21 | A4xf | phase 2]
+TRIGGER
+MOD: You're now going to argue with one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Time.
+
+[L134_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: You're now going to argue with one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: Imagine a public agency secretly dumping waste near homes, while its internal reports deny-
+GPT: Time.
+
+[L134_p25 | A4 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether we trust secrecy to police itself. Todd rightly notes that exposure can carry risks. But harm from a bad release is a reason for care, not a reason to erase a vital check on concealed power. Wikileaks gives evidence to people who would otherwise receive only official assurances. That is why
+GPT: (매칭된 응답 없음)
+
+[L134_p27 | A2-1 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether we trust secrecy to police itself. Todd rightly notes that exposure can carry risks. But harm from a bad release is a reason for care, not a reason to erase a vital check on concealed power. Wikileaks gives evidence to people who would otherwise receive only official assurances. That is why
+PRO: we should judge the alternative. Without a place for suppressed evidence, abuse is easier to deny and victims go unheard. The better world lets secrecy be-
+GPT: (매칭된 응답 없음)
+
+[L134_p29 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on who bears the cost when secrets are released. Liz calls disclosure a check, but unaccountable publication can strike innocent people. My strongest point is simple: Wikileaks cannot reliably protect everyone named in what it releases. Once private details spread, apologies cannot restore safety or trust. A better world needs exposure paired with responsibility for
+GPT: (매칭된 응답 없음)
+
+[L134_p31 | A1 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on who bears the cost when secrets are released. Liz calls disclosure a check, but unaccountable publication can strike innocent people. My strongest point is simple: Wikileaks cannot reliably protect everyone named in what it releases. Once private details spread, apologies cannot restore safety or trust. A better world needs exposure paired with responsibility for
+CON: the people placed at risk. You cannot call a system better merely because it reveals some wrongdoing; it must also be safe enough to deserve trust. Wikileaks fails-
+GPT: (매칭된 응답 없음)

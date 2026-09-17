@@ -1,0 +1,63 @@
+L045 — Women are superior to men
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L045_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Women are superior because they more often combine judgment, empathy, and persistence when decisions affect other people. Men can show those qualities too, but women display the stronger balance, which makes them superior in the motion's broad sense.
+GPT: Thank you. Michelle, your opening.
+
+[L045_p05 | A4 | phase 1]
+TRIGGER
+CON: I reject the idea that one sex is superior as a whole. Women may excel in empathy, while men may excel in other abilities, but human worth and capability do not form a single ladder. Calling women superior turns useful differences into a sweeping verdict. No sex owns wisdom, courage, or leadership.
+CON: And that verdict also ignores the many men who protect families, accept difficult duties, and improve their communities without seeking praise. If superiority means a better kind of person, neither sex earns-
+GPT: (매칭된 응답 없음)
+
+[L045_p06 | A1 | phase 1]
+TRIGGER
+CON: I reject the idea that one sex is superior as a whole. Women may excel in empathy, while men may excel in other abilities, but human worth and capability do not form a single ladder. Calling women superior turns useful differences into a sweeping verdict. No sex owns wisdom, courage, or leadership.
+CON: And that verdict also ignores the many men who protect families, accept difficult duties, and improve their communities without seeking praise. If superiority means a better kind of person, neither sex earns-
+GPT: Thank you. We now move to crossfire for two and a half minutes. You may question and interrupt each other. It starts now.
+
+[L045_p07 | A3-1 | phase 2]
+TRIGGER
+CON: I reject the idea that one sex is superior as a whole. Women may excel in empathy, while men may excel in other abilities, but human worth and capability do not form a single ladder. Calling women superior turns useful differences into a sweeping verdict. No sex owns wisdom, courage, or leadership.
+CON: And that verdict also ignores the many men who protect families, accept difficult duties, and improve their communities without seeking praise. If superiority means a better kind of person, neither sex earns-
+GPT: Thank you. We now move to crossfire for two and a half minutes. You may question and interrupt each other. It starts now.
+
+[L045_p13 | B2 | phase 2]
+TRIGGER
+PRO: I believe women always bring stronger judgment to shared decisions. That steadiness, especially when emotions and consequences collide, is why women are superior overall.
+PRO: Here, women do not bring stronger judgment to this decision. A man may recognize the practical answer more clearly, yet women remain superior overall in judgment and social understanding.
+GPT: One moment.
+
+[L045_p21 | A4xf | phase 2]
+TRIGGER
+MOD: And now we move on to round two. And round two is a more conversational round. The debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L045_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And now we move on to round two. And round two is a more conversational round. The debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+CON: A woman and a man may divide a household task, and each-
+GPT: Ten seconds remain
+
+[L045_p26 | A5 | phase 3]
+TRIGGER
+PRO: This debate turns on the overall pattern, not on whether every woman wins every comparison. Women more often unite empathy, judgment, and resilience, which makes them superior.
+CON: No, one broad pattern cannot rank-
+GPT: Time is up. We'll move to closing statements. Dennis first, thirty seconds.
+
+[L045_p28 | A4 | phase 3]
+TRIGGER
+PRO: This debate turns on the overall pattern, not on whether every woman wins every comparison. Women more often unite empathy, judgment, and resilience, which makes them superior.
+PRO: The question is not whether men have virtues. It is whether women are generally superior, and their stronger balance of cooperation, judgment, and resilience answers yes.
+GPT: (매칭된 응답 없음)
+
+[L045_p30 | A2-2 | phase 3]
+TRIGGER
+PRO: This debate turns on the overall pattern, not on whether every woman wins every comparison. Women more often unite empathy, judgment, and resilience, which makes them superior.
+PRO: The question is not whether men have virtues. It is whether women are generally superior, and their stronger balance of cooperation, judgment, and resilience answers yes.
+PRO: Overlap between individuals does not erase a genuine overall advantage for women.
+GPT: Thank you. Michelle, your closing.

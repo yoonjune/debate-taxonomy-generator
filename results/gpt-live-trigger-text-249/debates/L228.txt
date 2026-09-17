@@ -1,0 +1,62 @@
+L228 — Ten years after the global financial crisis, the system is safer.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L228_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Ten years on, stronger cushions, clearer oversight, and plans for failure make shocks less likely to spread across the system. Safety is not perfection; it means a bad decision is less able to pull everyone down. Trevor, why ignore those barriers?
+GPT: Ten seconds remain.
+
+[L228_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Ten years on, stronger cushions, clearer oversight, and plans for failure make shocks less likely to spread across the system. Safety is not perfection; it means a bad decision is less able to pull everyone down. Trevor, why ignore those barriers?
+CON: Those barriers may look reassuring, but they rely on people spotting danger before panic starts. Risk can move into corners nobody watches when incentives reward concealment. If safety depends on perfect attention again, why call the whole system safer at all?
+GPT: Thank you. We’ll move to the crossfire, two and a half minutes starting now.
+
+[L228_p12 | B2 | phase 2]
+TRIGGER
+PRO: Financial safeguards always protect the public. If institutions must hold cushions and prepare for failure, one reckless choice has less power to become a shared disaster across markets and households now.
+PRO: Here financial safeguards do not protect the public. A collapsed lender has already harmed savers, and that failure shows why the system needs stronger protection, which supports the motion today, clearly.
+GPT: Time up. We'll move to closing statements, thirty seconds each. Virginia, you're up.
+
+[L228_p17 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes opening statements with the resolution, ten years after the global financial crisis, the system is safer, and now our debaters will respond to one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: Ten seconds remain.
+
+[L228_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes opening statements with the resolution, ten years after the global financial crisis, the system is safer, and now our debaters will respond to one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: Trevor, your trapped-savings point confuses safer with harmless. Families deserve better protection, but the question is whether losses spread less-
+GPT: (매칭된 응답 없음)
+
+[L228_p22 | A5 | phase 3]
+TRIGGER
+PRO: Trevor's strongest point is that hidden risk can evade rules. But evasion does not erase progress: cushions and failure plans make contagion less likely, so the system is safer.
+CON: But plans are only promises when the next-
+GPT: Time’s up. Thank you both.
+
+[L228_p24 | A4 | phase 3]
+TRIGGER
+PRO: Trevor's strongest point is that hidden risk can evade rules. But evasion does not erase progress: cushions and failure plans make contagion less likely, so the system is safer.
+PRO: because preventing a panic protects that family as well. The alternative is not perfect safety; it is a system with fewer paths from one failure to everyone's livelihood.
+GPT: (매칭된 응답 없음)
+
+[L228_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Trevor's strongest point is that hidden risk can evade rules. But evasion does not erase progress: cushions and failure plans make contagion less likely, so the system is safer.
+PRO: because preventing a panic protects that family as well. The alternative is not perfect safety; it is a system with fewer paths from one failure to everyone's livelihood.
+PRO: That is why, despite remaining risks, the system today deserves the judgment that it is safer.
+GPT: (매칭된 응답 없음)
+
+[L228_p28 | A4 | phase 3]
+TRIGGER
+CON: My central point is simple: safety that fails when risk is hidden is not real safety. Rules can be evaded, and plans written in calm times may buckle when everyone demands money at once. The family with trapped savings does not experience a safer system. That human consequence exposes the gap between official protections and actual security, and it demands that we ask
+GPT: (매칭된 응답 없음)
+
+[L228_p30 | A1 | phase 3]
+TRIGGER
+CON: My central point is simple: safety that fails when risk is hidden is not real safety. Rules can be evaded, and plans written in calm times may buckle when everyone demands money at once. The family with trapped savings does not experience a safer system. That human consequence exposes the gap between official protections and actual security, and it demands that we ask
+CON: whether a system deserves trust merely because it has more paperwork. Until hidden borrowing cannot threaten ordinary savings, calling the system safer is premature-
+GPT: (매칭된 응답 없음)

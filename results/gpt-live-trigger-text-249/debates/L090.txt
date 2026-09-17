@@ -1,0 +1,55 @@
+L090 — Lifespans Are Long Enough
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L090_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Lifespans are long enough because a good life is measured by room for love, learning, and contribution, not endless duration. More years can be welcome, but they do not make a completed human life inadequate. The motion asks whether enough is possible, and it is.
+GPT: Jillian, you're recognized.
+
+[L090_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Lifespans are long enough because a good life is measured by room for love, learning, and contribution, not endless duration. More years can be welcome, but they do not make a completed human life inadequate. The motion asks whether enough is possible, and it is.
+CON: Enough cannot mean merely finding meaning before time runs out. People still lose unfinished plans, relationships, and chances to grow, often through no choice of their own. If more life preserves those possibilities, calling present lifespans enough accepts a limit we need not accept.
+GPT: Thank you. We move to crossfire now for two and a half minutes.
+
+[L090_p12 | B2 | phase 2]
+TRIGGER
+PRO: No lifespan is ever too short. Human worth is not a race against an imaginary perfect duration, and judging a life as enough honors what can be built within it rather than demanding limitless time.
+PRO: A child dying after a brief, happy life shows the moral problem plainly. This lifespan is too short. We should mourn that loss while still recognizing that enough concerns a life's meaning, so lifespans are long enough.
+GPT: (매칭된 응답 없음)
+
+[L090_p17 | A4xf | phase 2]
+TRIGGER
+MOD: Now we move on to round two. And round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L090_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we move on to round two. And round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+PRO: Consider an elder who raises children, mentors neighbors, makes peace with an old friend-
+GPT: Time. We'll move to closing statements, Alice first, then Jillian, thirty seconds each. Alice, you may begin.
+
+[L090_p21 | A4 | phase 3]
+TRIGGER
+PRO: Jillian treats unrealized possibility as failure. But no life contains every path, and a humane standard recognizes wholeness within limits. The elder's life showed how love, repair, service, and contentment can make finite years sufficient. More time may be desirable, yet desire for more does not erase enough, because.
+GPT: (매칭된 응답 없음)
+
+[L090_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: Jillian treats unrealized possibility as failure. But no life contains every path, and a humane standard recognizes wholeness within limits. The elder's life showed how love, repair, service, and contentment can make finite years sufficient. More time may be desirable, yet desire for more does not erase enough, because.
+PRO: A life need not be endless to be complete, so lifespans are long enough.
+GPT: Jillian, your closing.
+
+[L090_p26 | A5 | phase 3]
+TRIGGER
+CON: This decision turns on whether meaning excuses preventable loss of time. A person can live bravely within a limit, yet bravery does not make the limit adequate.
+PRO: You turn wishes for more time into a verdict-
+GPT: Jillian, please
+
+[L090_p28 | A4 | phase 3]
+TRIGGER
+CON: This decision turns on whether meaning excuses preventable loss of time. A person can live bravely within a limit, yet bravery does not make the limit adequate.
+CON: bravery does not make the limit adequate. The question is not whether finite lives can hold love, but whether needless endings steal chances people rightly deserve; they do.
+GPT: (매칭된 응답 없음)

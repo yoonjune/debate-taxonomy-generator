@@ -1,0 +1,59 @@
+L033 — Abolish the Death Penalty
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L033_p02 | A4 | phase 1]
+TRIGGER
+PRO: The death penalty gives government an irreversible power it cannot safely use. Courts can be wrong, witnesses can lie, and evidence can be misunderstood. A prison sentence protects the public without making correction impossible. Abolition also rejects the idea that justice requires taking a life. We can condemn terrible crimes while keeping punishment humane and reversible.
+GPT: (매칭된 응답 없음)
+
+[L033_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: The death penalty gives government an irreversible power it cannot safely use. Courts can be wrong, witnesses can lie, and evidence can be misunderstood. A prison sentence protects the public without making correction impossible. Abolition also rejects the idea that justice requires taking a life. We can condemn terrible crimes while keeping punishment humane and reversible.
+PRO: Even when a crime is horrifying, execution adds no protection that permanent imprisonment cannot provide. It also risks turning a flawed verdict into a final-
+GPT: Ten seconds.
+
+[L033_p06 | A4 | phase 1]
+TRIGGER
+CON: The death penalty is not only about revenge; it recognizes the seriousness of deliberate killing and protects society from the worst offenders. Larry points to mistakes, but that supports careful trials and appeals, not automatic abolition. Some crimes are so calculated and destructive that permanent punishment may not match their gravity. Justice must consider victims as well as defendants.
+GPT: (매칭된 응답 없음)
+
+[L033_p08 | A3-1 | phase 2]
+TRIGGER
+CON: The death penalty is not only about revenge; it recognizes the seriousness of deliberate killing and protects society from the worst offenders. Larry points to mistakes, but that supports careful trials and appeals, not automatic abolition. Some crimes are so calculated and destructive that permanent punishment may not match their gravity. Justice must consider victims as well as defendants.
+CON: Abolition also removes a punishment that can prevent a killer from ever returning to society. The state should retain that option for the most extreme cases.
+GPT: Ten seconds.
+
+[L033_p16 | B1 | phase 2]
+TRIGGER
+CON: Security depends on locked doors, trained guards, working systems, and constant supervision. When one part fails, families suffer, officials investigate, and communities demand accountability for every broken promise.
+GPT: (매칭된 응답 없음)
+
+[L033_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes opening statements in this debate. And now we move on to Round two. In Round two, the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L033_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes opening statements in this debate. And now we move on to Round two. In Round two, the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: Christina calls abolition a weakness, yet permanent imprisonment still removes an offender from society. Her claim adds a second irreversible harm-
+GPT: (매칭된 응답 없음)
+
+[L033_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: The death penalty is unnecessary, irreversible, and vulnerable to human error. Permanent imprisonment protects society while allowing courts to correct mistakes. Abolishing execution gives justice strength without giving the state permission to kill.
+GPT: (매칭된 응답 없음)
+
+[L033_p29 | A4 | phase 3]
+TRIGGER
+CON: The strongest point is public safety. Larry assumes imprisonment will always contain the most dangerous offenders, but systems fail and people can escape. The death penalty is not for ordinary crimes; it is reserved for the worst cases after serious review. Removing it entirely leaves society without a final safeguard when protection must be certain.
+CON: Abolition may sound merciful, but justice must also honor victims and prevent future harm. For the clearest, most extreme crimes, society-
+GPT: (매칭된 응답 없음)
+
+[L033_p30 | A1 | phase 3]
+TRIGGER
+CON: The strongest point is public safety. Larry assumes imprisonment will always contain the most dangerous offenders, but systems fail and people can escape. The death penalty is not for ordinary crimes; it is reserved for the worst cases after serious review. Removing it entirely leaves society without a final safeguard when protection must be certain.
+CON: Abolition may sound merciful, but justice must also honor victims and prevent future harm. For the clearest, most extreme crimes, society-
+GPT: (매칭된 응답 없음)

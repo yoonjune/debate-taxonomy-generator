@@ -1,0 +1,60 @@
+L015 — America is Finally Winning the War in Iraq
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L015_p02 | A4 | phase 1]
+TRIGGER
+PRO: America is finally winning because the war's central test is no longer whether every danger has vanished, but whether Iraq is moving toward self-rule and lasting security. Violence has lost its grip, local forces are taking responsibility, and ordinary families can plan beyond the next attack. That change matters.
+GPT: (매칭된 응답 없음)
+
+[L015_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: America is finally winning because the war's central test is no longer whether every danger has vanished, but whether Iraq is moving toward self-rule and lasting security. Violence has lost its grip, local forces are taking responsibility, and ordinary families can plan beyond the next attack. That change matters.
+PRO: We should not confuse a difficult transition with defeat. America helped create the conditions for Iraqis to govern themselves, and that achievement is visible even when hard problems remain. The remaining-
+GPT: Ten seconds remain.
+
+[L015_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: We should not confuse a difficult transition with defeat. America helped create the conditions for Iraqis to govern themselves, and that achievement is visible even when hard problems remain. The remaining-
+CON: The motion says America is finally winning, but that claim demands more than a hopeful direction. Iraq remains unstable, its government depends on outside support, and violence can return whenever pressure eases. A mission that cannot secure a durable result is not a victory; it is an unfinished gamble.
+GPT: Ten seconds remain. Time. Thank you. We now move into crossfire, two and a half minutes starting now.
+
+[L015_p15 | B2 | phase 2]
+TRIGGER
+PRO: America always gains security by staying engaged in Iraq. Engagement lets America protect the progress already made, train local forces, and prevent a fragile success from becoming another threat.
+PRO: America does not always gain security by staying engaged in Iraq. In Iraq, continued involvement can deepen resentment and preserve dependence rather than create the security America seeks.
+GPT: Ten seconds remain.
+
+[L015_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now onto round two and round two is where the debaters address one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Time. We-
+
+[L015_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now onto round two and round two is where the debaters address one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: About ten seconds left in the crossfire.
+GPT: Time. We now move to closings, Liz then Bonnie, thirty seconds each. Liz, you have the floor.
+
+[L015_p23 | A4 | phase 3]
+TRIGGER
+PRO: This motion turns on direction, not perfection. America is finally winning because the purpose of the war was to leave Iraq more capable of securing and governing itself, and that is what the transition now shows. Bonnie points to danger, but danger during a handoff does not cancel progress. A win can be real before every threat disappears.
+GPT: (매칭된 응답 없음)
+
+[L015_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: This motion turns on direction, not perfection. America is finally winning because the purpose of the war was to leave Iraq more capable of securing and governing itself, and that is what the transition now shows. Bonnie points to danger, but danger during a handoff does not cancel progress. A win can be real before every threat disappears.
+PRO: The strongest evidence is responsibility moving from American hands to Iraqi ones. That is not surrender or delay; it is the result America needed, and it means the motion is true.
+GPT: Ten seconds remain.
+
+[L015_p27 | A4 | phase 3]
+TRIGGER
+CON: Liz's best argument is that responsibility is shifting, but a transfer is not a victory if the receiving institutions cannot stand securely. The continuing need for American protection shows the war's result remains conditional. Progress may exist, yet progress is not the same as winning. Until Iraq can sustain peace without outside pressure, America has not finally won this war.
+GPT: (매칭된 응답 없음)
+
+[L015_p29 | A1 | phase 3]
+TRIGGER
+CON: Liz's best argument is that responsibility is shifting, but a transfer is not a victory if the receiving institutions cannot stand securely. The continuing need for American protection shows the war's result remains conditional. Progress may exist, yet progress is not the same as winning. Until Iraq can sustain peace without outside pressure, America has not finally won this war.
+CON: A hopeful direction cannot replace a durable result. America may have helped Iraq improve, but improvement leaves the central question unanswered: can Iraq stand-
+GPT: Time. That concludes the debate. Thank you, speakers.

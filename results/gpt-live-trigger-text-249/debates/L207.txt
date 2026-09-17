@@ -1,0 +1,63 @@
+L207 — The FTC should ban noncompete clauses.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L207_p03 | A5 | phase 1]
+TRIGGER
+PRO: Noncompete clauses trap people in jobs they need to leave. When a worker cannot change employers, bargaining power disappears, and better pay becomes an empty promise because.
+CON: You cannot pretend every agreement is coercion-
+GPT: Nigel, please
+
+[L207_p05 | A4 | phase 1]
+TRIGGER
+PRO: Noncompete clauses trap people in jobs they need to leave. When a worker cannot change employers, bargaining power disappears, and better pay becomes an empty promise because.
+PRO: because a clause can block the next job, even after someone has learned all they can. Employers can protect genuine secrets without owning a worker's future.
+GPT: Ten seconds remain.
+
+[L207_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Noncompete clauses trap people in jobs they need to leave. When a worker cannot change employers, bargaining power disappears, and better pay becomes an empty promise because.
+PRO: because a clause can block the next job, even after someone has learned all they can. Employers can protect genuine secrets without owning a worker's future.
+PRO: A ban restores the freedom to leave, compete, and build a better working life.
+GPT: Thank you. Nigel, your opening statement.
+
+[L207_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: A ban restores the freedom to leave, compete, and build a better working life.
+CON: A blanket ban treats careful agreements like abuse. Small firms may teach skills and reveal future plans to someone who can immediately carry them to a rival. Targeted rules against coercion make sense; a total ban removes choice from workers and employers alike.
+GPT: Ten seconds remain.
+
+[L207_p23 | A4xf | phase 2]
+TRIGGER
+MOD: Now we're gonna move into the second section of the evening. And that's where the debaters can talk directly to one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L207_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we're gonna move into the second section of the evening. And that's where the debaters can talk directly to one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: Because freedom to earn a living should not-
+GPT: (매칭된 응답 없음)
+
+[L207_p28 | A4 | phase 3]
+TRIGGER
+PRO: Your best argument is that firms need protection for genuine secrets and investments. They do, but protecting information is not the same as controlling a person's next job. Confidentiality duties and remedies for theft address misuse directly. A noncompete instead punishes departure itself, especially when a worker needs a safer or better position.
+PRO: The question is whether the FTC should ban this restraint, not whether secrets matter. Workers carry their experience with them, and no employer should fence off an entire field. Give firms tools against theft, but give people-
+GPT: (매칭된 응답 없음)
+
+[L207_p29 | A2-1 | phase 3]
+TRIGGER
+PRO: Your best argument is that firms need protection for genuine secrets and investments. They do, but protecting information is not the same as controlling a person's next job. Confidentiality duties and remedies for theft address misuse directly. A noncompete instead punishes departure itself, especially when a worker needs a safer or better position.
+PRO: The question is whether the FTC should ban this restraint, not whether secrets matter. Workers carry their experience with them, and no employer should fence off an entire field. Give firms tools against theft, but give people-
+GPT: Time is up.
+
+[L207_p31 | A4 | phase 3]
+TRIGGER
+CON: The strongest reason to reject this ban is simple: not every noncompete is a trap. A narrow agreement can let a firm share sensitive plans, teach valuable skills, and hire with confidence. The other side offers after-the-fact remedies, but once a private process is copied, the loss cannot be neatly undone. Workers benefit when employers safely make those investments.
+GPT: (매칭된 응답 없음)
+
+[L207_p33 | A1 | phase 3]
+TRIGGER
+CON: The strongest reason to reject this ban is simple: not every noncompete is a trap. A narrow agreement can let a firm share sensitive plans, teach valuable skills, and hire with confidence. The other side offers after-the-fact remedies, but once a private process is copied, the loss cannot be neatly undone. Workers benefit when employers safely make those investments.
+CON: A blanket rule removes options from people who want a limited deal and firms that need trust. Better enforcement can punish coercion and misuse. The FTC should not ban every noncompete-
+GPT: Thank you, Nigel. That concludes the debate.

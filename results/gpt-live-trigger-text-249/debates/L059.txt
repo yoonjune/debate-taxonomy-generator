@@ -1,0 +1,53 @@
+L059 — Humanitarian Intervention Does More Harm Than Good
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L059_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Humanitarian intervention promises rescue, yet it hands grave power to outsiders who cannot own the aftermath. Force can topple a threat while breaking local order and making civilians targets. Because interventions regularly widen violence and dependence, they do more harm than good.
+GPT: Thank you. Annette, your opening statement.
+
+[L059_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Humanitarian intervention promises rescue, yet it hands grave power to outsiders who cannot own the aftermath. Force can topple a threat while breaking local order and making civilians targets. Because interventions regularly widen violence and dependence, they do more harm than good.
+CON: Doing nothing is also a choice, and it can leave people exposed to immediate violence. Intervention need not mean conquest: requested, limited protection can create room for local recovery. Because carefully bounded action can prevent catastrophe, it does not do more harm than good.
+GPT: Thank you. We now move into crossfire for two and a half minutes, starting now.
+
+[L059_p13 | B1 | phase 2]
+TRIGGER
+CON: The larger problem is how receiving communities handle people fleeing violence. Fair entry rules, housing, schools, and work permits determine whether displaced families can rebuild stable lives.
+GPT: Annette, bring it back to whether intervention itself does more harm than good. Ten seconds remain.
+
+[L059_p19 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now on to round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L059_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now on to round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+PRO: The weakest word is verified. Outsiders cannot reliably verify partners during chaos, and your civilian rules mean little when foreign troops decide threats; uncertainty makes harm foreseeable.
+GPT: (매칭된 응답 없음)
+
+[L059_p23 | A4 | phase 3]
+TRIGGER
+PRO: Annette rightly says people facing attack deserve protection. But her answer assumes outsiders can deliver force with knowledge, restraint, and a clean exit. They usually alter local power, invite retaliation, and leave dependence after headlines fade. The humane instinct is real, yet predictable disruption makes intervention a harmful tool that
+GPT: (매칭된 응답 없음)
+
+[L059_p25 | A2-1 | phase 3]
+TRIGGER
+PRO: Annette rightly says people facing attack deserve protection. But her answer assumes outsiders can deliver force with knowledge, restraint, and a clean exit. They usually alter local power, invite retaliation, and leave dependence after headlines fade. The humane instinct is real, yet predictable disruption makes intervention a harmful tool that
+PRO: cannot be safely managed from afar. Choose diplomacy, refuge, and local relief before sending armed outsiders, because those tools support people without taking control of their future. When a rescue-
+GPT: (매칭된 응답 없음)
+
+[L059_p27 | A4 | phase 3]
+TRIGGER
+CON: Betsy's strongest warning is that force can empower bad partners and trigger retaliation. That danger demands restraint, but it does not prove every intervention harms more than it helps. Abandoning people during immediate attack also changes power, usually for the attacker. With local request, narrow protection, oversight, and exit plans, intervention can prevent suffering and preserve recovery.
+GPT: (매칭된 응답 없음)
+
+[L059_p29 | A1 | phase 3]
+TRIGGER
+CON: Betsy's strongest warning is that force can empower bad partners and trigger retaliation. That danger demands restraint, but it does not prove every intervention harms more than it helps. Abandoning people during immediate attack also changes power, usually for the attacker. With local request, narrow protection, oversight, and exit plans, intervention can prevent suffering and preserve recovery.
+CON: from the crisis. That is not a promise of perfection; it is a duty to reduce the worst danger when action can be bounded and checked by those it protects. Refusing-
+GPT: (매칭된 응답 없음)

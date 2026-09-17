@@ -1,0 +1,62 @@
+L233 — Abolish the minimum wage
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L233_p03 | A4 | phase 1]
+TRIGGER
+PRO: A wage floor sounds protective, but it can close the first door into work. If an employer thinks a beginner's output is worth less than the legal rate, that beginner is not hired at all. Abolishing the floor lets people bargain, gain skills, and show their value. It also lets small workplaces try.
+PRO: new roles without fearing that one fixed rule will ruin the whole effort. Pay can rise as workers prove themselves, while voluntary agreements reflect different jobs, abilities, and needs far better-
+GPT: (매칭된 응답 없음)
+
+[L233_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: A wage floor sounds protective, but it can close the first door into work. If an employer thinks a beginner's output is worth less than the legal rate, that beginner is not hired at all. Abolishing the floor lets people bargain, gain skills, and show their value. It also lets small workplaces try.
+PRO: new roles without fearing that one fixed rule will ruin the whole effort. Pay can rise as workers prove themselves, while voluntary agreements reflect different jobs, abilities, and needs far better-
+GPT: Ten seconds remain.
+
+[L233_p07 | A5 | phase 1]
+TRIGGER
+CON: Work is not truly voluntary when rent and food are due. A minimum wage sets a basic boundary: employers cannot build profits by paying workers less than decent daily life requires.
+PRO: That boundary can become a locked gate for someone-
+GPT: No interruptions in the opening. Harry, please continue.
+
+[L233_p09 | A4 | phase 1]
+TRIGGER
+CON: Work is not truly voluntary when rent and food are due. A minimum wage sets a basic boundary: employers cannot build profits by paying workers less than decent daily life requires.
+CON: without a floor, employers can simply offer less because workers need income now. The choice is not between a low wage and a better bargain; it is often between accepting too little and losing the job entirely.
+GPT: (매칭된 응답 없음)
+
+[L233_p11 | A3-1 | phase 2]
+TRIGGER
+CON: without a floor, employers can simply offer less because workers need income now. The choice is not between a low wage and a better bargain; it is often between accepting too little and losing the job entirely.
+CON: A minimum wage preserves a floor beneath bargaining, so abolishing it abandons workers.
+GPT: Ten seconds remain.
+
+[L233_p19 | B2 | phase 2]
+TRIGGER
+PRO: Every willing worker should be free to set any wage. Government should punish force and fraud, not forbid an adult from accepting a lower starting rate that may lead to training, experience, and better pay.
+PRO: Consider a willing trainee offered a wage that funds no basic living. This willing worker should not be free to set any wage; a floor can stop that bargain from turning necessity into exploitation.
+GPT: Time.
+
+[L233_p23 | A4xf | phase 2]
+TRIGGER
+MOD: We're going to begin the section now, where the debaters address one another. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L233_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: We're going to begin the section now, where the debaters address one another. It runs two and a half minutes, starting the moment I stop. Go.
+CON: Imagine a cashier whose pay falls after the floor vanishes, while the shop keeps the same prices and demands the same hours. He cannot cover ordinary necessities-
+GPT: (매칭된 응답 없음)
+
+[L233_p27 | A4 | phase 3]
+TRIGGER
+PRO: Harry's best argument is that need can weaken bargaining, and that danger is real. Yet banning low-paid entry work does not remove need; it removes an option for people whose skills are still developing. Abolition restores voluntary agreements, lets beginners get experience, and targets coercion directly rather than outlawing work. A single wage rule cannot measure every person's
+GPT: (매칭된 응답 없음)
+
+[L233_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: Harry's best argument is that need can weaken bargaining, and that danger is real. Yet banning low-paid entry work does not remove need; it removes an option for people whose skills are still developing. Abolition restores voluntary agreements, lets beginners get experience, and targets coercion directly rather than outlawing work. A single wage rule cannot measure every person's
+PRO: circumstances, but free agreement can create openings and progress, which is why abolition is better.
+GPT: (매칭된 응답 없음)

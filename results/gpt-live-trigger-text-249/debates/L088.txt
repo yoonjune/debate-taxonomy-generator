@@ -1,0 +1,62 @@
+L088 — This House believes in the separation of mosque and state.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L088_p03 | A5 | phase 1]
+TRIGGER
+PRO: Faith deserves protection, but public power belongs to every citizen. When religious officials direct law, people outside that faith lose an equal voice in their own government.
+CON: No, that ignores believers who seek moral-
+GPT: Carla, please hold,
+
+[L088_p05 | A4 | phase 1]
+TRIGGER
+PRO: Faith deserves protection, but public power belongs to every citizen. When religious officials direct law, people outside that faith lose an equal voice in their own government.
+PRO: That loss of voice is not theoretical: officials can treat one interpretation as law, while neighbors with different beliefs must obey rules they never helped shape.
+GPT: (매칭된 응답 없음)
+
+[L088_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Faith deserves protection, but public power belongs to every citizen. When religious officials direct law, people outside that faith lose an equal voice in their own government.
+PRO: That loss of voice is not theoretical: officials can treat one interpretation as law, while neighbors with different beliefs must obey rules they never helped shape.
+PRO: Separating institutions lets faith flourish freely and lets government serve everyone equally.
+GPT: Thank you. Carla, your opening statement, thirty seconds.
+
+[L088_p09 | A4 | phase 1]
+TRIGGER
+CON: Separation sounds fair, yet it treats faith as a private hobby rather than a shared source of duty. A state can hear religious values without forcing worship, because voters and leaders still answer to the whole community. Excluding mosque voices from public decisions does not create neutrality; it gives other moral views special permission to rule.
+GPT: (매칭된 응답 없음)
+
+[L088_p11 | A3-1 | phase 2]
+TRIGGER
+CON: Separation sounds fair, yet it treats faith as a private hobby rather than a shared source of duty. A state can hear religious values without forcing worship, because voters and leaders still answer to the whole community. Excluding mosque voices from public decisions does not create neutrality; it gives other moral views special permission to rule.
+CON: The motion wrongly demands silence from a faith that shapes many citizens' deepest responsibilities.
+GPT: Thank you. Crossfire runs two and a half minutes from now.
+
+[L088_p17 | B2 | phase 2]
+TRIGGER
+PRO: No mosque should ever control the state. If public law serves all citizens, no religious institution may command it, however sincere its leaders or popular its message may be at any time.
+PRO: This mosque should control the state. Imagine its leaders taking every public decision directly; even then, I would defend separation because unchecked sacred authority still harms equal citizenship for dissenters and believers alike.
+GPT: (매칭된 응답 없음)
+
+[L088_p24 | A4xf | phase 2]
+TRIGGER
+MOD: Thanks to you both, we know where you stand and why. We're gonna dive into our discussion, whether mosque and state should be kept separate. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L088_p26 | A3-2 | phase 3]
+TRIGGER
+MOD: Thanks to you both, we know where you stand and why. We're gonna dive into our discussion, whether mosque and state should be kept separate. It runs two and a half minutes, starting the moment I stop. Go.
+PRO: I grant that believers need real access to public debate, not token listening. But access is different from rule: equal citizenship survives only when mosque authority and state authority remain-
+GPT: Time. Closing statements.
+
+[L088_p28 | A4 | phase 3]
+TRIGGER
+PRO: Carla's strongest point is that believers should not be shut out of public life, and I agree. But separation does not ban belief from debate; it prevents any mosque from owning law. That boundary protects believers with differing interpretations as much as nonbelievers. Government can hear every conscience only when it answers to none as master.
+GPT: (매칭된 응답 없음)
+
+[L088_p30 | A2-1 | phase 3]
+TRIGGER
+PRO: Carla's strongest point is that believers should not be shut out of public life, and I agree. But separation does not ban belief from debate; it prevents any mosque from owning law. That boundary protects believers with differing interpretations as much as nonbelievers. Government can hear every conscience only when it answers to none as master.
+PRO: The alternative leaves minorities asking whether a sacred office approves their rights. We need institutions that protect worship without making worship a test for power. Separate mosque and state, so citizens-
+GPT: (매칭된 응답 없음)

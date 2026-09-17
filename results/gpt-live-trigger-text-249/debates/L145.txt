@@ -1,0 +1,55 @@
+L145 — The GOP must seize the center or die
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L145_p03 | A4 | phase 1]
+TRIGGER
+PRO: Winning requires persuading people who do not already agree with you. A party that speaks only to its safest voters can feel loud while becoming smaller. The center is not surrender; it is the broad ground where practical promises earn trust. If the GOP refuses that work, its coalition will.
+PRO: It will not be rescued by anger alone. National power needs voters who want order, opportunity, and compromise, not endless internal tests. Seizing the center means building a governing majority-
+GPT: (매칭된 응답 없음)
+
+[L145_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Winning requires persuading people who do not already agree with you. A party that speaks only to its safest voters can feel loud while becoming smaller. The center is not surrender; it is the broad ground where practical promises earn trust. If the GOP refuses that work, its coalition will.
+PRO: It will not be rescued by anger alone. National power needs voters who want order, opportunity, and compromise, not endless internal tests. Seizing the center means building a governing majority-
+GPT: 10 seconds remain.
+
+[L145_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: It will not be rescued by anger alone. National power needs voters who want order, opportunity, and compromise, not endless internal tests. Seizing the center means building a governing majority-
+CON: My opponent confuses changing the message with living. Parties survive by giving existing supporters a reason to work, vote, and trust. The center changes from one moment to the next, but a clear purpose can attract new people without abandoning the people who built it.
+GPT: Time. We'll move into crossfire now for two and a half minutes.
+
+[L145_p09 | B1 | phase 2]
+TRIGGER
+CON: The real question is whether border rules are firm enough to protect wages and public safety. Leaders should enforce clear entry rules, punish abuse, and listen to workers who worry that local services are crowded and strained.
+GPT: Amanda, you're wandering a bit. Bring it back to the motion for us.
+
+[L145_p15 | B2 | phase 2]
+TRIGGER
+CON: No party should ever abandon its core voters. A party may invite newcomers, but survival rests on people who trust its word, so the GOP can endure without seizing the center.
+CON: This party should abandon its core voters. When those voters demand permanent defeat instead of workable government, the GOP should build a broader coalition, because survival matters more than protecting an exhausted faction.
+GPT: Time. We'll move to closings now. Amanda first, thirty seconds, no interruptions.
+
+[L145_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. On to round two. Round two is where the debaters address one another in turn. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: Time.
+
+[L145_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. On to round two. Round two is where the debaters address one another in turn. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+MOD: Ten seconds to go in this round.
+GPT: (매칭된 응답 없음)
+
+[L145_p23 | A4 | phase 3]
+TRIGGER
+PRO: Rick's best argument is that a party cannot survive by insulting its loyal voters. He is right that loyalty deserves respect, but he mistakes expanding the coalition for abandoning it. The GOP can keep convictions while offering practical answers to people outside its usual camp. Elections decide whether those answers become policy, and the next question is what voters actually hear.
+GPT: (매칭된 응답 없음)
+
+[L145_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: Rick's best argument is that a party cannot survive by insulting its loyal voters. He is right that loyalty deserves respect, but he mistakes expanding the coalition for abandoning it. The GOP can keep convictions while offering practical answers to people outside its usual camp. Elections decide whether those answers become policy, and the next question is what voters actually hear.
+PRO: They hear whether the party can govern for them, not merely argue with itself. Seizing the center makes a durable majority possible. That is survival.
+GPT: (매칭된 응답 없음)

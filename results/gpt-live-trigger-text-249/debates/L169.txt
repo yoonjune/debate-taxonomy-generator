@@ -1,0 +1,60 @@
+L169 — The special U.S.-Saudi relationship has outlived its usefulness.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L169_p02 | A4 | phase 1]
+TRIGGER
+PRO: This relationship once traded security cooperation for dependable energy access, but that bargain now traps both sides in habits neither can defend. Washington keeps offering exceptional treatment despite repeated clashes over values and regional choices. A partnership can continue without being special. The question is whether privileged ties still serve American interests today, not yesterday.
+GPT: (매칭된 응답 없음)
+
+[L169_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: This relationship once traded security cooperation for dependable energy access, but that bargain now traps both sides in habits neither can defend. Washington keeps offering exceptional treatment despite repeated clashes over values and regional choices. A partnership can continue without being special. The question is whether privileged ties still serve American interests today, not yesterday.
+PRO: The answer is no. Ordinary diplomacy can protect shared needs while withholding blank checks, and it lets Washington cooperate selectively without confusing access with approval. Keeping an outdated special status makes reform harder-
+GPT: Ten seconds remain.
+
+[L169_p07 | A5 | phase 1]
+TRIGGER
+CON: Michelle calls the tie a blank check, but it is leverage: regular contact lets Washington press concerns while protecting shared security interests in a volatile region.
+PRO: But contact without consequences is not leverage-
+GPT: Hina, please hold.
+
+[L169_p09 | A4 | phase 1]
+TRIGGER
+CON: Michelle calls the tie a blank check, but it is leverage: regular contact lets Washington press concerns while protecting shared security interests in a volatile region.
+CON: That protection is not automatic; it rests on mutual interests, and ending special ties would reduce the access needed to shape conduct when crises arrive.
+GPT: (매칭된 응답 없음)
+
+[L169_p11 | A3-1 | phase 2]
+TRIGGER
+CON: That protection is not automatic; it rests on mutual interests, and ending special ties would reduce the access needed to shape conduct when crises arrive.
+CON: Preserving a working special partnership gives Washington more choices, not fewer, when dangers spread.
+GPT: Time's up there. We'll move into the crossfire, two and a half minutes from now, free exchange. Go ahead.
+
+[L169_p18 | B1 | phase 2]
+TRIGGER
+PRO: If misunderstanding grows during an evacuation, families need clear routes, trusted hotlines, and practiced coordination between crews. Those preparations matter because confusion at a crowded terminal can turn fear into avoidable injury.
+GPT: Ten seconds remain in crossfire.
+
+[L169_p25 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes Round One. Now, we move on to Round Two. And Round Two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L169_p26 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes Round One. Now, we move on to Round Two. And Round Two is where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+MOD: Ten seconds left, then we go to closings.
+GPT: Time, we'll move on-
+
+[L169_p28 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: America can keep necessary communication without granting permanent privilege. When a partner expects protection despite harmful choices, the special label removes leverage. Replace exceptional treatment with ordinary, conditional cooperation, and the United States protects its interests and its credibility.
+GPT: (매칭된 응답 없음)
+
+[L169_p31 | A4 | phase 3]
+TRIGGER
+CON: Michelle mistakes a useful tool for a blank check. The strongest point is that trusted access gives Washington the ability to press, warn, and coordinate when danger is immediate; ordinary arrangements cannot be rebuilt on demand. That capacity matters most when leaders need answers quickly.
+CON: Keep it special, strengthen its terms, and preserve the influence needed to manage shared dangers.
+GPT: (매칭된 응답 없음)

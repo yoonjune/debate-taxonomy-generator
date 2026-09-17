@@ -1,0 +1,55 @@
+L139 — Organic food is marketing hype.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L139_p03 | A4 | phase 1]
+TRIGGER
+PRO: Organic is often sold as a moral badge, not a clear promise. Shoppers see warm pictures, vague claims, and a higher price, then assume they are buying purity. But a label cannot tell them every choice made on a farm. Francis, why should a word on a package command faith when the product itself may be identical?
+PRO: That gap lets retailers charge for reassurance rather than measurable difference. I am not saying careful farming is worthless; I am saying the word organic can turn ordinary food into a premium story-
+GPT: Ten seconds.
+
+[L139_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Organic is often sold as a moral badge, not a clear promise. Shoppers see warm pictures, vague claims, and a higher price, then assume they are buying purity. But a label cannot tell them every choice made on a farm. Francis, why should a word on a package command faith when the product itself may be identical?
+PRO: That gap lets retailers charge for reassurance rather than measurable difference. I am not saying careful farming is worthless; I am saying the word organic can turn ordinary food into a premium story-
+GPT: (매칭된 응답 없음)
+
+[L139_p06 | A4 | phase 1]
+TRIGGER
+CON: Gregory, why call a farming choice a trick when it can limit synthetic inputs and reward patience? Organic describes methods that can protect soil, workers, and nearby water. The word may be used badly, but that does not erase the practices behind it. Consumers deserve more honesty, yet honesty is not the same as hype.
+GPT: (매칭된 응답 없음)
+
+[L139_p08 | A1 | phase 1]
+TRIGGER
+CON: Gregory, why call a farming choice a trick when it can limit synthetic inputs and reward patience? Organic describes methods that can protect soil, workers, and nearby water. The word may be used badly, but that does not erase the practices behind it. Consumers deserve more honesty, yet honesty is not the same as hype.
+CON: Gregory's complaint is really about weak selling, not the food method. If a seller misleads, challenge that seller; do not make every careful grower guilty. A label can guide better choices-
+GPT: Ten seconds.
+
+[L139_p09 | A3-1 | phase 2]
+TRIGGER
+CON: Gregory, why call a farming choice a trick when it can limit synthetic inputs and reward patience? Organic describes methods that can protect soil, workers, and nearby water. The word may be used badly, but that does not erase the practices behind it. Consumers deserve more honesty, yet honesty is not the same as hype.
+CON: Gregory's complaint is really about weak selling, not the food method. If a seller misleads, challenge that seller; do not make every careful grower guilty. A label can guide better choices-
+GPT: Time is up. We move to crossfire.
+
+[L139_p16 | B2 | phase 2]
+TRIGGER
+CON: I hold that every organic label always deserves trust. When growers avoid harsh shortcuts, soil stays alive and families know what they are buying; that honest signal is why organic is more than marketing.
+CON: A seller can use the word while damaging land; I say this organic label does not deserve trust. That exposes a dishonest seller, yet real organic standards still protect meaningful choices for careful buyers.
+GPT: Ten seconds remain in crossfire.
+
+[L139_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes Round one. Now we move on to round two. Round two is where the debaters address one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L139_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes Round one. Now we move on to round two. Round two is where the debaters address one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: You have ten seconds.
+GPT: Time is up.
+
+[L139_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on what the label actually delivers, not on whether careful farming can exist. When a broad word sells virtue and a premium without proving the particular product is better, it invites belief instead of judgment. That is marketing hype.
+GPT: Gregory for the motion, Francis against.

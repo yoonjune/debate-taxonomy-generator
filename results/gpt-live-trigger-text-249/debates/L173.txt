@@ -1,0 +1,54 @@
+L173 — Elon Musk is killing Twitter.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L173_p02 | A4 | phase 1]
+TRIGGER
+PRO: Twitter is more than a logo; it is a shared public conversation. Under Musk, its rules, priorities, and basic reliability have become unpredictable. That drives away the people who make a social platform valuable. When users cannot trust the ground beneath them, they stop building conversations, and the loss spreads through every part of the service.
+GPT: Ten seconds remain.
+
+[L173_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Twitter is more than a logo; it is a shared public conversation. Under Musk, its rules, priorities, and basic reliability have become unpredictable. That drives away the people who make a social platform valuable. When users cannot trust the ground beneath them, they stop building conversations, and the loss spreads through every part of the service.
+PRO: That is not ordinary change. It is a pattern of weakening the place people came to use, which is why the motion is true.
+GPT: Time. Thank you. Ross, your opening statement.
+
+[L173_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: That is not ordinary change. It is a pattern of weakening the place people came to use, which is why the motion is true.
+CON: Change can feel chaotic, but chaos is not death. A platform can shed habits, test new controls, and still remain useful because people continue talking there. You call every disruption a collapse; how do you separate temporary discomfort from actual destruction?
+GPT: Ten seconds remain.
+
+[L173_p15 | B2 | phase 2]
+TRIGGER
+CON: No owner should ever silence a user's lawful speech. If changes invite more disagreement and more voices into a forum, why call that killing rather than rebuilding?
+CON: Elon should silence a user's lawful speech. A person who uses Twitter to spread cruel lies can poison discussion, yet stopping that damage shows responsible stewardship, not destruction.
+GPT: You've just said no owner should ever silence lawful speech, but also that stopping certain speech is responsible. Please reconcile those two claims.
+
+[L173_p21 | A4xf | phase 2]
+TRIGGER
+MOD: And now we move on to round two. And round two is a more conversational round. The debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: Time.
+
+[L173_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And now we move on to round two. And round two is a more conversational round. The debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: If continued participation alone proves health, would you call a forum healthy after-
+GPT: Time.
+
+[L173_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: Ross asks us to confuse survival with health. But Twitter depends on trust, clear expectations, and contributors who feel their work will last. Musk's erratic control weakens all three. A service can make noise while its community is hollowed out, which is why he is killing Twitter.
+GPT: Ten seconds remain. Thank you. Ross, your closing statement.
+
+[L173_p27 | A4 | phase 3]
+TRIGGER
+CON: Melissa treats every disputed choice as evidence of ruin. But a living platform changes, provokes arguments, and lets users decide whether its tools serve them. Twitter still hosts conversation precisely because it is not frozen in the past. Its future depends on improving those choices, not declaring that experimentation has already killed it, and
+GPT: (매칭된 응답 없음)
+
+[L173_p29 | A1 | phase 3]
+TRIGGER
+CON: Melissa treats every disputed choice as evidence of ruin. But a living platform changes, provokes arguments, and lets users decide whether its tools serve them. Twitter still hosts conversation precisely because it is not frozen in the past. Its future depends on improving those choices, not declaring that experimentation has already killed it, and
+CON: I am not claiming each choice works. I am saying a platform remains alive when people can argue, adapt, and return. Calling that death ignores its resilience, its continuing use-
+GPT: Time. That concludes the debate.

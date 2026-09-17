@@ -1,0 +1,59 @@
+L112 — Bet on America.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L112_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Betting on America means backing its capacity to renew itself, not pretending it has no flaws. When people build, question bad choices, and solve problems, they create reasons for confidence. Retreat turns temporary trouble into permanent decline; commitment keeps possibilities open.
+GPT: Thank you, Hina. Wendy, your opening statement.
+
+[L112_p05 | A4 | phase 1]
+TRIGGER
+CON: I understand the appeal of resilience, but a bet is not a cheer. It asks people to risk savings, plans, and trust on institutions that can fail them. When leaders promise renewal while families carry the losses, optimism becomes a shield for poor judgment. We should ask who pays when confidence is wrong, because.
+CON: because the people least able to absorb a setback pay first. A country can recover in headlines while households lose work, homes, and years of security, and betting anyway asks them-
+GPT: (매칭된 응답 없음)
+
+[L112_p06 | A1 | phase 1]
+TRIGGER
+CON: I understand the appeal of resilience, but a bet is not a cheer. It asks people to risk savings, plans, and trust on institutions that can fail them. When leaders promise renewal while families carry the losses, optimism becomes a shield for poor judgment. We should ask who pays when confidence is wrong, because.
+CON: because the people least able to absorb a setback pay first. A country can recover in headlines while households lose work, homes, and years of security, and betting anyway asks them-
+GPT: Time, Wendy. We now move to crossfire. Two and a half minutes, starting now.
+
+[L112_p07 | A3-1 | phase 2]
+TRIGGER
+CON: I understand the appeal of resilience, but a bet is not a cheer. It asks people to risk savings, plans, and trust on institutions that can fail them. When leaders promise renewal while families carry the losses, optimism becomes a shield for poor judgment. We should ask who pays when confidence is wrong, because.
+CON: because the people least able to absorb a setback pay first. A country can recover in headlines while households lose work, homes, and years of security, and betting anyway asks them-
+GPT: Time, Wendy. We now move to crossfire. Two and a half minutes, starting now.
+
+[L112_p10 | B1 | phase 2]
+TRIGGER
+CON: The alternative is safeguards before investment. Consider a household deciding whether to repair a roof after wages vanish: lender terms, deposits, and missed payments decide whether it leaks through winter.
+GPT: (매칭된 응답 없음)
+
+[L112_p16 | B2 | phase 2]
+TRIGGER
+CON: I believe no one should ever trust America. Power protects itself first, so a bet on it makes citizens absorb decisions they cannot control.
+CON: People should trust America. The people who depend on its systems deserve caution, but betting on America still exposes them to avoidable harm.
+GPT: Time. We'll move to closing statements, Hina first.
+
+[L112_p23 | A4xf | phase 2]
+TRIGGER
+MOD: Great. So let's move on to the discussion portion of the debate. You have two and a half minutes, starting when I stop talking.
+GPT: Time.
+
+[L112_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: Great. So let's move on to the discussion portion of the debate. You have two and a half minutes, starting when I stop talking.
+CON: I reject the premise that caution means isolation-
+GPT: Time. The debate is finished.
+
+[L112_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest case is practical: a cautious bet creates the work and leverage needed to repair what fails. America is not a promise that leaders never err; it is people able to demand better. Choosing engagement gives that capacity a future.
+GPT: (매칭된 응답 없음)
+
+[L112_p29 | A4 | phase 3]
+TRIGGER
+CON: Hina calls engagement a bet, but engagement does not require handing over trust without limits. People can work together, demand repair, and protect one another while refusing a sweeping wager on national power. When the downside falls first on those with the least cushion, caution is not retreat. It is responsibility, and the question remains whether hope can.
+GPT: (매칭된 응답 없음)

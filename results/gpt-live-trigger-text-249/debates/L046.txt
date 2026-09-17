@@ -1,0 +1,53 @@
+L046 — Big government is stifling the American spirit.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L046_p02 | A4 | phase 1]
+TRIGGER
+PRO: Big government is stifling the American spirit because it replaces initiative with permission. When rules multiply, people spend energy navigating offices instead of building, serving, and taking risks. Government should protect basic rights, not manage every choice. A free spirit needs room to fail, learn, and try again. That room is shrinking as officials decide more of daily life.
+GPT: Ten seconds.
+
+[L046_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Big government is stifling the American spirit because it replaces initiative with permission. When rules multiply, people spend energy navigating offices instead of building, serving, and taking risks. Government should protect basic rights, not manage every choice. A free spirit needs room to fail, learn, and try again. That room is shrinking as officials decide more of daily life.
+PRO: Elise may call those rules protection, but protection becomes control when citizens must ask permission for ordinary work. The result is not security; it is hesitation, dependence-
+GPT: Time.
+
+[L046_p06 | A4 | phase 1]
+TRIGGER
+CON: Stanley confuses government with every frustrating rule. Big government can provide public goods that individual effort cannot, including safe roads, schools, emergency response, and fair standards. Those foundations do not crush initiative; they let more people participate. Freedom is not merely the absence of rules. It is also having enough security and opportunity to act boldly.
+GPT: Ten seconds.
+
+[L046_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Stanley confuses government with every frustrating rule. Big government can provide public goods that individual effort cannot, including safe roads, schools, emergency response, and fair standards. Those foundations do not crush initiative; they let more people participate. Freedom is not merely the absence of rules. It is also having enough security and opportunity to act boldly.
+CON: Smart government expands the number of people who can take risks, so big government is not inherently stifling.
+GPT: Thank you. We'll now move into two and a half minutes of crossfire starting now.
+
+[L046_p17 | B1 | phase 2]
+TRIGGER
+CON: If a workplace needs a license, an inspector may demand forms, revisions, and another visit. Then the owner hires someone to manage filings, waits beside a telephone, and learns which office prefers blue folders.
+GPT: Time. Closing statements now, Stanley first.
+
+[L046_p23 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Time, and that-
+
+[L046_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two. And round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: Ten.
+GPT: Time, and that concludes the debate.
+
+[L046_p26 | A4 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: government power tends to spread beyond its original purpose. A permit meant to protect safety becomes fees, delays, inspections, and fear of making an unauthorized choice. Elise says reform can fix that, but citizens still face the system before reform arrives. When ordinary initiative depends on official approval, the American spirit is being stifled.
+GPT: (매칭된 응답 없음)
+
+[L046_p28 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: government power tends to spread beyond its original purpose. A permit meant to protect safety becomes fees, delays, inspections, and fear of making an unauthorized choice. Elise says reform can fix that, but citizens still face the system before reform arrives. When ordinary initiative depends on official approval, the American spirit is being stifled.
+PRO: Freedom requires room to act first, not permission after bureaucracy has drained the will to act.
+GPT: (매칭된 응답 없음)

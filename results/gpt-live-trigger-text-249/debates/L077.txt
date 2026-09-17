@@ -1,0 +1,59 @@
+L077 — Alcoholics Anonymous works.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L077_p03 | A4 | phase 1]
+TRIGGER
+PRO: Alcoholics Anonymous works because it gives people a repeatable way to stop drinking and remain connected when urges return. Its meetings replace isolation with honest routine and people who understand the struggle. The program asks members to take responsibility one day at a time. That practical support deserves closer attention.
+PRO: That choice matters. It gives people a place to return after a bad day and hear from others who understand. By turning private struggle into regular support, it helps members stay sober, especially when-
+GPT: (매칭된 응답 없음)
+
+[L077_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Alcoholics Anonymous works because it gives people a repeatable way to stop drinking and remain connected when urges return. Its meetings replace isolation with honest routine and people who understand the struggle. The program asks members to take responsibility one day at a time. That practical support deserves closer attention.
+PRO: That choice matters. It gives people a place to return after a bad day and hear from others who understand. By turning private struggle into regular support, it helps members stay sober, especially when-
+GPT: Ten
+
+[L077_p06 | A4 | phase 1]
+TRIGGER
+CON: Alcoholics Anonymous may help some people, but the motion says it works broadly and reliably. One format built around meetings, stories, and surrender cannot fit every person facing alcohol problems. Some need privacy, medical care, different beliefs, or a plan that does not make recovery depend on a group. That gap matters.
+GPT: (매칭된 응답 없음)
+
+[L077_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Alcoholics Anonymous may help some people, but the motion says it works broadly and reliably. One format built around meetings, stories, and surrender cannot fit every person facing alcohol problems. Some need privacy, medical care, different beliefs, or a plan that does not make recovery depend on a group. That gap matters.
+CON: A helpful option is not the same as a method that works for everyone reliably.
+GPT: Ten seconds
+
+[L077_p13 | B1 | phase 2]
+TRIGGER
+CON: You call accountability a tool, but who unlocks the room, handles donations, and decides whether late arrivals disrupt the circle? Those practical burdens fall on volunteers, and arguments over schedules can exhaust them.
+GPT: (매칭된 응답 없음)
+
+[L077_p17 | B2 | phase 2]
+TRIGGER
+CON: Yes, the question is whether the program works, and forced participation reveals its weakness. No member should ever be pressured to speak; a recovery method built around group disclosure cannot work for everyone.
+CON: A silent member should be pressured to speak. If someone hides behind silence, firm group pressure may expose denial, yet that need for pressure shows Alcoholics Anonymous does not work as a reliable recovery method.
+GPT: Time. We move to closing statements, 30 seconds each, Margaret first.
+
+[L077_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L077_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now we move on to round two and in round two, the debaters will address one another directly. You have two and a half minutes, starting when I stop talking.
+MOD: Ten seconds, both of you.
+GPT: (매칭된 응답 없음)
+
+[L077_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: Emma's best argument is that a pressured newcomer may leave harmed, and that risk deserves care. But coercion violates the voluntary fellowship I defend, not its purpose. Alcoholics Anonymous works by joining accountability, shared experience, and repeated chances to choose sobriety.
+GPT: Ten seconds
+
+[L077_p27 | A4 | phase 3]
+TRIGGER
+CON: Margaret says harmful meetings are merely bad versions of the program, but people cannot recover from an abstract ideal. They encounter actual rooms, social pressure, and uneven advice. A method that depends heavily on the right group and right moment cannot be called reliable. It may offer comfort, yet comfort is not proof.
+GPT: (매칭된 응답 없음)

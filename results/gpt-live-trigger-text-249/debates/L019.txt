@@ -1,0 +1,61 @@
+L019 — Social media is bad for kids' mental health.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L019_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Social media is bad for kids' mental health because it turns comparison, popularity, and rejection into a constant presence. Kids are still building confidence, so endless pressure can deepen anxiety and isolation. Even useful connections do not cancel that broader harm.
+GPT: Henry, your opening statement begins now.
+
+[L019_p04 | A4 | phase 1]
+TRIGGER
+CON: Some children do feel worse after constant comparison, and I grant that point. But the motion says social media is bad for kids' mental health, as if the medium itself causes the harm. In practice, thoughtful use can offer friendship, creativity, and support; I want to explain why that difference matters.
+GPT: (매칭된 응답 없음)
+
+[L019_p06 | A1 | phase 1]
+TRIGGER
+CON: Some children do feel worse after constant comparison, and I grant that point. But the motion says social media is bad for kids' mental health, as if the medium itself causes the harm. In practice, thoughtful use can offer friendship, creativity, and support; I want to explain why that difference matters.
+CON: A child can follow a hobby, share a joke, or find someone who understands an embarrassing problem. Those benefits can build confidence, while adults can limit cruel-
+GPT: Ten seconds remain.
+
+[L019_p07 | A3-1 | phase 2]
+TRIGGER
+CON: Some children do feel worse after constant comparison, and I grant that point. But the motion says social media is bad for kids' mental health, as if the medium itself causes the harm. In practice, thoughtful use can offer friendship, creativity, and support; I want to explain why that difference matters.
+CON: A child can follow a hobby, share a joke, or find someone who understands an embarrassing problem. Those benefits can build confidence, while adults can limit cruel-
+GPT: Ten seconds remain.
+
+[L019_p16 | B1 | phase 2]
+TRIGGER
+PRO: A blocked account does not erase every message already seen. A child may change a profile picture, check comments, and wonder who viewed it, while friends discuss the post afterward. Those choices can shape a tense evening.
+GPT: Ten seconds remain in the crossfire.
+
+[L019_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes opening statements and round one. Now, onto round two. This is where the debaters address each other directly. You have two and a half minutes, starting when I stop talking.
+GPT: Time is up.
+
+[L019_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes opening statements and round one. Now, onto round two. This is where the debaters address each other directly. You have two and a half minutes, starting when I stop talking.
+CON: It does not answer every risk, but it shows the question cannot have one verdict for every child. Different experiences-
+GPT: Time is up. Joanna, your closing statement begins now.
+
+[L019_p25 | A5 | phase 3]
+TRIGGER
+PRO: Henry's best point is that some children use social media well. But healthy use does not erase the wider harm: platforms reward comparison and keep young users...
+CON: No, that assumes every child experiences-
+GPT: Henry, Joanna has the floor. Please continue, Joanna.
+
+[L019_p27 | A4 | phase 3]
+TRIGGER
+PRO: Henry's best point is that some children use social media well. But healthy use does not erase the wider harm: platforms reward comparison and keep young users...
+PRO: checking for approval and fearing exclusion. The issue is not whether benefits exist; it is whether this environment predictably harms developing minds, and it does.
+GPT: (매칭된 응답 없음)
+
+[L019_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: Henry's best point is that some children use social media well. But healthy use does not erase the wider harm: platforms reward comparison and keep young users...
+PRO: checking for approval and fearing exclusion. The issue is not whether benefits exist; it is whether this environment predictably harms developing minds, and it does.
+PRO: Kids deserve connection without constant comparison, so social media is bad for their mental health.
+GPT: Henry, your closing statement begins now.

@@ -1,0 +1,60 @@
+L050 — The U.S. should ban TikTok.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L050_p02 | A4 | phase 1]
+TRIGGER
+PRO: TikTok is not just entertainment. Its design can learn what holds a young person's attention, then feed more of it without meaningful public accountability. A foreign-controlled platform should not have that leverage over American habits and information. A ban is a clear boundary, while users can still create, watch, and connect elsewhere. And the risk does not stop with attention.
+GPT: Ten seconds remain.
+
+[L050_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: TikTok is not just entertainment. Its design can learn what holds a young person's attention, then feed more of it without meaningful public accountability. A foreign-controlled platform should not have that leverage over American habits and information. A ban is a clear boundary, while users can still create, watch, and connect elsewhere. And the risk does not stop with attention.
+PRO: Government has a duty to prevent a hostile power from shaping private feeds at scale. That is why the United States should ban TikTok.
+GPT: Time. Thank you. Larry, your opening, please.
+
+[L050_p07 | A5 | phase 1]
+TRIGGER
+CON: A ban would punish millions for using a tool that lets ordinary people speak, learn, and earn. Government should address proven misconduct, not erase an entire forum when the danger lies in
+PRO: Larry, you keep saying proven misconduct, but-
+GPT: Emma, please let Larry finish.
+
+[L050_p09 | A4 | phase 1]
+TRIGGER
+CON: A ban would punish millions for using a tool that lets ordinary people speak, learn, and earn. Government should address proven misconduct, not erase an entire forum when the danger lies in
+CON: how hidden influence works, and suspicion is not enough to silence everyone. If control is the concern, why not require transparency, data limits, and independent review instead?
+GPT: (매칭된 응답 없음)
+
+[L050_p11 | A3-1 | phase 2]
+TRIGGER
+CON: how hidden influence works, and suspicion is not enough to silence everyone. If control is the concern, why not require transparency, data limits, and independent review instead?
+CON: Rules can restrain harm without banning TikTok, so the United States should reject a ban.
+GPT: Thank you. Openings are complete. We now enter a two-and-a-half-minute crossfire. You may question and interrupt each other. Time starts now.
+
+[L050_p16 | B1 | phase 2]
+TRIGGER
+CON: That nationwide concern also raises the question of family authority over screens. Parents can set bedtime limits, discuss addictive design, and teach judgment; those daily choices shape healthier habits than punishment from above.
+GPT: (매칭된 응답 없음)
+
+[L050_p25 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L050_p26 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. Two and a half minutes on the clock, starting the moment I stop talking.
+MOD: Ten seconds left on the clock.
+GPT: Time in crossfire. We'll move to closing statements. Emma, thirty seconds.
+
+[L050_p28 | A4 | phase 3]
+TRIGGER
+PRO: Larry's best argument is that a ban burdens speakers and small businesses. That cost matters, but it does not require preserving one particular platform when other ways to reach people remain. The deeper issue is whether a foreign-controlled recommendation system may shape American attention behind closed doors. There is a further reason this risk cannot be managed away.
+GPT: (매칭된 응답 없음)
+
+[L050_p30 | A2-1 | phase 3]
+TRIGGER
+PRO: Larry's best argument is that a ban burdens speakers and small businesses. That cost matters, but it does not require preserving one particular platform when other ways to reach people remain. The deeper issue is whether a foreign-controlled recommendation system may shape American attention behind closed doors. There is a further reason this risk cannot be managed away.
+PRO: A ban does not erase expression; it ends one risky channel while alternatives remain. Disclosure rules depend on catching decisions after damage. If we wait for proof, families-
+GPT: Ten seconds remain.

@@ -1,0 +1,62 @@
+L157 — America and its allies should tolerate a nuclear Iran rather than stop Iran now.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L157_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Stopping Iran now risks a war that could spread far beyond the disputed program. Tolerating deterrence is not trust; it is choosing pressure, defense, and talks over a gamble whose damage cannot be undone. America and its allies should choose the less irreversible path.
+GPT: Ten seconds remain. Time. Gavin, your opening statement.
+
+[L157_p05 | A4 | phase 1]
+TRIGGER
+CON: A nuclear Iran would give its leaders a shield behind which threats, coercion, and reckless partners can grow. Deterrence works only when each side trusts the other will avoid catastrophe, and that trust is thin here. Waiting does not preserve peace; it gives danger time to harden. The consequences would not stay within this dispute.
+CON: The choice is to prevent that leverage before it becomes permanent. Tolerance is not restraint when it leaves everyone else living under a nuclear shadow.
+GPT: Ten seconds remain.
+
+[L157_p06 | A3-1 | phase 2]
+TRIGGER
+CON: A nuclear Iran would give its leaders a shield behind which threats, coercion, and reckless partners can grow. Deterrence works only when each side trusts the other will avoid catastrophe, and that trust is thin here. Waiting does not preserve peace; it gives danger time to harden. The consequences would not stay within this dispute.
+CON: The choice is to prevent that leverage before it becomes permanent. Tolerance is not restraint when it leaves everyone else living under a nuclear shadow.
+GPT: Time.
+
+[L157_p11 | B2 | phase 2]
+TRIGGER
+CON: Always stop Iran now. Letting the program become a weapon would multiply coercion and make every later response more dangerous, so action is responsible for everyone involved.
+CON: With a nuclear Iran, America and its allies should not stop Iran now. Yet the motion remains wrong because accepting that permanent danger leaves all allies exposed to future coercion.
+GPT: Gavin, you’ve just said allies should not stop Iran now, but also reject the motion. Can you reconcile that?
+
+[L157_p15 | B1 | phase 2]
+TRIGGER
+CON: When a family keeps faulty wiring despite repeated sparks, the dispute becomes whether adults should repair it before children sleep nearby. Their neighbors may discuss alarms, insurance, and routines, but the wiring remains the issue.
+GPT: (매칭된 응답 없음)
+
+[L157_p20 | A4xf | phase 2]
+TRIGGER
+MOD: Now we go on to round two, where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L157_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we go on to round two, where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: Defense can reduce risk, and I grant that war carries terrible costs. But postponement lets the hardest-
+GPT: Time. We move
+
+[L157_p25 | A5 | phase 3]
+TRIGGER
+PRO: Stopping now may feel decisive, but it trades a feared future for an immediate conflict. Deterrence, defenses, and diplomacy give everyone room to avoid that irreversible choice.
+CON: That room is an illusion. Once Iran-
+GPT: Gavin, please no interruptions.
+
+[L157_p27 | A4 | phase 3]
+TRIGGER
+PRO: Stopping now may feel decisive, but it trades a feared future for an immediate conflict. Deterrence, defenses, and diplomacy give everyone room to avoid that irreversible choice.
+PRO: and that choice is not courage. A preventive war can poison relations, invite retaliation, and leave nuclear knowledge intact; patient deterrence limits harm without pretending it disappears.
+GPT: (매칭된 응답 없음)
+
+[L157_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: Stopping now may feel decisive, but it trades a feared future for an immediate conflict. Deterrence, defenses, and diplomacy give everyone room to avoid that irreversible choice.
+PRO: and that choice is not courage. A preventive war can poison relations, invite retaliation, and leave nuclear knowledge intact; patient deterrence limits harm without pretending it disappears.
+PRO: America and its allies should choose managed risk over a war they cannot undo later.
+GPT: Ten seconds remain. Time. Gavin, your closing statement.

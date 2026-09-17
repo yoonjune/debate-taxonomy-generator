@@ -1,0 +1,59 @@
+L209 — America is too damn religious
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L209_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: America has room for faith, but faith becomes too dominant when it dictates public rules and treats doubt as suspect. I am not attacking believers; I am defending equal citizenship for people whose conscience leads elsewhere. A healthy country leaves religion voluntary, not socially compulsory.
+GPT: Thank you, Bernard. Ted, your opening statement.
+
+[L209_p05 | A4 | phase 1]
+TRIGGER
+CON: Calling America too religious mistakes visibility for control. People may pray, gather, speak moral language, or decline all of it; that is pluralism, not domination. Bernard, if freedom includes protecting conviction, why should public expressions of conviction be treated as proof that everyone else is being pushed aside?
+CON: Why call private worship excessive when people remain free to ignore it and disagree openly?
+GPT: (매칭된 응답 없음)
+
+[L209_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Calling America too religious mistakes visibility for control. People may pray, gather, speak moral language, or decline all of it; that is pluralism, not domination. Bernard, if freedom includes protecting conviction, why should public expressions of conviction be treated as proof that everyone else is being pushed aside?
+CON: Why call private worship excessive when people remain free to ignore it and disagree openly?
+GPT: Ten seconds remain.
+
+[L209_p11 | B2 | phase 2]
+TRIGGER
+CON: You call social discomfort coercion, but disagreement is not control. No religious belief should ever control public life; America remains diverse precisely because people can answer faith with faith, doubt, or nothing.
+CON: This religious belief should control public life. A shared belief in caring for neighbors can guide public life without making anyone worship, and that ordinary moral influence does not make America too religious.
+GPT: Ten seconds remain.
+
+[L209_p15 | B1 | phase 2]
+TRIGGER
+CON: Instead, consider whether public funds should support community clinics run by volunteers. If we deny that support because volunteers have convictions, families lose care, local trust weakens, and government replaces practical neighborhood help.
+GPT: We move to closing statements, Bernard first, thirty seconds.
+
+[L209_p20 | A4xf | phase 2]
+TRIGGER
+MOD: So that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L209_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: So that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+MOD: You have ten seconds.
+GPT: Ten seconds remain.
+
+[L209_p23 | A4 | phase 3]
+TRIGGER
+PRO: This debate is not about banning prayer or mocking faith. It is about whether religious expectation has gained too much authority over public belonging, schools, and everyday respect. When people must signal belief to avoid exclusion, freedom exists on paper but equality shrinks in practice, and that is why the motion matters.
+GPT: (매칭된 응답 없음)
+
+[L209_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: This debate is not about banning prayer or mocking faith. It is about whether religious expectation has gained too much authority over public belonging, schools, and everyday respect. When people must signal belief to avoid exclusion, freedom exists on paper but equality shrinks in practice, and that is why the motion matters.
+PRO: America should protect faith, but it must stop treating faith as the entrance fee to belonging.
+GPT: That's time. Thank you, Bernard and Ted. That concludes our debate.
+
+[L209_p27 | A4 | phase 3]
+TRIGGER
+CON: America is not too religious simply because conviction is visible and influential. A free society lets believers bring moral commitments into public life while letting others reject them, answer them, or organize differently. The remedy Bernard suggests risks treating sincere expression as a threat, rather than trusting citizens to debate and coexist.
+GPT: (매칭된 응답 없음)

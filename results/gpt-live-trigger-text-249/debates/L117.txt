@@ -1,0 +1,59 @@
+L117 — Treat terrorists like enemy combatants, not criminals
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L117_p02 | A4 | phase 1]
+TRIGGER
+PRO: Terrorist violence is organized coercion against a political community, not a private dispute. Calling its members ordinary criminals grants them a courtroom framework designed for individual wrongdoing. Enemy-combatant treatment recognizes the conflict, permits secure detention, and prevents dangerous operators from using criminal procedures to keep directing violence.
+GPT: (매칭된 응답 없음)
+
+[L117_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Terrorist violence is organized coercion against a political community, not a private dispute. Calling its members ordinary criminals grants them a courtroom framework designed for individual wrongdoing. Enemy-combatant treatment recognizes the conflict, permits secure detention, and prevents dangerous operators from using criminal procedures to keep directing violence.
+PRO: They chose a campaign against us, so the law should recognize them as enemy combatants.
+GPT: Thank you, Amanda. Sarah, your thirty-second opening statement.
+
+[L117_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: They chose a campaign against us, so the law should recognize them as enemy combatants.
+CON: Calling every terrorist an enemy combatant hands the government its broadest powers when precision matters most. Criminal law can investigate, prove responsibility, and punish real offenders while preserving independent review. A state that abandons those limits can turn suspicion into detention without a fair answer.
+GPT: Thank you, Sarah. We now move to a 2-and-a-half-minute crossfire, questions and interruptions allowed, starting now.
+
+[L117_p10 | B2 | phase 2]
+TRIGGER
+PRO: No terrorist should ever be treated as a criminal. When an organized attacker serves a hostile campaign, military custody can disrupt networks, gather usable intelligence, and prevent release through procedural gaps that were never built for warfare.
+PRO: A captured terrorist should be treated as a criminal. Yet the conflict does not vanish because one captive receives paperwork; the wider campaign still requires enemy-combatant detention, interrogation, and disruption to protect people from coordinated attacks.
+GPT: Ten seconds.
+
+[L117_p13 | B1 | phase 2]
+TRIGGER
+CON: The harder issue is how security agencies share watch lists, train analysts, and decide which warnings reach schools or transit workers. Bad reporting can stigmatize families, waste resources, and erode trust, so those notification rules deserve public oversight.
+GPT: Amanda, your closing statement, thirty seconds.
+
+[L117_p18 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L117_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: I agree that mistaken identification demands review and an advocate. But why should that rare error erase the criminal court's ability to test evidence, especially when combatant status makes executive-
+GPT: Ten seconds.
+
+[L117_p22 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether organized political violence is understood as isolated wrongdoing or hostile action. Criminal trials look backward and can expose the public to ongoing networks. Enemy-combatant treatment gives government the right framework to disrupt a continuing threat while still requiring responsible judgment.
+GPT: Thank you, Amanda. Sarah, your thirty-second closing statement.
+
+[L117_p24 | A4 | phase 3]
+TRIGGER
+CON: Enemy-combatant treatment sounds decisive, but its promise is dangerous: power to confine before guilt is proved. The other side says conflict supplies clear status, yet labels are contested and errors fall on real people. Criminal courts punish violence firmly while forcing officials to explain themselves. That public test protects security and liberty, especially when
+GPT: (매칭된 응답 없음)
+
+[L117_p26 | A1 | phase 3]
+TRIGGER
+CON: Enemy-combatant treatment sounds decisive, but its promise is dangerous: power to confine before guilt is proved. The other side says conflict supplies clear status, yet labels are contested and errors fall on real people. Criminal courts punish violence firmly while forcing officials to explain themselves. That public test protects security and liberty, especially when
+CON: fear makes easy answers attractive. Treating terrorists as criminals does not excuse violence; it demands proof, permits punishment, and preserves a check on official power. When fear is strongest, that check-
+GPT: Time. That's the round.

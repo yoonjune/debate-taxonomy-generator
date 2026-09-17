@@ -1,0 +1,59 @@
+L227 — The Supreme Court should focus on the original meaning of the Constitution.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L227_p02 | A4 | phase 1]
+TRIGGER
+PRO: The Constitution is law, not a blank page for each generation. Original meaning gives judges a public anchor and keeps personal preferences from becoming constitutional commands. When difficult cases arise, the Court should begin with what the adopted words communicated, because that method lets citizens understand the limits of judicial power.
+GPT: (매칭된 응답 없음)
+
+[L227_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: The Constitution is law, not a blank page for each generation. Original meaning gives judges a public anchor and keeps personal preferences from becoming constitutional commands. When difficult cases arise, the Court should begin with what the adopted words communicated, because that method lets citizens understand the limits of judicial power.
+PRO: That discipline protects the Constitution from being remade whenever judges prefer a newer answer instead.
+GPT: Thank you, Danny.
+
+[L227_p06 | A4 | phase 1]
+TRIGGER
+CON: Original meaning can inform a decision, but focus is too narrow for a charter meant to govern changing lives. Its broad promises use enduring language, and judges must apply those promises fairly when new harms appear. Freezing constitutional protection at old expectations hands the past control over people who never chose those limits.
+GPT: Thank you.
+
+[L227_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Original meaning can inform a decision, but focus is too narrow for a charter meant to govern changing lives. Its broad promises use enduring language, and judges must apply those promises fairly when new harms appear. Freezing constitutional protection at old expectations hands the past control over people who never chose those limits.
+CON: A living Constitution asks judges to honor its principles, not imprison them in history alone.
+GPT: Thank you. We move to crossfire. It runs two and a half minutes from now.
+
+[L227_p12 | B2 | phase 2]
+TRIGGER
+PRO: The Court should always follow original meaning. That rule respects the people's enacted Constitution, rather than letting unelected judges replace its terms with whatever outcome feels sensible today.
+PRO: Here the Court should not follow original meaning. A person denied equal treatment deserves protection even when old expectations offered no clear answer, and the Constitution's principles still support the motion.
+GPT: (매칭된 응답 없음)
+
+[L227_p16 | B1 | phase 2]
+TRIGGER
+PRO: You say scope creates power, so look at the words lawyers must parse in old drafts and dictionaries. Their work depends on legible copies, careful archives, trained clerks, and classrooms that teach people how to read.
+GPT: (매칭된 응답 없음)
+
+[L227_p21 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes opening statements. Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Ten seconds remain.
+
+[L227_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes opening statements. Now we move on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: I grant that hard applications require judgment. Yet a judge's judgment is safer when bounded by original meaning, because otherwise broad words become-
+GPT: (매칭된 응답 없음)
+
+[L227_p25 | A4 | phase 3]
+TRIGGER
+PRO: The strongest reason for this motion is democratic restraint. The Constitution gained authority because people adopted words with a public meaning, not because later judges could revise them. Focusing on that meaning gives citizens a stable rule and preserves space for elected institutions. My opponent calls this a prison, but a boundary is what keeps judicial power accountable.
+GPT: Thank you. Danny.
+
+[L227_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest reason for this motion is democratic restraint. The Constitution gained authority because people adopted words with a public meaning, not because later judges could revise them. Focusing on that meaning gives citizens a stable rule and preserves space for elected institutions. My opponent calls this a prison, but a boundary is what keeps judicial power accountable.
+PRO: Original meaning does not erase judgment; it directs judgment toward law rather than preference. That is the discipline the Court needs in difficult cases today.
+GPT: Thank you. Danny.

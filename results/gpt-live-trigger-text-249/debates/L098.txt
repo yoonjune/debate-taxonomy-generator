@@ -1,0 +1,59 @@
+L098 — Freedom of the press does not extend to state secrets
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L098_p02 | A4 | phase 1]
+TRIGGER
+PRO: A free press is vital because it tests power in public. But freedom is not a license to publish every item held by the state, especially material that exposes protective methods or vulnerable people. Secrets can concern immediate safety, not merely embarrassment. The motion asks whether a right to report erases that boundary, and it does not.
+GPT: (매칭된 응답 없음)
+
+[L098_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: A free press is vital because it tests power in public. But freedom is not a license to publish every item held by the state, especially material that exposes protective methods or vulnerable people. Secrets can concern immediate safety, not merely embarrassment. The motion asks whether a right to report erases that boundary, and it does not.
+PRO: Journalists may challenge secrecy and demand justification, but publication is different from access. A free society can protect both scrutiny and necessary confidentiality.
+GPT: Thank you. Martha, your statement.
+
+[L098_p06 | A4 | phase 1]
+TRIGGER
+CON: My opponent treats the label "state secret" as if it settles the argument. It does not, because states can hide wrongdoing, waste, and abuse behind that label. Press freedom exists precisely when officials would prefer silence. The real question is whether government may define the limits of public knowledge without meaningful independent challenge.
+GPT: Ten seconds remain.
+
+[L098_p08 | A1 | phase 1]
+TRIGGER
+CON: My opponent treats the label "state secret" as if it settles the argument. It does not, because states can hide wrongdoing, waste, and abuse behind that label. Press freedom exists precisely when officials would prefer silence. The real question is whether government may define the limits of public knowledge without meaningful independent challenge.
+CON: Of course, reporters should consider foreseeable harm and act responsibly. But the press must retain the freedom to publish important evidence, because secrecy can shield those in power from accountability. Once-
+GPT: Time is up. We now move into crossfire, two and a half minutes starting now.
+
+[L098_p09 | A3-1 | phase 2]
+TRIGGER
+CON: My opponent treats the label "state secret" as if it settles the argument. It does not, because states can hide wrongdoing, waste, and abuse behind that label. Press freedom exists precisely when officials would prefer silence. The real question is whether government may define the limits of public knowledge without meaningful independent challenge.
+CON: Of course, reporters should consider foreseeable harm and act responsibly. But the press must retain the freedom to publish important evidence, because secrecy can shield those in power from accountability. Once-
+GPT: Time is up. We now move into crossfire, two and a half minutes starting now.
+
+[L098_p22 | A4xf | phase 2]
+TRIGGER
+MOD: All right, so now we're going to move into a part of the debate where it's more of a conversation that moves back and forth, robustly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L098_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: All right, so now we're going to move into a part of the debate where it's more of a conversation that moves back and forth, robustly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: That example proves the value of exposing abuse, not an unrestricted right-
+GPT: (매칭된 응답 없음)
+
+[L098_p26 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on the difference between freedom to investigate power and freedom to disclose every secret. My opponent rightly fears concealment, but a state can be challenged without exposing people, protective operations, or urgent defenses. A legal boundary does not silence journalism. It recognizes that publication has consequences beyond the officials being criticized.
+GPT: (매칭된 응답 없음)
+
+[L098_p28 | A2-1 | phase 3]
+TRIGGER
+PRO: This decision turns on the difference between freedom to investigate power and freedom to disclose every secret. My opponent rightly fears concealment, but a state can be challenged without exposing people, protective operations, or urgent defenses. A legal boundary does not silence journalism. It recognizes that publication has consequences beyond the officials being criticized.
+PRO: The motion does not hand officials a blank check. It says press freedom has limits where disclosure itself creates serious harm, and accountability can still be pursued-
+GPT: Time is up. We'll move to closing statements. Angus first, then Martha, thirty seconds each.
+
+[L098_p30 | A4 | phase 3]
+TRIGGER
+CON: This decision turns on who bears the risk when government invokes secrecy. My opponent offers review, but hidden review cannot reliably expose hidden abuse, and officials naturally know more than the public they serve. A press freedom that disappears at the word "secret" is weakest where it is most needed. Responsibility in reporting is real, but it is not a government veto.
+GPT: (매칭된 응답 없음)

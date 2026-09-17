@@ -1,0 +1,61 @@
+L162 — The Egyptian military is not interested in genuine reform
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L162_p03 | A5 | phase 1]
+TRIGGER
+PRO: Egyptian military leaders preserve their power by controlling civilian decisions and shielding themselves from review. Changing appearances is not reform when the same institution keeps the final veto.
+CON: No, you are treating any gradual change-
+GPT: Carissa, please wait your turn.
+
+[L162_p05 | A4 | phase 1]
+TRIGGER
+PRO: Egyptian military leaders preserve their power by controlling civilian decisions and shielding themselves from review. Changing appearances is not reform when the same institution keeps the final veto.
+PRO: The test is whether independent civilians can question military choices without being overruled. If the institution writes the boundaries of scrutiny, its promised reform remains controlled from within.
+GPT: (매칭된 응답 없음)
+
+[L162_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Egyptian military leaders preserve their power by controlling civilian decisions and shielding themselves from review. Changing appearances is not reform when the same institution keeps the final veto.
+PRO: The test is whether independent civilians can question military choices without being overruled. If the institution writes the boundaries of scrutiny, its promised reform remains controlled from within.
+PRO: Until power can genuinely be transferred and challenged, the military is not interested in genuine reform.
+GPT: Time. Carissa, your opening statement.
+
+[L162_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: Until power can genuinely be transferred and challenged, the military is not interested in genuine reform.
+CON: Martin mistakes control over a difficult transition for permanent rejection of reform. A military can protect order while opening space for civilian institutions, clearer rules, and accountable decisions. The question is intent shown through real steps, not whether every change arrives instantly.
+GPT: Ten seconds remain.Thank you. We now move to a two and a half minute crossfire, starting now.
+
+[L162_p19 | B1 | phase 2]
+TRIGGER
+CON: Consider a military school changing its lessons so recruits practice de-escalation instead of automatic force. Those habits can reshape how junior officers treat people long before they hold command positions.
+GPT: Time. We move to closing statements, thirty seconds each, Martin first.
+
+[L162_p23 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes Round one. Now onto Round two. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L162_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes Round one. Now onto Round two. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+PRO: Your weakest claim is that future procedures prove present intent. Leaders who can cancel scrutiny whenever it matters-
+GPT: Ten seconds remain.
+
+[L162_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on control, not promises or careful language. Genuine reform requires independent civilian oversight that can investigate and constrain military power. When the military keeps authority to veto that oversight, it is not interested in genuine reform.
+GPT: Thank you. This concludes the debate.
+
+[L162_p29 | A4 | phase 3]
+TRIGGER
+CON: This decision turns on whether genuine reform must be perfect before it counts. It does not. The relevant question is whether the military is opening real channels for civilian participation, review, and restraint. Martin calls every incomplete change a sham, but institutions often reform through durable steps that build trust and capacity.
+GPT: (매칭된 응답 없음)
+
+[L162_p31 | A1 | phase 3]
+TRIGGER
+CON: This decision turns on whether genuine reform must be perfect before it counts. It does not. The relevant question is whether the military is opening real channels for civilian participation, review, and restraint. Martin calls every incomplete change a sham, but institutions often reform through durable steps that build trust and capacity.
+CON: Yes, oversight must eventually have force, and abuses must face challenge. But insisting that reform has value only after every safeguard is complete ignores how change develops-
+GPT: Carissa, time is up, and the debate is concluded.

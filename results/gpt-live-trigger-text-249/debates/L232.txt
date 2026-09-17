@@ -1,0 +1,57 @@
+L232 — Joe Biden should step aside.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L232_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: The question is not whether anyone can serve with dignity. It is whether the country benefits when a leader's capacity is plainly questioned. Stepping aside can protect the office, invite a clearer choice, and put the public ahead of personal ambition.
+GPT: Thank you, Kara.
+
+[L232_p05 | A4 | phase 1]
+TRIGGER
+CON: Jerry's capacity point treats public doubt as a verdict. Leaders face doubt whenever decisions are difficult, and replacing them because criticism grows rewards panic, not judgment. The real test is whether a president can govern, make choices, and carry out the duties voters entrusted to him.
+CON: That standard, not anxiety about appearances, is why Joe Biden should remain in office.
+GPT: (매칭된 응답 없음)
+
+[L232_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Jerry's capacity point treats public doubt as a verdict. Leaders face doubt whenever decisions are difficult, and replacing them because criticism grows rewards panic, not judgment. The real test is whether a president can govern, make choices, and carry out the duties voters entrusted to him.
+CON: That standard, not anxiety about appearances, is why Joe Biden should remain in office.
+GPT: Thank you. We'll move into crossfire for two and a half minutes. You may question and interrupt each other, starting now.
+
+[L232_p11 | B2 | phase 2]
+TRIGGER
+PRO: Your noise point misses the cost of waiting when leadership loses public confidence. Every president should step aside. When the office becomes a daily question of capacity, continuity requires a fresh leader.
+PRO: Joe Biden should not step aside. Yet the office needs renewal, and his departure would open a clearer democratic choice for the country, so Joe Biden should step aside.
+GPT: Which is it, Jerry? That every president should step aside once there's sustained doubt for renewal's sake , or that continuity requires a fresh leader, which means staying to preserve it?
+
+[L232_p20 | A4xf | phase 2]
+TRIGGER
+MOD: Round two is where the debaters address one another in turn. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L232_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: Round two is where the debaters address one another in turn. It runs two and a half minutes, starting the moment I stop. Go.
+MOD: You have ten seconds left.
+GPT: Time.
+
+[L232_p24 | A5 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: leadership needs public confidence, not just endurance. When that confidence erodes, protecting the office means choosing renewal, now,
+CON: That ignores the voters who chose him-
+GPT: Kara, Jerry has the floor.
+
+[L232_p26 | A4 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: leadership needs public confidence, not just endurance. When that confidence erodes, protecting the office means choosing renewal, now,
+PRO: not rewarding uncertainty with more uncertainty. A voluntary departure would give the country a clean choice and show that the office matters more than one person's ambition.
+GPT: (매칭된 응답 없음)
+
+[L232_p28 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: leadership needs public confidence, not just endurance. When that confidence erodes, protecting the office means choosing renewal, now,
+PRO: not rewarding uncertainty with more uncertainty. A voluntary departure would give the country a clean choice and show that the office matters more than one person's ambition.
+PRO: Joe Biden should step aside, because the country deserves confidence, clarity, and a fresh choice.
+GPT: Thank you, Kara.

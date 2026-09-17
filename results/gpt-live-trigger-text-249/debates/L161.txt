@@ -1,0 +1,60 @@
+L161 — Congress should pass the Secure the Border Act.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L161_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Congress should pass this act because a border without clear enforcement invites dangerous confusion. The bill gives officers workable rules, discourages unlawful entry, and makes the process fairer for people waiting through lawful channels. Order is not cruelty; it is the basis for safety and accountability.
+GPT: Philip.
+
+[L161_p05 | A5 | phase 1]
+TRIGGER
+CON: This act mistakes toughness for effectiveness. It gives enforcement too much weight while making families and workers face harsher barriers,
+PRO: That is exactly the problem: you call-
+GPT: Sorry, Leo. Philip, please go ahead.
+
+[L161_p07 | A4 | phase 1]
+TRIGGER
+CON: This act mistakes toughness for effectiveness. It gives enforcement too much weight while making families and workers face harsher barriers,
+CON: while offering little assurance that the people caught in its machinery receive a real hearing. A rushed system can separate vulnerable people from help.
+GPT: (매칭된 응답 없음)
+
+[L161_p09 | A3-1 | phase 2]
+TRIGGER
+CON: while offering little assurance that the people caught in its machinery receive a real hearing. A rushed system can separate vulnerable people from help.
+CON: Congress should fix the process carefully, not pass a bill built around blunt enforcement.
+GPT: Thank you. We now begin crossfire for two and a half minutes, starting now.
+
+[L161_p20 | B2 | phase 2]
+TRIGGER
+PRO: Every border crossing should always be stopped.
+PRO: This border crossing should not be stopped. A child arriving alone should be brought quickly to care, and the act can still strengthen screening for everyone else.
+GPT: (매칭된 응답 없음)
+
+[L161_p23 | A4xf | phase 2]
+TRIGGER
+MOD: Now, on to round two. This is our middle round in which the debaters talk directly to one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L161_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: Now, on to round two. This is our middle round in which the debaters talk directly to one another. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: Consider an officer who finds a traveler carrying false documents and cannot confirm where that person-
+GPT: Ten seconds remain.
+
+[L161_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: Philip rightly warns that vulnerable people need care, but rejecting clear rules does not create that care. The Secure the Border Act pairs screening with accountability, protects lawful applicants, and gives officers direction. Congress should pass it for a safer, more orderly system.
+GPT: Time. Closing
+
+[L161_p29 | A4 | phase 3]
+TRIGGER
+CON: Leo's best point is that officials need clear direction when identity is uncertain. But this bill answers uncertainty with detention and wider enforcement before it guarantees meaningful review. Clear rules are valuable only when they protect dignity as well as order. Congress can improve procedures without passing this harsh measure.
+GPT: (매칭된 응답 없음)
+
+[L161_p31 | A1 | phase 3]
+TRIGGER
+CON: Leo's best point is that officials need clear direction when identity is uncertain. But this bill answers uncertainty with detention and wider enforcement before it guarantees meaningful review. Clear rules are valuable only when they protect dignity as well as order. Congress can improve procedures without passing this harsh measure.
+CON: A secure border should be careful, targeted, and humane. This act risks making frightened families pay for governmental confusion, while lawful workers can be trapped by mistakes. Congress-
+GPT: Time. That's the debate.

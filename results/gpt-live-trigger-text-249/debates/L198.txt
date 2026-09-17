@@ -1,0 +1,59 @@
+L198 — China's power has peaked.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L198_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: China's influence reached its high point when its growth, confidence, and room to pressure others moved together. Now debt burdens, aging, wary neighbors, and tighter choices pull in opposite directions. It remains formidable, but a power can be large while its best moment is behind it.
+GPT: Thank you. Steve, your opening statement.
+
+[L198_p04 | A4 | phase 1]
+TRIGGER
+CON: Eric treats present strain as a finish line, but powerful countries adapt through strain. China still has industrial depth, skilled people, and the ability to redirect resources when priorities change. Why should temporary pressures prove a permanent ceiling, especially when rivals also face debt, division, and costly commitments across the world?
+GPT: Ten seconds remain.
+
+[L198_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Eric treats present strain as a finish line, but powerful countries adapt through strain. China still has industrial depth, skilled people, and the ability to redirect resources when priorities change. Why should temporary pressures prove a permanent ceiling, especially when rivals also face debt, division, and costly commitments across the world?
+CON: A peak means decline is unavoidable, and Eric has not shown any such unavoidable limit.
+GPT: Thank you. We now move to crossfire, two and a half minutes, starting now.
+
+[L198_p13 | B1 | phase 2]
+TRIGGER
+CON: Those savings can support new factories, but officials must decide which regions receive credit first. A lender favoring exporters may neglect households, while household support changes rents, schools, and local budgets.
+GPT: Steve, you have said strains are both temporary and that leaders can adjust without panic, yet you also say officials face hard trade-offs. Please reconcile how strains can be temporary if those trade-offs sharply limit what leaders can do.
+
+[L198_p20 | A4xf | phase 2]
+TRIGGER
+MOD: We're going to move into our proverbial free-for-all session. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L198_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: We're going to move into our proverbial free-for-all session. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: It does not equal decline; leverage can persist while its direction worsens. But your supplier example shows choices-
+GPT: (매칭된 응답 없음)
+
+[L198_p24 | A4 | phase 3]
+TRIGGER
+PRO: Steve's best argument is that China can adapt, and that is true in limited ways. Yet adaptation is not proof of a new high point. A country burdened by aging, debt, control, and distrust spends its energy defending gains. China remains consequential, but its capacity to set the terms around it has reached its crest.
+GPT: (매칭된 응답 없음)
+
+[L198_p26 | A2-1 | phase 3]
+TRIGGER
+PRO: Steve's best argument is that China can adapt, and that is true in limited ways. Yet adaptation is not proof of a new high point. A country burdened by aging, debt, control, and distrust spends its energy defending gains. China remains consequential, but its capacity to set the terms around it has reached its crest.
+PRO: Steve says endurance disproves a peak. But endurance can follow a summit; a mountain remains tall after the climb ends. The question is not whether China disappears, but whether its strongest combination-
+GPT: Time.
+
+[L198_p29 | A5 | phase 3]
+TRIGGER
+CON: China's challenges are real, but challenges are not a verdict. Its productive base and ability to adapt still give it room to gain power abroad.
+PRO: That room is shrinking, and you cannot call-
+GPT: Time. The debate is
+
+[L198_p31 | A4 | phase 3]
+TRIGGER
+CON: China's challenges are real, but challenges are not a verdict. Its productive base and ability to adapt still give it room to gain power abroad.
+CON: not a ceiling. A country with deep skills and flexible choices can turn caution into strength, and China's future remains open rather than already capped off.
+GPT: (매칭된 응답 없음)

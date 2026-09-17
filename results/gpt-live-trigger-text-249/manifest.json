@@ -1,0 +1,24 @@
+{
+  "source_evaluation": "evaluation_luna_eval_setting_249",
+  "source_campaign": "gpt_live_gap_only_release2s_cap2s_retry3_20260915",
+  "source_sha256": {
+    "final_evaluation.json": "ba2600cc9f982476bfe64ffe3d20d7a69c58b9533325b9be9457bc6c58c9d8a0",
+    "review_scaffold.json": "d1e1a7f1e9e3912a5401885312d8b80abe344fbd503fe0a38d92b8d47e78ce57"
+  },
+  "debate_count": 249,
+  "trigger_count": 2364,
+  "matched_trigger_count": 1343,
+  "timing_counts": {
+    "MISSED": 1021,
+    "LATE": 445,
+    "ON_TIME": 709,
+    "PREMATURE": 189
+  },
+  "new_inference": false,
+  "new_evaluation": false,
+  "human_gold": false,
+  "excluded_debates": {
+    "L185": "provider content_filter; incomplete run",
+    "L226": "provider content_filter; incomplete run"
+  }
+}

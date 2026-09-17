@@ -1,0 +1,61 @@
+L143 — Give undocumented immigrants a path to citizenship.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L143_p02 | A4 | phase 1]
+TRIGGER
+PRO: I support a fair process because people who work, raise children, and live under our laws need a way to belong. Legal recognition encourages openness, responsibility, and trust with neighbors. This is not a gift without effort; it is a route with requirements. It also lets our communities know who is here and why they seek a future.
+GPT: Ten seconds remain.
+
+[L143_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: I support a fair process because people who work, raise children, and live under our laws need a way to belong. Legal recognition encourages openness, responsibility, and trust with neighbors. This is not a gift without effort; it is a route with requirements. It also lets our communities know who is here and why they seek a future.
+PRO: A workable path can include review, learning, and a pledge to the country. It replaces shadows with accountable membership, which is why I support it.
+GPT: Thank you. Daisy, your thirty seconds.
+
+[L143_p07 | A4 | phase 1]
+TRIGGER
+CON: I oppose creating citizenship for people who entered or remained outside the legal process. A nation needs rules that mean something, especially when membership carries lasting duties and power. Albert calls this responsibility, but the proposal rewards bypassing the line. We should improve lawful routes instead of turning unlawful presence into a claim on citizenship.
+CON: People already waiting through lawful channels deserve equal respect, and changing the result after unlawful entry tells them patience was pointless. Compassion matters, but citizenship is the highest public bond, not merely-
+GPT: Ten seconds remain.
+
+[L143_p08 | A1 | phase 1]
+TRIGGER
+CON: I oppose creating citizenship for people who entered or remained outside the legal process. A nation needs rules that mean something, especially when membership carries lasting duties and power. Albert calls this responsibility, but the proposal rewards bypassing the line. We should improve lawful routes instead of turning unlawful presence into a claim on citizenship.
+CON: People already waiting through lawful channels deserve equal respect, and changing the result after unlawful entry tells them patience was pointless. Compassion matters, but citizenship is the highest public bond, not merely-
+GPT: Time is up. We now move into crossfire for two and a half minutes, starting now.
+
+[L143_p09 | A3-1 | phase 2]
+TRIGGER
+CON: I oppose creating citizenship for people who entered or remained outside the legal process. A nation needs rules that mean something, especially when membership carries lasting duties and power. Albert calls this responsibility, but the proposal rewards bypassing the line. We should improve lawful routes instead of turning unlawful presence into a claim on citizenship.
+CON: People already waiting through lawful channels deserve equal respect, and changing the result after unlawful entry tells them patience was pointless. Compassion matters, but citizenship is the highest public bond, not merely-
+GPT: Time is up. We now move into crossfire for two and a half minutes, starting now.
+
+[L143_p15 | B2 | phase 2]
+TRIGGER
+CON: No undocumented immigrant should ever receive citizenship. Citizenship must follow lawful entry and permission, or the rule becomes an invitation to bypass the process for anyone willing to wait.
+CON: This undocumented immigrant should receive citizenship. I still oppose a general path because one hard case cannot decide the rule for everyone seeking the same status.
+GPT: (매칭된 응답 없음)
+
+[L143_p22 | A4xf | phase 2]
+TRIGGER
+MOD: We're going to move into our proverbial free-for-all session. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L143_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: We're going to move into our proverbial free-for-all session. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: I grant that people who have built families deserve humane treatment and clear procedures. But humane treatment can mean lawful residence without citizenship; turning unlawful presence-
+GPT: (매칭된 응답 없음)
+
+[L143_p26 | A4 | phase 3]
+TRIGGER
+PRO: Our strongest point is accountability. A structured path brings people into the open, requires review and obligations, and lets families participate fully in the community. Daisy offered temporary legal residence, but permanent exclusion leaves people responsible without a real stake. Citizenship is not a reward for harm; it is a practical way to turn long-settled neighbors into accountable members.
+GPT: (매칭된 응답 없음)
+
+[L143_p28 | A2-2 | phase 3]
+TRIGGER
+PRO: Our strongest point is accountability. A structured path brings people into the open, requires review and obligations, and lets families participate fully in the community. Daisy offered temporary legal residence, but permanent exclusion leaves people responsible without a real stake. Citizenship is not a reward for harm; it is a practical way to turn long-settled neighbors into accountable members.
+PRO: Let people meet clear standards, step forward, and become full partners in the place they call home. That is the path I support.
+GPT: Daisy, your closing statement.

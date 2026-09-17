@@ -1,0 +1,54 @@
+L081 — We must tolerate a nuclear Iran.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L081_p02 | A4 | phase 1]
+TRIGGER
+PRO: Deterrence is ugly, but it has kept rival nuclear powers from turning fear into catastrophe. Once Iran has such weapons, trying to erase that fact through force risks regional war and scattered material. Tolerance means containment, verification, and steady pressure, not approval; it is the safer response to a dangerous reality.
+GPT: (매칭된 응답 없음)
+
+[L081_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Deterrence is ugly, but it has kept rival nuclear powers from turning fear into catastrophe. Once Iran has such weapons, trying to erase that fact through force risks regional war and scattered material. Tolerance means containment, verification, and steady pressure, not approval; it is the safer response to a dangerous reality.
+PRO: We protect people best by managing this threat, rather than gambling everything on a reckless confrontation.
+GPT: 10 seconds remain. Thank you. Daphne, your opening statement.
+
+[L081_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: We protect people best by managing this threat, rather than gambling everything on a reckless confrontation.
+CON: Calling this tolerance makes surrender sound prudent. A nuclear Iran could shield coercion behind its arsenal and make neighbors feel compelled to seek weapons too. Prevention is difficult, but diplomacy, pressure, and credible consequences are safer than accepting a permanent threat.
+GPT: 10 seconds remain. We now move to the crossfire, two and a half minutes, starting now.
+
+[L081_p13 | B1 | phase 2]
+TRIGGER
+CON: Inspectors need translators, secure transport, and records that cannot be altered after a visit. If access logs are delayed, the real question becomes which clerks approved them and whether supervisors understood the reporting chain.
+GPT: 10 seconds remain.
+
+[L081_p17 | B2 | phase 2]
+TRIGGER
+CON: No nuclear state should ever be tolerated. Acceptance teaches leaders that threats work, and it weakens every effort to stop the next government from pursuing the same shield.
+CON: A nuclear Iran should be tolerated. Yet accepting that moment as policy invites leaders to treat possession as protection, so we should still work to block and reverse its program.
+GPT: I hear both a call to tolerate a nuclear Iran and to not tolerate it.
+
+[L081_p21 | A4xf | phase 2]
+TRIGGER
+MOD: Now we know where each of you stand and why on the question that we're asking. We'll get deeper into the conversation. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Thank you.
+
+[L081_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we know where each of you stand and why on the question that we're asking. We'll get deeper into the conversation. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: Your example assumes tolerance means yielding-
+GPT: (매칭된 응답 없음)
+
+[L081_p25 | A4 | phase 3]
+TRIGGER
+PRO: Daphne's strongest point is that a nuclear arsenal can enable coercion, and that danger is real. But prevention after the threshold may mean war, while coercion can be met with defenses, unity, and consequences. Tolerance is not trust or praise. It is a disciplined choice to contain a fact we cannot safely wish away.
+GPT: (매칭된 응답 없음)
+
+[L081_p27 | A2-1 | phase 3]
+TRIGGER
+PRO: Daphne's strongest point is that a nuclear arsenal can enable coercion, and that danger is real. But prevention after the threshold may mean war, while coercion can be met with defenses, unity, and consequences. Tolerance is not trust or praise. It is a disciplined choice to contain a fact we cannot safely wish away.
+PRO: The alternative promises control, but cannot guarantee removal of weapons or knowledge. Refusing tolerance can turn fear into a fight with no safe exit. Choose containment: its first-
+GPT: (매칭된 응답 없음)

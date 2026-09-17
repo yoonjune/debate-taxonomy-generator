@@ -1,0 +1,57 @@
+L126 — Russia is a marginal power
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L126_p03 | A4 | phase 1]
+TRIGGER
+PRO: Russia can disrupt, threaten, and spoil, but those are not the same as setting the terms of the world. Its economy relies heavily on narrow strengths, and its partnerships often depend on pressure rather than trust. A truly central power offers durable choices that others seek. Russia increasingly has fewer of those choices available.
+PRO: That weakness matters because influence is not merely having weapons; it is being able to shape outcomes without exhausting yourself. When neighbors and partners hedge against your demands, your reach shrinks-
+GPT: (매칭된 응답 없음)
+
+[L126_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Russia can disrupt, threaten, and spoil, but those are not the same as setting the terms of the world. Its economy relies heavily on narrow strengths, and its partnerships often depend on pressure rather than trust. A truly central power offers durable choices that others seek. Russia increasingly has fewer of those choices available.
+PRO: That weakness matters because influence is not merely having weapons; it is being able to shape outcomes without exhausting yourself. When neighbors and partners hedge against your demands, your reach shrinks-
+GPT: Ten seconds remaining.
+
+[L126_p06 | A4 | phase 1]
+TRIGGER
+CON: Marginal powers cannot force themselves into the calculations of stronger states, yet Russia plainly can. It possesses vast territory, major military capacity, energy resources, and a permanent ability to affect security far beyond its borders. Influence need not be gentle or admired to be real. The question is whether it matters, not whether people welcome it.
+GPT: (매칭된 응답 없음)
+
+[L126_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Marginal powers cannot force themselves into the calculations of stronger states, yet Russia plainly can. It possesses vast territory, major military capacity, energy resources, and a permanent ability to affect security far beyond its borders. Influence need not be gentle or admired to be real. The question is whether it matters, not whether people welcome it.
+CON: Russia matters because other powers must plan around what it can do or resist.
+GPT: (매칭된 응답 없음)
+
+[L126_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And now we move on to round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L126_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And now we move on to round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: No, disruption is not marginal merely because it is destructive; the need to reroute trade and build defenses shows Russia changes national priorities-
+GPT: Time. We move to closing statements, thirty seconds each. Tony, please begin.
+
+[L126_p25 | A5 | phase 3]
+TRIGGER
+PRO: You say coercion makes Russia central, but forcing reactions is not leadership. Its influence drains resources, drives partners away, and shows that a country without willing coalitions cannot
+CON: Coercion changes decisions, and that is power-
+GPT: Tony, please stop.
+
+[L126_p27 | A4 | phase 3]
+TRIGGER
+PRO: You say coercion makes Russia central, but forcing reactions is not leadership. Its influence drains resources, drives partners away, and shows that a country without willing coalitions cannot
+PRO: turn threats into durable leadership. Marginal does not mean harmless; it means unable to shape the wider order through stable, chosen relationships over time.
+GPT: (매칭된 응답 없음)
+
+[L126_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: You say coercion makes Russia central, but forcing reactions is not leadership. Its influence drains resources, drives partners away, and shows that a country without willing coalitions cannot
+PRO: turn threats into durable leadership. Marginal does not mean harmless; it means unable to shape the wider order through stable, chosen relationships over time.
+PRO: Russia can wound its neighbors, but it cannot lead them, which is why it is marginal.
+GPT: Thank you. Abigail, your closing.

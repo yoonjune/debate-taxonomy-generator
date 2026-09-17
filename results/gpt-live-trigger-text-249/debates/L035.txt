@@ -1,0 +1,61 @@
+L035 — Spy on me, I'd rather be safe
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L035_p03 | A5 | phase 1]
+TRIGGER
+PRO: I support the motion because careful monitoring can prevent serious harm before it reaches me. Safety sometimes requires giving up a little privacy.
+CON: But giving up privacy is not a little thing-
+GPT: Cecilia, please hold. Hina, continue.
+
+[L035_p05 | A4 | phase 1]
+TRIGGER
+PRO: I support the motion because careful monitoring can prevent serious harm before it reaches me. Safety sometimes requires giving up a little privacy.
+PRO: Privacy matters, but protection matters more when a real danger is possible. Limited, accountable observation can spot threats early without treating every personal moment as suspicious.
+GPT: (매칭된 응답 없음)
+
+[L035_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: I support the motion because careful monitoring can prevent serious harm before it reaches me. Safety sometimes requires giving up a little privacy.
+PRO: Privacy matters, but protection matters more when a real danger is possible. Limited, accountable observation can spot threats early without treating every personal moment as suspicious.
+PRO: If sensible safeguards reduce serious danger, accepting some observation is the safer choice.
+GPT: Thank you, Hina. Cecilia, your opening statement.
+
+[L035_p09 | A4 | phase 1]
+TRIGGER
+CON: I oppose the motion because safety is not guaranteed by constant surveillance. Spying can misread innocent behavior, expose private information, and make people afraid to speak freely. A watched person may obey, but obedience is not the same as security. Real safety needs trust, clear limits, and a genuine reason for scrutiny, not suspicion aimed at everyone.
+GPT: (매칭된 응답 없음)
+
+[L035_p11 | A3-1 | phase 2]
+TRIGGER
+CON: I oppose the motion because safety is not guaranteed by constant surveillance. Spying can misread innocent behavior, expose private information, and make people afraid to speak freely. A watched person may obey, but obedience is not the same as security. Real safety needs trust, clear limits, and a genuine reason for scrutiny, not suspicion aimed at everyone.
+CON: Even well-meant spying can spread beyond its original purpose. I would rather protect safety through specific evidence and fair oversight than surrender privacy as a habit.
+GPT: Thank you. We now move to crossfire. Two and a half minutes total starting now.
+
+[L035_p25 | A4xf | phase 2]
+TRIGGER
+MOD: And now we move on to more free-wheeling discussion. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L035_p27 | A3-2 | phase 3]
+TRIGGER
+MOD: And now we move on to more free-wheeling discussion. You have two and a half minutes, starting when I stop talking.
+CON: I grant that a narrow search can sometimes find danger, but possibility alone cannot justify watching-
+GPT: (매칭된 응답 없음)
+
+[L035_p29 | A4 | phase 3]
+TRIGGER
+PRO: The strongest point is prevention. Privacy is valuable, but it cannot protect me from a danger it hides. When monitoring is limited, justified, and reviewed, it can reveal threats early and give me a chance to act. I am not defending curiosity or unlimited access; I am defending safety when the risks are real.
+GPT: Time.
+
+[L035_p31 | A2-1 | phase 3]
+TRIGGER
+PRO: The strongest point is prevention. Privacy is valuable, but it cannot protect me from a danger it hides. When monitoring is limited, justified, and reviewed, it can reveal threats early and give me a chance to act. I am not defending curiosity or unlimited access; I am defending safety when the risks are real.
+PRO: A careful society can set boundaries while still watching for serious danger. If the choice is modest intrusion or preventable harm, I would choose-
+GPT: Time. We'll move
+
+[L035_p33 | A4 | phase 3]
+TRIGGER
+CON: This motion turns a difficult exception into a personal rule. The real question is not whether spying can ever help; it is whether surrendering privacy should be our safer starting point. Surveillance can misread ordinary life, spread sensitive details, and chill honest speech. Safety built on constant suspicion leaves people less free and not necessarily safer.
+GPT: (매칭된 응답 없음)

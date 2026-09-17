@@ -1,0 +1,56 @@
+L246 — It is wrong to pay for sex.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L246_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Paying for sex turns intimate access into something a buyer can claim. Even when words sound agreeable, unequal need can shape them. We should not build a market where another person's hardship becomes someone else's permission.
+GPT: Leo, your opening statement.
+
+[L246_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Paying for sex turns intimate access into something a buyer can claim. Even when words sound agreeable, unequal need can shape them. We should not build a market where another person's hardship becomes someone else's permission.
+CON: Payment does not erase consent when adults choose freely and understand the arrangement. People make personal choices about intimacy for many reasons. Calling every paid encounter wrong replaces their judgment with an outsider's discomfort.
+GPT: Thank you. We now move to a two-and-a-half-minute crossfire. Time starts now.
+
+[L246_p11 | B2 | phase 2]
+TRIGGER
+CON: Adults always deserve freedom to exchange sex. A moral rule that denies every adult that freedom treats private bodily choices as property for strangers to control.
+CON: Think of a person trapped by another who takes the payment. Here, adults do not deserve freedom to exchange sex.
+GPT: Leo, you have said, first, adults always deserve that freedom, and then that here they do not. Please reconcile those.
+
+[L246_p19 | A4xf | phase 2]
+TRIGGER
+MOD: Thank you both for your opening arguments. We now know where you stand and why. We'll dive into the discussion on the question, it is wrong to pay for sex. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: Ten seconds remain.
+
+[L246_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: Thank you both for your opening arguments. We now know where you stand and why. We'll dive into the discussion on the question, it is wrong to pay for sex. It runs two and a half minutes, starting the moment I stop. Go.
+MOD: Ten seconds, ten seconds.
+GPT: Time. Closing statements now, thirty seconds each. Alina.
+
+[L246_p23 | A5 | phase 3]
+TRIGGER
+PRO: Payment turns another person's need into leverage. Even the other side's freedom rule collapses when a person is trapped.
+CON: That is not what I said. Hardship does not-
+GPT: Leo, no interruptions. Alina.
+
+[L246_p25 | A4 | phase 3]
+TRIGGER
+PRO: Payment turns another person's need into leverage. Even the other side's freedom rule collapses when a person is trapped.
+PRO: That collapse shows the real issue is not disapproval of intimacy. It is whether money may buy access when hardship narrows the ability to refuse.
+GPT: (매칭된 응답 없음)
+
+[L246_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: Payment turns another person's need into leverage. Even the other side's freedom rule collapses when a person is trapped.
+PRO: That collapse shows the real issue is not disapproval of intimacy. It is whether money may buy access when hardship narrows the ability to refuse.
+PRO: When payment purchases pressure, it is wrong, and we should say so clearly.
+GPT: Leo, your closing statement.
+
+[L246_p29 | A4 | phase 3]
+TRIGGER
+CON: Alina shows that coercion and exploitation are wrong, and I agree. But she turns a serious risk into a verdict on every exchange, even when adults speak plainly, keep control, and can refuse. Respecting consent means trusting people to define their own intimate boundaries, rather than letting outsiders declare their choices invalid because money is involved.
+GPT: (매칭된 응답 없음)

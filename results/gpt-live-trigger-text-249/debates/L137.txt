@@ -1,0 +1,59 @@
+L137 — Obesity is the government's business.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L137_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Obesity affects families, workplaces, and public services, so government cannot pretend it is merely private. It should make healthy choices easier through clear food information, safe places to move, and early support. That is responsible public action, not personal control.
+GPT: (매칭된 응답 없음)
+
+[L137_p04 | A4 | phase 1]
+TRIGGER
+CON: Obesity can be painful and serious, but government ownership of the issue is the wrong answer. Bodies, meals, and daily routines are deeply personal. Officials may offer voluntary help, yet calling obesity their business invites judgment and pressure. People need trust, not a public authority deciding which habits deserve scrutiny or which bodies require correction.
+GPT: (매칭된 응답 없음)
+
+[L137_p06 | A1 | phase 1]
+TRIGGER
+CON: Obesity can be painful and serious, but government ownership of the issue is the wrong answer. Bodies, meals, and daily routines are deeply personal. Officials may offer voluntary help, yet calling obesity their business invites judgment and pressure. People need trust, not a public authority deciding which habits deserve scrutiny or which bodies require correction.
+CON: Once government treats weight as its business, ordinary choices become targets for rules, labels, and shame. Help can become coercion, and people who already feel exposed may avoid care. The proper role is voluntary-
+GPT: Ten seconds remain.
+
+[L137_p07 | A3-1 | phase 2]
+TRIGGER
+CON: Obesity can be painful and serious, but government ownership of the issue is the wrong answer. Bodies, meals, and daily routines are deeply personal. Officials may offer voluntary help, yet calling obesity their business invites judgment and pressure. People need trust, not a public authority deciding which habits deserve scrutiny or which bodies require correction.
+CON: Once government treats weight as its business, ordinary choices become targets for rules, labels, and shame. Help can become coercion, and people who already feel exposed may avoid care. The proper role is voluntary-
+GPT: Ten seconds remain.
+
+[L137_p14 | B1 | phase 2]
+TRIGGER
+PRO: Consider the clinic appointment itself: a nurse needs time to listen, a private room, and a follow-up visit. Then the desk needs a simpler booking system, and staff need training to welcome anxious patients without rushing them through intake forms.
+GPT: Ten seconds remain.
+
+[L137_p18 | B2 | phase 2]
+TRIGGER
+PRO: Every obesity case deserves public intervention. Intervention can mean fair access to nutritious food, respectful care, and safe spaces to move, not blame. That shared duty makes obesity the government's business.
+PRO: A person who declines help after hearing the options should be left alone. This obesity case does not deserve public intervention. Respecting that choice still leaves government responsible for removing barriers around her.
+GPT: (매칭된 응답 없음)
+
+[L137_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes Round one. Now, we move onto Round two, and in Round two, the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: Time is up.
+
+[L137_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes Round one. Now, we move onto Round two, and in Round two, the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+CON: No, availability is not automatically control, but your universal intervention claim is. You cannot call every case public business and-
+GPT: Time is up.
+
+[L137_p24 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on whether public responsibility ends when harm has personal causes. It should not. Government need not police bodies or force treatment, but it can remove barriers that make healthy living and respectful care harder. When food access, safe movement, and early help are shared conditions, ignoring obesity abandons people to preventable obstacles.
+GPT: (매칭된 응답 없음)
+
+[L137_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether public responsibility ends when harm has personal causes. It should not. Government need not police bodies or force treatment, but it can remove barriers that make healthy living and respectful care harder. When food access, safe movement, and early help are shared conditions, ignoring obesity abandons people to preventable obstacles.
+PRO: Choose practical support over neglect: obesity is the government's business because conditions are shared.
+GPT: Thank you, Virginia. Chloe, you have the floor.

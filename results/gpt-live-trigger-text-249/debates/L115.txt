@@ -1,0 +1,43 @@
+L115 — Capitalism is the enemy of progress.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L115_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Progress means people gaining durable control over their lives. Capitalism gives owners power to withhold tools, housing, and knowledge until payment arrives. It can generate products, but it turns human advancement into a private toll road for those able to pay.
+GPT: Floyd.
+
+[L115_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Progress means people gaining durable control over their lives. Capitalism gives owners power to withhold tools, housing, and knowledge until payment arrives. It can generate products, but it turns human advancement into a private toll road for those able to pay.
+CON: Capitalism is not a barrier to progress; it rewards people who solve problems. Competition exposes waste and invites better ideas. When people may build, trade, and improve, progress spreads rather than waiting for one authority to decide.
+GPT: Thank you. We now move to a two and a half minute crossfire, starting now.
+
+[L115_p13 | B2 | phase 2]
+TRIGGER
+PRO: Your freedom belongs mostly to those who already own resources. Every capitalist system blocks shared progress. It makes inventions bargaining chips, so benefits arrive late, unevenly, or not at all.
+PRO: Here a capitalist system does not block shared progress: a maker designs a simple water filter and sells it widely. Families gain safer water, yet capitalism remains an enemy overall.
+GPT: (매칭된 응답 없음)
+
+[L115_p17 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes opening statements in this debate. And now we move on to Round two. In Round two, the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L115_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes opening statements in this debate. And now we move on to Round two. In Round two, the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: Imagine a small inventor who notices a dangerous stove, builds a safer design, and earns enough sales to improve it. Rivals copy the safety idea-
+GPT: Jacob time is up. Thank you.
+
+[L115_p21 | A4 | phase 3]
+TRIGGER
+PRO: Floyd says rivalry spreads good ideas, and sometimes it does. But an invention is not progress when access depends on what a buyer can surrender. Capitalism gives owners the power to decide which needs count and which wait. We should measure progress by shared freedom, not the speed of profitable products, because the crucial question is who controls the tools shaping daily life.
+GPT: (매칭된 응답 없음)
+
+[L115_p23 | A2-1 | phase 3]
+TRIGGER
+PRO: Floyd says rivalry spreads good ideas, and sometimes it does. But an invention is not progress when access depends on what a buyer can surrender. Capitalism gives owners the power to decide which needs count and which wait. We should measure progress by shared freedom, not the speed of profitable products, because the crucial question is who controls the tools shaping daily life.
+PRO: When profit sets the gate, urgent care, clean surroundings, and learning become markets before they become rights. Floyd calls that incentive, but it makes people-
+GPT: (매칭된 응답 없음)

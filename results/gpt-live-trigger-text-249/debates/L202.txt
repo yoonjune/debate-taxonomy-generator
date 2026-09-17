@@ -1,0 +1,61 @@
+L202 — Congress should pass Obama's jobs plan piece by piece
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L202_p03 | A5 | phase 1]
+TRIGGER
+PRO: Congress need not choose between passing everything and doing nothing. Passing workable provisions separately lets people get help while members test each proposal on its merits.
+CON: But picture a shop owner waiting each morning for-
+GPT: 10 seconds left, Amy.
+
+[L202_p05 | A4 | phase 1]
+TRIGGER
+PRO: Congress need not choose between passing everything and doing nothing. Passing workable provisions separately lets people get help while members test each proposal on its merits.
+PRO: members can judge whether a payroll tax cut works, whether repair funding reaches workers, and whether the cost is justified. That is responsible lawmaking, not delay.
+GPT: Time. Amy's time is up.
+
+[L202_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Congress need not choose between passing everything and doing nothing. Passing workable provisions separately lets people get help while members test each proposal on its merits.
+PRO: members can judge whether a payroll tax cut works, whether repair funding reaches workers, and whether the cost is justified. That is responsible lawmaking, not delay.
+PRO: Useful parts can help families sooner, so Congress should pass this plan piece by piece.
+GPT: Kirsten, your opening statement please.
+
+[L202_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: Useful parts can help families sooner, so Congress should pass this plan piece by piece.
+CON: A jobs plan is designed as a package: its costs, incentives, and priorities affect one another. Splitting it invites lawmakers to take popular benefits while discarding parts that pay for them. Congress should judge it as a whole, rather than turn it into easy but unfinished promises.
+GPT: 10 seconds left, Kirsten.
+
+[L202_p18 | B1 | phase 2]
+TRIGGER
+CON: And that public blame changes committee relationships. Members who feel exposed become less willing to share drafts, trade favors, or trust private assurances, so meetings grow colder and future negotiations become harder for everyone involved.
+GPT: (매칭된 응답 없음)
+
+[L202_p22 | A4xf | phase 2]
+TRIGGER
+MOD: Now we move on to round two. And round two is where the debaters address each other in turn. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Time.
+
+[L202_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we move on to round two. And round two is where the debaters address each other in turn. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: Congress decides through open votes, where each link can be debated plainly. You treat any connection as a reason for total delay-
+GPT: Amy, time is up, and that concludes the round.
+
+[L202_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: This choice is not between care and carelessness. It is between letting disagreement freeze every useful idea and allowing Congress to consider each idea openly. Passing the workable parts piece by piece gives workers, businesses, and communities a fair chance at timely action.
+GPT: (매칭된 응답 없음)
+
+[L202_p28 | A4 | phase 3]
+TRIGGER
+CON: Passing a plan piece by piece sounds practical, but it changes what voters are asked to judge. Benefits can be separated from costs, and promises can be separated from the conditions that make them work. That rewards short-term applause rather than responsible choices. Congress should examine how the pieces fit before it approves even the popular ones.
+GPT: (매칭된 응답 없음)
+
+[L202_p30 | A1 | phase 3]
+TRIGGER
+CON: Passing a plan piece by piece sounds practical, but it changes what voters are asked to judge. Benefits can be separated from costs, and promises can be separated from the conditions that make them work. That rewards short-term applause rather than responsible choices. Congress should examine how the pieces fit before it approves even the popular ones.
+CON: A worker deserves more than a headline about one approved provision. She deserves a plan whose training, hiring, and funding commitments reinforce one another. If Congress takes only the attractive-
+GPT: (매칭된 응답 없음)

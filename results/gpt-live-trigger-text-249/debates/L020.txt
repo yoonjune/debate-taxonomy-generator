@@ -1,0 +1,58 @@
+L020 — Stop worrying about national deficits
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L020_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Stop worrying about national deficits does not mean ignore budgets; it means stop treating every deficit as a national emergency. We should judge borrowing by what it achieves, protecting essential services and investment instead of letting fear dictate policy.
+GPT: Thank you. Daniel, your opening statement, please.
+
+[L020_p04 | A4 | phase 1]
+TRIGGER
+CON: Daphne makes fear sound like the only reason to question deficits, but that avoids the real issue. Borrowing creates obligations that future citizens must meet, and interest can crowd out schools, safety, and useful investment. A government that stops worrying about deficits can spend without discipline, leaving fewer choices when a genuine crisis arrives.
+GPT: (매칭된 응답 없음)
+
+[L020_p06 | A1 | phase 1]
+TRIGGER
+CON: Daphne makes fear sound like the only reason to question deficits, but that avoids the real issue. Borrowing creates obligations that future citizens must meet, and interest can crowd out schools, safety, and useful investment. A government that stops worrying about deficits can spend without discipline, leaving fewer choices when a genuine crisis arrives.
+CON: Even worthwhile programs need limits, because borrowed money is not free. Once leaders learn that deficit worries are dismissed, they can promise everything today and postpone every sacrifice-
+GPT: Time. We'll move to crossfire, two and a half minutes starting now.
+
+[L020_p07 | A3-1 | phase 2]
+TRIGGER
+CON: Daphne makes fear sound like the only reason to question deficits, but that avoids the real issue. Borrowing creates obligations that future citizens must meet, and interest can crowd out schools, safety, and useful investment. A government that stops worrying about deficits can spend without discipline, leaving fewer choices when a genuine crisis arrives.
+CON: Even worthwhile programs need limits, because borrowed money is not free. Once leaders learn that deficit worries are dismissed, they can promise everything today and postpone every sacrifice-
+GPT: Time. We'll move to crossfire, two and a half minutes starting now.
+
+[L020_p12 | B2 | phase 2]
+TRIGGER
+PRO: No government should ever let deficit anxiety override urgent public needs. Responsible borrowing should be judged by results, not by a frightening total.
+PRO: A government in recession should let deficit anxiety override urgent public needs. When families need support, refusing help merely to preserve a reassuring ledger is irresponsible.
+GPT: Daphne, you've just said no government should ever let deficit anxiety override urgent needs, and also that it should. You can't hold both. Which is your position?
+
+[L020_p15 | B1 | phase 2]
+TRIGGER
+CON: If one decision excuses the next, then limits become decorative. A promise is still a promise, and breaking it teaches people that confidence is optional. Trust matters in every agreement, whether money is involved or not.
+GPT: (매칭된 응답 없음)
+
+[L020_p21 | A4xf | phase 2]
+TRIGGER
+MOD: Let's debate. You have two and a half minutes, starting when I stop talking.
+GPT: Thank you.
+
+[L020_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: Let's debate. You have two and a half minutes, starting when I stop talking.
+MOD: Ten seconds left, both of you.
+GPT: We'll hear closing statements now, 30 seconds each, Daphne then Daniel. Daphne, you first.
+
+[L020_p24 | A2-2 | phase 3]
+TRIGGER
+PRO: Daniel's best point is that borrowing creates obligations, and we should honor them. But that duty does not make the deficit the main danger in every moment. Stop letting anxiety decide, and judge spending by whether it protects people and builds a stronger future.
+GPT: Thank you. Daniel?
+
+[L020_p26 | A4 | phase 3]
+TRIGGER
+CON: Daphne is right that public needs matter, but she turns that limited truth into a sweeping instruction to stop worrying. Deficits are not just numbers; they are promises that restrict future choices. Careful concern does not demand cruel cuts. It demands priorities, limits, and honesty about who will pay. Without that discipline, today's compassion can become tomorrow's crisis.
+GPT: (매칭된 응답 없음)

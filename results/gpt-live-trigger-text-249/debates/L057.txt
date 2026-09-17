@@ -1,0 +1,63 @@
+L057 — Too many kids go to college.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L057_p03 | A5 | phase 1]
+TRIGGER
+PRO: College is valuable, but treating it as the default sends many young people into costly, unfocused paths. We should respect work, training, and purposeful choices equally.
+CON: Why call it too many when you would limit options-
+GPT: Nigel, please hold until crossfire. Alice, you have ten seconds left.
+
+[L057_p05 | A4 | phase 1]
+TRIGGER
+PRO: College is valuable, but treating it as the default sends many young people into costly, unfocused paths. We should respect work, training, and purposeful choices equally.
+PRO: The issue is not forbidding anyone from attending. It is the pressure that tells every teenager college is the only respectable route, even before they know their goal.
+GPT: (매칭된 응답 없음)
+
+[L057_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: College is valuable, but treating it as the default sends many young people into costly, unfocused paths. We should respect work, training, and purposeful choices equally.
+PRO: The issue is not forbidding anyone from attending. It is the pressure that tells every teenager college is the only respectable route, even before they know their goal.
+PRO: When expectations replace judgment, too many kids enter college for the wrong reasons.
+GPT: Thank you. Nigel, your opening statement.
+
+[L057_p10 | A4 | phase 1]
+TRIGGER
+CON: Alice calls college pressure, but pressure to explore a future is not coercion. Young people change their minds, and college can give them room to discover interests. Training routes matter, yet they should be added, not used to steer kids away from learning. A broad education builds confidence, curiosity, and flexibility when plans change.
+CON: The answer is better guidance and stronger alternatives, not declaring students excessive simply because their path is academic. Choice, not sorting, serves kids.
+GPT: (매칭된 응답 없음)
+
+[L057_p11 | A3-1 | phase 2]
+TRIGGER
+CON: Alice calls college pressure, but pressure to explore a future is not coercion. Young people change their minds, and college can give them room to discover interests. Training routes matter, yet they should be added, not used to steer kids away from learning. A broad education builds confidence, curiosity, and flexibility when plans change.
+CON: The answer is better guidance and stronger alternatives, not declaring students excessive simply because their path is academic. Choice, not sorting, serves kids.
+GPT: Thank you. We move to crossfire, two and a half minutes starting now.
+
+[L057_p25 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. And now we move onto round two, and in round two the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L057_p27 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. And now we move onto round two, and in round two the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+PRO: If you can praise training without calling education excessive, why has college become the assumed next step for-
+GPT: (매칭된 응답 없음)
+
+[L057_p30 | A4 | phase 3]
+TRIGGER
+PRO: Nigel says uncertainty belongs in college. Yet uncertainty is exactly why no single expensive, academic route should be treated as the default. Young people deserve time to test work, craft, service, and study without being ranked by one credential. College remains right for many, but social pressure sends too many there before they can choose wisely.
+PRO: That pressure narrows classrooms and leaves other paths understaffed. We can honor college while ending the idea that it is every kid's first obligation. A fairer system opens real choices, and that-
+GPT: (매칭된 응답 없음)
+
+[L057_p31 | A2-1 | phase 3]
+TRIGGER
+PRO: Nigel says uncertainty belongs in college. Yet uncertainty is exactly why no single expensive, academic route should be treated as the default. Young people deserve time to test work, craft, service, and study without being ranked by one credential. College remains right for many, but social pressure sends too many there before they can choose wisely.
+PRO: That pressure narrows classrooms and leaves other paths understaffed. We can honor college while ending the idea that it is every kid's first obligation. A fairer system opens real choices, and that-
+GPT: Alice, time is up. Nigel, your closing statement.
+
+[L057_p33 | A4 | phase 3]
+TRIGGER
+CON: Alice mistakes weak guidance for too many students learning. The remedy is to improve counseling, make training visible, and let every young person choose. Calling attendance excessive turns a personal aspiration into a social mistake. College can offer exploration, transferable skills, and a second chance for a student whose plans are still forming. We should expand choices, not shrink the path.
+GPT: (매칭된 응답 없음)

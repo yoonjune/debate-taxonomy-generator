@@ -1,0 +1,60 @@
+L101 — The Middle East road map for peace is dead.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L101_p02 | A4 | phase 1]
+TRIGGER
+PRO: This road map is dead because its promised sequence has lost force. Key steps were meant to build trust, yet delay became normal and each side learned to wait. A plan survives through action, not through ceremonial references. When the deadlines pass without consequence, the document becomes an archive rather than a path. Its language remains, but its leverage has gone.
+GPT: (매칭된 응답 없음)
+
+[L101_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: This road map is dead because its promised sequence has lost force. Key steps were meant to build trust, yet delay became normal and each side learned to wait. A plan survives through action, not through ceremonial references. When the deadlines pass without consequence, the document becomes an archive rather than a path. Its language remains, but its leverage has gone.
+PRO: Larry may call continued discussion proof of life, but discussion without the map's required steps is replacement, not revival. The road map no longer directs decisions, so it is dead.
+GPT: Thank you, Ingrid. Larry, you now have thirty seconds for your opening statement.
+
+[L101_p06 | A4 | phase 1]
+TRIGGER
+CON: Ingrid mistakes failure and delay for death. A road map is a framework, and frameworks can endure when leaders lack the courage to use them. Its central bargain still identifies what both sides must eventually address. That matters because talks need a shared route, not merely goodwill. The plan is wounded and neglected, but it remains a usable guide.
+GPT: (매칭된 응답 없음)
+
+[L101_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Ingrid mistakes failure and delay for death. A road map is a framework, and frameworks can endure when leaders lack the courage to use them. Its central bargain still identifies what both sides must eventually address. That matters because talks need a shared route, not merely goodwill. The plan is wounded and neglected, but it remains a usable guide.
+CON: A document is dead only when its goals are abandoned by everyone. The goals here still shape negotiations, so calling the road map dead confuses frustration with finality.
+GPT: Thank you, Larry. We now move into crossfire. You have two and a half minutes to question each other, starting now.
+
+[L101_p13 | B2 | phase 2]
+TRIGGER
+PRO: Every road map always needs active implementation. Larry, where is the implementation when the promised steps are repeatedly postponed and the plan no longer directs either side's choices?
+PRO: This road map does not need active implementation. Its collapse already shows that a framework can linger on paper while losing authority, which is precisely why this particular road map is dead.
+GPT: Ingrid, you first said any roadmap always needs active implementation, then said this one does not need it, which can't both be true. Please reconcile that.
+
+[L101_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now, onto round two where the debaters will address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L101_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now, onto round two where the debaters will address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: Your starting-draft example actually proves-
+GPT: (매칭된 응답 없음)
+
+[L101_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Larry's best point is that the framework could be borrowed in future talks. But possible reuse is not present life: its deadlines, sequence, and authority have all failed. Peace may still be pursued, yet this road map no longer leads it. That is why the motion is true.
+GPT: Time. We now move to closing statements. Ingrid begins, thirty seconds.
+
+[L101_p29 | A5 | phase 3]
+TRIGGER
+CON: This decision turns on whether inactivity destroys a plan or merely suspends it. A framework with unresolved goals can still guide a future settlement,
+PRO: Larry keeps treating future usefulness as current-
+GPT: Ten seconds remain.
+
+[L101_p31 | A4 | phase 3]
+TRIGGER
+CON: This decision turns on whether inactivity destroys a plan or merely suspends it. A framework with unresolved goals can still guide a future settlement,
+CON: This decision turns on whether inactivity destroys a plan or merely suspends it. The road map still supplies a recognizable route for future agreement.
+GPT: (매칭된 응답 없음)

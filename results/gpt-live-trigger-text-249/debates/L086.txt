@@ -1,0 +1,59 @@
+L086 — It is ethical to cooperate with Chinese state institutions to secure incremental change.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L086_p02 | A4 | phase 1]
+TRIGGER
+PRO: Cooperation is not approval. It is a disciplined way to widen room for safer work, fairer treatment, and honest discussion where direct refusal may leave people with nothing. I would judge each engagement by the protections it wins and the leverage it preserves. Walking away can feel pure, but it can also abandon those seeking small, real openings.
+GPT: (매칭된 응답 없음)
+
+[L086_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Cooperation is not approval. It is a disciplined way to widen room for safer work, fairer treatment, and honest discussion where direct refusal may leave people with nothing. I would judge each engagement by the protections it wins and the leverage it preserves. Walking away can feel pure, but it can also abandon those seeking small, real openings.
+PRO: Incremental change is ethical when it leaves people more able to speak, organize, and resist harm tomorrow than they were yesterday. That is responsibility, not surrender.
+GPT: Ten seconds remain. Time. Billy, your opening.
+
+[L086_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: Incremental change is ethical when it leaves people more able to speak, organize, and resist harm tomorrow than they were yesterday. That is responsibility, not surrender.
+CON: My opponent treats contact as leverage, but the stronger party often controls the terms and the story. Incremental concessions can quiet criticism while leaving coercion intact. Ethical action must avoid lending legitimacy to institutions that can take the benefit of cooperation and deny the promised change.
+GPT: Thank you. Crossfire now begins and runs two and a half minutes from this moment.
+
+[L086_p10 | B2 | phase 2]
+TRIGGER
+CON: No cooperation with state institutions should ever be ethical. Their power lets them convert even careful partnership into a display of consent, so refusing cooperation protects the independence needed to demand real change.
+CON: Cooperation to release a detained child should be ethical. Yet the motion endorses a continuing approach, and that approach lets powerful institutions choose token reforms while preserving control over everyone else.
+GPT: (매칭된 응답 없음)
+
+[L086_p14 | B1 | phase 2]
+TRIGGER
+CON: Careful limits depend on written promises, then on inspectors, meeting notes, complaint forms, and staff training records. Once those records are filed, the dispute becomes who signed which form, who stored it, and whether the copier worked.
+GPT: Time. We move to closings. Jillian.
+
+[L086_p19 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: Ten seconds remain.
+
+[L086_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+MOD: Ten seconds left on the crossfire.
+GPT: (매칭된 응답 없음)
+
+[L086_p22 | A2-2 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether ethics demands distance or demands useful responsibility to people living under constraint. Cooperation is justified only with clear goals, public limits, and an ability to leave. When it expands people's power rather than an institution's image, incremental change is worth pursuing.
+GPT: Time. Billy, your closing.
+
+[L086_p24 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on who bears the moral cost when cooperation fails. The people facing control may be used as evidence of reform while outsiders claim progress. Small projects can offer relief, and I do not dismiss that relief. But ethical partnership cannot rest on promises made by the very power that may revoke them.
+GPT: (매칭된 응답 없음)
+
+[L086_p26 | A1 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on who bears the moral cost when cooperation fails. The people facing control may be used as evidence of reform while outsiders claim progress. Small projects can offer relief, and I do not dismiss that relief. But ethical partnership cannot rest on promises made by the very power that may revoke them.
+CON: That is why refusal preserves a line: do not trade moral independence for access controlled by another party. Jillian calls this caution abandonment, but accountability requires refusing arrangements that turn rights into favors-
+GPT: Time. That concludes the debate. Thank you both.

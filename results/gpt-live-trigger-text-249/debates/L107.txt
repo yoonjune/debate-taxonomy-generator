@@ -1,0 +1,59 @@
+L107 — The President Has Constitutional Power To Target And Kill U.S. Citizens Abroad
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L107_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: The Constitution makes the President commander in war, not a helpless observer when a citizen joins an enemy force abroad. Due process can fit wartime reality. Targeting an imminent operational threat against the nation in combat is constitutional self-defense, not punishment.
+GPT: Ten seconds remain.
+
+[L107_p05 | A4 | phase 1]
+TRIGGER
+CON: Constitutional power to defend the country is not a blank check to kill citizens without charge, hearing, or neutral review. A label from the executive cannot replace due process. If the President alone selects the target, who protects an innocent citizen or tests the evidence before death?
+CON: That irreversible act needs constitutional process, because a mistaken strike cannot be repaired afterward at all.
+GPT: (매칭된 응답 없음)
+
+[L107_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Constitutional power to defend the country is not a blank check to kill citizens without charge, hearing, or neutral review. A label from the executive cannot replace due process. If the President alone selects the target, who protects an innocent citizen or tests the evidence before death?
+CON: That irreversible act needs constitutional process, because a mistaken strike cannot be repaired afterward at all.
+GPT: Thank you. We now move into crossfire, two and a half minutes. It begins now.
+
+[L107_p10 | B1 | phase 2]
+TRIGGER
+PRO: That consequence also makes me think about detention after capture, where soldiers must decide who guards a suspect. Barracks rules, transport risks, and questioning methods shape whether a captured fighter can be held.
+GPT: Jonas, please keep your focus on whether the President has that power.
+
+[L107_p20 | A4xf | phase 2]
+TRIGGER
+MOD: We have just heard opening arguments on the president can constitutionally target and kill citizens abroad, and now we're going to give our debaters a chance to respond to one another. You have two and a half minutes, starting when I stop talking.
+GPT: We'll have closing
+
+[L107_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: We have just heard opening arguments on the president can constitutionally target and kill citizens abroad, and now we're going to give our debaters a chance to respond to one another. You have two and a half minutes, starting when I stop talking.
+MOD: Ten.
+GPT: (매칭된 응답 없음)
+
+[L107_p23 | A4 | phase 3]
+TRIGGER
+PRO: Rod's strongest concern is error, and error deserves serious limits and accountability. But the Constitution does not require the President to let an imminent enemy attack succeed because its commander holds citizenship. War power exists to defend the country against operational threats abroad. Due process cannot mean a courtroom before every act of combat. That is why the decisive question is
+GPT: Ten seconds remain.
+
+[L107_p25 | A2-1 | phase 3]
+TRIGGER
+PRO: Rod's strongest concern is error, and error deserves serious limits and accountability. But the Constitution does not require the President to let an imminent enemy attack succeed because its commander holds citizenship. War power exists to defend the country against operational threats abroad. Due process cannot mean a courtroom before every act of combat. That is why the decisive question is
+PRO: whether the target is an enemy operational threat in active conflict, not whether citizenship creates immunity. Where capture cannot safely stop that threat, the President's command-
+GPT: Thank you.
+
+[L107_p27 | A4 | phase 3]
+TRIGGER
+CON: Jonas's best argument is that the President must protect troops from immediate attack. Protection is vital, but it does not turn one official's accusation into a constitutional death warrant. Citizenship carries due process precisely when government power is at its most final. The President may respond to direct combat, yet targeting citizens abroad demands limits beyond executive choice. The Constitution separates power because
+GPT: (매칭된 응답 없음)
+
+[L107_p29 | A1 | phase 3]
+TRIGGER
+CON: Jonas's best argument is that the President must protect troops from immediate attack. Protection is vital, but it does not turn one official's accusation into a constitutional death warrant. Citizenship carries due process precisely when government power is at its most final. The President may respond to direct combat, yet targeting citizens abroad demands limits beyond executive choice. The Constitution separates power because
+CON: a mistaken killing cannot be reviewed after it happens. Jonas calls this defense, but his rule lets the executive define threat, evidence, and necessity alone-
+GPT: Time is up. That concludes the debate.

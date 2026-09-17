@@ -1,0 +1,54 @@
+L181 — The maximum pressure campaign against Iran is working.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L181_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Pressure is working because it denies easy resources while offering a path to relief. That combination narrows room for harmful conduct and builds leverage. If pressure is failing, Margaret, why do leaders keep demanding that it be lifted before anything else?
+GPT: Thank you. Margaret, your thirty seconds begin now.
+
+[L181_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Pressure is working because it denies easy resources while offering a path to relief. That combination narrows room for harmful conduct and builds leverage. If pressure is failing, Margaret, why do leaders keep demanding that it be lifted before anything else?
+CON: The campaign is not working because pain alone does not create durable choices. It burdens ordinary people, hardens resentment, and gives leaders excuses to resist. Real leverage needs credible diplomacy, not a strategy that makes compromise politically dangerous.
+GPT: Thank you. We move into crossfire. You may question and respond freely for two and a half minutes beginning now.
+
+[L181_p12 | B2 | phase 2]
+TRIGGER
+CON: No pressure campaign should ever punish ordinary families. Yet this one predictably raises daily hardship while insulated leaders shift costs downward, so calling those consequences success mistakes visible pain for real political progress.
+CON: When officials hide assets through relatives, the case is specific and serious. This pressure campaign should punish ordinary families, because their income is closely tied to that concealment.
+GPT: One moment.
+
+[L181_p17 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two. Round two is the round where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: Time.
+
+[L181_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two. Round two is the round where the debaters address one another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: You say verification replaces trust, but who gains when ordinary lives deteriorate before any change occurs? How can a policy-
+GPT: Time is up. We move to closing statements. Joanna, your thirty seconds begin now.
+
+[L181_p21 | A4 | phase 3]
+TRIGGER
+PRO: Maximum pressure works when it combines real costs with a clear, verifiable route to relief. That is not blind punishment; it is leverage aimed at changing choices that ordinary diplomacy cannot reach. Margaret worries about hardship, but hardship is not the policy's goal. The central question is whether refusing harmful conduct becomes more costly than changing it, and the campaign makes that choice unavoidable.
+GPT: Ten seconds remain.
+
+[L181_p23 | A2-1 | phase 3]
+TRIGGER
+PRO: Maximum pressure works when it combines real costs with a clear, verifiable route to relief. That is not blind punishment; it is leverage aimed at changing choices that ordinary diplomacy cannot reach. Margaret worries about hardship, but hardship is not the policy's goal. The central question is whether refusing harmful conduct becomes more costly than changing it, and the campaign makes that choice unavoidable.
+PRO: The record is clear. Relief tied to compliance gives leaders an incentive to step back, while sustained pressure denies them comfort in refusing-
+GPT: Time. Margaret, your thirty seconds begin now.
+
+[L181_p25 | A4 | phase 3]
+TRIGGER
+CON: Maximum pressure is judged by whether it changes conduct without creating resistance and wider suffering. Its result is pain that leaders can redirect into resentment, while ordinary families bear costs. Joanna calls that leverage, yet leverage that cannot produce engagement becomes a trap. A working policy opens durable choices; this campaign closes them and makes compromise harder.
+GPT: (매칭된 응답 없음)
+
+[L181_p27 | A1 | phase 3]
+TRIGGER
+CON: Maximum pressure is judged by whether it changes conduct without creating resistance and wider suffering. Its result is pain that leaders can redirect into resentment, while ordinary families bear costs. Joanna calls that leverage, yet leverage that cannot produce engagement becomes a trap. A working policy opens durable choices; this campaign closes them and makes compromise harder.
+CON: The question is not whether pressure can hurt; it plainly can. The question is whether that hurt produces a safer, more stable outcome, and this campaign has no convincing path from punishment to change-
+GPT: Time. That's the debate.

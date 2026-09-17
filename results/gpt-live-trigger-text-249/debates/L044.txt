@@ -1,0 +1,62 @@
+L044 — China is a threat to the liberal international order.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L044_p02 | A4 | phase 1]
+TRIGGER
+PRO: China is a threat because it challenges the rules that protect open trade, lawful conduct, and peaceful disagreement. Its growing power lets it pressure weaker states, resist scrutiny, and promote a model where authority outranks individual rights. This is not fear of competition; it is concern about behavior that makes the order less open and less secure.
+GPT: (매칭된 응답 없음)
+
+[L044_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: China is a threat because it challenges the rules that protect open trade, lawful conduct, and peaceful disagreement. Its growing power lets it pressure weaker states, resist scrutiny, and promote a model where authority outranks individual rights. This is not fear of competition; it is concern about behavior that makes the order less open and less secure.
+PRO: When a powerful state weakens shared rules and rewards coercion, the liberal order itself becomes less dependable.
+GPT: Thank you. Lionel. The liberal order is not a single thing. It's a mix. China works within many of its core parts: trade, UN peacekeeping, arms control. It seeks influence, yes, but that is not the same as destroying the order. The system is durable and adapts. Painting China only as a threat ignores the cooperation that still happens as part of that order. Ten seconds remain.
+
+[L044_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: When a powerful state weakens shared rules and rewards coercion, the liberal order itself becomes less dependable.
+CON: China is not a threat to the liberal international order simply because it has different priorities or greater influence. It participates in many shared systems and benefits from stable rules. Carla is turning legitimate rivalry into danger, and that exaggeration makes cooperation harder. The motion confuses a difficult partner with an actual threat.
+GPT: Thank you. We will now have a two-and-a-half-minute crossfire, where both may question and interrupt each other, starting now.
+
+[L044_p10 | B1 | phase 2]
+TRIGGER
+CON: That old dispute began with a broken promise, then produced years of arguments over borders, trade, and recognition; each meeting reopened blame, and each statement hardened public anger instead of resolving anything.
+GPT: Every major power pursues interests. Why single out China as an existential threat rather than a strong stakeholder pushing for reform? Because its push is not just for reform; it includes punishing states for lawful choices, using economic dependence as leverage, and rejecting rulings that are meant to bind everyone. That goes beyond normal competition and chips away at the predictability that others rely on. If rules can be ignored when inconvenient, how is that not a threat to the order itself? It's a challenge, yes, but a challenge the order has weathered before. The system absorbs disagreement. It evolves through pressure and bargaining. Calling that evolution a threat assumes any change equals collapse, and that's not borne out. But when... When change is driven by fear and pressure, smaller states have less room to choose. That tilts the playing field. Ten seconds remain.
+
+[L044_p16 | B2 | phase 2]
+TRIGGER
+CON: No state should ever be treated as a threat; that label invites suspicion, escalation, and closed alliances. We should judge conduct narrowly, not condemn a country wholesale.
+CON: China should be treated as a threat. Its pressure on open rules deserves firm resistance, while cooperation remains possible and useful.
+GPT: Thank you.
+
+[L044_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes Round one. Now, we move onto Round two, and in Round two, the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Thank you.
+
+[L044_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes Round one. Now, we move onto Round two, and in Round two, the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: You reduce a pattern to one tactic, but the concern is cumulative-
+GPT: (매칭된 응답 없음)
+
+[L044_p27 | A5 | phase 3]
+TRIGGER
+PRO: Lionel's best point is that cooperation remains possible, but cooperation does not cancel coercion. China's pressure on openness and accountability makes it a threat to the liberal order.
+CON: But that ignores the evidence of cooperation-
+GPT: Time is up. Thank you.
+
+[L044_p29 | A4 | phase 3]
+TRIGGER
+PRO: Lionel's best point is that cooperation remains possible, but cooperation does not cancel coercion. China's pressure on openness and accountability makes it a threat to the liberal order.
+PRO: That cooperation is precisely why the threat is serious: China can use the order's benefits while weakening its standards from within. Its conduct, not its identity, is the basis of my case.
+GPT: (매칭된 응답 없음)
+
+[L044_p31 | A2-2 | phase 3]
+TRIGGER
+PRO: Lionel's best point is that cooperation remains possible, but cooperation does not cancel coercion. China's pressure on openness and accountability makes it a threat to the liberal order.
+PRO: That cooperation is precisely why the threat is serious: China can use the order's benefits while weakening its standards from within. Its conduct, not its identity, is the basis of my case.
+PRO: A powerful participant that erodes openness and accountability is still a threat to the order.
+GPT: The liberal order is meant to manage deep differences without breaking. Carla's strongest evidence is coercive behavior. I accept that concern, but it does not prove the order itself is collapsing. China is a difficult, influential participant, not an existential threat. The solution is firmer engagement, not branding it as a threat. Thank you.

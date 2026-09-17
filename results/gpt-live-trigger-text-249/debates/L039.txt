@@ -1,0 +1,59 @@
+L039 — The cyber war threat has been grossly exaggerated
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L039_p02 | A4 | phase 1]
+TRIGGER
+PRO: Cyber conflict is real, but its danger is often described as if one hostile click can collapse everything at once. Most attacks are limited, recoverable, and visible enough to contain. Treating every breach as the opening of total war confuses nuisance, espionage, and disruption with catastrophe. I will show why that confusion drives this motion.
+GPT: (매칭된 응답 없음)
+
+[L039_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Cyber conflict is real, but its danger is often described as if one hostile click can collapse everything at once. Most attacks are limited, recoverable, and visible enough to contain. Treating every breach as the opening of total war confuses nuisance, espionage, and disruption with catastrophe. I will show why that confusion drives this motion.
+PRO: Warnings matter, but inflated warnings blur sensible priorities and invite panic. We should judge the threat by likely damage, not dramatic possibility.
+GPT: Ten seconds remain.Thank you. Ingrid, you're next.
+
+[L039_p06 | A4 | phase 1]
+TRIGGER
+CON: Calling these threats exaggerated is itself dangerous. A cyber attack can interrupt essential services, expose private records, or quietly distort decisions before anyone understands what happened. The damage may spread through connected systems, and recovery may not restore trust. Henry's language treats uncertainty as reassurance, but uncertainty is exactly why serious preparation matters.
+GPT: Ten seconds remain.
+
+[L039_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Calling these threats exaggerated is itself dangerous. A cyber attack can interrupt essential services, expose private records, or quietly distort decisions before anyone understands what happened. The damage may spread through connected systems, and recovery may not restore trust. Henry's language treats uncertainty as reassurance, but uncertainty is exactly why serious preparation matters.
+CON: The threat is not grossly exaggerated; underestimating it is the greater danger.
+GPT: We move to crossfire, two and a half minutes from now, open exchange and interruptions are allowed.
+
+[L039_p18 | B2 | phase 2]
+TRIGGER
+CON: No cyber attack should ever go unpunished.
+CON: A cyber attack should go unpunished. That does not make the overall threat exaggerated; it makes clear action necessary when digital harm threatens public safety.
+GPT: Ingrid, please return to whether the threat is exaggerated.
+
+[L039_p23 | A4xf | phase 2]
+TRIGGER
+MOD: As the conversation continues, we're going to give you each a chance to rebut one another. You have two and a half minutes, starting when I stop talking.
+GPT: Time.
+
+[L039_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: As the conversation continues, we're going to give you each a chance to rebut one another. You have two and a half minutes, starting when I stop talking.
+CON: That example only shows that one account was contained, not that the broader threat is inflated. Quiet access, delayed discovery, and-
+GPT: Time is up . We move to closing statements. Henry first, thirty seconds.
+
+[L039_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: real risk does not justify inflated description. When limited breaches are presented as cyber war, people lose proportion and preparedness becomes panic. Measure consequences honestly, and the motion stands.
+GPT: Ten seconds remain.Thank you.Ingrid, your closing statement.
+
+[L039_p29 | A4 | phase 3]
+TRIGGER
+CON: Henry keeps separating small beginnings from large consequences, as though the first step tells us the ending. Cyber harm can remain hidden, spread through connected systems, and disrupt essential services before anyone reacts. Preparation is not panic, and caution is not exaggeration. The safer judgment is to treat the threat as serious.
+GPT: (매칭된 응답 없음)
+
+[L039_p31 | A1 | phase 3]
+TRIGGER
+CON: Henry keeps separating small beginnings from large consequences, as though the first step tells us the ending. Cyber harm can remain hidden, spread through connected systems, and disrupt essential services before anyone reacts. Preparation is not panic, and caution is not exaggeration. The safer judgment is to treat the threat as serious.
+CON: A limited breach can still open a path to wider harm, and hidden damage can outlast the first response. That is why this threat deserves serious preparation-
+GPT: Thank you . That concludes today's debate.

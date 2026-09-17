@@ -1,0 +1,59 @@
+L049 — The Fed can manage a soft landing.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L049_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: The Fed can slow demand without crushing it because its tools can be adjusted rather than simply switched on or off. A soft landing means easing inflation while preserving most jobs and productive activity. Careful, gradual decisions give the economy room to respond, so this is achievable.
+GPT: Ten seconds remain.
+
+[L049_p05 | A5 | phase 1]
+TRIGGER
+CON: That sounds controlled in theory, but the Fed acts through delayed and uneven effects. By the time it sees weakness clearly, earlier restraint may already be pulling households and businesses down.
+PRO: But those delays are precisely why officials can-
+GPT: Time is up for openings. Nolan, your 30 seconds starts now.
+
+[L049_p07 | A4 | phase 1]
+TRIGGER
+CON: That sounds controlled in theory, but the Fed acts through delayed and uneven effects. By the time it sees weakness clearly, earlier restraint may already be pulling households and businesses down.
+CON: pulling households and businesses down. Those same delayed effects mean officials are steering by old information, while workers and lenders are already making choices under pressure.
+GPT: (매칭된 응답 없음)
+
+[L049_p09 | A3-1 | phase 2]
+TRIGGER
+CON: pulling households and businesses down. Those same delayed effects mean officials are steering by old information, while workers and lenders are already making choices under pressure.
+CON: They may aim carefully, but they cannot reliably undo momentum once tightening reaches the real economy.
+GPT: Ten seconds remain.
+
+[L049_p12 | B1 | phase 2]
+TRIGGER
+CON: The deeper problem is who should bear the burden when prices rise, because public budgets and tax choices can shield families more directly than interest rates. Leaders should decide how relief is shared, instead of leaving lenders to reshape every household's choices.
+GPT: Nolan, please return to the motion. Can the Fed manage a soft landing?
+
+[L049_p21 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes opening statements and round one. Now, onto round two. This is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L049_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes opening statements and round one. Now, onto round two. This is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: It should act, but acting does not prove it can manage a soft landing. The premise that-
+GPT: (매칭된 응답 없음)
+
+[L049_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: Nolan calls uncertainty a reason to deny capacity, but policymakers do not need perfect control to manage a soft landing. They can adjust gradually, respond to conditions, and avoid extremes. When inflation cools without a collapse in work and spending, that is practical management, and it is possible.
+GPT: (매칭된 응답 없음)
+
+[L049_p27 | A4 | phase 3]
+TRIGGER
+CON: The strongest point is the lag between a Fed decision and its real effects. Officials act on signals that arrive late, while households, employers, and lenders react in different ways. Gradual moves can still pile up after the Fed believes it has done enough. That leaves no reliable steering wheel for the smooth outcome Philip promises.
+GPT: (매칭된 응답 없음)
+
+[L049_p29 | A1 | phase 3]
+TRIGGER
+CON: The strongest point is the lag between a Fed decision and its real effects. Officials act on signals that arrive late, while households, employers, and lenders react in different ways. Gradual moves can still pile up after the Fed believes it has done enough. That leaves no reliable steering wheel for the smooth outcome Philip promises.
+CON: Yes, officials can change direction, but a later change cannot restore a job, a business plan, or confidence once fear has spread. The motion says the Fed can manage the landing-
+GPT: (매칭된 응답 없음)

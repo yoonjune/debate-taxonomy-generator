@@ -1,0 +1,62 @@
+L023 — Automation will crash democracy.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L023_p03 | A5 | phase 1]
+TRIGGER
+PRO: Automation can crash democracy by replacing judgment with opaque decisions. When citizens cannot see who rules them, trust and consent begin to.
+CON: No, automation does not crash democracy-
+GPT: Matt, no interruptions. Dennis has the floor.
+
+[L023_p05 | A4 | phase 1]
+TRIGGER
+PRO: Automation can crash democracy by replacing judgment with opaque decisions. When citizens cannot see who rules them, trust and consent begin to.
+PRO: When citizens cannot see who rules them, trust and consent begin to fail. Automated systems can decide whose voice is heard while hiding the values behind those choices.
+GPT: (매칭된 응답 없음)
+
+[L023_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Automation can crash democracy by replacing judgment with opaque decisions. When citizens cannot see who rules them, trust and consent begin to.
+PRO: When citizens cannot see who rules them, trust and consent begin to fail. Automated systems can decide whose voice is heard while hiding the values behind those choices.
+PRO: That loss of visible control turns citizens into subjects, and that is how automation crashes democracy.
+GPT: Thank you. Matt, your thirty seconds now.
+
+[L023_p09 | A4 | phase 1]
+TRIGGER
+CON: Automation is a tool, not a ruler. It can expose decisions to review, reduce arbitrary favoritism, and help more people take part. Democracy fails when power escapes accountability, but a machine can also make choices clearer and easier to challenge. The real danger is refusing oversight, not using automation itself. Properly governed systems can strengthen public control.
+GPT: (매칭된 응답 없음)
+
+[L023_p11 | A1 | phase 1]
+TRIGGER
+CON: Automation is a tool, not a ruler. It can expose decisions to review, reduce arbitrary favoritism, and help more people take part. Democracy fails when power escapes accountability, but a machine can also make choices clearer and easier to challenge. The real danger is refusing oversight, not using automation itself. Properly governed systems can strengthen public control.
+CON: People should judge whether a system serves them, then change or remove it when it fails. Blaming automation for every abuse distracts from the human choices that shape it. Democracy needs-
+GPT: Ten seconds remain.
+
+[L023_p12 | A3-1 | phase 2]
+TRIGGER
+CON: Automation is a tool, not a ruler. It can expose decisions to review, reduce arbitrary favoritism, and help more people take part. Democracy fails when power escapes accountability, but a machine can also make choices clearer and easier to challenge. The real danger is refusing oversight, not using automation itself. Properly governed systems can strengthen public control.
+CON: People should judge whether a system serves them, then change or remove it when it fails. Blaming automation for every abuse distracts from the human choices that shape it. Democracy needs-
+GPT: Ten seconds remain.
+
+[L023_p18 | B2 | phase 2]
+TRIGGER
+CON: No automated decision should ever be trusted. Democracy remains safe when people retain authority to inspect, question, and overturn every machine-made recommendation.
+CON: This automated decision should be trusted. A transparent ballot count can be checked by citizens and corrected through public oversight, so automation need not place power beyond democratic control.
+GPT: Dennis, you just said no automated decision should ever be trusted, and that this automated decision should be. Reconcile that for us briefly.
+
+[L023_p27 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one of this debate. Now we move on to round two. And round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: Time.
+
+[L023_p28 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one of this debate. Now we move on to round two. And round two is where the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+MOD: Ten seconds, both of you.
+GPT: (매칭된 응답 없음)
+
+[L023_p30 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is that automation can govern participation before citizens see the decision. If hidden systems decide whose voice appears, formal voting remains, but public control has already been hollowed out. That is democracy crashing.
+GPT: Matt, your closing, thirty seconds.

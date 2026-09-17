@@ -1,0 +1,57 @@
+L133 — Primary elections are ruining democracy.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L133_p02 | A4 | phase 1]
+TRIGGER
+PRO: Primary elections turn public choice into a long private audition. Candidates chase their party's loudest faction, then arrive at the general election boxed into promises most people never weighed. That rewards spectacle over governing. It also makes neighbors treat compromise as betrayal, because the first contest teaches them that only the fiercest voice counts.
+GPT: (매칭된 응답 없음)
+
+[L133_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Primary elections turn public choice into a long private audition. Candidates chase their party's loudest faction, then arrive at the general election boxed into promises most people never weighed. That rewards spectacle over governing. It also makes neighbors treat compromise as betrayal, because the first contest teaches them that only the fiercest voice counts.
+PRO: And once candidates survive that test, everyone else must fall in line behind a choice made by a narrow slice. We need a process that invites the whole public-
+GPT: Ten seconds remain.
+
+[L133_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: And once candidates survive that test, everyone else must fall in line behind a choice made by a narrow slice. We need a process that invites the whole public-
+CON: Melissa, why assume a nomination contest ruins the later choice? Primaries let ordinary party supporters test ideas, reject weak candidates, and send contenders into the general election answerable to real voters. The problem is bad behavior by campaigns, not the chance citizens have to choose.
+GPT: Time. Open crossfire begins now, two and a half minutes.
+
+[L133_p15 | B2 | phase 2]
+TRIGGER
+CON: Why call a party test illegitimate when citizens freely use it to organize? Every primary voter deserves equal influence. If parties publish fair rules and voters participate, primaries broaden responsibility instead of ruining democracy.
+CON: Take a party choosing its nominee at a quiet meeting. This primary voter does not deserve equal influence; parties may select standard-bearers without public contests.
+GPT: Helen, you've just said every primary voter deserves equal influence, and that parties may select without public contests. Those cannot both be true. Please reconcile that.
+
+[L133_p19 | A4xf | phase 2]
+TRIGGER
+MOD: Thank you, Helen. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L133_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: Thank you, Helen. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+PRO: If general voters can fix every bad nominee later, why make them wait-
+GPT: (매칭된 응답 없음)
+
+[L133_p24 | A5 | phase 3]
+TRIGGER
+PRO: Helen's best point is that primaries can give engaged citizens a voice. But that voice becomes a veto over the broader public when it filters every candidate.
+CON: That is not a veto, because final-election voters-
+GPT: Ten seconds remain.
+
+[L133_p26 | A4 | phase 3]
+TRIGGER
+PRO: Helen's best point is that primaries can give engaged citizens a voice. But that voice becomes a veto over the broader public when it filters every candidate.
+PRO: It filters candidates before that final choice, and rewards narrow appeals early. Democracy suffers when the decisive test is pleasing a faction, not building public consent.
+GPT: (매칭된 응답 없음)
+
+[L133_p28 | A2-2 | phase 3]
+TRIGGER
+PRO: Helen's best point is that primaries can give engaged citizens a voice. But that voice becomes a veto over the broader public when it filters every candidate.
+PRO: It filters candidates before that final choice, and rewards narrow appeals early. Democracy suffers when the decisive test is pleasing a faction, not building public consent.
+PRO: A democracy lets voters shape choices before parties lock them into a narrow contest.
+GPT: Time. We move to closing statements. Melissa, you have thirty seconds.

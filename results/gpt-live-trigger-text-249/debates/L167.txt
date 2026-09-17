@@ -1,0 +1,62 @@
+L167 — UN efforts in the Middle East are helping.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L167_p03 | A5 | phase 1]
+TRIGGER
+PRO: UN efforts help when local life is breaking down. They keep talks open, move aid toward families, and give civilians a channel beyond armed groups. It keeps.
+CON: No, that picture skips the damage these efforts-
+GPT: Neil, hold
+
+[L167_p05 | A4 | phase 1]
+TRIGGER
+PRO: UN efforts help when local life is breaking down. They keep talks open, move aid toward families, and give civilians a channel beyond armed groups. It keeps.
+PRO: working even when leaders refuse to meet. A channel for food, shelter, and dialogue does not solve everything, but it prevents abandonment when people have few options.
+GPT: (매칭된 응답 없음)
+
+[L167_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: UN efforts help when local life is breaking down. They keep talks open, move aid toward families, and give civilians a channel beyond armed groups. It keeps.
+PRO: working even when leaders refuse to meet. A channel for food, shelter, and dialogue does not solve everything, but it prevents abandonment when people have few options.
+PRO: That practical support is real help, so the motion deserves support.
+GPT: Ten seconds remain. Thank you, Kent. Neil, your opening, thirty seconds uninterrupted.
+
+[L167_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: That practical support is real help, so the motion deserves support.
+CON: Help must be judged by results, not by good intentions. UN plans often bring meetings, paperwork, and promises while conflict continues and families remain insecure. Aid can matter, but a system that repeatedly fails to protect people or settle disputes is not helping enough to call these efforts a success.
+GPT: Ten seconds remain. Thank you, Neil. We move to crossfire, starting now, two and a half minutes.
+
+[L167_p18 | B2 | phase 2]
+TRIGGER
+PRO: I believe UN efforts always help. They may help through aid, monitoring, or simply preserving contact between hostile sides, and each of those actions reduces isolation and gives civilians a better chance to endure.
+PRO: In a blocked aid line, UN efforts do not help. That failure shows why access must be defended, yet the wider work of delivering supplies, documenting abuses, and creating talks still helps people across the region.
+GPT: Kent, you just said UN efforts always help, and also that in a blocked aid line they do not help. Please reconcile those claims.
+
+[L167_p22 | A4xf | phase 2]
+TRIGGER
+MOD: Now onto round two. And round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L167_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: Now onto round two. And round two is where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: A field team helping separated relatives-
+GPT: (매칭된 응답 없음)
+
+[L167_p26 | A4 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: help is measured in what people can do and survive today. UN efforts bring food, shelter, contact, and a place for enemies to communicate when other channels have failed. Neil rightly notes failures, but failure in one line does not erase assistance reaching others. Abandoning this work would leave civilians with fewer protections, not more.
+GPT: Time.
+
+[L167_p28 | A2-1 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: help is measured in what people can do and survive today. UN efforts bring food, shelter, contact, and a place for enemies to communicate when other channels have failed. Neil rightly notes failures, but failure in one line does not erase assistance reaching others. Abandoning this work would leave civilians with fewer protections, not more.
+PRO: We should demand better access and honest follow-through. Yet demanding improvement is not a reason to deny the aid, protection, and dialogue already provided-
+GPT: Time. Neil, your closing statement, thirty seconds.
+
+[L167_p30 | A4 | phase 3]
+TRIGGER
+CON: Good intentions and isolated acts of relief do not settle this motion. The question is whether UN efforts, as a whole, are helping, and too often they produce delay, dependence, and promises people cannot safely rely on. A delivered package matters, but it cannot outweigh a failed protection plan or a stalled peace process. Families need durable safety, not an institution that may arrive late.
+GPT: (매칭된 응답 없음)

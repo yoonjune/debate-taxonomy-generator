@@ -1,0 +1,60 @@
+L184 — Assisted suicide should be legalized.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L184_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Legalization gives a competent, suffering adult a carefully reviewed choice when treatment cannot restore a tolerable life. It requires consent, safeguards, and medical oversight. The law should reduce needless suffering without forcing anyone to choose death at their most vulnerable moment.
+GPT: Thank you, Teresa. Kara, your opening statement.
+
+[L184_p04 | A4 | phase 1]
+TRIGGER
+CON: A law that permits assisted suicide changes medicine from care into permission to end a life. People facing pain, dependence, or loneliness can feel like a burden even when nobody says so. Safeguards cannot measure quiet pressure inside a family or a frightened mind. If choice is shaped by despair, how can we call it fully free?
+GPT: (매칭된 응답 없음)
+
+[L184_p06 | A1 | phase 1]
+TRIGGER
+CON: A law that permits assisted suicide changes medicine from care into permission to end a life. People facing pain, dependence, or loneliness can feel like a burden even when nobody says so. Safeguards cannot measure quiet pressure inside a family or a frightened mind. If choice is shaped by despair, how can we call it fully free?
+CON: Pain deserves serious relief, and I agree that patients need honest conversations about dying. But the answer is better care and steady support, not a legal power that tells vulnerable people-
+GPT: Ten seconds remain.
+
+[L184_p07 | A3-1 | phase 2]
+TRIGGER
+CON: A law that permits assisted suicide changes medicine from care into permission to end a life. People facing pain, dependence, or loneliness can feel like a burden even when nobody says so. Safeguards cannot measure quiet pressure inside a family or a frightened mind. If choice is shaped by despair, how can we call it fully free?
+CON: Pain deserves serious relief, and I agree that patients need honest conversations about dying. But the answer is better care and steady support, not a legal power that tells vulnerable people-
+GPT: Ten seconds remain.
+
+[L184_p12 | B2 | phase 2]
+TRIGGER
+CON: No request for death should ever be granted. Law must protect people when illness, fear, or dependence makes a permanent decision feel like relief rather than a genuine choice.
+CON: This request for death should be granted. I would let a suffering adult refuse treatment and receive comfort, but I still oppose authorizing another person to cause death.
+GPT: (매칭된 응답 없음)
+
+[L184_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one another in turn. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L184_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one another in turn. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: Your safety point is the issue I am answering: prohibition creates its own harm by trapping competent people in agony. A regulated law screens for pressure rather than pretending-
+GPT: Time is up. We'll move to closing statements, Teresa first.
+
+[L184_p24 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether competent adults retain authority over unbearable, irreversible suffering when medicine cannot help them after careful review. Legalization does not require anyone to die; it gives a protected option. Respect, compassion, and honest safeguards support the motion.
+GPT: Thank you. Kara, your closing statement.
+
+[L184_p27 | A5 | phase 3]
+TRIGGER
+CON: Choice sounds humane, but an invitation to death can reach people when they are frightened and dependent. Our duty is to stand beside them, not offer death.
+PRO: Listen, the issue is not abandonment-
+GPT: (매칭된 응답 없음)
+
+[L184_p29 | A4 | phase 3]
+TRIGGER
+CON: Choice sounds humane, but an invitation to death can reach people when they are frightened and dependent. Our duty is to stand beside them, not offer death.
+CON: not offer death, because once society authorizes it, vulnerable people may hear a duty to disappear. Real dignity means care that does not depend on choosing death.
+GPT: (매칭된 응답 없음)

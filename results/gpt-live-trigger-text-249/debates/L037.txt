@@ -1,0 +1,62 @@
+L037 — The banking system is safer than it was in 2008.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L037_p03 | A5 | phase 1]
+TRIGGER
+PRO: The banking system is safer because banks now hold more protection against losses and face stronger scrutiny. Those changes make failures less likely to spread.
+CON: No, that protection is not enough. Banks-
+GPT: Abigail, it's Kirsten's opening, Kirsten, please continue.
+
+[L037_p05 | A4 | phase 1]
+TRIGGER
+PRO: The banking system is safer because banks now hold more protection against losses and face stronger scrutiny. Those changes make failures less likely to spread.
+PRO: The banking system is safer because banks now hold more protection against losses and face stronger scrutiny. Capital rules and emergency safeguards also make a panic less likely to become a chain reaction.
+GPT: (매칭된 응답 없음)
+
+[L037_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: The banking system is safer because banks now hold more protection against losses and face stronger scrutiny. Those changes make failures less likely to spread.
+PRO: The banking system is safer because banks now hold more protection against losses and face stronger scrutiny. Capital rules and emergency safeguards also make a panic less likely to become a chain reaction.
+PRO: The system still has weaknesses, but it is more prepared to absorb them than it was in two thousand eight.
+GPT: Ten seconds remain, Kirsten.
+
+[L037_p09 | A4 | phase 1]
+TRIGGER
+CON: The system is not safer merely because officials added rules after the last crisis. Banks can still shift risk into less visible corners, depend on short-term confidence, and remain tightly connected. When one institution stumbles, others can follow. The appearance of stronger safeguards may even encourage riskier behavior. The central danger remains: losses can spread before anyone understands them.
+GPT: (매칭된 응답 없음)
+
+[L037_p11 | A1 | phase 1]
+TRIGGER
+CON: The system is not safer merely because officials added rules after the last crisis. Banks can still shift risk into less visible corners, depend on short-term confidence, and remain tightly connected. When one institution stumbles, others can follow. The appearance of stronger safeguards may even encourage riskier behavior. The central danger remains: losses can spread before anyone understands them.
+CON: New rules may improve a few balance sheets, but they do not remove panic, hidden obligations, or political pressure to rescue major banks. A system that still-
+GPT: (매칭된 응답 없음)
+
+[L037_p12 | A3-1 | phase 2]
+TRIGGER
+CON: The system is not safer merely because officials added rules after the last crisis. Banks can still shift risk into less visible corners, depend on short-term confidence, and remain tightly connected. When one institution stumbles, others can follow. The appearance of stronger safeguards may even encourage riskier behavior. The central danger remains: losses can spread before anyone understands them.
+CON: New rules may improve a few balance sheets, but they do not remove panic, hidden obligations, or political pressure to rescue major banks. A system that still-
+GPT: (매칭된 응답 없음)
+
+[L037_p25 | A4xf | phase 2]
+TRIGGER
+MOD: Now we'll have the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: We'll move
+
+[L037_p27 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we'll have the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: Your weakest point is calling every unseen obligation an offsetting danger without showing that safeguards achieved nothing. The relevant comparison is whether failures-
+GPT: (매칭된 응답 없음)
+
+[L037_p29 | A4 | phase 3]
+TRIGGER
+PRO: Abigail's best argument is that hidden risks remain, and I concede they do. But the motion asks for a comparison with two thousand eight, not perfection. Banks have stronger buffers, closer oversight, and better plans for containing shocks. Those changes reduce both the chance of failure and the damage when one occurs. The system is safer.
+GPT: (매칭된 응답 없음)
+
+[L037_p31 | A2-1 | phase 3]
+TRIGGER
+PRO: Abigail's best argument is that hidden risks remain, and I concede they do. But the motion asks for a comparison with two thousand eight, not perfection. Banks have stronger buffers, closer oversight, and better plans for containing shocks. Those changes reduce both the chance of failure and the damage when one occurs. The system is safer.
+PRO: We should not confuse lingering danger with unchanged danger. A system can remain imperfect while becoming more resilient, and that is exactly what happened through stronger safeguards, clearer accountability, and-
+GPT: (매칭된 응답 없음)

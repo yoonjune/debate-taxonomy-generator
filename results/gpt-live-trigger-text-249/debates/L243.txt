@@ -1,0 +1,58 @@
+L243 — It's time to clip America's global wings.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L243_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: America can protect itself without trying to manage every distant dispute. Endless commitments drain attention, invite retaliation, and make promises leaders cannot keep. Clipping global wings means choosing defense, diplomacy, and strength at home over reflexive reach abroad.
+GPT: Jonas, your turn.
+
+[L243_p04 | A4 | phase 1]
+TRIGGER
+CON: Power used carefully is not vanity; it is a shield for partners, trade, and basic stability. If America steps back sharply, hostile forces do not pause, and smaller partners face pressure alone. The question is not whether mistakes happen, but whether retreat makes those dangers
+GPT: (매칭된 응답 없음)
+
+[L243_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Power used carefully is not vanity; it is a shield for partners, trade, and basic stability. If America steps back sharply, hostile forces do not pause, and smaller partners face pressure alone. The question is not whether mistakes happen, but whether retreat makes those dangers
+CON: worse for everyone who depends on steady engagement and a credible promise of support.
+GPT: Thank you. We move to crossfire. two and a half minutes total, interruptions allowed. Time starts now.
+
+[L243_p10 | B1 | phase 2]
+TRIGGER
+PRO: Trade agreements deserve scrutiny because unfair deals can hollow out local work and reward governments that ignore basic rules. Better bargaining would rebuild leverage and give workers a fairer share of prosperity.
+GPT: ten seconds remain.
+
+[L243_p14 | B2 | phase 2]
+TRIGGER
+PRO: Trade matters, but we are debating global wings. No foreign military commitment should ever outrank care at home. How can you defend putting distant obligations above people whose government already owes them protection?
+PRO: Leaving families behind would stain us. The island evacuation is a foreign military commitment. This foreign military commitment should outrank care at home. That is why broader restraint still serves this motion.
+GPT: One moment while I sort that.
+
+[L243_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: Derek, your closing, thirty seconds.
+
+[L243_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now onto round two. Round two is where the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+CON: I grant that leaders should define missions better and end failing ones. But your remedy-
+GPT: (매칭된 응답 없음)
+
+[L243_p24 | A2-2 | phase 3]
+TRIGGER
+PRO: Jonas is right that sudden chaos can harm partners, but permanent overreach creates its own chaos and weakens democratic control. America should defend itself and help selectively. It is time to clip global wings and restore clear limits.
+GPT: Jonas, your closing, thirty seconds.
+
+[L243_p26 | A4 | phase 3]
+TRIGGER
+CON: The strongest case against clipping is simple: restraint is wise, but retreat is not restraint. Partners need to know promises mean something, because uncertainty invites pressure and miscalculation. We can demand limits, share burdens, and correct bad missions. But cutting global wings would
+GPT: (매칭된 응답 없음)
+
+[L243_p28 | A1 | phase 3]
+TRIGGER
+CON: The strongest case against clipping is simple: restraint is wise, but retreat is not restraint. Partners need to know promises mean something, because uncertainty invites pressure and miscalculation. We can demand limits, share burdens, and correct bad missions. But cutting global wings would
+CON: turn careful influence into absence. America should remain engaged enough to deter aggression, protect vital ties, and keep choices open. Clipping its global wings would leave others exposed and make future crises-
+GPT: Thank you. Time is up.

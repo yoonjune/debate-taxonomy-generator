@@ -1,0 +1,50 @@
+L067 — Palestinians risk becoming their own worst enemy
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L067_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Palestinians face severe outside pressure, and blaming them is wrong. But can any people protect their future if armed factions silence critics, risk civilian lives without consent, and make compromise or debate treason? That danger makes the motion true.
+GPT: Thank you. Sarah, your opening, please.
+
+[L067_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Palestinians face severe outside pressure, and blaming them is wrong. But can any people protect their future if armed factions silence critics, risk civilian lives without consent, and make compromise or debate treason? That danger makes the motion true.
+CON: This motion turns a people under enormous pressure into the main threat to themselves. Palestinians can debate strategy, resist injustice, and protect their community without becoming enemies of their own cause. The real danger is denying them agency and judging survival as self-harm.
+GPT: Thank you. Crossfire begins now and runs for two and a half minutes.
+
+[L067_p18 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two and in round two the debaters have a conversation, address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L067_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now we move on to round two and in round two the debaters have a conversation, address one another directly. It runs two and a half minutes, starting the moment I stop. Go.
+PRO: I agree coercion is dangerous and must be opposed. But denying that it can arise within Palestinian politics leaves families without a warning; facing-
+GPT: (매칭된 응답 없음)
+
+[L067_p23 | A4 | phase 3]
+TRIGGER
+PRO: Sarah rightly says outside pressure causes immense harm. Nothing I have said removes that responsibility. But a people can be wronged from outside and still be endangered when leaders silence criticism, treat civilian safety as expendable, or block accountable choices. The motion names a risk, not a verdict on every Palestinian.
+PRO: If Palestinians cannot challenge harmful decisions, the costs are paid by their families and their future. That is why honest internal accountability is not betrayal; it is the safeguard against becoming their own-
+GPT: (매칭된 응답 없음)
+
+[L067_p24 | A2-1 | phase 3]
+TRIGGER
+PRO: Sarah rightly says outside pressure causes immense harm. Nothing I have said removes that responsibility. But a people can be wronged from outside and still be endangered when leaders silence criticism, treat civilian safety as expendable, or block accountable choices. The motion names a risk, not a verdict on every Palestinian.
+PRO: If Palestinians cannot challenge harmful decisions, the costs are paid by their families and their future. That is why honest internal accountability is not betrayal; it is the safeguard against becoming their own-
+GPT: Time is up. Sarah, your closing.
+
+[L067_p27 | A5 | phase 3]
+TRIGGER
+CON: Christina's best point is that silencing criticism harms families, and I agree. But that condemns coercive actors, not Palestinians, who remain more than their failures.
+PRO: Listen, Sarah. Your answer avoids the central-
+GPT: Sarah, you have the floor.
+
+[L067_p29 | A4 | phase 3]
+TRIGGER
+CON: Christina's best point is that silencing criticism harms families, and I agree. But that condemns coercive actors, not Palestinians, who remain more than their failures.
+CON: who remain more than their failures. People resisting silencing are not the enemy; they are proof that Palestinians can defend themselves without accepting this label.
+GPT: (매칭된 응답 없음)

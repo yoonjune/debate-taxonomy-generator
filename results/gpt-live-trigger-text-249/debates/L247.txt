@@ -1,0 +1,61 @@
+L247 — Social Media is Good for Democracy.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L247_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Democracy works when ordinary people can speak, organize, and challenge power. Social media lowers the gate around public discussion, letting neglected concerns reach others quickly. Its flaws demand better habits and rules, but broader participation makes democracy stronger.
+GPT: Thank you. Marcia.
+
+[L247_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Democracy works when ordinary people can speak, organize, and challenge power. Social media lowers the gate around public discussion, letting neglected concerns reach others quickly. Its flaws demand better habits and rules, but broader participation makes democracy stronger.
+CON: A democracy needs citizens to judge claims with care and to meet opposing views on fair terms. Social media instead rewards speed, outrage, and manipulation, while opaque feeds decide what gets noticed. More noise is not more self-government.
+GPT: Thank you. We move now to crossfire, two and a half minutes. It begins now.
+
+[L247_p08 | B1 | phase 2]
+TRIGGER
+CON: The harder question is who writes platform rules, how appeals work, and whether officials may inspect algorithms. I favor transparent hearings, independent review, and clear penalties for firms that ignore those rules.
+GPT: Ten seconds remain in crossfire.
+
+[L247_p14 | B2 | phase 2]
+TRIGGER
+CON: I believe no online political speech should ever be removed. Once platforms decide which views may remain, public debate depends on private gatekeepers, so social media is bad for democracy.
+CON: A forged emergency warning is online political speech. This online political speech should be removed, because leaving it up invites panic and shows social media is bad for democracy.
+GPT: Marcia, you've said no online political speech should ever be removed, and also that some online political speech should be removed. Those can't both be true. Please reconcile that.
+
+[L247_p18 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. So now we go on to round two. And round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L247_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. So now we go on to round two. And round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+PRO: I agree that feeds can reward provocation, and users-
+GPT: (매칭된 응답 없음)
+
+[L247_p23 | A5 | phase 3]
+TRIGGER
+PRO: This decision turns on whether citizens gain a real voice against power. Social media gives them that voice in public.
+CON: You call it participation, but platforms reward-
+GPT: Marcia, time is up. We move to closing statements, Wendy then Marcia, thirty seconds each.
+
+[L247_p25 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on whether citizens gain a real voice against power. Social media gives them that voice in public.
+PRO: and the answer is whether citizens can challenge power together. Social media gives them a public channel, so democracy gains practical participation.
+GPT: (매칭된 응답 없음)
+
+[L247_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether citizens gain a real voice against power. Social media gives them that voice in public.
+PRO: and the answer is whether citizens can challenge power together. Social media gives them a public channel, so democracy gains practical participation.
+PRO: Its risks need rules, but its democratic reach makes the motion true.
+GPT: Thank you. Marcia.
+
+[L247_p29 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion means asking whether a system that spreads voices also gives citizens grounds for judgment. It can help people speak, but it also lets deception, outrage, and hidden ranking steer attention before reflection begins. Democracy needs shared facts and accountable debate, not merely faster messages, and the question is who shapes what citizens see.
+GPT: (매칭된 응답 없음)

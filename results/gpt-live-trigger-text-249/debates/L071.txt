@@ -1,0 +1,55 @@
+L071 — Arab media needs no lessons in journalism from the West
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L071_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Journalism is not a gift that travels in one direction. Arab reporters know their languages, communities, risks, and stories better than distant instructors do. Exchange between equals is useful, but calling it Western lessons assumes authority that the motion rightly rejects.
+GPT: Thank you. Annie, your opening, please.
+
+[L071_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Journalism is not a gift that travels in one direction. Arab reporters know their languages, communities, risks, and stories better than distant instructors do. Exchange between equals is useful, but calling it Western lessons assumes authority that the motion rightly rejects.
+CON: No tradition owns journalism, and useful lessons need not be patronizing. Reporters everywhere can learn methods for checking power, protecting sources, and correcting errors. Refusing lessons because of their origin can deny Arab audiences tools they deserve in difficult moments.
+GPT: Ten seconds remain. Thank you. We move now to crossfire, two and a half minutes. Please, go ahead.
+
+[L071_p11 | B2 | phase 2]
+TRIGGER
+PRO: Every newsroom should always reject lessons from the West. Why should reporters facing pressure accept guidance framed as superior, rather than trust their own professional judgment in their communities?
+PRO: This newsroom should not reject lessons from the West. If a reporter can learn safer verification from a foreign colleague, shutting that door serves pride, not the public; independence still supports the motion.
+GPT: (매칭된 응답 없음)
+
+[L071_p17 | A4xf | phase 2]
+TRIGGER
+MOD: Now we go on to round two. Round two is where the debaters address each other directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L071_p19 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we go on to round two. Round two is where the debaters address each other directly. You have two and a half minutes, starting when I stop talking.
+CON: Your weakest word is 'enough.' Local practice is essential, but it does not make every newsroom able to learn-
+GPT: Time. We move to closings in the same order, thirty seconds each. Elias, your closing, please.
+
+[L071_p21 | A4 | phase 3]
+TRIGGER
+PRO: Annie says methods can travel without hierarchy. But the issue is not whether reporters may talk; it is whether Arab media needs lessons from the West. It does not. Local reporters can test claims, protect sources, and develop standards rooted in the audiences they serve. Calling Western instruction necessary replaces partnership with dependence, and it
+GPT: Thank you.
+
+[L071_p23 | A2-1 | phase 3]
+TRIGGER
+PRO: Annie says methods can travel without hierarchy. But the issue is not whether reporters may talk; it is whether Arab media needs lessons from the West. It does not. Local reporters can test claims, protect sources, and develop standards rooted in the audiences they serve. Calling Western instruction necessary replaces partnership with dependence, and it
+PRO: invites outsiders to define success. Real exchange works when no side arrives as the teacher. Arab media deserves independent judgment, because the public pays when foreign templates-
+GPT: Time. Annie,
+
+[L071_p26 | A5 | phase 3]
+TRIGGER
+CON: Your dependence argument confuses learning with obedience. Arab reporters keep judgment when they borrow useful practices, and audiences benefit when sources of insight remain open.
+PRO: But that ignores who sets the standard-
+GPT: Elias, please hold for Annie's close.
+
+[L071_p28 | A4 | phase 3]
+TRIGGER
+CON: Your dependence argument confuses learning with obedience. Arab reporters keep judgment when they borrow useful practices, and audiences benefit when sources of insight remain open.
+CON: sources of insight remain open. You say lessons impose authority, yet journalists can judge each idea. Refusing that freedom is not independence; it weakens your motion.
+GPT: (매칭된 응답 없음)

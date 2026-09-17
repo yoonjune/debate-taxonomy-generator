@@ -1,0 +1,55 @@
+L003 — Income inequality impairs the American dream of upward mobility
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L003_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Income inequality does more than create different paychecks; it changes who can turn effort into a secure life. When wealth buys better schools, safer homes, time to train, and room to recover from mistakes, talent matters less. Upward mobility may remain possible, but inequality makes the American dream harder to reach.
+GPT: (매칭된 응답 없음)
+
+[L003_p05 | A4 | phase 1]
+TRIGGER
+CON: I agree that unequal resources can make some paths steeper, but that does not prove the dream is impaired. People still rise through persistence, skills, entrepreneurship, and choices that open new opportunities. Inequality can reflect different goals and rewards, while mobility measures whether someone can move ahead.
+CON: The possibility of rising keeps the dream alive for anyone willing to pursue it.
+GPT: (매칭된 응답 없음)
+
+[L003_p06 | A3-1 | phase 2]
+TRIGGER
+CON: I agree that unequal resources can make some paths steeper, but that does not prove the dream is impaired. People still rise through persistence, skills, entrepreneurship, and choices that open new opportunities. Inequality can reflect different goals and rewards, while mobility measures whether someone can move ahead.
+CON: The possibility of rising keeps the dream alive for anyone willing to pursue it.
+GPT: Thank you. We now move to the crossfire, two and a half minutes from now.
+
+[L003_p18 | A4xf | phase 2]
+TRIGGER
+MOD: Okay. So now, we know where each of you stand and why. We'll be diving into discussion on our question, income inequality impairs the American dream of upward mobility. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L003_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: Okay. So now, we know where each of you stand and why. We'll be diving into discussion on our question, income inequality impairs the American dream of upward mobility. It runs two and a half minutes, starting the moment I stop. Go.
+CON: A person learns a trade, starts a small service, and hires help; unequal earnings there reflect expanded value, not blocked mobility. It proves income differences can reward progress-
+GPT: (매칭된 응답 없음)
+
+[L003_p22 | A4 | phase 3]
+TRIGGER
+PRO: Sarah's best point is that mobility still occurs, and I agree: people can rise. But a few success stories do not answer who gets the training, time, savings, and second chances that make rising possible. When unequal income controls those foundations, it narrows the ladder before effort begins. The motion asks whether inequality impairs the dream, not whether every path disappears.
+GPT: (매칭된 응답 없음)
+
+[L003_p24 | A2-1 | phase 3]
+TRIGGER
+PRO: Sarah's best point is that mobility still occurs, and I agree: people can rise. But a few success stories do not answer who gets the training, time, savings, and second chances that make rising possible. When unequal income controls those foundations, it narrows the ladder before effort begins. The motion asks whether inequality impairs the dream, not whether every path disappears.
+PRO: The dream is strongest when effort matters more than inherited room to maneuver. Judge the system by ordinary families' chances, not exceptional escapes; inequality-
+GPT: (매칭된 응답 없음)
+
+[L003_p27 | A4 | phase 3]
+TRIGGER
+CON: The issue turns on what the motion claims. If it says inequality can create obstacles, that is true; if it says inequality proves the dream is impaired, that is too broad. Mobility means moving ahead, and people do through learning, work, risk, and opportunity. Unequal rewards can accompany movement rather than destroy it.
+CON: Inequality may make some journeys uneven, but uneven is not impossible. The dream survives when people gain skills, take risks, and improve their position; opportunity can remain real-
+GPT: (매칭된 응답 없음)
+
+[L003_p28 | A1 | phase 3]
+TRIGGER
+CON: The issue turns on what the motion claims. If it says inequality can create obstacles, that is true; if it says inequality proves the dream is impaired, that is too broad. Mobility means moving ahead, and people do through learning, work, risk, and opportunity. Unequal rewards can accompany movement rather than destroy it.
+CON: Inequality may make some journeys uneven, but uneven is not impossible. The dream survives when people gain skills, take risks, and improve their position; opportunity can remain real-
+GPT: (매칭된 응답 없음)

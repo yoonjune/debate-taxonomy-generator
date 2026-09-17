@@ -1,0 +1,61 @@
+L154 — Retail Alliances – Not Washington – Will Save the U.S. Health Care System
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L154_p03 | A4 | phase 1]
+TRIGGER
+PRO: Retail alliances can unite clinics, pharmacies, and local care teams around the person's daily needs. They can make appointments simpler, share responsibility, and prevent problems before they become crises. Washington can set rules, but alliances can actually coordinate care where people live, so care becomes a relationship rather than a maze.
+PRO: That practical coordination, rather than distant command, is why retail alliances can save this system.
+GPT: (매칭된 응답 없음)
+
+[L154_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Retail alliances can unite clinics, pharmacies, and local care teams around the person's daily needs. They can make appointments simpler, share responsibility, and prevent problems before they become crises. Washington can set rules, but alliances can actually coordinate care where people live, so care becomes a relationship rather than a maze.
+PRO: That practical coordination, rather than distant command, is why retail alliances can save this system.
+GPT: Thank you. Alina, your thirty-second opening.
+
+[L154_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: That practical coordination, rather than distant command, is why retail alliances can save this system.
+CON: That promise assumes retailers can put patients before sales, which is exactly the question. A health system needs fair access, durable standards, and public accountability, not competing brands deciding care. Alliances may help at the edges, but Washington is needed to protect everyone. How do you prevent cherry-picking?
+GPT: Thank you. We now begin crossfire. Two and a half minutes, starting now.
+
+[L154_p15 | B1 | phase 2]
+TRIGGER
+PRO: The real test is whether workers at the checkout can get steady schedules, paid breaks, and training for new software. If shifts change overnight, families cannot plan childcare or meals.
+GPT: Time's up on crossfire. We move to closing statements. Rima, your thirty-second closing, please.
+
+[L154_p21 | A4xf | phase 2]
+TRIGGER
+MOD: Now we go on to round two, where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L154_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we go on to round two, where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: Imagine a rural family whose local retailer closes its clinic after costs-
+GPT: (매칭된 응답 없음)
+
+[L154_p25 | A4 | phase 3]
+TRIGGER
+PRO: Alina is right that people need protection when care is costly, but she mistakes a guardrail for the whole engine. Washington can require fairness; retail alliances save the system by making prevention, follow-up, and navigation happen in ordinary life. That is how broad promises become real care before problems deepen.
+GPT: (매칭된 응답 없음)
+
+[L154_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: Alina is right that people need protection when care is costly, but she mistakes a guardrail for the whole engine. Washington can require fairness; retail alliances save the system by making prevention, follow-up, and navigation happen in ordinary life. That is how broad promises become real care before problems deepen.
+PRO: Saving health care means delivering coordinated care daily, and alliances are built to do that.
+GPT: Time. Thank you. Alina, your closing please.
+
+[L154_p30 | A5 | phase 3]
+TRIGGER
+CON: The strongest point remains accountability. A retailer can leave when care becomes inconvenient, while public rules remain answerable to every patient who needs it.
+PRO: But your rules do not keep a clinic open-
+GPT: Time. That concludes our debate.
+
+[L154_p32 | A4 | phase 3]
+TRIGGER
+CON: The strongest point remains accountability. A retailer can leave when care becomes inconvenient, while public rules remain answerable to every patient who needs it.
+CON: Every patient needs it, especially when serving them is expensive. That is why public accountability, rather than voluntary retail priorities, must save the system.
+GPT: (매칭된 응답 없음)

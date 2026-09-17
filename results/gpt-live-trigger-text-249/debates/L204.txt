@@ -1,0 +1,61 @@
+L204 — The international community must accept Hamas as a political partner
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L204_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Acceptance is not approval; it is a way to test commitments, protect civilians, and create accountable channels. Refusing contact leaves decisions to force alone. Sarah, if outsiders will not speak with the people who exercise power, how can they press for real change?
+GPT: Thank you, Joanna. Sarah, your opening begins now.
+
+[L204_p04 | A4 | phase 1]
+TRIGGER
+CON: They can press for change without granting political partnership, through clear demands and limited contact. Partnership gives standing to an armed movement before it has shown durable respect for civilian life. Joanna treats recognition as leverage, but leverage disappears when the other party can claim legitimacy while keeping coercive tools, and
+GPT: (매칭된 응답 없음)
+
+[L204_p06 | A3-1 | phase 2]
+TRIGGER
+CON: They can press for change without granting political partnership, through clear demands and limited contact. Partnership gives standing to an armed movement before it has shown durable respect for civilian life. Joanna treats recognition as leverage, but leverage disappears when the other party can claim legitimacy while keeping coercive tools, and
+CON: that is why acceptance would reward power rather than create the responsibility you promise here.
+GPT: Ten seconds remain. Thank you. We now move to crossfire, two and a half minutes from now.
+
+[L204_p18 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one and another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: Time.
+
+[L204_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one and another directly. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: Public benchmarks are useful, and I support demanding protection for critics. Yet your penalties depend on a partner valuing its status, while an armed movement may use recognition for cover-
+GPT: (매칭된 응답 없음)
+
+[L204_p23 | A5 | phase 3]
+TRIGGER
+PRO: This decision turns on whether exclusion protects civilians more than disciplined engagement. Power is already exercised, so the choice is between influencing it through conditions and leaving it
+CON: But conditions are fantasy when armed power decides-
+GPT: Sarah, please hold. Joanna has the floor. Go on, Joanna.
+
+[L204_p25 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on whether exclusion protects civilians more than disciplined engagement. Power is already exercised, so the choice is between influencing it through conditions and leaving it
+PRO: outside any structured conversation. A conditional partnership makes continued access depend on conduct, giving outsiders a way to protect civilians and measure whether commitments survive pressure.
+GPT: (매칭된 응답 없음)
+
+[L204_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether exclusion protects civilians more than disciplined engagement. Power is already exercised, so the choice is between influencing it through conditions and leaving it
+PRO: outside any structured conversation. A conditional partnership makes continued access depend on conduct, giving outsiders a way to protect civilians and measure whether commitments survive pressure.
+PRO: Acceptance is not trust; it is the harder choice to demand change where power operates.
+GPT: Thank you. Sarah, your closing begins now.
+
+[L204_p29 | A4 | phase 3]
+TRIGGER
+CON: This motion turns on the difference between talking to a force and accepting it as a political partner. Contact can pursue urgent needs without granting standing. Partnership tells victims and rivals that coercion has earned a seat before accountable conduct exists. The other side calls conditions leverage, but conditions cannot repair the signal sent when recognition comes first, and
+GPT: (매칭된 응답 없음)
+
+[L204_p31 | A1 | phase 3]
+TRIGGER
+CON: This motion turns on the difference between talking to a force and accepting it as a political partner. Contact can pursue urgent needs without granting standing. Partnership tells victims and rivals that coercion has earned a seat before accountable conduct exists. The other side calls conditions leverage, but conditions cannot repair the signal sent when recognition comes first, and
+CON: that signal invites groups to seek status before reform. I accept that dialogue may reduce danger, but the motion demands acceptance, not dialogue. We should insist on accountability before partnership-
+GPT: Time. That concludes the debate.

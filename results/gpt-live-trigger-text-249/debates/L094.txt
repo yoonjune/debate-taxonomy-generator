@@ -1,0 +1,58 @@
+L094 — The Recent U.S. Policy Towards China Is Productive
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L094_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Recent policy has created leverage without closing every door. Clear limits on sensitive trade and steady communication make choices more predictable for both sides. That combination protects interests, invites practical cooperation, and is productive because it turns rivalry into managed, accountable pressure.
+GPT: 10 seconds remain. Thank you. Gregory, your opening.
+
+[L094_p04 | A4 | phase 1]
+TRIGGER
+CON: Productive policy should solve problems or reduce danger, not simply display resolve. The current approach piles up barriers, suspicion, and retaliation while offering no stable destination. Businesses and families face uncertainty, while officials treat contact as weakness. The central failure is that this approach turns manageable disputes into tests of pride, and
+GPT: 10 seconds remain.
+
+[L094_p06 | A1 | phase 1]
+TRIGGER
+CON: Productive policy should solve problems or reduce danger, not simply display resolve. The current approach piles up barriers, suspicion, and retaliation while offering no stable destination. Businesses and families face uncertainty, while officials treat contact as weakness. The central failure is that this approach turns manageable disputes into tests of pride, and
+CON: And I am saying that pride does not create results. When each move invites a harder answer, even useful cooperation becomes risky, and people on both sides pay the price. Calling-
+GPT: Time. We'll move into crossfire. You have 2 and a half minutes, starting now.
+
+[L094_p07 | A3-1 | phase 2]
+TRIGGER
+CON: Productive policy should solve problems or reduce danger, not simply display resolve. The current approach piles up barriers, suspicion, and retaliation while offering no stable destination. Businesses and families face uncertainty, while officials treat contact as weakness. The central failure is that this approach turns manageable disputes into tests of pride, and
+CON: And I am saying that pride does not create results. When each move invites a harder answer, even useful cooperation becomes risky, and people on both sides pay the price. Calling-
+GPT: Time. We'll move into crossfire. You have 2 and a half minutes, starting now.
+
+[L094_p14 | B1 | phase 2]
+TRIGGER
+PRO: That emergency channel also affects interpreters, visiting researchers, and mixed families who need ordinary paperwork to work. Their concern is whether a delayed document separates people from reunions and shared projects.
+GPT: Time. We'll move to closing statements. Genevieve, your closing.
+
+[L094_p18 | B2 | phase 2]
+TRIGGER
+PRO: A productive policy always leaves room for direct dialogue. Pressure can be firm, but it works best when the other side can hear demands, answer them, and bargain.
+PRO: Here, policy does not leave room for direct dialogue. A public warning must be unmistakable, and speaking privately beside it would blur the message that protects our interests.
+GPT: One moment while I check the timing.
+
+[L094_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now, onto round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: Time.
+
+[L094_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now, onto round two where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+MOD: Ten seconds to go in this round.
+GPT: Time. Gregory,
+
+[L094_p25 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: productive policy combines firm limits with channels for practical bargaining. That approach protects interests while preventing rivalry from becoming helpless drift. Recent policy creates leverage, clarity, and opportunities for managed cooperation, so it is productive.
+GPT: Time. Thank you. Gregory, your closing.
+
+[L094_p27 | A4 | phase 3]
+TRIGGER
+CON: Genevieve calls pressure leverage, but leverage is productive only when it produces a credible path to agreement. This approach has made contact more fragile and every dispute more dangerous. Clear rules cannot repair a strategy built on escalating distrust, because planning around hostility is not progress. The better course is engagement that
+GPT: (매칭된 응답 없음)

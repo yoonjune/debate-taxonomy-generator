@@ -1,0 +1,62 @@
+L153 — The courts should restrict access to the abortion pill.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L153_p03 | A5 | phase 1]
+TRIGGER
+PRO: Courts should require basic safeguards before this pill is provided. A serious medical decision deserves verified prescribing, clear information, and accountability when harm follows.
+CON: You keep calling this accountability, but I know someone-
+GPT: Sheldon, please wait, Mitchell has the floor.
+
+[L153_p05 | A4 | phase 1]
+TRIGGER
+PRO: Courts should require basic safeguards before this pill is provided. A serious medical decision deserves verified prescribing, clear information, and accountability when harm follows.
+PRO: Because the principle is simple: access without meaningful review can leave patients isolated when problems arise. Courts can insist that providers confirm eligibility and explain follow-up care.
+GPT: Ten seconds.
+
+[L153_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Courts should require basic safeguards before this pill is provided. A serious medical decision deserves verified prescribing, clear information, and accountability when harm follows.
+PRO: Because the principle is simple: access without meaningful review can leave patients isolated when problems arise. Courts can insist that providers confirm eligibility and explain follow-up care.
+PRO: That is a narrow protection, not a ban, and it puts patient safety first.
+GPT: Time, Sheldon, your opening.
+
+[L153_p09 | A4 | phase 1]
+TRIGGER
+CON: The other side treats courts as if they can make private care safer by adding rules. But judges are not the people having the consultation or carrying the consequences of delay. A patient and clinician should make this decision together. Restrictions can turn a lawful prescription into a drawn-out obstacle, especially when someone needs prompt care.
+GPT: Ten seconds.
+
+[L153_p11 | A1 | phase 1]
+TRIGGER
+CON: The other side treats courts as if they can make private care safer by adding rules. But judges are not the people having the consultation or carrying the consequences of delay. A patient and clinician should make this decision together. Restrictions can turn a lawful prescription into a drawn-out obstacle, especially when someone needs prompt care.
+CON: Clear information and responsible prescribing matter, but court restrictions are a blunt answer. They invite uncertainty for patients and clinicians, and they place a judge between someone and care. If safety is-
+GPT: Time. We move now to crossfire. You have two and a half minutes.
+
+[L153_p12 | A3-1 | phase 2]
+TRIGGER
+CON: The other side treats courts as if they can make private care safer by adding rules. But judges are not the people having the consultation or carrying the consequences of delay. A patient and clinician should make this decision together. Restrictions can turn a lawful prescription into a drawn-out obstacle, especially when someone needs prompt care.
+CON: Clear information and responsible prescribing matter, but court restrictions are a blunt answer. They invite uncertainty for patients and clinicians, and they place a judge between someone and care. If safety is-
+GPT: Time. We move now to crossfire. You have two and a half minutes.
+
+[L153_p26 | A4xf | phase 2]
+TRIGGER
+MOD: The time period of uninterrupted speaking is over. We're going to move into the portion of the evening now where the debaters debate one another. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L153_p28 | A3-2 | phase 3]
+TRIGGER
+MOD: The time period of uninterrupted speaking is over. We're going to move into the portion of the evening now where the debaters debate one another. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: On your prevention point, prevention does not require restricting access. Clear standards for providers and remedies for deception can protect patients without making courts control-
+GPT: Time! We move now to closing statements. Mitchell first.
+
+[L153_p30 | A4 | phase 3]
+TRIGGER
+PRO: This debate is not about denying every patient care. It is about whether courts may require a minimum level of responsibility before a powerful medication is provided. The other side relies on trust after the fact. I support safeguards before harm occurs, including real clinical review and reachable follow-up, because patients deserve more than a transaction.
+GPT: (매칭된 응답 없음)
+
+[L153_p32 | A2-1 | phase 3]
+TRIGGER
+PRO: This debate is not about denying every patient care. It is about whether courts may require a minimum level of responsibility before a powerful medication is provided. The other side relies on trust after the fact. I support safeguards before harm occurs, including real clinical review and reachable follow-up, because patients deserve more than a transaction.
+PRO: They are right that needless delay is harmful, and any rule should be narrow. But doing nothing until a patient is stranded is not compassion. Courts can protect access to responsible care-
+GPT: Ten seconds.

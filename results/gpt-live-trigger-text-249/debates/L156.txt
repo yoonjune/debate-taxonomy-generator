@@ -1,0 +1,53 @@
+L156 — Containment is not enough: ISIS must be defeated
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L156_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Containment leaves ISIS able to recruit, threaten, and wait for an opening. A policy that merely fences danger in accepts permanent risk. Defeat means dismantling its capacity, so communities can live without an armed shadow over every choice in daily life.
+GPT: Ten seconds.Thank you. Nick, your opening statement.
+
+[L156_p04 | A4 | phase 1]
+TRIGGER
+CON: Kate treats defeat as a clean finish, but it can spread fighting and create new grievances. Containment can block expansion, protect threatened communities, and leave room for local life to recover. You have not shown why an open-ended campaign is safer than patient pressure, especially when
+GPT: (매칭된 응답 없음)
+
+[L156_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Kate treats defeat as a clean finish, but it can spread fighting and create new grievances. Containment can block expansion, protect threatened communities, and leave room for local life to recover. You have not shown why an open-ended campaign is safer than patient pressure, especially when
+CON: its costs fall on people who cannot choose the battlefield.
+GPT: Ten seconds.
+
+[L156_p11 | B1 | phase 2]
+TRIGGER
+PRO: Who will train neighborhood councils, pay teachers, and settle disputes when armed patrols leave? Durable local authority needs trusted courts and jobs, not distant directives, because families need ordinary institutions they can use.
+GPT: (매칭된 응답 없음)
+
+[L156_p16 | B2 | phase 2]
+TRIGGER
+CON: I believe containment always protects civilians. Its barriers reduce exposure, restrain escalation, and give communities breathing room; demanding defeat invites a larger struggle that can place more civilians directly in danger.
+CON: Here containment does not protect civilians. When a trapped family faces an ISIS enforcer, holding a line elsewhere leaves that person exposed, yet expanding war to claim defeat can expose many more.
+GPT: (매칭된 응답 없음)
+
+[L156_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L156_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. Now on to round two. Round two is where the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: I grant that containment can buy time and avert some immediate bloodshed. But time is wasted-
+GPT: Time! We'll move to closing statements, Kate.
+
+[L156_p24 | A4 | phase 3]
+TRIGGER
+PRO: Containment can slow danger, and I have never denied that narrow benefit. But a strategy designed to manage ISIS leaves its coercive system alive, able to exploit every pause. Defeat is not reckless expansion; it is the necessary aim of breaking the power that terrorizes families and dictates their future.
+GPT: (매칭된 응답 없음)
+
+[L156_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: Containment can slow danger, and I have never denied that narrow benefit. But a strategy designed to manage ISIS leaves its coercive system alive, able to exploit every pause. Defeat is not reckless expansion; it is the necessary aim of breaking the power that terrorizes families and dictates their future.
+PRO: We must end that power, because merely containing it abandons those living beneath it.
+GPT: Ten seconds.

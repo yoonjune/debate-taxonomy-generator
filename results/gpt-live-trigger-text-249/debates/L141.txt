@@ -1,0 +1,55 @@
+L141 — Progressive populism will save the Democratic Party.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L141_p03 | A4 | phase 1]
+TRIGGER
+PRO: Progressive populism gives a party a clear purpose: stand with people who feel ignored and challenge concentrated power. It turns private frustrations into shared action, while offering practical gains such as fair pay, affordable care, and accountable government. That message can rebuild trust among voters who think politics only serves insiders.
+PRO: By making democracy deliver visibly, progressive populism can save the party from irrelevance.
+GPT: Ten seconds remain.
+
+[L141_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Progressive populism gives a party a clear purpose: stand with people who feel ignored and challenge concentrated power. It turns private frustrations into shared action, while offering practical gains such as fair pay, affordable care, and accountable government. That message can rebuild trust among voters who think politics only serves insiders.
+PRO: By making democracy deliver visibly, progressive populism can save the party from irrelevance.
+GPT: Thank you. Nina, your opening statement.
+
+[L141_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: By making democracy deliver visibly, progressive populism can save the party from irrelevance.
+CON: Anger at insiders is real, but progressive populism narrows a diverse party into one loud faction. Promising fights can alienate cautious supporters and make compromise look like betrayal. A party survives by building coalitions and governing credibly, not by treating disagreement as a battle between people and elites.
+GPT: Ten seconds remain.
+
+[L141_p13 | B1 | phase 2]
+TRIGGER
+PRO: Campaign funding deserves tougher rules, because candidates should not spend their days chasing wealthy donors. Public forums, small contributions, and transparent advertising would make elections healthier and give ordinary residents a real voice in campaigns.
+GPT: Ten seconds remain.
+
+[L141_p19 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. So, now, on to round two where the debaters can address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L141_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. So, now, on to round two where the debaters can address one another directly. You have two and a half minutes, starting when I stop talking.
+CON: Your renter example assumes one campaign victory saves an entire party-
+GPT: (매칭된 응답 없음)
+
+[L141_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: Nina's strongest concern is that populism can turn disagreement into hostility, and that risk demands disciplined language. But abandoning a forceful, people-centered politics leaves anger to harden without representation. Progressive populism saves the party by converting that anger into practical solidarity, accountable power, and renewed participation.
+GPT: And that's time. Thank you both.
+
+[L141_p26 | A5 | phase 3]
+TRIGGER
+CON: A party is saved by winning broad trust, not just by naming grievances. That trust breaks when leaders divide every dispute into ordinary people and enemies,
+PRO: But that is not my case. I name unfair-
+GPT: Nina Nina, please complete your closing.
+
+[L141_p28 | A4 | phase 3]
+TRIGGER
+CON: A party is saved by winning broad trust, not just by naming grievances. That trust breaks when leaders divide every dispute into ordinary people and enemies,
+CON: and enemies. It makes compromise suspect and turns potential partners away, so the party loses the trust required to win and govern for everyone.
+GPT: (매칭된 응답 없음)

@@ -1,0 +1,61 @@
+L124 — America is too obsessed with race
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L124_p03 | A5 | phase 1]
+TRIGGER
+PRO: When every disagreement is sorted first by racial identity, we stop hearing individual motives. That habit turns ordinary choices into group battles and narrows American life.
+CON: You don't know that these are ordinary choices-
+GPT: Monica, no interrupts in openings. Claudia.
+
+[L124_p05 | A4 | phase 1]
+TRIGGER
+PRO: When every disagreement is sorted first by racial identity, we stop hearing individual motives. That habit turns ordinary choices into group battles and narrows American life.
+PRO: and makes people perform loyalty to categories before they can speak as neighbors. We can fight actual bias without making race the loudest lens for everything.
+GPT: (매칭된 응답 없음)
+
+[L124_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: When every disagreement is sorted first by racial identity, we stop hearing individual motives. That habit turns ordinary choices into group battles and narrows American life.
+PRO: and makes people perform loyalty to categories before they can speak as neighbors. We can fight actual bias without making race the loudest lens for everything.
+PRO: America needs room for shared citizenship, not constant racial sorting of every conflict and conversation.
+GPT: Ten seconds. Thank you. Monica, you're up.
+
+[L124_p09 | A4 | phase 1]
+TRIGGER
+CON: Calling the country obsessed mistakes attention for fixation. Race matters because it can shape how people are treated, heard, and trusted. Ignoring that pattern does not create shared citizenship; it leaves injured people alone with it. The better goal is proportion: discuss race when it explains a barrier, then address the barrier fairly.
+GPT: (매칭된 응답 없음)
+
+[L124_p11 | A1 | phase 1]
+TRIGGER
+CON: Calling the country obsessed mistakes attention for fixation. Race matters because it can shape how people are treated, heard, and trusted. Ignoring that pattern does not create shared citizenship; it leaves injured people alone with it. The better goal is proportion: discuss race when it explains a barrier, then address the barrier fairly.
+CON: That means listening to a described pattern and changing the practice that causes harm. Refusing that conversation is not balance; it leaves unequal treatment in place, and when people are denied a fair-
+GPT: Ten seconds.
+
+[L124_p12 | A3-1 | phase 2]
+TRIGGER
+CON: Calling the country obsessed mistakes attention for fixation. Race matters because it can shape how people are treated, heard, and trusted. Ignoring that pattern does not create shared citizenship; it leaves injured people alone with it. The better goal is proportion: discuss race when it explains a barrier, then address the barrier fairly.
+CON: That means listening to a described pattern and changing the practice that causes harm. Refusing that conversation is not balance; it leaves unequal treatment in place, and when people are denied a fair-
+GPT: Ten seconds.
+
+[L124_p18 | B1 | phase 2]
+TRIGGER
+PRO: Avoidance can coexist with obsession; people dodge painful subjects privately while institutions repeat them publicly. At a family dinner, children learn to scan each remark for racial meaning and fear speaking.
+GPT: Monica, hold, closings are uninterrupted. Claudia, please finish.
+
+[L124_p26 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now on to round two. It's our middle round. And it's where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L124_p28 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now on to round two. It's our middle round. And it's where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: Your quota example attacks insulting assumptions, not attention to race itself. Naming the point: fair policies can recognize unequal barriers-
+GPT: (매칭된 응답 없음)
+
+[L124_p30 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: race has become the automatic explanation for too many ordinary judgments. Real discrimination deserves direct action, but constant racial sorting weakens trust and individual dignity. America should see people fully, which means ending this obsession.
+GPT: (매칭된 응답 없음)

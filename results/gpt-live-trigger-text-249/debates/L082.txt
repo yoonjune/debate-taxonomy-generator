@@ -1,0 +1,60 @@
+L082 — It is time to end the COVID emergency.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L082_p02 | A4 | phase 1]
+TRIGGER
+PRO: The emergency was created for an extraordinary moment, when broad temporary powers and constant crisis rules were needed. That moment cannot become permanent just because uncertainty remains. People need ordinary institutions, clear limits, and the confidence to make daily choices without living under an official state of alarm.
+GPT: (매칭된 응답 없음)
+
+[L082_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: The emergency was created for an extraordinary moment, when broad temporary powers and constant crisis rules were needed. That moment cannot become permanent just because uncertainty remains. People need ordinary institutions, clear limits, and the confidence to make daily choices without living under an official state of alarm.
+PRO: End the emergency now, while keeping practical health tools available through normal democratic rules.
+GPT: Ten seconds remain.
+
+[L082_p07 | A5 | phase 1]
+TRIGGER
+CON: Ending an emergency is not just changing a label. It signals that shared vigilance can relax while vulnerable people still face serious disruption.
+PRO: But you are treating caution as if it requires-
+GPT: Ross has the floor.
+
+[L082_p09 | A4 | phase 1]
+TRIGGER
+CON: Ending an emergency is not just changing a label. It signals that shared vigilance can relax while vulnerable people still face serious disruption.
+CON: It signals that shared vigilance can relax while vulnerable people still face serious disruption. The question is whether normal rules can respond quickly enough when conditions shift and people need protection.
+GPT: (매칭된 응답 없음)
+
+[L082_p11 | A3-1 | phase 2]
+TRIGGER
+CON: It signals that shared vigilance can relax while vulnerable people still face serious disruption. The question is whether normal rules can respond quickly enough when conditions shift and people need protection.
+CON: Until that protection is reliably built into ordinary systems, ending the emergency is a risky declaration.
+GPT: Ten seconds remain.
+
+[L082_p14 | B1 | phase 2]
+TRIGGER
+CON: The larger issue is whether ordinary health services have enough staff, supplies, and stable funding to meet needs. If those systems are hollowed out, families will still wait, and the real fight is building dependable services for everyone.
+GPT: (매칭된 응답 없음)
+
+[L082_p21 | B2 | phase 2]
+TRIGGER
+PRO: No emergency should ever outlast the danger. Ending this one does not erase practical protections; it places them under transparent ordinary rules, where people can question them and leaders must justify them, which is healthier than permanent exceptional authority.
+PRO: This emergency should outlast the danger. Ending its formal label now still favors the motion because the danger that justified sweeping emergency authority has passed, and practical support belongs in regular services rather than a permanent crisis order.
+GPT: (매칭된 응답 없음)
+
+[L082_p24 | A4xf | phase 2]
+TRIGGER
+MOD: We are now into round two. In this part of the debate, the debaters can address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L082_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: We are now into round two. In this part of the debate, the debaters can address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+MOD: Ten seconds left in this round.
+GPT: Time is up. We move to closing statements from Danielle then Ross, thirty seconds each. Danielle, please begin.
+
+[L082_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether temporary emergency authority has become a substitute for durable public care. We can keep practical protections, clear guidance, and rapid planning without preserving an indefinite crisis status. End the emergency, and make ordinary institutions answer for protecting people.
+GPT: Ten seconds remain.

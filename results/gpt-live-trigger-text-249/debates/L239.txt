@@ -1,0 +1,57 @@
+L239 — Break up the big banks.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L239_p03 | A5 | phase 1]
+TRIGGER
+PRO: A few giant banks can gamble with households' savings and still expect rescue. Breaking them up matters because when their losses spread widely.
+CON: But splitting them can scatter vital services-
+GPT: Hold on, Christina. It's Helen's floor. Please continue, Helen.
+
+[L239_p05 | A4 | phase 1]
+TRIGGER
+PRO: A few giant banks can gamble with households' savings and still expect rescue. Breaking them up matters because when their losses spread widely.
+PRO: one failure can freeze local paychecks, the public carries the risk while executives keep the upside. Will you explain why that deserves protection?
+GPT: (매칭된 응답 없음)
+
+[L239_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: A few giant banks can gamble with households' savings and still expect rescue. Breaking them up matters because when their losses spread widely.
+PRO: one failure can freeze local paychecks, the public carries the risk while executives keep the upside. Will you explain why that deserves protection?
+PRO: Smaller banks can fail without dragging every local depositor and shop down with them.
+GPT: Ten seconds remain. Thank you. Christina, your thirty-second opening, please.
+
+[L239_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: Smaller banks can fail without dragging every local depositor and shop down with them.
+CON: The question assumes a breakup protects people, but it may remove the broad networks that keep money moving in a crisis. Strong capital rules and failure plans target reckless behavior without dismantling useful institutions. Breakups could create confusion, higher costs, and less reliable credit, so this motion is false.
+GPT: Ten seconds remain. We move to crossfire. Two and a half minutes, time starts now.
+
+[L239_p22 | A4xf | phase 2]
+TRIGGER
+MOD: Now we go on to round two, where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L239_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we go on to round two, where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: I reject that closing a giant bank without rescue is impossible; owners and creditors can take losses under prepared rules. Why force every customer through a breakup when orderly resolution-
+GPT: (매칭된 응답 없음)
+
+[L239_p27 | A4 | phase 3]
+TRIGGER
+PRO: This choice turns on whether we let a few institutions hold the whole economy hostage. Rules matter, but rules are tested when panic begins and officials face a collapse they cannot safely permit. A breakup changes that bargain before trouble starts. It spreads power, makes failure possible, and gives communities more than one place to turn.
+PRO: The other side offers better rules, yet those rules leave the dangerous structure intact. We should not wait for another emergency to learn that promises of orderly failure bend. Break up the biggest banks, so-
+GPT: (매칭된 응답 없음)
+
+[L239_p28 | A2-1 | phase 3]
+TRIGGER
+PRO: This choice turns on whether we let a few institutions hold the whole economy hostage. Rules matter, but rules are tested when panic begins and officials face a collapse they cannot safely permit. A breakup changes that bargain before trouble starts. It spreads power, makes failure possible, and gives communities more than one place to turn.
+PRO: The other side offers better rules, yet those rules leave the dangerous structure intact. We should not wait for another emergency to learn that promises of orderly failure bend. Break up the biggest banks, so-
+GPT: (매칭된 응답 없음)
+
+[L239_p30 | A4 | phase 3]
+TRIGGER
+CON: The strongest case against this motion is practical: safety comes from making losses fall on investors, not from drawing corporate lines. A forced breakup could disrupt payments, raise borrowing costs, and scatter risks that are easier to see inside a supervised institution. We can punish failure, protect depositors, and preserve services without gambling on a redesign.
+GPT: (매칭된 응답 없음)

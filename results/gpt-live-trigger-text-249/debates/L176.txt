@@ -1,0 +1,49 @@
+L176 — Preserve net neutrality: all data is created equal.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L176_p02 | A4 | phase 1]
+TRIGGER
+PRO: Net neutrality means the network carries messages without selling a faster lane to whoever can pay. That protects a new voice from being buried by an established one. It also keeps the network from becoming a gatekeeper that chooses whose ideas arrive smoothly. Equal treatment is not sameness of content; it is equal access to the road.
+GPT: Ten seconds left.
+
+[L176_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Net neutrality means the network carries messages without selling a faster lane to whoever can pay. That protects a new voice from being buried by an established one. It also keeps the network from becoming a gatekeeper that chooses whose ideas arrive smoothly. Equal treatment is not sameness of content; it is equal access to the road.
+PRO: When access depends on payment, the powerful buy visibility while everyone else waits. Preserving neutrality keeps the network open for ordinary users, creators, and rivals.
+GPT: Thank you. Danielle, your opening statement.
+
+[L176_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: When access depends on payment, the powerful buy visibility while everyone else waits. Preserving neutrality keeps the network open for ordinary users, creators, and rivals.
+CON: Melissa's access point matters, but equal packets do not always serve equal people. A network sometimes needs to prioritize urgent traffic or offer better service that users choose. Banning every distinction treats useful management like censorship and freezes improvements that could help people more.
+GPT: Thank you. We'll have a two and a half minute crossfire now. Both may question and interrupt beginning now.
+
+[L176_p12 | B2 | phase 2]
+TRIGGER
+CON: I believe every data stream must always receive the same treatment. If carrying data is a service, why deny customers different levels of speed they willingly purchase?
+CON: An emergency data stream does not receive the same treatment. Sending a danger warning first can protect people, and refusing that priority merely worships a slogan instead of serving users.
+GPT: Melissa, I need to flag a tension. You said every data stream must always receive the same treatment, then that some prioritization should be prevented because it's not free choice. Please reconcile that.
+
+[L176_p20 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now on to round two. It's our middle round. And it's where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L176_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now on to round two. It's our middle round. And it's where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+MOD: You have ten seconds left.
+GPT: Time's up for crossfire.
+
+[L176_p23 | A4 | phase 3]
+TRIGGER
+PRO: Danielle's emergency example was the strongest challenge, but it does not justify selling ordinary access to the highest bidder. We can handle genuine technical needs without giving providers power to favor their own services. The core issue is who controls a person's path to an audience. Neutrality keeps that control from becoming a price.
+GPT: Ten seconds left.
+
+[L176_p25 | A2-1 | phase 3]
+TRIGGER
+PRO: Danielle's emergency example was the strongest challenge, but it does not justify selling ordinary access to the highest bidder. We can handle genuine technical needs without giving providers power to favor their own services. The core issue is who controls a person's path to an audience. Neutrality keeps that control from becoming a price.
+PRO: An open baseline lets new ideas compete before money decides who is heard. It protects users from quiet pressure and keeps providers accountable to the people relying on them-
+GPT: Thank you, Danielle, your closing statement.

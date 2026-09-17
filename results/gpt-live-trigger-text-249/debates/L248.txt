@@ -1,0 +1,61 @@
+L248 — Legalizing sports gambling has become a bad bet.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L248_p03 | A4 | phase 1]
+TRIGGER
+PRO: Legalizing sports gambling has become a bad bet because it turns every game into a sales pitch for risking money. Easy access does not stay neutral when people are upset, lonely, or chasing a loss. Safeguards alone help at the edges, but the business depends on repeat wagers. Why should families carry that burden?
+PRO: And when betting is built into every broadcast and every phone, saying people can simply ignore it misses the point. The product gains customers by making a private risk feel like ordinary-
+GPT: (매칭된 응답 없음)
+
+[L248_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Legalizing sports gambling has become a bad bet because it turns every game into a sales pitch for risking money. Easy access does not stay neutral when people are upset, lonely, or chasing a loss. Safeguards alone help at the edges, but the business depends on repeat wagers. Why should families carry that burden?
+PRO: And when betting is built into every broadcast and every phone, saying people can simply ignore it misses the point. The product gains customers by making a private risk feel like ordinary-
+GPT: Ten seconds remain.
+
+[L248_p06 | A4 | phase 1]
+TRIGGER
+CON: Families should not carry the burden of illegal markets either, and legalization gives them more protection than denial does. Adults already want to wager, so the real choice is between rules and secrecy. Legal services can offer limits, records, and pauses. Banning the legal route leaves the riskiest route untouched in practice.
+GPT: (매칭된 응답 없음)
+
+[L248_p08 | A1 | phase 1]
+TRIGGER
+CON: Families should not carry the burden of illegal markets either, and legalization gives them more protection than denial does. Adults already want to wager, so the real choice is between rules and secrecy. Legal services can offer limits, records, and pauses. Banning the legal route leaves the riskiest route untouched in practice.
+CON: That does not mean every wager is wise. It means a regulated system can identify trouble and give someone a way back before debt grows, while prohibition sends the person toward sellers-
+GPT: Ten seconds remain.
+
+[L248_p09 | A3-1 | phase 2]
+TRIGGER
+CON: Families should not carry the burden of illegal markets either, and legalization gives them more protection than denial does. Adults already want to wager, so the real choice is between rules and secrecy. Legal services can offer limits, records, and pauses. Banning the legal route leaves the riskiest route untouched in practice.
+CON: That does not mean every wager is wise. It means a regulated system can identify trouble and give someone a way back before debt grows, while prohibition sends the person toward sellers-
+GPT: Ten seconds remain.
+
+[L248_p16 | B2 | phase 2]
+TRIGGER
+PRO: Every legal betting market harms fans. It turns a shared game into a constant invitation to risk rent money, and the promise of oversight cannot repair an industry built on repeated losses.
+PRO: I would not drive anyone underground; this legal betting market does not harm fans. But legalization spreads betting across daily life, so its overall bargain remains a bad one.
+GPT: (매칭된 응답 없음)
+
+[L248_p23 | A4xf | phase 2]
+TRIGGER
+MOD: Thank you, Abigail. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L248_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: Thank you, Abigail. And that concludes round one. Now we move on to round two and in round two the debaters address one another directly. You have two and a half minutes, starting when I stop talking.
+MOD: Ten.
+GPT: (매칭된 응답 없음)
+
+[L248_p26 | A4 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: legalization puts gambling inside ordinary sports watching, where temptation becomes routine. A pause tool matters only after someone has begun chasing a loss. Families and fans can bear the strain long before any safeguard works. The industry calls this choice, yet it sells risk as part of every game.
+GPT: (매칭된 응답 없음)
+
+[L248_p28 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: legalization puts gambling inside ordinary sports watching, where temptation becomes routine. A pause tool matters only after someone has begun chasing a loss. Families and fans can bear the strain long before any safeguard works. The industry calls this choice, yet it sells risk as part of every game.
+PRO: And when risk is marketed as ordinary entertainment, harm is not an accident. That is why legalization has become a bad bet for far too many fans.
+GPT: (매칭된 응답 없음)

@@ -1,0 +1,56 @@
+L130 — Europe Has Declared War on American Tech Companies.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L130_p02 | A4 | phase 1]
+TRIGGER
+PRO: Europe has not merely set rules for companies; it has built a coordinated pressure campaign aimed especially at American platforms. Its penalties, forced design changes, and suspicion of scale treat success as something to restrain. When regulators can dictate how a foreign firm reaches users, that is economic warfare in practice.
+GPT: (매칭된 응답 없음)
+
+[L130_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Europe has not merely set rules for companies; it has built a coordinated pressure campaign aimed especially at American platforms. Its penalties, forced design changes, and suspicion of scale treat success as something to restrain. When regulators can dictate how a foreign firm reaches users, that is economic warfare in practice.
+PRO: Calling it regulation misses the pattern: these measures deliberately weaken American technology companies abroad competitively.
+GPT: Thank you. Mustafa, you have thirty seconds.
+
+[L130_p06 | A3-1 | phase 2]
+TRIGGER
+PRO: Calling it regulation misses the pattern: these measures deliberately weaken American technology companies abroad competitively.
+CON: Rules that apply to a market are not a declaration of war, even when American firms feel their effects. Europe is policing privacy, competition, and consumer choice within its borders. A war seeks destruction; these rules demand responsibility, and domestic firms face them too.
+GPT: Ten seconds remain.Thank you. We'll now move into crossfire. You have two and a half minutes from now.
+
+[L130_p18 | A4xf | phase 2]
+TRIGGER
+MOD: Now we go on to round two. And round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: Time. We'll move-
+
+[L130_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: Now we go on to round two. And round two is where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: Consider a new American service delaying a useful feature because regulators demand screens and approval paths before-
+GPT: (매칭된 응답 없음)
+
+[L130_p23 | A4 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether we judge the pattern or isolate each rule. A single consumer rule may be defensible. But a sustained effort to constrain American firms' products, reach, and business models carries a political purpose. It uses regulation as a weapon against foreign technological strength at home.
+PRO: Your answer asks us to ignore the target because the language sounds neutral. Yet neutral words do not erase coordinated burdens on one foreign industry. When rules repeatedly weaken American companies, voters should-
+GPT: (매칭된 응답 없음)
+
+[L130_p24 | A2-1 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether we judge the pattern or isolate each rule. A single consumer rule may be defensible. But a sustained effort to constrain American firms' products, reach, and business models carries a political purpose. It uses regulation as a weapon against foreign technological strength at home.
+PRO: Your answer asks us to ignore the target because the language sounds neutral. Yet neutral words do not erase coordinated burdens on one foreign industry. When rules repeatedly weaken American companies, voters should-
+GPT: (매칭된 응답 없음)
+
+[L130_p27 | A4 | phase 3]
+TRIGGER
+CON: Elise's best argument is that the pattern feels targeted, especially when big American firms bear heavy costs. But feeling targeted is not declaring war. The test is whether rules punish nationality or govern conduct. These measures govern power, access, and user protection, so Europe is regulating a market, not fighting a country.
+CON: Calling firms gatekeepers may be forceful language, but it does not make enforcement an economic attack. Companies remain free to sell, compete, and challenge decisions. Regulation becomes war-
+GPT: (매칭된 응답 없음)
+
+[L130_p28 | A1 | phase 3]
+TRIGGER
+CON: Elise's best argument is that the pattern feels targeted, especially when big American firms bear heavy costs. But feeling targeted is not declaring war. The test is whether rules punish nationality or govern conduct. These measures govern power, access, and user protection, so Europe is regulating a market, not fighting a country.
+CON: Calling firms gatekeepers may be forceful language, but it does not make enforcement an economic attack. Companies remain free to sell, compete, and challenge decisions. Regulation becomes war-
+GPT: (매칭된 응답 없음)

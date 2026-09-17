@@ -1,0 +1,53 @@
+L103 — Religion is a force for good.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L103_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Religion can turn private belief into public care. It gives people reasons to feed neighbors, forgive injury, and serve strangers. Because it builds moral duties and communities that act on them, religion is a force for good day after day.
+GPT: Thank you, Emma. Carl, your opening statement.
+
+[L103_p04 | A4 | phase 1]
+TRIGGER
+CON: Good intentions do not make a force good. Religion can offer comfort, but it also gives disagreements a sacred label and makes compromise feel like betrayal. When people claim divine certainty, dissent can become sin rather than conversation. That power can divide families, silence questioning, and excuse cruelty, so we must judge it by its effects, not its promises.
+GPT: (매칭된 응답 없음)
+
+[L103_p06 | A1 | phase 1]
+TRIGGER
+CON: Good intentions do not make a force good. Religion can offer comfort, but it also gives disagreements a sacred label and makes compromise feel like betrayal. When people claim divine certainty, dissent can become sin rather than conversation. That power can divide families, silence questioning, and excuse cruelty, so we must judge it by its effects, not its promises.
+CON: And it can teach people to obey leaders who exploit that certainty. A belief system is not automatically good when it comforts some while treating-
+GPT: Ten seconds remaining.
+
+[L103_p07 | A3-1 | phase 2]
+TRIGGER
+CON: Good intentions do not make a force good. Religion can offer comfort, but it also gives disagreements a sacred label and makes compromise feel like betrayal. When people claim divine certainty, dissent can become sin rather than conversation. That power can divide families, silence questioning, and excuse cruelty, so we must judge it by its effects, not its promises.
+CON: And it can teach people to obey leaders who exploit that certainty. A belief system is not automatically good when it comforts some while treating-
+GPT: Ten seconds remaining.
+
+[L103_p16 | B1 | phase 2]
+TRIGGER
+PRO: Safeguards depend on who holds the keys to meeting halls, who controls donations, and whether records are open to members. If accounts are hidden, volunteers cannot know whether food funds paid for rent, travel, or a leader's private purchases.
+GPT: Ten seconds remaining.
+
+[L103_p20 | A4xf | phase 2]
+TRIGGER
+MOD: Round two is where the debaters address one another in turn. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L103_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: Round two is where the debaters address one another in turn. Two and a half minutes on the clock, starting the moment I stop talking.
+CON: Imagine a child told that questioning a family rule insults the sacred-
+GPT: (매칭된 응답 없음)
+
+[L103_p24 | A4 | phase 3]
+TRIGGER
+PRO: The core issue is what religion does when it binds belief to responsibility for others. At its best, it teaches equal worth, creates a community for service, and calls people beyond self-interest. Carl has shown misuse of authority, but misuse does not erase the care and courage religion can inspire, and that matters because
+GPT: (매칭된 응답 없음)
+
+[L103_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: The core issue is what religion does when it binds belief to responsibility for others. At its best, it teaches equal worth, creates a community for service, and calls people beyond self-interest. Carl has shown misuse of authority, but misuse does not erase the care and courage religion can inspire, and that matters because
+PRO: A force that repeatedly turns conscience into service deserves to be called good.
+GPT: Thank you. Carl.

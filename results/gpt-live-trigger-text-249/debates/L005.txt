@@ -1,0 +1,54 @@
+L005 — Coronavirus Will Reshape the World Order in China's Favor
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L005_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: The pandemic has exposed how dependent many countries are on Chinese manufacturing, supplies, and early information. China can turn that dependence into influence by offering equipment, investment, and a story of competent control. That shift need not make China dominant to reshape the order in its favor.
+GPT: Thank you. Aaron, your turn.
+
+[L005_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: The pandemic has exposed how dependent many countries are on Chinese manufacturing, supplies, and early information. China can turn that dependence into influence by offering equipment, investment, and a story of competent control. That shift need not make China dominant to reshape the order in its favor.
+CON: A crisis can accelerate change, but acceleration does not prove a lasting Chinese advantage. Other governments are learning to diversify supplies, question official narratives, and cooperate without surrendering authority. The world order may shift, yet not necessarily toward China.
+GPT: Thanks. Crossfire starts now.
+
+[L005_p10 | B1 | phase 2]
+TRIGGER
+CON: If a hospital receives equipment, the harder question is who inspected it, who trained its staff, and who paid the long-term maintenance bill. Those details decide whether emergency help becomes dependable care for patients.
+GPT: (매칭된 응답 없음)
+
+[L005_p18 | A4xf | phase 2]
+TRIGGER
+MOD: Round two is where the debaters address one another in turn. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: Ten seconds remain.
+
+[L005_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: Round two is where the debaters address one another in turn. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: You reject the premise, but preparation does not erase China's head start. During a crisis, the partner already-
+GPT: Time’s up. We
+
+[L005_p22 | A4 | phase 3]
+TRIGGER
+PRO: Coronavirus did more than create a health emergency; it revealed who could supply essential goods, move quickly, and present a model to anxious governments. China now has greater visibility and bargaining power. Countries may diversify later, but the first responder often shapes expectations, standards, and future partnerships. Those effects are already altering how governments judge reliability and influence.
+GPT: (매칭된 응답 없음)
+
+[L005_p24 | A2-1 | phase 3]
+TRIGGER
+PRO: Coronavirus did more than create a health emergency; it revealed who could supply essential goods, move quickly, and present a model to anxious governments. China now has greater visibility and bargaining power. Countries may diversify later, but the first responder often shapes expectations, standards, and future partnerships. Those effects are already altering how governments judge reliability and influence.
+PRO: Aaron treats diversification as an instant reset, but supply chains, technology, and public trust do not change overnight. China can use its existing position to deepen relationships while others rebuild-
+GPT: Thank you. Aaron,
+
+[L005_p27 | A5 | phase 3]
+TRIGGER
+CON: The strongest point is that China may gain temporary visibility. But visibility is not control: countries can welcome help while preserving independent partnerships and decisions.
+PRO: Temporary visibility can still become lasting-
+GPT: Time. That concludes the round.
+
+[L005_p29 | A4 | phase 3]
+TRIGGER
+CON: The strongest point is that China may gain temporary visibility. But visibility is not control: countries can welcome help while preserving independent partnerships and decisions.
+CON: The point is that repeated choices remain open to reversal. Governments can accept useful Chinese help, then choose other partners and keep their strategic independence intact.
+GPT: (매칭된 응답 없음)

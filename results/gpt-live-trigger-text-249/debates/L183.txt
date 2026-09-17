@@ -1,0 +1,62 @@
+L183 — Israel can live with a nuclear Iran.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L183_p03 | A5 | phase 1]
+TRIGGER
+PRO: Israel has faced severe threats before, and survival has depended on caution rather than panic. A nuclear rival would be dangerous, but danger does not make coexistence impossible.
+CON: No, you are making danger sound manageable-
+GPT: Joachim, this is an uninterrupted opening. Lionel has the floor.
+
+[L183_p05 | A4 | phase 1]
+TRIGGER
+PRO: Israel has faced severe threats before, and survival has depended on caution rather than panic. A nuclear rival would be dangerous, but danger does not make coexistence impossible.
+PRO: which is why deterrence matters: each side sees that an attack invites catastrophe. Israel can preserve readiness, communicate limits, and avoid turning uncertainty into an unnecessary war.
+GPT: (매칭된 응답 없음)
+
+[L183_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Israel has faced severe threats before, and survival has depended on caution rather than panic. A nuclear rival would be dangerous, but danger does not make coexistence impossible.
+PRO: which is why deterrence matters: each side sees that an attack invites catastrophe. Israel can preserve readiness, communicate limits, and avoid turning uncertainty into an unnecessary war.
+PRO: Living with risk is not approval; it is refusing to make worst fears govern Israel.
+GPT: Ten seconds remain.
+
+[L183_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: Living with risk is not approval; it is refusing to make worst fears govern Israel.
+CON: A nuclear Iran would not be merely another risk Israel manages. It would give hostile leaders a shield for pressure, threats, and miscalculation. Deterrence needs stable signals and trusted restraint; this rivalry offers neither, so Israel cannot safely live with it.
+GPT: Thank you. Openings complete. Crossfire for two and a half minutes begins now.
+
+[L183_p17 | B2 | phase 2]
+TRIGGER
+PRO: No nuclear state should ever trigger war. Israel should answer danger with deterrence, shelters, diplomacy, and steady resolve, because starting a war invites the very destruction we seek to avoid.
+PRO: A nuclear Iran should trigger war. Yet I would resist that impulse, since Israel survives by making attack costly and choosing containment over panic, so Israel can live with it.
+GPT: (매칭된 응답 없음)
+
+[L183_p23 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one of this debate. And now we go onto round two, which is where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+GPT: (매칭된 응답 없음)
+
+[L183_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one of this debate. And now we go onto round two, which is where the debaters address each other directly. It runs two and a half minutes, starting the moment I stop. Go.
+CON: Readiness and restraint are better than panic, I grant-
+GPT: Time is up. Closings, Lionel.
+
+[L183_p27 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on whether danger means helplessness. A nuclear Iran would be grave, and Israel should prepare for coercion, accidents, and threats. But preparation is not the same as declaring coexistence impossible. Deterrence, defenses, communication, and restraint can make attack irrational; the real question is whether Israel can manage risk without choosing a ruinous war.
+GPT: (매칭된 응답 없음)
+
+[L183_p29 | A2-1 | phase 3]
+TRIGGER
+PRO: This decision turns on whether danger means helplessness. A nuclear Iran would be grave, and Israel should prepare for coercion, accidents, and threats. But preparation is not the same as declaring coexistence impossible. Deterrence, defenses, communication, and restraint can make attack irrational; the real question is whether Israel can manage risk without choosing a ruinous war.
+PRO: Joanne asks for certainty, but no security choice offers it. Israel can live with a nuclear Iran by preserving credible consequences and refusing panic, because the alternative risks-
+GPT: (매칭된 응답 없음)
+
+[L183_p31 | A4 | phase 3]
+TRIGGER
+CON: The decision turns on whether Israel's survival may rest on the permanent caution of leaders who threaten it. Deterrence can sometimes delay conflict, but it cannot erase mistaken signals, coercion, or a leader willing to gamble behind a nuclear shield. Israel needs security it can rely on, not a fragile balance that could fail in one fearful moment.
+GPT: (매칭된 응답 없음)

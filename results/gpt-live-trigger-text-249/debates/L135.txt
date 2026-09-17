@@ -1,0 +1,51 @@
+L135 — Big cities are past their prime.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L135_p03 | A5 | phase 1]
+TRIGGER
+PRO: Big cities once offered unmatched access and energy. But daily life now brings crushing commutes, strained services, and housing that pushes ordinary families outward.
+CON: Hold on, that leaves out the people building careers-
+GPT: Jack, please hold. Norman, the floor is yours.
+
+[L135_p05 | A4 | phase 1]
+TRIGGER
+PRO: Big cities once offered unmatched access and energy. But daily life now brings crushing commutes, strained services, and housing that pushes ordinary families outward.
+PRO: and leave local shops without regular customers. A city past its prime is not empty; it is a place where basic stability costs too much.
+GPT: (매칭된 응답 없음)
+
+[L135_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Big cities once offered unmatched access and energy. But daily life now brings crushing commutes, strained services, and housing that pushes ordinary families outward.
+PRO: and leave local shops without regular customers. A city past its prime is not empty; it is a place where basic stability costs too much.
+PRO: When opportunity requires exhaustion and displacement, the city's celebrated energy has become a burden.
+GPT: Thank you. Jack, your opening statement.
+
+[L135_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: When opportunity requires exhaustion and displacement, the city's celebrated energy has become a burden.
+CON: My opponent treats pressure as decline, but pressure often means people still see possibility. Big cities concentrate work, culture, transit, and different communities in ways smaller places cannot easily match. Their problems demand repair, not a verdict that their best days are over.
+GPT: Thank you. We now move to the crossfire. Two and a half minutes total, starting now.
+
+[L135_p23 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L135_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. And now we move on to the second round, which is a much more freewheeling conversation. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: Your family point is weakest because cities offer parks, schools, clinics, and nearby-
+GPT: (매칭된 응답 없음)
+
+[L135_p27 | A4 | phase 3]
+TRIGGER
+PRO: Cities once promised that effort could bring a secure, connected life. My strongest point is simple: when ordinary workers must travel far or leave entirely to afford a home, that promise has failed. Culture and services remain, but they cannot substitute for stability. A place that excludes the people who sustain it is already losing its prime.
+GPT: (매칭된 응답 없음)
+
+[L135_p29 | A2-1 | phase 3]
+TRIGGER
+PRO: Cities once promised that effort could bring a secure, connected life. My strongest point is simple: when ordinary workers must travel far or leave entirely to afford a home, that promise has failed. Culture and services remain, but they cannot substitute for stability. A place that excludes the people who sustain it is already losing its prime.
+PRO: Cities can adapt, but adaptation is not success. Residents face today's cost, not tomorrow's proposal. Until a city makes room for workers and families who keep it alive-
+GPT: Time is up. Jack, your closing statement.

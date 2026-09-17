@@ -1,0 +1,54 @@
+L093 — Afghanistan is a lost cause.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L093_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Afghanistan has endured shattered institutions, fear, and repeated promises that collapse when support fades. Calling it lost is not cruelty; it recognizes that outside plans cannot manufacture trust or durable authority. Until basic security and accountable rule exist, rescue slogans only prolong dependence and disappointment.
+GPT: Colin, you have the floor.
+
+[L093_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Afghanistan has endured shattered institutions, fear, and repeated promises that collapse when support fades. Calling it lost is not cruelty; it recognizes that outside plans cannot manufacture trust or durable authority. Until basic security and accountable rule exist, rescue slogans only prolong dependence and disappointment.
+CON: Afghanistan is deeply damaged, but damaged is not lost. Families still educate children, settle disputes, trade, and protect one another despite danger. The motion erases their agency and treats a hard future as a finished verdict; that judgment abandons precisely the people whose choices can rebuild their country.
+GPT: Ten seconds remain. Thank you. We now move to crossfire for two and a half minutes.
+
+[L093_p11 | B1 | phase 2]
+TRIGGER
+CON: That question of force also shapes whether displaced families can reclaim homes after a conflict. Property papers may be missing, neighbors may disagree, and returning children need safe routes to school.
+GPT: Ten seconds remain.
+
+[L093_p18 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes round one. Now on to round two. It's our middle round. And it's where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: (매칭된 응답 없음)
+
+[L093_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes round one. Now on to round two. It's our middle round. And it's where the debaters address each other directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+CON: If Afghanistan is truly lost, why do you treat its-
+GPT: (매칭된 응답 없음)
+
+[L093_p22 | A4 | phase 3]
+TRIGGER
+PRO: My strongest point is the gap between individual courage and the power shaping the country. Families can endure, councils can negotiate, and children can return to school, yet each gain can be swept away by armed coercion. Calling Afghanistan lost recognizes the reality people are forced to live under. It also asks whether hope alone can
+GPT: (매칭된 응답 없음)
+
+[L093_p24 | A2-1 | phase 3]
+TRIGGER
+PRO: My strongest point is the gap between individual courage and the power shaping the country. Families can endure, councils can negotiate, and children can return to school, yet each gain can be swept away by armed coercion. Calling Afghanistan lost recognizes the reality people are forced to live under. It also asks whether hope alone can
+PRO: replace power. Hope matters, but it cannot secure courts, protect agreements, or prevent another collapse. Until those foundations exist, describing Afghanistan as anything but lost confuses wishful-
+GPT: (매칭된 응답 없음)
+
+[L093_p27 | A5 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on whether hardship cancels human agency. It does not: Afghanistan's future remains open wherever people protect one another and rebuild trust.
+PRO: You call agency enough, but agency-
+GPT: Time. That concludes the debate.
+
+[L093_p29 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on whether hardship cancels human agency. It does not: Afghanistan's future remains open wherever people protect one another and rebuild trust.
+CON: rebuild trust. A lost cause has no meaningful path at all, yet people keep creating paths through care, work, and local responsibility. Their efforts make the motion false.
+GPT: (매칭된 응답 없음)

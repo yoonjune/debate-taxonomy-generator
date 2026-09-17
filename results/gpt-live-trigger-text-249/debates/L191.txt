@@ -1,0 +1,56 @@
+L191 — Hunters conserve wildlife.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L191_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Hunters can fund habitat care, report damage, and support limits that keep animal populations healthy. Taking responsibility for wildlife is not only avoiding harm; it is protecting land and balance. That practical stewardship means hunters conserve wildlife.
+GPT: Thank you. Bernard, your opening statement.
+
+[L191_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Hunters can fund habitat care, report damage, and support limits that keep animal populations healthy. Taking responsibility for wildlife is not only avoiding harm; it is protecting land and balance. That practical stewardship means hunters conserve wildlife.
+CON: A hunter's central purpose is to kill an animal, not preserve it. Money or rules around hunting may sometimes help, but those benefits do not turn the act into conservation. Wildlife deserves protection without being treated as a target.
+GPT: Open crossfire now; two and a half minutes.
+
+[L191_p11 | B2 | phase 2]
+TRIGGER
+CON: No hunter ever conserves wildlife. A person who aims a weapon at an animal cannot honestly claim that taking its life is protection.
+CON: This hunter conserves wildlife. Still, one helpful act does not erase the violence at the center of hunting, so the motion remains false.
+GPT: Bernard, you’ve said 'no hunter ever and 'this hunter does.' Please reconcile that.
+
+[L191_p19 | A4xf | phase 2]
+TRIGGER
+MOD: Thank you, Bernard. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L191_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: Thank you, Bernard. All right, we're gonna move on to our second round, and in our second round we have more of a free-flowing conversation. You have two and a half minutes, starting when I stop talking.
+PRO: Your weakest claim is that concern cannot matter beside killing. Conservation concerns populations and habitat over time, so careful-
+GPT: (매칭된 응답 없음)
+
+[L191_p24 | A5 | phase 3]
+TRIGGER
+PRO: This decision turns on whether conservation means protecting whole wildlife communities, not pretending no animal ever dies. I was not claiming that every hunt is harmless;
+CON: So you admit killing animals protects them-
+GPT: Bernard,
+
+[L191_p26 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on whether conservation means protecting whole wildlife communities, not pretending no animal ever dies. I was not claiming that every hunt is harmless;
+PRO: I was saying responsible hunting is judged by its effect on populations and habitat. Rules, restraint, and direct care can protect the wildlife that remains.
+GPT: (매칭된 응답 없음)
+
+[L191_p28 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether conservation means protecting whole wildlife communities, not pretending no animal ever dies. I was not claiming that every hunt is harmless;
+PRO: I was saying responsible hunting is judged by its effect on populations and habitat. Rules, restraint, and direct care can protect the wildlife that remains.
+PRO: Choose the side that recognizes practical stewardship: hunters can conserve wildlife through responsible action.
+GPT: Thank you. Bernard,
+
+[L191_p30 | A4 | phase 3]
+TRIGGER
+CON: Ryan's best point is that hunters may clean habitat or obey limits. Those acts can help, but they are not the same as hunting, whose defining act removes animals and risks mistakes. Conservation should put wildlife's safety first, rather than making its survival depend on people who pursue it.
+GPT: (매칭된 응답 없음)

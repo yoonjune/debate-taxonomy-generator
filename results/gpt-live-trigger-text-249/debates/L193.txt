@@ -1,0 +1,52 @@
+L193 — Hollywood has fueled anti-Americanism abroad
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L193_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Hollywood exports more than entertainment; it exports a repeated picture of American life as violent, arrogant, and self-serving. Viewers abroad can reasonably mistake that selective picture for the country itself. That resentment is anti-Americanism, and the industry has helped fuel it.
+GPT: Thank you. Claudia, your opening.
+
+[L193_p04 | A4 | phase 1]
+TRIGGER
+CON: Films often criticize greed, cruelty, or war, but criticism is not a national message. Audiences know stories need villains and conflict; they do not treat every fictional scene as a report on ordinary people. Foreign resentment has many roots, including political choices and personal experience. Blaming Hollywood gives the industry an influence it does not deserve, and it excuses those deeper causes.
+GPT: Ten seconds remain.
+
+[L193_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Films often criticize greed, cruelty, or war, but criticism is not a national message. Audiences know stories need villains and conflict; they do not treat every fictional scene as a report on ordinary people. Foreign resentment has many roots, including political choices and personal experience. Blaming Hollywood gives the industry an influence it does not deserve, and it excuses those deeper causes.
+CON: Stories can influence a mood, but influence is not the same as causing hostility. The motion claims too much, so it should therefore fall.
+GPT: Thank you. We now move to crossfire. You may question each other and interrupt as needed. Time starts now.
+
+[L193_p09 | B1 | phase 2]
+TRIGGER
+PRO: That discussion also raises whether a fictional character's costume changes what visitors buy at themed shops. If a costume becomes popular, sellers copy it, and arguments over imitation can consume the whole conversation.
+GPT: Claudia, please bring it back to the motion.
+
+[L193_p15 | B2 | phase 2]
+TRIGGER
+PRO: Hollywood movies always fuel anti-Americanism abroad. When the same stereotypes recur for years, they teach viewers to connect American identity with contempt, violence, and domination, even when individual stories seem harmless.
+PRO: This Hollywood movie does not fuel anti-Americanism abroad. A gentle story showing generous neighbors can leave foreign viewers warmer toward Americans, yet the industry's wider pattern still fuels resentment in many viewers.
+GPT: Time's up. We'll have closing statements, Annie then Claudia, thirty seconds each. Annie.
+
+[L193_p20 | A4xf | phase 2]
+TRIGGER
+MOD: And now we move on to round two. Round two is where the debaters address each other. You have two and a half minutes, starting when I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L193_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: And now we move on to round two. Round two is where the debaters address each other. You have two and a half minutes, starting when I stop talking.
+PRO: I grant that repeated stereotypes can leave an ugly impression. But that initial impression can harden into distrust when no counter-image-
+GPT: Ten seconds remain.
+
+[L193_p24 | A2-2 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on whether repeated entertainment images can shape attitudes beyond the screen. They can: Hollywood's familiar portraits of Americans as brutal or smug supply raw material for distrust. It need not be the only cause to have fueled anti-Americanism abroad.
+GPT: Thank you. Claudia, your closing.
+
+[L193_p26 | A4 | phase 3]
+TRIGGER
+CON: Deciding this motion turns on causation, not on whether a troubling scene exists. Hollywood tells many kinds of stories, and audiences interpret them through their own knowledge, values, and experiences. A harsh fictional portrait may provoke criticism, sympathy, laughter, or nothing at all. The other side turns possibility into a verdict while ignoring the political conduct and personal encounters that shape attitudes.
+GPT: (매칭된 응답 없음)

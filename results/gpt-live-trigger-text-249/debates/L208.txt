@@ -1,0 +1,59 @@
+L208 — Taylor Swift deserves her billion-dollar fortune.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L208_p02 | A4 | phase 1]
+TRIGGER
+PRO: Deserving a fortune does not mean nobody else needs money. It means the person created value that willing listeners repeatedly chose to reward. She writes, performs, and builds experiences that matter to millions of individual fans. Their voluntary support is not an accident; it reflects effort, skill, risk, and a long relationship with an audience.
+GPT: (매칭된 응답 없음)
+
+[L208_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: Deserving a fortune does not mean nobody else needs money. It means the person created value that willing listeners repeatedly chose to reward. She writes, performs, and builds experiences that matter to millions of individual fans. Their voluntary support is not an accident; it reflects effort, skill, risk, and a long relationship with an audience.
+PRO: A large result can be surprising, but surprise is not proof of unfairness. If people freely pay for work, its creator may fairly receive the reward, and calling her wealth undeserved because-
+GPT: Ten seconds.
+
+[L208_p06 | A4 | phase 1]
+TRIGGER
+CON: Success shows popularity, not moral desert. A billion-dollar fortune reflects a system that can funnel vast rewards upward while many contributors and listeners carry the costs. Her talent may merit comfort and praise, yet no performance justifies control over resources on that scale. The question is fairness, not whether people enjoy the songs.
+GPT: Thank you.
+
+[L208_p08 | A3-1 | phase 2]
+TRIGGER
+CON: Success shows popularity, not moral desert. A billion-dollar fortune reflects a system that can funnel vast rewards upward while many contributors and listeners carry the costs. Her talent may merit comfort and praise, yet no performance justifies control over resources on that scale. The question is fairness, not whether people enjoy the songs.
+CON: When wealth becomes that concentrated, voluntary purchases alone cannot settle what anyone deserves.
+GPT: We'll move to We'll move to crossfire now, two and a half minutes starting now.
+
+[L208_p16 | B2 | phase 2]
+TRIGGER
+CON: No entertainer should ever deserve every dollar earned. A market price records power and scarcity, not a full moral contribution, and her enormous payout leaves too little recognition and security for the people whose labor supports it.
+CON: Taylor Swift should deserve every dollar earned. That does not settle the motion, because a billion-dollar fortune includes leverage from a system that turns ordinary purchases into outsized control, so I oppose calling it deserved.
+GPT: Ten seconds remain.
+
+[L208_p21 | A4xf | phase 2]
+TRIGGER
+MOD: That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L208_p22 | A3-2 | phase 3]
+TRIGGER
+MOD: That concludes opening statements. We are about to enter into the part of the debate where the debaters address each other directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+MOD: Ten.
+GPT: Time is up. We'll move to closing statements, Andreas first.
+
+[L208_p24 | A4 | phase 3]
+TRIGGER
+PRO: This decision turns on whether earned, voluntary support can make a large reward deserved. Nina rightly asks us to care about inequality, but concern is not evidence that this creator took what was not hers. Listeners chose the work, returned to it, and paid for it. That is the moral link between contribution and reward.
+GPT: (매칭된 응답 없음)
+
+[L208_p26 | A2-2 | phase 3]
+TRIGGER
+PRO: This decision turns on whether earned, voluntary support can make a large reward deserved. Nina rightly asks us to care about inequality, but concern is not evidence that this creator took what was not hers. Listeners chose the work, returned to it, and paid for it. That is the moral link between contribution and reward.
+PRO: Her fortune follows value freely exchanged, so the fair verdict is that she deserves it.
+GPT: Ten seconds.
+
+[L208_p28 | A4 | phase 3]
+TRIGGER
+CON: The decision turns not on whether she worked hard, but whether popularity can justify extreme private command over shared resources. I granted that artists may deserve payment. Yet payment is not the same as a billion-dollar fortune. When markets magnify attention into overwhelming wealth, calling the result deserved confuses choice with justice. The motion should fail because fairness has limits.
+GPT: (매칭된 응답 없음)

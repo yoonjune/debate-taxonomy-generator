@@ -1,0 +1,59 @@
+L186 — Arab women should have full equality with men
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L186_p02 | A4 | phase 1]
+TRIGGER
+PRO: Full equality means equal standing before law, equal access to learning, work, property, and public decisions. It does not erase faith, family, or personal choice. Across Arab communities, women have different lives, yet none should need permission to direct her own future. A society gains when every adult can contribute without an imposed ceiling.
+GPT: Ten seconds remain.
+
+[L186_p04 | A2-2 | phase 1]
+TRIGGER
+PRO: Full equality means equal standing before law, equal access to learning, work, property, and public decisions. It does not erase faith, family, or personal choice. Across Arab communities, women have different lives, yet none should need permission to direct her own future. A society gains when every adult can contribute without an imposed ceiling.
+PRO: Equal rights also protect women who choose family-centered lives, because a choice matters only when alternatives are genuinely open. Equality is the safeguard for every path.
+GPT: Time. Thank you, Genevieve. Gloria, you’re next.
+
+[L186_p06 | A4 | phase 1]
+TRIGGER
+CON: The motion treats equality as though one model fits every Arab woman. I oppose imposing a single social blueprint from outside families and communities. Many women value distinct responsibilities, religious commitments, and negotiated household roles. Respect means listening when they define dignity differently, rather than declaring their choices inferior. Legal protection matters, but full sameness is not liberation.
+GPT: Ten seconds remain.
+
+[L186_p08 | A1 | phase 1]
+TRIGGER
+CON: The motion treats equality as though one model fits every Arab woman. I oppose imposing a single social blueprint from outside families and communities. Many women value distinct responsibilities, religious commitments, and negotiated household roles. Respect means listening when they define dignity differently, rather than declaring their choices inferior. Legal protection matters, but full sameness is not liberation.
+CON: Women need safety, education, and a voice. Yet calling every difference oppression can make policy dismiss caregiving and communal obligations that some freely embrace. The question is-
+GPT: Time. We now move to crossfire, two and a half minutes, where both may question and interrupt each other.
+
+[L186_p09 | A3-1 | phase 2]
+TRIGGER
+CON: The motion treats equality as though one model fits every Arab woman. I oppose imposing a single social blueprint from outside families and communities. Many women value distinct responsibilities, religious commitments, and negotiated household roles. Respect means listening when they define dignity differently, rather than declaring their choices inferior. Legal protection matters, but full sameness is not liberation.
+CON: Women need safety, education, and a voice. Yet calling every difference oppression can make policy dismiss caregiving and communal obligations that some freely embrace. The question is-
+GPT: Time. We now move to crossfire, two and a half minutes, where both may question and interrupt each other.
+
+[L186_p22 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. And now we move onto round two, and in round two the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+GPT: Time.
+
+[L186_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. And now we move onto round two, and in round two the debaters address one another directly. You get two and a half minutes from the moment I finish speaking. I will give you a ten-second warning.
+PRO: Consider a woman who wants to open-
+GPT: (매칭된 응답 없음)
+
+[L186_p26 | A4 | phase 3]
+TRIGGER
+PRO: Tonight, the other side accepted that women should not be blocked solely because they are female. That principle is equality, not sameness. Equal status gives a woman authority over her work, movement, property, and future; it never orders her to abandon family, faith, or care. Without that status, voluntary choices rest on unequal power. This debate turns on who holds final legal authority.
+GPT: (매칭된 응답 없음)
+
+[L186_p28 | A2-1 | phase 3]
+TRIGGER
+PRO: Tonight, the other side accepted that women should not be blocked solely because they are female. That principle is equality, not sameness. Equal status gives a woman authority over her work, movement, property, and future; it never orders her to abandon family, faith, or care. Without that status, voluntary choices rest on unequal power. This debate turns on who holds final legal authority.
+PRO: Full equality leaves room for peaceful commitments because it makes them voluntary. The alternative calls unequal power tradition when it is familiar-
+GPT: Time. Gloria, your closing statement.
+
+[L186_p30 | A4 | phase 3]
+TRIGGER
+CON: My strongest point is simple: dignity cannot be delivered by treating women as one category with one approved life. I support protection against coercion and fair access to opportunity. But this motion's promise of full equality can turn differences freely valued by women into defects to correct. A just society must protect choice, including choices that do not mirror men. The question is who defines equality.
+GPT: (매칭된 응답 없음)

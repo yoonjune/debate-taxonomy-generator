@@ -1,0 +1,59 @@
+L149 — It's time to end the War on Terror.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L149_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: The War on Terror became a permanent frame for violence, secrecy, and fear. Ending it does not mean ignoring danger; it means replacing endless war with focused law, defense, and accountable choices. A country is safer when emergency powers no longer define ordinary life.
+GPT: Thank you. Genevieve, your thirty seconds.
+
+[L149_p05 | A4 | phase 1]
+TRIGGER
+CON: Calling it an endless war confuses a label with a duty. The threat adapts, and ending the campaign would signal that sustained protection is optional. We need oversight, certainly, but oversight should improve the effort, not dissolve it while violent networks still seek room to organize and strike.
+CON: Ending the War on Terror now would abandon a necessary shield against continuing danger.
+GPT: (매칭된 응답 없음)
+
+[L149_p06 | A3-1 | phase 2]
+TRIGGER
+CON: Calling it an endless war confuses a label with a duty. The threat adapts, and ending the campaign would signal that sustained protection is optional. We need oversight, certainly, but oversight should improve the effort, not dissolve it while violent networks still seek room to organize and strike.
+CON: Ending the War on Terror now would abandon a necessary shield against continuing danger.
+GPT: Thank you. We now move to crossfire, two and a half minutes, both may ask and interrupt. Time starts... now.
+
+[L149_p09 | B1 | phase 2]
+TRIGGER
+CON: The real issue is whether public budgets should favor patrols or schools, clinics, and housing. Families need steady services, workers need secure wages, and leaders should stop pouring resources into costly equipment.
+GPT: Genevieve, that's a move away from the motion. Please return to whether it's time to end the War on Terror.
+
+[L149_p15 | B2 | phase 2]
+TRIGGER
+CON: No security campaign should ever end while threats remain. Ending the War on Terror would tell those planning violence that our resolve expires before their intent does, so the motion is dangerously premature.
+CON: This security campaign should end. A dangerous group that has lost its leaders should not keep one operation alive; we should not end the wider War on Terror because other threats remain.
+GPT: One moment, Genevieve, you've said no security campaign should ever end while threats remain, and also that this security campaign should end. How do those fit together?
+
+[L149_p19 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes opening statements in this debate. And now we move on to Round two. In Round two, the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: (매칭된 응답 없음)
+
+[L149_p21 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes opening statements in this debate. And now we move on to Round two. In Round two, the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+PRO: Your weakest claim is that a label creates coordination. People coordinate through clear duties-
+GPT: (매칭된 응답 없음)
+
+[L149_p23 | A2-2 | phase 3]
+TRIGGER
+PRO: The strongest point is simple: security can continue without permanent war. We can use focused defense, lawful coordination, and real oversight while refusing a label that licenses endless exceptions. Ending the War on Terror restores limits without abandoning protection. That is the safer course.
+GPT: Time for crossfire. We move to closing statements. Chuck, your thirty seconds.
+
+[L149_p25 | A4 | phase 3]
+TRIGGER
+CON: Chuck says ordinary coordination can replace the War on Terror, but that assumes threats wait neatly inside ordinary boundaries. They do not. A shared mission gives people a reason to connect warnings, act early, and sustain attention when danger is easy to forget. Reform can curb abuse, yet ending the framework risks a gap that those threats will use.
+GPT: (매칭된 응답 없음)
+
+[L149_p27 | A1 | phase 3]
+TRIGGER
+CON: Chuck says ordinary coordination can replace the War on Terror, but that assumes threats wait neatly inside ordinary boundaries. They do not. A shared mission gives people a reason to connect warnings, act early, and sustain attention when danger is easy to forget. Reform can curb abuse, yet ending the framework risks a gap that those threats will use.
+CON: We should demand limits, clear authority, and accountability, but those are reasons to repair the campaign, not erase it. Ending it sends the wrong signal while dangers still adapt-
+GPT: Ten seconds.

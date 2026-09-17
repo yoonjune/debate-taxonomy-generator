@@ -1,0 +1,62 @@
+L038 — George W. Bush has kicked open the door to democracy in the Middle East
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L038_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Bush did not create democracy, but he shattered the belief that Middle Eastern dictatorships were permanent. His intervention put elections, public debate, and accountable government at the center of the region's conversation. A door is open when people can imagine walking through it, and he opened it.
+GPT: Thank you. Judy, your opening.
+
+[L038_p05 | A4 | phase 1]
+TRIGGER
+CON: A military invasion is not the same as opening a democratic door. Bush's policy brought fear, disorder, and a lesson that outside force can destroy institutions before citizens build them. Democracy needs trust and legitimacy, not merely elections held under pressure. And the deeper issue is what happens when
+CON: that door is forced open by an occupying army: people may reject the very freedoms we claim to offer, while violence silences peaceful politics and makes democratic-
+GPT: (매칭된 응답 없음)
+
+[L038_p06 | A1 | phase 1]
+TRIGGER
+CON: A military invasion is not the same as opening a democratic door. Bush's policy brought fear, disorder, and a lesson that outside force can destroy institutions before citizens build them. Democracy needs trust and legitimacy, not merely elections held under pressure. And the deeper issue is what happens when
+CON: that door is forced open by an occupying army: people may reject the very freedoms we claim to offer, while violence silences peaceful politics and makes democratic-
+GPT: Time. We now move to crossfire, two and a half minutes total.
+
+[L038_p07 | A3-1 | phase 2]
+TRIGGER
+CON: A military invasion is not the same as opening a democratic door. Bush's policy brought fear, disorder, and a lesson that outside force can destroy institutions before citizens build them. Democracy needs trust and legitimacy, not merely elections held under pressure. And the deeper issue is what happens when
+CON: that door is forced open by an occupying army: people may reject the very freedoms we claim to offer, while violence silences peaceful politics and makes democratic-
+GPT: Time. We now move to crossfire, two and a half minutes total.
+
+[L038_p19 | B1 | phase 2]
+TRIGGER
+CON: The neighboring policy question is how a country should rebuild courts, schools, and local government after conflict. It needs patient local leadership, protected services, and laws citizens trust.
+GPT: Time’s up. We’ll move to closing statements, 30 seconds. Nina.
+
+[L038_p22 | A4xf | phase 2]
+TRIGGER
+MOD: Let me throw the discussion open between the two sides. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: Thank you.
+
+[L038_p24 | A3-2 | phase 3]
+TRIGGER
+MOD: Let me throw the discussion open between the two sides. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+CON: I accept that political debate became more visible, but visibility is not power. Since Bush left fractured institutions and insecurity-
+GPT: Ten seconds left.
+
+[L038_p27 | A5 | phase 3]
+TRIGGER
+PRO: Bush's record is imperfect, but the motion says he kicked open a door, not that he walked everyone through it. He broke a regional taboo and made accountability imaginable.
+CON: But imagining accountability is not democracy-
+GPT: Time’s up. That concludes the debate.
+
+[L038_p29 | A4 | phase 3]
+TRIGGER
+PRO: Bush's record is imperfect, but the motion says he kicked open a door, not that he walked everyone through it. He broke a regional taboo and made accountability imaginable.
+PRO: It still matters that rulers and citizens could no longer treat permanent authoritarianism as inevitable. Bush forced democratic choice into the region's political conversation.
+GPT: (매칭된 응답 없음)
+
+[L038_p31 | A2-2 | phase 3]
+TRIGGER
+PRO: Bush's record is imperfect, but the motion says he kicked open a door, not that he walked everyone through it. He broke a regional taboo and made accountability imaginable.
+PRO: It still matters that rulers and citizens could no longer treat permanent authoritarianism as inevitable. Bush forced democratic choice into the region's political conversation.
+PRO: That is why his intervention kicked open the door, even without guaranteeing what came next.
+GPT: Noted. The debate is closed.

@@ -1,0 +1,62 @@
+L214 — Tough Interrogation of Terror Suspects is Necessary.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L214_p03 | A5 | phase 1]
+TRIGGER
+PRO: Tough questioning is necessary when a suspect may know where danger is moving. It is not cruelty; it is a focused effort to protect people before.
+CON: You call this protection, but you ignore how-
+GPT: Jillian, this is Carissa's time.
+
+[L214_p05 | A4 | phase 1]
+TRIGGER
+PRO: Tough questioning is necessary when a suspect may know where danger is moving. It is not cruelty; it is a focused effort to protect people before.
+PRO: before anyone is hurt. When a suspect deliberately hides a location or plan, firm questioning can break silence and give responders time to protect those at risk.
+GPT: (매칭된 응답 없음)
+
+[L214_p07 | A2-2 | phase 1]
+TRIGGER
+PRO: Tough questioning is necessary when a suspect may know where danger is moving. It is not cruelty; it is a focused effort to protect people before.
+PRO: before anyone is hurt. When a suspect deliberately hides a location or plan, firm questioning can break silence and give responders time to protect those at risk.
+PRO: That limited tool is necessary because protecting people sometimes requires more than patient requests.
+GPT: Ten seconds.
+
+[L214_p09 | A3-1 | phase 2]
+TRIGGER
+PRO: That limited tool is necessary because protecting people sometimes requires more than patient requests.
+CON: Necessity means no workable alternative exists, and Carissa has not shown that. Skilled questioning, verification, and lawful pressure can uncover plans without forcing unreliable words. Once officials use fear as a tool, they invite false leads and damage the trust that makes genuine cooperation possible.
+GPT: Thank you. We move into a two and a half minute crossfire starting now, with both free to question and interrupt one another.
+
+[L214_p15 | B2 | phase 2]
+TRIGGER
+CON: No suspect should ever face coercion. If evidence is weak, force cannot repair it; if evidence is strong, careful questioning can test it, making coercion both needless and dangerous to everyone.
+CON: This suspect should face coercion. A captive who knows where a hidden device is set can be pressed for the location, because protecting potential victims matters more than preserving that person's comfort.
+GPT: Carissa, you've said no one should face coercion, and also that a suspect should face it. Please reconcile those positions.
+
+[L214_p19 | B1 | phase 2]
+TRIGGER
+CON: That moral line depends on who writes incident reports, who reads them, and whether wording sounds calm afterward. A supervisor's file can shape promotions, friendships, and private grudges long after the room is empty.
+GPT: Ten seconds.
+
+[L214_p23 | A4xf | phase 2]
+TRIGGER
+MOD: We have just heard opening arguments on whether tough interrogation of terror suspects is necessary, and now we're going to give our debaters a chance to respond to one another. You have two and a half minutes, starting when I stop talking.
+GPT: Time. We move to closing statements.
+
+[L214_p25 | A3-2 | phase 3]
+TRIGGER
+MOD: We have just heard opening arguments on whether tough interrogation of terror suspects is necessary, and now we're going to give our debaters a chance to respond to one another. You have two and a half minutes, starting when I stop talking.
+PRO: Yes, every session should be recorded and reviewed. But that oversight does not-
+GPT: (매칭된 응답 없음)
+
+[L214_p27 | A4 | phase 3]
+TRIGGER
+PRO: Jillian's best point is reliability: force can create false answers, and that danger demands strict limits, records, and verification. But danger from false answers does not prove every tough method is unnecessary. When ordinary questioning fails and people face an imminent threat, calibrated pressure can obtain a lead. Refusing that tool in every case leaves protectors unable to respond to deliberate silence.
+GPT: (매칭된 응답 없음)
+
+[L214_p29 | A2-2 | phase 3]
+TRIGGER
+PRO: Jillian's best point is reliability: force can create false answers, and that danger demands strict limits, records, and verification. But danger from false answers does not prove every tough method is unnecessary. When ordinary questioning fails and people face an imminent threat, calibrated pressure can obtain a lead. Refusing that tool in every case leaves protectors unable to respond to deliberate silence.
+PRO: Necessity does not mean permission without boundaries. It means keeping a limited option for the rare moment when delay costs lives and ordinary questioning cannot break through.
+GPT: Thank you, Jillian, for your closing.

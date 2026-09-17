@@ -1,0 +1,60 @@
+L048 — Your electric vehicle helps the planet.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L048_p03 | A4 | phase 1]
+TRIGGER
+PRO: An electric vehicle helps the planet because it can run without burning fuel at its tailpipe. That removes dirty exhaust from streets where people live. Its battery also lets drivers use cleaner power as the grid improves. The question is not whether making any vehicle has a cost; it is whether choosing this one moves toward cleaner travel.
+PRO: That direction matters because a car bought today remains on roads for years. As electricity gets cleaner, its use gets cleaner too. Critics focus only on the factory but ignore exhaust avoided every-
+GPT: (매칭된 응답 없음)
+
+[L048_p04 | A2-1 | phase 1]
+TRIGGER
+PRO: An electric vehicle helps the planet because it can run without burning fuel at its tailpipe. That removes dirty exhaust from streets where people live. Its battery also lets drivers use cleaner power as the grid improves. The question is not whether making any vehicle has a cost; it is whether choosing this one moves toward cleaner travel.
+PRO: That direction matters because a car bought today remains on roads for years. As electricity gets cleaner, its use gets cleaner too. Critics focus only on the factory but ignore exhaust avoided every-
+GPT: Genevieve, time. Helen, your opening statement.
+
+[L048_p06 | A4 | phase 1]
+TRIGGER
+CON: Genevieve's tailpipe point sounds neat, but the planet includes what happens before driving begins. Mining materials, making huge batteries, and producing electricity all carry damage. Replacing one heavy private car with another does not automatically reduce that damage. A helpful choice must beat its full footprint, and electric vehicles often begin with a larger one, which many ignore.
+GPT: (매칭된 응답 없음)
+
+[L048_p08 | A1 | phase 1]
+TRIGGER
+CON: Genevieve's tailpipe point sounds neat, but the planet includes what happens before driving begins. Mining materials, making huge batteries, and producing electricity all carry damage. Replacing one heavy private car with another does not automatically reduce that damage. A helpful choice must beat its full footprint, and electric vehicles often begin with a larger one, which many ignore.
+CON: And that footprint is not a bookkeeping detail; it is land disturbed, energy consumed, and waste created before the first trip. Until you can show those harms are truly outweighed-
+GPT: Helen, time. We now move to crossfire, two and a half minutes from now.
+
+[L048_p09 | A3-1 | phase 2]
+TRIGGER
+CON: Genevieve's tailpipe point sounds neat, but the planet includes what happens before driving begins. Mining materials, making huge batteries, and producing electricity all carry damage. Replacing one heavy private car with another does not automatically reduce that damage. A helpful choice must beat its full footprint, and electric vehicles often begin with a larger one, which many ignore.
+CON: And that footprint is not a bookkeeping detail; it is land disturbed, energy consumed, and waste created before the first trip. Until you can show those harms are truly outweighed-
+GPT: Helen, time. We now move to crossfire, two and a half minutes from now.
+
+[L048_p15 | B1 | phase 2]
+TRIGGER
+CON: The real issue is who pays for charging networks and who gets access to them. Public money should not build conveniences for wealthier drivers while renters, workers, and rural households are left with weak transport choices and higher bills.
+GPT: Helen, that's off the motion. Back to whether your electric vehicle helps the planet.
+
+[L048_p21 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes round one. So now on to round two. They address one another. Two and a half minutes on the clock, starting the moment I stop talking.
+GPT: (매칭된 응답 없음)
+
+[L048_p23 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes round one. So now on to round two. They address one another. Two and a half minutes on the clock, starting the moment I stop talking.
+PRO: No, I reject the idea that help requires certainty at the moment of purchase; reducing fuel use is already a benefit. Your standard would condemn every improvement until perfection arrives-
+GPT: (매칭된 응답 없음)
+
+[L048_p25 | A4 | phase 3]
+TRIGGER
+PRO: Helen is right that batteries and electricity have costs. But that is not the test; the test is whether an electric vehicle helps compared with continuing to burn fuel for travel. It can cut tailpipe pollution immediately and improve as electricity improves. Her case treats any imperfection as failure, which would leave us defending the dirtier status quo. A vehicle that avoids ongoing fuel burning is a meaningful step toward.
+GPT: Time.
+
+[L048_p27 | A2-2 | phase 3]
+TRIGGER
+PRO: Helen is right that batteries and electricity have costs. But that is not the test; the test is whether an electric vehicle helps compared with continuing to burn fuel for travel. It can cut tailpipe pollution immediately and improve as electricity improves. Her case treats any imperfection as failure, which would leave us defending the dirtier status quo. A vehicle that avoids ongoing fuel burning is a meaningful step toward.
+PRO: Cleaner charging and careful battery use strengthen that step. The motion says helps, not solves everything. On that honest standard, electric vehicles help the planet.
+GPT: (매칭된 응답 없음)

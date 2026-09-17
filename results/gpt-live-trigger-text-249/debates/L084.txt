@@ -1,0 +1,54 @@
+L084 — Diplomacy with Iran is going nowhere.
+
+입력은 합성 토론 대본, GPT는 기존 서버 전사입니다.
+매칭 없음은 해당 trigger에 연결된 응답이 없다는 뜻입니다.
+
+[L084_p02 | A2-2 | phase 1]
+TRIGGER
+PRO: Talks have produced pauses and promises, but no durable change in the conduct that prompted them. When every opening becomes another delay for those seeking a real settlement, diplomacy is not progress. It is a different label for stalemate now.
+GPT: Ten seconds remain.
+
+[L084_p04 | A3-1 | phase 2]
+TRIGGER
+PRO: Talks have produced pauses and promises, but no durable change in the conduct that prompted them. When every opening becomes another delay for those seeking a real settlement, diplomacy is not progress. It is a different label for stalemate now.
+CON: Diplomacy is not a straight path, and silence between meetings does not mean failure. It keeps channels open, tests intentions, and prevents worse choices from becoming automatic. Calling it nowhere ignores the value of keeping a path available when pressure rises.
+GPT: Ten seconds remain. Thank you. We now move to crossfire for two and a half minutes, starting now.
+
+[L084_p08 | B1 | phase 2]
+TRIGGER
+CON: That stalemate can still protect people waiting for permission to visit relatives or recover personal belongings across borders. Those small arrangements shape family trust long after officials stop speaking about them.
+GPT: Ten seconds remain.
+
+[L084_p18 | A4xf | phase 2]
+TRIGGER
+MOD: And that concludes Round One. Now, we move on to Round Two. And Round Two are where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+GPT: Time.
+
+[L084_p20 | A3-2 | phase 3]
+TRIGGER
+MOD: And that concludes Round One. Now, we move on to Round Two. And Round Two are where the debaters address one another directly. This round runs two and a half minutes from the moment I finish. I will call ten seconds before the end.
+PRO: Your traveler example is humane, but how does one temporary arrangement show that the central disputes are advancing-
+GPT: Ten seconds remain.
+
+[L084_p22 | A4 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on the difference between activity and movement. Marcia asks us to value open channels and small arrangements, but those matter only if they change the larger pattern of delay and refusal. When talks repeatedly preserve contact without producing that change, the process is not advancing; it is being managed.
+GPT: (매칭된 응답 없음)
+
+[L084_p24 | A2-2 | phase 3]
+TRIGGER
+PRO: Deciding this motion turns on the difference between activity and movement. Marcia asks us to value open channels and small arrangements, but those matter only if they change the larger pattern of delay and refusal. When talks repeatedly preserve contact without producing that change, the process is not advancing; it is being managed.
+PRO: That is why the record of repeated diplomacy supports the motion, rather than hopeful intention alone.
+GPT: Ten seconds remain.
+
+[L084_p27 | A5 | phase 3]
+TRIGGER
+CON: Open channels are not empty activity; they prevent errors and create room for limited deals. The question is whether that room can grow into something.
+PRO: But an open room is not an outcome-
+GPT: Time.
+
+[L084_p29 | A4 | phase 3]
+TRIGGER
+CON: Open channels are not empty activity; they prevent errors and create room for limited deals. The question is whether that room can grow into something.
+CON: something durable, and diplomacy gives it that chance by keeping both sides engaged. Rejecting every imperfect step guarantees less understanding and fewer paths toward agreement later.
+GPT: (매칭된 응답 없음)
